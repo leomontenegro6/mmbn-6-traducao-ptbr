@@ -8,7 +8,7 @@ array_shift($arguments);
 $arguments = array_map('trim', $arguments);
 $version = $arguments[0] ?? 'v';
 
-if (!in_array($version, ['c', 'p', 'cc', 'pc'])) {
+if (!in_array($version, ['g', 'f', 'gc', 'fc'])) {
     echo "Versão inválida. Use:\n";
     echo "  g - Cyberbesta Gregar\n";
     echo "  f - Cyberbesta Falzar\n";

@@ -23,10 +23,10 @@ echo ==Gerando rom traduzida da versao Cyberbesta Gregar.
 echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Graficos==
-.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos_cybeast_gregar.asm
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 0
 
 echo ==Expandindo rom para 16mb==
-.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\expansor_rom.asm -strequ output "Cyberbesta Gregar"
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\expansor_rom.asm -equ versao 0
 
 echo Done.
 exit
@@ -41,10 +41,10 @@ echo ==Gerando rom traduzida da versao Cyberbesta Falzar.
 echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Graficos==
-.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos_cybeast_falzar.asm
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 1
 
 echo ==Expandindo rom para 16mb==
-.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\expansor_rom.asm -strequ output "Cyberbesta Falzar"
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\expansor_rom.asm -equ versao 1
 
 echo Done.
 exit

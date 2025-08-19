@@ -1,0 +1,9 @@
+;FonteTextosVwf equ 0x08
+FonteTextos equ 0x086ACDB8
+FonteTextosSombra equ 0x086A5D60
+FonteGrande equ 0x086B7AE0
+LicenciadoPelaNintendo equ 0x086C3FD4
+
+PonteiroLogoTelaTitulo equ 0x0802FD08
+PonteiroNomesTelaTitulo1 equ 0x0802FCD8
+PonteiroNomesTelaTitulo2 equ 0x0802FCF0

@@ -1,7 +1,15 @@
 :: Arquivo .bat que remonta as roms traduzidas.
+:: Por padrão, mostra o menu de escolha entre as versões Cyberbesta Gregar e Cyberbesta Falzar,
+:: mas pode ser chamado com parâmetros na linha de comando:
+:: -g para a versão Gregar
+:: -f para a versão Falzar
 @echo off
 cls
 echo ==Mega Man Battle Network 6
+
+if "%1"=="-g" goto gregar
+if "%1"=="-f" goto falzar
+
 echo Escolha a versao para gerar:
 echo g - Cybeast Gregar
 echo f - Cybeast Falzar

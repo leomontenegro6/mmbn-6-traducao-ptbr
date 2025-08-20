@@ -1,0 +1,3 @@
+A VWF tá num formato diferente do usado no mmbn4 e mmbn5.
+Ao invés de cada byte da tabela estar num word (4 bytes), dessa vez tá num byte só.
+Na rom do Gregar, tá no offset 0x43C74

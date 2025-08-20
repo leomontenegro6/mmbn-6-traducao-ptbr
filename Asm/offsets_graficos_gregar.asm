@@ -1,5 +1,5 @@
-;FonteTextosVwf equ 0x08
-FonteTextos equ 0x086AAD04
+FonteTextosVwf equ 0x08043C74
+FonteTextos equ 0x086AAD0C
 FonteTextosSombra equ 0x086A3CAC
 FonteGrande equ 0x086B5A2C
 LicenciadoPelaNintendo equ 0x086C1F20

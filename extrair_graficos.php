@@ -1,6 +1,6 @@
 <?php
 $graficos = [
-    (object)['nome' => 'Fonte textos', 'offset' => '0x6AAD04', 'tiles' => '1x1378'],
+    (object)['nome' => 'Fonte textos', 'offset' => '0x6AAD0C', 'tiles' => '1x1378'],
     (object)['nome' => 'Fonte textos sombra', 'offset' => '0x6A3CAC', 'tiles' => '16x56'],
     (object)['nome' => 'Fonte grande', 'offset' => '0x6B5A2C', 'tiles' => '16x56'],
     (object)['nome' => 'Licenciado pela Nintendo', 'offset' => '0x6C1F20', 'tiles' => '1x14'],

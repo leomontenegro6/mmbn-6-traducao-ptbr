@@ -11,8 +11,8 @@
 
 ; Gráficos descomprimidos, em seus respectivos offsets.
 ; Fontes dos textos acentuadas.
-;.org FonteTextosVwf
-;    .incbin "Graficos/Editados/Fonte textos (VWF).gba"
+.org FonteTextosVwf
+    .incbin "Graficos/Editados/Fonte textos (VWF).gba"
 .org FonteTextos
     .incbin "Graficos/Editados/Fonte textos.gba"
 .org FonteTextosSombra

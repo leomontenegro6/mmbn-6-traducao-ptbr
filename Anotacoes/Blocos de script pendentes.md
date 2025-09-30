@@ -8,6 +8,15 @@ Até o momento, o TTK só fez pra versão Gregar. E nem todos os blocos de texto
 
 Antes de podermos dar o kickstart na tradução do BN6, creio ser de bom tom que consigamos descobrir porque esses 19 blocos de texto estão falhando para serem extraídos, dar um jeito de extrair eles e garantir que eles sejam inseridos ingame como esperado.
 
+Segue abaixo detalhes de ada bloco de texto pendente ser corrigido.
+
+### 0x82b90c
+
+Alguns ponteiros de script levam para lugares bugados, então foi preciso editá-los direto na rom, indo no offset 0x82ba50 e alterando os próximos 12 bytes para:
+5B05 5B05 5B05 5B05 5B05 5B05
+
+Em seguida, foi preciso alterar o tamanho do bloco de texto, no "needfix.tpi" de 0x63B para 0x55B. Após isso, sua linha foi movida do arquivo "needfix.tpi" para o "execg.tpi", e então passou a ser possível dumpar esse bloco de texto.
+
 # Falzar
 
 TODO

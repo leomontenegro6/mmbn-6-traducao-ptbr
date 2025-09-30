@@ -1,0 +1,10 @@
+/*.gba
+/*.gba.bak
+/*.srl
+/*.ss*
+/*.sav
+/*.sa1
+/*.sa2
+/*.zip
+.env
+/Scripts/*.tpl

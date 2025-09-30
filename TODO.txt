@@ -1,0 +1,3 @@
+- Trazer edições da fonte da versão americana pra japonesa, junto da VWF
+- Editar tela-título
+- Editar menu exibido ao apertar Start

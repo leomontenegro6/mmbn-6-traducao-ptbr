@@ -1,0 +1,321 @@
+@archive 77C298
+@size 17
+
+script 0 mmbn6 {
+	msgOpen
+	jump
+		target = 10
+	end
+}
+script 1 mmbn6 {
+	msgOpen
+	"""
+	GVQビpu ZpJSIバ、
+	GVEnBY Og
+	GlNV HpInu SDN、
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"MVBHNu PC[BX]Kj"
+	keyWait
+		any = false
+	checkChip
+		chip = 86
+		amount = 1
+		jumpIfEqual = continue
+		jumpIfGreater = continue
+		jumpIfLess = 9
+	clearMsg
+	"「"
+	printChip
+		buffer = 0
+		chip = 86
+	"""
+	」 u
+	HIYq[・][・][・]
+	"""
+	keyWait
+		any = false
+	flagClear
+		flag = 3290
+	end
+}
+script 2 mmbn6 {
+	msgOpen
+	"""
+	CqS[ー]UッQ+んな█ばんだ
+	ApCqS[ー]UッQ2の
+	[M2][A2][P2]が ?"'だ;れて█る
+	"""
+	keyWait
+		any = false
+	startMap
+		map = 12
+	end
+}
+script 3 mmbn6 {
+	checkChapter
+		lower = 128
+		upper = 128
+		jumpIfInRange = 15
+		jumpIfOutOfRange = continue
+	checkChapter
+		lower = 84
+		upper = 87
+		jumpIfInRange = 15
+		jumpIfOutOfRange = continue
+	checkChapter
+		lower = 96
+		upper = 96
+		jumpIfInRange = 15
+		jumpIfOutOfRange = continue
+	jump
+		target = 14
+}
+script 4 mmbn6 {
+	checkFlag
+		flag = 3213
+		jumpIfTrue = 6
+		jumpIfFalse = continue
+	checkFlag
+		flag = 3209
+		jumpIfTrue = 7
+		jumpIfFalse = continue
+	checkFlag
+		flag = 3205
+		jumpIfTrue = 8
+		jumpIfFalse = continue
+	mugshotShow
+		mugshot = ChargeMan
+	msgOpen
+	"""
+	Nュポポ~[!]
+	・ぐに、はっ'ゃ・るぞ[!]
+	じゅんびは ██の,[?]
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotHide
+	positionOptionHorizontal
+		width = 8
+	option
+		brackets = 0
+		left = 1
+		right = 1
+		up = 0
+		down = 0
+	space
+		count = 1
+	"は█  "
+	option
+		brackets = 0
+		left = 0
+		right = 0
+		up = 1
+		down = 1
+	space
+		count = 1
+	"██:"
+	select
+		default = 0
+		BSeparate = false
+		disableB = false
+		clear = true
+		targets = [
+			jump = continue,
+			jump = 5,
+			jump = continue
+		]
+	flagSet
+		flag = 3223
+	end
+}
+script 5 mmbn6 {
+	mugshotShow
+		mugshot = ChargeMan
+	msgOpen
+	"""
+	じゅんびがで!たら
+	・ぐ、'ゅっぱ"・るぞ
+	"""
+	keyWait
+		any = false
+	end
+}
+script 6 mmbn6 {
+	mugshotShow
+		mugshot = ChargeMan
+	msgOpen
+	"""
+	プpzBAQ・るんだ
+	"ぎは ;█'ゅ?NFqだぞ
+	"""
+	keyWait
+		any = false
+	end
+}
+script 7 mmbn6 {
+	mugshotShow
+		mugshot = ChargeMan
+	msgOpen
+	"""
+	"ぎはKqQpmEnB3の
+	:!に█ーんだ
+	"""
+	keyWait
+		any = false
+	end
+}
+script 8 mmbn6 {
+	mugshotShow
+		mugshot = ChargeMan
+	msgOpen
+	"""
+	"ぎはOHCEnB2の
+	:!に█ーんだ
+	"""
+	keyWait
+		any = false
+	end
+}
+script 9 mmbn6s {
+	end
+}
+script 10 mmbn6 {
+	msgOpen
+	"""
+	GVEnBYBm YINdV
+	aVDV H[SP]u H[RV]Ej[・][・][・]
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"パOt[ー]ドを入力'てーだ;█\n"
+	option
+		brackets = 1
+		left = 3
+		right = 1
+		up = 0
+		down = 0
+	space
+		count = 1
+	menuOptionNumberTrader
+		char = 0
+	"0"
+	option
+		brackets = 1
+		left = 0
+		right = 2
+		up = 1
+		down = 1
+	space
+		count = 1
+	menuOptionNumberTrader
+		char = 1
+	"0"
+	option
+		brackets = 1
+		left = 1
+		right = 3
+		up = 2
+		down = 2
+	space
+		count = 1
+	menuOptionNumberTrader
+		char = 2
+	"0    "
+	option
+		brackets = 1
+		left = 2
+		right = 0
+		up = 3
+		down = 3
+	space
+		count = 1
+	"""
+	[O2][K2]
+	(左右でH[ー]Mm 上下で数字)
+	"""
+	menuSelectPassword
+		password = 2
+		jumpIfCorrect = 11
+		jumpIfIncorrect = 12
+		jumpIfCancelled = 13
+	end
+}
+script 11 mmbn6 {
+	msgOpen
+	"[・][・][・]QDmwjC"
+	keyWait
+		any = false
+	flagClear
+		flag = 3289
+	end
+}
+script 12 mmbn6 {
+	msgOpen
+	"[・][・][・]デXDOwjC"
+	keyWait
+		any = false
+	end
+}
+script 13 mmbn6 {
+	msgOpen
+	"[・][・][・]デXDOwjC"
+	keyWait
+		any = false
+	end
+}
+script 14 mmbn6 {
+	msgOpen
+	"電脳[bat]█じばんだ[・][・][・]"
+	keyWait
+		any = false
+	startBBS
+		bbs = 4
+	end
+}
+script 15 mmbn6 {
+	checkNaviAll
+		jumpIfMegaMan = continue
+		jumpIfHeatMan = 16
+		jumpIfElecMan = 16
+		jumpIfSlashMan = 16
+		jumpIfEraseMan = 16
+		jumpIfChargeMan = 16
+		jumpIfSpoutMan = 16
+		jumpIfTomahawkMan = 16
+		jumpIfTenguMan = 16
+		jumpIfGroundMan = 16
+		jumpIfDustMan = 16
+		jumpIfProtoMan = continue
+	jump
+		target = 14
+}
+script 16 mmbn6 {
+	checkFlag
+		flag = 3592
+		jumpIfTrue = 14
+		jumpIfFalse = continue
+	msgOpen
+	"電脳[bat]█じばんだ[・][・][・]"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	なにもの,によって
+	+ら;れて█て、
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	な█よ?を
+	よむ&とがで!な█[・][・][・]
+	"""
+	keyWait
+		any = false
+	end
+}

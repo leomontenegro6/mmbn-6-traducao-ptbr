@@ -1,3 +1,6 @@
 - Trazer edições da fonte da versão americana pra japonesa, junto da VWF
 - Editar tela-título
 - Editar menu exibido ao apertar Start
+
+Na rom do Gregar com English Patches, o offset inicial para inserção de assets traduzidos é 0x8FA808
+Na rom do Falzar com English Patches, o offset inicial para inserção de assets traduzidos é 0x911128

@@ -22,8 +22,8 @@ if "%ERRORLEVEL%" == "3" GOTO exit
 
 GOTO %ERRORLEVEL%
 :gregar
-::echo ==Unindo scripts .tpl avulsos no "script-cybeast-gregar.tpl"
-::php .\unir_scripts.php g
+echo ==Unindo scripts .tpl avulsos no "script-cybeast-gregar.tpl"
+php .\unir_scripts.php g
 
 echo ==Gerando rom traduzida da versao Cyberbesta Gregar.
 .\Ferramentas\TextPet.exe run-script insert-cybeast-gregar.tpl
@@ -40,8 +40,8 @@ echo Done.
 exit
 
 :falzar
-::echo ==Unindo scripts .tpl avulsos no "script-cybeast-falzar.tpl"
-::php .\unir_scripts.php f
+echo ==Unindo scripts .tpl avulsos no "script-cybeast-falzar.tpl"
+php .\unir_scripts.php f
 
 echo ==Gerando rom traduzida da versao Cyberbesta Falzar.
 .\Ferramentas\TextPet.exe run-script insert-cybeast-falzar.tpl

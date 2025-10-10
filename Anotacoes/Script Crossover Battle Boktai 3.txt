@@ -1,0 +1,295 @@
+    Play Crossover Battle 2
+    with Boktai 3!
+
+    Change your name
+    and comment.
+
+    Learn the rules of
+    Crossover Battle 2.
+
+    Waiting for the other
+    party member.
+
+    Waiting for the other
+    party member.
+
+    Waiting for the other
+    party member.
+
+    Waiting for the other
+    party member.
+
+    Waiting for the other
+    party member.
+
+    Waiting for the other
+    party member.
+
+    Waiting for the other
+    party member.
+
+    Waiting for the other
+    party member.
+
+    Request a battle?
+    Yes
+    No
+
+    Requested a battle.
+
+    Waiting for the other
+    party member.
+
+    Failed to connect to
+    the other player...
+
+    Battle request has
+    been cancelled.
+
+    Your opponent has
+    cancelled your
+    battle request.
+
+    Failed to initialize
+    the Wireless Adapter.
+
+    Failed to initialize
+    the Wireless Adapter.
+
+    Enter your name.
+
+    Enter your comment.
+
+    Is this OK?
+    Yes
+    No
+
+    Is this OK?
+    Yes
+    No
+
+    BCancelling data input.
+    Return to menu?
+    Yes
+    No
+
+    Go back to edit name?
+    Yes
+    No
+
+    Cancelling data input.
+    Return to menu?
+    Yes
+    No
+
+    Cancelling data input.
+    Return to title screen?
+    Yes
+    No
+
+    Go back to edit name?
+    Yes
+    No
+
+    Cancelling data input.
+    Return to title screen?
+    Yes
+    No
+
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ    abcdefghijklmnopqrstuvwxyz    
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ    abcdefghijklmnopqrstuvwxyz
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ    abcdefghijklmnopqrstuvwxyz
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ    abcdefghijklmnopqrstuvwxyz
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ    abcdefghijklmnopqrstuvwxyz
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ    abcdefghijklmnopqrstuvwxyz
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ    abcdefghijklmnopqrstuvwxyz
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ    abcdefghijklmnopqrstuvwxyz
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ    abcdefghijklmnopqrstuvwxyz
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ    abcdefghijklmnopqrstuvwxyz
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ    abcdefghijklmnopqrstuvwxyz
+    0123456789!?&*+_にぬと%          たちて.,:;'"█はふへほ[bat][EX][SP][RV][FZ][BX]         
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ    abcdefghijklmnopqデドtuvwxyz  
+    +█?:%がぎぐげござじずぜぞだぢづでどなにぬねのばびぶべぼまみむめもやゆよ_~らりるれろわをん"[゜]ぁぃぅぇぉゃゅょっ[・]($E6)BCヴEDwvzxy[FZ][BX][SP][EX][RV]ダヂヅデドXYWUVバビブベボedgfhikj_~pnmoltuq"[゜]ァィゥェォャュョッ[・]($E6)+█?:%,!ー[bat]&;'・゜.たち"てとなにぬねのぱぴぷぺぽまみむめもやゆよ_~らりるれろわをん"[゜]ぁぃぅぇぉゃゅょっ[・]($E6)0123456789!"[*][+],_.:[;]?~                                   
+    +█?:%がぎぐげござじずぜぞだぢづでどなにぬねのぱぴぷぺぽまみむめもやゆよ_~らりるれろわをん"[゜]ぁぃぅぇぉゃゅょっ[・]($E6)BCヴEDwvzxy[FZ][BX][SP][EX][RV]ダヂヅデドXYWUVパピプペポedgfhikj_~pnmoltuq"[゜]ァィゥェォャュョッ[・]($E6) ドバビブベボがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ !"[bat2][■][EX2][SP2][FZ2][RV2][BX2] [*][+],_. 0123456789ヴパピプペポ[A2][B2][C2][D2][E2][F2][G2][H2][I2][J2][K2][L2][M2][N2][O2][P2][Q2][R2][S2][T2][U2][V2][W2][X2][Y2][Z2]:[;]「」★○[a2][b2][c2][d2][e2][f2][g2][h2][i2][j2][k2][l2][m2][n2][o2][p2][q2][r2][s2][t2][u2][v2][w2][x2][y2][z2]をぁぃぅぇぉゃゅょっ~+█?:%,!ー[bat]&;'・゜.たち"てとなにぬねのはひ    [・]uァィゥェォャュョッ_BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikjpnmoltq  ふへほまみむめもやゆよらりるれろわんwvzxy[FZ][BX][SP][EX][RV]ダヂヅデ($E6) ドバビブベボ[z]=srHJIFGLNOKMSTRPQXYWUVbZc*aedポをぁぃぅぇぉゃゅょっ~+█?:%,!ー[bat]&;'・゜.たち"てとなにぬねのはひ[・]uァィゥェォャュョッ_BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikjpnmoltqふへほまみむめもやゆよらりるれろわんwvzxy[FZ][BX][SP][EX][RV]ダヂヅデ($E6)Symb($E6)Lett($E6)Next($E6)Back($E6)OK($E6)End($E6)($FA)0 ($E6)($FA)00($E6)($FA)03($E6)($FA)03($E6)($FA)03($E6)($FA)04($E6)($FA)05($E6)($FA)06($E6)($FA)07($E6)($FA)08($E6)($FA)09($E6)($FA)0A($E6)_____($E6)($FA)0B($E6)($FA)0B($E6)($FA)0C($E6)($FA)0D($E6)($FA)0E($E6)($FA)0F($E6)($FA)0G($E6)($FA)0H($E6)($FA)0I($E6)1234567890123($E6)($FC)5($F5) r($E8)
+    
+    We did it,Lan!
+    Nice operating!
+
+    We did it,Lan!
+    Nice operating!
+
+    We did it,Lan!
+    Nice operating!
+
+    Too bad,Lan.
+    I should've
+    tried harder.
+
+    Too bad,Lan.
+    I should've
+    tried harder.
+
+    It's not the end.
+    We'll win next time!
+
+    Lan...
+    We can't run away...
+
+    Connection error...
+    Let's try it again.
+    
+    About Crossover Battle
+    About Disturb Icon
+    Blocking and Beast Out
+    
+    About Crossover Battle
+    About Disturb Icon
+    Blocking and Beast Out
+    
+    About Crossover Battle
+    About Disturb Icon
+    Blocking and Beast Out
+    
+    About Crossover Battle
+    About Disturb Icon
+    Blocking and Beast Out
+    
+    About Crossover Battle
+    About Disturb Icon
+    Blocking and Beast Out
+    
+    About Crossover Battle
+    About Disturb Icon
+    Blocking and Beast Out
+    
+    Crossover Battle 2
+    continues from the
+    previous game,MMBN5.
+    
+    It's a race
+    between "MegaMan
+    Battle Network 6"
+    
+    and "Boktai 3" to see
+    who defeats the Count
+    first.
+    
+    If Django's HP reaches
+    zero before the Count
+    is defeated,
+    
+    the Boktai 3 side loses.
+    
+    As the two of you play,
+    the players can disrupt
+    each other's play
+    
+    by sending a
+    Disturb Icon.
+    
+    If you have the
+    BatCannon chip and
+    hit the Count,
+    
+    you can send a
+    Disturb Icon.
+    
+    There are 4 BatCannons
+    and each chip sends a
+    different Disturb Icon.
+    
+    BatCannon1 is ($FC)84($EC)0H
+    
+    I will appear and attack
+    with the MegaBuster.
+    
+    BatCannon2 is ($FC)83($EC)0H
+    
+    I will appear and attack
+    with ZapRing.
+    
+    BatCannon3 is ($FC)85($EC)0H
+    I will appear and attack
+    with LifeSword.
+    
+    BatCannon4 is ($FC)84($EC)0H($FC)83($EC)0H($FC)85($EC)0H
+    
+    3 different Disturb
+    Icons are sent at once.
+    
+    There's another way to
+    send a Disturb Icon:
+    
+    A Counter Attack!
+    
+    If you hit the Count
+    during an attack,
+    a ($FC)8 ($EC)0H icon will be sent.
+    
+    From Boktai 3's side,
+    the Count will use his
+    Blood Rain attack.
+    
+    Don't forget that the
+    other side can send
+    Disturb Icons too!
+    
+    ($FC)81($EC)0H
+    This Disturb Icon will
+    summon Django to
+    attack with a sword.
+    
+    ($FC)80($EC)0H
+    This Disturb Icon will
+    summon Django to
+    attack with GunDelSol!
+    
+    ($FC)82($EC)0H
+    This Disturb Icon will
+    summon Django to
+    attack using his bike!
+    
+    ($FC)8 ($EC)0H
+    This Disturb Icon will
+    make the Count attack
+    with BloodRain!
+    
+    You can use Block,
+    but it can only be
+    used once.
+    
+    On the custom screen
+    choose BLOCK instead
+    of OK.
+    
+    During the next turn,
+    you will knock away all
+    Disturb Icons received.
+    
+    Don't forget that
+    the Boktai 3 side can
+    also Block once.
+    
+    Also,I can Beast Out
+    using a special chip
+    in the folder.
+    
+    While in Beast Out,
+    aside from Navi Chips
+    and BatCannon,
+    
+    all chips send
+    Disturb Icons to
+    Boktai 3.
+    
+    This is your chance to
+    turn everything around!
+    
+    However,Boktai 3 has a
+    similar skill.
+    
+    Django can use his Sol
+    Trance transformation
+    to power up!
+    
+    Keep this in mind!

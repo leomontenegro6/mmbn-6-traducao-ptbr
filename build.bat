@@ -29,7 +29,6 @@ echo ==Ajustando rom com o "English Patches" original, antes de gerar a rom trad
 ::php .\unir_scripts.php g
 
 echo ==Gerando rom traduzida da versao Cyberbesta Gregar.
-move ".\Mega Man Battle Network 6 - Cybeast Gregar (exeguy11) (adjusted).gba" ".\Mega Man Battle Network 6 - Cyberbesta Gregar (BR).gba"
 .\Ferramentas\TextPet.exe run-script insert-cybeast-gregar.tpl
 
 echo ==Aplicando patches extras na rom modificada:==
@@ -39,6 +38,9 @@ echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\expansor_rom.asm -equ versao 0
+
+echo ==Removendo rom temporaria ajustada==
+del ".\Mega Man Battle Network 6 - Cybeast Gregar (exeguy11) (adjusted).gba"
 
 echo Done.
 exit
@@ -51,7 +53,6 @@ echo ==Ajustando rom com o "English Patches" original, antes de gerar a rom trad
 ::php .\unir_scripts.php f
 
 echo ==Gerando rom traduzida da versao Cyberbesta Falzar.
-move ".\Mega Man Battle Network 6 - Cybeast Falzar (exeguy11) (adjusted).gba" ".\Mega Man Battle Network 6 - Cyberbesta Falzar (BR).gba"
 .\Ferramentas\TextPet.exe run-script insert-cybeast-falzar.tpl
 
 echo ==Aplicando patches extras na rom modificada:==
@@ -61,6 +62,9 @@ echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\expansor_rom.asm -equ versao 1
+
+echo ==Removendo rom temporaria ajustada==
+del ".\Mega Man Battle Network 6 - Cybeast Falzar (exeguy11) (adjusted).gba"
 
 echo Done.
 exit

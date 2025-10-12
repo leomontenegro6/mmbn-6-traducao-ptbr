@@ -7,7 +7,7 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	[・][・][・]では、じゅぎょ?を
-	はじめる、よー!ーんだ
+	はじめる、よó!óんだ
 	"""
 	keyWait
 		any = false
@@ -51,7 +51,7 @@ script 2 mmbn6 {
 	clearMsg
 	"""
 	て"ど?と █っても
-	CqS[ー]UッQを は'る
+	CqS[ó]UêQを は'る
 	て"ど?だ[・][・][・]
 	"""
 	keyWait
@@ -59,13 +59,13 @@ script 2 mmbn6 {
 	clearMsg
 	"""
 	%ま:が .?じゅ?・るのは
-	わた'のXビ、Tャ[ー][BX]eqだ
+	わた'のXÊ、Tò[ó][BX]eqだ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	では、;っ.ー .&の
+	では、;っ.ó .&の
 	じど?はんば█!を のぞ█て
 	みるんだ
 	"""

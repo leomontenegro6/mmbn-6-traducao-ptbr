@@ -14,7 +14,7 @@ script 0 mmbn6 {
 	clearMsg
 	"""
 	%わ・れものの な█よ?
-	ごちゅ?█ーだ;█
+	ごちゅ?█óだ;█
 	"""
 	keyWait
 		any = false
@@ -25,7 +25,7 @@ script 1 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Nュポ~[!][!]
+	NçÜ~[!][!]
 	██、?んてんだったぞ
 	"""
 	keyWait

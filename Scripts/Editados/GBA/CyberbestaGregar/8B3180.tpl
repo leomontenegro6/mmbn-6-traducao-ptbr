@@ -78,7 +78,7 @@ script 10 mmbn6 {
 	end
 }
 script 14 mmbn6 {
-	"  T ベ [!] [!] [!] [!] , め め め め ぺ ぺ ぺ ぺ "
+	"  T É [!] [!] [!] [!] , め め め め ぺ ぺ ぺ ぺ "
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen

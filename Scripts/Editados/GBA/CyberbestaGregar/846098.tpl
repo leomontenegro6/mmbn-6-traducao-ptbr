@@ -58,7 +58,7 @@ script 13 mmbn6s {
 	end
 }
 script 14 mmbn6 {
-	" ボ ボ ボ ボ ボ ボ ボ ボ ボ ボ ボ ボ ボ ボ ボ ボ ボ ボ ボ ボ ボ [==] [==] る る R0R0U0U0b0b0デ0[U2]0へ0へ0へ0へ0へ0"
+	" Í Í Í Í Í Í Í Í Í Í Í Í Í Í Í Í Í Í Í Í Í ô ô る る R0R0U0U0b0b0À0[U2]0へ0へ0へ0へ0へ0"
 	checkNaviAll
 		jumpIfMegaMan = continue
 		jumpIfHeatMan = 30

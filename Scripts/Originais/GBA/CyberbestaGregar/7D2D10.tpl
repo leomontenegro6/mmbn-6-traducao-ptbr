@@ -6,19 +6,19 @@ script 0 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	ドmmmmmm[!][!]
-	!ょ?も Doのドnmは
+	Ámmmmmm[!][!]
+	!ょ?も DoのÁnmは
 	██%とだ・ぜぇ~
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"よぉ、Doが zpqドeqだ"
+	"よぉ、Doが zpqÁeqだ"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CqS[ー]UッQの &?じなら
+	CqS[ó]UêQの &?じなら
 	Doに ま,゜と[bat]ぇ[!]
 	"""
 	keyWait
@@ -27,13 +27,13 @@ script 0 mmbn6 {
 	"""
 	DC %ま:;んよ、
 	はや█と&ろ Doに 'ごと
-	ーれねぇ,な[?]
+	óれねぇ,なü
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ドnmが A[SP]A[SP]
+	Ánmが A[SP]A[SP]
 	'て!たぜぇ[・][・][・]
 	"""
 	keyWait
@@ -46,7 +46,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"よろ'ーな[!] zpqドeq"
+	"よろ'óな[!] zpqÁeq"
 	keyWait
 		any = false
 	clearMsg
@@ -58,7 +58,7 @@ script 2 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	んじゃ+、;っ.ー
+	んじゃ+、;っ.ó
 	じゅぎょ?を はじめっと
 	・っ,な[!]
 	"""
@@ -80,13 +80,13 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"ドmmmmmm[!][!]"
+	"Ámmmmmm[!][!]"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	%っ'ゃぁ[!] 'ごとだな
-	バnバn はたらーぜぇ~
+	ÒnÒn はたらóぜぇ~
 	"""
 	keyWait
 		any = false

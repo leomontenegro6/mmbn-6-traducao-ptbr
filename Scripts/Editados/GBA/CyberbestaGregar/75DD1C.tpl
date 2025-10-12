@@ -9,7 +9,7 @@ script 0 mmbn6 {
 	printItem
 		buffer = 0
 		item = 0
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -22,7 +22,7 @@ script 1 mmbn6 {
 	printItem
 		buffer = 0
 		item = 1
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -35,7 +35,7 @@ script 2 mmbn6 {
 	printItem
 		buffer = 0
 		item = 2
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -48,7 +48,7 @@ script 3 mmbn6 {
 	printItem
 		buffer = 0
 		item = 3
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -61,7 +61,7 @@ script 4 mmbn6 {
 	printItem
 		buffer = 0
 		item = 4
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -74,7 +74,7 @@ script 5 mmbn6 {
 	printItem
 		buffer = 0
 		item = 5
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -87,7 +87,7 @@ script 6 mmbn6 {
 	printItem
 		buffer = 0
 		item = 6
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -100,7 +100,7 @@ script 7 mmbn6 {
 	printItem
 		buffer = 0
 		item = 7
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -113,7 +113,7 @@ script 8 mmbn6 {
 	printItem
 		buffer = 0
 		item = 8
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -126,7 +126,7 @@ script 9 mmbn6 {
 	printItem
 		buffer = 0
 		item = 9
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -139,7 +139,7 @@ script 10 mmbn6 {
 	printItem
 		buffer = 0
 		item = 10
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -152,7 +152,7 @@ script 11 mmbn6 {
 	printItem
 		buffer = 0
 		item = 11
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -165,7 +165,7 @@ script 12 mmbn6 {
 	printItem
 		buffer = 0
 		item = 12
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -178,7 +178,7 @@ script 13 mmbn6 {
 	printItem
 		buffer = 0
 		item = 13
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -191,7 +191,7 @@ script 14 mmbn6 {
 	printItem
 		buffer = 0
 		item = 14
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -204,7 +204,7 @@ script 15 mmbn6 {
 	printItem
 		buffer = 0
 		item = 15
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -217,7 +217,7 @@ script 16 mmbn6 {
 	printItem
 		buffer = 0
 		item = 16
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -230,7 +230,7 @@ script 17 mmbn6 {
 	printItem
 		buffer = 0
 		item = 17
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -243,7 +243,7 @@ script 18 mmbn6 {
 	printItem
 		buffer = 0
 		item = 18
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -256,7 +256,7 @@ script 19 mmbn6 {
 	printItem
 		buffer = 0
 		item = 19
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -269,7 +269,7 @@ script 20 mmbn6 {
 	printItem
 		buffer = 0
 		item = 20
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -282,7 +282,7 @@ script 21 mmbn6 {
 	printItem
 		buffer = 0
 		item = 21
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -295,7 +295,7 @@ script 22 mmbn6 {
 	printItem
 		buffer = 0
 		item = 22
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -308,7 +308,7 @@ script 23 mmbn6 {
 	printItem
 		buffer = 0
 		item = 23
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -321,7 +321,7 @@ script 24 mmbn6 {
 	printItem
 		buffer = 0
 		item = 24
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -334,7 +334,7 @@ script 25 mmbn6 {
 	printItem
 		buffer = 0
 		item = 25
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -347,7 +347,7 @@ script 26 mmbn6 {
 	printItem
 		buffer = 0
 		item = 26
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -360,7 +360,7 @@ script 27 mmbn6 {
 	printItem
 		buffer = 0
 		item = 27
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -373,7 +373,7 @@ script 28 mmbn6 {
 	printItem
 		buffer = 0
 		item = 28
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -386,7 +386,7 @@ script 29 mmbn6 {
 	printItem
 		buffer = 0
 		item = 29
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -399,7 +399,7 @@ script 30 mmbn6 {
 	printItem
 		buffer = 0
 		item = 30
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -412,7 +412,7 @@ script 31 mmbn6 {
 	printItem
 		buffer = 0
 		item = 31
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -425,7 +425,7 @@ script 32 mmbn6 {
 	printItem
 		buffer = 0
 		item = 32
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -438,7 +438,7 @@ script 33 mmbn6 {
 	printItem
 		buffer = 0
 		item = 33
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -451,7 +451,7 @@ script 34 mmbn6 {
 	printItem
 		buffer = 0
 		item = 34
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -464,7 +464,7 @@ script 35 mmbn6 {
 	printItem
 		buffer = 0
 		item = 35
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -477,7 +477,7 @@ script 36 mmbn6 {
 	printItem
 		buffer = 0
 		item = 36
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -490,7 +490,7 @@ script 37 mmbn6 {
 	printItem
 		buffer = 0
 		item = 37
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -503,7 +503,7 @@ script 38 mmbn6 {
 	printItem
 		buffer = 0
 		item = 38
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -516,7 +516,7 @@ script 39 mmbn6 {
 	printItem
 		buffer = 0
 		item = 39
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -529,7 +529,7 @@ script 40 mmbn6 {
 	printItem
 		buffer = 0
 		item = 40
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -542,7 +542,7 @@ script 41 mmbn6 {
 	printItem
 		buffer = 0
 		item = 41
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -555,7 +555,7 @@ script 42 mmbn6 {
 	printItem
 		buffer = 0
 		item = 42
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -568,7 +568,7 @@ script 43 mmbn6 {
 	printItem
 		buffer = 0
 		item = 43
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -581,7 +581,7 @@ script 44 mmbn6 {
 	printItem
 		buffer = 0
 		item = 44
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -594,7 +594,7 @@ script 45 mmbn6 {
 	printItem
 		buffer = 0
 		item = 45
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -607,7 +607,7 @@ script 46 mmbn6 {
 	printItem
 		buffer = 0
 		item = 46
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -620,7 +620,7 @@ script 47 mmbn6 {
 	printItem
 		buffer = 0
 		item = 47
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -633,7 +633,7 @@ script 48 mmbn6 {
 	printItem
 		buffer = 0
 		item = 48
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -646,7 +646,7 @@ script 49 mmbn6 {
 	printItem
 		buffer = 0
 		item = 49
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -659,7 +659,7 @@ script 50 mmbn6 {
 	printItem
 		buffer = 0
 		item = 50
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -672,7 +672,7 @@ script 51 mmbn6 {
 	printItem
 		buffer = 0
 		item = 51
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -685,7 +685,7 @@ script 52 mmbn6 {
 	printItem
 		buffer = 0
 		item = 52
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -698,7 +698,7 @@ script 53 mmbn6 {
 	printItem
 		buffer = 0
 		item = 53
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -711,7 +711,7 @@ script 54 mmbn6 {
 	printItem
 		buffer = 0
 		item = 54
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -724,7 +724,7 @@ script 55 mmbn6 {
 	printItem
 		buffer = 0
 		item = 55
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -737,7 +737,7 @@ script 56 mmbn6 {
 	printItem
 		buffer = 0
 		item = 56
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -750,7 +750,7 @@ script 57 mmbn6 {
 	printItem
 		buffer = 0
 		item = 57
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -763,7 +763,7 @@ script 58 mmbn6 {
 	printItem
 		buffer = 0
 		item = 58
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -776,7 +776,7 @@ script 59 mmbn6 {
 	printItem
 		buffer = 0
 		item = 59
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -789,7 +789,7 @@ script 60 mmbn6 {
 	printItem
 		buffer = 0
 		item = 60
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -802,7 +802,7 @@ script 61 mmbn6 {
 	printItem
 		buffer = 0
 		item = 61
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -815,7 +815,7 @@ script 62 mmbn6 {
 	printItem
 		buffer = 0
 		item = 62
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -828,7 +828,7 @@ script 63 mmbn6 {
 	printItem
 		buffer = 0
 		item = 63
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -841,7 +841,7 @@ script 64 mmbn6 {
 	printItem
 		buffer = 0
 		item = 64
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -854,7 +854,7 @@ script 65 mmbn6 {
 	printItem
 		buffer = 0
 		item = 65
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -867,7 +867,7 @@ script 66 mmbn6 {
 	printItem
 		buffer = 0
 		item = 66
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -880,7 +880,7 @@ script 67 mmbn6 {
 	printItem
 		buffer = 0
 		item = 67
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -893,7 +893,7 @@ script 68 mmbn6 {
 	printItem
 		buffer = 0
 		item = 68
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -906,7 +906,7 @@ script 69 mmbn6 {
 	printItem
 		buffer = 0
 		item = 69
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -919,7 +919,7 @@ script 70 mmbn6 {
 	printItem
 		buffer = 0
 		item = 70
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -929,7 +929,7 @@ script 100 mmbn6 {
 	flagClear
 		flag = 5909
 	"""
-	,█わで!な█バzを
+	,█わで!な█Òzを
 	'ゅ?゜█
 	"""
 	keyWait
@@ -1057,8 +1057,8 @@ script 110 mmbn6 {
 		flag = 7386
 	msgOpen
 	"""
-	f[ー]mちゃー'ん
-	'まーり
+	f[ó]mちゃó'ん
+	'まóり
 	"""
 	keyWait
 		any = false
@@ -1068,7 +1068,7 @@ script 170 mmbn6 {
 	msgOpen
 	flagSet
 		flag = 381
-	"N[ー]LCドの[H2][P2]のバX[ー]"
+	"N[ó]LCÁの[H2][P2]のÒX[ó]"
 	keyWait
 		any = false
 	end
@@ -1077,7 +1077,7 @@ script 171 mmbn6 {
 	msgOpen
 	flagSet
 		flag = 382
-	"zn[ー]qの[H2][P2]のバX[ー]"
+	"zn[ó]qの[H2][P2]のÒX[ó]"
 	keyWait
 		any = false
 	end
@@ -1086,7 +1086,7 @@ script 172 mmbn6 {
 	msgOpen
 	flagSet
 		flag = 383
-	"OHCの[H2][P2]のバX[ー]"
+	"OHCの[H2][P2]のÒX[ó]"
 	keyWait
 		any = false
 	end
@@ -1095,7 +1095,7 @@ script 173 mmbn6 {
 	msgOpen
 	flagSet
 		flag = 384
-	"BJbpの[H2][P2]のバX[ー]"
+	"BJbpの[H2][P2]のÒX[ó]"
 	keyWait
 		any = false
 	end
@@ -1230,7 +1230,7 @@ script 174 mmbn6 {
 	flagAddMail
 		flag = 7391
 	msgOpen
-	"f[ー]mはげ'ーxッQ"
+	"f[ó]mはげ'óxêQ"
 	keyWait
 		any = false
 	end
@@ -1239,7 +1239,7 @@ script 180 mmbn6 {
 	msgOpen
 	flagSet
 		flag = 145
-	"NqSCQo[ー]ダ[ー](,め█)ひょ?じ"
+	"NqSCQo[ó]Â[ó](,め█)ひょ?じ"
 	keyWait
 		any = false
 	end
@@ -1249,7 +1249,7 @@ script 181 mmbn6 {
 	flagSet
 		flag = 3584
 	"""
-	zn[ー]qSAqのTップQo[ー]ダ[ー][S2][P2]
+	zn[ó]qSAqのTêÚQo[ó]Â[ó][S2][P2]
 	ひょ?じ
 	"""
 	keyWait
@@ -1265,7 +1265,7 @@ script 182 mmbn6 {
 	flagClear
 		flag = 123
 	"""
-	XビTェq[BX]ボッIO
+	XÊTâq[BX]ÍêIO
 	ひょ?じ
 	"""
 	keyWait
@@ -1308,7 +1308,7 @@ script 192 mmbn6 {
 script 193 mmbn6 {
 	msgOpen
 	callRequestFinish
-	"█ら█%わり[ー]"
+	"█ら█%わり[ó]"
 	keyWait
 		any = false
 	end
@@ -1400,7 +1400,7 @@ script 195 mmbn6 {
 	printItem
 		buffer = 0
 		item = 44
-	"\nをxッQ"
+	"\nをxêQ"
 	keyWait
 		any = false
 	end
@@ -1488,7 +1488,7 @@ script 200 mmbn6 {
 		flag = 294
 	"""
 	KqQ2,ら
-	Bqダ[ー]zpAqドへ
+	BqÂ[ó]zpAqÁへ
 	"""
 	keyWait
 		any = false
@@ -1507,7 +1507,7 @@ script 201 mmbn6 {
 	flagSet
 		flag = 3296
 	"""
-	な,まXビを.?;,の?に
+	な,まXÊを.?;,の?に
 	(CqTJ)
 	"""
 	keyWait
@@ -1589,7 +1589,7 @@ script 202 mmbn6 {
 	callUnloadObjects
 	callReloadObjects
 	"""
-	ACmOバQp[ー]をKッQ
+	ACmOÒQp[ó]をKêQ
 	(CqTJ)
 	"""
 	keyWait
@@ -1599,7 +1599,7 @@ script 202 mmbn6 {
 script 203 mmbn6 {
 	msgOpen
 	callMaxVirusDeleteCount
-	"ACmOデn[ー]Q・?[M2][A2][X2]"
+	"ACmOÀn[ó]Q・?[M2][A2][X2]"
 	keyWait
 		any = false
 	end
@@ -1609,8 +1609,8 @@ script 208 mmbn6 {
 	flagToggle
 		flag = 5952
 	"""
-	!んのdOPn[ー]デ[ー]S
-	TェッI!り,:
+	!んのdOPn[ó]À[ó]S
+	TâêI!り,:
 	"""
 	keyWait
 		any = false
@@ -1621,7 +1621,7 @@ script 210 mmbn6 {
 	itemGive
 		item = 112
 		amount = 1
-	"[H2][P2]fhn[ー]を1\"xッQ"
+	"[H2][P2]fhn[ó]を1\"xêQ"
 	keyWait
 		any = false
 	end
@@ -1631,7 +1631,7 @@ script 211 mmbn6 {
 	itemGive
 		item = 114
 		amount = 1
-	"ovュp[ー][U2][P2]1を1\"xッQ"
+	"ovçp[ó][U2][P2]1を1\"xêQ"
 	keyWait
 		any = false
 	end
@@ -1641,7 +1641,7 @@ script 212 mmbn6 {
 	itemGive
 		item = 115
 		amount = 1
-	"ovュp[ー][U2][P2]2を1\"xッQ"
+	"ovçp[ó][U2][P2]2を1\"xêQ"
 	keyWait
 		any = false
 	end
@@ -1651,7 +1651,7 @@ script 213 mmbn6 {
 	itemGive
 		item = 116
 		amount = 1
-	"ovュp[ー][U2][P2]3を1\"xッQ"
+	"ovçp[ó][U2][P2]3を1\"xêQ"
 	keyWait
 		any = false
 	end
@@ -1660,7 +1660,7 @@ script 214 mmbn6 {
 	msgOpen
 	setZenny
 		amount = 0
-	"[EX]Y[ー]を0InB"
+	"[EX]Y[ó]を0InB"
 	keyWait
 		any = false
 	end
@@ -1669,7 +1669,7 @@ script 215 mmbn6 {
 	msgOpen
 	setBugFrags
 		amount = 0
-	"バzの,[bat]らを0InB"
+	"Òzの,[bat]らを0InB"
 	keyWait
 		any = false
 	end
@@ -1679,7 +1679,7 @@ script 216 mmbn6 {
 		slot = 2
 		folder = 2
 	msgOpen
-	"jビデッJをxッQ"
+	"jÊÀêJをxêQ"
 	keyWait
 		any = false
 	end
@@ -1689,7 +1689,7 @@ script 217 mmbn6 {
 		slot = 1
 		folder = 1
 	msgOpen
-	"cォmダ2をxッQ"
+	"cãmÂ2をxêQ"
 	keyWait
 		any = false
 	end
@@ -1699,7 +1699,7 @@ script 219 mmbn6 {
 		slot = 2
 		folder = 5
 	msgOpen
-	"jビデッJをxッQ"
+	"jÊÀêJをxêQ"
 	keyWait
 		any = false
 	end
@@ -1713,7 +1713,7 @@ script 220 mmbn6 {
 	flagSet
 		flag = 1664
 	msgOpen
-	"LHXとりdYx[ー]g,█'"
+	"LHXとりdYx[ó]g,█'"
 	keyWait
 		any = false
 	end
@@ -1734,7 +1734,7 @@ script 221 mmbn6 {
 	flagSet
 		flag = 294
 	msgOpen
-	"+ーりょ?dYx[ー]g,█'"
+	"+óりょ?dYx[ó]g,█'"
 	keyWait
 		any = false
 	end
@@ -1747,7 +1747,7 @@ script 222 mmbn6 {
 	flagSet
 		flag = 2449
 	msgOpen
-	"IッJqzdYx[ー]g,█'"
+	"IêJqzdYx[ó]g,█'"
 	keyWait
 		any = false
 	end
@@ -1760,7 +1760,7 @@ script 223 mmbn6 {
 	flagSet
 		flag = 2401
 	msgOpen
-	"ま!ものdYx[ー]g,█'"
+	"ま!ものdYx[ó]g,█'"
 	keyWait
 		any = false
 	end
@@ -1773,7 +1773,7 @@ script 224 mmbn6 {
 	flagSet
 		flag = 2817
 	msgOpen
-	"て█でんdYx[ー]g,█'"
+	"て█でんdYx[ó]g,█'"
 	keyWait
 		any = false
 	end
@@ -1786,7 +1786,7 @@ script 225 mmbn6 {
 	flagSet
 		flag = 3329
 	msgOpen
-	"+ん;\"dYx[ー]g,█'"
+	"+ん;\"dYx[ó]g,█'"
 	keyWait
 		any = false
 	end
@@ -1799,7 +1799,7 @@ script 226 mmbn6 {
 	flagSet
 		flag = 3377
 	msgOpen
-	"█わーだ!dYx[ー]g,█'"
+	"█わóだ!dYx[ó]g,█'"
 	keyWait
 		any = false
 	end
@@ -1808,7 +1808,7 @@ script 228 mmbn6 {
 	flagSet
 		flag = 5929
 	msgOpen
-	"現実lッIeqTェッI"
+	"現実lêIeqTâêI"
 	keyWait
 		any = false
 	end
@@ -1817,7 +1817,7 @@ script 229 mmbn6 {
 	callChangePlayerSprite
 		sprite = 2
 	msgOpen
-	"dOPn[ー]デ[ー]STェッI"
+	"dOPn[ó]À[ó]STâêI"
 	keyWait
 		any = false
 	end
@@ -1829,7 +1829,7 @@ script 230 mmbn6 {
 	callReloadNaviStatBoosts
 	callSetFullHP
 	msgOpen
-	"lッIeqにTェq[BX]"
+	"lêIeqにTâq[BX]"
 	keyWait
 		any = false
 	end
@@ -1841,7 +1841,7 @@ script 231 mmbn6 {
 	callReloadNaviStatBoosts
 	callSetFullHP
 	msgOpen
-	"EoJeqにTェq[BX]"
+	"EoJeqにTâq[BX]"
 	keyWait
 		any = false
 	end
@@ -1853,7 +1853,7 @@ script 232 mmbn6 {
 	callReloadNaviStatBoosts
 	callSetFullHP
 	msgOpen
-	"Z[ー]QeqにTェq[BX]"
+	"Z[ó]QeqにTâq[BX]"
 	keyWait
 		any = false
 	end
@@ -1865,7 +1865,7 @@ script 233 mmbn6 {
 	callReloadNaviStatBoosts
 	callSetFullHP
 	msgOpen
-	"Jp[ー]eqにTェq[BX]"
+	"Jp[ó]eqにTâq[BX]"
 	keyWait
 		any = false
 	end
@@ -1877,7 +1877,7 @@ script 234 mmbn6 {
 	callReloadNaviStatBoosts
 	callSetFullHP
 	msgOpen
-	"OpッNュeqにTェq[BX]"
+	"OpêNçeqにTâq[BX]"
 	keyWait
 		any = false
 	end
@@ -1889,7 +1889,7 @@ script 235 mmbn6 {
 	callReloadNaviStatBoosts
 	callSetFullHP
 	msgOpen
-	"Tャ[ー][BX]eqにTェq[BX]"
+	"Tò[ó][BX]eqにTâq[BX]"
 	keyWait
 		any = false
 	end
@@ -1901,7 +1901,7 @@ script 236 mmbn6 {
 	callReloadNaviStatBoosts
 	callSetFullHP
 	msgOpen
-	"BIBeqにTェq[BX]"
+	"BIBeqにTâq[BX]"
 	keyWait
 		any = false
 	end
@@ -1913,7 +1913,7 @@ script 237 mmbn6 {
 	callReloadNaviStatBoosts
 	callSetFullHP
 	msgOpen
-	"Qea[ー]IeqにTェq[BX]"
+	"Qea[ó]IeqにTâq[BX]"
 	keyWait
 		any = false
 	end
@@ -1925,7 +1925,7 @@ script 238 mmbn6 {
 	callReloadNaviStatBoosts
 	callSetFullHP
 	msgOpen
-	"zpqドeqにTェq[BX]"
+	"zpqÁeqにTâq[BX]"
 	keyWait
 		any = false
 	end
@@ -1937,7 +1937,7 @@ script 239 mmbn6 {
 	callReloadNaviStatBoosts
 	callSetFullHP
 	msgOpen
-	"ダOQeqにTェq[BX]"
+	"ÂOQeqにTâq[BX]"
 	keyWait
 		any = false
 	end
@@ -1949,7 +1949,7 @@ script 240 mmbn6 {
 	callReloadNaviStatBoosts
 	callSetFullHP
 	msgOpen
-	"PqzeqにTェq[BX]"
+	"PqzeqにTâq[BX]"
 	keyWait
 		any = false
 	end
@@ -1979,8 +1979,8 @@ script 241 mmbn6 {
 		flag = 235
 	msgOpen
 	"""
-	ビ[ー]OQTェq[BX][O2][K2]
-	IlOTェq[BX][O2][K2]
+	Ê[ó]OQTâq[BX][O2][K2]
+	IlOTâq[BX][O2][K2]
 	"""
 	keyWait
 		any = false
@@ -1993,7 +1993,7 @@ script 242 mmbn6 {
 	callReloadNaviStatBoosts
 	callSetFullHP
 	msgOpen
-	"ブm[ー]OにTェq[BX]"
+	"Óm[ó]OにTâq[BX]"
 	keyWait
 		any = false
 	end
@@ -2002,7 +2002,7 @@ script 243 mmbn6 {
 	callSetCrossoverPoints
 		points = 255
 	msgOpen
-	"NqSCポCqQxッQ"
+	"NqSCÜCqQxêQ"
 	keyWait
 		any = false
 	end
@@ -2011,7 +2011,7 @@ script 244 mmbn6 {
 	flagSet
 		flag = 124
 	msgOpen
-	",ー'x[ー]Qひょ?じ"
+	",ó'x[ó]Qひょ?じ"
 	keyWait
 		any = false
 	end
@@ -2021,7 +2021,7 @@ script 245 mmbn6 {
 		item = 113
 		amount = 1
 	msgOpen
-	"fhn,ーちょ?"
+	"fhn,óちょ?"
 	keyWait
 		any = false
 	end
@@ -2208,7 +2208,7 @@ script 246 mmbn6 {
 		code = 255
 		amount = 0
 	msgOpen
-	"[P2][A2]xッQ"
+	"[P2][A2]xêQ"
 	keyWait
 		any = false
 	end
@@ -2295,7 +2295,7 @@ script 250 mmbn6 {
 		color = 6
 		amount = 1
 	msgOpen
-	"XビHOxッQ"
+	"XÊHOxêQ"
 	keyWait
 		any = false
 	end
@@ -2310,7 +2310,7 @@ script 251 mmbn6 {
 	flagAddMail
 		flag = 7332
 	msgOpen
-	"f[ー]mちゃー'ん"
+	"f[ó]mちゃó'ん"
 	keyWait
 		any = false
 	end
@@ -2352,7 +2352,7 @@ script 253 mmbn6 {
 	itemGive
 		item = 133
 		amount = 1
-	"LブTップxッQ"
+	"LÓTêÚxêQ"
 	keyWait
 		any = false
 	end
@@ -2360,7 +2360,7 @@ script 253 mmbn6 {
 script 254 mmbn6 {
 	msgOpen
 	itemGiveAllChips
-	"ぜんTップxッQ"
+	"ぜんTêÚxêQ"
 	keyWait
 		any = false
 	end

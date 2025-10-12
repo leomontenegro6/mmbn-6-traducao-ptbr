@@ -6,7 +6,7 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	lッIeq、+!らめるな[!]
+	lêIeq、+!らめるな[!]
 	も?█ちどだ[!][!]
 	"""
 	keyWait

@@ -6,7 +6,7 @@ script 0 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	%█[!] ど&█ーんだ[!]
+	%█[!] ど&█óんだ[!]
 	.っちに よ?はねぇぞ[!]
 	"""
 	keyWait
@@ -18,7 +18,7 @@ script 1 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	%█[!] ど&█ーんだ[!]
+	%█[!] ど&█óんだ[!]
 	.っちに よ?はねぇぞ[!]
 	"""
 	keyWait

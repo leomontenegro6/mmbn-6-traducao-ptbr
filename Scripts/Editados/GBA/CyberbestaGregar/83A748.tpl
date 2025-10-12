@@ -5,13 +5,13 @@ script 0 mmbn6s {
 	checkGameVersion
 		jumpIfCybeastGregar = 47
 		jumpIfCybeastFalzar = 10
-	"Tcmwドパヴ[G2][Q2][*]9"
+	"TcmwÁÔé[G2][Q2][*]9"
 }
 script 3 mmbn6s {
 	checkGameVersion
 		jumpIfCybeastGregar = 47
 		jumpIfCybeastFalzar = 13
-	"Wfpzヂポャ[J2][T2][==]C"
+	"WfpzÇÜò[J2][T2]ôC"
 }
 script 10 mmbn6 {
 	jump

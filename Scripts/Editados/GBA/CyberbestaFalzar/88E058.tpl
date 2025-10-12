@@ -3582,7 +3582,7 @@ script 216 mmbn6 {
 	end
 }
 script 219 mmbn6 {
-	" J ィ ィ ィ ィ ィ ィ ィ ィ ィ "
+	" J á á á á á á á á á "
 	mugshotShow
 		mugshot = FengTian
 	msgOpen

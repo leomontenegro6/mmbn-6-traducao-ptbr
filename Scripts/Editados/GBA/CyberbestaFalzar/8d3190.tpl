@@ -9,8 +9,8 @@ script 0 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	「'ん[・]ボIらのた█よ?」と
-	ゆめのIlOD[ー]バ[ー]バQm2[!]
+	「'ん[・]ÍIらのた█よ?」と
+	ゆめのIlOD[ó]Ò[ó]ÒQm2[!]
 	"""
 	waitHold
 }
@@ -35,8 +35,8 @@ script 2 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	IlOD[ー]バ[ー]バQm2の
-	x[ー]g゜"め█を ・るよ
+	IlOD[ó]Ò[ó]ÒQm2の
+	x[ó]g゜"め█を ・るよ
 	"""
 	waitHold
 }
@@ -48,7 +48,7 @@ script 10 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	+█ての と?ろーを
+	+█ての と?ろóを
 	まって█ると&ろだよ
 	"""
 	wait
@@ -71,7 +71,7 @@ script 12 mmbn6 {
 		buffer = 20
 	"""
 	」に
-	た█゜んを も?'&む[?]
+	た█゜んを も?'&むü
 	
 	"""
 	positionOptionHorizontal
@@ -127,7 +127,7 @@ script 14 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	+█ての と?ろーを
+	+█ての と?ろóを
 	まって█ると&ろだよ
 	"""
 	wait
@@ -140,7 +140,7 @@ script 15 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	+█てとの ゜"ぞーに
+	+█てとの ゜"ぞóに
 	'っぱ█'たよ[・][・][・]
 	"""
 	keyWait
@@ -153,8 +153,8 @@ script 16 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	バQmのも?'&みを
-	JャqKm'たよ
+	ÒQmのも?'&みを
+	JòqKm'たよ
 	"""
 	keyWait
 		any = false
@@ -166,9 +166,9 @@ script 17 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	バQmのも?'&みを
+	ÒQmのも?'&みを
 	た█゜ん+█てに
-	JャqKm;れちゃった
+	JòqKm;れちゃった
 	"""
 	keyWait
 		any = false
@@ -180,7 +180,7 @@ script 19 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	tCioOBダプSの
+	tCioOBÂÚSの
 	'ょ!,に 'っぱ█'たよ
 	"""
 	keyWait
@@ -192,7 +192,7 @@ script 20 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	なま:を にゅ?りょー
+	なま:を にゅ?りょó
 	'てね
 	"""
 	keyWait
@@ -204,7 +204,7 @@ script 21 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	GfqQを にゅ?りょー
+	GfqQを にゅ?りょó
 	'てね
 	"""
 	keyWait
@@ -220,7 +220,7 @@ script 22 mmbn6 {
 		buffer = 2
 	"""
 	」
-	で D[ー]F[ー][?]
+	で D[ó]F[ó]ü
 	
 	"""
 	positionOptionHorizontal
@@ -264,7 +264,7 @@ script 23 mmbn6 {
 		buffer = 3
 	"""
 	」
-	で D[ー]F[ー][?]
+	で D[ó]F[ó]ü
 	
 	"""
 	positionOptionHorizontal
@@ -304,8 +304,8 @@ script 24 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	にゅ?りょーを ちゅ?''て
-	fYュ[ー]に もどる[?]
+	にゅ?りょóを ちゅ?''て
+	fYç[ó]に もどるü
 	
 	"""
 	positionOptionHorizontal
@@ -349,7 +349,7 @@ script 25 mmbn6 {
 		value = 1
 	"""
 	なま:の へん'ゅ?に
-	もどる[?]
+	もどるü
 	
 	"""
 	positionOptionHorizontal
@@ -391,8 +391,8 @@ script 25 mmbn6 {
 		global = 4
 		value = 2
 	"""
-	にゅ?りょーを ちゅ?''て
-	fYュ[ー]に もどる[?]
+	にゅ?りょóを ちゅ?''て
+	fYç[ó]に もどるü
 	
 	"""
 	positionOptionHorizontal
@@ -432,8 +432,8 @@ script 26 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	にゅ?りょーを ちゅ?''て
-	SCQmがめんに もどる[?]
+	にゅ?りょóを ちゅ?''て
+	SCQmがめんに もどるü
 	
 	"""
 	positionOptionHorizontal
@@ -477,7 +477,7 @@ script 27 mmbn6 {
 		value = 1
 	"""
 	なま:の へん'ゅ?に
-	もどる[?]
+	もどるü
 	
 	"""
 	positionOptionHorizontal
@@ -519,8 +519,8 @@ script 27 mmbn6 {
 		global = 4
 		value = 2
 	"""
-	にゅ?りょーを ちゅ?''て
-	SCQmがめんに もどる[?]
+	にゅ?りょóを ちゅ?''て
+	SCQmがめんに もどるü
 	
 	"""
 	positionOptionHorizontal
@@ -564,43 +564,43 @@ script 28 mmbn6 {
 		target = 20
 }
 script 40 mmbn6s {
-	"+█?:%,!ー[bat]&;'・゜.たち\"てとなにぬねのはひふへほまみむめもやゆよ[ー]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
+	"+█?:%,!ó[bat]&;'・゜.たち\"てとなにぬねのはひふへほまみむめもやゆよ[ó]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
 	end
 }
 script 41 mmbn6s {
-	"BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikj[ー]~pnmoltuq[\"][゜]ァィゥェォャュョッ[・]"
+	"BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikj[ó]~pnmoltuq[\"][゜]àáºâãòçíê[・]"
 	end
 }
 script 42 mmbn6s {
-	"+█?:%がぎぐげござじずぜぞだぢづでどなにぬねのばびぶべぼまみむめもやゆよ[ー]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
+	"+█?:%がぎぐげござじずぜぞだぢづでどなにぬねのばびぶべぼまみむめもやゆよ[ó]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
 	end
 }
 script 43 mmbn6s {
-	"BCヴEDwvzxy[FZ][BX][SP][EX][RV]ダヂヅデドXYWUVバビブベボedgfhikj[ー]~pnmoltuq[\"][゜]ァィゥェォャュョッ[・]"
+	"BCéEDwvzxy[FZ][BX][SP][EX][RV]ÂÇÃÀÁXYWUVÒÊÓÉÍedgfhikj[ó]~pnmoltuq[\"][゜]àáºâãòçíê[・]"
 	end
 }
 script 44 mmbn6s {
-	"+█?:%,!ー[bat]&;'・゜.たち\"てとなにぬねのぱぴぷぺぽまみむめもやゆよ[ー]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
+	"+█?:%,!ó[bat]&;'・゜.たち\"てとなにぬねのぱぴぷぺぽまみむめもやゆよ[ó]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
 	end
 }
 script 45 mmbn6s {
-	"BCAEDHJIFGLNOKMSTRPQXYWUVパピプペポedgfhikj[ー]~pnmoltuq[\"][゜]ァィゥェォャュョッ[・]"
+	"BCAEDHJIFGLNOKMSTRPQXYWUVÔÕÚÖÜedgfhikj[ó]~pnmoltuq[\"][゜]àáºâãòçíê[・]"
 	end
 }
 script 46 mmbn6s {
-	"+█?:%がぎぐげござじずぜぞだぢづでどなにぬねのぱぴぷぺぽまみむめもやゆよ[ー]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
+	"+█?:%がぎぐげござじずぜぞだぢづでどなにぬねのぱぴぷぺぽまみむめもやゆよ[ó]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
 	end
 }
 script 47 mmbn6s {
-	"BCヴEDwvzxy[FZ][BX][SP][EX][RV]ダヂヅデドXYWUVパピプペポedgfhikj[ー]~pnmoltuq[\"][゜]ァィゥェォャュョッ[・]"
+	"BCéEDwvzxy[FZ][BX][SP][EX][RV]ÂÇÃÀÁXYWUVÔÕÚÖÜedgfhikj[ó]~pnmoltuq[\"][゜]àáºâãòçíê[・]"
 	end
 }
 script 48 mmbn6s {
-	" ドバビブベボがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ                          ヴパピプペポ                                                           をぁぃぅぇぉゃゅょっ~+█?:%,!ー[bat]&;'・゜.たち\"てとなにぬねのはひ    [・]uァィゥェォャュョッ[ー]BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikjpnmoltq  ふへほまみむめもやゆよらりるれろわんwvzxy[FZ][BX][SP][EX][RV]ダヂヅデ"
+	" ÁÒÊÓÉÍがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ                          éÔÕÚÖÜ                                                           をぁぃぅぇぉゃゅょっ~+█?:%,!ó[bat]&;'・゜.たち\"てとなにぬねのはひ    [・]uàáºâãòçíê[ó]BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikjpnmoltq  ふへほまみむめもやゆよらりるれろわんwvzxy[FZ][BX][SP][EX][RV]ÂÇÃÀ"
 	end
 }
 script 49 mmbn6s {
-	" ドバビブベボがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ ヴパピプペポをぁぃぅぇぉゃゅょっ~+█?:%,!ー[bat]&;'・゜.たち\"てとなにぬねのはひ[・]uァィゥェォャュョッ[ー]BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikjpnmoltqふへほまみむめもやゆよらりるれろわんwvzxy[FZ][BX][SP][EX][RV]ダヂヅデ"
+	" ÁÒÊÓÉÍがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ éÔÕÚÖÜをぁぃぅぇぉゃゅょっ~+█?:%,!ó[bat]&;'・゜.たち\"てとなにぬねのはひ[・]uàáºâãòçíê[ó]BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikjpnmoltqふへほまみむめもやゆよらりるれろわんwvzxy[FZ][BX][SP][EX][RV]ÂÇÃÀ"
 	end
 }
 script 50 mmbn6s {
@@ -731,8 +731,8 @@ script 80 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	やったね、rsーん[!]
-	XCODペo[ー]Pィqz[!]
+	やったね、rsóん[!]
+	XCODÖo[ó]Páqz[!]
 	"""
 	keyWait
 		any = false
@@ -744,8 +744,8 @@ script 81 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	やったね、rsーん[!]
-	XCODペo[ー]Pィqz[!]
+	やったね、rsóん[!]
+	XCODÖo[ó]Páqz[!]
 	"""
 	keyWait
 		any = false
@@ -757,8 +757,8 @@ script 82 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	ざんねんだったね、rsーん
-	ボIも もっと がんばらな!ゃ
+	ざんねんだったね、rsóん
+	ÍIも もっと がんばらな!ゃ
 	"""
 	keyWait
 		any = false
@@ -770,8 +770,8 @@ script 83 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	ざんねんだったね、rsーん
-	ボIも もっと がんばらな!ゃ
+	ざんねんだったね、rsóん
+	ÍIも もっと がんばらな!ゃ
 	"""
 	keyWait
 		any = false
@@ -783,7 +783,7 @@ script 84 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	[bat]っちゃーが ",な,ったね
+	[bat]っちゃóが ",な,ったね
 	"ぎ&.は がんばって勝と?[!]
 	"""
 	keyWait
@@ -796,8 +796,8 @@ script 85 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	rsーん[・][・][・]
-	にげちゃダfだよ[・][・][・]
+	rsóん[・][・][・]
+	にげちゃÂfだよ[・][・][・]
 	"""
 	keyWait
 		any = false
@@ -809,7 +809,7 @@ script 86 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	"?'んEp[ー]だ[・][・][・]
+	"?'んEp[ó]だ[・][・][・]
 	も?█ちど やりな%.?
 	"""
 	keyWait
@@ -829,7 +829,7 @@ script 90 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"IlOD[ー]バ[ー]バQm2とは[?]\n"
+	"IlOD[ó]Ò[ó]ÒQm2とはü\n"
 	option
 		brackets = 0
 		left = 1
@@ -838,7 +838,7 @@ script 90 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"D[BX]ャeBCGqに\"█て\n"
+	"D[BX]òeBCGqに\"█て\n"
 	option
 		brackets = 0
 		left = 2
@@ -847,7 +847,7 @@ script 90 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"ブlッJqzとビ[ー]OQBAQ"
+	"ÓlêJqzとÊ[ó]OQBAQ"
 	select
 		default = 0
 		BSeparate = true
@@ -874,7 +874,7 @@ script 91 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"IlOD[ー]バ[ー]バQm2とは[?]\n"
+	"IlOD[ó]Ò[ó]ÒQm2とはü\n"
 	option
 		brackets = 0
 		left = 1
@@ -883,7 +883,7 @@ script 91 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"D[BX]ャeBCGqに\"█て\n"
+	"D[BX]òeBCGqに\"█て\n"
 	option
 		brackets = 0
 		left = 2
@@ -892,7 +892,7 @@ script 91 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"ブlッJqzとビ[ー]OQBAQ"
+	"ÓlêJqzとÊ[ó]OQBAQ"
 	select
 		default = 1
 		BSeparate = true
@@ -919,7 +919,7 @@ script 92 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"IlOD[ー]バ[ー]バQm2とは[?]\n"
+	"IlOD[ó]Ò[ó]ÒQm2とはü\n"
 	option
 		brackets = 0
 		left = 1
@@ -928,7 +928,7 @@ script 92 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"D[BX]ャeBCGqに\"█て\n"
+	"D[BX]òeBCGqに\"█て\n"
 	option
 		brackets = 0
 		left = 2
@@ -937,7 +937,7 @@ script 92 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"ブlッJqzとビ[ー]OQBAQ"
+	"ÓlêJqzとÊ[ó]OQBAQ"
 	select
 		default = 2
 		BSeparate = true
@@ -958,32 +958,32 @@ script 93 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	IlOD[ー]バ[ー]バQm2とは
-	ぜん;ーのlッIeqEz[EX]5に
+	IlOD[ó]Ò[ó]ÒQm2とは
+	ぜん;óのlêIeqEz[EX]5に
 	ひ!"づ!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	「lッIeqEz[EX]6」と
-	「'ん[・]ボIらのた█よ?」の
+	「lêIeqEz[EX]6」と
+	「'ん[・]ÍIらのた█よ?」の
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	まったーちが?x[ー]gど?'で
-	どちらが;!に bINャIを
-	た%゜る,を !.?x[ー]gなんだ
+	まったóちが?x[ó]gど?'で
+	どちらが;!に bINòIを
+	た%゜る,を !.?x[ó]gなんだ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	;!にbINャIを た%・,
-	[BX]ャqyーんの[H2][P2]を0に・れば
-	ボIらの勝ちになるよ
+	;!にbINòIを た%・,
+	[BX]òqyóんの[H2][P2]を0に・れば
+	ÍIらの勝ちになるよ
 	"""
 	keyWait
 		any = false
@@ -999,68 +999,68 @@ script 94 mmbn6 {
 		delay = 2
 	"""
 	%たが█に +る&とを・ると
-	+█てのプoCを [BX]ャe'+:る
-	D[BX]ャeBCGqを %ーれるんだ
+	+█てのÚoCを [BX]òe'+:る
+	D[BX]òeBCGqを %óれるんだ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ボIらは バッQJャVqと█?
-	Tップを bINャIに+てれば
-	D[BX]ャeBCGqを %ーれるよ
+	ÍIらは ÒêQJòVqと█?
+	TêÚを bINòIに+てれば
+	D[BX]òeBCGqを %óれるよ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ただ'バッQJャVqは1~4の
+	ただ'ÒêQJòVqは1~4の
 	4'ゅる█が+って .れぞれ
-	D[BX]ャeのな█よ?が ちが?んだ
+	D[BX]òeのな█よ?が ちが?んだ
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"バッQJャVq1は"
+	"ÒêQJòVq1は"
 	callDisturbIcon
 		color = 5
 	spacePx
 		count = 18
 	"""
 	
-	NqボIがわに ボIが+らわれて
-	lッIバOS[ー]で 攻撃・るよ
+	NqÍIがわに ÍIが+らわれて
+	lêIÒOS[ó]で 攻撃・るよ
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"バッQJャVq2は"
+	"ÒêQJòVq2は"
 	callDisturbIcon
 		color = 4
 	spacePx
 		count = 18
 	"""
 	
-	NqボIがわに ボIが+らわれて
-	pビnqzで 攻撃・るよ
+	NqÍIがわに ÍIが+らわれて
+	pÊnqzで 攻撃・るよ
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"バッQJャVq3は"
+	"ÒêQJòVq3は"
 	callDisturbIcon
 		color = 6
 	spacePx
 		count = 18
 	"""
 	
-	NqボIがわに ボIが+らわれて
-	ドn[ー]gM[ー]ドで 攻撃・るよ
+	NqÍIがわに ÍIが+らわれて
+	Án[ó]gM[ó]Áで 攻撃・るよ
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"バッQJャVq4は"
+	"ÒêQJòVq4は"
 	callDisturbIcon
 		color = 5
 	spacePx
@@ -1075,40 +1075,40 @@ script 94 mmbn6 {
 		count = 18
 	"""
 	
-	なんと3'ゅる█の D[BX]ャe
-	BCGqを█っ!に%ーっちゃ?よ
+	なんと3'ゅる█の D[BX]òe
+	BCGqを█っ!に%óっちゃ?よ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	.'て;らに も?ひと"
-	D[BX]ャeBCGqを%ーる
+	D[BX]òeBCGqを%óる
 	ほ?ほ?が +るんだ
 	"""
 	keyWait
 		any = false
 	clearMsg
-	".れは[SP]バn HAqS[ー][!]"
+	".れは[SP]Òn HAqS[ó][!]"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	bINャIの攻撃の'ゅん,んに
-	Tップ攻撃を+てると
+	bINòIの攻撃の'ゅん,んに
+	TêÚ攻撃を+てると
 	
 	"""
 	callDisturbIcon
 		color = 0
 	spacePx
 		count = 18
-	"を%ーる&とが で!るんだ"
+	"を%óる&とが で!るんだ"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NqボIがわのbINャIが
-	ブpッドoCq と█?
+	NqÍIがわのbINòIが
+	ÓpêÁoCq と█?
 	ひっ;"わざを ",?よ
 	"""
 	keyWait
@@ -1116,8 +1116,8 @@ script 94 mmbn6 {
 	clearMsg
 	"""
 	ただ'[!]
-	D[BX]ャeBCGqはと?ぜん
-	%ーられてーる&とも+るんだ
+	D[BX]òeBCGqはと?ぜん
+	%óられてóる&とも+るんだ
 	"""
 	keyWait
 		any = false
@@ -1127,8 +1127,8 @@ script 94 mmbn6 {
 	spacePx
 		count = 18
 	"""
-	がーると
-	[BX]ャqyーんが M[ー]ド攻撃[!]
+	がóると
+	[BX]òqyóんが M[ó]Á攻撃[!]
 	"""
 	keyWait
 		any = false
@@ -1138,8 +1138,8 @@ script 94 mmbn6 {
 	spacePx
 		count = 18
 	"""
-	がーると
-	[BX]ャqyーんが wqデmMm[!]
+	がóると
+	[BX]òqyóんが wqÀmMm[!]
 	"""
 	keyWait
 		any = false
@@ -1149,8 +1149,8 @@ script 94 mmbn6 {
 	spacePx
 		count = 18
 	"""
-	がーると
-	[BX]ャqyーんが バCI攻撃[!]
+	がóると
+	[BX]òqyóんが ÒCI攻撃[!]
 	"""
 	keyWait
 		any = false
@@ -1160,8 +1160,8 @@ script 94 mmbn6 {
 	spacePx
 		count = 18
 	"""
-	は bINャIが
-	ブpッドoCq と█?
+	は bINòIが
+	ÓpêÁoCq と█?
 	ひっ;"わざを ",?よ
 	"""
 	keyWait
@@ -1177,7 +1177,7 @@ script 95 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	ブlッJqzって█?のは
+	ÓlêJqzって█?のは
 	1回だ[bat]",:る
 	ぼ?ぎょわざ なんだ
 	"""
@@ -1186,15 +1186,15 @@ script 95 mmbn6 {
 	clearMsg
 	"""
 	HOSg画面をぬ[bat]ると!に
-	[O2][K2]じゃなーて
+	[O2][K2]じゃなóて
 	[B2][L2][O2][C2][K2]を :らぶと
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"ぎのS[ー]q中 +█てが%ーった
-	D[BX]ャeBCGqを ・べて
+	"ぎのS[ó]q中 +█てが%óった
+	D[BX]òeBCGqを ・べて
 	はね,:・&とが で!るんだ
 	"""
 	keyWait
@@ -1202,45 +1202,45 @@ script 95 mmbn6 {
 	clearMsg
 	"""
 	ただ'、+█ても █ちどだ[bat]
-	ブlッJqzを",:るって&とを
+	ÓlêJqzを",:るって&とを
 	わ・れな█よ?にね[!]
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	+と、cォmダの中には
-	ビ[ー]OQBAQと█?
-	ボIが 獣化・るTップが+るんだ
+	+と、cãmÂの中には
+	Ê[ó]OQBAQと█?
+	ÍIが 獣化・るTêÚが+るんだ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	獣化中は バッQJャVqと
-	XビTップ█が█の
-	Tップ攻撃を ZッQ;゜る&とで
+	獣化中は ÒêQJòVqと
+	XÊTêÚ█が█の
+	TêÚ攻撃を ZêQ;゜る&とで
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NqボIがわに
-	D[BX]ャeBCGqを%ーれるよ
+	NqÍIがわに
+	D[BX]òeBCGqを%óれるよ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	だ█ぎゃーてんのTャqO[!]
-	だ[bat]ど NqボIにも%なじよ?に
+	だ█ぎゃóてんのTòqO[!]
+	だ[bat]ど NqÍIにも%なじよ?に
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	QpqOって█?
-	へん'んパt[ー]Bップが+る,ら
+	へん'んÔt[ó]BêÚが+る,ら
 	ゆだんは !んも"だよ[!]
 	"""
 	keyWait

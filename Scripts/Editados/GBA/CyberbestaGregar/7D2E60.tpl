@@ -13,7 +13,7 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	じゃ+、zpqドeq、
+	じゃ+、zpqÁeq、
 	█"ものや"を たのむ
 	"""
 	keyWait
@@ -27,7 +27,7 @@ script 1 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	ドmmmmmm[!][!]
+	Ámmmmmm[!][!]
 	%?よ[!] ま,゜ろ█
 	"""
 	keyWait
@@ -38,7 +38,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"█、█った█ なにを[・][・][・][?]"
+	"█、█った█ なにを[・][・][・]ü"
 	keyWait
 		any = false
 	end
@@ -56,7 +56,7 @@ script 3 mmbn6 {
 	clearMsg
 	"""
 	&█"は、Doが
-	█わーだ!の とっーんを
+	█わóだ!の とっóんを
 	・ると!の やり,ただ
 	"""
 	keyWait
@@ -64,7 +64,7 @@ script 3 mmbn6 {
 	clearMsg
 	"""
 	&のEnBに %っ&ちて!た
-	らー゜!を ぜんぶ
+	らó゜!を ぜんぶ
 	ぶっ&わ・んだ ██な
 	"""
 	keyWait
@@ -73,26 +73,26 @@ script 3 mmbn6 {
 	"""
 	?ま█ぐ+█に THpを
 	ためてやっとよ、█っ!に
-	たー;ん █わが ーだ[bat]っ,らな
+	たó;ん █わが óだ[bat]っ,らな
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"?まー やれよ"
+	"?まó やれよ"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	ただ、+んまり、ちんたら
-	やってっと zpqドeqに
-	ーーり"[bat]た、
+	やってっと zpqÁeqに
+	óóり"[bat]た、
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	はっぱよ?の バIダqが
-	ばーは" ・るよ?に
+	はっぱよ?の ÒIÂqが
+	ばóは" ・るよ?に
 	'て+っ,らな
 	"""
 	keyWait
@@ -106,7 +106,7 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	はっぱよ?の バIダq[?]
+	はっぱよ?の ÒIÂqü
 	なんで .んなものを[・][・][・]
 	"""
 	keyWait
@@ -121,7 +121,7 @@ script 5 mmbn6 {
 	msgOpen
 	"""
 	!んちょ?,んが
-	な,ったら、とっーんに
+	な,ったら、とっóんに
 	ならねぇだろが[!]
 	"""
 	keyWait
@@ -136,7 +136,7 @@ script 5 mmbn6 {
 	clearMsg
 	"""
 	.れとな、█わ█が█の ものに
-	ドnmをむ[bat]たら █[bat]な█ぜ[!]
+	Ánmをむ[bat]たら █[bat]な█ぜ[!]
 	"""
 	keyWait
 		any = false
@@ -148,12 +148,12 @@ script 5 mmbn6 {
 	"""
 	じゃ+、.ろ.ろ はじめっぜぇ
 	&のEnBに %ちて!た
-	らー゜!は ぜんぶで35&だ
+	らó゜!は ぜんぶで35&だ
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"とっーん、,█'[!]"
+	"とっóん、,█'[!]"
 	keyWait
 		any = false
 	end

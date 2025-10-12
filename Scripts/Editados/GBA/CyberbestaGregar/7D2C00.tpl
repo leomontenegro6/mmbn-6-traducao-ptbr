@@ -15,13 +15,13 @@ script 0 mmbn6 {
 	"""
 	Doっちの じゅぎょ?では
 	どんな ,た█ がんばんでも
-	ーだ[bat]る、
+	óだ[bat]る、
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	;ーがんの PIYッI を
+	;óがんの PIYêI を
 	まなんでもら?ぜ
 	"""
 	keyWait
@@ -34,7 +34,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	";ーがんの PIYッI,[・][・][・]"
+	";óがんの PIYêI,[・][・][・]"
 	keyWait
 		any = false
 	clearMsg
@@ -47,14 +47,14 @@ script 2 mmbn6 {
 	msgOpen
 	"""
 	%█%█、ふざ[bat]んな
-	バHに ・んじゃねぇよ
+	ÒHに ・んじゃねぇよ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	&れ;:、'っ,り
-	'ゅ?とー 'と!ゃ+
+	'ゅ?とó 'と!ゃ+
 	"""
 	keyWait
 		any = false
@@ -69,7 +69,7 @@ script 2 mmbn6 {
 	clearMsg
 	"""
 	んじゃ+、;っ;と
-	.のパMGqの 中を
+	.のÔMGqの 中を
 	のぞ█てみな[・][・][・]
 	"""
 	keyWait

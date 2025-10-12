@@ -5,13 +5,13 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Nュポポ~[!][!]"
+	"NçÜÜ~[!][!]"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Doが Tャ[ー][BX]eqだ[!]
-	'っ,り .?じゅ?'てーれよ
+	Doが Tò[ó][BX]eqだ[!]
+	'っ,り .?じゅ?'てóれよ
 	"""
 	keyWait
 		any = false
@@ -23,7 +23,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"+ぁ、よろ'ーな[!]"
+	"+ぁ、よろ'óな[!]"
 	keyWait
 		any = false
 	clearMsg
@@ -35,15 +35,15 @@ script 2 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	では ;っ.ー ?ん&?を
+	では ;っ.ó ?ん&?を
 	はじめる
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	まずは ApCqS[ー]UッQ2の
-	電脳OP[ー]Nョqに 向?んだ
+	まずは ApCqS[ó]UêQ2の
+	電脳OP[ó]Níqに 向?んだ
 	"""
 	keyWait
 		any = false
@@ -56,7 +56,7 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ApCqS[ー]UッQ2だね、
+	ApCqS[ó]UêQ2だね、
 	?ん、わ,った[!]
 	"""
 	keyWait

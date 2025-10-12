@@ -769,7 +769,7 @@ script 38 mmbn6 {
 	end
 }
 script 39 mmbn6 {
-	"   J ド [■] む "
+	"   J Á [■] む "
 	controlLock
 	"g0[G2]0+0ざ0C1"
 	msgOpenQuickExt

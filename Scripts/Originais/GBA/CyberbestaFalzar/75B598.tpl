@@ -45,7 +45,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"&、&?げ!が \"?じな█[!][?]"
+	"&、&?げ!が \"?じな█[!]ü"
 	keyWait
 		any = false
 	clearMsg
@@ -66,7 +66,7 @@ script 12 mmbn6 {
 	clearMsg
 	"""
 	+.びは &&までだ[!]
-	なぶりごろ'に 'てーれるわ[!]
+	なぶりごろ'に 'てóれるわ[!]
 	"""
 	keyWait
 		any = false
@@ -76,7 +76,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"[・][・][・]Iッ[!][!]"
+	"[・][・][・]Iê[!][!]"
 	keyWait
 		any = false
 	clearMsg
@@ -86,7 +86,7 @@ script 13 mmbn6 {
 script 14 mmbn6 {
 	mugshotHide
 	msgOpen
-	".&までだ、はー'ゃー[!][!]"
+	".&までだ、はó'ゃó[!][!]"
 	keyWait
 		any = false
 	clearMsg
@@ -97,7 +97,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Count
 	msgOpen
-	"なにものだ[!][?]"
+	"なにものだ[!]ü"
 	keyWait
 		any = false
 	end
@@ -106,7 +106,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Count
 	msgOpen
-	"ztァァァァ[!][!]"
+	"ztàààà[!][!]"
 	keyWait
 		any = false
 	end
@@ -124,7 +124,7 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Count
 	msgOpen
-	"z、zDォォォォッ[!][!]"
+	"z、zDããããê[!][!]"
 	keyWait
 		any = false
 	clearMsg
@@ -135,7 +135,7 @@ script 21 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Aォォォォ[!][!]"
+	"Aãããã[!][!]"
 	keyWait
 		any = false
 	end
@@ -146,7 +146,7 @@ script 22 mmbn6 {
 	msgOpen
 	"""
 	ま、まだ THpを
-	の&'て█たの,[!][?]
+	の&'て█たの,[!]ü
 	"""
 	keyWait
 		any = false
@@ -159,7 +159,7 @@ script 23 mmbn6 {
 		mugshot = Count
 	msgOpen
 	"""
-	zDDォォォォッ[!][!]
+	zDDããããê[!][!]
 	ま[bat]は゜ん[!][!]
 	"""
 	keyWait
@@ -171,7 +171,7 @@ script 23 mmbn6 {
 script 24 mmbn6 {
 	mugshotHide
 	msgOpen
-	"lッIeq[!][!]"
+	"lêIeq[!][!]"
 	keyWait
 		any = false
 	end
@@ -180,7 +180,7 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = Django
 	msgOpen
-	"lッIeq、█っ'ょに[!]"
+	"lêIeq、█っ'ょに[!]"
 	keyWait
 		any = false
 	clearMsg
@@ -200,7 +200,7 @@ script 27 mmbn6 {
 	mugshotShow
 		mugshot = Count
 	msgOpen
-	"ztttァァァ[!]"
+	"ztttààà[!]"
 	keyWait
 		any = false
 	end
@@ -210,8 +210,8 @@ script 30 mmbn6 {
 		mugshot = JudgeMan
 	msgOpen
 	"""
-	lッIeqb
-	CドA Om ベHp[SP]
+	lêIeqb
+	CÁA Om ÉHp[SP]
 	"""
 	keyWait
 		any = false
@@ -222,8 +222,8 @@ script 31 mmbn6 {
 		mugshot = JudgeMan
 	msgOpen
 	"""
-	lッIeqb
-	バQmTップu RHA ベHp[SP]
+	lêIeqb
+	ÒQmTêÚu RHA ÉHp[SP]
 	"""
 	keyWait
 		any = false
@@ -234,8 +234,8 @@ script 32 mmbn6 {
 		mugshot = JudgeMan
 	msgOpen
 	"""
-	lッIeqb
-	EnBu AバA ベHp[SP]
+	lêIeqb
+	EnBu AÒA ÉHp[SP]
 	"""
 	keyWait
 		any = false
@@ -244,7 +244,7 @@ script 32 mmbn6 {
 script 40 mmbn6 {
 	mugshotHide
 	msgOpen
-	"&のKッQでたた,█ま・,[?]\n"
+	"&のKêQでたた,█ま・,ü\n"
 	positionOptionHorizontal
 		width = 8
 	option

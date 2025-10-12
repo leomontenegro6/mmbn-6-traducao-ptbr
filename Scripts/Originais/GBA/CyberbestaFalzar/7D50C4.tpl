@@ -6,7 +6,7 @@ script 0 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	[・][・][・]じ"に みごとに Xビを
+	[・][・][・]じ"に みごとに XÊを
 	.?じゅ? 'て█るな
 	"""
 	keyWait
@@ -17,8 +17,8 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Tャ[ー][BX]eqを %ま:の
-	nqIXビに'てやろ?
+	Tò[ó][BX]eqを %ま:の
+	nqIXÊに'てやろ?
 	"""
 	keyWait
 		any = false
@@ -35,8 +35,8 @@ script 1 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Tャ[ー][BX]eqが
-	rsの nqIXビになった[!][!]
+	Tò[ó][BX]eqが
+	rsの nqIXÊになった[!][!]
 	"""
 	waitOWVar
 		variable = 0
@@ -55,8 +55,8 @@ script 2 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	&れで、Tャ[ー][BX]eqのTHp、
-	Tャ[ー][BX]IlOが
+	&れで、Tò[ó][BX]eqのTHp、
+	Tò[ó][BX]IlOが
 	",█&な゜るはずだ
 	"""
 	keyWait
@@ -71,16 +71,16 @@ script 2 mmbn6 {
 	clearMsg
 	"""
 	ぜひ、わが て"ど?が█'ゃに
-	'ゅ?'ょー'て もら█た█
-	ーら█だよ
+	'ゅ?'ょó'て もら█た█
+	óら█だよ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	[・][・][・]も'、Tャ[ー][BX]eqを
-	Dペo[ー]Q'たーなったら
-	&&に ーると██
+	[・][・][・]も'、Tò[ó][BX]eqを
+	DÖo[ó]Q'たóなったら
+	&&に óると██
 	"""
 	keyWait
 		any = false

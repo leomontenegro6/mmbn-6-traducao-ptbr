@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	msgOpen
 	soundDisableTextSFX
 	controlLock
-	"プmmmm~"
+	"Úmmmm~"
 	wait
 		frames = 45
 	soundEnableTextSFX
@@ -16,7 +16,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	"""
-	[・][・][・]まもなー、'ゅっぱ"
+	[・][・][・]まもなó、'ゅっぱ"
 	█た'ま・~
 	"""
 	keyWait
@@ -24,7 +24,7 @@ script 0 mmbn6 {
 	clearMsg
 	"""
 	[・][・][・],[bat]&みじょ?'ゃは
-	%やめーだ;~█
+	%やめóだ;~█
 	"""
 	keyWait
 		any = false
@@ -38,7 +38,7 @@ script 1 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"ぜん.ーぜん'~ん[!]"
+	"ぜん.óぜん'~ん[!]"
 	keyWait
 		any = false
 	end

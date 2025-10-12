@@ -12,7 +12,7 @@ script 0 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"zpqドeq、やるんだ"
+	"zpqÁeq、やるんだ"
 	keyWait
 		any = false
 	clearMsg
@@ -25,7 +25,7 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	[・][・][・]%?よ[!]
-	ドmmmmmm[!][!]
+	Ámmmmmm[!][!]
 	"""
 	keyWait
 		any = false
@@ -41,12 +41,12 @@ script 2 mmbn6 {
 	clearMsg
 	"""
 	&のEnBに %ちて!た
-	らー゜!は ぜんぶで40&だ
+	らó゜!は ぜんぶで40&だ
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"とっーん、,█'[!]"
+	"とっóん、,█'[!]"
 	keyWait
 		any = false
 	end

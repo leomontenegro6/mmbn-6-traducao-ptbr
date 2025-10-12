@@ -6,15 +6,15 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	"""
-	[・][・][・]N[ー]LCドEnB~
-	N[ー]LCドEnB~
+	[・][・][・]N[ó]LCÁEnB~
+	N[ó]LCÁEnB~
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	%わ・れものの な█よ?
-	ごちゅ?█ーだ;█
+	ごちゅ?█óだ;█
 	"""
 	keyWait
 		any = false
@@ -25,7 +25,7 @@ script 1 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Nュポ~[!][!]
+	NçÜ~[!][!]
 	██、?んてんだったぞ
 	"""
 	keyWait
@@ -45,7 +45,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = AlFerry
 	msgOpen
-	"[・][・][・]プpzBAQ・るんだ"
+	"[・][・][・]ÚpzBAQ・るんだ"
 	keyWait
 		any = false
 	clearMsg

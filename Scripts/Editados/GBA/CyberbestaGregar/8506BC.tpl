@@ -687,7 +687,7 @@ script 38 mmbn6 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"[:]ャーぇんぼげめぢは[f2]・・・"
+	"öòóぇんぼげめぢは[f2]・・・"
 	keyWait
 		any = false
 	waitHold
@@ -701,7 +701,7 @@ script 39 mmbn6 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"光ーまぽめゃ[x2]は ど[END]げめ[a2]"
+	"光óまぽめゃ[x2]は ど[END]げめ[a2]"
 	keyWait
 		any = false
 	waitHold
@@ -790,7 +790,7 @@ script 59 mmbn6 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"光[T2][U2]ーまぽめゃ[x2]は ど[END]げめ[a2]"
+	"光[T2][U2]óまぽめゃ[x2]は ど[END]げめ[a2]"
 	keyWait
 		any = false
 	waitHold

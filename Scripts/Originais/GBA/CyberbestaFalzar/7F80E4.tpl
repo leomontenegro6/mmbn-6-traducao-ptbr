@@ -4,8 +4,8 @@
 script 20 mmbn6 {
 	msgOpenMenu
 	"""
-	XeEu YュAnョI
-	NPIダLC
+	XeEu YçAníI
+	NPIÂLC
 	"""
 	keyWait
 		any = false
@@ -18,7 +18,7 @@ script 22 mmbn6 {
 		buffer = 2
 	"""
 	」
-	デ jlNCデOH[?]
+	À jlNCÀOHü
 	
 	"""
 	positionOptionHorizontal
@@ -56,8 +56,8 @@ script 22 mmbn6 {
 script 24 mmbn6 {
 	msgOpenMenu
 	"""
-	YュAnョIu TュANNP
-	fYュ[ー]Y hドneOH[?]
+	YçAníIu TçANNP
+	fYç[ó]Y hÁneOHü
 	
 	"""
 	positionOptionHorizontal

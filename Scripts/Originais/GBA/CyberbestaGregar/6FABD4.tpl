@@ -14,8 +14,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	"?'んF[ー]ブm,
-	tCioOBダプS、どちらで
+	"?'んF[ó]Óm,
+	tCioOBÂÚS、どちらで
 	"?'ん・る,を:らんでね
 	"""
 	waitHold
@@ -27,7 +27,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	じゃ+、まずはじめにK[ー]ブ
+	じゃ+、まずはじめにK[ó]Ó
 	・るね[!]
 	
 	"""
@@ -70,8 +70,8 @@ script 2 mmbn6 {
 		jumpIfFalse = 3
 	clearMsg
 	"""
-	・でに+る K[ー]ブデ[ー]Sに
-	?わが!'ちゃ?[bat]ど ██[?]
+	・でに+る K[ó]ÓÀ[ó]Sに
+	?わが!'ちゃ?[bat]ど ██ü
 	
 	"""
 	positionOptionHorizontal
@@ -113,7 +113,7 @@ script 3 mmbn6 {
 		jumpUnused = 0
 	clearMsg
 	"""
-	K[ー]ブに
+	K[ó]Óに
 	'っぱ█'たみた█[・][・][・]
 	"""
 	keyWait
@@ -156,7 +156,7 @@ script 4 mmbn6 {
 	clearMsg
 	"""
 	よ'[!]
-	K[ー]ブ%わったよ[!]
+	K[ó]Ó%わったよ[!]
 	"""
 	keyWait
 		any = false
@@ -169,7 +169,7 @@ script 5 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"&のh[ー]ドはまだ:らべな█よ"
+	"&のh[ó]Áはまだ:らべな█よ"
 	waitHold
 }
 script 6 mmbn6 {
@@ -179,7 +179,7 @@ script 6 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"ともだちとUッQバQmを・るよ"
+	"ともだちとUêQÒQmを・るよ"
 	waitHold
 }
 script 7 mmbn6 {
@@ -189,7 +189,7 @@ script 7 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"ともだちとGqペBを・るよ"
+	"ともだちとGqÖBを・るよ"
 	waitHold
 }
 script 8 mmbn6 {
@@ -199,7 +199,7 @@ script 8 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"ともだちとQo[ー]ドを・るよ"
+	"ともだちとQo[ó]Áを・るよ"
 	waitHold
 }
 script 9 mmbn6 {
@@ -210,7 +210,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	1回のバQmで
+	1回のÒQmで
 	,ちま[bat]を !めるよ
 	てがるに たた,:るのが██ね
 	"""
@@ -224,9 +224,9 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	3回のバQmで ;!に
+	3回のÒQmで ;!に
 	2勝'た方が 勝ちになるよ
-	'んのじ"りょーが ため;れるね
+	'んのじ"りょóが ため;れるね
 	"""
 	waitHold
 }
@@ -238,9 +238,9 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	pqダgに &?゜█;れた
-	cォmダで たた,?よ
-	・べてのTップを ",█&な.?
+	pqÂgに &?゜█;れた
+	cãmÂで たた,?よ
+	・べてのTêÚを ",█&な.?
 	"""
 	waitHold
 }
@@ -252,9 +252,9 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	デ[ー]SpCブpnを ひ,ー'て
+	À[ó]SpCÓpnを ひ,ó'て
 	じぶんにな█[bat]ど +█てに+る
-	デ[ー]Sを %ぎな█+:るよ
+	À[ó]Sを %ぎな█+:るよ
 	"""
 	waitHold
 }
@@ -266,8 +266,8 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	ともだちと デn[ー]QSCgを
-	ひ,ー'て ・ぐれたoG[ー]ドを
+	ともだちと Àn[ó]QSCgを
+	ひ,ó'て ・ぐれたoG[ó]Áを
 	!ょ?ゆ?'+?&とがで!るよ
 	"""
 	waitHold
@@ -280,7 +280,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	ともだちと バQmTップを
+	ともだちと ÒQmTêÚを
 	&?,ん ・る&とがで!るよ
 	"""
 	waitHold
@@ -293,7 +293,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	ともだちと XビHOプlzpgを
+	ともだちと XÊHOÚlzpgを
 	&?,ん ・る&とがで!るよ
 	"""
 	waitHold
@@ -306,7 +306,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	ともだちと cォmダを
+	ともだちと cãmÂを
 	&?,ん ・る&とがで!るよ
 	"""
 	waitHold
@@ -319,7 +319,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	れん'ゅ?バQmだよ
+	れん'ゅ?ÒQmだよ
 	!がるに たた,:るのが██ね
 	"""
 	waitHold
@@ -332,34 +332,34 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	ま[bat]た方は nュッIの中の
-	Tップを1枚 ?ばわれて'ま?
+	ま[bat]た方は nçêIの中の
+	TêÚを1枚 ?ばわれて'ま?
 	'ん[bat]ん'ょ?ぶだよ
 	"""
 	waitHold
 }
 script 19 mmbn6s {
-	"UッQバQm"
+	"UêQÒQm"
 	end
 }
 script 20 mmbn6s {
-	"GqペB"
+	"GqÖB"
 	end
 }
 script 21 mmbn6s {
-	"Qo[ー]ド"
+	"Qo[ó]Á"
 	end
 }
 script 22 mmbn6s {
-	"NqzmバQm"
+	"NqzmÒQm"
 	end
 }
 script 23 mmbn6s {
-	"QnプmバQm"
+	"QnÚmÒQm"
 	end
 }
 script 24 mmbn6s {
-	"pqダgバQm"
+	"pqÂgÒQm"
 	end
 }
 script 25 mmbn6s {
@@ -371,27 +371,27 @@ script 26 mmbn6s {
 	end
 }
 script 27 mmbn6s {
-	"pCブpn"
+	"pCÓpn"
 	end
 }
 script 28 mmbn6s {
-	"oG[ー]ド"
+	"oG[ó]Á"
 	end
 }
 script 29 mmbn6s {
-	"バQmTップ"
+	"ÒQmTêÚ"
 	end
 }
 script 30 mmbn6s {
-	"プlzpg"
+	"Úlzpg"
 	end
 }
 script 31 mmbn6s {
-	"cォmダ"
+	"cãmÂ"
 	end
 }
 script 32 mmbn6s {
-	"UッQバQm゜ん゜!"
+	"UêQÒQm゜ん゜!"
 	end
 }
 script 33 mmbn6s {
@@ -448,7 +448,7 @@ script 37 mmbn6 {
 		mugshot = MegaMan
 	"""
 	+れ[・][・][・]ともだちと
-	:らんでるh[ー]ドが ちが?よ
+	:らんでるh[ó]Áが ちが?よ
 	"""
 	keyWait
 		any = false
@@ -462,8 +462,8 @@ script 38 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	nュッIの中に vwIpO以下の
-	Tップが1枚もな█よ
+	nçêIの中に vwIpO以下の
+	TêÚが1枚もな█よ
 	"""
 	keyWait
 		any = false
@@ -477,15 +477,15 @@ script 39 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	ビ[ー]OQnqIx[ー]Qが
+	Ê[ó]OQnqIx[ó]Qが
 	ちゃんと "ながってな█みた█
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ビ[ー]OQnqIx[ー]Qの゜"ぞーを
-	,ーにん'て、でんげんを
+	Ê[ó]OQnqIx[ó]Qの゜"ぞóを
+	,óにん'て、でんげんを
 	█れな%.?よ
 	"""
 	keyWait
@@ -499,7 +499,7 @@ script 40 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"\"?'んを,█'・るよ[?]\n"
+	"\"?'んを,█'・るよü\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -566,7 +566,7 @@ script 43 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"'ばらー %まちーだ;█"
+	"'ばらó %まちóだ;█"
 	waitHold
 }
 script 44 mmbn6 {
@@ -588,7 +588,7 @@ script 45 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"げんざ█ ;ー゜█ちゅ?で・"
+	"げんざ█ ;ó゜█ちゅ?で・"
 	waitHold
 }
 script 46 mmbn6 {
@@ -603,7 +603,7 @@ script 46 mmbn6 {
 		buffer = 26
 	"""
 	」と
-	"?'んを,█'・るよ[?]
+	"?'んを,█'・るよü
 	
 	"""
 	positionOptionHorizontal
@@ -646,16 +646,16 @@ script 47 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	nqIEp[ー]だ
+	nqIEp[ó]だ
 	"?'んが ゜"だん;れたよ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tCioOBダプSど?'の
+	tCioOBÂÚSど?'の
 	!ょりや +█だにhVがな█,
-	ど?,を ,ーにん'てね
+	ど?,を ,óにん'てね
 	"""
 	keyWait
 		any = false
@@ -665,14 +665,14 @@ script 48 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"NOPgEp[ー]で・"
+	"NOPgEp[ó]で・"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tCioOBダプSの゜"ぞーを
-	,ーにん'て、でんげんを
-	█れな%'てーだ;█
+	tCioOBÂÚSの゜"ぞóを
+	,óにん'て、でんげんを
+	█れな%'てóだ;█
 	"""
 	waitHold
 }
@@ -688,7 +688,7 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	controlLock
-	"pCブpnをGqペB[!]"
+	"pCÓpnをGqÖB[!]"
 	wait
 		frames = 60
 	"[・]"
@@ -709,8 +709,8 @@ script 51 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	デ[ー]SpCブpnに+たら'█
-	デ[ー]Sがと?ろー;れたよ[!]
+	À[ó]SpCÓpnに+たら'█
+	À[ó]Sがと?ろó;れたよ[!]
 	"""
 	keyWait
 		any = false
@@ -724,7 +724,7 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	とーに+たら'█デ[ー]Sは
+	とóに+たら'█À[ó]Sは
 	:られな,ったよ[・][・][・]
 	"""
 	keyWait
@@ -739,7 +739,7 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	controlLock
-	"oG[ー]ドをGqペB[!]"
+	"oG[ó]ÁをGqÖB[!]"
 	wait
 		frames = 60
 	"[・]"
@@ -759,7 +759,7 @@ script 54 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"oG[ー]ドが&?'ん;れたよ[!]"
+	"oG[ó]Áが&?'ん;れたよ[!]"
 	keyWait
 		any = false
 	waitHold
@@ -772,7 +772,7 @@ script 55 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	oG[ー]ドの&?'んは
+	oG[ó]Áの&?'んは
 	;れな,ったよ[・][・][・]
 	"""
 	keyWait
@@ -792,7 +792,7 @@ script 61 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Qo[ー]ド,んりょ?'ま'た"
+	"Qo[ó]Á,んりょ?'ま'た"
 	keyWait
 		any = false
 	waitHold
@@ -802,9 +802,9 @@ script 62 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	&のcォmダにはQo[ー]ドで!な█
-	Tップがふーまれて█ま・
-	Qo[ー]ドをちゅ?''ま'た
+	&のcãmÂにはQo[ó]Áで!な█
+	TêÚがふóまれて█ま・
+	Qo[ó]Áをちゅ?''ま'た
 	"""
 	keyWait
 		any = false
@@ -815,8 +815,8 @@ script 63 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	&のcォmダは.?びで!ま゜ん
-	Qo[ー]ドをちゅ?''ま'た
+	&のcãmÂは.?びで!ま゜ん
+	Qo[ó]Áをちゅ?''ま'た
 	"""
 	keyWait
 		any = false
@@ -835,7 +835,7 @@ script 65 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"%まちーだ;█"
+	"%まちóだ;█"
 	waitHold
 }
 script 66 mmbn6 {
@@ -843,9 +843,9 @@ script 66 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	+█てが&のcォmダを
+	+█てが&のcãmÂを
 	?[bat]とれま゜んで'た
-	Qo[ー]ドをちゅ?''ま'た
+	Qo[ó]Áをちゅ?''ま'た
 	"""
 	keyWait
 		any = false
@@ -865,8 +865,8 @@ script 80 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	やったね rsーん[!]
-	XCODペo[ー]Pィqzだったよ[!]
+	やったね rsóん[!]
+	XCODÖo[ó]Páqzだったよ[!]
 	"""
 	keyWait
 		any = false
@@ -881,7 +881,7 @@ script 81 mmbn6 {
 		mugshot = MegaMan
 	"""
 	ごめん、ま[bat]ちゃったね[・][・][・]
-	ボIも もっとがんばらな!ゃ
+	ÍIも もっとがんばらな!ゃ
 	"""
 	keyWait
 		any = false
@@ -895,7 +895,7 @@ script 82 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	まったー ご,ーの
+	まったó ご,óの
 	'ょ?ぶだったね[・][・][・]
 	"ぎ&.は ぜった█勝と?[!]
 	"""
@@ -911,7 +911,7 @@ script 83 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	"?'んEp[ー]で
+	"?'んEp[ó]で
 	'ょ?ぶが ",な,ったね[・][・][・]
 	"""
 	keyWait
@@ -926,7 +926,7 @@ script 90 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	"?'んF[ー]ブmを",って
+	"?'んF[ó]Ómを",って
 	"?'ん・るよ
 	"""
 	waitHold
@@ -939,7 +939,7 @@ script 91 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	tCioOBダプSを",って
+	tCioOBÂÚSを",って
 	"?'ん・るよ
 	"""
 	waitHold
@@ -962,8 +962,8 @@ script 93 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	「%や」 「&」を゜んたー・るよ
-	十字ボSqの左、右で:らんでね
+	「%や」 「&」を゜んたó・るよ
+	十字ÍSqの左、右で:らんでね
 	"""
 	waitHold
 }
@@ -975,7 +975,7 @@ script 94 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	tCioOBダプSの
+	tCioOBÂÚSの
 	'ょ!,に 'っぱ█'たよ
 	"""
 	keyWait
@@ -990,7 +990,7 @@ script 95 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	"?'んF[ー]ブmを",って、
+	"?'んF[ó]Ómを",って、
 	"?'ん・るよ
 	"""
 	waitHold
@@ -1003,7 +1003,7 @@ script 96 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	tCioOBダプSを",って、
+	tCioOBÂÚSを",って、
 	"?'ん・るよ
 	"""
 	waitHold
@@ -1051,7 +1051,7 @@ script 105 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"+█ての゜んたーまちだよ"
+	"+█ての゜んたóまちだよ"
 	waitHold
 }
 script 107 mmbn6 {
@@ -1062,8 +1062,8 @@ script 107 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	",█や・█Tップが
-	pqダgに :らばれるよ
+	",█や・█TêÚが
+	pqÂgに :らばれるよ
 	"""
 	waitHold
 }
@@ -1075,8 +1075,8 @@ script 108 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	・&' &?どなTップが
-	pqダgに:らばれるよ
+	・&' &?どなTêÚが
+	pqÂgに:らばれるよ
 	"""
 	waitHold
 }
@@ -1088,9 +1088,9 @@ script 109 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	PIYッIが
-	よ?!ゅ?;れる Tップが
-	pqダgに:らばれるよ
+	PIYêIが
+	よ?!ゅ?;れる TêÚが
+	pqÂgに:らばれるよ
 	"""
 	waitHold
 }

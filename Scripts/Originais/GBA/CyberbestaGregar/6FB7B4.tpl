@@ -9,7 +9,7 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	"""
 	tCioO"?'んを・る前に
-	%や!と&!を!めよ? どっち[?]
+	%や!と&!を!めよ? どっちü
 	
 	"""
 	positionOptionHorizontal
@@ -53,7 +53,7 @@ script 1 mmbn6 {
 	"""
 	&ちらは %や!だよ
 	&!,らの"?'んを?[bat]"[bat]中
-	'ばらーまってね
+	'ばらóまってね
 	"""
 	waitHold
 }
@@ -70,7 +70,7 @@ script 2 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"&?へ█と\"?'ん・る[?]\n"
+	"&?へ█と\"?'ん・るü\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -123,7 +123,7 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	tCioOBダプSの
+	tCioOBÂÚSの
 	'ょ!,に
 	'っぱ█ 'たみた█[・][・][・]
 	"""
@@ -137,7 +137,7 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	"?'んEp[ー]だ[・][・][・]
+	"?'んEp[ó]だ[・][・][・]
 	でんげんを切ってやりな%'てね
 	"""
 	waitHold
@@ -147,7 +147,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpenQuick
-	"nqIEp[ー]だ"
+	"nqIEp[ó]だ"
 	keyWait
 		any = false
 	waitHold
@@ -158,7 +158,7 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	+█て,らJャqKm
+	+█て,らJòqKm
 	;れちゃった[・][・][・]
 	"""
 	keyWait
@@ -170,7 +170,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpenQuick
-	"\"?'んをJャqKm'たよ"
+	"\"?'んをJòqKm'たよ"
 	keyWait
 		any = false
 	waitHold
@@ -184,6 +184,6 @@ script 11 mmbn6s {
 	end
 }
 script 12 mmbn6s {
-	"'ょ?ぶ'よ[ー]ぜ"
+	"'ょ?ぶ'よ[ó]ぜ"
 	end
 }

@@ -130,7 +130,7 @@ script 31 mmbn6s {
 	end
 }
 script 32 mmbn6s {
-	"ぬぬぬぬぬぬぬぬぬ[F2]ゥヅ"
+	"ぬぬぬぬぬぬぬぬぬ[F2]ºÃ"
 	end
 }
 script 33 mmbn6s {

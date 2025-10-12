@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"ドmmmmmm[!][!]"
+	"Ámmmmmm[!][!]"
 	keyWait
 		any = false
 	clearMsg
@@ -33,12 +33,12 @@ script 1 mmbn6 {
 	clearMsg
 	"""
 	じゃ+、%"ぎは
-	;█'ゅ?'[bat]んと █ーぜぇ[!]
+	;█'ゅ?'[bat]んと █óぜぇ[!]
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"プpzBAQ'て&█よ[!]"
+	"ÚpzBAQ'て&█よ[!]"
 	keyWait
 		any = false
 	clearMsg

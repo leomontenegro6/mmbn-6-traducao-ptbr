@@ -556,43 +556,43 @@ script 28 mmbn6 {
 		target = 20
 }
 script 40 mmbn6s {
-	"+█?:%,!ー[bat]&;'・゜.たち\"てとなにぬねのはひふへほまみむめもやゆよ[ー]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
+	"+█?:%,!ó[bat]&;'・゜.たち\"てとなにぬねのはひふへほまみむめもやゆよ[ó]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
 	end
 }
 script 41 mmbn6s {
-	"BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikj[ー]~pnmoltuq[\"][゜]ァィゥェォャュョッ[・]"
+	"BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikj[ó]~pnmoltuq[\"][゜]àáºâãòçíê[・]"
 	end
 }
 script 42 mmbn6s {
-	"+█?:%がぎぐげござじずぜぞだぢづでどなにぬねのばびぶべぼまみむめもやゆよ[ー]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
+	"+█?:%がぎぐげござじずぜぞだぢづでどなにぬねのばびぶべぼまみむめもやゆよ[ó]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
 	end
 }
 script 43 mmbn6s {
-	"BCヴEDwvzxy[FZ][BX][SP][EX][RV]ダヂヅデドXYWUVバビブベボedgfhikj[ー]~pnmoltuq[\"][゜]ァィゥェォャュョッ[・]"
+	"BCéEDwvzxy[FZ][BX][SP][EX][RV]ÂÇÃÀÁXYWUVÒÊÓÉÍedgfhikj[ó]~pnmoltuq[\"][゜]àáºâãòçíê[・]"
 	end
 }
 script 44 mmbn6s {
-	"+█?:%,!ー[bat]&;'・゜.たち\"てとなにぬねのぱぴぷぺぽまみむめもやゆよ[ー]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
+	"+█?:%,!ó[bat]&;'・゜.たち\"てとなにぬねのぱぴぷぺぽまみむめもやゆよ[ó]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
 	end
 }
 script 45 mmbn6s {
-	"BCAEDHJIFGLNOKMSTRPQXYWUVパピプペポedgfhikj[ー]~pnmoltuq[\"][゜]ァィゥェォャュョッ[・]"
+	"BCAEDHJIFGLNOKMSTRPQXYWUVÔÕÚÖÜedgfhikj[ó]~pnmoltuq[\"][゜]àáºâãòçíê[・]"
 	end
 }
 script 46 mmbn6s {
-	"+█?:%がぎぐげござじずぜぞだぢづでどなにぬねのぱぴぷぺぽまみむめもやゆよ[ー]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
+	"+█?:%がぎぐげござじずぜぞだぢづでどなにぬねのぱぴぷぺぽまみむめもやゆよ[ó]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
 	end
 }
 script 47 mmbn6s {
-	"BCヴEDwvzxy[FZ][BX][SP][EX][RV]ダヂヅデドXYWUVパピプペポedgfhikj[ー]~pnmoltuq[\"][゜]ァィゥェォャュョッ[・]"
+	"BCéEDwvzxy[FZ][BX][SP][EX][RV]ÂÇÃÀÁXYWUVÔÕÚÖÜedgfhikj[ó]~pnmoltuq[\"][゜]àáºâãòçíê[・]"
 	end
 }
 script 48 mmbn6s {
-	" ドバビブベボがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ                          ヴパピプペポ                                                           をぁぃぅぇぉゃゅょっ~+█?:%,!ー[bat]&;'・゜.たち\"てとなにぬねのはひ    [・]uァィゥェォャュョッ[ー]BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikjpnmoltq  ふへほまみむめもやゆよらりるれろわんwvzxy[FZ][BX][SP][EX][RV]ダヂヅデ"
+	" ÁÒÊÓÉÍがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ                          éÔÕÚÖÜ                                                           をぁぃぅぇぉゃゅょっ~+█?:%,!ó[bat]&;'・゜.たち\"てとなにぬねのはひ    [・]uàáºâãòçíê[ó]BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikjpnmoltq  ふへほまみむめもやゆよらりるれろわんwvzxy[FZ][BX][SP][EX][RV]ÂÇÃÀ"
 	end
 }
 script 49 mmbn6s {
-	" ドバビブベボがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ ヴパピプペポをぁぃぅぇぉゃゅょっ~+█?:%,!ー[bat]&;'・゜.たち\"てとなにぬねのはひ[・]uァィゥェォャュョッ[ー]BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikjpnmoltqふへほまみむめもやゆよらりるれろわんwvzxy[FZ][BX][SP][EX][RV]ダヂヅデ"
+	" ÁÒÊÓÉÍがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ éÔÕÚÖÜをぁぃぅぇぉゃゅょっ~+█?:%,!ó[bat]&;'・゜.たち\"てとなにぬねのはひ[・]uàáºâãòçíê[ó]BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikjpnmoltqふへほまみむめもやゆよらりるれろわんwvzxy[FZ][BX][SP][EX][RV]ÂÇÃÀ"
 	end
 }
 script 50 mmbn6s {

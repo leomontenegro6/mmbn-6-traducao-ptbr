@@ -10,7 +10,7 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	.のじ"りょーなら、
+	.のじ"りょóなら、
 	█ま・ぐにでも げんばに
 	は█れっぜ[!]
 	"""
@@ -18,7 +18,7 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	zpqドeqを nqIXビに
+	zpqÁeqを nqIXÊに
 	'てやるよ[!]
 	"""
 	keyWait
@@ -36,8 +36,8 @@ script 1 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	zpqドeqが
-	rsの nqIXビになった[!][!]
+	zpqÁeqが
+	rsの nqIXÊになった[!][!]
 	"""
 	waitOWVar
 		variable = 0
@@ -56,16 +56,16 @@ script 2 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	&れで zpqドeqのTHp、
-	zpqドIlOが
+	&れで zpqÁeqのTHp、
+	zpqÁIlOが
 	",█&な゜るはずだぜ[!]
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	&?じげんばの ,んとーによ
-	%めぇの&と 'ょ?,█'とーぜ
+	&?じげんばの ,んとóによ
+	%めぇの&と 'ょ?,█'とóぜ
 	"""
 	keyWait
 		any = false
@@ -75,17 +75,17 @@ script 2 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	ひとでが たんなーなったら
-	%めぇんと&に れんらーが
-	ーっ,も'れねぇぜ[!]
+	ひとでが たんなóなったら
+	%めぇんと&に れんらóが
+	óっ,も'れねぇぜ[!]
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	.れ,らよ、zpqドeqを
-	Dペo[ー]Q'た█と!は、
-	&&に ーれば██
+	.れ,らよ、zpqÁeqを
+	DÖo[ó]Q'た█と!は、
+	&&に óれば██
 	"""
 	keyWait
 		any = false

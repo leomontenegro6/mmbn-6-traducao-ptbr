@@ -163,7 +163,7 @@ script 26 mmbn6s {
 	end
 }
 script 27 mmbn6s {
-	"[B2]_SqN[ー]mド"
+	"[B2]_SqN[ó]mÁ"
 	end
 }
 script 28 mmbn6s {
@@ -179,7 +179,7 @@ script 30 mmbn6s {
 	end
 }
 script 31 mmbn6s {
-	"[B2]ボSq[R2]fッQ"
+	"[B2]ÍSq[R2]fêQ"
 	end
 }
 script 32 mmbn6s {
@@ -191,7 +191,7 @@ script 33 mmbn6s {
 	end
 }
 script 34 mmbn6s {
-	"[B2]_SqバOS[ー]"
+	"[B2]_SqÒOS[ó]"
 	end
 }
 script 35 mmbn6s {
@@ -399,7 +399,7 @@ script 85 mmbn6s {
 	end
 }
 script 86 mmbn6s {
-	"[B2]ためバOS[ー]"
+	"[B2]ためÒOS[ó]"
 	end
 }
 script 87 mmbn6s {
@@ -419,11 +419,11 @@ script 90 mmbn6s {
 	end
 }
 script 91 mmbn6s {
-	"[C2][S2]にも?もー"
+	"[C2][S2]にも?もó"
 	end
 }
 script 92 mmbn6s {
-	"[C2][S2]でZビ"
+	"[C2][S2]でZÊ"
 	end
 }
 script 93 mmbn6s {
@@ -435,15 +435,15 @@ script 94 mmbn6s {
 	end
 }
 script 95 mmbn6s {
-	"[C2][S2]でどーぬま"
+	"[C2][S2]でどóぬま"
 	end
 }
 script 96 mmbn6s {
-	"[C2][S2]でバnB[bat]'"
+	"[C2][S2]でÒnB[bat]'"
 	end
 }
 script 97 mmbn6s {
-	"[C2][S2]にnKッQ"
+	"[C2][S2]にnKêQ"
 	end
 }
 script 98 mmbn6s {
@@ -551,7 +551,7 @@ script 123 mmbn6s {
 	end
 }
 script 124 mmbn6s {
-	"TップnHバn[ー]"
+	"TêÚnHÒn[ó]"
 	end
 }
 script 125 mmbn6s {
@@ -603,19 +603,19 @@ script 136 mmbn6s {
 	end
 }
 script 137 mmbn6s {
-	"█ど?でじ'ゃー"
+	"█ど?でじ'ゃó"
 	end
 }
 script 138 mmbn6s {
-	"█ど?でa[ー]n[ー]"
+	"█ど?でa[ó]n[ó]"
 	end
 }
 script 139 mmbn6s {
-	"█ど?でどーぬま"
+	"█ど?でどóぬま"
 	end
 }
 script 140 mmbn6s {
-	"█ど?でV[ー]em"
+	"█ど?でV[ó]em"
 	end
 }
 script 141 mmbn6s {
@@ -627,11 +627,11 @@ script 142 mmbn6s {
 	end
 }
 script 143 mmbn6s {
-	"Tャ[ー][BX],ら?ち"
+	"Tò[ó][BX],ら?ち"
 	end
 }
 script 144 mmbn6s {
-	"ダf[ー][BX]も?もー"
+	"Âf[ó][BX]も?もó"
 	end
 }
 script 145 mmbn6s {
@@ -691,11 +691,11 @@ script 158 mmbn6s {
 	end
 }
 script 159 mmbn6s {
-	"L[ー]T"
+	"L[ó]T"
 	end
 }
 script 160 mmbn6s {
-	"Z[ー]QIlO"
+	"Z[ó]QIlO"
 	end
 }
 script 161 mmbn6s {
@@ -703,15 +703,15 @@ script 161 mmbn6s {
 	end
 }
 script 162 mmbn6s {
-	"OpッNュIlO"
+	"OpêNçIlO"
 	end
 }
 script 163 mmbn6s {
-	"Jp[ー]IlO"
+	"Jp[ó]IlO"
 	end
 }
 script 164 mmbn6s {
-	"Tャ[ー][BX]IlO"
+	"Tò[ó][BX]IlO"
 	end
 }
 script 165 mmbn6s {
@@ -719,7 +719,7 @@ script 165 mmbn6s {
 	end
 }
 script 166 mmbn6s {
-	"Qea[ー]IIl"
+	"Qea[ó]IIl"
 	end
 }
 script 167 mmbn6s {
@@ -731,7 +731,7 @@ script 168 mmbn6s {
 	end
 }
 script 169 mmbn6s {
-	"ダ"
+	"Â"
 	end
 }
 script 170 mmbn6s {
@@ -771,7 +771,7 @@ script 178 mmbn6s {
 	end
 }
 script 179 mmbn6s {
-	"ダqディ[SP]g"
+	"ÂqÀá[SP]g"
 	end
 }
 script 180 mmbn6s {

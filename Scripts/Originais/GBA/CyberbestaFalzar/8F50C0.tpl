@@ -334,7 +334,7 @@ script 13 mmbn6 {
 	wait
 		frames = 30
 	"""
-	OpッNュeqの
+	OpêNçeqの
 	もの・ご█ ,█てんで、
 	た"ま!が ,![bat];れた[!][!]
 	"""
@@ -348,13 +348,13 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Nュポポ[ー][ー][ー][ー]ッ[!][!]"
+	"NçÜÜ[ó][ó][ó][ó]ê[!][!]"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	&んな た"ま!など、
-	WDDnャ[ー][ー][!]
+	WDDnò[ó][ó][!]
 	"""
 	keyWait
 		any = false
@@ -365,7 +365,7 @@ script 14 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Tャ[ー][BX]eqの も?とっ'んで
+	Tò[ó][BX]eqの も?とっ'んで
 	た"ま!が ,![bat];れた[!][!]
 	"""
 	keyWait
@@ -464,7 +464,7 @@ script 18 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"aAデq[!][!]"
+	"aAÀq[!][!]"
 	keyWait
 		any = false
 	clearMsg
@@ -487,18 +487,18 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Zャbb[!]"
+	"Zòbb[!]"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Doの *m[SP]NッImは
-	なんでも !り;ーぜ[!][!]
+	Doの *m[SP]NêImは
+	なんでも !り;óぜ[!][!]
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Zャbb[ー][ー]ッ[!][!]"
+	"Zòbb[ó][ó]ê[!][!]"
 	keyWait
 		any = false
 	clearMsg
@@ -508,7 +508,7 @@ script 19 mmbn6 {
 	wait
 		frames = 30
 	"""
-	*m[SP]NッImが 水ば'らを
+	*m[SP]NêImが 水ば'らを
 	!り;█た[!][!]
 	"""
 	keyWait
@@ -606,7 +606,7 @@ script 23 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Z[ー]Qeqは、ま!+がる
+	Z[ó]Qeqは、ま!+がる
 	炎を・べて のみ&んだ[!][!]
 	"""
 	keyWait
@@ -619,7 +619,7 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Nュポポ[・][・][・]"
+	"NçÜÜ[・][・][・]"
 	keyWait
 		any = false
 	clearMsg
@@ -637,7 +637,7 @@ script 24 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Tャ[ー][BX]eqは、ま!+がる
+	Tò[ó][BX]eqは、ま!+がる
 	炎を・べて のみ&んだ[!][!]
 	"""
 	keyWait
@@ -718,7 +718,7 @@ script 28 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"bァァァァッ[!][!]"
+	"bààààê[!][!]"
 	keyWait
 		any = false
 	clearMsg
@@ -741,14 +741,14 @@ script 29 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Zャbb[!][!]"
+	"Zòbb[!][!]"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Doの *m[SP]NッImは
+	Doの *m[SP]NêImは
 	HSTな!ものまでも
-	!り;ーの;[!][!]
+	!り;óの;[!][!]
 	"""
 	keyWait
 		any = false
@@ -759,7 +759,7 @@ script 29 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Jp[ー]eqの *m[SP]NッImが
+	Jp[ó]eqの *m[SP]NêImが
 	Ihを !り;█た[!][!]
 	"""
 	keyWait
@@ -833,13 +833,13 @@ script 33 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Doの 行ー手を;:ぎる木,
-	気にーわね:な[・][・][・]
+	Doの 行ó手を;:ぎる木,
+	気にóわね:な[・][・][・]
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Dpァ[!] も:やがれ[!]"
+	"Dpà[!] も:やがれ[!]"
 	keyWait
 		any = false
 	clearMsg
@@ -849,7 +849,7 @@ script 33 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Z[ー]Qeqの はなった炎で
+	Z[ó]Qeqの はなった炎で
 	電脳木は も:"!た[!][!]
 	"""
 	keyWait
@@ -862,13 +862,13 @@ script 34 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Oゥ[・][・][・]"
+	"Oº[・][・][・]"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	bC[!] bC[!]
-	bァッ[!][!]
+	bàê[!][!]
 	"""
 	keyWait
 		any = false
@@ -879,7 +879,7 @@ script 34 mmbn6 {
 	wait
 		frames = 30
 	"""
-	OpッNュeqは
+	OpêNçeqは
 	目にもとまらぬ ざんげ!で
 	電脳木を !りた%'た[!][!]
 	"""

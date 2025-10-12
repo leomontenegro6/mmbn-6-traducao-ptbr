@@ -19,7 +19,7 @@ script 0 mmbn6 {
 	end
 }
 script 9 mmbn6 {
-	"  D S h ョ ' を [L2]0"
+	"  D S h í ' を [L2]0"
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen

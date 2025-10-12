@@ -1,0 +1,8 @@
+FonteTextosVwf equ 0x08044EEC
+FonteTextos equ 0x086CBEE0
+FonteTextosSombra equ 0x086C4E80
+FonteGrande equ 0x086D6C00
+
+PonteiroLogoTelaTitulo equ 0x08030CC4
+PonteiroNomesTelaTitulo1 equ 0x08030C94
+PonteiroNomesTelaTitulo2 equ 0x08030CAC

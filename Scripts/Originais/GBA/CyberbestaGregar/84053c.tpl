@@ -98,10 +98,10 @@ script 12 mmbn6 {
 		BSeparate = false
 		disableB = false
 		clear = false
-		[
-			target = continue,
-			target = continue,
-			target = continue
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
 		]
 	waitHold
 }
@@ -243,10 +243,10 @@ script 22 mmbn6 {
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = 21,
-			target = continue,
-			target = continue
+		targets = [
+			jump = 21,
+			jump = continue,
+			jump = continue
 		]
 	end
 }
@@ -286,10 +286,10 @@ script 23 mmbn6 {
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = continue,
-			target = continue,
-			target = continue
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
 		]
 	end
 }
@@ -327,10 +327,10 @@ script 24 mmbn6 {
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = continue,
-			target = continue,
-			target = continue
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
 		]
 	end
 }
@@ -370,10 +370,10 @@ script 25 mmbn6 {
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = 28,
-			target = continue,
-			target = continue
+		targets = [
+			jump = 28,
+			jump = continue,
+			jump = continue
 		]
 	clearMsg
 	positionText
@@ -413,10 +413,10 @@ script 25 mmbn6 {
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = continue,
-			target = continue,
-			target = continue
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
 		]
 	end
 }
@@ -454,10 +454,10 @@ script 26 mmbn6 {
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = continue,
-			target = continue,
-			target = continue
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
 		]
 	end
 }
@@ -497,10 +497,10 @@ script 27 mmbn6 {
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = 28,
-			target = continue,
-			target = continue
+		targets = [
+			jump = 28,
+			jump = continue,
+			jump = continue
 		]
 	clearMsg
 	positionText
@@ -540,10 +540,10 @@ script 27 mmbn6 {
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = continue,
-			target = continue,
-			target = continue
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
 		]
 	end
 }
@@ -847,11 +847,11 @@ script 90 mmbn6 {
 		BSeparate = true
 		disableB = true
 		clear = true
-		[
-			target = 93,
-			target = 94,
-			target = 95,
-			target = continue
+		targets = [
+			jump = 93,
+			jump = 94,
+			jump = 95,
+			jump = continue
 		]
 	waitHold
 }
@@ -892,11 +892,11 @@ script 91 mmbn6 {
 		BSeparate = true
 		disableB = true
 		clear = true
-		[
-			target = 93,
-			target = 94,
-			target = 95,
-			target = continue
+		targets = [
+			jump = 93,
+			jump = 94,
+			jump = 95,
+			jump = continue
 		]
 	waitHold
 }
@@ -937,11 +937,11 @@ script 92 mmbn6 {
 		BSeparate = true
 		disableB = true
 		clear = true
-		[
-			target = 93,
-			target = 94,
-			target = 95,
-			target = continue
+		targets = [
+			jump = 93,
+			jump = 94,
+			jump = 95,
+			jump = continue
 		]
 	waitHold
 }

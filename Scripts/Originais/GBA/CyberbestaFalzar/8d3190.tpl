@@ -9,8 +9,8 @@ script 0 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Play Crossover Battle 2
-	with Boktai 3!
+	「'ん[・]ボIらのた█よ?」と
+	ゆめのIlOD[ー]バ[ー]バQm2[!]
 	"""
 	waitHold
 }
@@ -22,8 +22,8 @@ script 1 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Change your name
-	and comment.
+	なま:や GfqQを
+	へん&?・るよ
 	"""
 	waitHold
 }
@@ -35,8 +35,8 @@ script 2 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Learn the rules of
-	Crossover Battle 2.
+	IlOD[ー]バ[ー]バQm2の
+	x[ー]g゜"め█を ・るよ
 	"""
 	waitHold
 }
@@ -48,8 +48,8 @@ script 10 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Waiting for the other
-	party member.
+	+█ての と?ろーを
+	まって█ると&ろだよ
 	"""
 	wait
 		frames = 30
@@ -66,11 +66,12 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpenCrossover
-	" "
+	"「"
 	printLinkBuffer
 		buffer = 20
 	"""
-	Request a battle?
+	」に
+	た█゜んを も?'&む[?]
 	
 	"""
 	positionOptionHorizontal
@@ -83,7 +84,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"は█  "
 	option
 		brackets = 0
 		left = 0
@@ -92,16 +93,16 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"██:"
 	select
 		default = 0
 		BSeparate = false
 		disableB = false
 		clear = false
-		[
-			target = continue,
-			target = continue,
-			target = continue
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
 		]
 	waitHold
 }
@@ -112,11 +113,12 @@ script 13 mmbn6 {
 	msgOpenCrossoverQuick
 	wait
 		frames = 5
-	" "
+	"「"
 	printLinkBuffer
 		buffer = 20
 	"""
-	Requested a battle.
+	」に
+	た█゜んを も?'&んだよ
 	"""
 	waitHold
 }
@@ -125,8 +127,8 @@ script 14 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	Waiting for the other
-	party member.
+	+█ての と?ろーを
+	まって█ると&ろだよ
 	"""
 	wait
 		frames = 30
@@ -138,8 +140,8 @@ script 15 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Failed to connect to
-	the other player...
+	+█てとの ゜"ぞーに
+	'っぱ█'たよ[・][・][・]
 	"""
 	keyWait
 		any = false
@@ -151,8 +153,8 @@ script 16 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Battle request has
-	been cancelled.
+	バQmのも?'&みを
+	JャqKm'たよ
 	"""
 	keyWait
 		any = false
@@ -164,9 +166,9 @@ script 17 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Your opponent has
-	cancelled your
-	battle request.
+	バQmのも?'&みを
+	た█゜ん+█てに
+	JャqKm;れちゃった
 	"""
 	keyWait
 		any = false
@@ -178,8 +180,8 @@ script 19 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Failed to initialize
-	the Wireless Adapter.
+	tCioOBダプSの
+	'ょ!,に 'っぱ█'たよ
 	"""
 	keyWait
 		any = false
@@ -190,7 +192,8 @@ script 20 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	Enter your name.
+	なま:を にゅ?りょー
+	'てね
 	"""
 	keyWait
 		any = false
@@ -201,7 +204,8 @@ script 21 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	Enter your comment.
+	GfqQを にゅ?りょー
+	'てね
 	"""
 	keyWait
 		any = false
@@ -211,11 +215,12 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpenCrossover
-	" "
+	"「"
 	printLinkBuffer
 		buffer = 2
 	"""
-	Is this OK?
+	」
+	で D[ー]F[ー][?]
 	
 	"""
 	positionOptionHorizontal
@@ -228,7 +233,7 @@ script 22 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"は█  "
 	option
 		brackets = 0
 		left = 0
@@ -237,16 +242,16 @@ script 22 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"██:"
 	select
 		default = 0
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = 21,
-			target = continue,
-			target = continue
+		targets = [
+			jump = 21,
+			jump = continue,
+			jump = continue
 		]
 	end
 }
@@ -254,11 +259,12 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpenCrossover
-	" "
+	"「"
 	printLinkBuffer
 		buffer = 3
 	"""
-	Is this OK?
+	」
+	で D[ー]F[ー][?]
 	
 	"""
 	positionOptionHorizontal
@@ -271,7 +277,7 @@ script 23 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"は█  "
 	option
 		brackets = 0
 		left = 0
@@ -280,16 +286,16 @@ script 23 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"██:"
 	select
 		default = 0
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = continue,
-			target = continue,
-			target = continue
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
 		]
 	end
 }
@@ -298,8 +304,8 @@ script 24 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	Cancelling data input.
-	Return to menu?
+	にゅ?りょーを ちゅ?''て
+	fYュ[ー]に もどる[?]
 	
 	"""
 	positionOptionHorizontal
@@ -312,7 +318,7 @@ script 24 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"は█  "
 	option
 		brackets = 0
 		left = 0
@@ -321,16 +327,16 @@ script 24 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"██:"
 	select
 		default = 0
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = continue,
-			target = continue,
-			target = continue
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
 		]
 	end
 }
@@ -342,7 +348,8 @@ script 25 mmbn6 {
 		global = 4
 		value = 1
 	"""
-	Go back to edit name?
+	なま:の へん'ゅ?に
+	もどる[?]
 	
 	"""
 	positionOptionHorizontal
@@ -355,7 +362,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"は█  "
 	option
 		brackets = 0
 		left = 0
@@ -364,16 +371,16 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"██:"
 	select
 		default = 0
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = 28,
-			target = continue,
-			target = continue
+		targets = [
+			jump = 28,
+			jump = continue,
+			jump = continue
 		]
 	clearMsg
 	positionText
@@ -384,8 +391,8 @@ script 25 mmbn6 {
 		global = 4
 		value = 2
 	"""
-	Cancelling data input.
-	Return to menu?
+	にゅ?りょーを ちゅ?''て
+	fYュ[ー]に もどる[?]
 	
 	"""
 	positionOptionHorizontal
@@ -398,7 +405,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"は█  "
 	option
 		brackets = 0
 		left = 0
@@ -407,16 +414,16 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"██:"
 	select
 		default = 0
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = continue,
-			target = continue,
-			target = continue
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
 		]
 	end
 }
@@ -425,8 +432,8 @@ script 26 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	Cancelling data input.
-	Return to menu?
+	にゅ?りょーを ちゅ?''て
+	SCQmがめんに もどる[?]
 	
 	"""
 	positionOptionHorizontal
@@ -439,7 +446,7 @@ script 26 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"は█  "
 	option
 		brackets = 0
 		left = 0
@@ -448,16 +455,16 @@ script 26 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"██:"
 	select
 		default = 0
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = continue,
-			target = continue,
-			target = continue
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
 		]
 	end
 }
@@ -469,7 +476,8 @@ script 27 mmbn6 {
 		global = 4
 		value = 1
 	"""
-	Go back to edit name?
+	なま:の へん'ゅ?に
+	もどる[?]
 	
 	"""
 	positionOptionHorizontal
@@ -482,7 +490,7 @@ script 27 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"は█  "
 	option
 		brackets = 0
 		left = 0
@@ -491,16 +499,16 @@ script 27 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"██:"
 	select
 		default = 0
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = 28,
-			target = continue,
-			target = continue
+		targets = [
+			jump = 28,
+			jump = continue,
+			jump = continue
 		]
 	clearMsg
 	positionText
@@ -511,8 +519,8 @@ script 27 mmbn6 {
 		global = 4
 		value = 2
 	"""
-	Cancelling data input.
-	Return to title screen?
+	にゅ?りょーを ちゅ?''て
+	SCQmがめんに もどる[?]
 	
 	"""
 	positionOptionHorizontal
@@ -525,7 +533,7 @@ script 27 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"は█  "
 	option
 		brackets = 0
 		left = 0
@@ -534,16 +542,16 @@ script 27 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"██:"
 	select
 		default = 0
 		BSeparate = false
 		disableB = false
 		clear = true
-		[
-			target = continue,
-			target = continue,
-			target = continue
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
 		]
 	end
 }
@@ -556,11 +564,11 @@ script 28 mmbn6 {
 		target = 20
 }
 script 40 mmbn6s {
-	"1234567890!?&*+_に=と%たちて.,:;'\"ぬ・゜█[bat][MB]はふへほ[z][EX][SP][RV][FZ][BX]                       "
+	"+█?:%,!ー[bat]&;'・゜.たち\"てとなにぬねのはひふへほまみむめもやゆよ[ー]~らりるれろわをん[\"][゜]ぁぃぅぇぉゃゅょっ[・]"
 	end
 }
 script 41 mmbn6s {
-	"ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstu  vwx  yz   "
+	"BCAEDHJIFGLNOKMSTRPQXYWUVbZc*aedgfhikj[ー]~pnmoltuq[\"][゜]ァィゥェォャュョッ[・]"
 	end
 }
 script 42 mmbn6s {
@@ -596,27 +604,27 @@ script 49 mmbn6s {
 	end
 }
 script 50 mmbn6s {
-	"Hira"
+	"ひらがな"
 	end
 }
 script 51 mmbn6s {
-	"Kata"
+	"HSHX"
 	end
 }
 script 52 mmbn6s {
-	"Next"
+	"・・む"
 	end
 }
 script 53 mmbn6s {
-	"Back"
+	"もどる"
 	end
 }
 script 54 mmbn6s {
-	"OK"
+	"[bat]って█"
 	end
 }
 script 55 mmbn6s {
-	"End"
+	"ちゅ?'"
 	end
 }
 script 56 mmbn6s {
@@ -723,8 +731,8 @@ script 80 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	We did it,Lan!
-	Nice operating!
+	やったね、rsーん[!]
+	XCODペo[ー]Pィqz[!]
 	"""
 	keyWait
 		any = false
@@ -736,8 +744,8 @@ script 81 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	We did it,Lan!
-	Nice operating!
+	やったね、rsーん[!]
+	XCODペo[ー]Pィqz[!]
 	"""
 	keyWait
 		any = false
@@ -749,9 +757,8 @@ script 82 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Too bad,Lan.
-	I should've
-	tried harder.
+	ざんねんだったね、rsーん
+	ボIも もっと がんばらな!ゃ
 	"""
 	keyWait
 		any = false
@@ -763,9 +770,8 @@ script 83 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Too bad,Lan.
-	I should've
-	tried harder.
+	ざんねんだったね、rsーん
+	ボIも もっと がんばらな!ゃ
 	"""
 	keyWait
 		any = false
@@ -777,8 +783,8 @@ script 84 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	It's not the end.
-	We'll win next time!
+	[bat]っちゃーが ",な,ったね
+	"ぎ&.は がんばって勝と?[!]
 	"""
 	keyWait
 		any = false
@@ -790,8 +796,8 @@ script 85 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Lan...
-	We can't run away...
+	rsーん[・][・][・]
+	にげちゃダfだよ[・][・][・]
 	"""
 	keyWait
 		any = false
@@ -803,8 +809,8 @@ script 86 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Connection error...
-	Let's try it again.
+	"?'んEp[ー]だ[・][・][・]
+	も?█ちど やりな%.?
 	"""
 	keyWait
 		any = false
@@ -823,7 +829,7 @@ script 90 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"About Crossover Battle\n"
+	"IlOD[ー]バ[ー]バQm2とは[?]\n"
 	option
 		brackets = 0
 		left = 1
@@ -832,7 +838,7 @@ script 90 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"About Disturb Icon\n"
+	"D[BX]ャeBCGqに\"█て\n"
 	option
 		brackets = 0
 		left = 2
@@ -841,17 +847,17 @@ script 90 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Blocking and Beast Out"
+	"ブlッJqzとビ[ー]OQBAQ"
 	select
 		default = 0
 		BSeparate = true
 		disableB = true
 		clear = true
-		[
-			target = 93,
-			target = 94,
-			target = 95,
-			target = continue
+		targets = [
+			jump = 93,
+			jump = 94,
+			jump = 95,
+			jump = continue
 		]
 	waitHold
 }
@@ -868,7 +874,7 @@ script 91 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"About Crossover Battle\n"
+	"IlOD[ー]バ[ー]バQm2とは[?]\n"
 	option
 		brackets = 0
 		left = 1
@@ -877,7 +883,7 @@ script 91 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"About Disturb Icon\n"
+	"D[BX]ャeBCGqに\"█て\n"
 	option
 		brackets = 0
 		left = 2
@@ -886,17 +892,17 @@ script 91 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Blocking and Beast Out"
+	"ブlッJqzとビ[ー]OQBAQ"
 	select
 		default = 1
 		BSeparate = true
 		disableB = true
 		clear = true
-		[
-			target = 93,
-			target = 94,
-			target = 95,
-			target = continue
+		targets = [
+			jump = 93,
+			jump = 94,
+			jump = 95,
+			jump = continue
 		]
 	waitHold
 }
@@ -913,7 +919,7 @@ script 92 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"About Crossover Battle\n"
+	"IlOD[ー]バ[ー]バQm2とは[?]\n"
 	option
 		brackets = 0
 		left = 1
@@ -922,7 +928,7 @@ script 92 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"About Disturb Icon\n"
+	"D[BX]ャeBCGqに\"█て\n"
 	option
 		brackets = 0
 		left = 2
@@ -931,17 +937,17 @@ script 92 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Blocking and Beast Out"
+	"ブlッJqzとビ[ー]OQBAQ"
 	select
 		default = 2
 		BSeparate = true
 		disableB = true
 		clear = true
-		[
-			target = 93,
-			target = 94,
-			target = 95,
-			target = continue
+		targets = [
+			jump = 93,
+			jump = 94,
+			jump = 95,
+			jump = continue
 		]
 	waitHold
 }
@@ -952,39 +958,32 @@ script 93 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	Crossover Battle 2
-	continues from the
-	previous game,MMBN5.
+	IlOD[ー]バ[ー]バQm2とは
+	ぜん;ーのlッIeqEz[EX]5に
+	ひ!"づ!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a race
-	between "MegaMan
-	Battle Network 6"
+	「lッIeqEz[EX]6」と
+	「'ん[・]ボIらのた█よ?」の
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and "Boktai 3" to see
-	who defeats the Count
-	first.
+	まったーちが?x[ー]gど?'で
+	どちらが;!に bINャIを
+	た%゜る,を !.?x[ー]gなんだ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If Django's HP reaches
-	zero before the Count is
-	defeated,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	the Boktai 3 side loses.
+	;!にbINャIを た%・,
+	[BX]ャqyーんの[H2][P2]を0に・れば
+	ボIらの勝ちになるよ
 	"""
 	keyWait
 		any = false
@@ -999,83 +998,69 @@ script 94 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	As the two of you play,
-	the players can disrupt
-	each other's play
+	%たが█に +る&とを・ると
+	+█てのプoCを [BX]ャe'+:る
+	D[BX]ャeBCGqを %ーれるんだ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by sending a
-	Disturb Icon.
+	ボIらは バッQJャVqと█?
+	Tップを bINャIに+てれば
+	D[BX]ャeBCGqを %ーれるよ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you have the
-	BatCannon chip and
-	hit the Count,
+	ただ'バッQJャVqは1~4の
+	4'ゅる█が+って .れぞれ
+	D[BX]ャeのな█よ?が ちが?んだ
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	you can send a
-	Disturb Icon.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	There are 4 BatCannons
-	and each chip sends a
-	different Disturb Icon.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"BatCannon1 is "
+	"バッQJャVq1は"
 	callDisturbIcon
 		color = 5
 	spacePx
 		count = 18
 	"""
 	
-	I will appear and attack
-	with the MegaBuster.
+	NqボIがわに ボIが+らわれて
+	lッIバOS[ー]で 攻撃・るよ
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BatCannon2 is "
+	"バッQJャVq2は"
 	callDisturbIcon
 		color = 4
 	spacePx
 		count = 18
 	"""
 	
-	I will appear and attack
-	with ZapRing.
+	NqボIがわに ボIが+らわれて
+	pビnqzで 攻撃・るよ
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BatCannon3 is "
+	"バッQJャVq3は"
 	callDisturbIcon
 		color = 6
 	spacePx
 		count = 18
 	"""
 	
-	I will appear and attack
-	with LifeSword.
+	NqボIがわに ボIが+らわれて
+	ドn[ー]gM[ー]ドで 攻撃・るよ
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BatCannon4 is "
+	"バッQJャVq4は"
 	callDisturbIcon
 		color = 5
 	spacePx
@@ -1090,47 +1075,49 @@ script 94 mmbn6 {
 		count = 18
 	"""
 	
-	3 different Disturb
-	Icons are sent at once.
+	なんと3'ゅる█の D[BX]ャe
+	BCGqを█っ!に%ーっちゃ?よ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's another way to
-	send a Disturb Icon:
+	.'て;らに も?ひと"
+	D[BX]ャeBCGqを%ーる
+	ほ?ほ?が +るんだ
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"A Counter Attack!"
+	".れは[SP]バn HAqS[ー][!]"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you hit the Count
-	during an attack, a
+	bINャIの攻撃の'ゅん,んに
+	Tップ攻撃を+てると
+	
 	"""
 	callDisturbIcon
 		color = 0
 	spacePx
 		count = 18
-	" icon will be sent"
+	"を%ーる&とが で!るんだ"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	From Boktai 3's side,
-	the Count will use his
-	Blood Rain attack.
+	NqボIがわのbINャIが
+	ブpッドoCq と█?
+	ひっ;"わざを ",?よ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't forget that the
-	other side can send
-	Disturb Icons too!
+	ただ'[!]
+	D[BX]ャeBCGqはと?ぜん
+	%ーられてーる&とも+るんだ
 	"""
 	keyWait
 		any = false
@@ -1140,9 +1127,8 @@ script 94 mmbn6 {
 	spacePx
 		count = 18
 	"""
-	This Disturb Icon will
-	summon Django to
-	attack with a sword.
+	がーると
+	[BX]ャqyーんが M[ー]ド攻撃[!]
 	"""
 	keyWait
 		any = false
@@ -1152,9 +1138,8 @@ script 94 mmbn6 {
 	spacePx
 		count = 18
 	"""
-	This Disturb Icon will
-	summon Django to
-	attack with GunDelSol!
+	がーると
+	[BX]ャqyーんが wqデmMm[!]
 	"""
 	keyWait
 		any = false
@@ -1164,9 +1149,8 @@ script 94 mmbn6 {
 	spacePx
 		count = 18
 	"""
-	This Disturb Icon will
-	summon Django to
-	attack using his bike!
+	がーると
+	[BX]ャqyーんが バCI攻撃[!]
 	"""
 	keyWait
 		any = false
@@ -1176,9 +1160,9 @@ script 94 mmbn6 {
 	spacePx
 		count = 18
 	"""
-	This Disturb Icon will
-	make the Count attack
-	with BloodRain!
+	は bINャIが
+	ブpッドoCq と█?
+	ひっ;"わざを ",?よ
 	"""
 	keyWait
 		any = false
@@ -1193,85 +1177,71 @@ script 95 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	You can use Block,
-	but it can only be
-	used once.
+	ブlッJqzって█?のは
+	1回だ[bat]",:る
+	ぼ?ぎょわざ なんだ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On the custom screen
-	choose BLOCK instead
-	of OK.
+	HOSg画面をぬ[bat]ると!に
+	[O2][K2]じゃなーて
+	[B2][L2][O2][C2][K2]を :らぶと
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	During the next turn,
-	you will knock away all
-	Disturb Icons received.
+	"ぎのS[ー]q中 +█てが%ーった
+	D[BX]ャeBCGqを ・べて
+	はね,:・&とが で!るんだ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't forget that
-	the Boktai 3 side can
-	also Block once.
+	ただ'、+█ても █ちどだ[bat]
+	ブlッJqzを",:るって&とを
+	わ・れな█よ?にね[!]
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,I can Beast Out
-	using a special chip
-	in the folder.
+	+と、cォmダの中には
+	ビ[ー]OQBAQと█?
+	ボIが 獣化・るTップが+るんだ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While in Beast Out,
-	aside from Navi Chips
-	and BatCannon,
+	獣化中は バッQJャVqと
+	XビTップ█が█の
+	Tップ攻撃を ZッQ;゜る&とで
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	all chips send
-	Disturb Icons to
-	Boktai 3.
+	NqボIがわに
+	D[BX]ャeBCGqを%ーれるよ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is your chance to
-	turn everything around!
+	だ█ぎゃーてんのTャqO[!]
+	だ[bat]ど NqボIにも%なじよ?に
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,Boktai 3 has a
-	similar skill.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Django can use his Sol
-	Trance transformation
-	to power up!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Keep this in mind!
+	QpqOって█?
+	へん'んパt[ー]Bップが+る,ら
+	ゆだんは !んも"だよ[!]
 	"""
 	keyWait
 		any = false

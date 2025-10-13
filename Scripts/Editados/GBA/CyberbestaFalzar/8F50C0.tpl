@@ -321,9 +321,9 @@ script 13 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	&のて█どの た"ま!で
-	Doを +'どめ・る&となど
-	gnだ[!][!]
+	There's no way a tornado
+	of this magnitude could
+	stop me!
 	"""
 	keyWait
 		any = false
@@ -334,9 +334,9 @@ script 13 mmbn6 {
 	wait
 		frames = 30
 	"""
-	OpêNçeqの
-	もの・ご█ ,█てんで、
-	た"ま!が ,![bat];れた[!][!]
+	Slashman's incredible
+	strokes have wiped out
+	the tornado!
 	"""
 	keyWait
 		any = false
@@ -348,13 +348,13 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"NçÜÜ[ó][ó][ó][ó]ê[!][!]"
+	"Shpopoooooo!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	&んな た"ま!など、
-	WDDnò[ó][ó][!]
+	A tornado like this is...
+	No way!
 	"""
 	keyWait
 		any = false
@@ -365,8 +365,9 @@ script 14 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Tò[ó][BX]eqの も?とっ'んで
-	た"ま!が ,![bat];れた[!][!]
+	Chargeman's tornado has
+	been wiped out in an
+	instant!
 	"""
 	keyWait
 		any = false
@@ -451,20 +452,21 @@ script 18 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	cq、水に "よ█電気を
-	なが゜ば ど?なる,[・][・][・]
+	Hmm, what happens if you
+	pass a strong current
+	through water?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	・█. と、;ん.に
-	ぶん,█・るんだ[!][!]
+	Let's share it with
+	everyone!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"aAÀq[!][!]"
+	"Howden!!"
 	keyWait
 		any = false
 	clearMsg
@@ -474,8 +476,9 @@ script 18 mmbn6 {
 	wait
 		frames = 30
 	"""
-	もの・ご█ ・█じょ?! と
-	ともに、水ば'らが !:;った[!]
+	With a tremendous surge,
+	the water fountain
+	disappeared!
 	"""
 	keyWait
 		any = false
@@ -487,18 +490,18 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Zòbb[!]"
+	"Hahaha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Doの *m[SP]NêImは
-	なんでも !り;óぜ[!][!]
+	My Hell's Sickle can cut
+	anything to pieces!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Zòbb[ó][ó]ê[!][!]"
+	"Hyahahaha!!"
 	keyWait
 		any = false
 	clearMsg
@@ -508,8 +511,8 @@ script 19 mmbn6 {
 	wait
 		frames = 30
 	"""
-	*m[SP]NêImが 水ば'らを
-	!り;█た[!][!]
+	Hell's Sickle cut the
+	water spear!
 	"""
 	keyWait
 		any = false
@@ -594,8 +597,8 @@ script 23 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	GCRは ちょ?ど██
-	DiRだぜ[!][!]
+	This is just the right
+	snack!!
 	"""
 	keyWait
 		any = false
@@ -606,8 +609,8 @@ script 23 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Z[ó]Qeqは、ま!+がる
-	炎を・べて のみ&んだ[!][!]
+	Heat Man swallowed all
+	the rising flames!
 	"""
 	keyWait
 		any = false
@@ -619,14 +622,14 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"NçÜÜ[・][・][・]"
+	"Shupopo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	.?█:ば ちょ?ど
-	火が たりんと
-	%もって█たQGlだ
+	Come to think of it, I was
+	just thinking that the fire
+	was burning.
 	"""
 	keyWait
 		any = false
@@ -637,8 +640,8 @@ script 24 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Tò[ó][BX]eqは、ま!+がる
-	炎を・べて のみ&んだ[!][!]
+	Chargeman swallowed up all
+	the rising flames!
 	"""
 	keyWait
 		any = false
@@ -711,14 +714,14 @@ script 28 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	ひごろ ら█?んを
-	+",?Doにとっては、
-	&んなIhなど[・][・][・]
+	For someone like me who
+	regularly deals with
+	rainbows, this spider is...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"bààààê[!][!]"
+	"HAAAAHH!!"
 	keyWait
 		any = false
 	clearMsg
@@ -728,8 +731,8 @@ script 28 mmbn6 {
 	wait
 		frames = 30
 	"""
-	EoJeqの はなった
-	でんりゅ?が Ihをなぎはら?[!]
+	Elec Man's dragon sweeps
+	away the spiders!
 	"""
 	keyWait
 		any = false
@@ -741,14 +744,14 @@ script 29 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Zòbb[!][!]"
+	"Zャbb[!][!]"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Doの *m[SP]NêImは
+	Doの *m[SP]NッImは
 	HSTな!ものまでも
-	!り;óの;[!][!]
+	!り;ーの;[!][!]
 	"""
 	keyWait
 		any = false
@@ -759,7 +762,7 @@ script 29 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Jp[ó]eqの *m[SP]NêImが
+	Jp[ー]eqの *m[SP]NッImが
 	Ihを !り;█た[!][!]
 	"""
 	keyWait
@@ -833,13 +836,13 @@ script 33 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Doの 行ó手を;:ぎる木,
-	気にóわね:な[・][・][・]
+	Doの 行ー手を;:ぎる木,
+	気にーわね:な[・][・][・]
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Dpà[!] も:やがれ[!]"
+	"Dpァ[!] も:やがれ[!]"
 	keyWait
 		any = false
 	clearMsg
@@ -849,7 +852,7 @@ script 33 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Z[ó]Qeqの はなった炎で
+	Z[ー]Qeqの はなった炎で
 	電脳木は も:"!た[!][!]
 	"""
 	keyWait
@@ -862,13 +865,12 @@ script 34 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Oº[・][・][・]"
+	"Shuu..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	bC[!] bC[!]
-	bàê[!][!]
+	Yes! Yes! Haa!!
 	"""
 	keyWait
 		any = false
@@ -879,9 +881,9 @@ script 34 mmbn6 {
 	wait
 		frames = 30
 	"""
-	OpêNçeqは
-	目にもとまらぬ ざんげ!で
-	電脳木を !りた%'た[!][!]
+	Slashman cut down the
+	Cyber Tree with an
+	incredible act of violence!
 	"""
 	keyWait
 		any = false

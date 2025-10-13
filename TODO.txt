@@ -1,3 +1,2 @@
-- Trazer edições da fonte da versão americana pra japonesa, junto da VWF
-- Editar tela-título
 - Editar menu exibido ao apertar Start
+- Corrigir bug onde os nomes das pastas estão com caracteres japoneses aleatórios

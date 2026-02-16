@@ -13,15 +13,15 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	SeasideArea3 on it.
+	Nele, há um mapa
+	da Área Beira-Mar 3.
 	"""
 	keyWait
 		any = false
@@ -35,8 +35,7 @@ script 2 mmbn6s {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	Cyberwater is
-	leaking all over...
+	Há cyberágua vazando...
 	"""
 	keyWait
 		any = false
@@ -45,17 +44,17 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	The darkness won't
-	budge,even with your
-	strongest attacks.
+	As trevas não
+	diminuem, nem com os
+	seus ataques mais fortes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe the
-	EvilSpirits are
-	related somehow...
+	Talvez isso tenha
+	alguma relação com
+	os Espíritos Malignos...
 	"""
 	keyWait
 		any = false
@@ -73,17 +72,16 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	The cyberspring
-	is gushing with
-	water...
+	A cyberfonte está
+	jorrando água...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People say this
-	water has the power
-	to get rid of evil.
+	Dizem que essa água
+	tem o poder de
+	expulsar o mal.
 	"""
 	keyWait
 		any = false
@@ -98,15 +96,15 @@ script 7 mmbn6 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	YOU NEED THE
+	SOMENTE A
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 70
 	"""
-	" TO OPEN
-	THIS DOOR.
+	" PODE
+	ABRIR ESTA PORTA.
 	"""
 	keyWait
 		any = false
@@ -127,9 +125,9 @@ script 8 mmbn6 {
 		jumpIfFalse = 11
 	msgOpen
 	"""
-	Jack me out,Lan!
-	It's finals time!
-	Full speed ahead!
+	Me desconecta, Lan!
+	Tá na hora das finais!
+	Vamos com tudo!
 	"""
 	keyWait
 		any = false
@@ -140,16 +138,16 @@ script 9 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	We don't need to be
-	at this station,yet!
+	A gente ainda não
+	tem por que vir
+	pra esta estação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should go to the
-	Undernet2 station
-	first!
+	Melhor irmos pra estação
+	da Undernet 2 primeiro!
 	"""
 	keyWait
 		any = false
@@ -160,16 +158,16 @@ script 10 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	We don't need to be
-	at this station,yet!
+	A gente ainda não
+	tem por que vir
+	pra esta estação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should go to the
-	Sky Area2 station
-	first!
+	Melhor irmos pra estação
+	da Área Céu 2 primeiro!
 	"""
 	keyWait
 		any = false
@@ -180,16 +178,17 @@ script 11 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	We don't need to be
-	at this station,yet!
+	A gente ainda não
+	tem por que vir
+	pra esta estação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should go to the
-	CentralArea3 station
-	first!
+	Melhor irmos pra
+	estação da Área
+	Central 3 primeiro!
 	"""
 	keyWait
 		any = false
@@ -198,22 +197,22 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	msgOpen
 	"""
-	YOU NEED THE
+	SOMENTE A
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 70
 	"""
-	" TO OPEN
-	THIS DOOR.
+	" PODE
+	ABRIR ESTA PORTA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	printCurrentNavi
 	"""
-	 used:
+	 usou:
 	"
 	"""
 	printItem

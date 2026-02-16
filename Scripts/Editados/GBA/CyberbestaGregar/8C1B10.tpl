@@ -5,13 +5,13 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"My new school..."
+	"Minha nova escola..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see,the
-	Teachers' Room...
+	Tá, deixa eu ver.
+	Sala dos Professores...
 	"""
 	keyWait
 		any = false
@@ -26,20 +26,20 @@ script 1 mmbn6 {
 	msgOpen
 	soundDisableTextSFX
 	controlLock
-	"*BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP"
+	"BIP"
 	soundPlay
 		track = 205
-	"!!*"
+	"!!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -48,8 +48,8 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	INTRUDER ALERT
-	INTRUDER ALERT
+	ALERTA DE INTRUSO!
+	ALERTA DE INTRUSO!
 	"""
 	keyWait
 		any = false
@@ -61,7 +61,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W_What's going on?"
+	"O-o que tá acontecendo?"
 	keyWait
 		any = false
 	end
@@ -69,8 +69,8 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	INTRUDER ALERT
-	INTRUDER ALERT
+	ALERTA DE INTRUSO!
+	ALERTA DE INTRUSO!
 	"""
 	keyWait
 		any = false
@@ -83,15 +83,15 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	An intruder?
-	You mean me!?
+	Intruso?
+	... Quer dizer, EU?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	W_Wait a second!
-	I'm a student here!
+	P-pera aí!
+	Eu sou aluno daqui!
 	"""
 	keyWait
 		any = false
@@ -103,8 +103,8 @@ script 5 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	OH...WELL,WHY DIDN'T
-	YOU SAY SO?
+	AH... POR QUE
+	NÃO DISSE LOGO?
 	"""
 	keyWait
 		any = false
@@ -112,8 +112,9 @@ script 5 mmbn6 {
 	soundPlayBGM
 		track = 99
 	"""
-	IN THAT CASE,SHOW ME
-	YOUR STUDENT ID...
+	NESSE CASO, APRESENTE
+	SUA CARTEIRINHA DE
+	ESTUDANTE...
 	"""
 	keyWait
 		any = false
@@ -125,7 +126,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"My \""
+	"Minha \""
 	printItem
 		buffer = 0
 		item = 1
@@ -134,13 +135,14 @@ script 6 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I just transferred
-	to this school,so
+	Eu acabei de me
+	transferir pra esta
+	escola,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I don't have one..."
+	"então ainda não tirei..."
 	keyWait
 		any = false
 	clearMsg
@@ -150,18 +152,18 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	mugshotHide
 	msgOpen
-	"DON'T HAVE ONE?..."
+	"NÃO POSSUI? ..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEN,YOU ARE
-	AN INTRUDER!
+	ENTÃO, VOCÊ É
+	UM INTRUSO!
 	
 	"""
 	soundPlayBGM
 		track = 12
-	"YOU'RE UNDER ARREST!"
+	"VOCÊ ESTÁ PRESO!"
 	keyWait
 		any = false
 	end
@@ -170,7 +172,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wait a sec!"
+	"Pera aí!"
 	keyWait
 		any = false
 	clearMsg
@@ -180,7 +182,7 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	mugshotHide
 	msgOpen
-	"I WILL NOT WAIT!"
+	"NÃO IREMOS \"PERAR\"!"
 	keyWait
 		any = false
 	end
@@ -189,21 +191,20 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Man,what a welcome!"
+	"Nossa, que jeito\nde começar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like we'll
-	have to jack in to
-	get through.
+	Parece que a gente vai
+	ter que se conectar
+	se quiser passar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you ready,
-	MegaMan?
+	Tá pronto, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -215,7 +216,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"...Yeah!!"
+	"... Tô!!"
 	keyWait
 		any = false
 	clearMsg
@@ -228,11 +229,11 @@ script 12 mmbn6 {
 	storeTimer
 		timer = 0
 		value = 128
-	"\"Wait!!"
+	"\"Espera!!"
 	keyWait
 		any = false
 	clearMsg
-	" Back off!\n Everyone!\n Now!!\""
+	" Unidades, recuar!\n Agora!!\""
 	keyWait
 		any = false
 	waitOWVar
@@ -247,8 +248,8 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	H_Hey! That was a
-	human voice!?
+	O-opa! Essa voz
+	é humana, né?!
 	"""
 	keyWait
 		any = false
@@ -259,7 +260,7 @@ script 13 mmbn6 {
 script 14 mmbn6 {
 	mugshotHide
 	msgOpen
-	"\"You... Are you\n Lan Hikari?\""
+	"\"Você... Você é\n Lan Hikari?\""
 	keyWait
 		any = false
 	clearMsg
@@ -271,13 +272,13 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Uh...yeah...
-	That's me,but...
+	Er... sou...
+	Sou sim, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Who are you...?"
+	"Quem é você...?"
 	keyWait
 		any = false
 	clearMsg
@@ -287,23 +288,23 @@ script 15 mmbn6 {
 script 16 mmbn6 {
 	mugshotHide
 	msgOpen
-	"\"Wahahaha!!"
+	"\"Gah ha ha ha!!"
 	keyWait
 		any = false
 	clearMsg
-	" You have quite\n a lot of guts!"
+	" Você tem coragem,\n rapaz!"
 	keyWait
 		any = false
 	clearMsg
-	" Most people run\n from Security Bots,"
+	" A maioria das pessoas\n foge correndo dos\n Robôs de Segurança."
 	keyWait
 		any = false
 	clearMsg
-	" but you are the\n first to fight one!"
+	" Você é o primeiro que\n eu vejo tentando\n lutar contra eles!"
 	keyWait
 		any = false
 	clearMsg
-	" Oh,excuse me...\n I'm your homeroom\n teacher!\""
+	" Ah, desculpa...\n Eu sou o seu\n professor de sala!\""
 	keyWait
 		any = false
 	clearMsg
@@ -317,15 +318,14 @@ script 17 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A Security Bot...
-	is my teacher...?
+	Um Robô de Segurança...
+	é o meu professor...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a strange
-	school...
+	Que escola esquisita...
 	"""
 	keyWait
 		any = false
@@ -334,27 +334,27 @@ script 17 mmbn6 {
 script 18 mmbn6 {
 	mugshotHide
 	msgOpen
-	"\"No,no!!"
+	"\"Não, não!!"
 	keyWait
 		any = false
 	clearMsg
-	" I'm a little\n tied up right now,"
+	" Eu tô meio enrolado\n agora,"
 	keyWait
 		any = false
 	clearMsg
-	" so I'm just using\n the Security Bot's"
+	" então tô usando o\n alto-falante do\n Robô de Segurança"
 	keyWait
 		any = false
 	clearMsg
-	" speaker to talk\n from the\n Teachers' Room."
+	" pra falar com você\n da Sala dos Professores."
 	keyWait
 		any = false
 	clearMsg
-	" I'm going to lift\n the security system"
+	" Vou desativar o\n sistema de segurança,"
 	keyWait
 		any = false
 	clearMsg
-	" so come on in and\n stay to the right.\""
+	" então pode entrar\n passando pela direita.\""
 	keyWait
 		any = false
 	end
@@ -365,14 +365,14 @@ script 19 mmbn6 {
 	controlLock
 	soundPlay
 		track = 337
-	"*beeep*"
+	"Biiiiip"
 	wait
 		frames = 20
 	flagClear
 		flag = 16
 	soundPlay
 		track = 374
-	" *click*"
+	" Clic!"
 	wait
 		frames = 20
 	soundEnableTextSFX
@@ -384,23 +384,23 @@ script 19 mmbn6 {
 script 20 mmbn6 {
 	mugshotHide
 	msgOpen
-	"\"The Teachers' Room\n is down the left\n hallway."
+	"\"A Sala dos Professores\n fica descendo o\n corredor esquerdo."
 	keyWait
 		any = false
 	clearMsg
-	" I'll be the cool,\n energetic teacher"
+	" Eu sou o professor\n descolado e cheio de\n energia"
 	keyWait
 		any = false
 	clearMsg
-	" wearing the bright\n red warm_up suit!"
+	" de agasalho vermelho!"
 	keyWait
 		any = false
 	clearMsg
-	" Don't hesitate to\n give me a shout!!"
+	" Não se acanhe, só venha\n falar comigo!!"
 	keyWait
 		any = false
 	clearMsg
-	" See you in a bit!\""
+	" Até já!\""
 	keyWait
 		any = false
 	end
@@ -409,7 +409,7 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wow,what a school..."
+	"Cara, que escola, esta..."
 	keyWait
 		any = false
 	end
@@ -418,13 +418,13 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Huh?"
+	"... Hã?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"What's up,Lan?"
+	"Que foi, Lan?"
 	keyWait
 		any = false
 	clearMsg
@@ -435,7 +435,7 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's that...?"
+	"Que que é aquilo...?"
 	keyWait
 		any = false
 	end
@@ -444,13 +444,12 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Looks like...a doll?"
+	"Parece um... boneco?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But what's it doing
-	there?
+	Mas por que ele tá aí?
 	"""
 	keyWait
 		any = false
@@ -462,13 +461,13 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Strange..."
+	"Estranho..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's ask a
-	teacher later.
+	Depois a gente pergunta
+	pra um dos professores.
 	"""
 	keyWait
 		any = false
@@ -480,7 +479,7 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,later..."
+	"É, pode ser..."
 	keyWait
 		any = false
 	end
@@ -490,8 +489,8 @@ script 27 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,off to the
-	Teachers' Room!
+	Beleza, bora lá pra
+	Sala dos Professores!
 	"""
 	keyWait
 		any = false

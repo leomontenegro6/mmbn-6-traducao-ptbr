@@ -13,24 +13,23 @@ script 0 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	The security
-	cameras' recording
-	storage center.
+	É o centro de
+	armazenamento das
+	câmeras de segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's showing your
-	classroom on the
-	monitor.
+	No monitor dele, dá
+	para ver a sua sala.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can also clearly
-	see the crayfish...
+	Além dos lagostins,
+	com enorme clareza...
 	"""
 	keyWait
 		any = false
@@ -47,53 +46,51 @@ script 6 mmbn6 {
 		jumpIfFalse = 5
 	msgOpen
 	"""
-	The security
-	cameras' recording
-	storage center.
+	É o centro de
+	armazenamento das
+	câmeras de segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"This is it,Lan..."
+	"É isso, Lan..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Huh? What...?"
+	"Hã? Quê...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	This camera is
-	always filming your
-	classroom.
+	Essa câmera tá sempre
+	filmando a sala de vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And then it saves
-	that data here on
-	this computer...
+	Daí, salva esses dados
+	neste computador aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"So then,MegaMan,"
+	"Então..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if we check the
-	footage from around
-	4 P.M. yesterday...
+	se a gente conferir
+	as filmagens de ontem,
+	ali pelas 16:00...
 	"""
 	keyWait
 		any = false
@@ -101,95 +98,94 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah! Maybe Dad will
-	be on it,and that
-	means that
+	Aham! Elas podem mostrar
+	o papai, o que vai provar
+	que não tem como ele ser
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dad can't be the
-	real criminal!
+	o culpado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It would support
-	his alibi!
+	Isso embasaria
+	o álibi dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"That's right!"
+	"Verdade!"
 	keyWait
 		any = false
 	clearMsg
-	"OK,MegaMan!"
+	"Beleza, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's find that
-	footage!
+	Encontra aí
+	essas filmagens!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Got it!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now... footage from
-	4 P.M. yesterday...
-	Um...
+	Hm... Filmagens das
+	16:00 de ontem...
+	...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Huh?
-	That's strange...
+	... Ué?
+	Que estranho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"What's up,MegaMan?"
+	"Que foi, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	... Wah!
-	A virus!!
+	... Agh!
+	Um vírus!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"W_What!?"
+	"O-o quê?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Lan! Get ready!"
+	"Lan! Prepara!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"... OK!!"
+	"... Beleza!!"
 	keyWait
 		any = false
 	flagSet

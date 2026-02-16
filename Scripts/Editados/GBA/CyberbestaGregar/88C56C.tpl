@@ -6,16 +6,15 @@ script 0 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Welcome to Sky Town!
-	Looks like everyone
-	is just about here.
+	Bem-vindo ao Distrito Céu!
+	Parece que praticamente
+	todo mundo já chegou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shall we get started
-	then...?
+	Vamos começar, então...?
 	"""
 	keyWait
 		any = false
@@ -30,8 +29,8 @@ script 1 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Yo,you're late!
-	Good luck to you!
+	Ô, cê tá atrasado!
+	Boa sorte aí!
 	"""
 	keyWait
 		any = false
@@ -42,9 +41,8 @@ script 2 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Ah... I'm so
-	nervous!
-	Good luck,kid!!
+	Ah... estou tão nervoso!
+	Boa sorte, rapaz!
 	"""
 	keyWait
 		any = false
@@ -55,8 +53,8 @@ script 5 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Alright!!
-	Let's go!!
+	Beleza!!
+	Simbora!!
 	"""
 	keyWait
 		any = false
@@ -67,24 +65,24 @@ script 6 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Wa,wa,wa... I have
-	to review my
-	research notes...
+	A-a-aaah... Eu tenho
+	que revisar as minhas
+	anotações de pesquisa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If something happens
-	in this area,then I
-	should use a sword_
+	Se for pra atuar
+	naquela área, então
+	eu tenho que usar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	type chip and do
-	this,and...
+	um chip tipo espada
+	e fazer isso, e aí...
 	"""
 	keyWait
 		any = false
@@ -99,8 +97,8 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Send MegaMan into
-	the CopyBot?
+	Mandar o MegaMan
+	para o CópiRoide?
 	
 	"""
 	positionOptionHorizontal
@@ -113,7 +111,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -122,7 +120,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -139,7 +137,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Return to the PET?\n"
+	"Voltar ao PET?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -150,7 +148,7 @@ script 11 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -159,7 +157,7 @@ script 11 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -181,14 +179,13 @@ script 12 mmbn6 {
 }
 script 13 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But there is no need
-	to use it right
-	now...
+	Mas não há por que
+	usá-lo agora...
 	"""
 	keyWait
 		any = false
@@ -199,26 +196,25 @@ script 15 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	W_What? You're
-	going to the
-	Undernet?
+	O-o quê?
+	Você vai pra Undernet?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,but that's the
-	one place I can't
-	help you in!
+	Lamento, mas com esse
+	lugar, em particular,
+	eu não posso te ajudar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's too horrible!"
+	"É simplesmente horrível!"
 	keyWait
 		any = false
 	clearMsg
-	"Brrrr... *shiver...*"
+	"Brrrr..."
 	keyWait
 		any = false
 	end
@@ -227,7 +223,7 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Ummmm..."
+	"Huuummm..."
 	keyWait
 		any = false
 	end
@@ -236,27 +232,26 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"*huff! huff! huff!*"
+	"Uff! Arf! Arf!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have been so busy
-	with reporting the
-	weather recently
+	Andamos tão ocupados
+	informando o clima
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that we can not have
-	you just hanging
-	around!
+	que temos que pedir
+	que você não fique
+	zanzando por aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*huff! huff! huff!*"
+	"Uff! Arf! Arf!"
 	keyWait
 		any = false
 	end
@@ -265,26 +260,25 @@ script 45 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"*huff! huff! huff!*"
+	"Arf... Arf...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're really too
-	busy here!
+	Estamos super
+	ocupados aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now's not the time
-	to talk about the
-	Expo!
+	Não é hora de falar
+	da Exposição!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*huff! huff! huff!*"
+	"Urf! Urf! Arf!"
 	keyWait
 		any = false
 	end

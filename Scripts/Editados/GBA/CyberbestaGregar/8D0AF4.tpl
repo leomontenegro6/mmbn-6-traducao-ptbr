@@ -5,13 +5,13 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Reporting in,sir!"
+	"Relatório, senhor!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CentralArea1,2,and 3
-	are all clear!
+	Áreas Centrais
+	1, 2 e 3, tudo limpo!
 	"""
 	keyWait
 		any = false
@@ -28,9 +28,9 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Didn't that Navi
-	incident happen here
-	a few days ago...?
+	Não houve um incidente
+	de Navi por aqui,
+	uns dias atrás...?
 	"""
 	keyWait
 		any = false
@@ -43,9 +43,9 @@ script 2 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ah,yes,sir. We day
-	patrol officers took
-	care of it,though...
+	Ah, sim, senhor. Mas nós,
+	da patrulha matinal,
+	cuidamos dele.
 	"""
 	keyWait
 		any = false
@@ -58,16 +58,15 @@ script 3 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hmm... That may be
-	true,but it's too
-	quiet around here...
+	Hmm... Pode até ser, mas
+	está quieto demais aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's times like
-	these when...
+	É justamente
+	nessas horas que...
 	"""
 	keyWait
 		any = false
@@ -75,8 +74,8 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	You're over_thinking
-	the situation,sir...
+	Acho que o senhor
+	está paranoico...
 	"""
 	keyWait
 		any = false
@@ -86,14 +85,14 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Yeah..."
+	"Talvez..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As long as this
-	isn't the calm
-	before the storm...
+	Só espero que essa
+	não seja a calmaria
+	antes da tempestade...
 	"""
 	keyWait
 		any = false

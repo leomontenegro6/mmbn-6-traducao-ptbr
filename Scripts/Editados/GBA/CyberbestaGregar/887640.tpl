@@ -12,15 +12,15 @@ script 0 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Court will not be
-	in session today.
+	Nenhuma sessão
+	foi aberta hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you have some
-	business here?
+	Tem algum assunto
+	a tratar aqui?
 	"""
 	keyWait
 		any = false
@@ -28,8 +28,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Where is
-	Yuichiro Hikari!?
+	O Yuichiro Hikari,
+	onde ele tá?!
 	"""
 	keyWait
 		any = false
@@ -37,50 +37,49 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	The criminal,Hikari,
-	should already be in
-	the PunishmentRoom.
+	Hikari, o criminoso,
+	já deve estar na
+	Cela de Punição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He should receive
-	his sentence
-	shortly...
+	Deverá receber
+	a sentença dele
+	em breve...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why do you want
-	to know?
+	Por que quer saber?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"His alibi..."
+	"Um álibi..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Yuichiro Hikari
-	had an alibi...
+	tem um álibi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
-	"Is that so?"
+	"Ah, é?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yes! It's the truth!"
+	"É! É a verdade!"
 	keyWait
 		any = false
 	clearMsg
@@ -90,20 +89,20 @@ script 0 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"I believe you."
+	"Eu acredito em você."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll make an
-	exception this time.
+	Vou abrir uma
+	exceção desta vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may go to the
-	PunishmentRoom.
+	Pode seguir para
+	a Cela de Punição.
 	"""
 	keyWait
 		any = false
@@ -114,15 +113,15 @@ script 1 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I'll make an
-	exception this time.
+	Vou abrir uma
+	exceção desta vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may go to the
-	PunishmentRoom.
+	Pode seguir para
+	a Cela de Punição.
 	"""
 	keyWait
 		any = false
@@ -133,16 +132,15 @@ script 2 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	That door is
-	being repaired
-	now...
+	A porta está sendo
+	consertada agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please be
-	patient...
+	Por favor,
+	pedimos paciência...
 	"""
 	keyWait
 		any = false
@@ -151,8 +149,9 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	NO UNAUTHORIZED
-	PERSONNEL!
+	PROIBIDA A
+	ENTRADA DE GENTE
+	NÃO-AUTORIZADA!
 	"""
 	keyWait
 		any = false
@@ -163,22 +162,21 @@ script 5 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Actually,I'm a new
-	prosecutor who just
-	passed the bar exam.
+	Na verdade, sou um promo-
+	tor novo, recém-aprovado
+	no exame da ordem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I still don't
-	know my left from
-	my right...
+	Logo, mal sei o que
+	estou fazendo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Uh_oh..."
+	"É..."
 	keyWait
 		any = false
 	end
@@ -188,30 +186,30 @@ script 6 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Applications for
-	entry permits are
+	Pedidos para a
+	emissão de autorizações
+	de entrada
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	being taken at the
-	Green Area2 NetCafe.
+	são feitos no NetCafé
+	da Área Verde 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I had been planning
-	to apply for a
-	while now...
+	Eu pretendia fazer isso
+	já há um bom tempo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,but I
-	completely forgot!
+	Desculpe, esqueci
+	completamente!
 	"""
 	keyWait
 		any = false
@@ -222,9 +220,8 @@ script 7 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Well,it's about time
-	for today's pre_
-	trial meeting...
+	Bem, está quase na
+	hora do pré-julgamento...
 	"""
 	keyWait
 		any = false
@@ -235,16 +232,15 @@ script 8 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	I think you should
-	study the law for
-	yourself.
+	Acho que você devia
+	estudar a lei sozinho,
+	depois.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think you'd
-	be surprised!
+	Vai se surpreender!
 	"""
 	keyWait
 		any = false
@@ -255,16 +251,16 @@ script 10 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Actually,I'm a new
-	prosecutor who just
-	passed the bar exam.
+	Na verdade, sou um promo-
+	tor novo, recém-aprovado
+	no exame da ordem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I still have lots
-	of things to learn!
+	Eu ainda tenho
+	muito a aprender!
 	"""
 	keyWait
 		any = false
@@ -275,8 +271,8 @@ script 15 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Hey! What's going
-	on here!?
+	Ei! O que é que
+	está havendo aqui?!
 	"""
 	keyWait
 		any = false
@@ -287,8 +283,8 @@ script 16 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	What happened?
-	Did you make it!?
+	O que aconteceu?
+	Deu tempo?!
 	"""
 	keyWait
 		any = false
@@ -299,17 +295,16 @@ script 17 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Oh no... That
-	JudgeTree is acting
-	very strange!
+	Essa não...
+	A Árvore Juíza está
+	desgovernada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is not
-	something we
-	expected!
+	Por essa, ninguém
+	aqui esperava!
 	"""
 	keyWait
 		any = false

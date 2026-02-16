@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... You really OK
-	with not saying bye
-	to Plata?
+	... Tudo bem mesmo
+	pra você, não se
+	despedir do Plata?
 	"""
 	keyWait
 		any = false
@@ -18,14 +18,14 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Stop already!"
+	"Agh, chega, tá?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't need to
-	say some special
-	goodbye...
+	Eu não preciso dar
+	um adeus especial
+	nem nada assim...
 	"""
 	keyWait
 		any = false
@@ -37,7 +37,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Woman
 	msgOpen
-	"Eeeeek!"
+	"Aaaain!"
 	soundStop
 	keyWait
 		any = false
@@ -47,13 +47,12 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Woman
 	msgOpen
-	"O_Oh no!!"
+	"E-essa não!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are piranhas
-	in the fountain!
+	Tem piranhas na fonte!
 	"""
 	soundPlayBGM
 		track = 12
@@ -76,7 +75,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Boy
 	msgOpen
-	"Sh_Sharks!!"
+	"T-tubarões!!"
 	keyWait
 		any = false
 	end
@@ -85,37 +84,36 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"This is terrible!!"
+	"Mas que horror!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Aquarium's tanks
-	and cages just all
-	unlocked themselves,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	and all the fish
-	and animals have
-	escaped!
+	Os tanques e gaiolas do
+	Aquário se destrancaram
+	sozinhos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Aquarium is
-	connected to the
-	town's water system!
+	e todos os peixes
+	e animais escaparam!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,everyone stay
-	away from the water!
+	E o Aquário tá ligado
+	ao sistema hídrico da
+	cidade...!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Gente, todo mundo
+	longe da água!
 	"""
 	keyWait
 		any = false
@@ -125,21 +123,20 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"This is bad!"
+	"Caramba!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That aquarium had
-	alligators,too,
-	remember?
+	Também tinham jacarés
+	no Aquário, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If they escape
-	into town...
+	Se eles forem
+	parar na cidade...!
 	"""
 	keyWait
 		any = false
@@ -152,8 +149,8 @@ script 8 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	... The penguin...
-	Is he alright?...
+	... O pinguim...
+	Ele tá bem? ...
 	"""
 	keyWait
 		any = false
@@ -163,7 +160,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Eh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -175,8 +172,7 @@ script 10 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	... I'm going to
-	go check it out!
+	... Eu vou lá ver!
 	"""
 	keyWait
 		any = false
@@ -187,15 +183,14 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey!
-	W_Wait up!
+	Ei! P-pera aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too dangerous
-	to go by yourself!
+	É perigoso demais
+	entrar lá sozinho!!
 	"""
 	keyWait
 		any = false
@@ -215,17 +210,16 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we should go
-	back to the
-	Aquarium,too!
+	Éé melhor a gente voltar
+	pro Aquário também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This wasn't an
-	accident __ I'm sure
-	someone caused this!
+	Isso não foi acidente.
+	Com certeza alguém
+	causou isso!
 	"""
 	keyWait
 		any = false
@@ -237,14 +231,14 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,I know."
+	"É, eu sei."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go. We've
-	gotta catch up with
-	Mick!
+	Vamos nessa.
+	A gente tem que
+	alcançar o Mick!
 	"""
 	keyWait
 		any = false

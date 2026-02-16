@@ -6,25 +6,24 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME AND THANK
-	YOU FOR COMING TO
-	GREEN AREA!
+	BEM-VINDO E OBRIGADO
+	POR VISITAR A ÁREA
+	VERDE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE MOTTO FOR THIS
-	AREA IS "PURE,RIGHT,
-	AND BEAUTIFUL".
+	O LEMA DESTA ÁREA É
+	"PURO, CORRETO E BELO".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THUS,GOING AGAINST
-	THE RULES IS SIMPLY
-	ABSURD! FAREWELL!!
+	LOGO, VIOLAR AS REGRAS
+	É SIMPLESMENTE ABSURDO!
+	ADEUS!!
 	"""
 	keyWait
 		any = false
@@ -35,31 +34,25 @@ script 1 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	You probably know
-	this already,but
+	Você já deve saber
+	disso, mas a Rede é
+	propriedade pública!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Net is
-	public property!
+	Então, se cometer
+	alguma traquinagem,
+	pode ser multado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So if you try any
-	mischief,you may
-	be fined.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	My suggestion is
-	to forget about
-	mischief altogether.
+	Sugiro esquecer
+	completamente a
+	ideia de traquinagens.
 	"""
 	keyWait
 		any = false
@@ -70,16 +63,16 @@ script 2 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	If you go down that
-	slope,the small
-	roads get tangled!
+	Descendo essa rampa,
+	as estradas ficam
+	emaranhadas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Kind of like the
-	roots of a tree!!
+	Parecem até as raízes
+	de uma árvore!
 	"""
 	keyWait
 		any = false
@@ -90,9 +83,9 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	UMMM... SORRY TO
-	BE SUDDEN,BUT I MUST
-	EXAMINE YOUR BAGS!
+	HMMM... DESCULPE POR
+	ISSO, MAS PRECISO
+	EXAMINAR SUA BAGAGEM!
 	"""
 	keyWait
 		any = false
@@ -106,21 +99,21 @@ script 5 mmbn6 {
 	"."
 	wait
 		frames = 30
-	"NO PROBLEMS!"
+	" TUDO LIMPO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT SEEMS YOU HAVE
-	NOTHING TOO
-	SUSPICIOUS ON YOU.
+	PARECE QUE VOCÊ
+	NÃO ESTÁ PORTANDO
+	NADA SUSPEITO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THANK YOU FOR YOUR
-	COOPERATION!
+	AGRADECEMOS
+	A COOPERAÇÃO!
 	"""
 	keyWait
 		any = false
@@ -131,17 +124,16 @@ script 6 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The Net is
-	being patrolled
-	right now...
+	A Rede está sob
+	patrulha agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This effort is
-	very important in
-	preventing NetCrime.
+	É uma ação muito
+	importante para
+	prevenir NetCrimes.
 	"""
 	keyWait
 		any = false
@@ -152,21 +144,20 @@ script 7 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Did you know that
-	you have to go to
-	school?
+	Sabia que você TEM
+	que ir pra escola?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's the law!"
+	"Tá na lei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So no matter how
-	much you hate class,
-	you have to go!
+	Então, por mais
+	que você odeie as
+	aulas, TEM que ir!
 	"""
 	keyWait
 		any = false

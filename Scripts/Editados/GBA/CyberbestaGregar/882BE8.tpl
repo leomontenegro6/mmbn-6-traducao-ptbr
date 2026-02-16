@@ -20,16 +20,15 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	The sharks are
-	acting kinda
-	funny...
+	Os tubarões estão
+	meio estranhos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're nervous...
-	What does this mean?
+	Estão nervosos...
+	Por que será?
 	"""
 	keyWait
 		any = false
@@ -40,16 +39,16 @@ script 5 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The sharks'
-	movements are
-	more frantic now.
+	Os movimentos dos
+	tubarões estão ainda
+	mais agitados agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is obviously
-	something going on.
+	Claramente tem alguma
+	coisa acontecendo.
 	"""
 	keyWait
 		any = false
@@ -60,38 +59,38 @@ script 6 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	This alligator is
-	crazy fierce!
+	Este jacaré é
+	super feroz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When it's starving,
-	it'll even go after
-	animals bigger than
+	Quando tá com fome,
+	ele até ataca animais
+	maiores que ele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	itself with a huge,
-	"Ka_CHOMP!!"
+	com um enorme
+	"CRA-NHAC"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and gnaw on it with
-	its sharp,dagger_
-	like teeth...
+	e rói ele com suas
+	presas afiadas feito
+	adagas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungBoyHair
-	"Aaaah! Noooooooo!!"
+	"Aaaah! Nãããããooo!!"
 	keyWait
 		any = false
 	end
@@ -100,11 +99,11 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
 	msgOpen
-	"Alligators are COOL!"
+	"Jacarés são tão LEGAIS!"
 	keyWait
 		any = false
 	clearMsg
-	"Ka_CHOMP!!"
+	"CRA-NHAC!!"
 	keyWait
 		any = false
 	end
@@ -114,9 +113,8 @@ script 9 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	*hiccup...*
-	Alligatos are
-	scary...
+	Sniff...
+	Jacarés dão medo...
 	"""
 	keyWait
 		any = false
@@ -127,16 +125,15 @@ script 10 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The weather has
-	become abnormal,it
-	seems...
+	O tempo ficou anormal,
+	ao que parece...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think the sharks
-	sense this...
+	Acho que os tubarões
+	sentem isso...
 	"""
 	keyWait
 		any = false
@@ -147,19 +144,19 @@ script 40 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	... The sea... It's
-	so mysterious.
+	... O oceano...
+	É tão misterioso.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... *sniffle*"
+	"... Sniff..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's...
-	It's so moving.
+	É...
+	É tão comovente.
 	"""
 	keyWait
 		any = false
@@ -170,16 +167,15 @@ script 41 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Grandpa! I want to
-	ride on the shark's
-	back!
+	Vovô! Eu quero
+	montar no tubarão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldMan
-	"D_Don't be silly..."
+	"V-você fala cada coisa..."
 	keyWait
 		any = false
 	end
@@ -189,16 +185,16 @@ script 42 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Did you hear the
-	Force Program in Sky
-	Town was stolen?
+	Ficou sabendo que o
+	Programa de Força do
+	Distrito Céu foi roubado?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Public order is in
-	quite a mess,huh...?
+	A ordem pública está
+	uma bagunça, hein...?
 	"""
 	keyWait
 		any = false
@@ -209,15 +205,15 @@ script 45 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Grandpa! I want that
-	banana over there!
+	Vovô! Eu quero
+	aquela banana ali!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldMan
-	"D_Don't be silly."
+	"V-você fala cada coisa."
 	keyWait
 		any = false
 	end
@@ -226,18 +222,18 @@ script 46 mmbn6 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Whooooooa!!"
+	"Uaaaaaauu!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The sea is really
-	something else!
+	O mar é incrível!
+	É sem igual!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Whooooooa!!"
+	"Uaaaaaauu!!"
 	keyWait
 		any = false
 	end
@@ -251,17 +247,15 @@ script 47 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The Expo commercial
-	started showing on
-	TV,you know.
+	Começou a passar na TV
+	o comercial da Exposição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And now I'm all
-	anxious for it to
-	open!
+	E, agora, eu tô todo
+	ansioso pra ela abrir!
 	"""
 	keyWait
 		any = false
@@ -272,9 +266,8 @@ script 48 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Is it true there's
-	a crazy Navi out
-	there?
+	É verdade que tem um
+	Navi doido à solta?
 	"""
 	keyWait
 		any = false

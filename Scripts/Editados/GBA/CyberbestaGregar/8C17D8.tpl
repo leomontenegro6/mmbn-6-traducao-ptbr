@@ -6,15 +6,15 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's call
-	it a day
+	Lan, acho melhor a
+	gente encerrar por hoje
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and finish preparing
-	for tomorrow.
+	e começar a se
+	preparar pra amanhã.
 	"""
 	keyWait
 		any = false
@@ -26,21 +26,21 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Guess I should..."
+	"Acho que cê tem razão..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I wanna explore
-	just a little more!
+	mas eu quero explorar
+	só mais um pouquinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,don't you
-	wanna see more of
-	our new town's Net?
+	Digo, você também não
+	quer ver mais da Rede
+	do nosso novo bairro?
 	"""
 	keyWait
 		any = false
@@ -53,24 +53,24 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,yeah.
-	OK,just a
-	little longer.
+	... Bom, quero...
+	Tá, mas só mais
+	um pouquinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,not too much
-	longer,OK?
+	A gente não pode
+	demorar demais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can't be late on
-	your first day of
-	school,you know!
+	Digo, você não pode
+	se atrasar pro seu
+	primeiro dia de aula!
 	"""
 	keyWait
 		any = false
@@ -83,17 +83,17 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,yeah,I know.
-	I think I can
-	handle myself.
+	Eu sei, eu sei.
+	Relaxa, eu sou um
+	cara responsável.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	C'mon,what are we
-	waiting for!?
-	Let's go!
+	Enfim, a gente tá
+	esperando o quê?!
+	Bora lá!
 	"""
 	keyWait
 		any = false
@@ -106,15 +106,15 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You can handle
-	yourself,huh?...
+	Você é um "cara
+	responsável", é...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright.
-	I'll trust you.
+	Tá bom.
+	Eu vou confiar em você.
 	"""
 	keyWait
 		any = false

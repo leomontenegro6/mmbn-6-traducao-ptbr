@@ -6,14 +6,14 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Heh,heh,I can't
-	believe people
-	remember me.
+	He he, eu nem acredito
+	que todo mundo lembra
+	de mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm really touched!"
+	"Tô comovido!"
 	keyWait
 		any = false
 	clearMsg
@@ -25,32 +25,32 @@ script 1 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Well of course they
-	do.
+	Ah, claro que
+	lembram, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,MegaMan shows
-	up on TV everyday!
-	And when people see
+	Digo, o MegaMan aparece
+	na TV direto! E sempre
+	que as pessoas veem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that commercial,they
-	are supposed to
-	think of you!
+	aquele comercial,
+	claro que elas
+	pensam em você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And by supposed to,I
-	mean dragged,kicking
-	and screaming...
+	Não que elas tenham
+	muita escolha, passa
+	TANTAS vezes...
 	"""
 	keyWait
 		any = false
@@ -63,15 +63,15 @@ script 2 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hey,speaking of
-	MegaMan,
+	Ah, falando no MegaMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	let's go on the Net
-	like we used to!
+	bora dar uma volta
+	na Rede, como nos
+	velhos tempos!
 	"""
 	keyWait
 		any = false
@@ -84,9 +84,9 @@ script 3 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Yeah! Sounds good!
-	Roll wants to see
-	MegaMan too!
+	É! Gostei da ideia!
+	A Roll também quer
+	muito ver o MegaMan!
 	"""
 	keyWait
 		any = false
@@ -99,9 +99,9 @@ script 4 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Alright then,let's
-	meet in front of the
-	ducks in ACDC Area.
+	Beleza, então: a gente
+	se encontra na frente
+	dos patos na Área ACDC.
 	"""
 	keyWait
 		any = false
@@ -114,17 +114,16 @@ script 5 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You still remember
-	how to get to ACDC
-	Area,right?
+	Você ainda lembra como
+	chega na Área ACDC, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can jack in to
-	the Squirrel Statue
-	in the park.
+	Dá pra chegar lá se
+	conectando na Estátua
+	de Esquilo do parque.
 	"""
 	keyWait
 		any = false
@@ -136,7 +135,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I remember!"
+	"Eu lembro!"
 	keyWait
 		any = false
 	clearMsg
@@ -148,17 +147,17 @@ script 7 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	A road linking ACDC
-	Area directly to
-	Cyber City's Net was
+	Uma rota que liga a
+	Área ACDC diretamente
+	à Rede da Cidade Saibher
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	finished recently.
-	Why don't you check
-	it out sometime!?
+	foi concluída estes
+	dias. Devia conferir,
+	qualquer dia!
 	"""
 	keyWait
 		any = false
@@ -170,13 +169,13 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,I will!"
+	"Pode apostar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,let's meet by the
-	ducks in ACDC Area!
+	OK, bora se reunir perto
+	dos patos na Área ACDC!
 	"""
 	keyWait
 		any = false

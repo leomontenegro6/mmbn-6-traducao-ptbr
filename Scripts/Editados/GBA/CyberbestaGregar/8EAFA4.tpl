@@ -6,16 +6,16 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	"""
-	... CentralArea,
-	CentralArea...
+	... Área Central,
+	Área Central...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please remember to
-	take everything with
-	you.
+	Verifiquem se estão
+	levando todos os seus
+	pertences.
 	"""
 	keyWait
 		any = false
@@ -26,24 +26,23 @@ script 1 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Choo,choo!!
-	Great driving!
+	Tchú-tchúú!!
+	Ótima pilotagem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We will soon be
-	departing for our
-	next destination.
+	Agora, partiremos
+	rumo ao nosso
+	próximo destino.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Make the neccessary
-	preparations,and
-	let's go.
+	Faça os devidos
+	preparativos e vamos lá!
 	"""
 	keyWait
 		any = false

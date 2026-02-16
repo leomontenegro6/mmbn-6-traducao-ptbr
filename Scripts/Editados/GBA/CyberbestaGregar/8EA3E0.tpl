@@ -6,24 +6,24 @@ script 0 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	You're strong...
-	And your power is
-	EraseMan's opposite.
+	Você é forte...
+	E a sua força é o
+	oposto da do KillerMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I end my lesson
-	here...
+	... Encerro minha
+	aula por aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I allow you to take
-	EraseMan as a
-	LinkNavi...
+	Permitirei que você
+	tenha o KillerMan
+	como NaviElo...
 	"""
 	keyWait
 		any = false
@@ -40,8 +40,8 @@ script 1 mmbn6 {
 	soundPlay
 		track = 143
 	"""
-	EraseMan became
-	Lan's LinkNavi!
+	KillerMan se tornou
+	NaviElo do Lan!
 	"""
 	waitOWVar
 		variable = 0
@@ -60,33 +60,33 @@ script 2 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	EraseMan's power,the
-	EraseCross,is in
-	your hands.
+	O poder do KillerMan,
+	o KillerCruz, está
+	nas suas mãos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope I will never
-	get a request to
-	delete your Navi...
+	Eu espero nunca receber
+	uma ordem de eliminar
+	o SEU Navi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,should that day
-	come,I can not show
-	you mercy.
+	Dito isso, se esse dia
+	vier, não poderei
+	mostrar misericórdia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you need to
-	operate EraseMan,
-	he will be here...
+	Se você precisar operar
+	o KillerMan, ele
+	estará aqui...
 	"""
 	keyWait
 		any = false

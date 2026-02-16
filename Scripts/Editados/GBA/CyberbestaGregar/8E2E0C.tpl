@@ -6,24 +6,24 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm back,but I wish
-	I knew how to get
-	MegaMan back...
+	Tô em casa. Mas queria
+	era saber como resgatar
+	o MegaMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't gather info
-	on the Net,and...
+	Não dá pra eu reunir
+	informações na Rede, e...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really can't do
-	anything without
-	MegaMan...
+	Bom, na real, eu não
+	consigo fazer nada
+	sem o MegaMan...
 	"""
 	keyWait
 		any = false
@@ -53,14 +53,14 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The autophone..."
+	"O autofone..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan usually
-	tells me I have
-	a call...
+	O MegaMan sempre
+	me avisa quando eu
+	recebo ligação...
 	"""
 	keyWait
 		any = false
@@ -70,7 +70,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Hello?"
+	"... Alô?"
 	keyWait
 		any = false
 	clearMsg
@@ -82,9 +82,8 @@ script 4 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Hey,Lan?
-	We're in big
-	trouble!
+	Alô, Lan?
+	A coisa aqui tá feia!
 	"""
 	keyWait
 		any = false
@@ -96,7 +95,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's wrong!?"
+	"O que aconteceu?!"
 	keyWait
 		any = false
 	clearMsg
@@ -108,8 +107,8 @@ script 6 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Is MegaMan in your
-	PET right now?
+	O MegaMan tá no
+	seu PET agora?
 	"""
 	keyWait
 		any = false
@@ -122,9 +121,9 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Um,no...
-	He's not even close
-	to me right now...
+	... Er, não...
+	Não tá nem perto,
+	na verdade...
 	"""
 	keyWait
 		any = false
@@ -136,7 +135,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"I thought so!"
+	"Imaginei!"
 	keyWait
 		any = false
 	clearMsg
@@ -148,8 +147,8 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You thought so?
-	What do you mean!?
+	"Imaginou"?
+	Que papo é esse?!
 	"""
 	keyWait
 		any = false
@@ -162,35 +161,34 @@ script 10 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	It's all over the
-	news!
+	Tá em tudo
+	quanto é canal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a Navi in
-	the real world
-	causing chaos!
+	Tem um Navi no mundo
+	real causando alto caos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's probably using
-	a CopyBot!!
+	Ele deve tá usando
+	um CópiRoide!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But..."
+	"Mas..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	from what's on TV,
-	the Navi looks just
-	like MegaMan!
+	pelo que dá pra ver na
+	TV, o Navi é igualzinho
+	ao MegaMan!
 	"""
 	keyWait
 		any = false
@@ -202,18 +200,17 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W_What!?"
+	"O-o quê?!"
 	keyWait
 		any = false
 	clearMsg
-	"It can't be true..."
+	"Não pode ser..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	H_Hey,Mick,do you
-	know where that's
-	happening?
+	A-aí, Mick, sabe onde
+	é que isso tá rolando?
 	"""
 	keyWait
 		any = false
@@ -225,7 +222,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Ah! In Seaside Town!"
+	"Ah!\nNo Distrito Beira-Mar!"
 	keyWait
 		any = false
 	clearMsg
@@ -237,8 +234,8 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,I'm going there
-	right now!
+	Então é pra lá
+	que eu tô indo!
 	"""
 	keyWait
 		any = false
@@ -250,29 +247,28 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Lan...be careful."
+	"Lan... toma cuidado."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan...
-	He's like that time.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You know,when he
-	went and rescued
-	my Navi
+	O MegaMan...
+	Ele tá que nem
+	daquela vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by going to the
-	Undernet... Like
-	that time...
+	Sabe, quando ele foi
+	salvar o meu Navi na
+	Undernet...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Que nem daquela vez...
 	"""
 	keyWait
 		any = false
@@ -285,16 +281,16 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	...!! You mean,he's
-	using the Cybeast's
-	power!?
+	...!! Então ele tá
+	usando o poder da
+	Cyberbesta?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I gotcha!
-	Thanks,Mick!
+	... Tá bom!
+	Valeu, Mick!
 	"""
 	keyWait
 		any = false

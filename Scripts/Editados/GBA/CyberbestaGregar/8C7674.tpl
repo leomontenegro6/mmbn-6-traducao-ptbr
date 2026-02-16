@@ -15,20 +15,20 @@ script 1 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Director!!
-	Get out 'ere!!
+	Ô, Diretor!!
+	Sai já daí!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Explain yerself!"
+	"Explique-se, homem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why'd ye fire me!?
-	Ye don't got
-	the right!
+	Por que foi que você
+	me demitiu?! Você não
+	tinha o direito!!
 	"""
 	keyWait
 		any = false
@@ -39,32 +39,31 @@ script 2 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Tsk,I was givin' the
-	viewers an excitin'
-	show! A littl' fire,
+	Tsc, eu só dei pro
+	público um show
+	emocionante!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	littl' change in me
-	face makeup,dramatic
-	flare,matey!
+	Um fogo aqui, uma
+	maquiagem mais ousada
+	ali... DRAMA, marujo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ye don't know the
-	first thin' about
-	entertainment!
+	Você não entende é
+	nada de entretenimento!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ye shouldn't 'ave
-	fired me!!
+	Não devia ter
+	me demitido!!
 	"""
 	keyWait
 		any = false
@@ -74,7 +73,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's with him?"
+	"Qual é a desse\ntiozinho aí?"
 	keyWait
 		any = false
 	end
@@ -83,7 +82,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"... Huh?"
+	"... Hã?"
 	keyWait
 		any = false
 	end
@@ -92,7 +91,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Hey,what's wrong?"
+	"Ei, que foi?"
 	keyWait
 		any = false
 	end
@@ -102,8 +101,8 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's wrong with
-	the penguin?
+	Hã? O que tem
+	o pinguim?
 	"""
 	keyWait
 		any = false
@@ -115,7 +114,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"It's shaking."
+	"Ele tá tremendo."
 	keyWait
 		any = false
 	clearMsg
@@ -125,7 +124,7 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squeak,Squeak*"
+	"Quén, quén..."
 	keyWait
 		any = false
 	clearMsg
@@ -137,9 +136,9 @@ script 9 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Hey,we should hurry
-	up and get this guy
-	inside the Aquarium!
+	A gente devia levar
+	logo ele pra dentro
+	do Aquário!
 	"""
 	keyWait
 		any = false
@@ -151,7 +150,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -170,8 +169,8 @@ script 12 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... What a strange
-	building...
+	... Que lugar
+	mais estranho...
 	"""
 	keyWait
 		any = false
@@ -184,8 +183,8 @@ script 13 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	I bet the Aquarium's
-	inside the whale.
+	Aposto que o Aquário
+	fica dentro da baleia.
 	"""
 	keyWait
 		any = false
@@ -195,7 +194,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Huh?"
+	"... Hã?"
 	keyWait
 		any = false
 	end
@@ -204,7 +203,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The door's locked?"
+	"A porta tá trancada?"
 	keyWait
 		any = false
 	end
@@ -214,9 +213,8 @@ script 16 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Looks like
-	they're closed
-	today.
+	... Parece que tá
+	fechado hoje.
 	"""
 	keyWait
 		any = false
@@ -226,14 +224,13 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"CLOSED!?"
+	"FECHADO?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So we came all the
-	way out here for
-	nothing!?
+	Então a gente veio
+	aqui pra nada?!
 	"""
 	keyWait
 		any = false
@@ -246,8 +243,8 @@ script 18 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Guess we've gotta
-	come back tomorrow.
+	Acho que o jeito é a
+	gente voltar amanhã.
 	"""
 	keyWait
 		any = false
@@ -260,17 +257,16 @@ script 19 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Hold on,hold on!
-	By "tomorrow"...
-	You mean...
+	Epa, opa, pera aí!
+	"Amanhã"?
+	Mas, nesse caso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,who's gonna get
-	stuck with this
-	penguin until then!?
+	Quem que vai ficar com
+	este pinguim até lá?!
 	"""
 	keyWait
 		any = false
@@ -283,8 +279,7 @@ script 20 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I thought that
-	was obvious...
+	Ué? Meio óbvio, né?
 	"""
 	keyWait
 		any = false
@@ -297,8 +292,8 @@ script 21 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	No way,freak!
-	You take him!
+	Nem vem, otário!
+	Leva você!
 	"""
 	keyWait
 		any = false
@@ -311,14 +306,14 @@ script 22 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We should ask the
-	penguin who he wants
-	to stay with.
+	A gente devia
+	perguntar com quem
+	o PINGUIM quer ficar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right?"
+	"Né?"
 	keyWait
 		any = false
 	end
@@ -326,7 +321,7 @@ script 22 mmbn6 {
 script 23 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squawk!*"
+	"Quén!"
 	keyWait
 		any = false
 	clearMsg
@@ -338,8 +333,8 @@ script 24 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	... This is
-	a joke...
+	... Só pode ser
+	brincadeira...
 	"""
 	keyWait
 		any = false
@@ -352,17 +347,17 @@ script 25 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,let's meet back
-	here tomorrow
-	morning!
+	Beleza, a gente
+	se encontra aqui
+	amanhã de manhã!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's Saturday
-	tomorrow,so we can
-	hang out all day!
+	É sábado, então a
+	gente vai ter o dia
+	todo pra resolver isso!
 	"""
 	keyWait
 		any = false
@@ -375,8 +370,8 @@ script 26 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	He's... He's gotta
-	be kidding...
+	Ele... só pode
+	tá brincando...
 	"""
 	keyWait
 		any = false

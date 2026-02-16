@@ -6,17 +6,15 @@ script 0 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The show today was
-	the best we've ever
-	had!
+	O show de hoje foi o
+	nosso melhor de todos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too bad we
-	had so few people
-	watching,though...
+	Pena que tão pouca
+	gente veio assistir...
 	"""
 	keyWait
 		any = false
@@ -32,32 +30,31 @@ script 1 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	That was a wonderful
-	show.
+	Foi uma apresentação
+	maravilhosa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was so moved by it
-	that I can't move
-	now...
+	Eu fiquei tão comovido
+	que não consigo mexer
+	as pernas agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That trainer girl
-	and the elephant
-	seal...
+	Aquela domadora e o
+	elefante-marinho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can't you feel the
-	way they respond to
-	each other?
+	Dá pra sentir o jeito
+	como eles ressoam um
+	com o outro, sabe?
 	"""
 	keyWait
 		any = false
@@ -65,15 +62,15 @@ script 1 mmbn6 {
 }
 script 2 mmbn6 {
 	msgOpen
-	"*aur,aur,aur,aur!*"
+	"Aur, aur, aur, aur!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	It seems happy and
-	satisfied...
+	Ele parece feliz
+	e satisfeito...
 	"""
 	keyWait
 		any = false
@@ -84,9 +81,9 @@ script 5 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	I'm going to check
-	out when the next
-	show is!
+	Eu vou ver quando
+	vai ser a próxima
+	apresentação!
 	"""
 	keyWait
 		any = false
@@ -97,17 +94,16 @@ script 10 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Without any viewers,
-	now's not the time
-	to put on a show...
+	Sem público, não é
+	uma boa hora pra
+	fazer a apresentação...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if the
-	weather will get
-	better?
+	Será que esse
+	tempo vai aliviar?
 	"""
 	keyWait
 		any = false

@@ -6,17 +6,17 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WILL EXPLAIN A
-	COPYBOT'S STRUCTURE
-	AT THIS PANEL!
+	NESTE PAINEL, EU
+	EXPLICAREI A ESTRUTURA
+	DE UM CÓPIROIDE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU'VE GOT A
-	COPYBOT QUESTION,
-	I'VE GOT AN ANSWER!
+	PARA QUALQUER DÚVIDA
+	QUE VOCÊ TIVER,
+	EU TENHO A RESPOSTA!
 	"""
 	keyWait
 		any = false

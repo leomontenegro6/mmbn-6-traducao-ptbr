@@ -13,9 +13,8 @@ script 0 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	The cloud seems to
-	be undergoing
-	maintenance.
+	A nuvem parece estar
+	sendo consertada.
 	"""
 	keyWait
 		any = false

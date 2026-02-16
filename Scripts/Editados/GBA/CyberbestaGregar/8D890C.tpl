@@ -14,9 +14,8 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	there aren't any
-	more cyberveggies in
-	this area.
+	não há mais nenhuma
+	cyberverdura na área.
 	"""
 	keyWait
 		any = false
@@ -29,9 +28,9 @@ script 1 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	Ah,guess we don't
-	have a choice.
-	Let's try again!
+	Hm... Bom, não temos
+	outra escolha. Vamos
+	tentar de novo!
 	"""
 	keyWait
 		any = false
@@ -46,9 +45,8 @@ script 10 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	there aren't any
-	more cyberveggies in
-	this area.
+	não há mais nenhuma
+	cyberverdura na área.
 	"""
 	keyWait
 		any = false
@@ -57,9 +55,9 @@ script 10 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	Ah,guess we don't
-	have a choice.
-	Let's try again!
+	Hm... Bom, não temos
+	outra escolha. Vamos
+	tentar de novo!
 	"""
 	keyWait
 		any = false

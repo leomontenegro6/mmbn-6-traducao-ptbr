@@ -6,17 +6,16 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... How are we
-	supposed to beat
-	a Cybeast...?
+	... Como é possível
+	pra gente vencer
+	uma Cyberbesta...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't just let
-	him run free
-	forever...
+	Não podemos deixar ela
+	solta por aí pra sempre...
 	"""
 	keyWait
 		any = false
@@ -28,7 +27,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... Shhh,Lan!"
+	"... Shhh, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -39,7 +38,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's up?"
+	"Que foi?"
 	keyWait
 		any = false
 	clearMsg
@@ -51,8 +50,8 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I can hear
-	something...
+	Eu tô ouvindo
+	alguma coisa...
 	"""
 	keyWait
 		any = false
@@ -70,9 +69,9 @@ script 4 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	... Ah,but that
-	method... _ny way we
-	...do!?
+	... Ah, mas esse
+	método... gum jeito
+	de... mos?!
 	"""
 	keyWait
 		any = false
@@ -84,7 +83,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's Dad!!"
+	"É o papai!!"
 	keyWait
 		any = false
 	end
@@ -94,8 +93,8 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He's talking with
-	another scientist...
+	Ele tá falando com
+	outro cientista...
 	"""
 	keyWait
 		any = false
@@ -112,89 +111,82 @@ script 7 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	If the research data
-	stored by the Cyber
-	City scientists is
+	Se os dados de pesquisa
+	reunidos pelos cientistas
+	da Cidade Saibher
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	correct,there were
-	two Cybeasts hidden
-	in that Net area.
+	estiverem certos, havia
+	duas Cyberbestas ocultas
+	naquela área da Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,if we were to
-	re_seal them,
+	Bom, se quisermos
+	selar as duas de novo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we would need a
-	container of
-	massive capacity
+	vamos precisar
+	de um contêiner de
+	capacidade gigantesca,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	equal to that of
-	that Net area.
+	equivalente à daquela
+	área da Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... What did you
-	say!? The Cybeast...
-	in a Navi's body!?
+	... O quê?!
+	A Cyberbesta... está
+	no corpo de um Navi?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's impossible!!"
+	"Mas isso é impossível!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If a Navi sealed a
-	Cybeast within
-	itself,and then
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	forcibly installed
-	it...
+	Se um Navi selasse uma
+	Cyberbesta dentro de si
+	e a instalasse à força...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that Navi would
-	explode from being
-	over capacity!
+	ele explodiria,
+	porque excederia
+	a capacidade dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Well,if it were
-	possible,that Navi
-	would have to have
+	... Bem, se isso fosse
+	possível, esse Navi
+	teria que possuir um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	an extremely large
-	memory bank.
+	banco de memória
+	anormalmente grande.
 	"""
 	keyWait
 		any = false
@@ -209,24 +201,23 @@ script 7 mmbn6 {
 	waitSkip
 		frames = 30
 	"""
-	 Wait,extremely
-	large memory... No,
-	it's not possible!
+	 Muita memória...
+	Não, não pode ser!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... In any case,we
-	must quickly create
-	our own base camp!
+	... De todo modo, temos
+	que montar uma base
+	própria imediatamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yes,I will check in
-	later. Yes,good bye.
+	Sim, vou conferir isso
+	depois. Certo. Até.
 	"""
 	keyWait
 		any = false
@@ -234,8 +225,8 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	... Honey,what
-	happened on the Net?
+	... Querido, o que
+	aconteceu na Rede?
 	"""
 	keyWait
 		any = false
@@ -247,17 +238,16 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	It seems that the
-	person responsible,
-	built "that program"
+	Parece que a pessoa
+	responsável implementou
+	"aquele programa" no
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	into the software of
-	the Navi that was
-	seen at the site.
+	software do Navi que
+	foi avistado no local.
 	"""
 	keyWait
 		any = false
@@ -267,23 +257,24 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	The program I
-	created 12 years ago
-	so that I could
+	O programa que eu
+	criei 12 anos atrás,
+	que me possibilitou
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	install Hub's DNA
-	data into MegaMan...
+	instalar os dados do
+	DNA do Hub no MegaMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the memory expansion
-	program,"ExaMem"...
+	O programa de
+	expansão de memória,
+	o "ExaMem"...
 	"""
 	keyWait
 		any = false
@@ -291,9 +282,9 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	Didn't you give that
-	program to the mayor
-	the other day...?
+	Mas você não deu esse
+	programa pro prefeito
+	uns dias atrás...?
 	"""
 	keyWait
 		any = false
@@ -301,81 +292,79 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	No,the version I
-	gave to him had a
-	tough protection
+	Não. A versão que eu
+	dei a ele possuía um
+	programa de proteção
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	program written in,
-	so that even if it
-	fell into the
+	fortíssimo instalado,
+	para que, mesmo se ele
+	caísse em mãos erradas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	wrong hands,they
-	couldn't do anything
-	with it. Also,
+	não desse para ser
+	usado para nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I changed it so
-	that it would only
-	run on a Net server.
+	Eu também o alterei para
+	que só funcionasse em um
+	servidor da Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No Navi would be
-	able to install it.
-	But let's say that
+	Nenhum Navi seria
+	capaz de instalá-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a Navi with a very
-	large memory bank
-	does somehow exist,
+	Mas, se existisse mesmo
+	um Navi com um banco de
+	memória enorme assim
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and it was able to
-	successfully install
-	a Cybeast,before
+	que conseguisse instalar
+	uma Cyberbesta em si
+	com sucesso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	long,that Navi's
-	body and mind would
-	become corrupted...
+	não demoraria muito para
+	o corpo e mente desse
+	Navi se corromperem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and be deleted. The
-	Navi behind today's
-	incident may also...
+	e ele ser destruído.
+	Talvez o Navi por trás
+	do incidente também...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Anyway,we don't
-	currently have any
-	good strategies...
+	... Enfim, não temos
+	nenhuma boa estratégia
+	no momento.
 	"""
 	keyWait
 		any = false
@@ -394,15 +383,15 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad's trying to do
-	something,too...
+	O papai também tá
+	tentando resolver
+	essa situação...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... There must be
-	some way...
+	... Tem que ter um jeito...
 	"""
 	keyWait
 		any = false
@@ -415,30 +404,29 @@ script 9 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... Lan,let's go
-	on the Net.
+	... Lan, vamos pra Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even if we don't
-	have a good strategy
-	right now,
+	Mesmo que a gente
+	não tenha uma boa
+	estratégia agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we've gotta try to
-	confine the Cybeast
+	a gente tem que tentar
+	confinar a Cyberbesta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and limit the damage
-	as much as possible!
+	e controlar os estragos
+	o máximo possível!
 	"""
 	keyWait
 		any = false
@@ -449,9 +437,9 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But even if we went
-	to face the Cybeast,
-	without a strate__
+	Mas, mesmo se a gente
+	for enfrentar ela,
+	sem uma estraté...
 	"""
 	keyWait
 		any = false
@@ -464,16 +452,16 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Now's not the time
-	to think like that!
+	Não é hora de
+	pensar desse jeito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please,jack me in,
-	and let's head for
-	CentralArea3!
+	Por favor, me
+	conecta e vamos
+	pra Área Central 3!
 	"""
 	keyWait
 		any = false
@@ -485,42 +473,42 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... OK,I understand."
+	"... Tá, entendido."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're in a race
-	against time!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But promise me you
-	won't take on more
-	than you can handle!
+	A gente tá correndo
+	contra o tempo aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it looks bad,get
-	out as fast as you
-	can!
+	Mas me promete que
+	não vai dar um passo
+	maior que a perna, viu?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se a coisa apertar,
+	sai de lá o mais
+	rápido que der!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah,I will!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,jack me in!
-	Hurry!
+	Agora me conecta!
+	Rápido!
 	"""
 	keyWait
 		any = false

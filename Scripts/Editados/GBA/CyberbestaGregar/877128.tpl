@@ -6,15 +6,14 @@ script 0 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	If we go,we'll just
-	get in the way...
+	Se a gente for,
+	só vai atrapalhar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take care of
-	yourself...
+	Toma cuidado...
 	"""
 	keyWait
 		any = false
@@ -25,9 +24,9 @@ script 1 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	Lan,
-	you're injured,so
-	don't overdo it...
+	Lan, você tá
+	machucado, então
+	maneira aí, viu...?
 	"""
 	keyWait
 		any = false
@@ -42,16 +41,16 @@ script 10 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Huh? The Expo
-	pre_opening?
+	Hã? A pré-abertura
+	da Exposição?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going... For
-	sure I'm going!
-	100% do or die sure!
+	Eu vou... Com certeza
+	eu vou! Nem que a minha
+	vida dependa disso!
 	"""
 	keyWait
 		any = false
@@ -64,9 +63,9 @@ script 11 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Check out the Expo
-	ahead of time...
-	I can't wait!!
+	Poder conferir a
+	Exposição antes da hora...
+	Tô doido pra isso!!
 	"""
 	keyWait
 		any = false
@@ -77,16 +76,15 @@ script 12 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	There have been
-	incidents all over
-	the place...
+	Tem tido incidentes
+	por toda a cidade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will they really
-	open the Expo?
+	Será que vão mesmo
+	abrir a Exposição?
 	"""
 	keyWait
 		any = false
@@ -97,16 +95,15 @@ script 13 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	I can't believe
-	Mayor Cain was
-	arrested!
+	Eu não acredito que o
+	Prefeito Cain foi preso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyber City used to
-	be so quiet...
+	A Cidade Saibher
+	era tão tranquila...
 	"""
 	keyWait
 		any = false
@@ -117,16 +114,16 @@ script 14 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Did you hear about
-	Mayor Cain?
+	Ficou sabendo do
+	Prefeito Cain?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's shocking...
-	I never thought he
-	could do bad things.
+	É chocante...
+	Eu nunca pensei que ele
+	era capaz de maldades.
 	"""
 	keyWait
 		any = false
@@ -141,7 +138,7 @@ script 20 mmbn6 {
 		any = false
 	clearMsg
 	mugshotHide
-	"No reaction..."
+	"Não responde..."
 	keyWait
 		any = false
 	end

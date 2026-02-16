@@ -2,131 +2,131 @@
 @size 244
 
 script 0 mmbn6s {
-	"ぬぬぬACDC Town"
+	"ぬぬぬぬぬぬぬぬACDC"
 	end
 }
 script 1 mmbn6s {
-	"ぬぬぬClass 6_A"
+	"ぬぬぬぬSala 6_A"
 	end
 }
 script 2 mmbn6s {
-	"Central Town"
+	"BairrCentral"
 	end
 }
 script 3 mmbn6s {
-	"ぬLan's House"
+	"ぬCasa do Lan"
 	end
 }
 script 4 mmbn6s {
-	"ぬぬLan's Room"
+	"ぬぬQuarto Lan"
 	end
 }
 script 5 mmbn6s {
-	"ぬぬぬぬBathroom"
+	"ぬぬぬぬBanheiro"
 	end
 }
 script 6 mmbn6s {
-	"ぬぬぬAsterLand"
+	"ぬMundo Aster"
 	end
 }
 script 7 mmbn6s {
-	"ぬぬぬClass 6_1"
+	"ぬぬぬぬSala 6_1"
 	end
 }
 script 8 mmbn6s {
-	"ぬぬぬClass 6_2"
+	"ぬぬぬぬSala 6_2"
 	end
 }
 script 9 mmbn6s {
-	"ぬぬぬClass 1_1"
+	"ぬぬぬぬSala 1_1"
 	end
 }
 script 10 mmbn6s {
-	"ぬぬぬClass 1_2"
+	"ぬぬぬぬSala 1_2"
 	end
 }
 script 11 mmbn6s {
-	"ぬぬ1F Hallway"
+	"ぬCorredor P1"
 	end
 }
 script 12 mmbn6s {
-	"ぬぬ2F Hallway"
+	"ぬCorredor P2"
 	end
 }
 script 13 mmbn6s {
-	"ぬぬFoyer Hall"
+	"ぬぬぬぬぬEntrada"
 	end
 }
 script 14 mmbn6s {
-	"Teachers' Rm"
+	"ぬぬSala Profs"
 	end
 }
 script 15 mmbn6s {
-	"Prncpl's Ofc"
+	"ぬぬぬDiretoria"
 	end
 }
 script 16 mmbn6s {
-	"ResearchLab1"
+	"Lab Ciência1"
 	end
 }
 script 17 mmbn6s {
-	"ResearchLab2"
+	"Lab Ciência2"
 	end
 }
 script 18 mmbn6s {
-	"Seaside Town"
+	"DistBeiraMar"
 	end
 }
 script 19 mmbn6s {
-	"ぬぬぬAquarium1"
+	"ぬぬぬAquário 1"
 	end
 }
 script 20 mmbn6s {
-	"ぬぬぬAquarium2"
+	"ぬぬぬAquário 2"
 	end
 }
 script 21 mmbn6s {
-	"ぬぬAuditorium"
+	"ぬぬぬぬぬぬぬPalco"
 	end
 }
 script 22 mmbn6s {
-	"Control Room"
+	"SalaControle"
 	end
 }
 script 23 mmbn6s {
-	"ぬぬGreen Town"
+	"DstritoVerde"
 	end
 }
 script 24 mmbn6s {
-	"ぬCourt Foyer"
+	"Ent.Tribunal"
 	end
 }
 script 25 mmbn6s {
-	"ぬぬぬCourtroom"
+	"S.Audiências"
 	end
 }
 script 26 mmbn6s {
-	"PunishmentRm"
+	"Cela Punição"
 	end
 }
 script 27 mmbn6s {
-	"UndrgrndRoom"
+	"Sala Subterr"
 	end
 }
 script 28 mmbn6s {
-	"ぬぬぬぬぬぬぬAdmin"
+	"Admnistração"
 	end
 }
 script 29 mmbn6s {
-	"ぬぬぬぬSky Town"
+	"Distrito Céu"
 	end
 }
 script 30 mmbn6s {
-	"ぬぬぬぬぬぬOpRoom"
+	"SalaOperação"
 	end
 }
 script 31 mmbn6s {
-	"ぬぬForce Room"
+	"ぬぬSala Força"
 	end
 }
 script 32 mmbn6s {
@@ -134,67 +134,67 @@ script 32 mmbn6s {
 	end
 }
 script 33 mmbn6s {
-	"ぬぬぬExpo Site"
+	"ÁreaExpsição"
 	end
 }
 script 34 mmbn6s {
-	"Central Hall"
+	"Hall Central"
 	end
 }
 script 35 mmbn6s {
-	"Seaside Hall"
+	"HallBeiraMar"
 	end
 }
 script 36 mmbn6s {
-	"ぬぬGreen Hall"
+	"ぬぬHall Verde"
 	end
 }
 script 37 mmbn6s {
-	"ぬぬぬぬSky Hall"
+	"ぬぬぬぬHall Céu"
 	end
 }
 script 38 mmbn6s {
-	"RobCtrlComp1"
+	"CPUCtrleRob1"
 	end
 }
 script 39 mmbn6s {
-	"RobCtrlComp2"
+	"CPUCtrleRob2"
 	end
 }
 script 40 mmbn6s {
-	"AquarumComp1"
+	"CPU Aquário1"
 	end
 }
 script 41 mmbn6s {
-	"AquarumComp2"
+	"CPU Aquário2"
 	end
 }
 script 42 mmbn6s {
-	"AquarumComp3"
+	"CPU Aquário3"
 	end
 }
 script 43 mmbn6s {
-	"JdgTreeComp1"
+	"CPUÁrvrJuíz1"
 	end
 }
 script 44 mmbn6s {
-	"JdgTreeComp2"
+	"CPUÁrvrJuíz2"
 	end
 }
 script 45 mmbn6s {
-	"JdgTreeComp3"
+	"CPUÁrvrJuíz3"
 	end
 }
 script 46 mmbn6s {
-	"MrWeathrCmp1"
+	"ぬCPUSCleema1"
 	end
 }
 script 47 mmbn6s {
-	"MrWeathrCmp2"
+	"ぬCPUSCleema2"
 	end
 }
 script 48 mmbn6s {
-	"MrWeathrCmp3"
+	"ぬCPUSCleema3"
 	end
 }
 script 49 mmbn6s {
@@ -210,31 +210,31 @@ script 51 mmbn6s {
 	end
 }
 script 52 mmbn6s {
-	"PavilonComp1"
+	"CPUPavilhão1"
 	end
 }
 script 53 mmbn6s {
-	"PavilonComp2"
+	"CPUPavilhão2"
 	end
 }
 script 54 mmbn6s {
-	"PavilonComp3"
+	"CPUPavilhão3"
 	end
 }
 script 55 mmbn6s {
-	"PavilonComp4"
+	"CPUPavilhão4"
 	end
 }
 script 56 mmbn6s {
-	"ぬCopyBotComp"
+	"CPUCópiRoide"
 	end
 }
 script 57 mmbn6s {
-	"ぬぬぬぬLan's HP"
+	"ぬぬPágina Lan"
 	end
 }
 script 58 mmbn6s {
-	"ぬぬぬぬぬACDC HP"
+	"ぬPágina ACDC"
 	end
 }
 script 59 mmbn6s {
@@ -242,7 +242,7 @@ script 59 mmbn6s {
 	end
 }
 script 60 mmbn6s {
-	"ぬAquarium HP"
+	"Pág. Aquário"
 	end
 }
 script 61 mmbn6s {
@@ -250,11 +250,11 @@ script 61 mmbn6s {
 	end
 }
 script 62 mmbn6s {
-	"ぬぬぬぬGreen HP"
+	"Página Verde"
 	end
 }
 script 63 mmbn6s {
-	"ぬぬぬぬぬぬSky HP"
+	"ぬぬPágina Céu"
 	end
 }
 script 64 mmbn6s {
@@ -270,103 +270,103 @@ script 66 mmbn6s {
 	end
 }
 script 67 mmbn6s {
-	"ぬRoboDogComp"
+	"ぬCPU RobôCão"
 	end
 }
 script 68 mmbn6s {
-	"ぬぬLab'sComp1"
+	"CPU Labort.1"
 	end
 }
 script 69 mmbn6s {
-	"Class6_1Comp"
+	"CPU Sala 6_1"
 	end
 }
 script 70 mmbn6s {
-	"Class6_2Comp"
+	"CPU Sala 6_2"
 	end
 }
 script 71 mmbn6s {
-	"Class1_1Comp"
+	"CPU Sala 1_1"
 	end
 }
 script 72 mmbn6s {
-	"Class1_2Comp"
+	"CPU Sala 1_2"
 	end
 }
 script 73 mmbn6s {
-	"BathroomComp"
+	"ぬCPU Privada"
 	end
 }
 script 74 mmbn6s {
-	"ElevatorComp"
+	"CPU Elevador"
 	end
 }
 script 75 mmbn6s {
-	"FshStkSpComp"
+	"CPUPaliPeixe"
 	end
 }
 script 76 mmbn6s {
-	"SecurCamComp"
+	"CPUCâmeraSeg"
 	end
 }
 script 77 mmbn6s {
-	"ぬぬぬぬBookComp"
+	"ぬぬぬCPU Livro"
 	end
 }
 script 78 mmbn6s {
-	"ぬぬぬぬFan Comp"
+	"CPUVentiladr"
 	end
 }
 script 79 mmbn6s {
-	"AirCndtrComp"
+	"CPUArCondicio"
 	end
 }
 script 80 mmbn6s {
-	"ぬHeater Comp"
+	"CPUAquecedor"
 	end
 }
 script 81 mmbn6s {
-	"ぬShower Comp"
+	"CPU Chuveiro"
 	end
 }
 script 82 mmbn6s {
-	"HeliportComp"
+	"CPUHeliporto"
 	end
 }
 script 83 mmbn6s {
-	"ぬぬLab'sComp2"
+	"CPU Labort.2"
 	end
 }
 script 84 mmbn6s {
-	"VendngMcComp"
+	"CPU MáqVenda"
 	end
 }
 script 85 mmbn6s {
-	"PunshChrComp"
+	"CPU CelaPuniç"
 	end
 }
 script 86 mmbn6s {
-	"WaterMchComp"
+	"CPU Máq.Água"
 	end
 }
 script 87 mmbn6s {
-	"ぬSymbol Comp"
+	"ぬCPU Símbolo"
 	end
 }
 script 88 mmbn6s {
-	"Monitor Comp"
+	"ぬCPU Monitor"
 	end
 }
 script 89 mmbn6s {
-	"PopcrnShpCmp"
+	"CPUPipocaria"
 	end
 }
 script 90 mmbn6s {
-	"TeachrRmComp"
+	"CPUSalaProfs"
 	end
 }
 script 91 mmbn6s {
-	"ぬぬぬPipe Comp"
+	"CPUEncanamn."
 	end
 }
 script 92 mmbn6s {
@@ -374,7 +374,7 @@ script 92 mmbn6s {
 	end
 }
 script 93 mmbn6s {
-	"OxygnTnkComp"
+	"CPUTqOxignio"
 	end
 }
 script 94 mmbn6s {
@@ -382,15 +382,15 @@ script 94 mmbn6s {
 	end
 }
 script 95 mmbn6s {
-	"ぬMascot Comp"
+	"ぬCPU Mascote"
 	end
 }
 script 96 mmbn6s {
-	"StfToySpComp"
+	"CPULjBchPelú"
 	end
 }
 script 97 mmbn6s {
-	"DogHouseComp"
+	"ぬぬCPUCasinha"
 	end
 }
 script 98 mmbn6s {
@@ -398,43 +398,43 @@ script 98 mmbn6s {
 	end
 }
 script 99 mmbn6s {
-	"CentralArea1"
+	"ÁreaCentral1"
 	end
 }
 script 100 mmbn6s {
-	"CentralArea2"
+	"ÁreaCentral2"
 	end
 }
 script 101 mmbn6s {
-	"CentralArea3"
+	"ÁreaCentral3"
 	end
 }
 script 102 mmbn6s {
-	"SeasideArea1"
+	"ÁreaBeirMar1"
 	end
 }
 script 103 mmbn6s {
-	"SeasideArea2"
+	"ÁreaBeirMar2"
 	end
 }
 script 104 mmbn6s {
-	"SeasideArea3"
+	"ÁreaBeirMar3"
 	end
 }
 script 105 mmbn6s {
-	"ぬGreen Area1"
+	"Área Verde 1"
 	end
 }
 script 106 mmbn6s {
-	"ぬGreen Area2"
+	"Área Verde 2"
 	end
 }
 script 107 mmbn6s {
-	"Underground1"
+	"ぬぬぬSubSolo 1"
 	end
 }
 script 108 mmbn6s {
-	"Underground2"
+	"ぬぬぬSubSolo 2"
 	end
 }
 script 109 mmbn6s {
@@ -442,15 +442,15 @@ script 109 mmbn6s {
 	end
 }
 script 110 mmbn6s {
-	"ぬぬぬSky Area1"
+	"ぬぬÁrea Céu 1"
 	end
 }
 script 111 mmbn6s {
-	"ぬぬぬSky Area2"
+	"ぬぬÁrea Céu 2"
 	end
 }
 script 112 mmbn6s {
-	"ぬぬぬACDC Area"
+	"ぬぬぬÁrea ACDC"
 	end
 }
 script 113 mmbn6s {
@@ -470,15 +470,15 @@ script 116 mmbn6s {
 	end
 }
 script 117 mmbn6s {
-	"ぬぬGraveyard1"
+	"ぬぬCemitério1"
 	end
 }
 script 118 mmbn6s {
-	"ぬぬGraveyard2"
+	"ぬぬCemitério2"
 	end
 }
 script 119 mmbn6s {
-	"ImmortalArea"
+	"Área Imortal"
 	end
 }
 script 240 mmbn6s {
@@ -514,7 +514,7 @@ script 242 mmbn6s {
 	end
 }
 script 243 mmbn6s {
-	"NAME "
+	"NOME "
 	printShortString
 	" "
 	end

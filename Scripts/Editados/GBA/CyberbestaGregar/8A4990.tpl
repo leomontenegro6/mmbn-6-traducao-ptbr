@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's a dead end!"
+	"É um beco sem saída!"
 	keyWait
 		any = false
 	end
@@ -13,9 +13,8 @@ script 0 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	The cloud seems to
-	be undergoing
-	maintenance.
+	A nuvem parece estar
+	sendo consertada.
 	"""
 	keyWait
 		any = false
@@ -30,43 +29,39 @@ script 10 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I've freed
-	the hostage.
-	Give yourself up!!
+	Eu já libertei o refém.
+	Entregue-se, agora!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your brother
-	and the girl...
+	O seu irmão e a garota...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviRed
-	"Shut up!!"
+	"Cala a boca!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You followed me all
-	the way here!?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'm not running
-	anymore!!
+	Tu me seguiu até aqui?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the end!
-	YAAAAAAAAAHHHH!!
+	Eu não vou mais fugir!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Isso acaba aqui!
+	IÁÁÁÁÁÁÁÁRH!!
 	"""
 	keyWait
 		any = false
@@ -80,25 +75,24 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	msgOpen
-	"You're strong..."
+	"Tu é fortão..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Must be because
-	you live on the
-	straight and narrow.
+	Deve ser porque tu
+	vive uma vida limpa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"......I lose there."
+	"...... Eu perdi."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do what you want
-	with me!!
+	Faz o que tu
+	quiser comigo!!
 	"""
 	keyWait
 		any = false
@@ -111,16 +105,15 @@ script 12 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	I won't fight
-	back anymore...
+	Eu num vou mais
+	aprontar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll give up crime,
-	and lead a good
-	life!
+	Vou abrir mão do crime
+	e viver uma vida direita!
 	"""
 	keyWait
 		any = false

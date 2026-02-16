@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"Sky Town..."
+	"Distrito Céu..."
 	keyWait
 		any = false
 	end
@@ -14,7 +14,7 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	Aaaaaaaah!!
-	Mr.Weather!!
+	Seu Cleema!!
 	"""
 	keyWait
 		any = false

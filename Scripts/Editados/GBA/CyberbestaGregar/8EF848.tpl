@@ -4,9 +4,9 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	An hour after Lan
-	and Chaud narrowly
-	escaped the Expo...
+	Uma hora após a fuga
+	acirrada de Lan e
+	Chaud da Exposição...
 	"""
 	keyWait
 		any = false
@@ -17,7 +17,7 @@ script 1 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	WHERE...
+	ONDE ESTÁ...
 	LAN... HIKARI...?
 	"""
 	keyWait

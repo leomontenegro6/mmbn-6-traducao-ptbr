@@ -7,8 +7,8 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	Lan! Lan!
-	It's morning!
-	Wake up!
+	Já amanheceu!
+	Levanta!
 	"""
 	keyWait
 		any = false
@@ -22,16 +22,16 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	... Ngh...
-	No school
-	today,right?
+	Mas não tem
+	aula hoje, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Let me sleep
-	a little more?...
-	*mumble,mumble*...
+	... Deixa eu dormir
+	só mais um pouco...
+	Mngh, mmm...
 	"""
 	keyWait
 		any = false
@@ -44,16 +44,15 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Did you
-	forget!?
+	Lan! Já esqueceu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You said you'd go to
-	the Aquarium with
-	Mick,remember?
+	Você falou que ia
+	pro Aquário com o
+	Mick, lembra?
 	"""
 	keyWait
 		any = false
@@ -64,8 +63,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... *yawn*
-	Oh,yeah...
+	... Uaaaahh...
+	Ah, é...
 	"""
 	keyWait
 		any = false
@@ -76,14 +75,14 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... We said we were
-	gonna meet in front
-	of the Aquarium.
+	... A gente marcou
+	de se encontrar na
+	frente do Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,let's go!"
+	"Beleza, bora lá!"
 	keyWait
 		any = false
 	end

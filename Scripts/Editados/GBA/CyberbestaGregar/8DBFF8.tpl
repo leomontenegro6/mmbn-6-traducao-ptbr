@@ -6,9 +6,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It sounds like it's
-	coming from inside
-	here...
+	Parece que tá vindo
+	daqui de dentro...
 	"""
 	keyWait
 		any = false
@@ -23,13 +22,13 @@ script 1 mmbn6 {
 	controlLock
 	soundPlay
 		track = 417
-	"*clank*"
+	"Clenc"
 	wait
 		frames = 33
 	"\n"
 	soundPlay
 		track = 417
-	"*clank!!*"
+	"Clenc!!"
 	wait
 		frames = 33
 	soundEnableTextSFX
@@ -54,8 +53,7 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There really is
-	something in there!
+	Tem alguma coisa aí, sim!
 	"""
 	keyWait
 		any = false
@@ -66,8 +64,7 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,I'm gonna
-	open it...
+	Tá, eu vou abrir...
 	"""
 	keyWait
 		any = false
@@ -80,7 +77,7 @@ script 5 mmbn6 {
 	controlLock
 	soundPlay
 		track = 340
-	"*clank!!*"
+	"Clenc!!"
 	wait
 		frames = 18
 	soundEnableTextSFX
@@ -93,7 +90,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Waaah!!"
+	"Aaaagh!!"
 	keyWait
 		any = false
 	end
@@ -103,29 +100,27 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,it's the guy
-	from before!
+	Ah, é o cara de antes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You were hiding in
-	here!?
+	Cê tava escondido aí?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up and fix
-	Sky Town!
+	Rápido, conserta logo
+	o Distrito Céu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Wait,something
-	looks strange...?
+	... Pera aí, tem alguma
+	coisa estranha...
 	"""
 	keyWait
 		any = false
@@ -138,9 +133,9 @@ script 8 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Y_You're mistaken...
-	That fiend dressed
-	up as me...
+	N-não, não é isso...
+	Aquele cretino se
+	disfarçou de mim...
 	"""
 	keyWait
 		any = false
@@ -153,9 +148,9 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Then...you're the
-	real person from the
-	Admin Building?
+	Então... você é o cara
+	de verdade do Prédio
+	da Administração?
 	"""
 	keyWait
 		any = false
@@ -168,16 +163,15 @@ script 10 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Y_Yes...
-	But that doesn't
-	matter...
+	S-sou...
+	Mas isso não importa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That guy is after
-	the Force Program...
+	Aquele sujeito tá atrás
+	do Programa de Força...
 	"""
 	keyWait
 		any = false
@@ -189,7 +183,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Force Program...?"
+	"Programa de Força...?"
 	keyWait
 		any = false
 	clearMsg
@@ -200,46 +194,46 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Yes..."
+	"Sim..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Force Program
-	amplifies the power
-	of nature.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We then use that
-	power to make all
-	different kinds of
+	O Programa de Força
+	amplifica o poder
+	da natureza.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	weather. But that's
-	not all. Sky Town
-	uses the power made
+	Daí, nós usamos esse
+	poder para criar todo
+	o tipo de clima.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by the Force Program
-	to move and stay
-	in the air.
+	Mas não é só isso.
+	O Distrito Céu usa a
+	energia gerada pelo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that Program was
-	taken,Sky Town would
-	fall to the Earth!!
+	Programa de Força
+	para se locomover
+	e se manter no ar.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se o Programa for
+	levado, o Distrito Céu
+	vai cair na Terra!!
 	"""
 	keyWait
 		any = false
@@ -251,7 +245,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!?"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -263,9 +257,9 @@ script 14 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Please...
-	Protect the Force
-	Program...
+	Por favor...
+	Proteja o Programa
+	de Força...
 	"""
 	keyWait
 		any = false
@@ -276,7 +270,7 @@ script 14 mmbn6 {
 	controlLock
 	soundPlay
 		track = 331
-	"... *thud*"
+	"... Tunc."
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -293,7 +287,7 @@ script 15 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 2
-	"Hey,mister!!"
+	"Ei, moço! MOÇO!!"
 	keyWait
 		any = false
 	clearMsg
@@ -305,23 +299,22 @@ script 16 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's OK.
-	He just fainted.
+	Tá tudo bem.
+	Ele só tá desmaiado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He should wake up
-	in a little bit.
+	Ele deve acordar já, já.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	More importantly,
-	we've gotta protect
-	the Force Program!
+	Mais importante: a
+	gente tem que proteger
+	o Programa de Força!
 	"""
 	keyWait
 		any = false
@@ -332,9 +325,8 @@ script 17 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right! This is no
-	time for dilly_
-	dallying!
+	É! Não é hora de ficar
+	de bobeira aqui!
 	"""
 	keyWait
 		any = false

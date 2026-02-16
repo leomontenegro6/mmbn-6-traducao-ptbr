@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Yo,ElecMan! Looks
-	like you're workin'
-	hard today,too!
+	Fala aê, ElecMan! Tô
+	vendo que o trabalho
+	tá rendendo de novo!
 	"""
 	keyWait
 		any = false
@@ -21,15 +21,14 @@ script 1 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	It's work,that's
-	all...
+	É só trabalho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So what am I
-	recharging today?
+	E aí, o que eu devo
+	recarregar hoje?
 	"""
 	keyWait
 		any = false
@@ -42,16 +41,14 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Ah,that sign over
-	there.
+	Ah, aquela placa ali.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The lights keep
-	goin' out on it
-	lately.
+	A luz anda falhando
+	esses dias.
 	"""
 	keyWait
 		any = false
@@ -63,7 +60,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"Alright..."
+	"Certo..."
 	keyWait
 		any = false
 	end
@@ -72,7 +69,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"Elec Power!"
+	"Eletro-Força!"
 	keyWait
 		any = false
 	end
@@ -81,7 +78,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"There."
+	"Pronto."
 	keyWait
 		any = false
 	clearMsg
@@ -92,36 +89,37 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Thanks!"
+	"Obrigado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your money's been
-	wired into Ms.Zap's
-	account as usual.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Oh,and if you could
-	charge Sky Area's
-	lightin' system,too,
+	Já transferi o seu
+	dinheiro pra conta da
+	Srta. Zap, como sempre.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that'd be a big
-	help.
+	Ah, e, sem querer
+	abusar, mas também
+	seria ótimo se você
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The cyberbatteries
-	are runnin' out.
+	podesse carregar o
+	sistema de iluminação
+	da Área Céu.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	As cyberbaterias
+	estão quase vazias.
 	"""
 	keyWait
 		any = false
@@ -134,9 +132,9 @@ script 7 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Got it. I'll go
-	gather the batteries
-	and recharge them.
+	Tudo bem. Vou reunir
+	as baterias e
+	recarregá-las.
 	"""
 	keyWait
 		any = false
@@ -148,14 +146,14 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Alright."
+	"Beleza."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,can't let the
-	lights go out or
-	"they'll" come out!
+	Digo, não dá pra deixar
+	as luzes apagarem, senão
+	"eles" te pegam!
 	"""
 	keyWait
 		any = false
@@ -167,7 +165,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"\"They\"?"
+	"\"Eles\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -179,23 +177,22 @@ script 10 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The ghost Navis from
-	the Undernet.
+	Os Navis fantasma
+	da Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If the lights go out
-	in this area,
+	Quando as luzes
+	desta área se apagam,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they come floatin'
-	out from the
-	Undernet!
+	eles vêm flutuando
+	da Undernet!
 	"""
 	keyWait
 		any = false
@@ -208,16 +205,16 @@ script 11 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	And they have the
-	power to suck out
-	electricity...
+	E eles têm o
+	poder de absorver
+	eletricidade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They are my natural
-	enemies...
+	São meus inimigos
+	naturais...
 	"""
 	keyWait
 		any = false
@@ -228,16 +225,16 @@ script 12 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Aw,man!!
-	The cyberbatteries
-	must've died!
+	Ah, cara!!
+	As cyberbaterias
+	devem ter acabado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're gonna come
-	and get us!
+	Agora eles vão
+	pegar a gente!
 	"""
 	keyWait
 		any = false
@@ -250,15 +247,14 @@ script 13 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Calm down. I'll do
-	something.
+	Calma. Eu resolvo isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hold on...
-	Elec Power,ON!
+	Só um instante...
+	Eletro-Força, LIGAR!
 	"""
 	keyWait
 		any = false
@@ -269,17 +265,16 @@ script 14 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Lan Hikari,it's
-	cyberbattery
-	gathering time.
+	Lan Hikari, hora de
+	coletar cyberbaterias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This isn't what we
-	agreed to,but please
-	operate for now.
+	Sei que não era o
+	combinado, mas, por
+	favor, me opere.
 	"""
 	keyWait
 		any = false
@@ -292,17 +287,17 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's OK. I'm used
-	to random things
-	happening by now!
+	De boa. Eu já tô
+	acostumado a essas
+	coisas extras brotarem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll operate until
-	the very end. You
-	can count on me!
+	Eu te opero até o
+	final dessa história.
+	Pode contar comigo!
 	"""
 	keyWait
 		any = false
@@ -314,21 +309,21 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"Good."
+	"Ótimo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Before we start,I've
-	gotta warn you about
-	one thing.
+	Antes de começarmos,
+	devo te alertar de
+	uma coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Look at the upper
-	right.
+	Olhe para o canto
+	superior-direito.
 	"""
 	keyWait
 		any = false
@@ -339,40 +334,40 @@ script 17 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	This tells you how
-	much Elec Power I
-	have left.
+	Essa barra mostra
+	quanta Eletro-Força
+	ainda me resta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm using a little
-	Elec Power to make
-	the light around me.
+	Estou usando um pouco
+	dela pra iluminar os
+	meus arredores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If ghost Navis touch
-	me,they'll drain me
-	of my Elec Power.
+	Se os Navis fantasmas
+	encostarem em mim, vão
+	drenar essa força.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If they steal all of
-	my Elec Power,
+	E, se roubarem toda
+	a minha Eletro-Força,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't light up the
-	area around me,so
-	be careful.
+	eu não vou poder
+	iluminar meus arredores,
+	então, cuidado.
 	"""
 	keyWait
 		any = false
@@ -384,14 +379,13 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go gather up
-	those cyberbatteries
-	then!
+	Bora lá reunir essas
+	cyberbaterias, então!
 	"""
 	keyWait
 		any = false
@@ -404,38 +398,37 @@ script 19 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	There's 8
-	cyberbatteries
-	all together __
+	Tem oito cyberbaterias
+	no total:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	3 in Area1,and 5 in
-	Area2. To pick one
-	up,just touch it.
+	três na Área 1 e cinco
+	na Área 2. Para pegar,
+	é só encostar nelas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,and scattered
-	around are emergency
-	switches.
+	Ah, e tem botões de
+	emergência espalhados
+	por aí.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While you're on a
-	switch,that area
-	will light up.
+	Quando você fica sobre
+	um deles, a área em
+	questão se ilumina.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!!"
+	"Boa sorte!!"
 	keyWait
 		any = false
 	end

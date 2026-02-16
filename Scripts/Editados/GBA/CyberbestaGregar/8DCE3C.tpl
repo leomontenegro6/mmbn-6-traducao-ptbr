@@ -6,8 +6,9 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I won't let you have
-	the Force Program!
+	Não vou deixar
+	você levar o
+	Programa de Força!
 	"""
 	keyWait
 		any = false
@@ -21,14 +22,14 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	PIPIPI...
-	たHahaha...ち
+	たHa ha ha...ち
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	PIKIRIRAPIKIRA
-	たToo bad,becauseち
+	たQue pena, porque...ち
 	"""
 	keyWait
 		any = false
@@ -36,14 +37,14 @@ script 1 mmbn6 {
 	"""
 	PIRIRURIKIRIRI
 	PIRIRI
-	たI've already gotち
+	たeu já me aposseiち
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	PIRIKIRIRIRARIRI!
-	たthe Force Program!ち
+	たdo Programa de Força!ち
 	"""
 	keyWait
 		any = false
@@ -55,7 +56,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What!?"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -68,7 +69,7 @@ script 3 mmbn6 {
 	msgOpen
 	"""
 	ElementMan!
-	Delete that Navi!
+	Delete esse Navi!
 	"""
 	keyWait
 		any = false
@@ -82,21 +83,21 @@ script 4 mmbn6 {
 	msgOpen
 	"""
 	PIKIRARAPIKIRA...
-	たRoger...ち
+	たEntendido...ち
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	KIKIRAPIRA PIKIRIRA
-	たYou'll be deletedち
+	たVocê será deletadoち
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	RAKIRIPIRA!
-	たhere and now!ち
+	たaqui e agora!ち
 	"""
 	keyWait
 		any = false
@@ -109,8 +110,8 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We're not that easy
-	to beat!
+	A gente não é tão
+	fácil assim de vencer!
 	"""
 	keyWait
 		any = false
@@ -124,7 +125,7 @@ script 6 mmbn6 {
 	msgOpen
 	"""
 	PIKKURU!
-	たHmph!ち
+	たHmpf!ち
 	"""
 	keyWait
 		any = false
@@ -132,15 +133,14 @@ script 6 mmbn6 {
 	"""
 	PIKIRIRARI
 	PIRIRIRAKIRI
-	たYou have spirit,ち
+	たVocê tem coragem...ち
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	PIRARII!
-	たbut you're
-	 going down!ち
+	たmas vai perder!ち
 	"""
 	keyWait
 		any = false
@@ -153,9 +153,9 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Here he comes,
-	MegaMan!
-	Battle routine,set!
+	Aí vem ele, MegaMan!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -167,7 +167,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -180,7 +180,7 @@ script 9 mmbn6 {
 	msgOpen
 	"""
 	PIKIRIIRU!
-	たI'll delete you!ち
+	たVou te deletar!ち
 	"""
 	keyWait
 		any = false

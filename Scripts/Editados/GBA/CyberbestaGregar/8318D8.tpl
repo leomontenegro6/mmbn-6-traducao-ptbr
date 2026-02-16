@@ -9,7 +9,7 @@ script 0 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!\n"
+	"Erro de comunicação!\n"
 	option
 		brackets = 0
 		left = 0
@@ -18,7 +18,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Try again\n"
+	" Tentar de novo\n"
 	option
 		brackets = 0
 		left = 1
@@ -27,7 +27,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" End the battle"
+	" Encerrar a luta"
 	select
 		default = 0
 		BSeparate = false
@@ -43,9 +43,9 @@ script 1 mmbn6 {
 	flagSet
 		flag = 5939
 	"""
-	You can't use the
-	Chip Gate here!
-	Battle routine,set!
+	Não pode usar o Chip
+	Gate aqui! Rotina de
+	batalha, preparar!
 	"""
 	keyWait
 		any = false
@@ -55,8 +55,8 @@ script 2 mmbn6 {
 	flagSet
 		flag = 5940
 	"""
-	I'll end the battle.
-	Make sure to save!
+	Vou encerrar a luta.
+	Não esqueça de salvar!
 	"""
 	keyWait
 		any = false
@@ -70,7 +70,7 @@ script 3 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!"
+	"Erro de comunicação!"
 	keyWait
 		any = false
 	jump
@@ -84,7 +84,7 @@ script 4 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!\n"
+	"Erro de comunicação!\n"
 	option
 		brackets = 0
 		left = 0
@@ -93,7 +93,7 @@ script 4 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Try again\n"
+	" Tentar de novo\n"
 	option
 		brackets = 0
 		left = 1
@@ -102,7 +102,7 @@ script 4 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" End the battle"
+	" Encerrar a luta"
 	select
 		default = 0
 		BSeparate = false
@@ -118,9 +118,9 @@ script 5 mmbn6 {
 	flagSet
 		flag = 5939
 	"""
-	You can't fire up
-	the Chip Gate here!
-	Battle routine,set!
+	Não dá pra ativar o
+	Chip Gate aqui! Rotina
+	de batalha, preparar!
 	"""
 	keyWait
 		any = false
@@ -130,9 +130,9 @@ script 6 mmbn6 {
 	flagSet
 		flag = 5940
 	"""
-	I'll finish this
-	fiery battle!
-	Make sure to save!
+	Eu vou apagar a vela
+	desta luta! Não esquece
+	de salvar!
 	"""
 	keyWait
 		any = false
@@ -146,7 +146,7 @@ script 7 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!"
+	"Erro de comunicação!"
 	keyWait
 		any = false
 	jump
@@ -160,7 +160,7 @@ script 8 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!\n"
+	"Erro de comunicação!\n"
 	option
 		brackets = 0
 		left = 0
@@ -169,7 +169,7 @@ script 8 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Try again\n"
+	" Tentar de novo\n"
 	option
 		brackets = 0
 		left = 1
@@ -178,7 +178,7 @@ script 8 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" End the battle"
+	" Encerrar a luta"
 	select
 		default = 0
 		BSeparate = false
@@ -194,9 +194,9 @@ script 9 mmbn6 {
 	flagSet
 		flag = 5939
 	"""
-	You can't turn on
-	the Chip Gate here!
-	Battle routine,set!
+	Não pode usar o Chip
+	Gate aqui! Rotina de
+	batalha, preparar!
 	"""
 	keyWait
 		any = false
@@ -206,9 +206,9 @@ script 10 mmbn6 {
 	flagSet
 		flag = 5940
 	"""
-	I'll flip the switch
-	on this battle!
-	Make sure to save!
+	Hora de descarregar
+	esta luta! Não esqueça
+	de salvar!
 	"""
 	keyWait
 		any = false
@@ -222,7 +222,7 @@ script 11 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!"
+	"Erro de comunicação!"
 	keyWait
 		any = false
 	jump
@@ -236,7 +236,7 @@ script 12 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!\n"
+	"Erro de comunicação!\n"
 	option
 		brackets = 0
 		left = 0
@@ -245,7 +245,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Try again\n"
+	" Tentar de novo\n"
 	option
 		brackets = 0
 		left = 1
@@ -254,7 +254,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" End the battle"
+	" Encerrar a luta"
 	select
 		default = 0
 		BSeparate = false
@@ -270,9 +270,9 @@ script 13 mmbn6 {
 	flagSet
 		flag = 5939
 	"""
-	You can't cut on
-	the Chip Gate here!
-	Battle routine,set!
+	Corta essa de usar
+	Chip Gate aqui! Rotina
+	de batalha, preparar!
 	"""
 	keyWait
 		any = false
@@ -282,9 +282,9 @@ script 14 mmbn6 {
 	flagSet
 		flag = 5940
 	"""
-	I'll cut this battle
-	off!
-	Make sure to save!
+	Eu vou cortar essa
+	luta! Não esqueça
+	de salvar!
 	"""
 	keyWait
 		any = false
@@ -298,7 +298,7 @@ script 15 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!"
+	"Erro de comunicação!"
 	keyWait
 		any = false
 	jump
@@ -312,7 +312,7 @@ script 16 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!\n"
+	"Erro de comunicação!\n"
 	option
 		brackets = 0
 		left = 0
@@ -321,7 +321,7 @@ script 16 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Try again\n"
+	" Tentar de novo\n"
 	option
 		brackets = 0
 		left = 1
@@ -330,7 +330,7 @@ script 16 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" End the battle"
+	" Encerrar a luta"
 	select
 		default = 0
 		BSeparate = false
@@ -346,9 +346,9 @@ script 17 mmbn6 {
 	flagSet
 		flag = 5939
 	"""
-	You can't use the
-	Chip Gate here!
-	Battle routine,set!
+	Não pode usar o Chip
+	Gate aqui! Rotina de
+	batalha, preparar!
 	"""
 	keyWait
 		any = false
@@ -358,9 +358,9 @@ script 18 mmbn6 {
 	flagSet
 		flag = 5940
 	"""
-	I'll put an end to
-	this battle!
-	Make sure to save!
+	Vou pôr um fim nesta
+	luta! Não esqueça de
+	salvar!
 	"""
 	keyWait
 		any = false
@@ -374,7 +374,7 @@ script 19 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!"
+	"Erro de comunicação!"
 	keyWait
 		any = false
 	jump
@@ -388,7 +388,7 @@ script 20 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!\n"
+	"Erro de comunicação!\n"
 	option
 		brackets = 0
 		left = 0
@@ -397,7 +397,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Try again\n"
+	" Tentar de novo\n"
 	option
 		brackets = 0
 		left = 1
@@ -406,7 +406,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" End the battle"
+	" Encerrar a luta"
 	select
 		default = 0
 		BSeparate = false
@@ -422,9 +422,9 @@ script 21 mmbn6 {
 	flagSet
 		flag = 5939
 	"""
-	You can't use the
-	Chip Gate here!
-	Battle routine,set!
+	Não pode usar o Chip
+	Gate aqui! Rotina de
+	batalha, preparar!
 	"""
 	keyWait
 		any = false
@@ -434,9 +434,8 @@ script 22 mmbn6 {
 	flagSet
 		flag = 5940
 	"""
-	I'll finish the buzz
-	on this battle!
-	Make sure to save!
+	Tá, vou cancelar a luta!
+	Não esqueça de salvar!
 	"""
 	keyWait
 		any = false
@@ -450,7 +449,7 @@ script 23 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!"
+	"Erro de comunicação!"
 	keyWait
 		any = false
 	jump
@@ -464,7 +463,7 @@ script 24 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!\n"
+	"Erro de comunicação!\n"
 	option
 		brackets = 0
 		left = 0
@@ -473,7 +472,7 @@ script 24 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Try again\n"
+	" Tentar de novo\n"
 	option
 		brackets = 0
 		left = 1
@@ -482,7 +481,7 @@ script 24 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" End the battle"
+	" Encerrar a luta"
 	select
 		default = 0
 		BSeparate = false
@@ -498,9 +497,9 @@ script 25 mmbn6 {
 	flagSet
 		flag = 5939
 	"""
-	You can't use the
-	Chip Gate here,drip!
-	Battle routine,set!
+	Não pode usar o Chip
+	Gate aqui, xuá! Rotina
+	de batalha, preparar!
 	"""
 	keyWait
 		any = false
@@ -510,9 +509,9 @@ script 26 mmbn6 {
 	flagSet
 		flag = 5940
 	"""
-	I'll finish this
-	battle,drip!
-	Make sure to save!
+	Tá, vou encerrar a
+	luta,xuá! Não esqueça
+	de salvar!
 	"""
 	keyWait
 		any = false
@@ -526,7 +525,7 @@ script 27 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!"
+	"Erro de comunicação!"
 	keyWait
 		any = false
 	jump
@@ -540,7 +539,7 @@ script 28 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!\n"
+	"Erro de comunicação!\n"
 	option
 		brackets = 0
 		left = 0
@@ -549,7 +548,7 @@ script 28 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Try again\n"
+	" Tentar de novo\n"
 	option
 		brackets = 0
 		left = 1
@@ -558,7 +557,7 @@ script 28 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" End the battle"
+	" Encerrar a luta"
 	select
 		default = 0
 		BSeparate = false
@@ -574,9 +573,9 @@ script 29 mmbn6 {
 	flagSet
 		flag = 5939
 	"""
-	You can't use the
-	Chip Gate here!
-	Battle routine,set!
+	Não pode usar o Chip
+	Gate aqui! Rotina de
+	batalha, preparar!
 	"""
 	keyWait
 		any = false
@@ -586,9 +585,8 @@ script 30 mmbn6 {
 	flagSet
 		flag = 5940
 	"""
-	Let's finish this
-	battle!
-	Make sure to save!
+	Encerrando a luta!
+	Não esqueça de salvar!
 	"""
 	keyWait
 		any = false
@@ -602,7 +600,7 @@ script 31 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!"
+	"Erro de comunicação!"
 	keyWait
 		any = false
 	jump
@@ -616,7 +614,7 @@ script 32 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!\n"
+	"Erro de comunicação!\n"
 	option
 		brackets = 0
 		left = 0
@@ -625,7 +623,7 @@ script 32 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Try again\n"
+	" Tentar de novo\n"
 	option
 		brackets = 0
 		left = 1
@@ -634,7 +632,7 @@ script 32 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" End the battle"
+	" Encerrar a luta"
 	select
 		default = 0
 		BSeparate = false
@@ -650,9 +648,9 @@ script 33 mmbn6 {
 	flagSet
 		flag = 5939
 	"""
-	You can't use the
-	Chip Gate here!
-	Battle routine,set!
+	Não pode usar o Chip
+	Gate aqui! Rotina de
+	batalha, preparar!
 	"""
 	keyWait
 		any = false
@@ -669,9 +667,8 @@ script 34 mmbn6 {
 		any = false
 	end
 	"""
-	I'll put an end to
-	this battle!
-	Make sure to save!
+	Vou pôr um fim nesta luta!
+	Não esqueça de salvar!
 	"""
 	keyWait
 		any = false
@@ -685,7 +682,7 @@ script 35 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!"
+	"Erro de comunicação!"
 	keyWait
 		any = false
 	jump
@@ -699,7 +696,7 @@ script 36 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!\n"
+	"Erro de comunicação!\n"
 	option
 		brackets = 0
 		left = 0
@@ -708,7 +705,7 @@ script 36 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Try again\n"
+	" Tentar de novo\n"
 	option
 		brackets = 0
 		left = 1
@@ -717,7 +714,7 @@ script 36 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" End the battle"
+	" Encerrar a luta"
 	select
 		default = 0
 		BSeparate = false
@@ -733,9 +730,9 @@ script 37 mmbn6 {
 	flagSet
 		flag = 5939
 	"""
-	You can't use the
-	Chip Gate here,hmph!
-	Battle routine,set!
+	Você não pode usar o
+	Chip Gate aqui! Rotina
+	de batalha, preparar!
 	"""
 	keyWait
 		any = false
@@ -745,9 +742,9 @@ script 38 mmbn6 {
 	flagSet
 		flag = 5940
 	"""
-	I'll end this battle
-	once and for all!
-	Make sure to save!
+	Irei acabar com esta
+	luta de uma vez!
+	Não esqueça de salvar!
 	"""
 	keyWait
 		any = false
@@ -761,7 +758,7 @@ script 39 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!"
+	"Erro de comunicação!"
 	keyWait
 		any = false
 	jump
@@ -775,7 +772,7 @@ script 40 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!\n"
+	"Erro de comunicação!\n"
 	option
 		brackets = 0
 		left = 0
@@ -784,7 +781,7 @@ script 40 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Try again\n"
+	" Tentar de novo\n"
 	option
 		brackets = 0
 		left = 1
@@ -793,7 +790,7 @@ script 40 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" End the battle"
+	" Encerrar a luta"
 	select
 		default = 0
 		BSeparate = false
@@ -817,9 +814,9 @@ script 41 mmbn6 {
 		any = false
 	end
 	"""
-	You can't use the
-	Chip Gate here!
-	Battle routine,set!
+	Não pode usar o Chip
+	Gate aqui! Rotina de
+	batalha, preparar!
 	"""
 	keyWait
 		any = false
@@ -829,9 +826,9 @@ script 42 mmbn6 {
 	flagSet
 		flag = 5940
 	"""
-	I'll finish this
-	battle off!
-	Make sure to save!
+	Eu vou encerrar esta
+	luta! Não esqueça de
+	salvar!
 	"""
 	keyWait
 		any = false
@@ -845,7 +842,7 @@ script 43 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!"
+	"Erro de comunicação!"
 	keyWait
 		any = false
 	jump
@@ -859,7 +856,7 @@ script 44 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!\n"
+	"Erro de comunicação!\n"
 	option
 		brackets = 0
 		left = 0
@@ -868,7 +865,7 @@ script 44 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Try again\n"
+	" Tentar de novo\n"
 	option
 		brackets = 0
 		left = 1
@@ -877,7 +874,7 @@ script 44 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" End the battle"
+	" Encerrar a luta"
 	select
 		default = 0
 		BSeparate = false
@@ -893,9 +890,9 @@ script 45 mmbn6 {
 	flagSet
 		flag = 5939
 	"""
-	You can't use the
-	the Chip Gate here!
-	Battle routine,set!
+	Não dá pra usar o
+	Chip Gate aqui! Rotina
+	de batalha, preparar!
 	"""
 	keyWait
 		any = false
@@ -905,9 +902,9 @@ script 46 mmbn6 {
 	flagSet
 		flag = 5940
 	"""
-	This is my battle,
-	and it ends now!!
-	Make sure to save!
+	Esta luta é minha,
+	e ela acaba aqui!!
+	Não esqueça de salvar!
 	"""
 	keyWait
 		any = false
@@ -921,7 +918,7 @@ script 47 mmbn6 {
 		flag = 5939
 	flagClear
 		flag = 5940
-	"Communication error!"
+	"Erro de comunicação!"
 	keyWait
 		any = false
 	jump
@@ -932,8 +929,8 @@ script 92 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled.
+	Erro de comunicação!
+	Luta cancelada.
 	"""
 	keyWait
 		any = false
@@ -945,8 +942,8 @@ script 93 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled!
+	Erro de comunicação!
+	Luta cancelada!
 	"""
 	keyWait
 		any = false
@@ -958,8 +955,8 @@ script 94 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled.
+	Erro de comunicação!
+	Luta cancelada.
 	"""
 	keyWait
 		any = false
@@ -971,8 +968,8 @@ script 95 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled!
+	Erro de comunicação!
+	Luta cancelada!
 	"""
 	keyWait
 		any = false
@@ -984,8 +981,8 @@ script 96 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled!
+	Erro de comunicação!
+	Luta cancelada!
 	"""
 	keyWait
 		any = false
@@ -997,8 +994,8 @@ script 97 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled!
+	Erro de comunicação!
+	Luta cancelada!
 	"""
 	keyWait
 		any = false
@@ -1010,8 +1007,8 @@ script 98 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled!
+	Erro de comunicação!
+	Luta cancelada!
 	"""
 	keyWait
 		any = false
@@ -1023,8 +1020,8 @@ script 99 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled.
+	Erro de comunicação!
+	Luta cancelada.
 	"""
 	keyWait
 		any = false
@@ -1036,8 +1033,8 @@ script 100 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled!
+	Erro de comunicação!
+	Luta cancelada!
 	"""
 	keyWait
 		any = false
@@ -1049,8 +1046,8 @@ script 101 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled!
+	Erro de comunicação!
+	Luta cancelada!
 	"""
 	keyWait
 		any = false
@@ -1062,8 +1059,8 @@ script 102 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled!
+	Erro de comunicação!
+	Luta cancelada!
 	"""
 	keyWait
 		any = false
@@ -1075,8 +1072,8 @@ script 103 mmbn6 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled!
+	Erro de comunicação!
+	Luta cancelada!
 	"""
 	keyWait
 		any = false
@@ -1088,8 +1085,8 @@ script 115 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The Chip Gate
-	didn't work!
+	O Chip Gate
+	não funcionou!
 	"""
 	keyWait
 		any = false
@@ -1101,8 +1098,8 @@ script 116 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	The Chip Gate
-	didn't work!
+	O Chip Gate
+	não funcionou!
 	"""
 	keyWait
 		any = false
@@ -1114,8 +1111,8 @@ script 117 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	The Chip Gate
-	didn't work!
+	O Chip Gate
+	não funcionou!
 	"""
 	keyWait
 		any = false
@@ -1127,8 +1124,8 @@ script 118 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	The Chip Gate
-	didn't work!
+	O Chip Gate
+	não funcionou!
 	"""
 	keyWait
 		any = false
@@ -1140,8 +1137,8 @@ script 119 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	The Chip Gate
-	didn't work!
+	O Chip Gate
+	não funcionou!
 	"""
 	keyWait
 		any = false
@@ -1153,8 +1150,8 @@ script 120 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	The Chip Gate
-	didn't work!
+	O Chip Gate
+	não funcionou!
 	"""
 	keyWait
 		any = false
@@ -1166,8 +1163,8 @@ script 121 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	The Chip Gate
-	didn't work,drip!
+	The Chip Gate não
+	funcionou, xuá!
 	"""
 	keyWait
 		any = false
@@ -1179,8 +1176,8 @@ script 122 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	The Chip Gate
-	didn't work!
+	O Chip Gate
+	não funcionou!
 	"""
 	keyWait
 		any = false
@@ -1192,8 +1189,8 @@ script 123 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	The Chip Gate
-	didn't work!
+	O Chip Gate
+	não funcionou!
 	"""
 	keyWait
 		any = false
@@ -1205,8 +1202,8 @@ script 124 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	The Chip Gate
-	didn't work!
+	O Chip Gate
+	não funcionou!
 	"""
 	keyWait
 		any = false
@@ -1218,8 +1215,8 @@ script 125 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	The Chip Gate
-	didn't work!
+	O Chip Gate
+	não funcionou!
 	"""
 	keyWait
 		any = false
@@ -1231,8 +1228,8 @@ script 126 mmbn6 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	The Chip Gate
-	didn't work!
+	O Chip Gate
+	não funcionou!
 	"""
 	keyWait
 		any = false
@@ -1245,8 +1242,8 @@ script 137 mmbn6 {
 	flagSet
 		flag = 407
 	"""
-	You got new Virus
-	Data:"Mettaur"!
+	Obteve novos Dados
+	de Vírus: "Mettaur"!
 	"""
 	keyWait
 		any = false

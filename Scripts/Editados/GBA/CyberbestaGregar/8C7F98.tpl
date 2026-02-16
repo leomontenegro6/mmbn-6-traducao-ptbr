@@ -6,17 +6,16 @@ script 0 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Welcome to the
-	Dolphin and
-	Seal's Show!
+	Bem-vindos ao Show do
+	Golfinho e da Foca!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,let's bring
-	out our favorite
-	elephant seal,Fanny!
+	Vamos começar trazendo
+	o nosso elefante-marinho
+	predileto, a Lelê!
 	"""
 	keyWait
 		any = false
@@ -25,7 +24,7 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*aur! aur! aur!*"
+	"Ôur! Ôur! Ôur!"
 	keyWait
 		any = false
 	clearMsg
@@ -46,17 +45,17 @@ script 3 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	At 12 feet tall,
-	and weighing in
-	at 2 tons,
+	Com 3,5 metros de
+	altura e pesando
+	duas toneladas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fanny loves playing
-	with her ball even
-	more than her food!
+	a Lelê gosta de brincar
+	com a bola dela ainda
+	mais do que de comida!
 	"""
 	keyWait
 		any = false
@@ -67,9 +66,9 @@ script 4 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Next,let's put our
-	hands together for
-	Finny,the dolphin!
+	A seguir, uma salva
+	de palmas pra Beto
+	Barbatana, o golfinho!
 	"""
 	keyWait
 		any = false
@@ -80,16 +79,15 @@ script 5 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Finny is our most
-	popular attraction,
+	O Beto é a nossa
+	atração mais popular,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and he loves to
-	swim around with a
-	person on his back!
+	e adora nadar com uma
+	pessoa nas costas!
 	"""
 	keyWait
 		any = false
@@ -99,7 +97,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"That's cool..."
+	"Legal..."
 	keyWait
 		any = false
 	clearMsg
@@ -110,7 +108,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	msgOpen
-	"... Hey,grandpa!"
+	"... Ei, vovô!"
 	keyWait
 		any = false
 	end
@@ -120,9 +118,8 @@ script 8 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	This show is totally
-	different from last
-	time,huh?
+	O show de hoje tá todo
+	diferente do último, né?
 	"""
 	keyWait
 		any = false
@@ -135,40 +132,39 @@ script 9 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Sure is,sonny. It
-	was much more of
-	a mess last time.
+	Está mesmo, meu filho.
+	O último foi uma
+	confusão só.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come to think of it,
-	the trainer's
-	different,too...
+	Aliás, parando pra
+	observar, trocaram
+	o domador, também...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That last trainer
-	had the dolphin jump
-	through a fire ring,
+	Aquele último fez
+	o golfinho saltar
+	por um aro de fogo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and the seal lifting
-	weights! What an odd
-	fella he was.
+	e levantar pesos!
+	Era tão estranho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess that's why
-	he was fired.
+	Acho que por isso
+	ele foi demitido.
 	"""
 	keyWait
 		any = false
@@ -180,7 +176,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"... And now,"
+	"... E agora,"
 	keyWait
 		any = false
 	end
@@ -190,9 +186,9 @@ script 11 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	let's have someone
-	come and take a ride
-	on Finny's back!
+	vamos chamar alguém
+	da plateia pra dar
+	uma volta no Beto!
 	"""
 	keyWait
 		any = false
@@ -210,9 +206,9 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	How about you with
-	the bandana? Would
-	you like to try?
+	Que tal você aí,
+	o da bandana?
+	Quer tentar?
 	"""
 	keyWait
 		any = false
@@ -222,7 +218,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Eh? ME!? Really!?"
+	"Hã? EU?! Sério mesmo?!"
 	keyWait
 		any = false
 	end
@@ -231,7 +227,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"There you go!"
+	"Prontinho!"
 	keyWait
 		any = false
 	clearMsg
@@ -242,13 +238,13 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W_Whoa!"
+	"A-aahh!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wah! Being on
-	his back...!
+	Nossa! Eu tô mesmo
+	montado nele...!
 	"""
 	keyWait
 		any = false
@@ -258,17 +254,16 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whoa!"
+	"Caramba!"
 	keyWait
 		any = false
 	clearMsg
-	"It's so cool!!"
+	"Que demais!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mick! You seeing
-	this!?
+	Aí, Mick! Tá vendo?!
 	"""
 	keyWait
 		any = false
@@ -281,8 +276,8 @@ script 16 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	It's not that cool!
-	It's embarrassing!
+	Não é tão legal assim!
+	Na real, é mó mico!
 	"""
 	keyWait
 		any = false
@@ -293,16 +288,17 @@ script 17 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	... And this
-	concludes our show!
+	... E, com isso,
+	concluímos a nossa
+	apresentação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope you had a
-	good time! Come back
-	again!
+	Espero que tenham se
+	divertido! Esperamos
+	vê-los de novo!
 	"""
 	keyWait
 		any = false
@@ -313,8 +309,8 @@ script 18 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	It's about time
-	to go home!
+	Já tá na hora da
+	gente ir pra casa!
 	"""
 	keyWait
 		any = false
@@ -327,9 +323,9 @@ script 19 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,let's go tell the
-	Director and we can
-	go see Plata and...
+	Beleza, vamos lá falar
+	com o Diretor pra gente
+	se despedir do Plata e...
 	"""
 	keyWait
 		any = false
@@ -342,8 +338,8 @@ script 20 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	No,I wanna leave
-	right now.
+	Não, eu quero ir
+	embora direto.
 	"""
 	keyWait
 		any = false
@@ -356,9 +352,8 @@ script 21 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What? Don't you want
-	to say goodbye to
-	Plata?
+	Como assim? Não quer
+	dar "tchau" pro Plata?
 	"""
 	keyWait
 		any = false
@@ -369,9 +364,8 @@ script 22 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	... Let's just
-	hurry up and get
-	out of here!
+	... Só bora logo
+	dar o fora daqui!
 	"""
 	keyWait
 		any = false
@@ -383,14 +377,14 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You..."
+	"Mick..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're afraid you're
-	gonna be sad to say
-	goodbye to Plata?
+	Cê tá com medo de
+	ficar triste quando
+	se despedir do Plata?
 	"""
 	keyWait
 		any = false
@@ -400,21 +394,21 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"I'm not a weakling!"
+	"Eu não sou fraco assim!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who do you think
-	you're talking to!?
+	Com quem cê pensa
+	que tá falando, hein?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm the guy who's
-	gonna crush you in
-	a NetBattle!...
+	Eu sou o cara que
+	ainda vai te humilhar
+	em uma NetLuta, e...
 	"""
 	keyWait
 		any = false
@@ -426,19 +420,19 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I know,I know!"
+	"Eu sei, eu sei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't have to
-	keep on reminding
-	me!
+	Não tem que ficar
+	me lembrando disso
+	o tempo todo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,OK,let's go home."
+	"Tá, tá bom, bora embora."
 	keyWait
 		any = false
 	end

@@ -16,24 +16,17 @@ script 0 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	It's already been
-	decided that I am
-	to officially become
+	Já foi decidido que eu,
+	oficialmente, me tornarei
+	funcionário do Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	an Aquarium staff
-	member.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But the best part is
-	that I can look at
-	sharks all day!
+	E a melhor parte é que
+	eu posso ficar olhando
+	pros tubarões o dia todo!
 	"""
 	keyWait
 		any = false
@@ -48,17 +41,17 @@ script 1 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	It's the director's
-	job to look around
-	inside the Aquarium.
+	É dever do diretor
+	ficar de olho no
+	interior do Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A group of 3
-	suspicious persons?
-	Haven't seen them.
+	Um grupo de três
+	pessoas suspeitas?
+	Não vi por aqui.
 	"""
 	keyWait
 		any = false
@@ -69,17 +62,16 @@ script 2 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	It's the director's
-	job to look around
-	inside the Aquarium.
+	É dever do diretor
+	ficar de olho no
+	interior do Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are no
-	problems around
-	here!!
+	Nenhum problema
+	por aqui!!
 	"""
 	keyWait
 		any = false
@@ -90,16 +82,16 @@ script 5 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The shark in front
-	is Barbara and the
-	rear one's Isabella.
+	O tubarão da frente é
+	a Bárbara, e o de trás
+	é a Isabela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I named them myself,
-	hahahaha!!
+	Eu mesmo dei os nomes.
+	Ha ha ha ha!!
 	"""
 	keyWait
 		any = false
@@ -110,9 +102,9 @@ script 6 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	I guess I look
-	tasty from a gator's
-	point of view...
+	Acho que, do ponto de
+	vista do jacaré, eu devo
+	parecer apetitoso...
 	"""
 	keyWait
 		any = false
@@ -123,9 +115,9 @@ script 7 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	A weird person's
-	there,so you can't
-	buy a drink...
+	Tem um sujeito esquisito
+	ali, então não dá pra
+	comprar bebida...
 	"""
 	keyWait
 		any = false
@@ -136,9 +128,9 @@ script 10 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Morning Barbara...
-	Morning Isabella...
-	Beautiful as always.
+	Bom dia, Bárbara...
+	Bom dia, Isabela...
+	Lindas como sempre.
 	"""
 	keyWait
 		any = false
@@ -150,7 +142,7 @@ script 15 mmbn6 {
 	msgOpen
 	"""
 	Hmmm...
-	Seems quiet here...
+	Aqui tá tão quieto...
 	"""
 	keyWait
 		any = false

@@ -5,26 +5,26 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's wrong,Iris?"
+	"O que foi, Iris?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a bit shocked
-	'cause I didn't
-	think you'd ever
+	Olha, tô meio
+	chocado, na real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	want to talk to me
-	about something.
+	Nunca achei que cê
+	ia querer falar comigo
+	sobre alguma coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So,what's up?"
+	"Mas, então, diz aí."
 	keyWait
 		any = false
 	clearMsg
@@ -47,17 +47,16 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I promised I'd meet
-	my friends on the
-	Net right now...
+	Hum, eu marquei de me
+	encontrar com uns amigos
+	na Rede agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,I know! You
-	wanna come hang out
-	with us on the Net?
+	Ah, já sei! Tá a fim de
+	brincar com a gente lá?
 	"""
 	keyWait
 		any = false
@@ -73,7 +72,7 @@ script 3 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"...... You mustn't."
+	"...... Não deve."
 	keyWait
 		any = false
 	clearMsg
@@ -85,8 +84,8 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mustn't...?
-	... What??
+	Eu não devo...?
+	... O quê?
 	"""
 	keyWait
 		any = false
@@ -99,15 +98,16 @@ script 5 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	Y_You mustn't go on
-	the Net now...
+	N-não deve entrar
+	na Rede agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have a bad feeling
-	about that event...
+	Estou com um mau
+	pressentimento quanto
+	àquele evento...
 	"""
 	keyWait
 		any = false
@@ -119,7 +119,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Bad...feeling...?"
+	"Mau... pressentimento...?"
 	keyWait
 		any = false
 	clearMsg
@@ -151,13 +151,12 @@ script 8 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's your
-	autophone,Lan!
+	É o seu autofone, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's from Mick!"
+	"É o Mick."
 	keyWait
 		any = false
 	end
@@ -167,9 +166,9 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mick! Sorry,sorry!
-	I know I'm making
-	you wait!
+	Mick! Foi mal, foi mal!
+	Sei que tô fazendo
+	vocês esperarem!
 	"""
 	keyWait
 		any = false
@@ -182,16 +181,16 @@ script 10 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Whatever.
-	CentralArea3 is
-	kicking,so hurry up!
+	Hmpf, tá bom. A Área
+	Central 3 tá toda
+	agitada, então vem logo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Hey,something's
-	going on onstage!
+	... Ah, tá rolando
+	alguma coisa no palco!
 	"""
 	keyWait
 		any = false

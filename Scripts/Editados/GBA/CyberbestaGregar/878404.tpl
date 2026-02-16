@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	Next is Math!
-	Add!! Subtract!!
-	Let's go!!
+	A próxima aula é de
+	Matemática! Adição!!
+	Subtração!! Boraaa!!
 	"""
 	keyWait
 		any = false
@@ -19,15 +19,16 @@ script 1 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Hey bro! This is
-	a 1st grade class!
+	Aí, cara!
+	Esta aqui é a sala
+	do primeiro ano!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	6th grade is on the
-	second floor!
+	A do sexto é no
+	segundo andar!
 	"""
 	keyWait
 		any = false
@@ -38,9 +39,9 @@ script 2 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	NooooOOOOOoooo!
-	I forgot my
-	homework!!
+	NÃÃÃÃÃÃOOOOO!
+	Eu esqueci a
+	lição de casa!!
 	"""
 	keyWait
 		any = false
@@ -51,24 +52,24 @@ script 5 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	All the students in
-	this class had to
-	take shelter
+	Os alunos desta sala
+	foram todos pra
+	um local seguro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	because the Security
-	Bots are still all
-	over the place!
+	porque tem Robôs
+	de Segurança doidos
+	pra todo lado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder
-	what's going on!?
+	O que será que
+	está acontecendo?!
 	"""
 	keyWait
 		any = false
@@ -79,30 +80,28 @@ script 10 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	What should I do
-	after school?
+	O que eu faço
+	depois da aula?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetBattle on the
-	Net?
+	NetLutar na Rede?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Or go check out
-	some chips at a
-	chip shop...
+	Ou ver uns chips
+	na loja de chips...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmmm....decisions,
-	decisions...
+	Hmmm...
+	Tão difícil decidir...
 	"""
 	keyWait
 		any = false

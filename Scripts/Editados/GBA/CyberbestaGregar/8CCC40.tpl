@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sounds like some_
-	thing really bad
-	happened on the Net!
+	Parece que tá
+	rolando uma coisa
+	muito ruim na Rede!
 	"""
 	keyWait
 		any = false
@@ -24,7 +24,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -34,14 +34,14 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mick's Navi... No,
-	the entire Net is
-	in trouble!
+	O Navi do Mick...
+	Não, a Rede inteira
+	tá em apuros!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I've gotta go!"
+	"A gente tem que ir!"
 	keyWait
 		any = false
 	clearMsg
@@ -52,7 +52,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	msgOpen
-	"... But..."
+	"... Mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -64,21 +64,22 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I know it's
-	dangerous!
+	Eu sei que é perigoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But my friend's in
-	trouble. Thanks for
-	the concern,
+	Mas o meu amigo
+	tá em perigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"but I have to go!"
+	"""
+	Valeu por se preocupar,
+	mas a gente TEM que ir!
+	"""
 	keyWait
 		any = false
 	end
@@ -87,7 +88,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go,MegaMan!"
+	"Simbora, MegaMan!"
 	keyWait
 		any = false
 	clearMsg

@@ -3,7 +3,10 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"\"THIS DOOR IS\n CLOSED DUE TO THE\n CURRENT EMERGENCY\""
+	"""
+	"PORTA TRANCADA DEVIDO
+	 À EMERGÊNCIA ATUAL."
+	"""
 	keyWait
 		any = false
 	end
@@ -17,8 +20,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Check the
-	control panel!!
+	Lan! Vamos conferir
+	o painel de controle!!
 	"""
 	keyWait
 		any = false
@@ -29,16 +32,15 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	This is the control
-	panel for this
-	pavilion...
+	Esse é o painel de
+	controle deste pavilhão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is operating
-	normally.
+	Está funcionando
+	normalmente.
 	"""
 	keyWait
 		any = false

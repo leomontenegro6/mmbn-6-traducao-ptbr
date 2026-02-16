@@ -5,34 +5,33 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = BlastMan
 	msgOpen
-	"K_Kwooooo!!"
+	"Q-quoooo!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To l_lose to a
-	brat like you...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	*huff,huff...*
-	How could things
-	have come to this...
+	Perder p-pra um
+	pirralho como você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	H_He's going to give
-	me another one of
-	his lectures!
+	Uff... Ugh...
+	Como as coisas
+	foram acabar assim...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Kwooo!!"
+	"""
+	E-ele vai me dar outra
+	bronca daquelas!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Quoooo!!"
 	keyWait
 		any = false
 	end
@@ -41,7 +40,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wah!!"
+	"Aah!!"
 	keyWait
 		any = false
 	clearMsg
@@ -53,17 +52,17 @@ script 2 mmbn6 {
 		mugshot = BlastMan
 	msgOpen
 	"""
-	You have won this
-	battle,but this is
-	only round 1.
+	Você pode ter vencido
+	essa luta, mas foi só
+	o primeiro round.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	*huff,huff...*
-	N_Next time,you'll
-	be burnt to a crisp!
+	Uff... Urf...
+	D-da próxima vez, vai
+	virar churrasquinho!
 	"""
 	keyWait
 		any = false
@@ -73,7 +72,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"W_Wait!!"
+	"E-espera!!"
 	keyWait
 		any = false
 	end
@@ -82,13 +81,14 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan,are you OK?"
+	"MegaMan, você tá legal?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Things are OK here.
-	Jack out,MegaMan!
+	Aqui fora, tá
+	tudo bem agora.
+	Desconecta, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -100,7 +100,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!"
+	"Entendido!!"
 	keyWait
 		any = false
 	end

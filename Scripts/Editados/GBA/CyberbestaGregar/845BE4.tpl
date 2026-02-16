@@ -9,8 +9,8 @@ script 10 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	The other player
-	is registering now.
+	O outro jogador está
+	registrando agora.
 	"""
 	wait
 		frames = 30
@@ -28,8 +28,8 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpenMenu
 	"""
-	Request connection
-	with "
+	Propor conexão
+	com "
 	"""
 	printLinkBuffer
 		buffer = 20
@@ -44,7 +44,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -53,7 +53,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -74,8 +74,8 @@ script 13 mmbn6 {
 	wait
 		frames = 5
 	"""
-	Requested connection
-	with "
+	Propôs conexão com
+	"
 	"""
 	printLinkBuffer
 		buffer = 20
@@ -87,8 +87,8 @@ script 14 mmbn6 {
 		mugshot = MegaMan
 	msgOpenMenu
 	"""
-	The other player
-	is registering now.
+	O outro jogador está
+	registrando agora.
 	"""
 	wait
 		frames = 30
@@ -100,8 +100,8 @@ script 15 mmbn6 {
 		mugshot = MegaMan
 	msgOpenMenuQuick
 	"""
-	Failed to connect to
-	the other player...
+	Falha em se conectar
+	com o outro jogador...
 	"""
 	keyWait
 		any = false
@@ -113,8 +113,8 @@ script 16 mmbn6 {
 		mugshot = MegaMan
 	msgOpenMenuQuick
 	"""
-	Connection request
-	was cancelled.
+	A proposta de conexão
+	foi cancelada.
 	"""
 	keyWait
 		any = false
@@ -126,8 +126,8 @@ script 17 mmbn6 {
 		mugshot = MegaMan
 	msgOpenMenuQuick
 	"""
-	Connection request
-	cancelled by friend.
+	Proposta de conexão
+	cancelada pelo seu amigo.
 	"""
 	keyWait
 		any = false
@@ -139,16 +139,16 @@ script 19 mmbn6 {
 		mugshot = MegaMan
 	msgOpenMenuQuick
 	"""
-	Failed to initialize
-	Wireless Adapter.
+	Falha em inicializar
+	o Adaptador Wireless.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please turn off the
-	GBA and insert the
-	Wireless Adapter.
+	Por favor, desligue
+	o GBA e insira o
+	Adaptador Wireless.
 	"""
 	keyWait
 		any = false
@@ -159,8 +159,7 @@ script 20 mmbn6 {
 		mugshot = MegaMan
 	msgOpenMenu
 	"""
-	Enter your
-	name!
+	Insira seu nome!
 	"""
 	keyWait
 		any = false
@@ -171,8 +170,7 @@ script 21 mmbn6 {
 		mugshot = MegaMan
 	msgOpenMenu
 	"""
-	Enter your
-	comment!
+	Insira seu comentário!
 	"""
 	keyWait
 		any = false
@@ -200,7 +198,7 @@ script 22 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -209,7 +207,7 @@ script 22 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -244,7 +242,7 @@ script 23 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -253,7 +251,7 @@ script 23 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -271,8 +269,8 @@ script 24 mmbn6 {
 		mugshot = MegaMan
 	msgOpenMenu
 	"""
-	Cancel entry and
-	return to Menu?
+	Cancelar processo e
+	voltar para o Menu?
 	
 	"""
 	positionOptionHorizontal
@@ -285,7 +283,7 @@ script 24 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -294,7 +292,7 @@ script 24 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -315,8 +313,8 @@ script 25 mmbn6 {
 		global = 4
 		value = 1
 	"""
-	Go back to
-	edit your name?
+	Voltar à edição
+	do seu nome?
 	
 	"""
 	positionOptionHorizontal
@@ -329,7 +327,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -338,7 +336,7 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -358,8 +356,8 @@ script 25 mmbn6 {
 		global = 4
 		value = 2
 	"""
-	Cancel entry and
-	return to Menu?
+	Cancelar processo e
+	voltar para o Menu?
 	
 	"""
 	positionOptionHorizontal
@@ -372,7 +370,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -381,7 +379,7 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -415,7 +413,7 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpenMenuQuick
-	"Begin transmitting?\n"
+	"Iniciar transmissão?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -426,7 +424,7 @@ script 30 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -435,7 +433,7 @@ script 30 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -456,8 +454,8 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Your friend is using
-	a different mode.
+	Seu amigo está usando
+	um modo diferente.
 	"""
 	keyWait
 		any = false

@@ -6,15 +6,14 @@ script 0 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Hey,don't give up
-	now!
+	Aí, não desiste agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How about it?
-	Wanna try again?
+	O que me diz?
+	Bora tentar de novo?
 	
 	"""
 	positionOptionHorizontal
@@ -27,7 +26,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -36,7 +35,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -54,8 +53,8 @@ script 1 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Alright!
-	One more time!
+	Beleza!
+	Bora mais uma!
 	"""
 	keyWait
 		any = false
@@ -68,9 +67,8 @@ script 2 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Hey,let's go get
-	some more Fire_based
-	chips!
+	Ei, bora reunir mais
+	uns chips de Fogo!
 	"""
 	keyWait
 		any = false

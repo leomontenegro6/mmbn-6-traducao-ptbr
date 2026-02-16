@@ -5,7 +5,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"... Stay alert,Lan."
+	"... Fique alerta, Lan."
 	keyWait
 		any = false
 	end

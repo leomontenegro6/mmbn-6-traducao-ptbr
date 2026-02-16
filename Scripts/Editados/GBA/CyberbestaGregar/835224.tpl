@@ -5,7 +5,7 @@ script 0 mmbn6s {
 	end
 }
 script 1 mmbn6s {
-	"BugFrags"
+	"FragBugs"
 	end
 }
 script 5 mmbn6s {
@@ -26,19 +26,19 @@ script 6 mmbn6s {
 	end
 }
 script 7 mmbn6s {
-	"      HP+"
+	"      PV+"
 	end
 }
 script 8 mmbn6s {
-	"     HP+"
+	"     PV+"
 	end
 }
 script 9 mmbn6s {
-	"    HP+"
+	"    PV+"
 	end
 }
 script 10 mmbn6s {
-	"    HP MAX"
+	"    PV MÁX"
 	end
 }
 script 11 mmbn6 {
@@ -46,8 +46,8 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The attack...
-	It didn't work...
+	O ataque...
+	Não funcionou...
 	"""
 	keyWait
 		any = false
@@ -60,17 +60,17 @@ script 12 mmbn6 {
 		mugshot = Count
 	msgOpen
 	"""
-	There is no way you
-	can hurt me with
-	your puny attacks!
+	Você jamais conseguirá
+	me ferir com ataques
+	tão pífios!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's end this game!
-	C'mon! Show me what
-	you've got!
+	Hora de pôr um fim a
+	esta farsa! Mostre-me
+	do que é capaz!
 	"""
 	keyWait
 		any = false
@@ -80,7 +80,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yahhhhhhhh!!"
+	"Iáááááááá!!"
 	keyWait
 		any = false
 	clearMsg
@@ -90,7 +90,7 @@ script 13 mmbn6 {
 script 14 mmbn6 {
 	mugshotHide
 	msgOpen
-	"That's enough,Count!"
+	"Já chega, Conde!"
 	keyWait
 		any = false
 	clearMsg
@@ -101,7 +101,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Count
 	msgOpen
-	"What was that!?"
+	"Quem disse isso?!"
 	keyWait
 		any = false
 	end
@@ -110,7 +110,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Count
 	msgOpen
-	"Gwwwahhhh!!"
+	"Guaaaaaahhh!!"
 	keyWait
 		any = false
 	end
@@ -119,7 +119,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You...You...!"
+	"Você... Você...!"
 	keyWait
 		any = false
 	end
@@ -128,18 +128,17 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Count
 	msgOpen
-	"Gwwaaahhhh!!"
+	"Guaaaaaaahhh!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can never
-	stop me!!
+	Nunca irá me parar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Waaaaaaaaahh!"
+	"Aaaaaaaaaahh!"
 	keyWait
 		any = false
 	end
@@ -149,8 +148,8 @@ script 22 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	He's still got
-	some fight left!
+	Ele ainda tem
+	forças pra lutar!
 	"""
 	keyWait
 		any = false
@@ -163,8 +162,8 @@ script 23 mmbn6 {
 		mugshot = Count
 	msgOpen
 	"""
-	Gwwahhhhhh!!
-	I'll never lose!
+	Guaaaaahhhh!!
+	Nunca serei vencido!
 	"""
 	keyWait
 		any = false
@@ -185,8 +184,7 @@ script 25 mmbn6 {
 		mugshot = Django
 	msgOpen
 	"""
-	MegaMan,let's do
-	this together!
+	MegaMan, vamos juntos!
 	"""
 	keyWait
 		any = false
@@ -217,8 +215,8 @@ script 30 mmbn6 {
 		mugshot = JudgeMan
 	msgOpen
 	"""
-	MegaMan,thou must
-	not move.
+	MegaMan, tu não
+	deves se mover.
 	"""
 	keyWait
 		any = false
@@ -229,9 +227,8 @@ script 31 mmbn6 {
 		mugshot = JudgeMan
 	msgOpen
 	"""
-	MegaMan,thou must
-	not use a Battle
-	Chip.
+	MegaMan, tu não
+	deves usar um chip.
 	"""
 	keyWait
 		any = false
@@ -242,8 +239,8 @@ script 32 mmbn6 {
 		mugshot = JudgeMan
 	msgOpen
 	"""
-	MegaMan,thou must
-	not AreaGrab.
+	MegaMan, tu não deves
+	usar AreaGrab.
 	"""
 	keyWait
 		any = false
@@ -252,7 +249,7 @@ script 32 mmbn6 {
 script 40 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Fight with this set?\n"
+	"Lutar com essa lei?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -263,7 +260,7 @@ script 40 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -272,7 +269,7 @@ script 40 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false

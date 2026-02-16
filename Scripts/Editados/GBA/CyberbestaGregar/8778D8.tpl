@@ -12,8 +12,8 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	Grrrrrr!
-	I don't understand
-	this at all!!
+	Eu não entendo
+	bulhufas disto aqui!!
 	"""
 	keyWait
 		any = false
@@ -21,27 +21,26 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
 	"""
-	So the base is
-	3cm long.
+	Olha: a base tem 3 cm.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Multiply it by
-	the height,5,then
-	divide by 2.
+	É só multiplicar esse
+	número pela altura, 5,
+	e, aí, dividir por 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Simple right?"
+	"Simples, né?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Boy
-	"Uh_huh..."
+	"Aham..."
 	keyWait
 		any = false
 	end
@@ -56,17 +55,15 @@ script 1 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	You just have to
-	apply the right
-	formula to find
+	É só aplicar a fórmula
+	certa que você acha a
+	área do polígono.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the area of the
-	figure...
-	It's easy,see!
+	Viu? Moleza!
 	"""
 	keyWait
 		any = false
@@ -77,9 +74,8 @@ script 5 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	I think I broke
-	something in my
-	head...
+	Acho que alguma coisa deu
+	"tilt" na minha cabeça...
 	"""
 	keyWait
 		any = false
@@ -87,9 +83,9 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
 	"""
-	Hey! You're almost
-	done! You can
-	do it!! Try!!
+	Ei! Cê tá quase
+	terminando! Você
+	consegue!! Vai!!
 	"""
 	keyWait
 		any = false
@@ -100,8 +96,8 @@ script 6 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	OK! Only 3 more!
-	Do your best!!
+	OK! Só mais três!
+	Não desiste!!
 	"""
 	keyWait
 		any = false
@@ -118,22 +114,21 @@ script 40 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	Why can't people all
-	just get along...
+	Por que não dá pra
+	todo mundo se entender...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If everyone in the
-	world were friends,
+	Se todo mundo no
+	mundo fosse amigo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there'd be no
-	more fighting!
+	não teriam mais brigas!
 	"""
 	keyWait
 		any = false

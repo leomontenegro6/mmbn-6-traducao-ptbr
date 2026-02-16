@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You wanted to see
-	me,Mr.Mach...?
+	Você queria me
+	ver, Sr. Mach...?
 	"""
 	keyWait
 		any = false
@@ -28,7 +28,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"... I'm sorry,Lan."
+	"... Eu sinto muito, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -40,8 +40,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Huh?
-	Sorry about what?
+	... Hã?
+	Sente muito pelo quê?
 	"""
 	keyWait
 		any = false
@@ -52,23 +52,22 @@ script 4 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	For kidnapping your
-	friends' Navis...
+	Por sequestrar os
+	Navis dos seus amigos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and for taking
-	MegaMan away from
-	you...
+	e por tirar o
+	MegaMan de você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I had a hand in all
-	that...
+	Eu tive minha parcela de
+	culpa por tudo isso...
 	"""
 	keyWait
 		any = false
@@ -81,15 +80,16 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you saying,
-	Mr.Mach...
+	M-mas que papo é
+	esse, Sr. Mach...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's a joke,right?
-	Ha,ha,ha...
+	Você tá zoando
+	comigo, né?
+	Ha ha ha...
 	"""
 	keyWait
 		any = false
@@ -102,29 +102,29 @@ script 6 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	I am BlastMan's
-	operator.
+	Eu sou o operador
+	do BlastMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On the first day you
-	came to this school,
-	I tricked Mick
+	No seu primeiro dia
+	de aula na escola,
+	eu enganei o Mick
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and made the
-	Security Bots go
-	crazy.
+	e fiz os Robôs de
+	Segurança saírem
+	do controle.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... That was all me."
+	"... Foi tudo obra minha."
 	keyWait
 		any = false
 	clearMsg
@@ -138,8 +138,8 @@ script 7 mmbn6 {
 	textSpeed
 		delay = 3
 	"""
-	... N_No! I don't
-	believe you!
+	... N-não!
+	Eu não acredito em você!
 	"""
 	keyWait
 		any = false
@@ -147,8 +147,8 @@ script 7 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	Tell me you're
-	joking,Mr.Mach...
+	Fala que você tá
+	brincando, Sr. Mach...
 	"""
 	keyWait
 		any = false
@@ -161,23 +161,23 @@ script 8 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	You can hate me if
-	you want...
+	Pode me odiar,
+	se quiser...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I just wanted to
-	tell you,so I called
-	you here...
+	Mas eu queria te contar
+	isso, e, por isso, te
+	chamei aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Right now,MegaMan is
-	in the Underground.
+	No momento, o MegaMan
+	está no SubSolo.
 	"""
 	keyWait
 		any = false
@@ -190,9 +190,9 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What!?
-	You know where
-	MegaMan is!?
+	O quê?!
+	Você sabe onde
+	o MegaMan tá?!
 	"""
 	keyWait
 		any = false
@@ -205,41 +205,40 @@ script 10 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	You know where the
-	giant hole is in
-	CentralArea3?
+	Sabe o buraco gigante
+	na Área Central 3?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard that MegaMan
-	jumped down into
-	that hole.
+	Eu ouvi dizer que
+	o MegaMan pulou
+	pra dentro dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At the bottom of the
-	hole is a part of
-	the Cyberworld known
+	No fundo do buraco fica
+	uma parte do mundo
+	cibernético conhecida
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	as the Underground.
-	The Cybeasts were
-	sealed there.
+	como o "SubSolo".
+	As Cyberbestas
+	foram seladas lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe,the Cybeast
-	inside MegaMan made
-	him go there...
+	Talvez a Cyberbesta
+	dentro do MegaMan o
+	tenha guiado até lá...
 	"""
 	keyWait
 		any = false
@@ -252,24 +251,22 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Mr.Mach,
-	you were joking
+	... Sr. Mach,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	about being
-	BlastMan's
-	operator,right?
+	você tava brincando
+	sobre ser o operador
+	do Blastman, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,you were nice
-	enough to tell me
-	where MegaMan is...
+	Digo, até veio me contar
+	onde o MegaMan tá...
 	"""
 	keyWait
 		any = false
@@ -282,31 +279,31 @@ script 12 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	You're wrong,Lan. I
-	am helping because
+	Não, Lan.
+	Eu só decidi te ajudar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just want to feel
-	better about myself
-	on the inside.
+	porque quero me sentir
+	melhor comigo mesmo,
+	por dentro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really am a no_
-	good person.
+	Na verdade, eu
+	realmente não presto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What I've done are
-	things that can
-	never be forgiven...
+	As coisas que eu fiz
+	são simplesmente
+	imperdoáveis...
 	"""
 	keyWait
 		any = false
@@ -317,7 +314,7 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Hey!"
+	"Ei!"
 	keyWait
 		any = false
 	end
@@ -327,17 +324,16 @@ script 14 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	The wind's going to
-	be really strong
-	today!
+	Hoje vai ter uma
+	ventania das grandes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's dangerous to
-	stand out there!
-	Better get inside!
+	É perigoso ficar aqui
+	fora! Melhor voltarem
+	pra dentro!
 	"""
 	keyWait
 		any = false
@@ -347,7 +343,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mr.Mach!!!"
+	"Sr. Mach!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -359,16 +355,16 @@ script 16 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	I will probably
-	fight you again
-	sometime...
+	Provavelmente, eu terei
+	que lutar contra você
+	de novo, uma hora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	as long as Baryl
-	commands me to...
+	Se for o que o Baryl
+	me ordenar fazer...
 	"""
 	keyWait
 		any = false
@@ -380,21 +376,21 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"B_Baryl!?"
+	"B-Baryl?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I figured Colonel
-	was somehow related.
+	... Bem que eu imaginei
+	que tinha dedo do
+	Colonel nisso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I should have
-	guessed that they
-	had joined WWW...
+	Eu já devia saber que
+	eles entraram pra WWW...
 	"""
 	keyWait
 		any = false
@@ -407,40 +403,41 @@ script 18 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	I can't turn my back
-	on Baryl,but...
+	Eu não posso dar as
+	costas pro Baryl, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope you can
-	believe that...
+	espero que você
+	possa acreditar nisto
+	que eu vou dizer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	even if all my
-	actions seem to
-	contradict this,
+	Mesmo todas as
+	minhas ações
+	contradizendo isso,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I..."
+	"eu..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I care about my
-	students with all
-	of my heart.
+	Eu realmente amo os
+	meus alunos, do fundo
+	do meu coração.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good_bye,my student."
+	"Adeus, Lan."
 	keyWait
 		any = false
 	end
@@ -449,29 +446,29 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mr.Mach..."
+	"Sr. Mach..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I understand.
-	You must have a good
-	reason to do this.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	... I won't let your
-	kindness go to
-	waste.
+	Eu entendo.
+	Você deve ter um bom
+	motivo pra fazer isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will get MegaMan
-	back for sure!
+	... Não vou desperdiçar
+	a sua gentileza.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu vou recuperar
+	o MegaMan, custe
+	o que custar!
 	"""
 	keyWait
 		any = false

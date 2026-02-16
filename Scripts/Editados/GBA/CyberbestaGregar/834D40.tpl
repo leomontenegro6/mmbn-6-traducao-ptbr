@@ -2,11 +2,11 @@
 @size 15
 
 script 0 mmbn6s {
-	"PlyTm"
+	"Tempo"
 	end
 }
 script 1 mmbn6s {
-	"Libry"
+	"Coleç"
 	end
 }
 script 2 mmbn6s {
@@ -14,7 +14,7 @@ script 2 mmbn6s {
 	end
 }
 script 3 mmbn6s {
-	"Crdts"
+	"Zenny"
 	end
 }
 script 4 mmbn6s {
@@ -69,8 +69,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Save your
-	game?
+	Salvar o jogo?
 	
 	"""
 	positionOptionHorizontal
@@ -83,7 +82,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -92,7 +91,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -114,8 +113,8 @@ script 11 mmbn6 {
 		delay = 0
 	clearMsg
 	"""
-	OK to erase
-	old save data?
+	Apagar antigos
+	dados?
 	
 	"""
 	positionOptionHorizontal
@@ -128,7 +127,7 @@ script 11 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -137,7 +136,7 @@ script 11 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -159,13 +158,13 @@ script 12 mmbn6 {
 		delay = 0
 	clearMsg
 	"""
-	The save
-	failed...
+	O salvamento
+	falhou...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -176,7 +175,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -185,7 +184,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -203,8 +202,7 @@ script 13 mmbn6 {
 		delay = 0
 	clearMsg
 	"""
-	OK! Your save
-	is complete!
+	OK! Jogo salvo!
 	"""
 	keyWait
 		any = false

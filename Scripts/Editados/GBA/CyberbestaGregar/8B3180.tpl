@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	ELEC POWER...
-	ELEC POWER...
-	GIVE ME...
+	ELETRO-FORÇA...
+	ELETRO-FORÇA...
+	ME DÊ...
 	"""
 	keyWait
 		any = false
@@ -18,7 +18,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"... Gnaah!!"
+	"... Gnaagh!!"
 	keyWait
 		any = false
 	end
@@ -27,15 +27,16 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"... Gnaah!!"
+	"... Gnaagh!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	CYBERBATTERY POWER
-	ALL GONE...
+	ENERGIA DA
+	CYBERBATERIA
+	DRENADA POR COMPLETO...
 	"""
 	keyWait
 		any = false
@@ -46,9 +47,9 @@ script 5 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	My Elec Power has
-	been drained.
-	We must try again...
+	A minha Eletro-Força
+	foi drenada. Teremos
+	que tentar de novo...
 	"""
 	keyWait
 		any = false
@@ -60,7 +61,7 @@ script 10 mmbn6 {
 	msgOpen
 	"""
 	AAAAAH!!
-	TOO BRIGHT...
+	LUZ DEMAIS...
 	"""
 	keyWait
 		any = false
@@ -69,9 +70,9 @@ script 10 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	We've gotten to all
-	the cyberbatteries
-	in this area...
+	Reunimos todas as
+	cyberbaterias desta
+	área...
 	"""
 	keyWait
 		any = false
@@ -83,9 +84,8 @@ script 14 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	HEY!!
-	WHO THE HECK'S
-	OVER THERE!?
+	AÍ!!
+	QUEM TÁ AÍ?!
 	"""
 	keyWait
 		any = false
@@ -96,8 +96,8 @@ script 14 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Tsk!!
-	Spotted!
+	Tsc!!
+	Fui visto!
 	"""
 	keyWait
 		any = false
@@ -105,8 +105,8 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	BETTER LUCK NEXT
-	TIME,SUCKER!
+	MAIS SORTE NA
+	PRÓXIMA, OTÁRIO!
 	"""
 	keyWait
 		any = false

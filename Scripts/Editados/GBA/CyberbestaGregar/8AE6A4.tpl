@@ -6,24 +6,24 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO THE EXPO
-	MASCOT'S COMP!
+	BEM-VINDO AO
+	SISTEMA DO MASCOTE
+	DA EXPOSIÇÃO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS MASCOT WAS
-	DESIGNED ALONGSIDE
-	THE COPYBOT.
+	ESTE MASCOTE FOI
+	PROJETADO JUNTO
+	COM O CÓPIROIDE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT WAS DESIGNED BY
-	A VERY FAMOUS
-	DESIGNER!
+	O DESENHO FOI DE UM
+	DESIGNER MUITO FAMOSO!
 	"""
 	keyWait
 		any = false

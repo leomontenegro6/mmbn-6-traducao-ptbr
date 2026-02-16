@@ -5,14 +5,13 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm home!"
+	"Cheguei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mom!
-	The weather's gone
-	crazy!
+	Mãe!
+	O clima tá maluco!
 	"""
 	keyWait
 		any = false
@@ -24,13 +23,12 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Welcome home!"
+	"Oi, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,can you come
-	here?
+	Pode vir aqui rapidinho?
 	"""
 	keyWait
 		any = false
@@ -42,7 +40,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's up...!?"
+	"Tá..."
 	keyWait
 		any = false
 	end
@@ -51,7 +49,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mom,what's wrong?"
+	"Que foi, mãe?"
 	keyWait
 		any = false
 	clearMsg
@@ -63,9 +61,8 @@ script 4 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Oh,it's terrible!
-	Take a look at
-	the news!
+	Ah, é um desastre!
+	Olha só o noticiário!
 	"""
 	keyWait
 		any = false
@@ -77,7 +74,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The news?"
+	"Noticiário?"
 	keyWait
 		any = false
 	end

@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... I hope it
-	recorded something!
+	... Espero que ele tenha
+	filmado alguma coisa!
 	"""
 	keyWait
 		any = false
@@ -17,7 +17,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah! It did!"
+	"Ah! Ele filmou!"
 	keyWait
 		any = false
 	clearMsg
@@ -29,9 +29,9 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Just as we thought,
-	the Bot could see
-	into the classroom.
+	Como a gente imaginou,
+	o Robô pôde ver o que
+	rolava na sala.
 	"""
 	keyWait
 		any = false
@@ -44,13 +44,13 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Now,where's the
-	footage of Dad...?
+	Tá, cadê o papai
+	nessas filmagens...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... *gulp!*"
+	"... Glup!"
 	keyWait
 		any = false
 	end
@@ -59,11 +59,11 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... There he is!!"
+	"... Olha aí ele!!"
 	keyWait
 		any = false
 	clearMsg
-	"There's Dad!!"
+	"É o papai!!"
 	keyWait
 		any = false
 	clearMsg
@@ -74,14 +74,14 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Alright,Lan!"
+	"Beleza, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With this,we can
-	prove Dad's
-	innocent!
+	Com isto, a gente
+	pode provar a
+	inocência dele!
 	"""
 	keyWait
 		any = false
@@ -93,14 +93,14 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,let's hurry to
-	the courthouse with
-	this data!
+	Tá, vamos levar
+	esses dados correndo
+	pro tribunal!
 	"""
 	keyWait
 		any = false
@@ -112,7 +112,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wait,Lan!"
+	"Lan, espera!"
 	keyWait
 		any = false
 	clearMsg
@@ -124,8 +124,8 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What,MegaMan? We've
-	gotta hurry!
+	Que foi, MegaMan?
+	A gente tem que correr!
 	"""
 	keyWait
 		any = false
@@ -138,15 +138,16 @@ script 9 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Maybe this Security
-	Bot...
+	Talvez este Robô de
+	Segurança...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	saw one more very
-	important thing.
+	também tenha visto
+	uma outra coisa muito
+	importante.
 	"""
 	keyWait
 		any = false
@@ -158,7 +159,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Important thing...?"
+	"Coisa importante...?"
 	keyWait
 		any = false
 	clearMsg
@@ -169,30 +170,30 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... Yeah."
+	"... É."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe he saw the
-	person that jacked
-	their Navi into the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	security camera,and
-	erased all the data
-	from after 4 P.M.!
+	Ele pode ter visto a
+	pessoa que mandou o
+	Navi pra câmera de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In other words,maybe
-	he saw the real
-	culprit!
+	segurança e apagou
+	todos os dados de
+	depois das 16:00!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ou seja, ele pode ter
+	visto o verdadeiro
+	culpado!
 	"""
 	keyWait
 		any = false
@@ -203,8 +204,8 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Here's the video
-	from last night.
+	Esse é o vídeo de
+	ontem à noite.
 	"""
 	keyWait
 		any = false
@@ -215,8 +216,7 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's no one
-	there...
+	Não tem ninguém...
 	"""
 	keyWait
 		any = false
@@ -229,14 +229,13 @@ script 14 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wait!
-	I can hear
-	footsteps!
+	Espera!
+	Eu tô ouvindo passos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Someone's coming in!"
+	"Alguém vai entrar!"
 	keyWait
 		any = false
 	clearMsg
@@ -256,7 +255,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Huh?"
+	"... Hã?"
 	keyWait
 		any = false
 	end
@@ -266,20 +265,20 @@ script 17 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Eh?
-	What's...?
+	O quê?
+	Mas...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why is the
-	Prosecutor here...?
+	Mas o que Promotor
+	Ito tá fazendo aqui...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wh_What's going on!?"
+	"O-o que é que\ntá rolando?!"
 	keyWait
 		any = false
 	clearMsg
@@ -291,9 +290,9 @@ script 18 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... I don't want to
-	believe it,but there
-	is only one answer!
+	... Eu não quero
+	acreditar, mas só
+	tem uma explicação!
 	"""
 	keyWait
 		any = false
@@ -305,7 +304,7 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"N_No way..."
+	"N-não pode ser..."
 	keyWait
 		any = false
 	clearMsg
@@ -316,21 +315,21 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It looks like it..."
+	"É o que parece..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The real culprit of
-	this incident is the
-	Prosecutor!
+	O verdadeiro culpado
+	por trás desse incidente
+	foi o Promotor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The person that
-	framed Dad is him!
+	Ele é a pessoa que
+	incriminou o papai!
 	"""
 	keyWait
 		any = false
@@ -342,14 +341,13 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"But why?"
+	"Mas por quê?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why would the
-	Prosecutor do
-	something like this?
+	Por que o Promotor faria
+	uma coisa dessas?
 	"""
 	keyWait
 		any = false
@@ -362,23 +360,23 @@ script 22 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'd like to know,
-	too...
+	Bem que eu queria
+	saber também...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But right now,we're
-	out of time.
+	Mas vamos deixar isso
+	pra depois. A gente tá
+	quase sem tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's hurry up and
-	get this data over
-	to the courthouse!
+	Vamos levar logo estes
+	dados pro tribunal!
 	"""
 	keyWait
 		any = false
@@ -390,7 +388,7 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Yeah!"
+	"... É!"
 	keyWait
 		any = false
 	end
@@ -401,7 +399,7 @@ script 24 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem

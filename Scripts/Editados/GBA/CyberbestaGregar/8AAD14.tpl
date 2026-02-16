@@ -12,75 +12,74 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviYellow
 	"""
-	Seems like you
-	discovered the
-	right answer!!
+	Parece que você
+	descobriu a resposta!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yep!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"A fish that can't
-	swim"...
-	It's Fish Sticks!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Congrats on getting
-	the second answer
-	correct!!
+	O "peixe que não
+	nada"... é um
+	palito de peixe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The next quest
-	is also the final
-	quest...
+	Parabéns por acertar
+	a segunda prova!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The last item you
-	must find is...
+	O próximo desafio
+	será o último...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,the clue is
-	hidden in the
-	following words...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"\"I'm always looking\n at crayfish.\""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Do you know what it
-	is?
+	A última coisa que você
+	terá que encontrar é...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The key to the next
-	round is at hand!!
+	Bom, a pista está
+	escondida nas
+	seguintes palavras...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!!"
+	"""
+	"Eu estou sempre de
+	olho nos lagostins".
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E aí, já sabe?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Essa é a chave pra
+	próxima rodada!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Boa sorte!!"
 	keyWait
 		any = false
 	end
@@ -89,43 +88,39 @@ script 6 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = GirlNaviYellow
-	"\"I'm always looking\n at crayfish.\""
-	keyWait
-		any = false
-	clearMsg
-	"What is it?"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Pretty difficult,
-	huh?
+	"Eu estou sempre de
+	olho nos lagostins".
 	"""
 	keyWait
 		any = false
 	clearMsg
+	"O que será?"
+	keyWait
+		any = false
+	clearMsg
 	"""
-	Well,maybe you
-	should try to find
+	Difícil, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	crayfish in the
-	real world!
+	Bom, que tal começar
+	encontrando lagostins
+	no mundo real?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The key to the next
-	round is at hand!!
+	Essa é a chave pra
+	próxima rodada!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!!"
+	"Boa sorte!!"
 	keyWait
 		any = false
 	end
@@ -141,75 +136,74 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	"""
-	Seems like you
-	discovered the
-	right answer!!
+	Parece que você
+	descobriu a resposta!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yep!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"A fish that can't
-	 swim"...
-	It's Fish Sticks!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Congrats on getting
-	the second answer
-	correct!!
+	O "peixe que não
+	nada"... é um
+	palito de peixe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The next quest
-	is also the final
-	quest...
+	Parabéns por acertar
+	a segunda prova!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The last item you
-	must find is...
+	O próximo desafio
+	será o último...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,the clue is
-	hidden in the
-	following words...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"\"I'm always looking\n at crayfish.\""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Do you know what it
-	is?
+	A última coisa que você
+	terá que encontrar é...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The key to the next
-	round is at hand!!
+	Bom, a pista está
+	escondida nas
+	seguintes palavras...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!!"
+	"""
+	"Eu estou sempre de
+	olho nos lagostins".
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E aí, já sabe?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Essa é a chave pra
+	próxima rodada!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Boa sorte!!"
 	keyWait
 		any = false
 	end
@@ -218,33 +212,35 @@ script 8 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = GirlNaviPink
-	"\"I'm always looking\n at crayfish.\""
-	keyWait
-		any = false
-	clearMsg
 	"""
-	The last one really
-	is the hardest!
+	"Eu estou sempre de
+	olho nos lagostins".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So here is the best
-	hint I can give...
+	Essa última é a
+	mais difícil, viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are no
-	crayfish in Seaside
-	Town!
+	Então, aqui vai a melhor
+	dica que eu posso dar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Did that help?"
+	"""
+	Não tem nenhum lagostim
+	no Distrito Beira-Mar!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"E aí, ajudou?"
 	keyWait
 		any = false
 	end

@@ -8,9 +8,9 @@ script 0 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Fire Chip Attk
-	+50! Buster 
-	Attk +1!
+	+50 Chip
+	Fogo! Atq
+	Tiro +1!
 	"""
 	keyWait
 		any = true
@@ -26,9 +26,9 @@ script 1 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Elec Chip Attk
-	+50! Chrg Elm_
-	ntless: Parlyz
+	+50 Chip Elét!
+	Carregado
+	neutro: Parals
 	"""
 	keyWait
 		any = true
@@ -44,9 +44,9 @@ script 2 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Swrd Chip Attk
-	+50! Chrg Swrd
-	Chip: WaveAttk
+	+50 Atq Espdas
+	Carregue Espa-
+	da = Atq. Onda
 	"""
 	keyWait
 		any = true
@@ -62,9 +62,9 @@ script 3 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	If 4 digit HP
-	Elemntless:Dth
-	CursChipAtk+30
+	Se PV 4 dígits
+	s/ Elmento:Mte
+	AtqChipCurs+30
 	"""
 	keyWait
 		any = true
@@ -80,9 +80,9 @@ script 4 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Chrg FireChip
-	Atk Up!In turn
-	slct more chip
+	+Atq ChipFogo
+	Carreg! +Chips
+	pra escolher
 	"""
 	keyWait
 		any = true
@@ -98,9 +98,9 @@ script 5 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Chrg WatrChip:
-	Atk x2! Watr
-	Chip = HP Rcvr
+	ChipÁgua Crg.=
+	Atq. x2! Chip
+	Água = Cura PV
 	"""
 	keyWait
 		any = true
@@ -116,9 +116,9 @@ script 6 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Chrg WoodChip:
-	Atk x2! Status
-	Guard:NoAbnorm
+	ChipMdra Crg.=
+	Atq. x2!
+	Defesa Status
 	"""
 	keyWait
 		any = true
@@ -134,9 +134,9 @@ script 7 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	WindChip Atk
-	+10!AirShsOn!
-	ふ+Left:SuckIn
+	Atq ChipVento
+	+10! BotasAr!
+	ふ+Esq.:Aspira
 	"""
 	keyWait
 		any = true
@@ -152,9 +152,9 @@ script 8 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	BrkChip Atk+10
-	Chrg Brk:Fall
-	Rck!SuprArmrOn
+	+10 ChipQuebra
+	Crg Qbra:Pedra
+	Cai! SuprArmd
 	"""
 	keyWait
 		any = true
@@ -170,9 +170,9 @@ script 9 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	CustScrn:Dscrd
-	Chip.ふ+Left:
-	SuckIn ふ:Fire!
+	TelaCust:Chip
+	Discrd.ふ+Esq.:
+	Aspira ふ:Fogo!
 	"""
 	keyWait
 		any = true

@@ -6,23 +6,23 @@ script 0 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	... Ya impress me,
-	kid! What a red_hot
-	battle,whoo!
+	... Tô impressionado,
+	moleque! Que luta
+	esquentada, essa!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,yer no
-	pro like me,but
+	Digo, você não é um
+	mestre, como eu,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ya seem to get how
-	to use fire now!
+	mas parece que consegue
+	se virar com fogo agora!
 	"""
 	keyWait
 		any = false
@@ -32,16 +32,16 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Congrats on passing
-	yer final exam!
+	Parabéns por passar
+	na sua prova final!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For passing,HeatMan
-	is gonna be one of
-	yer LinkNavis!
+	Como recompensa, o
+	HeatMan vai ser um
+	dos seus NavisElo!
 	"""
 	keyWait
 		any = false
@@ -58,8 +58,8 @@ script 1 mmbn6 {
 	soundPlay
 		track = 143
 	"""
-	HeatMan became
-	Lan's LinkNavi!
+	HeatMan se tornou
+	NaviElo do Lan!
 	"""
 	waitOWVar
 		variable = 0
@@ -78,9 +78,9 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah!!......
-	Uh,Match,
-	what's a LinkNavi?
+	Beleza!! ......
+	Er, Match, o que
+	que é um NaviElo?
 	"""
 	keyWait
 		any = false
@@ -89,23 +89,23 @@ script 2 mmbn6 {
 		mugshot = MrMatch
 	"""
 	Hmm...
-	Basically...
+	Basicamente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HeatMan's linked to
-	ya,kinda like how
-	MegaMan is.
+	o HeatMan agora tem um
+	elo com você, que nem
+	você e o MegaMan têm.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That means ya can
-	operate HeatMan
-	any time ya need to!
+	Quer dizer que, agora,
+	você vai poder operar o
+	HeatMan quando quiser!
 	"""
 	keyWait
 		any = false
@@ -113,68 +113,65 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I can operate
-	HeatMan? Any time?
+	Eu posso operar
+	o HeatMan?
+	Quando eu quiser?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrMatch
-	"Yup..."
+	"Aham..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've earned that
-	right.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You've taken my
-	class,and learned
-	the basics of
+	Você conquistou o direito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	how to operate
-	HeatMan and how to
-	control fire,
+	Passou pela minha
+	aula e aprendeu o
+	básico de como operar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and one other
-	thing...
+	o HeatMan e
+	controlar fogo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Because you've
-	learned how
-	to control fire,
+	Ah, e mais uma coisa:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HeatMan's power's
-	been building up
-	inside MegaMan...
+	como você aprendeu
+	a controlar o fogo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so ya two should be
-	able to pull a
-	HeatCross now!
+	o poder do HeatMan
+	começou a germinar
+	dentro do MegaMan...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Então vocês dois
+	devem conseguir fazer
+	o HeatCruz agora!
 	"""
 	keyWait
 		any = false
@@ -187,24 +184,23 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan's been
-	gaining HeatMan's
-	power...?
+	O MegaMan foi ganhando
+	o poder do HeatMan...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can I really build
-	up that kind of
-	power...?
+	Eu posso mesmo ativar
+	esse tipo de poder?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	'Cause I don't feel
-	any different...
+	Porque não sinto
+	nenhuma diferença
+	de como tava antes...
 	"""
 	keyWait
 		any = false
@@ -216,14 +212,14 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"Heh,guess so..."
+	"He. Bom..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Guess you're only
-	gonna know if ya
-	see for yerself!
+	acho que você só vai
+	saber se vir com os
+	próprios olhos!
 	"""
 	keyWait
 		any = false
@@ -236,9 +232,8 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A battle!?
-	Hold on,let me
-	get ready...
+	Opa, outra luta?!
+	Pera aí, me apronto já...
 	"""
 	keyWait
 		any = false
@@ -251,9 +246,9 @@ script 6 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Stop blabbering!
-	I've been raring
-	to battle!!
+	Sem corpo mole!
+	Eu tô me coçando
+	pra lutar aqui!
 	"""
 	keyWait
 		any = false
@@ -265,17 +260,17 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"O_OK..."
+	"T-tá bom..."
 	keyWait
 		any = false
 	clearMsg
-	"You ready,MegaMan?"
+	"Pronto, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah!!"
+	"Aham!!"
 	keyWait
 		any = false
 	clearMsg
@@ -287,8 +282,8 @@ script 8 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Let's light this
-	arena on fire!
+	Vai pegar fogo,
+	essa arena!
 	"""
 	keyWait
 		any = false

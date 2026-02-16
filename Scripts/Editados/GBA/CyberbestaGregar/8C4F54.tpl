@@ -6,29 +6,30 @@ script 0 mmbn6 {
 		mugshot = BlastMan
 	msgOpen
 	"""
-	Kwohohoho...
-	You made it!
+	Quo ho ho ho...
+	Você conseguiu
+	chegar aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I applaud you for
-	reaching me
-	unburnt...
+	Admirável, você
+	conseguir isso sem
+	ser chamuscado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I doubt that
-	even you can stay
-	cool_headed forever.
+	mas duvido que consiga
+	ficar com a cabeça
+	fria pra sempre.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Kwohohoho..."
+	"Quo ho ho ho..."
 	keyWait
 		any = false
 	clearMsg
@@ -44,8 +45,8 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I won't let you
-	get away with this!!
+	Eu não vou deixar
+	você se safar dessa!!
 	"""
 	keyWait
 		any = false
@@ -58,21 +59,21 @@ script 2 mmbn6 {
 		mugshot = BlastMan
 	msgOpen
 	"""
-	You can't stand up
-	to me!
+	Você não pode
+	contra mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll delete every
-	last fragment of
-	your data.
+	Vou deletar até
+	o último byte
+	dos seus dados...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Kwohohoho..."
+	"Quo ho ho ho..."
 	keyWait
 		any = false
 	clearMsg
@@ -83,7 +84,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here he comes,Lan!!"
+	"Aí vem ele, Lan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -95,8 +96,9 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Gotcha!!
-	Battle routine,set!
+	Beleza!!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -108,7 +110,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
@@ -120,8 +122,9 @@ script 6 mmbn6 {
 		mugshot = BlastMan
 	msgOpen
 	"""
-	Burn to ashes!!
-	Kwohohoho...
+	Hora de ser
+	incinerado!!
+	Quo ho ho ho...
 	"""
 	keyWait
 		any = false

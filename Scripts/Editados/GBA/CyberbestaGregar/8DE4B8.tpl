@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = AnnZap
 	msgOpen
 	"""
-	It's no wonder you
-	defeated my
-	husband...
+	Não é à toa que
+	você derrotou o
+	meu marido...
 	"""
 	keyWait
 		any = false
@@ -21,8 +21,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	H_How did you know
-	about...!?
+	C-como você
+	sabia que...?!
 	"""
 	keyWait
 		any = false
@@ -35,39 +35,38 @@ script 2 mmbn6 {
 		mugshot = AnnZap
 	msgOpen
 	"""
-	I didn't mean any_
-	thing bad. I had a
-	feeling it was you.
+	Não me entenda mal.
+	Eu só tive a intuição
+	de que foi você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't blame
-	you.
+	Mas não te culpo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Rather,I'm grateful."
+	"Aliás, fico grata."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Due to you stopping
-	my husband,
+	Foi só depois que você
+	derrotou o meu marido
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was able to help
-	him recover.
+	que eu pude ajudá-lo
+	a se recuperar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thank you,Lan..."
+	"Obrigada, Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -78,7 +77,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ms.Zap..."
+	"Srta. Zap..."
 	keyWait
 		any = false
 	clearMsg
@@ -90,16 +89,16 @@ script 4 mmbn6 {
 		mugshot = AnnZap
 	msgOpen
 	"""
-	Well,this is where
-	my lecture ends.
+	Bom, e esse é o
+	fim da minha aula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I believe I can
-	allow ElecMan to be
-	a LinkNavi to you.
+	Acho que posso permitir
+	que o ElecMan seja um
+	dos seus NavisElo.
 	"""
 	keyWait
 		any = false
@@ -116,8 +115,8 @@ script 5 mmbn6 {
 	soundPlay
 		track = 143
 	"""
-	ElecMan became
-	Lan's LinkNavi!
+	ElecMan se tornou
+	NaviElo do Lan!
 	"""
 	waitOWVar
 		variable = 0
@@ -136,22 +135,22 @@ script 6 mmbn6 {
 		mugshot = AnnZap
 	msgOpen
 	"""
-	With ElecMan,you can
-	now perform the
-	ElecCross.
+	Com o ElecMan, você
+	agora poderá fazer
+	a ElecCruz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yes!!"
+	"É!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ms.Zap,thank you
-	very much!
+	Srta. Zap,
+	muito obrigado!
 	"""
 	keyWait
 		any = false
@@ -164,9 +163,9 @@ script 7 mmbn6 {
 		mugshot = AnnZap
 	msgOpen
 	"""
-	You're welcome to
-	operate ElecMan
-	at any time.
+	Fique à vontade para
+	operar o ElecMan
+	sempre que quiser.
 	"""
 	keyWait
 		any = false

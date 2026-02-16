@@ -16,40 +16,41 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Blackbeard
 	msgOpen
-	"... Har,har."
+	"... Har har har."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... How was the
-	show,mateys?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I was watchin'
-	from the shadows...
+	... Como foi o
+	show, marujos?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That wasn't
-	entertainment!
+	Eu fiquei assistindo
+	das sombras...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll show 'em what
-	real entertainment
-	is!
+	Aquilo ali não foi
+	entretenimento coisa
+	nenhuma!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Har,har."
+	"""
+	Eu vou mostrar pra
+	eles entretenimento
+	de verdade!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"... Har har."
 	keyWait
 		any = false
 	end
@@ -62,7 +63,7 @@ script 2 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"What's up?"
+	"Que foi?"
 	keyWait
 		any = false
 	end
@@ -71,7 +72,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Ah,nothing!"
+	"Ah, nada, não!"
 	keyWait
 		any = false
 	end

@@ -6,8 +6,7 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Get away from there,
-	JudgeMan!!
+	Saí da frente, JudgeMan!!
 	"""
 	keyWait
 		any = false
@@ -20,17 +19,16 @@ script 1 mmbn6 {
 		mugshot = JudgeMan
 	msgOpen
 	"""
-	I'm afraid I cannot.
-	These words may be
-	terribly overused,
+	Lamento, mas não posso.
+	Apesar de não serem
+	palavras muito originais,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	however,if thou
-	wishes to proceed,
-	thou must defeat me!
+	se quiser passar,
+	terá de me abater!
 	"""
 	keyWait
 		any = false
@@ -54,15 +52,16 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I know! We don't
-	have a choice!
+	Eu sei! A gente
+	não tem escolha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go,MegaMan!
-	Battle routine,set!
+	Bora, MegaMan!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -74,7 +73,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -85,7 +84,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = JudgeMan
 	msgOpen
-	"Thou shall not pass!"
+	"Você não vai passar!"
 	keyWait
 		any = false
 	end

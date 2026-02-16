@@ -6,22 +6,23 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS VENDING MACHINE
-	HAS A NEW PRODUCT!
+	ESTA MÁQUINA DE
+	BEBIDAS TEM UM
+	NOVO PRODUTO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S CALLED "AWESOME
-	WATER EX"!
+	CHAMA-SE "ÁGUA
+	FANTÁSTICA EX"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ITS MILD FLAVOR IS
-	ABSOLUTELY GREAT!!
+	SEU SABOR SUAVE
+	É UMA DELÍCIA!!
 	"""
 	keyWait
 		any = false

@@ -13,17 +13,16 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The voice from this
-	monitor babbles
-	continuously about
+	A voz saindo desse
+	monitor está tagarelando
+	sem parar sobre a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the close
-	relationship between
-	man and water.
+	relação íntima entre
+	o homem e a água.
 	"""
 	keyWait
 		any = false
@@ -32,16 +31,15 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	Water gushes forth
-	from between the
-	rocks...
+	Água jorra do espaço
+	entre as rochas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Watching the water
-	calms the heart.
+	Observar a água
+	acalma o coração.
 	"""
 	keyWait
 		any = false
@@ -51,9 +49,8 @@ script 2 mmbn6 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	Something is shining
-	in the middle of the
-	water pool...
+	Há uma coisa brilhando
+	no meio do mini-lago...
 	"""
 	keyWait
 		any = false
@@ -65,7 +62,7 @@ script 2 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -78,8 +75,8 @@ script 2 mmbn6 {
 	playerResetScene
 	clearMsg
 	"""
-	Regular memory
-	increased by
+	Memória padrão
+	aumentada em
 	2 MB!!!
 	"""
 	keyWait
@@ -91,16 +88,15 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	It looks like this
-	controls everything
-	in this pavilion.
+	Parece que isso controla
+	tudo neste pavilhão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And of course,you
-	can jack in.
+	E, claro, dá para
+	se conectar nisso.
 	"""
 	keyWait
 		any = false
@@ -115,8 +111,9 @@ script 4 mmbn6 {
 		flag = 3683
 	msgOpen
 	"""
-	Lan stamped his
-	Stamp Rally Card!!
+	Lan carimbou seu
+	Cartão da Corrida
+	de Carimbos!!
 	"""
 	keyWait
 		any = false
@@ -128,9 +125,8 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Alright! I got the
-	Seaside Pavilion
-	stamp!
+	Beleza! Peguei o carimbo
+	do Pavilhão Beira-Mar!
 	"""
 	keyWait
 		any = false
@@ -139,16 +135,16 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	A stamp for the
-	Stamp Rally.
+	Um carimbo da
+	Corrida de Carimbos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The mark on this
-	stamp is the Seaside
-	Town seal.
+	O símbolo no carimbo
+	é o selo do Distrito
+	Beira-Mar.
 	"""
 	keyWait
 		any = false

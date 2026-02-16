@@ -11,26 +11,26 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	AHHHH!!
-	YOU'RE MEGAMAN!!
+	É O MEGAMAN!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DO YOU REMEMBER ME!?
-	I'M THE DOG HOUSE
-	PROGRAM!!
+	LEMBRA DE MIM?!
+	SOU O PROG DA
+	CASINHA DE CACHORRO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...*SNIFFLE*..."
+	"... SNIF..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SORRY... MY NOSE IS
-	RUNNY...
+	DESCULPA...
+	NARIZ ESCORRENDO...
 	"""
 	keyWait
 		any = false
@@ -41,16 +41,16 @@ script 1 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE DOG
-	HOUSE COMP....
+	ESTE É O COMPUTADOR DA
+	CASINHA DE CACHORRO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SINCE THE OWNER
-	LEFT,IT'S BEEN A
-	LONELY PLACE...
+	DEPOIS QUE O DONO FOI
+	EMBORA, SE TORNOU UM
+	LOCAL SOLITÁRIO...
 	"""
 	keyWait
 		any = false

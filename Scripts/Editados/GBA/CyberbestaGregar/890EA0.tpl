@@ -10,24 +10,23 @@ script 0 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Who!? Who is the
-	one who hid the
-	KeyData!?
+	Quem foi?! Quem
+	que escondeu os
+	Dados-Chave?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I came to see
-	the huge crater in
-	CentralArea3...
+	Poxa, e eu queria tanto
+	ver a cratera gigante
+	na Área Central 3...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a pain in the
-	butt!
+	Saco!
 	"""
 	keyWait
 		any = false
@@ -44,9 +43,9 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	This door won't
-	open! I can't get
-	into CentralArea3!
+	Esta porta não abre!
+	Eu tenho que ir pra
+	Área Central 3!
 	"""
 	keyWait
 		any = false
@@ -61,24 +60,24 @@ script 2 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	The Net in Cyber
-	City has high
-	security in each
+	A Rede da Cidade Saibher
+	tem segurança elevada
+	em todas as áreas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	area,
-	so if you don't know
-	the requirements
+	Se você não atender
+	os requerimentos que
+	exigirem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you can't move to
-	the next area!
+	não poderá ir pra
+	área seguinte!
 	"""
 	keyWait
 		any = false
@@ -91,9 +90,9 @@ script 3 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Thanks to the
-	security,today
-	will be peaceful!
+	Graças à nossa
+	segurança, o dia hoje
+	vai ser bem pacífico!
 	"""
 	keyWait
 		any = false
@@ -108,23 +107,22 @@ script 4 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS CENTRAL
-	AREA2.
+	ESTA É A
+	ÁREA CENTRAL 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT CHIP SHOP OVER
-	THERE IS VERY
-	POPULAR.
+	A LOJA DE CHIPS DAQUI
+	É SUPER POPULAR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU SHOULD CHECK IT
-	OUT.
+	ACONSELHO VOCÊ
+	A CONFERIR.
 	"""
 	keyWait
 		any = false
@@ -137,9 +135,9 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS CENTRAL
-	AREA2,AN AREA KNOWN
-	FOR GREAT SHOPPING.
+	ESTA É A ÁREA
+	CENTRAL 2, FAMOSO
+	"POINT" COMERCIAL.
 	"""
 	keyWait
 		any = false
@@ -154,9 +152,8 @@ script 10 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Isn't this that
-	spot on Mick's
-	graffiti?
+	Este aqui não é o lugar
+	no grafite do Mick?
 	"""
 	keyWait
 		any = false
@@ -164,23 +161,22 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	The graffiti did
-	have a picture of
-	a Navi digging.
+	É, aquele do desenho
+	do Navi cavando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what's
-	under this panel?
+	O que será que tem
+	debaixo desse painel?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Let's check it out!"
+	"Eu vou conferir!"
 	keyWait
 		any = false
 	clearMsg
@@ -190,10 +186,10 @@ script 10 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"What's in here!?"
+	"O que é isto?!"
 	keyWait
 		any = false
 	clearMsg
@@ -205,7 +201,7 @@ script 10 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -220,9 +216,9 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,this is that
-	KeyData Mick was
-	talking about!!
+	Lan, estes são os
+	Dados-Chave de que
+	o Mick tava falando!
 	"""
 	keyWait
 		any = false
@@ -230,9 +226,9 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Alright! Let's go
-	check out Central
-	Area3!
+	Beleza!
+	Agora, bora conferir
+	a Área Central 3!
 	"""
 	keyWait
 		any = false
@@ -251,23 +247,22 @@ script 15 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm a member of
-	the NetPolice.
+	Eu sou da NetPolícia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I maintain order
-	on the Net.
+	Logo, ajudo a manter
+	a ordem na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Be careful.There've
-	been many dangerous
-	incidents lately.
+	Cuidado. Tem havido
+	vários incidentes
+	perigosos estes dias.
 	"""
 	keyWait
 		any = false
@@ -277,7 +272,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"No abnormalities!"
+	"Nada de anormal aqui!"
 	keyWait
 		any = false
 	end
@@ -291,24 +286,23 @@ script 17 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The door isn't open
-	yet!
+	A porta ainda não abriu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Darn! I can't go to
-	CentralArea3 today
-	either!!
+	Droga! Também não é
+	hoje que eu vou pra
+	Área Central 3!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When am I going to
-	get to see this
-	legendary crater!?
+	Quando é que eu vou
+	poder ver essa tal
+	cratera lendária?!
 	"""
 	keyWait
 		any = false
@@ -319,16 +313,15 @@ script 18 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Yay!!
-	The door's open!!
+	Aêêê!!
+	A porta abriu!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I can finally
-	check out this huge
-	hole!!
+	Agora eu finalmente
+	posso ver esse buracão!
 	"""
 	keyWait
 		any = false
@@ -339,16 +332,16 @@ script 20 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	If you turn left,
-	I think there's
-	some mystery data.
+	Acho que tem uns
+	dados misteriosos
+	virando à esquerda aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This narrow alley
-	looks kinda creepy.
+	Essa viela estreita dá
+	um pouquinho de medo, né?
 	"""
 	keyWait
 		any = false
@@ -358,19 +351,19 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Uhhh..."
+	"Ungh..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I heard
-	a terrible voice
-	from back there!
+	Acho que eu ouvi
+	uma voz bem medonha
+	vinda lá de trás!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm still in shock."
+	"Tô em choque ainda."
 	keyWait
 		any = false
 	end
@@ -379,7 +372,7 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Hey! Are you OK?"
+	"Aí! Cê tá legal?"
 	keyWait
 		any = false
 	end
@@ -389,9 +382,9 @@ script 23 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I wonder how you
-	get to that path
-	up there...
+	Como será que se faz
+	pra chegar naquela
+	estrada ali...?
 	"""
 	keyWait
 		any = false
@@ -402,31 +395,29 @@ script 25 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	What should I do?
-	Should I buy a
-	new chip?
+	O que eu faço?
+	Compro um chip novo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't have
-	much allowance
-	left!
+	Mas a minha mesada já
+	tá quase acabando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What to do...
-	What to do...
+	O que eu faço...
+	O que eu faço...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	AHH!!
-	I can't decide!
+	Não consigo decidir!
 	"""
 	keyWait
 		any = false
@@ -437,24 +428,24 @@ script 26 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Huh? What am I
-	doing?
+	Hã?
+	"O que eu tô fazendo?"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I used up a little
-	too much strength
-	during a battle!
+	Eu acabei gastando
+	energia demais
+	durante uma luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm taking a break
-	for a while...
-	Whew... I'm tired!
+	Tô dando uma pausa
+	rapidinha aqui...
+	Ufa... Ê, canseira!
 	"""
 	keyWait
 		any = false
@@ -465,17 +456,17 @@ script 27 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	UP AHEAD IS THE
-	FAMOUS CRATER IN
-	CENTRALAREA3.
+	MAIS À FRENTE FICA
+	A FAMOSA CRATERA DA
+	ÁREA CENTRAL 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SIGHTSEERS SHOULD
-	REALLY ENJOY TAKING
-	A PEEK!
+	PODE APOSTAR QUE
+	TURISTAS ADORAM
+	DAR UMA OLHADA NELA!
 	"""
 	keyWait
 		any = false

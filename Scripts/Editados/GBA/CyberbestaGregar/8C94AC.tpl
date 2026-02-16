@@ -4,9 +4,9 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	Gahaha! More fun
-	than a barrel of
-	sea monkeys!
+	Har har har!
+	Macacos me mordam...
+	Quanta diversão!
 	"""
 	keyWait
 		any = false
@@ -18,7 +18,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Who's there!?"
+	"Quem tá aí?!"
 	keyWait
 		any = false
 	end
@@ -28,31 +28,29 @@ script 2 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	... Ladies and
-	gentlemen!
+	... Senhoras e senhores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Welcome to Capt'n
-	Blackbeard's Show
-	of Wild Mayhem!
+	Bem-vindos ao Show
+	do Caos Marinho do
+	Capitão Barba-Negra!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...in case ye
-	didn't know!
+	... para os desavisados!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gahahaha!! Aren't
-	ye havin' fun,
-	matey?
+	Har har har haaar!!
+	Não está se divertindo,
+	marujo?
 	"""
 	keyWait
 		any = false
@@ -63,32 +61,31 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... I remember now!
-	You're that
-	weird,loud guy
+	... Agora eu lembrei!
+	Você é aquele esquisitão
+	barulhento
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that was yelling
-	something about
-	being fired
+	que tava gritando sobre
+	ter sido demitido ou
+	uma coisa assim
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in front of the
-	Aquarium
-	yesterday!
+	na frente do
+	Aquário ontem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why are you
-	doing this!?
+	Por que você tá
+	fazendo isso?!
 	"""
 	keyWait
 		any = false
@@ -99,16 +96,16 @@ script 4 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	... What's that
-	ye say,boy?
+	... Como é que é,
+	moleque?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did I just 'ear,
-	"Why're ye
-	doin' this?"
+	Você perguntou
+	"por que eu tô
+	fazendo isso"?
 	"""
 	keyWait
 		any = false
@@ -119,83 +116,79 @@ script 5 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Don't say such
-	stupid thin's!
+	Fecha a matraca,
+	cria de escorbuto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yer the same
-	as that quack
-	Director __
+	Você é que nem aquele
+	Diretor de araque,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	findin' faults
-	with me show!
+	forçando pra achar furos
+	no navio do meu show!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I like ye,
-	so ye'd better
-	listen good!
+	Mas eu até que gostei
+	de você, então, escuta
+	com atenção, marujo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why am I doin' this?
-	Well,that's
-	'cause,ye see...
+	"Por que eu tô
+	fazendo isso?"
+	Ora, veja bem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this aquarium's
-	borin' as a
-	grounded ship!!
+	É porque este aquário
+	é mais chato que
+	navio ancorado!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm puttin' some
-	wind back in 'er
-	sail!
+	Eu tô só soprando um
+	vento nas velas dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sharks and
-	alligators on
-	the rampage!
+	Tubarões e jacarés
+	à solta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People runnin' for
-	their lives!
+	Gente correndo por aí
+	com medo de morrer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't me show the
-	best show in
-	history,matey!?
+	Não acha esse o melhor
+	show da história, rapaz?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Gahahaha!!!"
+	"Haaar har har har!!!"
 	keyWait
 		any = false
 	end
@@ -205,30 +198,29 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	W_What is he
-	talking about!?
-	Best show!?
+	M-mas que papo é esse?!
+	"Melhor show"?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His show is why Mick
-	and the others are
-	in danger!
+	É por causa desse "show"
+	egoísta que o Mick e os
+	outros tão em perigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's no use talking
-	with a guy this
-	selfish!
+	Arh, não adianta
+	falar com um cara
+	mesquinho desses!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"If I can just...!"
+	"Se eu conseguir...!"
 	keyWait
 		any = false
 	end
@@ -238,40 +230,40 @@ script 7 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Har,har. What's
-	this? Ye weren't
-	thinkin' of
+	Har har. O que foi?
+	Não vai me dizer que
+	tá pensando em dar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	jackin' in to this
-	here computer,were
-	ye,boy?
+	um mergulho neste
+	computador aqui, né,
+	moleque?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gahaha!
-	That's rich!
-	Better give up,boy!
+	Har har har! Hilário!
+	Desiste enquanto ainda
+	não afundou, menino!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got me Navi,
-	DiveMan,in this
-	computer!
+	O meu Navi,
+	o DiveMan, tá dentro
+	deste computador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yer Navi's no
-	match for mine!
+	E o seu Navi não
+	é páreo pra ele!
 	"""
 	keyWait
 		any = false
@@ -284,26 +276,26 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We'll see about
-	that!
+	Isso é o que a
+	gente vai ver!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!"
+	"Bora, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	controlLock
 	textSpeed
 		delay = 1
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock

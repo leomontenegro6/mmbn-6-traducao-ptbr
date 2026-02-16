@@ -22,7 +22,7 @@ script 1 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Here is my status."
+	"Minha condição."
 	waitHold
 }
 script 2 mmbn6 {
@@ -45,7 +45,7 @@ script 2 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Here is my status.\n"
+	"Minha condição.\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -56,7 +56,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" NaviCust\n"
+	" CustNavi\n"
 	select
 		default = 0
 		BSeparate = false
@@ -94,7 +94,7 @@ script 3 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Here is my status.\n"
+	"Minha condição.\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -105,7 +105,7 @@ script 3 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" NaviCust\n"
+	" CustNavi\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -116,7 +116,7 @@ script 3 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Records"
+	" Recordes"
 	select
 		default = 0
 		BSeparate = false
@@ -138,7 +138,7 @@ script 4 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Here is my status.\n"
+	"Minha condição.\n"
 	positionOptionVertical
 		width = 8
 	option
@@ -149,7 +149,7 @@ script 4 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Records"
+	" Recordes"
 	select
 		default = 0
 		BSeparate = false
@@ -165,7 +165,7 @@ script 4 mmbn6 {
 	waitHold
 }
 script 5 mmbn6s {
-	"Attack LV"
+	"Ataque NV"
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -174,7 +174,7 @@ script 5 mmbn6s {
 	end
 }
 script 6 mmbn6s {
-	"Speed  LV"
+	"Rapidz NV"
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -183,7 +183,7 @@ script 6 mmbn6s {
 	end
 }
 script 7 mmbn6s {
-	"Charge LV"
+	"Carga  NV"
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -192,7 +192,7 @@ script 7 mmbn6s {
 	end
 }
 script 8 mmbn6s {
-	"Reg.Mem "
+	"Mem.Pdr "
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -220,11 +220,11 @@ script 10 mmbn6s {
 	end
 }
 script 11 mmbn6s {
-	"Pwr ChargeS"
+	"Frç CargaS"
 	end
 }
 script 12 mmbn6s {
-	"Pwr Custom"
+	"Frç Custom"
 	end
 }
 script 13 mmbn6 {
@@ -234,7 +234,7 @@ script 13 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Here is my status.\n"
+	"Minha condição.\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -245,7 +245,7 @@ script 13 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" NaviCust\n"
+	" CustNavi\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -256,7 +256,7 @@ script 13 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Records"
+	" Recordes"
 	select
 		default = 1
 		BSeparate = false
@@ -272,7 +272,7 @@ script 13 mmbn6 {
 	waitHold
 }
 script 14 mmbn6s {
-	"DarkChip "
+	"ChipTrev "
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -288,15 +288,15 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I can't use the
-	equipped folder.
+	Não posso usar
+	a pasta equipada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Switching to
-	Extra Folder.
+	Trocando para
+	Pasta Extra.
 	"""
 	keyWait
 		any = false
@@ -310,23 +310,23 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Equipped folder
-	can't be used now.
+	A pasta equipada não
+	pode ser usada agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take this Extra
-	Folder since you
-	don't have one.
+	Como você não tem
+	uma Pasta Extra,
+	tome esta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printFolderName
@@ -338,7 +338,7 @@ script 16 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Switching folders."
+	"Trocando pasta."
 	keyWait
 		any = false
 	waitHold
@@ -351,24 +351,22 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You can't use the
-	folder you had
-	equipped!
+	Não dá para usar a
+	pasta que você equipou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Since you can't use
-	the Extra Folder,
-	use this one!
+	Como você não tem uma
+	Pasta Extra, use esta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printFolderName
@@ -381,8 +379,8 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Switching to this
-	folder.
+	Trocando para
+	essa pasta.
 	"""
 	keyWait
 		any = false
@@ -405,7 +403,7 @@ script 40 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Item card received\n"
+	"Card de item recebido\n"
 	positionOptionVertical
 		width = 7
 	option
@@ -416,7 +414,7 @@ script 40 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"Receive data\n"
+	"Receber dados\n"
 	positionOptionVertical
 		width = 7
 	option
@@ -427,7 +425,7 @@ script 40 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Quit"
+	"Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -444,7 +442,7 @@ script 41 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Card received\n"
+	"Card recebido\n"
 	positionOptionVertical
 		width = 7
 	option
@@ -455,7 +453,7 @@ script 41 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"Modify\n"
+	"Modificar\n"
 	positionOptionVertical
 		width = 7
 	option
@@ -466,7 +464,7 @@ script 41 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Quit"
+	"Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -483,7 +481,7 @@ script 42 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Rare chip received\n"
+	"Chip raro recebido\n"
 	positionOptionVertical
 		width = 7
 	option
@@ -494,7 +492,7 @@ script 42 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"Receive data\n"
+	"Receber dados\n"
 	positionOptionVertical
 		width = 7
 	option
@@ -505,7 +503,7 @@ script 42 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Quit"
+	"Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -522,7 +520,7 @@ script 43 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Communication Error"
+	"Erro de Comunicação"
 	keyWait
 		any = false
 	waitHold
@@ -531,7 +529,7 @@ script 44 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Receiving succeeded"
+	"Recebido com sucesso"
 	keyWait
 		any = false
 	waitHold
@@ -540,7 +538,7 @@ script 45 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Not enough memory"
+	"Memória insuficiente"
 	keyWait
 		any = false
 	waitHold
@@ -549,7 +547,7 @@ script 46 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Already exists"
+	"Já existe"
 	keyWait
 		any = false
 	waitHold
@@ -558,7 +556,7 @@ script 47 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Already received"
+	"Já recebeu"
 	keyWait
 		any = false
 	waitHold
@@ -568,8 +566,8 @@ script 48 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Reception failed:
-	capacity is full
+	Falha ao receber:
+	capacidade cheia
 	"""
 	keyWait
 		any = false
@@ -579,7 +577,7 @@ script 49 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Already received"
+	"Já recebeu"
 	keyWait
 		any = false
 	waitHold
@@ -591,7 +589,7 @@ script 50 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Received
+	Recebeu
 	"
 	"""
 	ereaderName
@@ -609,14 +607,14 @@ script 51 mmbn6s {
 	end
 }
 script 52 mmbn6s {
-	"Delete"
+	"Apagar"
 	end
 }
 script 53 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Save?\n"
+	"Salvar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -627,7 +625,7 @@ script 53 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -636,7 +634,7 @@ script 53 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -662,8 +660,8 @@ script 54 mmbn6 {
 		delay = 0
 	clearMsg
 	"""
-	OK to erase
-	old save data?
+	Apagar antigos
+	dados?
 	
 	"""
 	positionOptionHorizontal
@@ -676,7 +674,7 @@ script 54 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -685,7 +683,7 @@ script 54 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -716,13 +714,13 @@ script 55 mmbn6 {
 		top = 141
 	clearMsg
 	"""
-	The save
-	failed...
+	O salvamento
+	falhou...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -733,7 +731,7 @@ script 55 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -742,7 +740,7 @@ script 55 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -766,7 +764,7 @@ script 56 mmbn6 {
 		left = 222
 		top = 141
 	clearMsg
-	"The save is complete"
+	"Salvo"
 	keyWait
 		any = false
 	waitHold
@@ -775,7 +773,7 @@ script 57 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Can't save here"
+	"Não dá para\nsalvar aqui"
 	keyWait
 		any = false
 	waitHold
@@ -784,7 +782,7 @@ script 59 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Request card received\n"
+	"Recebeu card de pedido\n"
 	positionOptionVertical
 		width = 7
 	option
@@ -795,7 +793,7 @@ script 59 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"Receive data\n"
+	"Receber dados\n"
 	positionOptionVertical
 		width = 7
 	option
@@ -806,7 +804,7 @@ script 59 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Quit"
+	"Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -823,7 +821,7 @@ script 60 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Cannot receive this data"
+	"Impossível receber dados"
 	keyWait
 		any = false
 	waitHold
@@ -832,7 +830,7 @@ script 61 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Cannot receive this data"
+	"Impossível receber dados"
 	keyWait
 		any = false
 	waitHold
@@ -842,8 +840,8 @@ script 62 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Cannot receive data in
-	the current state
+	Impossível receber
+	dados no estado atual
 	"""
 	keyWait
 		any = false
@@ -856,7 +854,7 @@ script 63 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Received
+	Recebeu
 	"
 	"""
 	ereaderName
@@ -870,55 +868,55 @@ script 63 mmbn6 {
 	waitHold
 }
 script 70 mmbn6s {
-	"Pwr HeatArm"
+	"Frç HeatArm"
 	end
 }
 script 71 mmbn6s {
-	"Pwr  AquaHs"
+	"Frç  AquaHs"
 	end
 }
 script 72 mmbn6s {
-	"Pwr ThrustT"
+	"Frç ThrustT"
 	end
 }
 script 73 mmbn6s {
-	"Pwr   TEdge"
+	"Frç   TEdge"
 	end
 }
 script 74 mmbn6s {
-	"Pwr   TBolt"
+	"Frç   TBolt"
 	end
 }
 script 75 mmbn6s {
-	"Pwr  TSwing"
+	"Frç  TSwing"
 	end
 }
 script 76 mmbn6s {
-	"Pwr  TSwing"
+	"Frç  TSwing"
 	end
 }
 script 77 mmbn6s {
-	"Pwr HSickle"
+	"Frç HSickle"
 	end
 }
 script 78 mmbn6s {
-	"Pwr  CrazyL"
+	"Frç  CrazyL"
 	end
 }
 script 79 mmbn6s {
-	"Pwr SReborn"
+	"Frç SReborn"
 	end
 }
 script 80 mmbn6s {
-	"Pwr  DAttkr"
+	"Frç  DAttkr"
 	end
 }
 script 81 mmbn6s {
-	"Pwr    None"
+	"Frç    None"
 	end
 }
 script 82 mmbn6s {
-	"Pwr WideSwd"
+	"Frç WideSwd"
 	end
 }
 script 90 mmbn6 {
@@ -926,9 +924,9 @@ script 90 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Special PowerUp
+	PowerUp Especial
 	BassCross MegaMan
-	Install complete!
+	Instalação Concluída!
 	"""
 	keyWait
 		any = false

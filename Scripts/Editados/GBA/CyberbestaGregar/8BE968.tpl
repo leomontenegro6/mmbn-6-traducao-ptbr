@@ -4,15 +4,15 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	Sky Area2 on it.
+	Nele, há um mapa
+	da Área Céu 2.
 	"""
 	keyWait
 		any = false
@@ -36,9 +36,8 @@ script 1 mmbn6 {
 		jumpIfProtoMan = continue
 	msgOpen
 	"""
-	The flames are too
-	high to pass
-	through!!
+	As chamas são fortes
+	demais para atravessar!!
 	"""
 	keyWait
 		any = false
@@ -60,9 +59,9 @@ script 2 mmbn6 {
 		jumpIfProtoMan = continue
 	msgOpen
 	"""
-	The cyberwater's
-	flow is too strong
-	to go against!!
+	O fluxo de cyberágua
+	é forte demais para
+	atravessar!!
 	"""
 	keyWait
 		any = false
@@ -85,9 +84,9 @@ script 3 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Choo,choo! We'll be
-	departing shortly.
-	Are you ready?
+	Tchú-tchúú!
+	A partida se aproxima.
+	Você está pronto?
 	"""
 	keyWait
 		any = false
@@ -103,7 +102,7 @@ script 3 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -112,7 +111,7 @@ script 3 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -132,9 +131,8 @@ script 4 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	We'll be departing
-	as soon as you're
-	ready!
+	Partiremos assim que
+	você estiver pronto!
 	"""
 	keyWait
 		any = false
@@ -145,9 +143,9 @@ script 5 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Jack me out,Lan! The
-	final exam is next
-	on the schedule!
+	Me desconecta, Lan!
+	Próxima parada:
+	prova final!
 	"""
 	keyWait
 		any = false
@@ -158,8 +156,8 @@ script 6 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	The next stop is
-	CentralArea3!
+	Próxima parada:
+	Área Central 3!
 	"""
 	keyWait
 		any = false
@@ -170,16 +168,16 @@ script 7 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	We don't need to be
-	at this station,yet!
+	A gente ainda não
+	tem por que vir
+	pra esta estação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should go to the
-	Undernet2 station
-	first!
+	Melhor irmos pra estação
+	da Undernet 2 primeiro!
 	"""
 	keyWait
 		any = false
@@ -190,8 +188,8 @@ script 8 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Now this looks like
-	a refreshing drink!!
+	Ah, tá aí uma
+	bebida refrescante!!
 	"""
 	keyWait
 		any = false
@@ -202,9 +200,8 @@ script 8 mmbn6 {
 	wait
 		frames = 30
 	"""
-	HeatMan drank up
-	all the raging
-	flames!
+	HeatMan bebeu todas
+	as chamas intensas!
 	"""
 	keyWait
 		any = false
@@ -216,14 +213,14 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Choo,choo..."
+	"Tchú-tchúú..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Perfect timing! I
-	was running a little
-	low on steam...
+	Bem na hora! Eu já
+	estava ficando sem
+	carvão, mesmo...
 	"""
 	keyWait
 		any = false
@@ -234,8 +231,8 @@ script 9 mmbn6 {
 	wait
 		frames = 30
 	"""
-	ChargeMan swallowed
-	the raging flames!!
+	ChargeMan engoliu
+	as chamas!!
 	"""
 	keyWait
 		any = false
@@ -248,9 +245,8 @@ script 10 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Even I can take care
-	of a fire this big,
-	drip!!
+	Até eu dou conta de um
+	foguinho desses, xuá!!
 	"""
 	keyWait
 		any = false
@@ -261,9 +257,9 @@ script 10 mmbn6 {
 	wait
 		frames = 30
 	"""
-	The wave of water
-	from SpoutMan's head
-	put out the fire!!
+	A onda de água da
+	cabeça do AquaMan
+	apagou o fogo!!
 	"""
 	keyWait
 		any = false
@@ -276,9 +272,9 @@ script 11 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Hmph. My fan can
-	take care of this
-	fire in one stroke!
+	Hmpf. O meu leque
+	dá conta desse fogo
+	em um só abano!
 	"""
 	keyWait
 		any = false
@@ -289,8 +285,8 @@ script 11 mmbn6 {
 	wait
 		frames = 30
 	"""
-	TenguMan's fan blew
-	the flames out!!
+	O leque de TenguMan
+	apagou as chamas!!
 	"""
 	keyWait
 		any = false
@@ -308,21 +304,21 @@ script 13 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Hmm,if I pass very
-	strong electricity
-	through the water...
+	Hmm, se eu fizer uma
+	forte corrente elétrica
+	passar pela água...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can split it into
-	hydrogen and oxygen!
+	posso separá-la em
+	hidrogênio e oxigênio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Elec Power!!"
+	"Tensão Elétrica!!"
 	keyWait
 		any = false
 	clearMsg
@@ -332,9 +328,8 @@ script 13 mmbn6 {
 	wait
 		frames = 30
 	"""
-	The raging water_
-	spout evaporated
-	off as steam!
+	A tromba d'água
+	violenta virou vapor!
 	"""
 	keyWait
 		any = false
@@ -346,19 +341,18 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Hiyahaha!"
+	"Riá ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Hex Sickle can
-	cut through
-	anything!!
+	A minha HexaFoice
+	fatia qualquer coisa!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hiyahahaha!!"
+	"Riá ha ha haa!"
 	keyWait
 		any = false
 	clearMsg
@@ -368,8 +362,8 @@ script 14 mmbn6 {
 	wait
 		frames = 30
 	"""
-	The Hex Sickle cut
-	the waterspout!!
+	A HexaFoice consegue
+	cortar a tromba d'água!!
 	"""
 	keyWait
 		any = false
@@ -382,26 +376,25 @@ script 15 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	If it's got to do
-	with water,leave it
-	to me,drip!!
+	Se o assunto é água,
+	deixa comigo, xuá!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Water...
-	Calm!!
-	... drip.
+	Água...
+	Acalma-te!!
+	... Xuá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	At SpoutMan's words,
-	the waterspout
-	calmly disappeared!!
+	Obedecendo às palavras
+	do AquaMan, a tromba
+	d'água desapareceu!!
 	"""
 	keyWait
 		any = false
@@ -413,19 +406,18 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whiiiiiir!!"
+	"Tchrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All we gotta do is
-	dump some dirt on
-	the source!!
+	É só jogar um pouquinho
+	de terra na fonte!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Whiiiiiir!!"
+	"Tchrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
@@ -435,8 +427,8 @@ script 16 mmbn6 {
 	wait
 		frames = 30
 	"""
-	GroundMan stopped up
-	the water opening!
+	O GroundMan tampou
+	a abertura da água!
 	"""
 	keyWait
 		any = false

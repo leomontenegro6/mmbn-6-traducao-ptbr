@@ -6,24 +6,23 @@ script 0 mmbn6 {
 		mugshot = AnnZap
 	msgOpen
 	"""
-	I will now begin
-	my lecture.
+	Bem, iniciemos
+	a minha aula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In my lecture,you
-	will learn how to
-	operate ElecMan,and
+	Nela, você aprenderá
+	a operar o ElecMan
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	how to use the power
-	of electricity with
-	all your being.
+	e a usar o poder
+	da eletricidade
+	com todo o seu ser.
 	"""
 	keyWait
 		any = false
@@ -37,8 +36,8 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	ElecMan...?
-	Then you're not just
-	some old lady...?
+	Então você não é
+	uma velha qualquer...
 	"""
 	keyWait
 		any = false
@@ -51,32 +50,31 @@ script 2 mmbn6 {
 		mugshot = AnnZap
 	msgOpen
 	"""
-	Ack! "Old lady"!?
-	You are one very
-	rude child!!
+	Ack! "Velha"?!
+	Mas que criança
+	grosseira você é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am Ann Zap,and
-	though I may look
-	withered to you,boy,
+	Eu sou Ann Zap e, por
+	mais decrépita que
+	eu pareça para VOCÊ,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am from a certain
-	very high_class
-	family!!
+	pertenço a uma família
+	de altíssimo renome!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You will address me
-	as "Ms.Zap"!
+	Dirija-se a mim
+	como "Srta. Zap"!
 	"""
 	keyWait
 		any = false
@@ -89,9 +87,9 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"Ms.Zap"?
-	Are you
-	Count Zap's...?
+	"Srta. Zap"?
+	Você é alguma coisa
+	do Conde Zap...?
 	"""
 	keyWait
 		any = false
@@ -104,8 +102,8 @@ script 4 mmbn6 {
 		mugshot = AnnZap
 	msgOpen
 	"""
-	Oh,you've heard
-	of me,then?
+	Ah, então o meu
+	nome é conhecido?
 	"""
 	keyWait
 		any = false
@@ -118,16 +116,15 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	W_Well,uh,
-	yes and no...?
+	B-bom, er...
+	Sim e não...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,I guess I
-	sorta know about
-	you...
+	Digo, o seu sobrenome,
+	eu acho que conheço...
 	"""
 	keyWait
 		any = false
@@ -139,38 +136,37 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = AnnZap
 	msgOpen
-	"Is that so...?"
+	"É mesmo...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After my husband was
-	arrested,my family
-	fell into ruins...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	and even the great
-	name of the Zap
-	family has dimmed...
+	Depois que meu marido
+	foi preso, minha família
+	caiu em desgraça,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So to restore the
-	Zap name to its
-	former brilliance,
+	e até mesmo o nome
+	da família Zap acabou
+	perdendo seu brilho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm giving these
-	lectures and doing
-	all I can.
+	Então, para restaurar
+	esse nome à sua antiga
+	glória luminosa,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	estou dando estas aulas,
+	dedicando-me ao máximo.
 	"""
 	keyWait
 		any = false
@@ -183,8 +179,8 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So you're the
-	Count's wife...
+	Então você é
+	esposa do Conde...
 	"""
 	keyWait
 		any = false
@@ -197,16 +193,16 @@ script 8 mmbn6 {
 		mugshot = AnnZap
 	msgOpen
 	"""
-	That's enough about
-	my personal life!
+	Bom, chega de falar
+	da minha vida pessoal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let us begin the
-	lecture. Now,go to
-	that control panel.
+	Comecemos a aula.
+	Conecte-se a este
+	painel de controle.
 	"""
 	keyWait
 		any = false

@@ -6,16 +6,15 @@ script 0 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	... Now then,let's
-	begin our class.
+	... Pois bem,
+	comecemos nossa aula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Today,you will
-	be working at my
-	railroad company.
+	... Hoje, você trabalhará
+	na minha ferrovia.
 	"""
 	keyWait
 		any = false
@@ -27,13 +26,13 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Railroad...?"
+	"Ferrovia...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I can't drive
-	a train!
+	Mas eu não sei
+	pilotar trem!
 	"""
 	keyWait
 		any = false
@@ -46,31 +45,30 @@ script 2 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	... It's alright,
-	little guy.
+	... Está tudo bem,
+	meu jovem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The railroad I'm
-	talking about is
-	on the Net...
+	A ferrovia a que me
+	refiro fica na Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll be operating
-	my Navi,ChargeMan.
+	Você irá operar o meu
+	Navi, o ChargeMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Now if you just
-	step over to the
-	vending machine...
+	... Bom, por favor,
+	utilize a máquina de
+	bebidas...
 	"""
 	keyWait
 		any = false

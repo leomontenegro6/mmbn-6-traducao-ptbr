@@ -6,16 +6,15 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We can't let them
-	get their hands on
-	the Force Program!
+	A gente não pode deixar
+	eles porem as mãos no
+	Programa de Força!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's up to you,
-	MegaMan!
+	Conto com você, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -27,7 +26,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	end

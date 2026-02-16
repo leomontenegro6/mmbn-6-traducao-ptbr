@@ -6,15 +6,15 @@ script 0 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	That virus really
-	surprised me!
+	Aquele vírus me deu
+	um baita susto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've got great
-	technique!!
+	As suas habilidades
+	são incríveis!
 	"""
 	keyWait
 		any = false
@@ -25,9 +25,9 @@ script 1 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	...Hmm...
-	I guess it's time
-	to jack out!
+	... Hmm...
+	Acho que já tá na
+	hora de desconectar!
 	"""
 	keyWait
 		any = false
@@ -37,13 +37,13 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"...What!"
+	"... Que que é, hein?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Just kidding!!"
+	"... É zoeira!!"
 	keyWait
 		any = false
 	end

@@ -3,14 +3,14 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -25,8 +25,8 @@ script 1 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Don't like it here!?
-	Too bad!!
+	Não me quer aqui, não?!
+	Problema seu!!
 	"""
 	keyWait
 		any = false

@@ -6,79 +6,79 @@ script 0 mmbn6s {
 	end
 }
 script 1 mmbn6s {
-	"StudntID"
+	"CtEstdnt"
 	end
 }
 script 2 mmbn6s {
-	"Bucket"
+	"Balde"
 	end
 }
 script 3 mmbn6s {
-	"TeachrID"
+	"IDProf"
 	end
 }
 script 4 mmbn6s {
-	"Graffiti"
+	"Grafite"
 	end
 }
 script 5 mmbn6s {
-	"WatrData"
+	"DadoÁgua"
 	end
 }
 script 6 mmbn6s {
-	"KeyData"
+	"DadoChve"
 	end
 }
 script 7 mmbn6s {
-	"Fish"
+	"Peixe"
 	end
 }
 script 8 mmbn6s {
-	"ToolPrgm"
+	"ProgFrmt"
 	end
 }
 script 9 mmbn6s {
-	"Toy"
+	"Bola"
 	end
 }
 script 10 mmbn6s {
-	"HealWatr"
+	"ÁguaCura"
 	end
 }
 script 11 mmbn6s {
-	"TagChip"
+	"ChipPar"
 	end
 }
 script 12 mmbn6s {
-	"Report"
+	"Dossiê"
 	end
 }
 script 13 mmbn6s {
-	"ImgData"
+	"DadoImg"
 	end
 }
 script 14 mmbn6s {
-	"AuthData"
+	"DadoAutr"
 	end
 }
 script 15 mmbn6s {
-	"Umbrella"
+	"GrdaChva"
 	end
 }
 script 16 mmbn6s {
-	"WinCardA"
+	"CartVitóA"
 	end
 }
 script 17 mmbn6s {
-	"WinCardB"
+	"CartVitóB"
 	end
 }
 script 18 mmbn6s {
-	"WinCardC"
+	"CartVitóC"
 	end
 }
 script 19 mmbn6s {
-	"WinCardD"
+	"CartVitóD"
 	end
 }
 script 20 mmbn6s {
@@ -102,71 +102,71 @@ script 24 mmbn6s {
 	end
 }
 script 25 mmbn6s {
-	"MoonSton"
+	"PedraLua"
 	end
 }
 script 26 mmbn6s {
-	"ACDCKyDt"
+	"DdCvACDC"
 	end
 }
 script 27 mmbn6s {
-	"AreaPass"
+	"PassÁrea"
 	end
 }
 script 28 mmbn6s {
-	"VacData"
+	"DdoVacin"
 	end
 }
 script 29 mmbn6s {
-	"PcktWtch"
+	"RlgBolso"
 	end
 }
 script 30 mmbn6s {
-	"TunaData"
+	"DadoAtum"
 	end
 }
 script 31 mmbn6s {
-	"SalmData"
+	"DadoSalm"
 	end
 }
 script 32 mmbn6s {
-	"EelData"
+	"DdoEngui"
 	end
 }
 script 33 mmbn6s {
-	"ShrimpDt"
+	"DdoCmrão"
 	end
 }
 script 34 mmbn6s {
-	"HrringDt"
+	"DdoArenq"
 	end
 }
 script 35 mmbn6s {
-	"YTailDat"
+	"DdoBAmrl"
 	end
 }
 script 36 mmbn6s {
-	"UrchnDat"
+	"DdoOuriç"
 	end
 }
 script 37 mmbn6s {
-	"SnpprDat"
+	"DdoPargo"
 	end
 }
 script 38 mmbn6s {
-	"TimeCpsl"
+	"CpslTmpo"
 	end
 }
 script 39 mmbn6s {
-	"CashData"
+	"DadoDinh"
 	end
 }
 script 40 mmbn6s {
-	"TextData"
+	"DadoTxto"
 	end
 }
 script 41 mmbn6s {
-	"Pendant"
+	"Colar"
 	end
 }
 script 42 mmbn6s {
@@ -174,31 +174,31 @@ script 42 mmbn6s {
 	end
 }
 script 43 mmbn6s {
-	"StampCrd"
+	"CtCrimbo"
 	end
 }
 script 44 mmbn6s {
-	"RushFood"
+	"CmdaRush"
 	end
 }
 script 45 mmbn6s {
-	"CyberAxe"
+	"CybMchdo"
 	end
 }
 script 46 mmbn6s {
-	"Tulip"
+	"Tulipa"
 	end
 }
 script 47 mmbn6s {
-	"UpdtData"
+	"DadoAtlz"
 	end
 }
 script 48 mmbn6s {
-	"Coffee"
+	"Café"
 	end
 }
 script 49 mmbn6s {
-	"ScrtData"
+	"DadoScrt"
 	end
 }
 script 50 mmbn6s {
@@ -214,7 +214,7 @@ script 52 mmbn6s {
 	end
 }
 script 53 mmbn6s {
-	"QuizData"
+	"DadoQstn"
 	end
 }
 script 54 mmbn6s {
@@ -226,15 +226,15 @@ script 55 mmbn6s {
 	end
 }
 script 56 mmbn6s {
-	"RefrncBk"
+	"LvDdátco"
 	end
 }
 script 57 mmbn6s {
-	"QuizBook"
+	"LivrQest"
 	end
 }
 script 58 mmbn6s {
-	"InvteCrd"
+	"CtCnvite"
 	end
 }
 script 59 mmbn6s {
@@ -242,15 +242,15 @@ script 59 mmbn6s {
 	end
 }
 script 60 mmbn6s {
-	"SrialDat"
+	"DdoSrial"
 	end
 }
 script 61 mmbn6s {
-	"SciManul"
+	"ManulSci"
 	end
 }
 script 62 mmbn6s {
-	"SoulEmbl"
+	"EmblAlma"
 	end
 }
 script 63 mmbn6s {
@@ -258,65 +258,65 @@ script 63 mmbn6s {
 	end
 }
 script 64 mmbn6s {
-	"BtlrCard"
+	"CtLtador"
 	end
 }
 script 65 mmbn6s {
-	"F.Fries"
+	"Fritas"
 	end
 }
 script 66 mmbn6s {
-	"CybBrdAx"
+	"CybMachd"
 	end
 }
 script 67 mmbn6s {
-	"ResrvTck"
+	"CmpResrv"
 	end
 }
 script 68 mmbn6s {
-	"WWWID"
+	"IDWWW"
 	end
 }
 script 69 mmbn6s {
-	"SunKey"
+	"ChaveSol"
 	end
-	" SunKey"
+	" ChveSol"
 	end
 }
 script 70 mmbn6s {
-	"SeaSdKey"
+	"ChvBrMar"
 	end
 }
 script 80 mmbn6s {
-	"SpinWhit"
+	"GiraBrnc"
 	end
 }
 script 81 mmbn6s {
-	"SpinYllw"
+	"GiraAmrl"
 	end
 }
 script 82 mmbn6s {
-	"SpinPink"
+	"GiraRosa"
 	end
 }
 script 83 mmbn6s {
-	"SpinRed"
+	"GiraVrml"
 	end
 }
 script 84 mmbn6s {
-	"SpinBlue"
+	"GiraAzul"
 	end
 }
 script 85 mmbn6s {
-	"SpinGrn"
+	"GiraVrde"
 	end
 }
 script 96 mmbn6s {
-	"SchPCode"
+	"CódPEscl"
 	end
 }
 script 104 mmbn6s {
-	"WtrBannr"
+	"BannerÁq"
 	end
 }
 script 105 mmbn6s {
@@ -324,35 +324,35 @@ script 105 mmbn6s {
 	end
 }
 script 106 mmbn6s {
-	"SkyBannr"
+	"BannrCéu"
 	end
 }
 script 107 mmbn6s {
-	"ACDCBanr"
+	"BanrACDC"
 	end
 }
 script 112 mmbn6s {
-	"HP Memry"
+	"MemóriPV"
 	end
 }
 script 113 mmbn6s {
-	"ExpMemry"
+	"MemóriXP"
 	end
 }
 script 114 mmbn6s {
-	"RegUP1"
+	"Padrão+1"
 	end
 }
 script 115 mmbn6s {
-	"RegUP2"
+	"Padrão+2"
 	end
 }
 script 116 mmbn6s {
-	"RegUP3"
+	"Padrão+3"
 	end
 }
 script 117 mmbn6s {
-	"SubMemry"
+	"SubMemór"
 	end
 }
 script 128 mmbn6s {
@@ -360,26 +360,26 @@ script 128 mmbn6s {
 	end
 }
 script 129 mmbn6s {
-	"FullEnrg"
+	"EnrgTotl"
 	end
 }
 script 130 mmbn6s {
-	"SneakRun"
+	"DeFinin"
 	end
 }
 script 131 mmbn6s {
-	"Untrap"
+	"Desarma"
 	end
 }
 script 132 mmbn6s {
-	"LocEnemy"
+	"TravInmg"
 	end
 }
 script 133 mmbn6s {
-	"Unlocker"
+	"Destrava"
 	end
 }
 script 134 mmbn6s {
-	"SbChpSet"
+	"KitSbChp"
 	end
 }

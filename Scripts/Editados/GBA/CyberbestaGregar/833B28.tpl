@@ -15,9 +15,9 @@ script 0 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	It's your PET__your
-	PErsonal Terminal.
-	MegaMan's in here.
+	É o seu PET, seu
+	Terminal Pessoal.
+	O MegaMan fica nele.
 	"""
 	waitHold
 }
@@ -35,8 +35,9 @@ script 1 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A student ID from
-	Cyber Academy.
+	Uma carteira
+	de estudante da
+	Escola Saibher.
 	"""
 	waitHold
 }
@@ -54,8 +55,8 @@ script 2 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A normal,everyday
-	bucket.
+	Um balde comum,
+	nada de especial.
 	"""
 	waitHold
 }
@@ -73,8 +74,9 @@ script 3 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A teacher's ID
-	from Cyber Academy.
+	Uma carteirinha de
+	professor da Escola
+	Saibher.
 	"""
 	waitHold
 }
@@ -92,17 +94,17 @@ script 4 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	There is a picture
-	of a Navi digging
-	a hole at a place
+	Contém a ilustração
+	de um Navi cavando um
+	buraco em um ponto de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on a wide green
-	road where a shadow
-	falls.
+	uma larga estrada
+	verde, coberto por
+	uma sombra.
 	"""
 	waitHold
 }
@@ -119,7 +121,7 @@ script 5 mmbn6 {
 	positionMugshot
 		left = 30
 		top = 128
-	"Cyberwater data."
+	"Dados de água\ncibernética."
 	waitHold
 }
 script 6 mmbn6 {
@@ -136,9 +138,9 @@ script 6 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Key to open door
-	between CentralArea2
-	and CentralArea3.
+	Chave que abre a
+	porta que conecta as
+	Áreas Centrais 2 e 3.
 	"""
 	waitHold
 }
@@ -156,8 +158,8 @@ script 7 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A fish an old man
-	caught for you.
+	Peixe que um velho
+	senhor pescou para você.
 	"""
 	waitHold
 }
@@ -175,9 +177,9 @@ script 8 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	The treasured tool
-	of the FixShop Navi.
-	Fixes clogged pipes.
+	Ferramenta querida do
+	encanador. Conserta
+	encanamento entupido.
 	"""
 	waitHold
 }
@@ -195,9 +197,9 @@ script 9 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	An elephant seal's
-	favorite ball...
-	An exciting toy.
+	A bola favorita de
+	um elefante-marinho...
+	Um brinquedo divertido.
 	"""
 	waitHold
 }
@@ -215,15 +217,16 @@ script 10 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Cyberwater gushing
-	from SeasideArea3.
+	Água cibernética
+	extraída da Área
+	Beira-Mar 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has healing
-	properties...
+	Possui propriedades
+	curativas...
 	"""
 	waitHold
 }
@@ -241,9 +244,9 @@ script 11 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	When battling,2
-	selected chips will
-	appear together!!
+	Durante as lutas, dois
+	chips selecionados
+	aparecerão juntos!!
 	"""
 	waitHold
 }
@@ -260,23 +263,23 @@ script 12 mmbn6 {
 	positionMugshot
 		left = 30
 		top = 128
-	"\"Yesterday at\n 4 P.M.,the accused,\n Yuichiro Hikari,"
+	"\"Ontem, às 16:0000,\n o acusado,\n Yuichiro Hikari,"
 	keyWait
 		any = false
 	clearMsg
-	" attempted to hack\n the JudgeTree."
+	" tentou hackear a\n Árvore Juíza."
 	keyWait
 		any = false
 	clearMsg
-	" The great JudgeTree\n was unharmed,but\n Green Town takes"
+	" A grande Árvore Juíza\n saiu ilesa, mas o\n Distrito Verde leva"
 	keyWait
 		any = false
 	clearMsg
-	" any attempt to harm\n the JudgeTree\n seriously."
+	" toda tentativa de\n danificá-la muito\n a sério."
 	keyWait
 		any = false
 	clearMsg
-	" Thus,we find\n Yuichiro Hikari\n guilty.\""
+	" Logo, declaramos\n Yuichiro Hikari\n culpado.\""
 	waitHold
 }
 script 13 mmbn6 {
@@ -293,9 +296,9 @@ script 13 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Image data of a
-	classroom displayed
-	by a Security Bot.
+	Dados de filmagem de
+	uma sala de aula por
+	um Robô de Segurança.
 	"""
 	waitHold
 }
@@ -313,9 +316,8 @@ script 14 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Data authorizing
-	entry into the
-	Courthouse.
+	Dados de autorização
+	para entrar no Tribunal.
 	"""
 	waitHold
 }
@@ -333,9 +335,9 @@ script 15 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	An umbrella made
-	from the latest and
-	greatest materials.
+	Guarda-chuva feito
+	dos melhores e mais
+	modernos materiais.
 	"""
 	waitHold
 }
@@ -353,9 +355,9 @@ script 16 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Proof of winning a
-	selection test
-	battle.
+	Prova de vitória
+	em uma luta-teste
+	de seleção.
 	"""
 	waitHold
 }
@@ -373,9 +375,9 @@ script 17 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Proof of winning a
-	selection test
-	battle.
+	Prova de vitória
+	em uma luta-teste
+	de seleção.
 	"""
 	waitHold
 }
@@ -393,9 +395,9 @@ script 18 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Proof of winning a
-	selection test
-	battle.
+	Prova de vitória
+	em uma luta-teste
+	de seleção.
 	"""
 	waitHold
 }
@@ -413,9 +415,9 @@ script 19 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Proof of winning a
-	selection test
-	battle.
+	Prova de vitória
+	em uma luta-teste
+	de seleção.
 	"""
 	waitHold
 }
@@ -433,9 +435,9 @@ script 20 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A box that can
-	store electricity.
-	Shocks when touched.
+	Caixa capaz de
+	armazenar eletricidade.
+	Dá choque ao ser tocada.
 	"""
 	waitHold
 }
@@ -453,9 +455,9 @@ script 21 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A box that can
-	store electricity.
-	Shocks when touched.
+	Caixa capaz de
+	armazenar eletricidade.
+	Dá choque ao ser tocada.
 	"""
 	waitHold
 }
@@ -473,9 +475,9 @@ script 22 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A box that can
-	store electricity.
-	Shocks when touched.
+	Caixa capaz de
+	armazenar eletricidade.
+	Dá choque ao ser tocada.
 	"""
 	waitHold
 }
@@ -493,9 +495,9 @@ script 23 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A box that can
-	store electricity.
-	Shocks when touched.
+	Caixa capaz de
+	armazenar eletricidade.
+	Dá choque ao ser tocada.
 	"""
 	waitHold
 }
@@ -513,9 +515,9 @@ script 24 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A box that can
-	store electricity.
-	Shocks when touched.
+	Caixa capaz de
+	armazenar eletricidade.
+	Dá choque ao ser tocada.
 	"""
 	waitHold
 }
@@ -533,9 +535,9 @@ script 25 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Beautiful,gem_like
-	data called a
-	MoonStone.
+	Lindos dados parecidos
+	com uma joia chamada
+	Pedra da Lua.
 	"""
 	waitHold
 }
@@ -553,9 +555,8 @@ script 26 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Key to open a
-	cyberdoor in
-	ACDC Area.
+	Chave que abre uma
+	porta na Área ACDC.
 	"""
 	waitHold
 }
@@ -573,9 +574,9 @@ script 27 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Passport between
-	ACDC Area
-	and CentralArea.
+	Passaporte para
+	transitar entre a Área
+	ACDC e a Área Central.
 	"""
 	waitHold
 }
@@ -593,9 +594,8 @@ script 28 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A program with
-	incredible 
-	suction power.
+	Um programa com
+	incrível poder de sucção.
 	"""
 	waitHold
 }
@@ -613,9 +613,9 @@ script 29 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A pocket watch
-	that has often been
-	repaired.
+	Relógio de bolso que
+	já passou por vários
+	reparos.
 	"""
 	waitHold
 }
@@ -633,8 +633,9 @@ script 30 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Tuna Data used
-	to make sushi...
+	Dados de atum,
+	utilizados para
+	fazer sushi...
 	"""
 	waitHold
 }
@@ -652,8 +653,9 @@ script 31 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Salmon Data used
-	to make sushi...
+	Dados de salmão,
+	utilizados para
+	fazer sushi...
 	"""
 	waitHold
 }
@@ -671,8 +673,9 @@ script 32 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Eel Data used
-	to make sushi...
+	Dados de enguia,
+	utilizados para
+	fazer sushi...
 	"""
 	waitHold
 }
@@ -690,8 +693,9 @@ script 33 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Shrimp Data used
-	to make sushi...
+	Dados de camarão,
+	utilizados para
+	fazer sushi...
 	"""
 	waitHold
 }
@@ -709,8 +713,9 @@ script 34 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Herring Data used
-	to make sushi...
+	Dados de arenque,
+	utilizados para
+	fazer sushi...
 	"""
 	waitHold
 }
@@ -728,8 +733,9 @@ script 35 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Yellowtail Data used
-	to make sushi...
+	Dados de olhete,
+	utilizados para
+	fazer sushi...
 	"""
 	waitHold
 }
@@ -747,8 +753,9 @@ script 36 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Urchin Data used
-	to make sushi...
+	Dados de ouriço-do-mar,
+	utilizados para
+	fazer sushi...
 	"""
 	waitHold
 }
@@ -766,8 +773,9 @@ script 37 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Snapper Data used
-	to make sushi...
+	Dados de pargo,
+	utilizados para
+	fazer sushi...
 	"""
 	waitHold
 }
@@ -785,9 +793,8 @@ script 38 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A time capsule
-	stuffed with many
-	memories.
+	Um cápsula do tempo
+	repleta de memórias.
 	"""
 	waitHold
 }
@@ -805,9 +812,9 @@ script 39 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	With this data you
-	can withdraw a fair
-	amount of money.
+	Com estes dados,
+	é possível retirar
+	um bom dinheiro.
 	"""
 	waitHold
 }
@@ -825,9 +832,9 @@ script 40 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Something written in
-	sloppy handwriting,
-	like a letter...
+	Algo escrito com letras
+	apressadas, como uma
+	carta...
 	"""
 	waitHold
 }
@@ -845,9 +852,9 @@ script 41 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Data shaped like a
-	pendant.
-	Seems very old...
+	Dados com o formato
+	de um colar.
+	Parece bem antigo...
 	"""
 	waitHold
 }
@@ -865,16 +872,15 @@ script 42 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A letter to a
-	kidnapper...
+	Uma carta para um
+	sequestrador...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't do the
-	something rude like
-	read its contents...
+	Ler o que tem escrito
+	seria muita grosseria...
 	"""
 	waitHold
 }
@@ -892,9 +898,9 @@ script 43 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Stamp Rally Card.
-	Can be stamped at
-	each pavilion.
+	Cartão da Corrida de
+	Carimbos. Carimbe em
+	cada pavilhão.
 	"""
 	waitHold
 }
@@ -912,14 +918,14 @@ script 44 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Rush's favorite.
-	Highly
-	nutritious.
+	O Rush adora.
+	Altamente
+	nutritivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"In_Hand:"
+	"Possui:"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -941,9 +947,9 @@ script 45 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A CyberAxe from a
-	client.
-	Clearly used often.
+	O Cyber Machado de
+	um cliente. Claramente,
+	é usado com frequência.
 	"""
 	waitHold
 }
@@ -961,9 +967,9 @@ script 46 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A tulip from the
-	flower shop in
-	Green Town.
+	Uma tulipa da
+	floricultura no
+	Distrito Verde.
 	"""
 	waitHold
 }
@@ -981,9 +987,9 @@ script 47 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Update data for the
-	battery tools made
-	by the SciLab.
+	Dados de atualização
+	para as ferramentas de
+	bateria do SciLab.
 	"""
 	waitHold
 }
@@ -1001,8 +1007,7 @@ script 48 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Regular canned
-	coffee.
+	Uma lata de café comum.
 	"""
 	waitHold
 }
@@ -1020,8 +1025,8 @@ script 49 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Seems to be really
-	important data.
+	Parecem ser dados
+	bem importantes.
 	"""
 	waitHold
 }
@@ -1053,8 +1058,8 @@ script 51 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Ornamental key
-	shaped like a bat.
+	Chave ornamental com
+	a forma de um morcego.
 	"""
 	waitHold
 }
@@ -1072,8 +1077,8 @@ script 52 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Only "24823665"
-	is written here.
+	Só o que tem escrito
+	aqui é "24823665".
 	"""
 	waitHold
 }
@@ -1091,9 +1096,9 @@ script 53 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Numbers to change
+	Números para converter
 	"3・3・2・7
-	 3・6・8・9",into
+	 3・6・8・9" em
 	"""
 	keyWait
 		any = false
@@ -1101,7 +1106,7 @@ script 53 mmbn6 {
 	"""
 	"10・10・10・10
 	 10・10・10・10"
-	are written here...
+	estão escritos aqui...
 	"""
 	waitHold
 }
@@ -1119,9 +1124,9 @@ script 54 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	"41976910" is
-	scribbled on this
-	data...
+	Os números "41976910"
+	estão rabiscados
+	nestes dados...
 	"""
 	waitHold
 }
@@ -1139,15 +1144,15 @@ script 55 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A plate in the
-	shape of a penguin.
+	Prato com a forma
+	de um pinguim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something is written
-	on the back...
+	Tem uma coisa
+	escrita atrás...
 	"32132348"
 	"""
 	waitHold
@@ -1165,13 +1170,16 @@ script 56 mmbn6 {
 	positionMugshot
 		left = 30
 		top = 128
-	"A science reference."
+	"""
+	Um livro didático
+	de ciências.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something is written
-	on the spine...
+	Tem uma coisa escrita
+	na lombada...
 	"""
 	keyWait
 		any = false
@@ -1193,9 +1201,9 @@ script 57 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A quiz book.
-	Something's written
-	on the cover...
+	Um livro de perguntas
+	e respostas. Tem uma
+	coisa escrita na capa...
 	"""
 	keyWait
 		any = false
@@ -1217,15 +1225,14 @@ script 58 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	An invitation to
-	the Aquarium.
+	Convite para o Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's something
-	written on the back:
+	Tem uma coisa
+	escrita no verso:
 	"""
 	keyWait
 		any = false
@@ -1247,15 +1254,14 @@ script 59 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Thank you letter
-	from the SciLab.
+	Carta de agradecimento
+	do SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something is written
-	on the back...
+	Tem algo no verso...
 	"RRALLRAABB"
 	"""
 	waitHold
@@ -1274,8 +1280,8 @@ script 60 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Data storing some
-	numbers...
+	Dados que armazenam
+	números específicos...
 	"""
 	keyWait
 		any = false
@@ -1296,14 +1302,13 @@ script 61 mmbn6 {
 	positionMugshot
 		left = 30
 		top = 128
-	"A Science manual."
+	"Um manual de Ciências."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are numbers
-	written on the
-	bookmark.
+	Há números escritos
+	no marca-página:
 	"""
 	keyWait
 		any = false
@@ -1325,13 +1330,13 @@ script 62 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A SoulBattler's
-	emblem.
+	Emblema de um
+	AlmaLutador.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Inscribed with"
+	"Inclui os números:"
 	keyWait
 		any = false
 	clearMsg
@@ -1355,9 +1360,9 @@ script 63 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Data ruins from
-	a portion of
-	a Navi's body.
+	Dados-Ruína da
+	porção do corpo
+	de um Navi.
 	"""
 	waitHold
 }
@@ -1375,8 +1380,8 @@ script 64 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Memory card to
-	store viruses.
+	Cartão de memória
+	para armazenar vírus.
 	"""
 	waitHold
 }
@@ -1394,8 +1399,8 @@ script 65 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	French Fries.
-	Very high calorie.
+	Batatas fritas.
+	Altamente calóricas.
 	"""
 	waitHold
 }
@@ -1413,9 +1418,8 @@ script 66 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	CyberBroadAxe from
-	the Director of the
-	Aquarium.
+	Cyber Machado do
+	diretor do Aquário.
 	"""
 	waitHold
 }
@@ -1433,9 +1437,9 @@ script 67 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Reservation ticket
-	for "CyberWarrior
-	Cybo" action figure.
+	Comprovante de reserva
+	para boneco do
+	"CyberGuerreiro Cybo".
 	"""
 	waitHold
 }
@@ -1453,8 +1457,8 @@ script 68 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	ID Data of a WWW
-	staff member.
+	Dados de identificação
+	de um membro da WWW.
 	"""
 	waitHold
 }
@@ -1472,9 +1476,9 @@ script 69 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	A key bathed in the
-	light of the sun.
-	Feels warm.
+	Chave banhada pela
+	luz do sol. É quente
+	ao toque.
 	"""
 	waitHold
 }
@@ -1492,9 +1496,9 @@ script 70 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Key to open the
-	cyberdoor in
-	SeasideArea3.
+	Chave que abre
+	a porta na Área
+	Beira-Mar 3.
 	"""
 	waitHold
 }
@@ -1512,9 +1516,9 @@ script 80 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Lets you rotate
-	white parts with
-	the L and R Button.
+	Permite rotacionar
+	peças brancas com os
+	botões "L" e "R".
 	"""
 	waitHold
 }
@@ -1532,9 +1536,9 @@ script 81 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Lets you rotate
-	yellow parts with
-	the L and R Button.
+	Permite rotacionar
+	peças amarelas com
+	os botões "L" e "R".
 	"""
 	waitHold
 }
@@ -1552,9 +1556,9 @@ script 82 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Lets you rotate
-	pink parts with
-	the L and R Button.
+	Permite rotacionar
+	peças cor-de-rosa com
+	os botões "L" e "R".
 	"""
 	waitHold
 }
@@ -1572,9 +1576,9 @@ script 83 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Lets you rotate
-	red parts with
-	the L and R Button.
+	Permite rotacionar
+	peças vermelhas com
+	os botões "L" e "R".
 	"""
 	waitHold
 }
@@ -1592,9 +1596,9 @@ script 84 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Lets you rotate
-	blue parts with
-	the L and R Button.
+	Permite rotacionar
+	peças azuis com os
+	botões "L" e "R".
 	"""
 	waitHold
 }
@@ -1612,9 +1616,9 @@ script 85 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Lets you rotate
-	green parts with
-	the L and R Button.
+	Permite rotacionar
+	peças verdes com os
+	botões "L" e "R".
 	"""
 	waitHold
 }
@@ -1632,9 +1636,9 @@ script 96 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Text with code to
-	connect Lab'sComp1
-	to the Net.
+	Documento com o código
+	para ligar o CPU
+	Laboratório à Rede.
 	"""
 	waitHold
 }
@@ -1652,8 +1656,8 @@ script 104 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Aquarium
-	Homepage Banner
+	Banner da Página
+	do Aquário
 	"""
 	waitHold
 }
@@ -1671,8 +1675,8 @@ script 105 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Green Town
-	Homepage Banner
+	Banner da Página
+	do Distrito Verde
 	"""
 	waitHold
 }
@@ -1690,8 +1694,8 @@ script 106 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Sky Town
-	Homepage Banner
+	Banner da Página
+	do Distrito Céu
 	"""
 	waitHold
 }
@@ -1709,8 +1713,8 @@ script 107 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	ACDC Town
-	Homepage Banner
+	Banner da Página
+	do Bairro ACDC
 	"""
 	waitHold
 }
@@ -1719,8 +1723,8 @@ script 112 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Increases max HP
-	+20
+	Aumenta PV máximos
+	em 20
 	"""
 	waitHold
 }
@@ -1729,8 +1733,9 @@ script 113 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Increases NaviCust
-	MemoryMap size
+	Aumenta tamanho do
+	Mapa de Memória do
+	Customizador de Navi
 	"""
 	waitHold
 }
@@ -1739,8 +1744,8 @@ script 114 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Increases chip
-	selection capacity+1
+	Aumenta capacidade de
+	seleção de chips em 1
 	"""
 	waitHold
 }
@@ -1749,8 +1754,8 @@ script 115 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Increases chip
-	selection capacity+2
+	Aumenta capacidade de
+	seleção de chips em 2
 	"""
 	waitHold
 }
@@ -1759,8 +1764,8 @@ script 116 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Increases chip
-	selection capacity+3
+	Aumenta capacidade de
+	seleção de chips em 3
 	"""
 	waitHold
 }
@@ -1769,8 +1774,9 @@ script 117 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Increases SubChip
-	carrying capacity
+	Aumenta capacidade
+	de SubChips que se
+	pode levar
 	"""
 	waitHold
 }
@@ -1784,14 +1790,14 @@ script 128 mmbn6 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Recovers 50HP!"
+	"Restaura 50 PV!"
 	waitHold
 }
 script 129 mmbn6 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Recovers max HP!"
+	"Restaura todos os PV!"
 	waitHold
 }
 script 130 mmbn6 {
@@ -1799,9 +1805,9 @@ script 130 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Won't encounter
-	weak viruses
-	for a while.
+	Fica sem encontrar
+	vírus fracos por um
+	tempo.
 	"""
 	waitHold
 }
@@ -1809,7 +1815,10 @@ script 131 mmbn6 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Removes traps \non mystery data."
+	"""
+	Remove armadilhas de
+	dados misteriosos.
+	"""
 	waitHold
 }
 script 132 mmbn6 {
@@ -1817,8 +1826,9 @@ script 132 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	More likely to
-	meet last enemy.
+	Aumenta as chances
+	de re-encontrar o
+	último vírus.
 	"""
 	waitHold
 }
@@ -1827,8 +1837,8 @@ script 133 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Unlocks mystery
-	data.
+	Desbloqueia dados
+	misteriosos.
 	"""
 	waitHold
 }
@@ -1836,7 +1846,7 @@ script 134 mmbn6 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"All SubChips."
+	"Todos os SubChips."
 	waitHold
 }
 script 144 mmbn6 {
@@ -1853,15 +1863,15 @@ script 144 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Large data with a
-	suspicious aura.
+	Dados grandes com
+	uma aura suspeita.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Inscribed in
-	red with
+	Nele, há letras
+	escritas em vermelho:
 	"BLBLARLRBB"
 	"""
 	waitHold

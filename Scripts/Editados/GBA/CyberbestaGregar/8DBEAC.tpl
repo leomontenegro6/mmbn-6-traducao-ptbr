@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Iris...isn't here?"
+	"A Iris... não tá aqui?"
 	keyWait
 		any = false
 	clearMsg
@@ -19,7 +19,7 @@ script 1 mmbn6 {
 	controlLock
 	soundPlay
 		track = 417
-	"*clank!!*"
+	"Clenc!!"
 	wait
 		frames = 33
 	soundEnableTextSFX
@@ -43,13 +43,13 @@ script 3 mmbn6 {
 	controlLock
 	soundPlay
 		track = 417
-	"*clank*"
+	"Clenc"
 	wait
 		frames = 33
 	"\n"
 	soundPlay
 		track = 417
-	"*clank!!*"
+	"Clenc!!"
 	wait
 		frames = 33
 	soundEnableTextSFX
@@ -63,8 +63,7 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	W_What's that
-	sound!?
+	Q-que barulho é esse?!
 	"""
 	keyWait
 		any = false
@@ -76,13 +75,13 @@ script 5 mmbn6 {
 	controlLock
 	soundPlay
 		track = 417
-	"*clank*"
+	"Clenc"
 	wait
 		frames = 33
 	"\n"
 	soundPlay
 		track = 417
-	"*clank!!*"
+	"Clenc!!"
 	wait
 		frames = 33
 	soundEnableTextSFX
@@ -96,17 +95,16 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sounds like there's
-	something in the
-	closet...
+	Parece que tem alguma
+	coisa no armário...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if that guy
-	from before is
-	hiding in there...
+	Será que aquele cara
+	de antes se escondeu
+	nele...?
 	"""
 	keyWait
 		any = false
@@ -119,16 +117,16 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm worried about
-	Iris,
+	Eu tô preocupado
+	com a Iris,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I think you
-	should check out
-	the locker first...
+	mas talvez seja melhor
+	você conferir o
+	armário primeiro...
 	"""
 	keyWait
 		any = false
@@ -140,7 +138,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Y_Yeah..."
+	"T-tá..."
 	keyWait
 		any = false
 	end

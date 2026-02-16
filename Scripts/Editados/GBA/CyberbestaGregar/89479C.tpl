@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Hey! Where you think
-	you're goin? We got
-	nothin to do there!!
+	Aí! Aonde cê pensa
+	que vai? A gente não
+	tem nada pra fazer aí!
 	"""
 	keyWait
 		any = false
@@ -19,9 +19,9 @@ script 1 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Hey! Where you goin?
-	You got nothin' to
-	do over there!
+	Aí! Aonde é que cê vai?!
+	Não tem nada pra fazer
+	aí, não!
 	"""
 	keyWait
 		any = false
@@ -32,23 +32,24 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Since this area is
-	connected to many
-	different areas,
+	Como esta área
+	é ligada a várias
+	áreas diferentes,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	many people pass
-	through here.
+	muita gente
+	passa por aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thus,we have to
-	increase patrols...
+	Portanto, temos
+	que intensificar
+	as patrulhas...
 	"""
 	keyWait
 		any = false
@@ -59,16 +60,16 @@ script 3 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO CENTRAL
-	AREA3!
+	BEM-VINDO À
+	ÁREA CENTRAL 3!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PLEASE TAKE CARE NOT
-	TO FALL WHEN WALKING
-	NEAR THE LARGE HOLE.
+	POR FAVOR, CUIDADO
+	PARA NÃO CAIR AO SE
+	APROXIMAR DO BURACO.
 	"""
 	keyWait
 		any = false
@@ -79,8 +80,8 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO CENTRAL
-	AREA3!
+	BEM-VINDO À
+	ÁREA CENTRAL 3!
 	"""
 	keyWait
 		any = false
@@ -91,9 +92,9 @@ script 6 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	I'm working on my
-	legs...
-	One! Two! One! Two!
+	Eu tô treinando
+	perna hoje...
+	Um! Dois! Um! Dois!
 	"""
 	keyWait
 		any = false
@@ -104,16 +105,16 @@ script 7 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M A HUGE RAILROAD
-	FAN...
+	EU SOU MUITO FÃ
+	DE FERROVIAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE TRAIN ON THESE
-	TRACKS ARE FAMOUS
-	AND MAGNIFICENT!
+	OS TRENS DESTES
+	TRILHOS SÃO FAMOSOS
+	E MAGNÍFICOS!
 	"""
 	keyWait
 		any = false
@@ -124,23 +125,24 @@ script 8 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE NEXT STATION
-	HAS ITEMS TO BE
+	A PRÓXIMA ESTAÇÃO
+	TEM OBJETOS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DELIVERED TO
-	SEASIDEAREA3.
+	MARCADOS PARA SEREM
+	ENTREGUES À ÁREA
+	BEIRA-MAR 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT IS SOMEWHAT FAR
-	SO TRAINS ARE THE
-	BEST WAY TO GO.
+	COMO É MEIO LONGE,
+	OS TRENS SÃO A MELHOR
+	OPÇÃO PARA ISSO.
 	"""
 	keyWait
 		any = false
@@ -151,14 +153,14 @@ script 9 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THANKS TO THESE
-	RAILROADS,MOVING
-	AROUND IS EASY!!
+	GRAÇAS A ESTES
+	TRENS, É FÁCIL
+	SE LOCOMOVER!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ISN'T IT GREAT!!"
+	"NÃO É INCRÍVEL?!!"
 	keyWait
 		any = false
 	end
@@ -182,14 +184,14 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Please hold."
+	"Um momento, por favor."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To pass through,you
-	must present an
-	AreaPass.
+	Para passar aqui, é
+	preciso apresentar
+	um PassÁrea.
 	"""
 	keyWait
 		any = false
@@ -200,8 +202,8 @@ script 11 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Please show your
-	AreaPass!
+	Por favor, apresente
+	seu PassÁrea!
 	"""
 	keyWait
 		any = false
@@ -209,14 +211,14 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	That should be the
-	thing we just got
-	from Roll.
+	Deve ser aquele
+	negócio que a gente
+	recebeu da Roll.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...Here."
+	"... Aqui."
 	keyWait
 		any = false
 	clearMsg
@@ -228,12 +230,12 @@ script 11 mmbn6 {
 		item = 27
 	"""
 	"
-	confirmed.
+	confirmado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Move along..."
+	"Prossiga..."
 	keyWait
 		any = false
 	flagSet
@@ -244,33 +246,38 @@ script 11 mmbn6 {
 }
 script 12 mmbn6 {
 	msgOpen
-	"*BEEP,"
+	"BIP  "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP,"
+	"BIP  "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP"
+	"BIP"
 	soundPlay
 		track = 205
-	"!!*"
+	"!!"
 	wait
 		frames = 40
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Due to an emergency,
-	the road is closed.
+	Por razões de
+	emergência, a
+	estrada está fechada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please jack out now."
+	"""
+	Por favor,
+	desconecte-se
+	de imediato.
+	"""
 	keyWait
 		any = false
 	end
@@ -283,14 +290,14 @@ script 15 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	So frustrating!!!!
-	Hey! You! You're
-	stressing me out!!
+	Que FRUSTRAÇÃO!!!!
+	Aí! Tu! Tu tá me
+	estressando!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"YAAARRGGHHHH!!"
+	"IIIÁÁÁÁÁ!!"
 	keyWait
 		any = false
 	clearMsg
@@ -305,8 +312,9 @@ script 16 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	Oops...
-	I overdid it...
+	Opa...
+	Acabei passando
+	do limite...
 	"""
 	keyWait
 		any = false
@@ -336,16 +344,16 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	We did it!
-	We got rid of
-	the bad guys!!
+	Conseguimos!
+	A gente acabou
+	com os bandidos!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get back to
-	the requestor!
+	Vamos voltar lá
+	pro solicitante!
 	"""
 	keyWait
 		any = false
@@ -355,7 +363,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	msgOpen
-	"Sawhhhghghhh..."
+	"Sahhhghghhh..."
 	keyWait
 		any = false
 	end
@@ -365,17 +373,17 @@ script 18 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	HAHAHAHA!!
-	I can't stop
-	spreading viruses!!
+	HA HA HA HA!!
+	Não quero nunca parar
+	de espalhar vírus!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey! You!
-	You're my virus'
-	next victim!!
+	Aí! Tu aí!
+	Tu é a próxima vítima
+	dos meus vírus!!
 	"""
 	keyWait
 		any = false
@@ -390,8 +398,8 @@ script 19 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	My virus....
-	Gone...
+	Os meu vírus...
+	Já eram...
 	"""
 	keyWait
 		any = false
@@ -421,16 +429,16 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	We did it!
-	We got rid of
-	the bad guys!!
+	Conseguimos!
+	A gente acabou
+	com os bandidos!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get back to
-	the requestor!
+	Vamos voltar lá
+	pro solicitante!
 	"""
 	keyWait
 		any = false
@@ -440,7 +448,7 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	msgOpen
-	"Waaahhggghhhh..."
+	"Aaaahhggghhhh..."
 	keyWait
 		any = false
 	end

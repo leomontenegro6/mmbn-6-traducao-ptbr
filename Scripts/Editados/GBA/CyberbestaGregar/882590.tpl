@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"*Squawk!*"
+	"Quén!"
 	keyWait
 		any = false
 	end
@@ -11,15 +11,14 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	When a turtle comes
-	out of the water,
+	Quando uma tartaruga
+	está fora d'água,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it looks like
-	a rock...
+	parece uma pedra...
 	"""
 	keyWait
 		any = false
@@ -30,9 +29,9 @@ script 5 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Hey Grandpa!
-	I wanna pet
-	dolphin!
+	Vovô! Vovô!
+	Eu quero fazer
+	carinho no golfinho!
 	"""
 	keyWait
 		any = false
@@ -40,8 +39,8 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Hahaha! Don't be
-	silly...
+	Ha ha ha!
+	Você fala cada coisa...
 	"""
 	keyWait
 		any = false
@@ -52,22 +51,22 @@ script 6 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	This is the area
-	we use to breed
+	Esta é a área que usamos
+	para a reprodução de
+	animais grandes que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	large animals that
-	live in the water.
+	vivem na água.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's filled with
-	rarely seen animals!
+	É repleta de animais
+	raros de se ver!
 	"""
 	keyWait
 		any = false
@@ -78,13 +77,14 @@ script 7 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	That seal looks like
-	it weighs two tons!!
+	Esta foca... Ela
+	parece pesar umas
+	duas toneladas!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's big... Too big!"
+	"É grande... Colossal!"
 	keyWait
 		any = false
 	end
@@ -102,25 +102,24 @@ script 8 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	This is the
-	auditorium for the
-	show...
+	Aqui fica o
+	palco do show...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,we are
-	still getting ready
-	for the show.
+	Na verdade, ainda
+	estamos preparando as
+	coisas pra apresentação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't mind
-	waiting,it will
-	be starting soon...
+	Desculpe o incômodo,
+	mas poderia esperar?
+	Logo ela começa.
 	"""
 	keyWait
 		any = false
@@ -131,16 +130,15 @@ script 9 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	This is the
-	auditorium for the
-	show...
+	Aqui fica o
+	palco do show...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today's show
-	just finished.
+	Mas a apresentação
+	de hoje já acabou.
 	"""
 	keyWait
 		any = false
@@ -151,8 +149,8 @@ script 10 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The show is about
-	to begin! Enjoy!
+	O show está pra começar!
+	Aproveite!
 	"""
 	keyWait
 		any = false

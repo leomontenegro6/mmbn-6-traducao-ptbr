@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Count
 	msgOpen
-	"Noooooooo!"
+	"Nãããããããooo!"
 	keyWait
 		any = false
 	clearMsg
@@ -16,7 +16,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You're...Django!"
+	"Você é o... Django!"
 	keyWait
 		any = false
 	clearMsg
@@ -29,8 +29,7 @@ script 2 mmbn6 {
 	msgOpen
 	"""
 	MegaMan!
-	We're gonna fall
-	back for now!
+	Vamos recuar por ora!
 	"""
 	keyWait
 		any = false
@@ -42,7 +41,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Uh,right!"
+	"Er, tá!"
 	keyWait
 		any = false
 	clearMsg
@@ -54,8 +53,8 @@ script 4 mmbn6 {
 		mugshot = Count
 	msgOpen
 	"""
-	Curse you...
-	Solar Boy!
+	Maldito seja...
+	Garoto Solar!
 	"""
 	keyWait
 		any = false
@@ -67,14 +66,15 @@ script 5 mmbn6 {
 	msgOpen
 	"""
 	Django...
-	why are you here?
+	O que você tá
+	fazendo aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the Count,
-	on top of that...
+	E o Conde também,
+	ainda por cima...
 	"""
 	keyWait
 		any = false
@@ -87,47 +87,46 @@ script 6 mmbn6 {
 		mugshot = Django
 	msgOpen
 	"""
-	When the Count passed
-	through the portal
-	to this world,
+	Quando o Conde
+	atravessou o portal
+	para este mundo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I went after him from
-	San Miguel to stop him.
+	eu parti de San Miguel
+	atrás dele para detê-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But this area is
-	completely devoid
-	of light...
+	Mas está área é
+	completamente sem luz...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So the Count,who is
-	a dweller of darkness,
-	has grown stronger.
+	Portanto, o Conde, que é
+	um habitante das trevas,
+	ficou mais forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,my power alone
-	isn't enough to
-	stop him anymore...
+	No momento, o meu poder
+	somente não é mais o
+	bastante pra detê-lo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But...that's not
-	the only problem.
+	E... esse não é
+	o único problema.
 	"""
 	keyWait
 		any = false
@@ -139,7 +138,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Another problem?"
+	"Tem outro problema?"
 	keyWait
 		any = false
 	clearMsg
@@ -151,31 +150,29 @@ script 8 mmbn6 {
 		mugshot = Django
 	msgOpen
 	"""
-	Otenko has been
-	sealed away
-	somewhere...
+	O Otenko foi selado
+	em algum lugar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This must be the
-	Count's doing!
+	Obra do Conde,
+	com certeza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If only I had Otenko's
-	power of sunlight,
+	Se, ao menos, eu tivesse
+	o poder solar do Otenko,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I might be able to
-	suppress the
-	Count's power...
+	talvez pudesse suprimir
+	os poderes do Conde...
 	"""
 	keyWait
 		any = false
@@ -187,7 +184,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Django,let us help you!"
+	"Django, deixa a\ngente te ajudar!"
 	keyWait
 		any = false
 	clearMsg
@@ -198,7 +195,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Django
 	msgOpen
-	"I don't know..."
+	"Não sei..."
 	keyWait
 		any = false
 	clearMsg
@@ -210,17 +207,16 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't worry about it.
-	We're friends,
-	after all!
+	Não se preocupa.
+	Nós somos amigos, afinal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is our world.
-	We all have to work
-	hard to protect it!
+	Este mundo é nosso.
+	Temos todos que nos
+	empenhar para protegê-lo!
 	"""
 	keyWait
 		any = false
@@ -237,8 +233,8 @@ script 12 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Thanks!
-	Lend me your power!
+	Obrigado!
+	Aceito a sua ajuda!
 	"""
 	keyWait
 		any = false
@@ -250,21 +246,20 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Alright!"
+	"Certo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's look for Master
-	Otenko right away!
+	Vamos procurar pelo
+	Mestre Otenko agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Django,do you have
-	any idea where
-	he could be?
+	Django, faz alguma ideia
+	de onde ele possa estar?
 	"""
 	keyWait
 		any = false
@@ -277,17 +272,17 @@ script 14 mmbn6 {
 		mugshot = Django
 	msgOpen
 	"""
-	I don't think the
-	Count can access any
-	other areas yet.
+	Eu não acho que o
+	Conde consegue acessar
+	outras áreas ainda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So Master Otenko is
-	probably somewhere in
-	the Undernet.
+	Então o Master Otenko
+	deve estar em algum
+	ponto da Undernet.
 	"""
 	keyWait
 		any = false
@@ -300,13 +295,13 @@ script 15 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Somewhere in the
-	Undernet...
+	Em algum ponto
+	da Undernet...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Got it! I'll go look."
+	"Beleza! Eu vou procurar."
 	keyWait
 		any = false
 	clearMsg
@@ -317,7 +312,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Django
 	msgOpen
-	"MegaMan,take this..."
+	"MegaMan, tome..."
 	keyWait
 		any = false
 	clearMsg
@@ -333,7 +328,7 @@ script 17 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -356,7 +351,7 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What's this?"
+	"O que é isto?"
 	keyWait
 		any = false
 	clearMsg
@@ -368,31 +363,29 @@ script 19 mmbn6 {
 		mugshot = Django
 	msgOpen
 	"""
-	With that key,you
-	should be able to
-	free Master Otenko.
+	Com essa chave, você
+	deve ser capaz de
+	libertar o Mestre Otenko.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please save
-	Master Otenko from
-	the Count's curse!
+	Por favor, salve ele
+	da maldição do Conde!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,I'm
-	counting on you!
+	MegaMan, conto com você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"I'm on it!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	end

@@ -6,15 +6,15 @@ script 0 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Hey,stop it you
-	guys,that's enough!!
+	Ô, pode parar, gente!
+	Já deu!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're gonna hurt
-	the teachers!!
+	Assim, cês vão
+	machucar os professores!
 	"""
 	keyWait
 		any = false
@@ -25,8 +25,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mick! Hurry up and
-	shut them down!
+	Mick!
+	Rápido, desliga eles!
 	"""
 	keyWait
 		any = false
@@ -38,13 +38,13 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"I_I'm trying!"
+	"E-eu tô tentando!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But they're not
-	listening to me!!
+	Mas eles não
+	me obedecem!
 	"""
 	keyWait
 		any = false
@@ -57,9 +57,9 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But aren't they
-	being controlled by
-	your Navi!?
+	Ué, eles não tão
+	sendo controlados
+	pelo SEU Navi?!
 	"""
 	keyWait
 		any = false
@@ -71,7 +71,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Y_Yeah..."
+	"T-tão..."
 	keyWait
 		any = false
 	end
@@ -81,15 +81,14 @@ script 5 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Stop it,BlastMan!
+	Para com isso, BlastMan!
 	BlastMan!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're going
-	overboard!
+	Cê tá indo além da conta!
 	"""
 	keyWait
 		any = false
@@ -106,15 +105,14 @@ script 6 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Isn't this what
-	you wished for?
+	Não era isso
+	que você queria?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Didn't you want to
-	shake them up?
+	Dar um "sacode" neles?
 	"""
 	keyWait
 		any = false
@@ -127,16 +125,16 @@ script 7 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	All I wanted to do
-	was scare Lan and
-	the others a little!
+	Eu só queria era
+	assustar o Lan e os
+	outros um pouquinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't want
-	it to go this far!
+	Não era pra ir
+	tão longe assim!
 	"""
 	keyWait
 		any = false
@@ -148,27 +146,28 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = BlastMan
 	msgOpen
-	"Hmph,coward!"
+	"Hmpf. Covarde!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe you should
-	run away!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But I'm going to
-	do what I want!
+	Bom, se quiser fugir,
+	fique à vontade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can suffer too,
-	for all I care!
+	Mas EU vou fazer
+	o que EU quero!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ou você pode queimar
+	também. Pra mim, dá
+	na mesma!
 	"""
 	keyWait
 		any = false
@@ -178,7 +177,7 @@ script 8 mmbn6 {
 	controlLock
 	soundPlay
 		track = 220
-	"*click!!*"
+	"Clic!"
 	soundEnableTextSFX
 	controlUnlock
 	keyWait
@@ -191,13 +190,13 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"BlastMan,BlastMan!"
+	"BlastMan! BlastMan!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Darn it...
-	He cut me off...
+	Droga...
+	Ele se desconectou...
 	"""
 	keyWait
 		any = false
@@ -215,7 +214,7 @@ script 10 mmbn6 {
 	controlLock
 	soundPlay
 		track = 211
-	"*wham!!*"
+	"Brraammm!"
 	soundEnableTextSFX
 	controlUnlock
 	keyWait
@@ -226,7 +225,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ahh! We're trapped!"
+	"Ahh! A gente tá cercado!"
 	keyWait
 		any = false
 	clearMsg
@@ -245,7 +244,7 @@ script 12 mmbn6 {
 		frames = 50
 	"\n"
 	controlUnlock
-	"The heat!!"
+	"Que calor...!!"
 	keyWait
 		any = false
 	end
@@ -254,7 +253,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"This is the end..."
+	"É o nosso fim..."
 	keyWait
 		any = false
 	clearMsg
@@ -266,14 +265,13 @@ script 14 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	*huff,huff...*
-	Don't give up,
-	everyone...
+	Uff.. Uff...
+	Não desiste, gente...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*huff,huff...*"
+	"Urf... Arf..."
 	keyWait
 		any = false
 	end
@@ -282,7 +280,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Where's BlastMan!?"
+	"Cadê o BlastMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -294,16 +292,16 @@ script 16 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	I don't care how
-	many NetBattles
-	you've fought...
+	Olha, por mais
+	NetLuta que cê
+	tenha encarado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you can't win
-	against BlastMan.
+	é impossível cê
+	vencer o BlastMan.
 	"""
 	keyWait
 		any = false
@@ -316,23 +314,23 @@ script 17 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And I don't care
-	how strong he is!
+	Tô pouco me
+	lixando pra isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've gotta do
-	something before
-	it's too late!!
+	Eu TENHO que fazer
+	alguma coisa, antes
+	que seja tarde demais!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you wanna help,
-	tell me where he is!
+	Se quiser ajudar,
+	então fala onde ele tá!
 	"""
 	keyWait
 		any = false
@@ -345,8 +343,8 @@ script 18 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	He's in that control
-	system...
+	Ele tá no sistema
+	de controle...
 	"""
 	keyWait
 		any = false
@@ -356,7 +354,7 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go,MegaMan!!"
+	"Bora, MegaMan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -381,13 +379,13 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock

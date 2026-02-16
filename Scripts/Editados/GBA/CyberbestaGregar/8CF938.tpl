@@ -5,14 +5,14 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"Oh,hey,Lan!"
+	"Ah, aí tá você, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,let's get my
-	awesome class on the
-	road!!
+	OK, hora de dar
+	a largada na minha
+	aula radical!!
 	"""
 	keyWait
 		any = false
@@ -25,8 +25,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't hold
-	back on me!
+	Nem pense em
+	pegar leve comigo!
 	"""
 	keyWait
 		any = false
@@ -39,110 +39,75 @@ script 2 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Heh,don't worry,I
-	won't! I'll show
-	ya!
+	He, relaxa, eu
+	nunca faria isso!
+	Vou te mostrar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When ya go up
-	against fire,yer in
-	for one hot battle!
+	Quando se encara fogo,
+	a chapa da luta
+	esquenta bonito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,yeah. Hey,do ya
-	know about the
-	CrossSystem yet?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"CrossSystem...?"
-	keyWait
-		any = false
-	clearMsg
-	"... Uh,nope."
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = MrMatch
-	"""
-	Ok,listen up. The
-	CrossSystem is the
-	newest thing.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	With this new
-	technology,ya can
-	take one Navi's
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	skills and let a
-	different Navi use
-	them!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	So basically,with
-	this system,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	MegaMan can use
-	HeatMan's flame
-	skills! Cool,huh?
+	Ah, é mesmo.
+	Ei, você já ouviu falar
+	do Sistema Cruzado?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"""
-	Yeah,that's
-	pretty neat!
-	"""
+	"Sistema Cruzado...?"
+	keyWait
+		any = false
+	clearMsg
+	"... Er, não."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	But to be able to
-	get that other
-	Navi's power,
+	Tá, atenção.
+	O Sistema Cruzado é o
+	grande lance do momento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and make it yer
-	own Navi's,
+	Com essa nova
+	tecnologia, você pode
+	pegar as habilidades
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you've gotta learn
-	the basics of that
-	skill.
+	de um Navi e fazer um
+	Navi diferente usá-las!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Basicamente,
+	com esse sistema,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	o MegaMan pode usar
+	as habilidades de fogo
+	do HeatMan! Legal, né?
 	"""
 	keyWait
 		any = false
@@ -150,16 +115,48 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	So,this class we're
-	having is for me to
-	learn the basics!?
+	Caramba, é bem
+	da hora mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrMatch
-	"Bingo,kid!"
+	"""
+	Mas, pra adquirir o
+	poder desse outro Navi
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e adotá-lo no seu
+	próprio Navi,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	primeiro você precisa
+	aprender os básicos
+	da habilidade.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"""
+	Então esta aula é pra
+	eu aprender o básico?!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = MrMatch
+	"Bingo, garoto!"
 	keyWait
 		any = false
 	clearMsg
@@ -171,23 +168,23 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,when it comes
-	to fire,you're the
-	expert.
+	Bom, você realmente é
+	o "expert" quando se
+	trata de fogo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure we can
-	learn a lot...
+	Acho que vai dar
+	pra gente aprender
+	muita coisa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's give it a
-	shot,MegaMan!
+	Bora encarar, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -200,16 +197,16 @@ script 4 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Sorry,kid,but in
-	this class,ya can't
-	use MegaMan.
+	Desculpa, garoto, mas,
+	pra essa aula, você não
+	pode usar o MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Instead,I'm gonna
-	let ya use HeatMan!
+	Em vez disso, eu vou
+	te emprestar o HeatMan!
 	"""
 	keyWait
 		any = false
@@ -222,8 +219,8 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What!? HeatMan!?
-	You want me to...
+	O quê?! O HeatMan?!
+	Você quer que eu...
 	"""
 	keyWait
 		any = false
@@ -235,36 +232,36 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"Yup."
+	"Aham."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If ya wanna learn to
-	play with fire,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	nothing beats using
-	a real,bona fide
-	fire Navi!
+	Se quer aprender
+	a brincar com fogo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	See that comp?
-	HeatMan's in there,
-	so go give it a try.
+	não tem jeito melhor
+	que usar um Navi de
+	Fogo genuíno!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,before ya do,
-	take this.
+	Tá vendo aquele
+	computador? O HeatMan
+	tá nele. Experimenta.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ah, mas, antes
+	disso, toma.
 	"""
 	keyWait
 		any = false
@@ -281,7 +278,7 @@ script 7 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -305,16 +302,16 @@ script 8 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	You'll need that to
-	get onto the Net.
+	Vai precisar disso
+	pra entrar na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,now go stand in
-	front of that comp
-	and let's burn!
+	Tá, agora vai pra
+	aquele computador e
+	acende esse fósforo!
 	"""
 	keyWait
 		any = false
@@ -322,8 +319,8 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	... Guess I'll give
-	it a try!
+	... Bom, acho que
+	eu vou tentar, né?
 	"""
 	keyWait
 		any = false

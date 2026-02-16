@@ -19,17 +19,16 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	this is it!
-	The final battle!
+	Lan, chegou a hora!
+	A batalha final!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once you go through
-	the door,you can't
-	save. Are you ready?
+	Depois que passar por
+	essa porta, não vai dar
+	pra salvar. Tá pronto?
 	"""
 	keyWait
 		any = false
@@ -45,7 +44,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -54,7 +53,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -68,7 +67,7 @@ script 0 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Let's go Lan!!"
+	"Vamos lá, Lan!!"
 	keyWait
 		any = false
 	flagSet
@@ -81,14 +80,14 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once you're done
-	getting ready,we'll
-	head off!!
+	Assim que você se
+	sentir pronto, vamos
+	entrar lá!!
 	"""
 	keyWait
 		any = false
@@ -99,23 +98,23 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's going on?
-	I feel so nervous...
+	O que tá acontecendo?
+	Eu tô tão nervoso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	...
-	Yeah...
+	É...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The only one I can
-	trust with my life
-	is MegaMan!!
+	O único em quem eu posso
+	confiar com a minha vida
+	é o MegaMan!!
 	"""
 	keyWait
 		any = false

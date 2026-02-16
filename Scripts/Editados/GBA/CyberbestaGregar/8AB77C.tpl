@@ -10,29 +10,27 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I've found a virus
-	in the control
-	panel,Lan!
+	Eu achei um vírus no
+	painel de controle, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Watch my back,
-	partner!
+	Conto com você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Leave it to me!!"
+	"Deixa comigo!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Let's go!!"
+	"Vamos lá!!"
 	keyWait
 		any = false
 	flagSet
@@ -42,9 +40,8 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The control panel
-	has returned to
-	normal.
+	O painel de controle
+	voltou ao normal.
 	"""
 	keyWait
 		any = false

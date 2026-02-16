@@ -28,123 +28,111 @@ script 0 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	...I'm the one who
-	posted on the
-	RequestBBS.
+	... Fui eu quem botou
+	o pedido no quadro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please don't think
-	I'm suspicious
+	Por favor, não pense que
+	eu sou bandido só por
+	causa da minha aparência.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	because I look like
-	this... Please...
+	Digo, é verdade que
+	que ERA membro de uma
+	gangue antigamente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is true that just
-	a while back I was a
-	gang member...
+	mas eu deixei essa
+	vida pra trás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now I've washed
-	my hands of that
-	lifestyle.
+	De agora em diante,
+	eu só quero ser um
+	bom cidadão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	From now on I want
-	to be a good
-	citizen...
+	Então relaxe, o meu
+	pedido é bem normal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So don't worry,my
-	request is really
-	normal...
+	... Na verdade, eu
+	tenho uma filha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...The truth is
-	that I have a
-	daughter...
+	Como eu tava naquela
+	gangue, já faz 10 anos
+	que não vejo ela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Since I was in a
-	gang,I haven't seen
-	her in 10 years.
+	Eu nem faço ideia
+	de onde ela mora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have no idea
-	where she even
-	lives.
+	Mas lembro de uma
+	coisa sobre ela...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I do remember
-	one thing about
-	her...
+	Que hoje é o
+	aniversário dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today is her
-	birthday.
+	... Ela tá
+	fazendo 20 anos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...She will be
-	20 years old today.
+	Eu só quero dar os
+	parabéns pra ela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just want to
-	tell her
-	congratulations.
+	E é por isso que
+	eu quero que você
+	encontre ela...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I want
-	you to find her...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	That's my request.
-	Can you help me?
+	Esse é o meu pedido.
+	Pode me ajudar?
 	"""
 	keyWait
 		any = false
@@ -152,73 +140,65 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You've got a
-	scary face,but...
+	Você tem é meio
+	mal-encarado, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One look in your
-	eyes tells me you're
-	not an evil Navi.
+	Dá pra ver só de olhar
+	nos seus olhos que você
+	não é um Navi mau.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Leave this to me!
-	I'll find your
-	daughter!!
+	Tá, deixa comigo!
+	Eu acho a sua filha!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Thank you..."
+	"Obrigado..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A long time ago,
-	I did get to
-	talk to her.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	She said she was
-	studying about
+	Eu consegui falar
+	com ela uma vez,
+	muito tempo atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	environmental issues
-	at a university...
+	Ela disse que tava
+	estudando o meio ambiente
+	numa universidade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So she should be
-	somewhere around
-	Green Area...
+	então ela deve estar
+	pela Área Verde.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you find her,
-	tell her I am
-	waiting here.
+	Se encontrar ela, fala
+	que eu tô esperando por
+	ela aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please..."
+	"Por favor..."
 	keyWait
 		any = false
 	end
@@ -228,52 +208,45 @@ script 1 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I'd like you to find
-	my daughter...
-	That's my request...
+	Eu gostaria que você
+	achasse a minha filha...
+	Esse é o meu pedido...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A long time ago,
-	I did get to
-	talk to her.
+	Eu consegui falar
+	com ela uma vez,
+	muito tempo atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She said she was
-	studying about
+	Ela disse que tava
+	estudando o meio ambiente
+	numa universidade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	environmental issues
-	at a university...
+	então ela deve estar
+	pela Área Verde.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So she should be
-	somewhere around
-	Green Area...
+	Se encontrar ela, fala
+	que eu tô esperando por
+	ela aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	If you find her,
-	tell her I am
-	waiting here.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Please..."
+	"Por favor..."
 	keyWait
 		any = false
 	end
@@ -285,117 +258,115 @@ script 2 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Thanks to you I
-	met my daughter!
+	Graças a você,
+	eu me encontrei
+	com a minha filha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I never thought I
-	could feel this
-	happy! Thank you!!
+	Eu nunca achei que ia
+	sentir tanta felicidade
+	na vida! Obrigado!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But honestly,it
-	didn't go as well
-	as I thought...
+	Mas, pra ser sincero, as
+	coisas não foram tão bem
+	quanto eu esperava...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I told you earlier
-	I was in a gang...
+	Eu falei antes que eu
+	tava numa gangue, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was just a member
-	of that group...
+	Eu era só um membro
+	comum dela...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But when I left,
-	there was a big
-	fight.
+	mas, quando eu saí,
+	deu uma briga feia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even today,my old
-	friends still come
-	back to haunt me...
+	Até hoje, meus velhos
+	parças ainda vêm pra
+	me assombrar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And now,I just got
-	an e_mail from
-	these old "friends".
+	E eu recebi um e-mail
+	de um deles ainda agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They wrote:
-	"Let's finish this!
-	With your daughter!"
+	Tava escrito:
+	"Bora pôr um fim nisso!
+	Com a tua filha!"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like
-	they've come this
-	far to get to me...
+	Parece que eles se
+	rebaixaram até a isso
+	pra se vingar de mim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I've worked so
-	hard...
+	E eu ralei tanto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I even saw my
-	daughter... I have
-	nothing left to do.
+	Até vi a minha
+	filha... Não me
+	sobrou mais nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's easy for me to
-	see right and wrong
-	now...
+	Agora, tá bem claro
+	pra mim a coisa certa
+	a se fazer agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If this is going to
-	be a battleground,
-	you should run...
+	Se isso acabar virando
+	um campo de batalha,
+	melhor você fugir...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry I can't
-	reward you. All I
-	can say is thanks.
+	Desculpa eu não poder
+	te dar sua recompensa.
+	Só posso agradecer...
 	"""
 	keyWait
 		any = false
@@ -406,48 +377,47 @@ script 3 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Even today,my old
-	friends still come
-	back to haunt me...
+	Até hoje, meus velhos
+	parças ainda vêm pra
+	me assombrar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like
-	they've come this
-	far to get to me...
+	Parece que eles se
+	rebaixaram até a isso
+	pra se vingar de mim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I've worked so
-	hard...
+	E eu ralei tanto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I even saw my
-	daughter... I have
-	nothing left to do.
+	Até vi a minha
+	filha... Não me
+	sobrou mais nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If this is going to
-	be a battleground,
-	you should run...
+	Se isso acabar virando
+	um campo de batalha,
+	melhor você fugir...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry I can't
-	reward you. All I
-	can say is thanks.
+	Desculpa eu não poder
+	te dar sua recompensa.
+	Só posso agradecer...
 	"""
 	keyWait
 		any = false
@@ -460,63 +430,60 @@ script 4 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	...You're still
-	here?
+	... Você ainda tá aqui?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You sure are a
-	brave one...
+	Valente, você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh!? You defeated
-	the guys that were
-	after me?
+	O quê?! Você venceu
+	os caras que tavam
+	atrás de mim?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can't believe it!"
+	"Não acredito!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I can live
-	without having to
-	run...
+	Agora eu posso viver
+	sem ter que fugir...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wow..."
+	"Nossa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's like I've
-	gotten a 2nd
-	chance at life...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Thank you!
-	This is all thanks
-	to you!!
+	É como se eu tivesse
+	recebido uma segunda
+	chance de viver...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take this as a
-	small token of my
-	gratitude!
+	Obrigado!
+	Isso é tudo graças
+	a você!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tome, aceite.
+	Uma pequena amostra
+	da minha gratidão!
 	"""
 	keyWait
 		any = false
@@ -530,7 +497,7 @@ script 4 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip
@@ -549,28 +516,28 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	It's great to have
-	met you.
+	Foi tão bom ter
+	te conhecido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll never forget
-	this day!
+	Eu nunca vou
+	esquecer este dia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -582,29 +549,28 @@ script 5 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Now I can live
-	without having to
-	run...
+	Agora eu posso viver
+	sem ter que fugir...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wow..."
+	"Nossa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's like I've
-	gotten a 2nd
-	chance at life...
+	É como se eu tivesse
+	recebido uma segunda
+	chance de viver...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you!
-	This is all thanks
-	to you!!
+	Obrigado!
+	Isso é tudo graças
+	a você!!
 	"""
 	keyWait
 		any = false
@@ -618,11 +584,11 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	msgOpen
-	"...Dad..."
+	"... Pai..."
 	keyWait
 		any = false
 	clearMsg
-	"*Sniffle*..."
+	"Chuif..."
 	keyWait
 		any = false
 	end
@@ -632,15 +598,15 @@ script 7 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	...Dad,will you
-	stay for good now?
+	... Pai, você vai ficar
+	pra sempre agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please...
-	It'd be great...
+	Por favor...
+	Eu quero muito isso...
 	"""
 	keyWait
 		any = false
@@ -651,21 +617,20 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO THE
-	SKY HP.
+	BEM-VINDO À PÁGINA CÉU.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SKY TOWN IS A
-	TECHNO_TOWN NESTLED
-	IN THE SKY!
+	O DISTRITO CÉU É UM
+	DISTRITO TECNOLÓGICO
+	SUSPENSO NO AR!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BLUE BLUE SKIES!"
+	"LINDO CÉU AZUL!"
 	keyWait
 		any = false
 	end
@@ -675,36 +640,36 @@ script 20 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HEY! WAIT A SEC!
-	ALRIGHT?
+	EI! ESPERA AÍ!
+	PODE SER?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF IT'S ALRIGHT WITH
-	YOU,WOULD YOU LIKE
-	TO TRADE HP LINKS?
+	VOCÊ ACEITARIA
+	TROCAR LINKS DE
+	PÁGINA CONOSCO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PUTTING UP A LINK
-	WILL LET YOU EASILY
-	GO BACK AND FORTH
+	INSTALAR UM LINK LHE
+	PERMITE TRANSITAR
+	RAPIDAMENTE ENTRE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BETWEEN YOUR HP AND
-	THE SKY HP!
+	A SUA PÁGINA E A
+	PÁGINA SKY HP!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WANT TO POST A LINK?"
+	"POSTAR LINK?"
 	keyWait
 		any = false
 	clearMsg
@@ -719,7 +684,7 @@ script 20 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -728,7 +693,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -742,14 +707,14 @@ script 20 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"I SEE..."
+	"ENTENDO..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU EVER FEEL
-	LIKE IT,COME BACK
-	ANYTIME...
+	CASO BATA A VONTADE,
+	PODE VOLTAR A QUALQUER
+	HORA...
 	"""
 	keyWait
 		any = false
@@ -760,13 +725,13 @@ script 21 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELL THEN THAT'S
-	DECIDED! GREAT!
+	AH, FECHADO, ENTÃO!
+	MARAVILHA!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"PLEASE TAKE THIS!"
+	"TOME!"
 	keyWait
 		any = false
 	clearMsg
@@ -778,7 +743,7 @@ script 21 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -793,13 +758,13 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	I WILL POST YOUR
-	LINK NOW.
+	POSTAREI O SEU
+	LINK AGORA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WOOHOOHOOOOO!!"
+	"UUUUURRÚÚÚÚÚÚÚ!!"
 	keyWait
 		any = false
 	soundDisableTextSFX
@@ -810,13 +775,13 @@ script 21 mmbn6 {
 		flag = 383
 	clearMsg
 	"""
-	THAT'S ALL FOR
-	MY WORK HERE...
+	MEU TRABALHO AQUI
+	ESTÁ FEITO...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"SEE YOU AROUND!"
+	"TCHAUZINHO!"
 	keyWait
 		any = false
 	soundDisableTextSFX

@@ -12,76 +12,72 @@ script 20 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	... Huh?
-	What was that?
+	... Hã? O quê?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The person that can
-	open the Undernet
-	door?
+	"A pessoa que pode
+	abrir a porta da
+	Undernet"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now that you mention
-	it...
+	Agora que você falou...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There was a criminal
-	that was known for
+	Tinha essa criminosa
+	que era conhecida por
+	fazer altas maldades
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	doing bad things on
-	the Undernet...
+	na Undernet...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That person was a
-	really rotten egg!
+	Podre, aquela ali!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But they worked real
-	hard to become a
-	better person,and
+	Mas ela se dedicou de
+	coração a se tornar
+	uma pessoa melhor
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	was released from
-	here a little while
-	ago.
+	e foi libertada
+	um tempinho atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,this is just a
-	rumor,but I heard
-	that they're happy
+	Bom, é só um boato,
+	mas ouvi falar que,
+	agora, ela tá feliz
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and working at
-	a part_time job
-	near the ocean now.
+	trabalhando de
+	meio-período à
+	beira do mar agora.
 	"""
 	keyWait
 		any = false
@@ -92,47 +88,46 @@ script 21 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	There was a criminal
-	that was known for
+	Tinha essa criminosa
+	que era conhecida por
+	fazer altas maldades
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	doing bad things on
-	the Undernet...
+	na Undernet...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But they worked real
-	hard to become a
-	better person,and
+	Mas ela se dedicou de
+	coração a se tornar
+	uma pessoa melhor
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	was released from
-	here a little while
-	ago.
+	e foi libertada
+	um tempinho atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,this is just a
-	rumor,but I heard
-	that they're happy
+	Bom, é só um boato,
+	mas ouvi falar que,
+	agora, ela tá feliz
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and working at
-	a part_time job
-	near the ocean now.
+	trabalhando de
+	meio-período à
+	beira do mar agora.
 	"""
 	keyWait
 		any = false
@@ -143,17 +138,15 @@ script 25 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Noooo!
-	Both of them
-	managed to escape...
+	Nãããão!
+	Os dois fugiram...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a disgrace
-	to the justice
-	system!
+	Isso é um ultraje pro
+	sistema judiciário!
 	"""
 	keyWait
 		any = false
@@ -164,8 +157,8 @@ script 30 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Where did those two
-	escapees run to?
+	Aonde aqueles dois
+	fugitivos foram?
 	"""
 	keyWait
 		any = false

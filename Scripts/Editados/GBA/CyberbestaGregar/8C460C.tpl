@@ -5,14 +5,14 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's really hot..."
+	"Tá quente demais..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's dangerous here
-	with the raging heat
-	fanning the flames.
+	É perigoso aqui, com
+	esse calor infernal
+	espalhando as chamas.
 	"""
 	keyWait
 		any = false
@@ -24,14 +24,14 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I see..."
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've gotta find
-	and beat BlastMan,
-	ASAP.
+	A gente tem que
+	achar o BlastMan e
+	acabar com ele, rápido.
 	"""
 	keyWait
 		any = false
@@ -44,17 +44,17 @@ script 2 mmbn6 {
 		mugshot = BlastMan
 	msgOpen
 	"""
-	Looks like a lost
-	little critter has
-	wandered in...
+	Parece que um ratinho
+	perdido acabou vindo
+	parar aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Better get out fast
-	before you become a
-	crispy critter!
+	Melhor ir embora logo,
+	se não quiser virar
+	churrasquinho de rato!
 	"""
 	keyWait
 		any = false
@@ -67,20 +67,19 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Just you wait,
-	BlastMan!
+	Espera só, BlastMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're gonna put
-	out your fire!
+	A gente VAI apagar
+	esse seu fogo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Go for it,MegaMan!"
+	"Manda ver, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -103,9 +102,9 @@ script 5 mmbn6 {
 		mugshot = BlastMan
 	msgOpen
 	"""
-	There won't be any_
-	thing left after I
-	reduce you to ashes!
+	Depois que eu torrar
+	vocês, não vão sobrar
+	nem cinzas!
 	"""
 	keyWait
 		any = false

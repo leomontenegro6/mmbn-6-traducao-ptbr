@@ -7,21 +7,22 @@ script 0 mmbn6 {
 	mugshotPalette
 		palette = 6
 	msgOpen
-	"EEEK! EEEK!"
+	"AAAAH! AAAAAH!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GOSH,TELL ME I
-	WASN'T LEFT BEHIND!
+	POR FAVOR, DIZ QUE
+	EU NÃO FUI DEIXADO
+	PRA TRÁS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I SWEAR I'LL BE A
-	GOOD LITTLE PROGRAM
-	FROM NOW ON!!
+	EU JURO QUE VOU SER
+	UM PROG BONZINHO DE
+	AGORA EM DIANTE!
 	"""
 	keyWait
 		any = false
@@ -33,9 +34,9 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Have a little more
-	faith! I'll save
-	you!
+	Não perca as
+	esperanças, cara!
+	Eu vou te ajudar!
 	"""
 	keyWait
 		any = false
@@ -47,24 +48,24 @@ script 2 mmbn6 {
 	msgOpen
 	"""
 	... AH,
-	YOU SAVED ME...
+	VOCÊ ME SALVOU...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I REALLY SWEAR I'LL
-	BE A GOOD PROGRAM
-	FROM NOW ON,
+	EU JURO, SIM, QUE VOU
+	SER UM PROG BONZINHO
+	DAQUI PRA FRENTE,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"JUST LIKE YOU!"
+	"QUE NEM VOCÊ!"
 	keyWait
 		any = false
 	clearMsg
-	"OK,BYE_BYE!"
+	"OK, TCHAUZINHO!"
 	keyWait
 		any = false
 	end

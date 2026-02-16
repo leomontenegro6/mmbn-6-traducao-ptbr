@@ -76,8 +76,9 @@ script 16 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We should go to the
-	Teachers' Room,Lan!
+	A gente tem que
+	ir pra Sala dos
+	Professores, Lan!
 	"""
 	keyWait
 		any = false
@@ -88,16 +89,17 @@ script 17 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Um... I think we're
-	looking for the,uh,
-	energetic teacher
+	Er... Acho que a
+	gente tem que achar
+	o tal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in a bright red
-	warm_up suit...
+	"professor descolado
+	e cheio de energia de
+	agasalho vermelho"...
 	"""
 	keyWait
 		any = false
@@ -108,9 +110,9 @@ script 18 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to your new
-	classroom! It's 6_1
-	on the second floor!
+	Vamos lá pra sua nova
+	sala de aula! É a 6-1,
+	no segundo andar!
 	"""
 	keyWait
 		any = false
@@ -126,16 +128,15 @@ script 19 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's important to
-	make a good first
-	impression,so
+	Uma boa primeira
+	impressão é vital,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	let's go say hi
-	to everyone!
+	então vamos cumprimentar
+	todo mundo!
 	"""
 	keyWait
 		any = false
@@ -146,16 +147,15 @@ script 20 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's say hi to
-	everyone in your
-	class before
+	Dá um "oi" pra todo
+	mundo na sua classe
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	going to another
-	one,Lan!
+	antes de ir
+	pra outra, Lan!
 	"""
 	keyWait
 		any = false
@@ -169,9 +169,8 @@ script 22 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It sure feels
-	strange to be in
-	the real world...
+	É tão esquisito
+	estar no mundo real...
 	"""
 	keyWait
 		any = false
@@ -210,16 +209,16 @@ script 25 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What's wrong with
-	the Security Bots!?
+	O que foi que deu nos
+	Robôs de Segurança?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For now,we should
-	do something about
-	the fire!
+	Bom, antes de mais nada,
+	a gente tem que dar um
+	jeito nesse fogo!
 	"""
 	keyWait
 		any = false
@@ -230,9 +229,9 @@ script 26 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I've gotta hurry up
-	and save Lan and the
-	other students!!
+	Eu tenho que salvar
+	logo o Lan e os
+	outros alunos!!
 	"""
 	keyWait
 		any = false
@@ -242,14 +241,14 @@ script 27 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Where's Mick?..."
+	"Cadê o Mick?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And where is he
-	controlling these
-	Bots from...?
+	E de onde ele
+	tá controlando
+	esses robôs...?
 	"""
 	keyWait
 		any = false
@@ -265,8 +264,8 @@ script 28 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's hurry to the
-	Teachers' Room,Lan!
+	Vamos rápido pra Sala
+	dos Professores, Lan!
 	"""
 	keyWait
 		any = false
@@ -276,14 +275,14 @@ script 29 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Jack me in,Lan!"
+	"Me conecta, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've gotta get the
-	control system back
-	to normal!
+	Eu tenho que fazer o
+	sistema de controle
+	voltar ao normal!
 	"""
 	keyWait
 		any = false
@@ -292,8 +291,8 @@ script 29 mmbn6 {
 script 31 mmbn6 {
 	msgOpen
 	"""
-	MegaMan isn't in
-	the PET right now...
+	MegaMan não está
+	no PET agora...
 	"""
 	keyWait
 		any = false
@@ -304,9 +303,8 @@ script 32 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack me in,Lan!
-	BlastMan is right
-	there!
+	Me conecta, Lan!
+	O BlastMan tá bem aí!
 	"""
 	keyWait
 		any = false
@@ -317,9 +315,9 @@ script 33 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This has to be where
-	the Bots are being
-	controlled from...
+	Deve ser daqui que
+	os robôs tão sendo
+	controlados...
 	"""
 	keyWait
 		any = false
@@ -335,7 +333,7 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's go home,Lan!"
+	"Vamos pra casa, Lan!"
 	keyWait
 		any = false
 	end
@@ -377,9 +375,9 @@ script 50 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hmm,what do penguins
-	eat?... Let's go ask
-	the Biology teacher!
+	Hmm, o que os pinguins
+	comem? Pergunta pro
+	professor de Biologia!
 	"""
 	keyWait
 		any = false
@@ -390,9 +388,9 @@ script 51 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go ask the
-	Biology teacher's
-	aide about fish!
+	Vamos ver com o
+	assistente do professor
+	de Biologia sobre o peixe!
 	"""
 	keyWait
 		any = false
@@ -403,9 +401,9 @@ script 52 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's find someone
-	with too many fish
-	and ask for one!
+	Vamos pra estação
+	de Ônibus Magnético
+	pegar os peixes!
 	"""
 	keyWait
 		any = false
@@ -416,9 +414,9 @@ script 53 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I bet that penguin
-	would love to have
-	that fish,Lan!
+	Aposto que aquele
+	pinguim vai adorar
+	comer esse peixe, Lan!
 	"""
 	keyWait
 		any = false
@@ -429,15 +427,15 @@ script 54 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder where that
-	penguin came from?
+	De onde será que
+	veio aquele pinguim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's check out the
-	SeasideArea BBS!
+	Vamos conferir o fórum
+	da Área Beira-Mar!
 	"""
 	keyWait
 		any = false
@@ -448,9 +446,8 @@ script 55 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go find the
-	Repair Navi on the
-	Net!
+	Vamos lá achar o
+	Navi encanador na Rede!
 	"""
 	keyWait
 		any = false
@@ -461,8 +458,8 @@ script 56 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's help the
-	Repair Navi find his
+	Vamos ajudar o Navi
+	encanador a achar o
 	"
 	"""
 	printItem
@@ -478,15 +475,15 @@ script 57 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go back to
-	CentralArea3 and
+	Vamos voltar pra
+	Área Central 3
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	give the Repair Navi
-	back his "
+	e devolver pro Navi
+	encanador o "
 	"""
 	printItem
 		buffer = 0
@@ -501,9 +498,9 @@ script 58 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go take a look
-	at the SeasideArea
-	BBS!
+	Vamos lá dar uma
+	olhada no fórum da
+	Área Beira-Mar!
 	"""
 	keyWait
 		any = false
@@ -534,8 +531,8 @@ script 65 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go tell Mick
-	about the penguin!
+	Vamos lá falar pro
+	Mick sobre o pinguim!
 	"""
 	keyWait
 		any = false
@@ -546,9 +543,9 @@ script 66 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's wait for Mick
-	in front of the
-	LevBus station!
+	Vamos esperar pelo Mick
+	na frente da estação de
+	Ônibus Magnético!
 	"""
 	keyWait
 		any = false
@@ -559,8 +556,8 @@ script 67 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's take off for
-	Seaside Town,Lan!
+	Vamos lá pro Distrito
+	Beira-Mar, Lan!
 	"""
 	keyWait
 		any = false
@@ -571,8 +568,8 @@ script 68 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go home and
-	hit the sack,OK,Lan?
+	Que tal a gente ir
+	pra casa dormir, Lan?
 	"""
 	keyWait
 		any = false
@@ -583,16 +580,15 @@ script 69 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We said we'd meet
-	in front of the
-	Aquarium,so
+	A gente disse que ia
+	se encontrar na frente
+	do Aquário,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	let's head on out
-	there!
+	então vamos logo pra lá!
 	"""
 	keyWait
 		any = false
@@ -603,8 +599,8 @@ script 70 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's head back to
-	Seaside Town,Lan!
+	Vamos voltar pro
+	Distrito Beira-Mar, Lan!
 	"""
 	keyWait
 		any = false
@@ -615,17 +611,16 @@ script 73 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,if that's how
-	Mick feels about
-	it...
+	Bom, se é assim que
+	o Mick se sente, acho
+	que não tem nada que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess we can't
-	do anything...
-	Shall we go back?
+	a gente possa fazer...
+	Vamos voltar?
 	"""
 	keyWait
 		any = false
@@ -643,8 +638,8 @@ script 96 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's call it a
-	day,Lan.
+	Vamos encerrar
+	por hoje, Lan.
 	"""
 	keyWait
 		any = false

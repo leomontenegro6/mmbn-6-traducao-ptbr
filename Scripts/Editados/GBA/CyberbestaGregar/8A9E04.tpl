@@ -16,85 +16,84 @@ script 0 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hello!
-	You're the one who
-	came for my request?
+	Oi!
+	Foi você quem aceitou
+	o meu pedido?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get down to
-	the details...
+	Vamos aos detalhes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm looking into PA
-	たProgram Advanceち as
-	part of my own
+	Estou estudando P.A.
+	たPrograma Avançadoち
+	como parte de uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	individual research.
-	But finding a PA is
-	super difficult...
+	pesquisa pessoal minha.
+	Mas achar um P.A. é
+	tão difícil...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was hoping that
-	you could assist me
-	in my research!
+	Estava pensando se
+	você não podia me ajudar
+	com essa pesquisa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Right now,I'm
-	researching PAs
+	No momento, estou
+	pesquisando Programas
+	Avançados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that poison an
-	enemy area.
+	que envenenam a
+	área dos inimigos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've seen other
-	people using this,
+	Já vi outras
+	pessoas usando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and it can make an
-	enemy's HP drop
-	like a rock!!
+	Ele drena os PV dos
+	inimigos rapidinho!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...I'd like you to
-	find out how to
-	activate this PA.
+	... Gostaria que você
+	descobrisse como se
+	ativa esse P.A.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you figure it
-	out,please show me
-	the PA Memo.
+	Se descobrir, é só
+	me mostrar a sua
+	Lista P.A.
 	"""
 	keyWait
 		any = false
@@ -104,33 +103,32 @@ script 0 mmbn6 {
 		jumpIfTrue = 4
 		jumpIfFalse = continue
 	"""
-	You know about PA
-	Memos right?
-	If you successfully
+	Você sabe sobre
+	a Lista P.A., né?
+	Quando você ativa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	activate a PA in
-	battle,it gets
-	registered there.
+	um P.A. em batalha, 
+	ele fica registrado nela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then you can view
-	the PA Memo in the
-	Data Library.
+	Dá para ver a
+	Lista P.A. na
+	Coleção de Chips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks for the help!
-	I can't wait to see
-	the PA Memo!
+	Grato pela ajuda!
+	Mal posso esperar
+	para ver a Lista P.A.!
 	"""
 	keyWait
 		any = false
@@ -145,71 +143,86 @@ script 1 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Double checking the
-	details? OK.
+	Confirmando os
+	detalhes? OK.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm looking into PA
-	たProgram Advanceち as
-	part of my own
+	Estou estudando P.A.
+	たPrograma Avançadoち
+	como parte de uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	individual research.
-	Right now,I'm
-	researching PAs
+	pesquisa pessoal minha.
+	Mas achar um P.A. é
+	tão difícil...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that poison an
-	enemy area.
+	Estava pensando se
+	você não podia me ajudar
+	com essa pesquisa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...I'd like you to
-	find out how to
-	activate this PA.
+	No momento, estou
+	pesquisando Programas
+	Avançados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you figure it
-	out,please show me
-	the PA Memo.
+	que envenenam a
+	área dos inimigos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know about PA
-	Memos right?
-	If you successfully
+	... Gostaria que você
+	descobrisse como se
+	ativa esse P.A.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	activate a PA in
-	battle,it gets
-	registered there.
+	Se descobrir, é só
+	me mostrar a sua
+	Lista P.A.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks for the help!
-	I can't wait to see
-	the PA Memo!
+	Você sabe sobre
+	a Lista P.A., né?
+	Quando você ativa
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	um P.A. em batalha, 
+	ele fica registrado nela.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Grato pela ajuda!
+	Mal posso esperar
+	para ver a Lista P.A.!
 	"""
 	keyWait
 		any = false
@@ -222,19 +235,19 @@ script 2 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	...HUH!?
-	You figured out the
-	PA!?
+	... O QUÊ?!
+	Você aprendeu o
+	Programa Avançado?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show me the memo!"
+	"Deixe-me ver a lista!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What!?
+	Hã?!
 	"
 	"""
 	printChip
@@ -242,14 +255,14 @@ script 2 mmbn6 {
 		chip = 342
 	"""
 	"!!
-	Wow...
+	Uau...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The slot in order
-	is...
+	Os chips, na ordem,
+	são...
 	"""
 	keyWait
 		any = false
@@ -274,8 +287,8 @@ script 2 mmbn6 {
 		buffer = 0
 		code = P
 	"""
-	",
-	then "
+	"
+	e aí "
 	"""
 	printChip
 		buffer = 0
@@ -289,16 +302,16 @@ script 2 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	...Thank you!!
-	My research will go
-	great now!!
+	... Muito obrigado!!
+	A minha pesquisa
+	vai ficar ótima!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's something for
-	your trouble...
+	Tome, para recompensar
+	o seu trabalho...
 	"""
 	keyWait
 		any = false
@@ -311,7 +324,7 @@ script 2 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -330,22 +343,22 @@ script 2 mmbn6 {
 		buffer = 0
 		chip = 342
 	"""
-	" huh?
-	I'll have to try
-	it out!
+	", é?
+	Tenho que experimentar,
+	também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -361,9 +374,9 @@ script 3 mmbn6 {
 		buffer = 0
 		chip = 342
 	"""
-	" huh?
-	I'll have to try
-	it out!
+	", é?
+	Tenho que experimentar,
+	também!
 	"""
 	keyWait
 		any = false
@@ -376,19 +389,19 @@ script 4 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	...HUH!?
-	You figured out the
-	PA!?
+	... O QUÊ?!
+	Você aprendeu o
+	Programa Avançado?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show me the memo!"
+	"Deixe-me ver a lista!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What!?
+	Hã?!
 	"
 	"""
 	printChip
@@ -396,14 +409,14 @@ script 4 mmbn6 {
 		chip = 342
 	"""
 	"!!
-	Wow...
+	Uau...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The slot in order
-	is...
+	Os chips, na ordem,
+	são...
 	"""
 	keyWait
 		any = false
@@ -428,8 +441,8 @@ script 4 mmbn6 {
 		buffer = 0
 		code = P
 	"""
-	",
-	then "
+	"
+	e aí "
 	"""
 	printChip
 		buffer = 0
@@ -443,16 +456,16 @@ script 4 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	...Thank you!!
-	My research will go
-	great now!!
+	... Muito obrigado!!
+	A minha pesquisa
+	vai ficar ótima!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's something for
-	your trouble...
+	Tome, para recompensar
+	o seu trabalho...
 	"""
 	keyWait
 		any = false
@@ -465,7 +478,7 @@ script 4 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -484,22 +497,22 @@ script 4 mmbn6 {
 		buffer = 0
 		chip = 342
 	"""
-	" huh?
-	I'll have to try
-	it out!
+	", é?
+	Tenho que experimentar,
+	também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -511,31 +524,32 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE
-	CLASS 1_1 COMP!
+	ESTE É O COMPUTADOR
+	DA SALA 1-1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A VIRUS BUSTING
-	CLASS IS BEING HELD
-	HERE...
+	ESTÁ SENDO REALIZADA
+	UMA AULA DE DELEÇÃO
+	DE VÍRUS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OF COURSE,FIRST
-	GRADERS STILL HAVE
-	ALOT TO LEARN.
+	BOM, CLARO QUE
+	CRIANÇAS TÃO NOVAS
+	AINDA TÊM MUITO CHÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...BUT DON'T TELL
-	ANYONE I SAID THAT!
+	... MAS NÃO VÁ CONTAR
+	PARA NINGUÉM QUE EU
+	DISSE ISSO!
 	"""
 	keyWait
 		any = false
@@ -546,42 +560,42 @@ script 10 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Want to give the
+	Quer experimentar o
 	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 2
 	"""
-	" I
-	have a try?
+	"
+	que eu tenho aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't mind
-	dumping the folder
-	you already have,
+	Se não se incomodar
+	de descartar a pasta
+	que tem agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll give you the
+	eu te dou a
 	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 2
 	"""
-	" right
-	now!!
+	" agora
+	mesmo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You up for it?"
+	"Topa?"
 	keyWait
 		any = false
 	clearMsg
@@ -596,7 +610,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure! "
+	" Sim! "
 	option
 		brackets = 0
 		left = 0
@@ -605,7 +619,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No,Thanks"
+	" Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -621,7 +635,7 @@ script 10 mmbn6 {
 		mugshot = BlueNavi
 	"""
 	Hmm...
-	That's too bad.
+	Pena.
 	"""
 	keyWait
 		any = false
@@ -632,9 +646,8 @@ script 11 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Alright,
-	Let me send you
-	the data!
+	Beleza, vou te
+	mandar os dados!
 	"""
 	keyWait
 		any = false
@@ -649,26 +662,26 @@ script 11 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	soundDisableTextSFX
 	soundPlay
 		track = 115
-	"*Ding!!*"
+	"PLIM!!"
 	keyWait
 		any = false
 	clearMsg
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = BlueNavi
-	"Transfer completed!"
+	"Transferência concluída!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your old Extra
-	Folder is now called
+	A sua antiga Pasta
+	Extra agora é a
 	"
 	"""
 	printFolderName
@@ -679,9 +692,9 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	It's nothing super
-	special,but give
-	it a try!!
+	Não é grandes coisas,
+	mas, ainda assim,
+	experimente!!
 	"""
 	keyWait
 		any = false

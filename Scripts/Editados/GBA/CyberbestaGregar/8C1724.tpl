@@ -4,15 +4,15 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	ImmortalArea on it.
+	Nele, há um mapa
+	da Área Imortal.
 	"""
 	keyWait
 		any = false
@@ -23,15 +23,16 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	A distortion in
-	space_time is forming...
+	Uma distorção no
+	espaço-tempo está
+	se formando...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's probably connected
-	to someplace..
+	Deve ligar este lugar
+	a algum outro.
 	"""
 }
 script 4 mmbn6 {

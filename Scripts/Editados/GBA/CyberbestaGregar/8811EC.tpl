@@ -6,28 +6,30 @@ script 0 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	The Aquarium has
-	started having its
-	animal care staff
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"give guided tours."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We hope this will be
-	a popular feature,
+	O Aquário começou a
+	fazer os cuidadores
+	de animais também 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and that customers
-	will return because
-	of it.
+	ficarem encarregados
+	de conduzir as visitas.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Esperamos que essa
+	mudança se prove popular
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e atraia de volta
+	o nosso público.
 	"""
 	keyWait
 		any = false
@@ -38,24 +40,24 @@ script 1 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	These are clione.
-	They look cute,but
+	Estes são cliones.
+	São fofinhos de ver,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when it's ready to
-	catch its food,this
-	part of its head
+	mas, quando estão prontos
+	pra pegar sua comida,
+	esta parte da cabeça
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	blows open and
-	shoots out a
-	tentacle,whoosh!
+	deles abre com um
+	estouro e dispara
+	um tentáculo! Fiunsh!
 	"""
 	keyWait
 		any = false
@@ -72,17 +74,16 @@ script 2 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	This guide tells us
-	so much stuff. He's
-	so detailed,but
+	Esse guia fala cada coisa.
+	Ele dá todos os detalhes,
+	mas o jeito como ele
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the way he talks...
-	it's a little too
-	extreme...
+	explica... é meio
+	radical demais...
 	"""
 	keyWait
 		any = false
@@ -93,13 +94,13 @@ script 3 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	Clione are
-	aaaaaaaawesome!
+	Os cliones são
+	demaaaaaais!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Whoooooosh!!"
+	"Fiunsh!!"
 	keyWait
 		any = false
 	end
@@ -110,7 +111,7 @@ script 4 mmbn6 {
 	msgOpen
 	"""
 	Aaaaah!
-	Clione are scaaaary!
+	Os cliones dão meeedooo!
 	"""
 	keyWait
 		any = false
@@ -121,30 +122,29 @@ script 10 mmbn6 {
 		mugshot = Woman
 	msgOpen
 	"""
-	I wonder what I
-	should have for
-	dinner...
+	O que será que eu
+	faço pro jantar...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,no,no,no!
-	Don't get me wrong!
+	Ah, não, não, não!
+	Não entenda errado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wasn't thinking of
-	eating THESE fish!
+	Eu não tava pensando
+	em comer ESTES peixes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just thought I'd
-	ask your opinion...
+	Só pensei em pedir
+	a uma opinião...
 	"""
 	keyWait
 		any = false
@@ -155,15 +155,16 @@ script 11 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I left my brothers
-	with the guide,so
+	Eu deixei os meus
+	irmãos com o guia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can look at the
-	fish all I want.
+	Agora eu posso olhar
+	pra todos os peixes
+	que eu quiser.
 	"""
 	keyWait
 		any = false
@@ -174,17 +175,17 @@ script 15 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	This weird weather
-	cleared the visitors
-	out in a flash...
+	Esse tempo estranho
+	espantou o público
+	rapidinho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are those guys
-	in Sky Town doing
-	about this!?
+	O que é que o pessoal
+	do Distrito Céu vai
+	fazer pra resolver?!
 	"""
 	keyWait
 		any = false
@@ -195,14 +196,13 @@ script 40 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	Piranhas seem to
-	like the taste of
-	cows.
+	As piranhas parecem
+	gostar de carne de boi.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Mmm... Just like me!"
+	"Mmm... Que nem eu!"
 	keyWait
 		any = false
 	end
@@ -212,15 +212,15 @@ script 41 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	The clione look like
-	they're dancing.
+	Os cliones... parecem
+	até que tão dançando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	La,la,la...
-	La,dee,da...
+	Lá, lá, lá...
+	Lá, ri, rá...
 	"""
 	keyWait
 		any = false
@@ -231,16 +231,15 @@ script 42 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	It's food time,my
-	fishies! Make sure
-	you eat it all up!
+	Hora da boia, peixinhos!
+	Comam tudinho, viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here we go!
-	Food for all!
+	Aí vai!
+	Encham a pança!
 	"""
 	keyWait
 		any = false
@@ -255,16 +254,16 @@ script 45 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Mayor Cain comes
-	here sometimes to
-	see how things are.
+	O Prefeito Cain aparece
+	de vez em quando pra ver
+	como as coisas andam.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Mayor is really
-	into his work!
+	Ele se dedica pra
+	valer no trabalho!
 	"""
 	keyWait
 		any = false
@@ -279,25 +278,23 @@ script 46 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I come here to the
-	Aquarium a lot now,
-	but
+	Eu venho bastante
+	aqui, no aquário, mas,
+	se a Exposição abrir,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if the Expo opens,
-	I'm sure I'll end up
-	only going there.
+	com certeza eu vou
+	acabar indo só lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I only follow the
-	latest fads,
-	after all.
+	Sim, eu sou super
+	suscetível a modinhas.
 	"""
 	keyWait
 		any = false
@@ -308,9 +305,9 @@ script 47 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	It sounds like
-	something is going
-	on outside...
+	Parece que tem
+	alguma coisa
+	acontecendo lá fora...
 	"""
 	keyWait
 		any = false
@@ -321,16 +318,14 @@ script 48 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I heard some loud
-	noises coming from
-	outside just now...
+	Eu ouvi uns gritos vindo
+	lá de fora agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did something
-	happen?
+	Aconteceu alguma coisa?
 	"""
 	keyWait
 		any = false

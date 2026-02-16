@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Did it!"
+	"Boa!"
 	keyWait
 		any = false
 	clearMsg
@@ -17,9 +17,9 @@ script 1 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Hahaha,pretty cool,
-	Lan! Handling fire
-	almost like a pro!
+	Ha ha ha, show de bola,
+	Lan! Tá manipulando o
+	Fogo como um mestre!
 	"""
 	keyWait
 		any = false
@@ -32,23 +32,22 @@ script 2 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	That was Level 3,
-	Lan!
+	Essa foi a fase 3, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Last one coming
-	up! Level 4!
+	A seguir, a última!
+	Fase 4!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The last Kettle's
-	somewhere in this
-	area!
+	O último Kettle
+	tá em algum canto
+	dessa área mesmo!
 	"""
 	keyWait
 		any = false
@@ -61,9 +60,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Almost there!
-	Last one!
-	Let's go!
+	Tô quase lá!
+	Bora lá! Último!
 	"""
 	keyWait
 		any = false

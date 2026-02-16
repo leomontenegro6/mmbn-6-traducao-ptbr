@@ -6,16 +6,15 @@ script 0 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Awesome...
-	Real fish all
-	around!!
+	Que demais...
+	Peixes de verdade,
+	pra todo lado!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They did a good
-	job!
+	Eles capricharam!
 	"""
 	keyWait
 		any = false
@@ -26,17 +25,15 @@ script 1 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Yeah!
-	This water is
-	great!
+	Hum!
+	Esta água é uma delícia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter how much
-	I drink,it's still
-	delicious!!
+	Eu bebo e bebo,
+	e ela não enjoa!
 	"""
 	keyWait
 		any = false
@@ -44,14 +41,14 @@ script 1 mmbn6 {
 }
 script 10 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -66,8 +63,8 @@ script 11 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Don't like it here!?
-	Too bad!!
+	Não me quer aqui não?!
+	Problema seu!!
 	"""
 	keyWait
 		any = false

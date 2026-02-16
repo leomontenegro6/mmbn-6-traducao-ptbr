@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,I got 120 grams
-	of cybercarrots!!
+	Beleza, 120 gramas
+	de cybercenouras!!
 	"""
 	keyWait
 		any = false
@@ -19,13 +19,13 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Slash!"
+	"Shuiiiinnn!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're getting
-	better at cutting!
+	Você tá ficando
+	melhor na fatiada!
 	"""
 	keyWait
 		any = false
@@ -38,23 +38,21 @@ script 2 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	Hehehe.
-	That's how
-	it's done!
+	He he he.
+	É assim que se faz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The next area is
-	Green Area2.
+	A próxima área é
+	a Área Verde 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Keep up the
-	momentum!
+	Não perde o ritmo!
 	"""
 	keyWait
 		any = false
@@ -67,16 +65,16 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Heh,heh!
-	I think I'm starting
-	to get this!
+	He, he!
+	Acho que eu tô começando
+	a pegar o jeito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's hurry up and
-	go to Green Area2!
+	Vamos rápido lá
+	pra Área Verde 2!
 	"""
 	keyWait
 		any = false

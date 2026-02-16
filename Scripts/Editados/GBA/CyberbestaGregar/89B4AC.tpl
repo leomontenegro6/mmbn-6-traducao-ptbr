@@ -11,16 +11,16 @@ script 0 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	This area is under
-	NetPolice control,
+	Esta área está sob o
+	controle da NetPolícia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and an investigation
-	is underway. Please
-	do not loiter!
+	e estamos em meio a
+	uma investigação. Por
+	favor, não atrapalhe!
 	"""
 	keyWait
 		any = false
@@ -36,15 +36,15 @@ script 1 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	As for the JudgeTree
-	being hacked...
+	Quanto ao hackeamento
+	da Árvore Juíza...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	quite frankly,we are
-	confused as well...
+	Francamente, também
+	estamos bem confusos...
 	"""
 	keyWait
 		any = false
@@ -60,14 +60,10 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	It would be nice if
-	regular Navis were
-	not allowed to
+	Seria ótimo se Navis
+	civis fossem proibidos
+	de circular por aqui!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"wander around!"
 	keyWait
 		any = false
 	end
@@ -77,23 +73,22 @@ script 5 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	... Can you please
-	not talk to me?
+	... Pode, por favor,
+	não falar comigo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Prosecutor's
-	backup
-	organization...
+	A organização por
+	trás do Promotor...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oops,forget what I
-	just said,OK...?
+	Opa, esquece o que
+	eu falei, tá...?
 	"""
 	keyWait
 		any = false
@@ -104,39 +99,39 @@ script 6 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Programs are created
-	by humans...
+	Programas são criador
+	por humanos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is no such
-	thing as a perfect
-	human,therefore,
+	Não existe humano
+	perfeito, e, portanto,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a perfect program
-	can not exist.
+	também é impossível
+	existir um programa
+	perfeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is a flaw in
-	every security
-	system.
+	Todo sistema de
+	segurança conta
+	com alguma falha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The important thing
-	is to hide those
-	flaws well.
+	O mais importante
+	é saber esconder
+	essas falhas.
 	"""
 	keyWait
 		any = false
@@ -148,7 +143,7 @@ script 7 mmbn6 {
 	msgOpen
 	"""
 	Hmm...
-	No clues,huh...?
+	Nenhuma pista...
 	"""
 	keyWait
 		any = false
@@ -159,23 +154,22 @@ script 40 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The Force Program
-	has been stolen...
+	O Programa de Força
+	foi roubado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stealing that is a
-	suuuuuper serious
-	crime!
+	Roubar isso é um crime
+	ABSURDAMENTE sério!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if the
-	criminal knows that.
+	Será que o criminoso
+	sabia disso?
 	"""
 	keyWait
 		any = false
@@ -186,17 +180,17 @@ script 41 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	No... A prosecutor's
-	job is not easy at
-	all...
+	Não... O trabalho de
+	um promotor também
+	não é nada fácil...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't do my job at
-	all if I don't drop
-	by the NetCafe...
+	O único jeito de eu
+	aguentar o tranco é
+	passando no NetCafé...
 	"""
 	keyWait
 		any = false
@@ -207,17 +201,17 @@ script 42 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	*sigh...*
-	A defense lawyer's
-	job is really tough!
+	Ai, ai...
+	Advogado de defesa é
+	um trabalho tão difícil!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's really true.
-	Sometimes,if I don't
-	relax,I can't go on!
+	Sério. Às vezes, eu só
+	consigo seguir tirando
+	um tempo pra relaxar!
 	"""
 	keyWait
 		any = false
@@ -240,25 +234,25 @@ script 45 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hmm? You're in that
-	commercial,aren't
-	you?
+	Hmm? Você apareceu
+	naquele comercial,
+	não foi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I thought so!
-	Did you get a lot of
-	cool toys?
+	... Sabia!
+	E aí, recebeu um monte
+	de coisa de graça?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey! What?
-	Was it something I
-	said!?
+	Ei! Que foi?
+	Eu falei alguma
+	coisa errada?!
 	"""
 	keyWait
 		any = false
@@ -269,17 +263,17 @@ script 46 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	The lawyer I'm up
-	against now in court
-	knows his stuff...
+	O advogado que eu tô
+	enfrentando no tribunal
+	agora é dos bons...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have no
-	confidence...
-	*sigh...*
+	Parece até uma fênix,
+	sempre renascendo das
+	cinzas... Uff...
 	"""
 	keyWait
 		any = false
@@ -290,24 +284,24 @@ script 47 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	The trial I'm in
-	charge of now...
+	O julgamento do qual eu
+	tô encarregado agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the prosecutor on
-	the other side is
-	ruthless!
+	o promotor que eu tô
+	enfrentando é afiado
+	feito uma espada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know if I
-	can win...
-	*sigh...*
+	Será que eu consigo
+	vencer...?
+	Aaarr...
 	"""
 	keyWait
 		any = false
@@ -318,17 +312,17 @@ script 50 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Man... I bet if I
-	got to be in that
-	commercial,
+	Nossa... Aposto que,
+	se eu tivesse sido
+	escalado pro comercial,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd get lots of
-	cool character
-	toys too...
+	eu também teria ganhado
+	um monte de bonecos e
+	brinquedos legais...
 	"""
 	keyWait
 		any = false
@@ -339,22 +333,22 @@ script 55 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	It sounds like some_
-	thing happened in
-	the real world...
+	Parece que aconteceu
+	alguma coisa no mundo
+	real...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This just means that
-	more work will be
-	flooding into the
+	O que só significa que
+	o tribunal vai receber
+	mais uma enxurrada de
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"courthouse,I guess."
+	"trabalhos, né?"
 	keyWait
 		any = false
 	end
@@ -364,17 +358,16 @@ script 60 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Looks like something
-	happened in Seaside
-	Town...
+	Parece que aconteceu
+	alguma coisa no Distrito
+	Beira-Mar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This means more work
-	at the courthouse,
-	yet again...
+	Ou seja, mais trabalho
+	ainda pro tribunal...
 	"""
 	keyWait
 		any = false

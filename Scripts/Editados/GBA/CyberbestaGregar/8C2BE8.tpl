@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We did it!!"
+	"Vencemos!!"
 	keyWait
 		any = false
 	clearMsg
@@ -16,7 +16,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Nice work,Lan!"
+	"Bom trabalho, Lan!"
 	keyWait
 		any = false
 	end
@@ -25,7 +25,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"AWESOME!"
+	"QUE DEMAIS!"
 	keyWait
 		any = false
 	clearMsg
@@ -36,7 +36,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"That was sooo cool!!"
+	"Foi TÃO irado!!"
 	keyWait
 		any = false
 	clearMsg
@@ -47,7 +47,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"What a show!"
+	"Arrasou!"
 	keyWait
 		any = false
 	clearMsg
@@ -58,7 +58,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviMick
 	msgOpen
-	"Hmph!!"
+	"Hmpf!!"
 	keyWait
 		any = false
 	clearMsg
@@ -70,16 +70,16 @@ script 6 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hmm,THAT was quite
-	a SPIFFY technique!
+	Hmm, VOCÊ mostrou
+	técnicas ÓTIMAS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure EVERYONE
-	LEARNED a little
-	something.
+	Estou certo de
+	que TODO MUNDO AQUI
+	aprendeu ALGUMA coisa.
 	"""
 	keyWait
 		any = false
@@ -96,16 +96,16 @@ script 7 mmbn6 {
 	controlLock
 	soundPlay
 		track = 375
-	"*ding,"
+	"Bim "
 	wait
 		frames = 42
-	"dong,"
+	"Bom "
 	wait
 		frames = 40
-	"ding,"
+	"Bim "
 	wait
 		frames = 40
-	"dong*"
+	"Bom"
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -123,8 +123,8 @@ script 8 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	PERIOD'S over.
-	Line UP,everyone!
+	Acabou a AULA.
+	Em FILA, crianças!
 	"""
 	keyWait
 		any = false
@@ -135,36 +135,36 @@ script 9 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Like I thought,you
-	and MegaMan have
-	real skills.
+	Como eu imaginei,
+	você e o MegaMan são
+	habilidosos mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That was a pretty
-	impressive battle!
+	Aquela luta foi
+	impressionante!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,class is... Oh,
-	and Mick,Teachers'
-	Room,after class.
+	Bom, turma, dispen...
+	Ah, Mick? Sala dos Pro-
+	fessores depois da aula.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Class dismissed!"
+	"Dispensados!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll leave each of
-	you to jack out when
-	you want.
+	Fiquem à vontade
+	pra desconectarem
+	quando quiserem.
 	"""
 	keyWait
 		any = false
@@ -174,7 +174,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"... Darn it!"
+	"... Saco!"
 	keyWait
 		any = false
 	end
@@ -184,9 +184,9 @@ script 11 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	Don't let all the
-	praise go to your
-	head...hmph!
+	Não vá ficar se achando
+	com todos esses elogios,
+	não... hmpf!
 	"""
 	keyWait
 		any = false
@@ -197,8 +197,8 @@ script 12 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What is his
-	problem!?
+	Qual é o problema
+	dele, hein?!
 	"""
 	keyWait
 		any = false
@@ -211,15 +211,14 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Now,now,Lan.
-	Calm down.
+	Calma, Lan, calminho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should jack out
-	soon,too.
+	Melhor a gente
+	desconectar também.
 	"""
 	keyWait
 		any = false
@@ -231,7 +230,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Yeah."
+	"... É."
 	keyWait
 		any = false
 	end

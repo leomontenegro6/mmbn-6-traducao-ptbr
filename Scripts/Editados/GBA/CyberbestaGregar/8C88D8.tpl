@@ -19,8 +19,9 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	What are you doing!?
-	Get outta there!!
+	O que é que cê tá
+	fazendo, seu louco?!
+	Sai já daí!!
 	"""
 	keyWait
 		any = false
@@ -32,25 +33,24 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"You idiot!"
+	"Idiota!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I don't
-	do this...
+	Se eu não fizer isso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	who's gonna protect
-	these penguins,huh!?
+	quem que vai proteger
+	estes pinguins, hein?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wooooah!"
+	"Aaaaahhh!"
 	keyWait
 		any = false
 	clearMsg
@@ -61,14 +61,14 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mick...you..."
+	"Mick... você..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Darn it!
-	I have to do
-	something!
+	Droga!
+	Eu tenho que fazer
+	alguma coisa!
 	"""
 	keyWait
 		any = false
@@ -80,7 +80,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Heeey!!"
+	"Eeeeei!!"
 	keyWait
 		any = false
 	end
@@ -89,7 +89,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Whaaa!!"
+	"A-aaaauugh!!"
 	keyWait
 		any = false
 	end
@@ -98,7 +98,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mr.Director!"
+	"Senhor diretor!"
 	keyWait
 		any = false
 	clearMsg
@@ -110,9 +110,9 @@ script 7 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Oh,oh,it's you __
-	the boy who brought
-	Plata back,right...?
+	A-ah, é você...
+	o menino que trouxe o
+	Plata de volta, né...?
 	"""
 	keyWait
 		any = false
@@ -124,7 +124,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What happened!?"
+	"O que aconteceu?!"
 	keyWait
 		any = false
 	clearMsg
@@ -136,48 +136,46 @@ script 9 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Just what it looks
-	like! The locks un_
-	locked themselves!
+	É o que parece!
+	As trancas se
+	abriram sozinhas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something must have
-	happened in the
-	control room...
+	Deve ter acontecido
+	alguma coisa na sala
+	de controle...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's backstage.
-	The main computer
-	in that room
+	Ela fica lá nos fundos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	controls everything
-	in this aquarium!
+	O computador central
+	nela controla tudo
+	dentro do Aquário!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course that
-	includes all the
-	cage and tank locks.
+	Incluindo, claro, as
+	trancas das gaiolas
+	e dos tanques.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it's dangerous
-	here! Please,save
-	yourself!
+	Mas é perigoso aqui!
+	Vá embora, salve-se!!
 	"""
 	keyWait
 		any = false
@@ -190,9 +188,9 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	How can I help?
-	There's gotta be
-	a way to fix this!
+	Como eu posso ajudar?
+	Tem que ter um jeito de
+	consertar esta bagunça!
 	"""
 	keyWait
 		any = false
@@ -204,51 +202,50 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"There is one way..."
+	"Bom, existe um..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,you must
-	normalize the main
-	computer.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Then,using the main
-	computer,
+	Primeiro, você precisa
+	normalizar o computador
+	central.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	broadcast the
-	"Feeding Time"
-	chime at top volume.
+	Depois, usando ele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The fish and animals
-	here are trained to
-	return to their
+	transmitir a melodia
+	de "Hora de Comer"
+	a todo o volume.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tanks and cages when
-	they hear that.
+	Os peixes e animais
+	daqui foram treinados
+	para voltarem aos seus
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you do that,then
-	maybe,just maybe...
+	tanques e gaiolas
+	ao ouvirem ela.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se você fizer isso,
+	então TALVEZ...
 	"""
 	keyWait
 		any = false
@@ -260,14 +257,14 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I understand!"
+	"Saquei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,I've gotta
-	find some way to fix
-	the main computer.
+	Primeiro, eu tenho que
+	dar um jeito de consertar
+	o computador central.
 	"""
 	keyWait
 		any = false
@@ -278,15 +275,15 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hang on Mick!
-	You too,penguins!
+	Aguenta aí, Mick!
+	Vocês também, pinguins!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna find a way
-	to fix this soon!
+	Eu vou achar um jeito
+	de consertar isso já, já!
 	"""
 	keyWait
 		any = false

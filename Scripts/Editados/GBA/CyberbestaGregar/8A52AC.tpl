@@ -21,7 +21,7 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	YAHHH!
-	IT'S A HUGE STORM!
+	QUE TEMPESTADE FORTE!
 	"""
 	keyWait
 		any = false
@@ -29,9 +29,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	What's the cause
-	of all this bad
-	weather!?
+	O que tá causando
+	esse tempo?!
 	"""
 	keyWait
 		any = false
@@ -39,24 +38,17 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	ALL OF A SUDDEN
-	A STRANGE NAVI
-	APPEARED AND
+	DE REPENTE, UM NAVI
+	ESQUISITO APARECEU E
+	INVOCOU UM VÍRUS TUFÃO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SUMMONED A TYPHOON
-	VIRUS!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	IT CAUSED THE HEAVY
-	RAIN AND BLOCKED THE
-	ROAD WITH A CLOUD...
+	ELE CAUSOU ESSA CHUVA
+	FORTE E BARROU O
+	CAMINHO COM UMA NUVEM...
 	"""
 	keyWait
 		any = false
@@ -64,9 +56,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Where is the Navi
-	that summoned the
-	typhoon virus?
+	Onde tá o Navi que
+	invocou o vírus tufão?
 	"""
 	keyWait
 		any = false
@@ -74,15 +65,16 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	IF YOU GO STRAIGHT
-	ON THIS ROAD,HE'S
+	SE VOCÊ SEGUIR DIRETO
+	NESTA ESTRADA,
+	ENCONTRARÁ ELE,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ACROSS FROM THE
-	HEAVY RAIN CLOUD.
+	LOGO APÓS A NUVEM
+	ESCURA DE CHUVA.
 	"""
 	keyWait
 		any = false
@@ -90,15 +82,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	To get the rain
-	cloud to lift,you
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	have to delete the
-	typhoon virus,right?
+	Pra fazer a nuvem se
+	dissipar, eu tenho que
+	vencer o vírus tufão, né?
 	"""
 	keyWait
 		any = false
@@ -106,25 +92,25 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	YES. THERE ARE 7
-	PIECES OF RAINBOW
-	DATA AROUND THIS
+	SIM. HÁ SETE PEDAÇOS
+	DE DADOS ARCO-ÍRIS
+	ESPALHADOS NESTA ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AREA. IF YOU GATHER
-	THEM ALL,YOU CAN
-	USE "RAINBOW POWER"!
+	SE REUNIR TODOS ELES,
+	PODERÁ UTILIZAR O
+	"PODER ARCO-ÍRIS"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MAYBE IF YOU CAN
-	ENCIRCLE THE VIRUS
-	WITH THIS POWER...
+	TALVEZ SE VOCÊ
+	CIRCUNDAR O VÍRUS
+	COM ESSE PODER...
 	"""
 	keyWait
 		any = false
@@ -132,66 +118,64 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Encircle it with
-	Rainbow Power,huh?
+	Circundar ele com
+	Poder Arco-Íris, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Got it!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	REALLY?
-	THANK YOU!
-	THANK YOU!
+	DE VERDADE?
+	OBRIGADO! OBRIGADO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...THE RAINBOW DATA
-	IS SCATTERED IN THE
-	SKY...
+	... OS DADOS ARCO-ÍRIS
+	ESTÃO ESPALHADOS PELO
+	CÉU...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IN THIS AREA THERE
-	IS A PLACE WITH A
-	SLOPED ROAD.
+	NESTA ÁREA, HÁ UM
+	LOCAL COM UMA RAMPA
+	DE SUBIDA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHERE THE ROAD
-	RISES,THERE IS A
-	CLOUD YOU CAN USE
+	NA ÁREA NO TOPO DELA,
+	HÁ UMA NUVEM QUE VOCÊ
+	PODE USAR PARA VIAJAR
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TO RIDE INTO THE
-	SKY!
+	PELO CÉU!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Gotcha!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go ride this
-	cloud!!
+	Vamos montar nessa
+	nuvem voadora!!
 	"""
 	keyWait
 		any = false
@@ -202,33 +186,32 @@ script 1 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE ARE 7 PIECES
-	OF RAINBOW DATA IN
-	THIS AREA.
+	HÁ SETE PEDAÇOS DE
+	DADOS ARCO-ÍRIS
+	NESTA ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU GATHER THEM
-	ALL,YOU CAN USE
-	"RAINBOW POWER"!
+	SE REUNIR TODOS,
+	VOCÊ PODERÁ USAR O
+	"PODER ARCO-ÍRIS"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PLEASE SURROUND THE
-	TYPHOON VIRUS WITH
-	THIS POWER.
+	POR FAVOR, CERQUE
+	O VÍRUS TUFÃO COM
+	ESSE PODER.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MAYBE YOU CAN GET
-	RID OF THE TYPHOON
-	VIRUS!
+	TALVEZ ISSO DESTRUA
+	O VÍRUS TUFÃO!
 	"""
 	keyWait
 		any = false
@@ -239,14 +222,13 @@ script 2 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THANKS TO YOU,
-	THIS AREA IS
-	BACK TO NORMAL!
+	GRAÇAS A VOCÊ, ESTA
+	ÁREA VOLTOU AO NORMAL!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"THANK YOU SO MUCH!"
+	"MUITO OBRIGADO!"
 	keyWait
 		any = false
 	end
@@ -256,17 +238,17 @@ script 3 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT SEEMS THE CLOUD
-	BLOCKING THE ROAD
-	IS GONE,BUT I THINK
+	PARECE QUE A NUVEM
+	BARRANDO A ESTRADA
+	SE FOI, MAS EU ACHO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT STRANGE NAVI
-	IS STILL AROUND
-	HERE,SO BE CAREFUL!
+	QUE AQUELE NAVI
+	ESTRANHO AINDA ESTÁ
+	POR LÁ. TOME CUIDADO!
 	"""
 	keyWait
 		any = false

@@ -16,17 +16,15 @@ script 0 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	This JudgeTree
-	will be the Mayor's
-	judge.
+	Esta Árvore Juíza irá
+	julgar o Prefeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't judge
-	someone just by
-	looking at them.
+	Não dá pra julgar uma
+	pessoa só olhando pra ela.
 	"""
 	keyWait
 		any = false
@@ -37,33 +35,33 @@ script 5 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	People have values,
-	and that is where
-	you find justice...
+	As pessoas têm valores,
+	e é neles que se
+	encontra justiça...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While we have a
-	basic concept of
-	good and evil,
+	Apesar de termos
+	uma noção básica
+	de "bem" e "mal",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this concept changes
-	with location andてor
-	the times.
+	a noção de "justiça"
+	muda com base no lugar
+	ou na época.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Transparent justice
-	is something we can
-	only have inside.
+	Justiça transparente é
+	algo que só temos dentro
+	de nós mesmos.
 	"""
 	keyWait
 		any = false
@@ -74,9 +72,9 @@ script 10 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Today there isn't
-	a big trial so I
-	can finally relax!
+	Não tem nenhum grande
+	julgamento hoje, então
+	posso finalmente relaxar!
 	"""
 	keyWait
 		any = false
@@ -84,14 +82,14 @@ script 10 mmbn6 {
 }
 script 15 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -105,7 +103,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Ahhh!! You!!"
+	"Ahhh!! Você!!"
 	keyWait
 		any = false
 	flagSet

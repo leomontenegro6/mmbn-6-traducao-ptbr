@@ -3,14 +3,14 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"Lan's new house..."
+	"A casa nova do Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was built just
-	recently,so it still
-	has that sparkle.
+	Recém-construída,
+	e, portanto, ainda tem
+	aquele brilho, sabe?
 	"""
 	keyWait
 		any = false
@@ -19,16 +19,16 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	It's Lan's
-	neighbor's house.
+	É a casa vizinha
+	à do Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't see it
-	from here,but they
-	have a rooftop pool.
+	Não dá para ver daqui,
+	mas ela tem uma
+	piscina em cima.
 	"""
 	keyWait
 		any = false
@@ -37,25 +37,24 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	It's another one
-	of Lan's neighbor's
-	houses.
+	A casa de outro
+	vizinho do Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Every morning,the
-	wife sends off her
-	husband with a hug.
+	Toda manhã, a esposa
+	se despede do marido
+	com um abraço.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're the perfect
-	couple because they
-	get along so well.
+	Os dois são um casal
+	perfeito, porque se
+	dão bem assim.
 	"""
 	keyWait
 		any = false
@@ -64,23 +63,21 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	A new house and a
-	new neighbor...
+	Casa nova,
+	vizinho novo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a garden in
-	the middle of this
-	house.
+	No meio da casa,
+	há um jardim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Talk about a modern
-	design!
+	Tá aí um design moderno!
 	"""
 	keyWait
 		any = false
@@ -89,16 +86,17 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	The flowers that Mom
-	bought especially
-	for this little
+	As flores que a
+	mãe do Lan comprou
+	especificamente para
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	flower bed are
-	growing nicely.
+	este pequeno canteiro
+	estão crescendo
+	direitinho.
 	"""
 	keyWait
 		any = false
@@ -107,24 +105,23 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	It's the LevBus
-	station.
+	É a estação de
+	Ônibus Magnético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The LevBus is what
-	connects different
-	towns together.
+	O Ônibus Magnético é o
+	que conecta os vários
+	distritos diferentes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a totally
-	futuristic mode of
-	transportation!
+	É um meio de transporte
+	futurista para valer!
 	"""
 	keyWait
 		any = false
@@ -138,24 +135,23 @@ script 6 mmbn6 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	It's the chip shop,
-	"AsterLand".
+	É a loja de chips
+	"Mundo Aster".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sounds like a shop
-	where you can find
-	all sorts of chips.
+	Parece que dá pra
+	achar todo o tipo
+	de chips aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're remodeling
-	right now,so they're
-	not open.
+	Está em reforma agora,
+	e, portanto, fechada.
 	"""
 	keyWait
 		any = false
@@ -168,18 +164,20 @@ script 7 mmbn6 {
 		jumpIfInRange = 14
 		jumpIfOutOfRange = continue
 	msgOpen
-	"\"Future site\n of the Expo\""
+	"""
+	"Futura área
+	da Exposição".
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"is what is written."
+	"É o que está\nescrito na placa."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can hear the
-	construction work
-	going on inside.
+	Pode-se ouvir barulhos
+	de construção dentro.
 	"""
 	keyWait
 		any = false
@@ -188,25 +186,24 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	It's the entrance to
-	Lan's new school,
-	Cyber Academy.
+	É a entrada da nova
+	escola do Lan, a
+	Escola Saibher.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's an infrared
-	system in place on
-	the outer wall to
+	O portão de fora possui
+	um sistema infravermelho
+	que impede o acesso de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	stop unauthorized
-	people from going
-	into the school.
+	pessoas não
+	autorizadas.
 	"""
 	keyWait
 		any = false
@@ -215,22 +212,22 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	There's a statue of
-	a blue bird sitting
-	among these flowers.
+	Em meio às flores,
+	há a estátua de um
+	pássaro azul.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With its wings out,
-	ready to fly,this
-	bird is the symbol
+	Com suas asas estendidas,
+	pronto para voar, esse
+	pássaro é o símbolo
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"of Central Town."
+	"do Bairro Central."
 	keyWait
 		any = false
 	end
@@ -238,17 +235,16 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	Up ahead is where
-	the Expo will be
-	held.
+	À frente fica o local
+	em que será a Exposição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's still under
-	construction,so you
-	can't go in.
+	Ainda está em
+	construção, logo,
+	não dá para entrar.
 	"""
 	keyWait
 		any = false
@@ -265,16 +261,14 @@ script 12 mmbn6 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	It's the Expo
-	Site...
+	É a área da Exposição...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it looks like
-	it's still under
-	construction...
+	Mas parece ainda estar
+	em construção...
 	"""
 	keyWait
 		any = false
@@ -295,16 +289,15 @@ script 13 mmbn6 {
 script 14 mmbn6 {
 	msgOpen
 	"""
-	It says:
-	"Expo Site".
+	Está escrito:
+	"Área da Exposição".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't hear any
-	construction noises
-	anymore...
+	Já não se ouve mais os
+	barulhos de construção...
 	"""
 	keyWait
 		any = false
@@ -313,9 +306,9 @@ script 14 mmbn6 {
 script 15 mmbn6 {
 	msgOpen
 	"""
-	It's the Expo Site.
-	It appears they're
-	finally finished.
+	É a área da Exposição.
+	Parece que, finalmente,
+	foi concluída.
 	"""
 	keyWait
 		any = false
@@ -327,12 +320,12 @@ script 16 mmbn6 {
 	controlLock
 	soundPlay
 		track = 373
-	"*woof,"
+	"Au,"
 	wait
 		frames = 8
 	soundPlay
 		track = 373
-	"woof!!*"
+	" au!!"
 	wait
 		frames = 8
 	soundEnableTextSFX
@@ -341,8 +334,9 @@ script 16 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	It's a RoboDog...
-	and you can jack in!
+	É um RobôCão...
+	e dá para se conectar
+	nele!
 	"""
 	keyWait
 		any = false
@@ -351,14 +345,14 @@ script 16 mmbn6 {
 script 17 mmbn6 {
 	msgOpen
 	"""
-	It's a RoboDog,but
-	for some reason,it's
-	really quiet now.
+	É um RobôCão, mas,
+	por algum motivo,
+	está imóvel agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You can jack in!!"
+	"Você pode se\nconectar nele!!"
 	keyWait
 		any = false
 	end

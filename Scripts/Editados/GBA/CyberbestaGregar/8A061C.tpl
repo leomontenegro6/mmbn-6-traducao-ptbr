@@ -10,15 +10,15 @@ script 0 mmbn6 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Guts Guts!
-	MegaMan,what's up!?
+	Guts, Guts!
+	Fala, MegaMan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can I go to the
-	Expo?
+	Hã? A gente pode
+	ir pra Exposição?
 	"""
 	keyWait
 		any = false
@@ -26,22 +26,21 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	We already decided
-	we'd go!
+	A gente já
+	decidiu que ia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me hear the
-	details!
+	Explica melhor isso aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Ahh!"
+	"Blá, blá, blá..."
 	keyWait
 		any = false
 	clearMsg
@@ -52,9 +51,8 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Gotcha!
-	I'm lookin' forward
-	to it!
+	Saquei!
+	Tô ansioso pra ir!!
 	"""
 	keyWait
 		any = false
@@ -67,9 +65,9 @@ script 1 mmbn6 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Guts Guts!
-	I can't wait to go
-	to the Expo!
+	Guts, Guts!
+	Tô doido pra ir na
+	pré-inauguração!
 	"""
 	keyWait
 		any = false
@@ -84,39 +82,37 @@ script 2 mmbn6 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Hey! What's up
-	MegaMan?
+	Opa! Oi, Mega!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh?
-	You're inviting me
-	to the Expo!?
+	Hã?
+	Tá me convidando pra
+	ir pra Exposição?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll go!!
-	Is that alright
-	Mayl!?
+	Claro que eu vou!!
+	Tudo bem, né, Mayl?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mayl
-	"Yeah!!"
+	"Aham!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Great!! Mayl's OK
-	with it too!
+	Legal!!
+	A Mayl também topou!
 	"""
 	keyWait
 		any = false
@@ -124,14 +120,13 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Mayl
 	"""
-	I wonder what
-	pavilions they
-	will have!?
+	Quais pavilhões será
+	que eles vão ter lá...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can't wait!!"
+	"Tô doida pra ver!!"
 	keyWait
 		any = false
 	flagSet
@@ -143,8 +138,8 @@ script 3 mmbn6 {
 		mugshot = Roll
 	msgOpen
 	"""
-	The Expo...
-	I'm so excited!
+	A Exposição...
+	Tô tão animada!
 	"""
 	keyWait
 		any = false
@@ -159,27 +154,25 @@ script 4 mmbn6 {
 		mugshot = Glide
 	msgOpen
 	"""
-	Ahh,Hello MegaMan!
-	What are you doing
-	today?
+	Ah, olá, MegaMan!
+	O que lhe traz aqui hoje?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hmmm,the Expo,huh?"
+	"Hmmm, a Exposição, é?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ms.Yai's schedule
-	is open that day.
+	A agenda da Srta. Yai
+	está aberta nesse dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ms.Yai,what do you
-	think?
+	Seu parecer, Srta. Yai?
 	"""
 	keyWait
 		any = false
@@ -187,32 +180,31 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Yai
 	"""
-	We've already
-	decided to go!
+	A gente decidiu que vai!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Make sure to pencil
-	it in on my
-	schedule.
+	Não esqueça de adicionar
+	esse compromisso à minha
+	agenda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Glide
-	"Understood."
+	"Como ordenar."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Yai
 	"""
-	We'll see all the
-	latest cutting_edge
-	technology!
+	Vamos poder ver as
+	tecnologias mais
+	modernas!
 	"""
 	keyWait
 		any = false
@@ -225,9 +217,9 @@ script 5 mmbn6 {
 		mugshot = Glide
 	msgOpen
 	"""
-	The Expo...
-	Should be
-	interesting!
+	A Exposição...
+	Isso deverá ser
+	deveras interessante!
 	"""
 	keyWait
 		any = false
@@ -241,28 +233,28 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"The Expo?"
+	"A Exposição?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't go there and
-	enjoy it knowing
-	that the Mayor and
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Dr.Wily are connected
-	to each other.
+	Não posso desfrutar
+	dela sabendo que o
+	Prefeito e o Dr. Wily
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,I hope you
-	understand.
+	possuem algum
+	tipo de ligação.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Lamento, mas peço
+	sua compreensão.
 	"""
 	keyWait
 		any = false
@@ -275,9 +267,9 @@ script 7 mmbn6 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Sorry,but Chaud and
-	I are taking a pass
-	on the Expo...
+	Lamento, mas o Sr. Chaud
+	e eu teremos que recusar
+	seu convite...
 	"""
 	keyWait
 		any = false
@@ -288,15 +280,14 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	ACDC AREA!
+	BEM-VINDO À ÁREA ACDC!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOPE YOU HAVE A
-	GREAT TIME HERE!!
+	ESPERO QUE VOCÊ SE
+	DIVIRTA MUITO AQUI!!
 	"""
 	keyWait
 		any = false
@@ -317,8 +308,8 @@ script 11 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hmmm,what should I
-	do today?
+	Hmmm, o que eu
+	faço hoje?
 	"""
 	keyWait
 		any = false
@@ -339,8 +330,8 @@ script 12 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I guess I'll go buy
-	a chip later!
+	Acho que vou comprar
+	um chip depois!
 	"""
 	keyWait
 		any = false
@@ -351,14 +342,14 @@ script 15 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Everyone is excited
-	about the Expo in
-	Cyber City!
+	Tá todo mundo animado
+	pra Exposição na
+	Cidade Saibher!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Sweeeettt..."
+	"Legaaaaaal!"
 	keyWait
 		any = false
 	end
@@ -368,14 +359,14 @@ script 16 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I talked to Roll...
-	She said she was
-	going to the Expo!
+	Eu falei com a Roll...
+	Ela disse que ia pra
+	Exposição!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm so jealous!!!"
+	"Ai, que inveja!!!"
 	keyWait
 		any = false
 	end
@@ -385,8 +376,8 @@ script 20 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I wanna go to the
-	Expo...
+	Eu queria ir
+	na Exposição...
 	"""
 	keyWait
 		any = false
@@ -397,9 +388,9 @@ script 21 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Aww. Right now Roll
-	and Co. are probably
-	having lots of fun!
+	Ai... Agora, a Roll e
+	os amigos devem tá
+	se divertindo tanto!
 	"""
 	keyWait
 		any = false

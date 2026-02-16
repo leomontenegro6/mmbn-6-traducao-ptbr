@@ -5,14 +5,14 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Choo,choooo!!"
+	"Tchú-tchúúú!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm ChargeMan!
-	Here's to working
-	together.
+	Eu sou o ChargeMan!
+	Façamos uma boa
+	viagem juntos.
 	"""
 	keyWait
 		any = false
@@ -25,8 +25,9 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah! It's good to
-	work with you,too!
+	Valeu! É um prazer
+	trabalhar com você
+	também!
 	"""
 	keyWait
 		any = false
@@ -39,16 +40,16 @@ script 2 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	Time to get the ol'
-	engine warmed up.
+	Hora de colocarmos um
+	carvão nessa caldeira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our first stop is
-	the cyberstation in
-	Undernet2.
+	Nossa primeira parada
+	é a cyberestação na
+	Undernet 2.
 	"""
 	keyWait
 		any = false
@@ -61,9 +62,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Undernet2,huh?
-	OK,let's head over
-	there!
+	A Undernet 2, é?
+	Beleza, bora pra lá!
 	"""
 	keyWait
 		any = false

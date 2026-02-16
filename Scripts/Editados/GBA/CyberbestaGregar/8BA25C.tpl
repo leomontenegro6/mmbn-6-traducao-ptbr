@@ -13,9 +13,9 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	There are all sorts
-	of data disks lined
-	up on this shelf.
+	Há todo o tipo de
+	discos de dados
+	nesta prateleira.
 	"""
 	keyWait
 		any = false
@@ -24,17 +24,17 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	Cyber City's current
-	weather is displayed
-	on the monitor.
+	O clima atual da Cidade
+	Saibher está sendo
+	exibido no monitor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looking at it,there
-	is a number on the
-	corner of it...
+	Olhando de perto, dá
+	para ver um número
+	bem no cantinho...
 	"""
 	keyWait
 		any = false
@@ -47,25 +47,25 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	This monitor is
-	showing the weather
-	world_wide.
+	Esse monitor está
+	mostrando o clima
+	de todo o mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When controlling the
-	weather,if you don't
-	think about the
+	Quando se está controlando
+	o tempo, se não levar
+	em consideração o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	balance of weather
-	world_wide,you could
-	create a disaster.
+	equilíbrio climático
+	global, isso pode
+	gerar um desastre.
 	"""
 	keyWait
 		any = false
@@ -74,31 +74,30 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	Compressed oxygen
-	tanks...
+	Cilindros de oxigênio...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A lot of oxygen
-	tanks are ready in
-	case of an emergency
+	É preciso ter vários
+	deles à disposição para
+	casos de emergência,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	since Sky Town is
-	floating 30,000
-	feet in the sky.
+	já que o Distrito Céu
+	fica sempre 10 km 
+	acima do solo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is a port for
-	jacking in.
+	Possuem uma entrada
+	de conexão.
 	"""
 	keyWait
 		any = false
@@ -107,14 +106,13 @@ script 4 mmbn6 {
 		jumpIfTrue = 12
 		jumpIfFalse = continue
 	clearMsg
-	"... What's this?"
+	"... Ué?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's something
-	stuck between two
-	of the tanks...
+	Tem uma coisa presa
+	entre dois cilindros...
 	"""
 	keyWait
 		any = false
@@ -130,7 +128,7 @@ script 4 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -148,16 +146,16 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	A powerful computer.
-	It's a weather
-	observation station.
+	Um computador potente.
+	É uma estação de
+	observação climática.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Operating it is not
-	a job for amateurs.
+	Operá-lo não é
+	coisa de amador.
 	"""
 	keyWait
 		any = false
@@ -166,16 +164,16 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	Various meters are
-	blinking on and off.
+	Vários medidores
+	ficam piscando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only certain people
-	know what each meter
-	represents...
+	Somente certas pessoas
+	sabem o que cada um
+	representa...
 	"""
 	keyWait
 		any = false
@@ -184,16 +182,16 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	The touch panel
-	for the weather
-	observation station.
+	O painel de toque
+	da estação de
+	observação climática.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like you
-	can jack in!
+	Parece que dá para
+	se conectar nela!
 	"""
 	keyWait
 		any = false
@@ -207,7 +205,7 @@ script 8 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -234,16 +232,16 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	msgOpen
 	"""
-	Lockers for
-	personnel.
+	Armários dos
+	funcionários.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're not special,
-	just overstuffed
-	with items...
+	Não são nada de especial.
+	Todos estão abarrotados
+	de pertences...
 	"""
 	keyWait
 		any = false

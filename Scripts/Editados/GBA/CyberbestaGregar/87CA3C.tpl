@@ -6,9 +6,8 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan let's hurry to
-	the Principal's
-	Office!
+	Lan, vamos rápido
+	pra Diretoria!
 	"""
 	keyWait
 		any = false
@@ -32,98 +31,98 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"AHHH! I'm so busy!"
+	"AHHH! Tô tão ocupado!"
 	keyWait
 		any = false
 	clearMsg
-	"Busy,busy,busy!"
+	"Ocupadíssimo!\nOcupadérrimo!"
 	keyWait
 		any = false
 	clearMsg
-	"...Huh?"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Ahh,you came to
-	answer my request!
-	"""
+	"... Hã?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,to be honest,
-	it's a somewhat
-	embarrassing job...
+	Ahh, você veio atender
+	o meu pedido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even though I am
-	working as a
-	teacher...
+	Bem, pra ser franco,
+	é uma tarefa meio
+	embaraçosa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I still like to
-	collect action
-	figures.
+	Sei que não parece,
+	eu sendo professor e
+	tudo mais,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is so
-	embarrassing...
+	mas, na verdade,
+	eu ainda gosto de
+	colecionar bonecos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is a new
-	figure coming out,
+	Ah, que vergonha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and today the stores
-	are starting to take
-	reservations.
+	Tem um novo boneco
+	que vai sair,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm busy with work,
-	so I don't have
-	time to go myself.
+	e, hoje, as lojas
+	estão começando a
+	fazer reservas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't even have
-	time to sleep!
+	Mas, como eu ando tão
+	ocupado com o trabalho,
+	não tenho tempo de ir lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I need someone
-	to go and reserve
-	the figure for me.
+	Aliás, "ir lá"?
+	Não tenho tempo
+	nem de dormir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to leave
-	a deposit,so take
-	this money with you.
+	Então preciso que
+	alguém vá lá reservar
+	o boneco pra mim.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	É preciso pagar
+	adiantado. Aqui
+	está o dinheiro.
 	"""
 	keyWait
 		any = false
@@ -135,7 +134,7 @@ script 10 mmbn6 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	"""
-	Lan got:
+	Lan adquiriu:
 	3000 Zennys!!
 	"""
 	keyWait
@@ -144,30 +143,30 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	You should go to
-	the StfToySpComp.
+	Siga para o CPU Loja
+	de Bichos de Pelúcia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can only enter
-	that computer from
-	SeasideArea.
+	É um ciberespaço
+	acessível somente a
+	partir da Área Beira-Mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks for this
-	favor!
+	Desde já,
+	agradeço o favor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Back to work for
-	me!!
+	Bom, de volta
+	ao trabalho!!
 	"""
 	keyWait
 		any = false
@@ -178,30 +177,31 @@ script 11 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Reserve the figure
-	at the StfToySpComp.
+	Reserve o boneco no
+	CPU Loja de Bichos
+	de Pelúcia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can only enter
-	that computer from
-	SeasideArea.
+	É um ciberespaço
+	acessível somente a
+	partir da Área Beira-Mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks for this
-	favor!
+	Obrigado por me
+	fazer esse favor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Back to work for
-	me!!
+	Bom, de volta
+	ao trabalho!!
 	"""
 	keyWait
 		any = false
@@ -213,7 +213,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Did you reserve it?"
+	"Você reservou?"
 	keyWait
 		any = false
 	clearMsg
@@ -222,7 +222,7 @@ script 12 mmbn6 {
 		item = 67
 		amount = 1
 	"""
-	Lan gave:
+	Lan deu:
 	"
 	"""
 	printItem
@@ -235,15 +235,15 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	YES!!!
-	THANK YOU!!!
+	MARAVILHA!!!
+	OBRIGADO!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's a reward
-	for your trouble!
+	Aqui, sua recompensa
+	pelo trabalho!
 	"""
 	keyWait
 		any = false
@@ -255,7 +255,7 @@ script 12 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -270,26 +270,25 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Now I have some
-	great motivation
-	for work!!
+	Agora estou triplamente
+	motivado pra trabalhar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But I'm still busy!"
+	"... Só que isso não me\ndeixa menos ocupado...!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -301,14 +300,13 @@ script 13 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Now I have some
-	great motivation
-	for work!!
+	Agora estou triplamente
+	motivado pra trabalhar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But I'm still busy!"
+	"... Só que isso não me\ndeixa menos ocupado...!"
 	keyWait
 		any = false
 	end

@@ -16,64 +16,60 @@ script 0 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	You must be the
-	one that took my
-	request!?
+	Ah, foi você quem
+	aceitou o meu pedido?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well let me tell
-	you about my
-	request...
+	Tá, eu vou
+	explicar o rolo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was going to
-	practice virus
-	busting,so I brought
+	Eu decidi treinar
+	deleção de vírus.
+	Daí trouxe uns vírus
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a virus from home,
-	plugged it into the
-	blackboard;but now,
+	de casa e soltei
+	no quadro-negro
+	pra deletar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	no matter what I do,
-	I can't delete the
-	virus...
+	Mas, por mais que eu
+	tente, não consigo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please! Take care
-	of the virus for
-	me!!
+	Por favor! Apaga
+	os vírus pra mim!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If my teacher finds
-	out,he's going to
-	OWN me!
+	Se o meu professor
+	descobre, eu tô MUITO
+	frita!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks for your
-	help!!
+	Desde já,
+	agradeço a ajuda!!
 	"""
 	keyWait
 		any = false
@@ -84,16 +80,16 @@ script 1 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Please delete the
-	virus I left inside
-	the blackboard!
+	Por favor, deleta os
+	vírus que eu deixei
+	no quadro-negro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks for your
-	help!!
+	Desde já,
+	agradeço a ajuda!!
 	"""
 	keyWait
 		any = false
@@ -122,16 +118,15 @@ script 2 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	You got all the
-	viruses!?
-	THANKS!!
+	Você conseguiu?!
+	OBRIGADA!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here is a reward
-	for your help!!
+	Toma aqui uma
+	recompensa pela força!!
 	"""
 	keyWait
 		any = false
@@ -145,8 +140,8 @@ script 2 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
-	"10 BugFrags"!!
+	Lan adquiriu:
+	"10 FragBugs"!!
 	"""
 	keyWait
 		any = false
@@ -155,19 +150,19 @@ script 2 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Girl
-	"Thank you!"
+	"Obrigada, de verdade!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -179,17 +174,16 @@ script 3 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Next time,I'll make
-	sure to use only a
-	virus I can delete!
+	Na próxima, vou cuidar
+	pra usar vírus que eu
+	seja capaz de deletar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now I got to
-	get back to
-	practicing!!
+	Mas, agora, de
+	volta ao treino!!
 	"""
 	keyWait
 		any = false
@@ -200,14 +194,13 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All the way out
-	here... This thing
-	really moved!!
+	Nossa, ele chegou AQUI?
+	Esse aí andou pra burro!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Penguin Capture!"
+	"Pinguim capturado!"
 	keyWait
 		any = false
 	flagSet
@@ -236,16 +229,15 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	We've got all
-	the penguins now!
+	Pronto, pegamos
+	todos os pinguins!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright! Let's get
-	back to the
-	requestor!!
+	Beleza! Bora voltar
+	lá pro solicitante!!
 	"""
 	keyWait
 		any = false
@@ -265,56 +257,38 @@ script 10 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	You got something
-	to say?
+	Que é? Tem alguma
+	coisa pra me dizer?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"How rude!!"
+	"Mal-educado!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = FriesBoy
 	"""
-	Rude!?
-	Mirror time,buddy!
+	Mal-educado?!
+	Macaco, olha
+	pro seu rabo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They call me the
-	"Dolphin" because
+	As pessoas me chamam
+	de "Golfinho" porque
+	condiz com a minha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it matches my
-	attitude!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"""
-	What!? You're the
-	famous swimmer!?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = FriesBoy
-	"""
-	I never get sick
-	of hearing that...
-	But that's me...
+	atitude!
 	"""
 	keyWait
 		any = false
@@ -322,38 +296,18 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	...I can't believe
-	it!
+	O quê?! Você é aquele
+	nadador famoso?!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"Oh...by the way..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = FriesBoy
-	"What now..."
-	keyWait
-		any = false
-	clearMsg
 	"""
-	You want me to
-	teach you how to
-	swim,right?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"That's easy!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	No need to have
-	me teach something
-	that simple...
+	He he... Eu nunca me
+	canso de ouvir isso...
+	Sim, sou eu.
 	"""
 	keyWait
 		any = false
@@ -361,16 +315,52 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Really?
-	What should I
-	do then?
+	... Eu não acredito!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Ah... Então..."
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = FriesBoy
+	"O que é agora?"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Já sei: quer que eu
+	te ensine a nadar, né?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"É moleza!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Nem tem por que eu
+	"ensinar" uma coisa
+	fácil assim...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"""
+	Ah, é?
+	Então, o que eu faço?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = FriesBoy
-	"Get fat."
+	"Fica gordo."
 	keyWait
 		any = false
 	clearMsg
@@ -383,37 +373,31 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = FriesBoy
 	"""
-	You don't believe
-	me!?!?
+	Não acredita
+	em mim, né?!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I figured that out
-	after long years of
-	research!
+	Eu descobri isso
+	depois de muitos
+	anos de pesquisa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If people had more
-	blubber on them,
+	As pessoas que têm
+	mais carne no corpo
+	nadam feito peixinhos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they'd move like
-	a fish!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	That's why I am
-	this big...
+	Por isso que eu
+	sou grande assim...
 	"""
 	keyWait
 		any = false
@@ -427,16 +411,16 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = FriesBoy
 	"""
-	You still don't
-	believe it!?
+	Ainda não
+	acredita em mim?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fine. Just this one
-	time I'll give this
-	to you to try out!
+	Tá bom. Só desta vez,
+	eu vou te dar isto aqui
+	pra você experimentar!
 	"""
 	keyWait
 		any = false
@@ -448,7 +432,7 @@ script 10 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -462,45 +446,43 @@ script 10 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"What's this...?"
+	"O que é isso...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = FriesBoy
 	"""
-	Some nice greasy
-	fries...
+	Batatas fritas
+	bem oleosas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Special,crispy,
-	high_calorie fries.
+	São especiais, crocantes
+	e altamente calóricas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eat those for a
-	week and get some
-	blubber!
+	Come elas por uma semana
+	e dá uma enchida!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then jump in the
-	water and try
-	swimming!
+	Daí, pula na água
+	e tenta nadar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll float for
-	sure!!
+	É sério: você vai
+	FLUTUAR, cara!!
 	"""
 	keyWait
 		any = false
@@ -508,16 +490,16 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I don't know if
-	you're lying or
-	if you're right!
+	... Eu realmente não
+	sei dizer se cê tá
+	zoando com a minha cara.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = FriesBoy
-	"Believe!!"
+	"Tenha fé!!"
 	keyWait
 		any = false
 	end
@@ -527,38 +509,36 @@ script 11 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	Those are some nice
-	greasy fries...
+	Essas aí são batatas
+	fritas bem oleosas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Special,crispy,
-	high_calorie fries.
+	Especiais, crocantes
+	e altamente calóricas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eat those for a
-	week and get some
-	blubber!
+	Come elas por uma semana
+	e dá uma enchida!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then jump in the
-	water and try
-	swimming!
+	Daí, pula na água
+	e tenta nadar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll float for
-	sure!!
+	É sério: você vai
+	FLUTUAR, cara!!
 	"""
 	keyWait
 		any = false
@@ -566,16 +546,16 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I don't know if
-	you're lying or
-	if you're right!
+	... Eu realmente não
+	sei dizer se cê tá
+	zoando com a minha cara.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = FriesBoy
-	"Believe!!"
+	"Tenha fé!!"
 	keyWait
 		any = false
 	end

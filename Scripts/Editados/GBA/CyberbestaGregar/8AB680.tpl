@@ -6,8 +6,7 @@ script 0 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	Where are you
-	going!?
+	Aonde você vai?!
 	"""
 	keyWait
 		any = false
@@ -21,21 +20,20 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IF IT'S ABOUT FOOD,
-	LEAVE IT TO ME!!
+	SE O ASSUNTO É COMIDA,
+	DEIXA COMIGO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I KNOW HOW TO
-	COOK ALMOST
-	ANYTHING!!
+	SOU CAPAZ DE
+	PREPARAR QUASE TUDO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"LET'S GET COOKING!"
+	"MÃOS NA MASSA!"
 	keyWait
 		any = false
 	end
@@ -45,17 +43,15 @@ script 6 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I AM THE PROGRAM
-	FOR THIS REFERENCE
-	BOOK...
+	SOU O PROG DESTE
+	LIVRO DE REFERÊNCIAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	READING THIS BOOK
-	WILL BE LIKE A
-	REVELATION!
+	LÊ-LO SERÁ COMO
+	UMA REVELAÇÃO!
 	"""
 	keyWait
 		any = false

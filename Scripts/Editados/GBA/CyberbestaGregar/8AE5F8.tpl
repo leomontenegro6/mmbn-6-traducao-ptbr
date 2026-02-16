@@ -6,31 +6,31 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE
-	PRINCIPAL'S OFFICE
-	COMP!
+	ESTE É O COMPUTADOR
+	DA DIRETORIA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE HEAD OF THIS
-	OFFICE IS NONE OTHER
-	THAN MAYOR CAIN!
+	E O DIRETOR AQUI É
+	NINGUÉM MENOS QUE
+	O PREFEITO CAIN!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...WHAT? MAYOR CAIN
-	HAS BEEN ARRESTED?
+	... O QUÊ?
+	ELE FOI PRESO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HAHAHA!
-	DON'T KID WITH ME!
+	HA HA HA!
+	VAMOS, NÃO FAÇA
+	ESSAS BRINCADEIRAS!
 	"""
 	keyWait
 		any = false

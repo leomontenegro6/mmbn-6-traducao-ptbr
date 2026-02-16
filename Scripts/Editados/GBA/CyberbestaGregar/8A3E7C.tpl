@@ -12,9 +12,9 @@ script 5 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Hey!
-	Are you with the
-	criminals!?
+	Ei!
+	Você tá com
+	os bandidos?!
 	"""
 	keyWait
 		any = false
@@ -22,30 +22,29 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'm MegaMan!
-	I'm here to help
-	you!!
+	Eu sou o MegaMan!
+	Eu vim pra te ajudar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"Really!?"
+	"Sério?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But... Programs
-	are binding my
-	hands and feet!
+	Mas... Tem Progs
+	prendendo minhas
+	mãos e pés!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"OK. Wait a sec."
+	"Tá. Só um segundo."
 	keyWait
 		any = false
 	clearMsg
@@ -59,44 +58,43 @@ script 5 mmbn6 {
 	waitSkip
 		frames = 30
 	"""
-	OK!
-	You're fine now!
+	Pronto!
+	Você tá bem agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"Thanks,MegaMan!"
+	"Valeu, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"No problem!"
+	"Disponha sempre!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan! Let's
-	get back to the
-	criminal!!
+	MegaMan! Bora voltar
+	lá pro criminoso!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll make him
-	give up!!
+	A gente vai fazer
+	ele parar com isso!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Let's do it!"
+	"Vamos lá!"
 	keyWait
 		any = false
 	end
@@ -106,8 +104,8 @@ script 6 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Thank you!
-	Thank you!
+	Obrigado!
+	Obrigado!
 	"""
 	keyWait
 		any = false

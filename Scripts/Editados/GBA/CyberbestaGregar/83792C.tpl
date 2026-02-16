@@ -6,15 +6,15 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you OK?
-	Are you hurt?
+	Você tá legal?
+	Se machucou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't worry,we took
-	care of the RoboDog!
+	Relaxa, a gente deu
+	um jeito no RobôCão!
 	"""
 	keyWait
 		any = false
@@ -26,12 +26,12 @@ script 1 mmbn6 {
 	controlLock
 	soundPlay
 		track = 373
-	"*woof,"
+	"Au, "
 	wait
 		frames = 16
 	soundPlay
 		track = 373
-	"woof!!*"
+	"au!!"
 	wait
 		frames = 16
 	soundEnableTextSFX
@@ -45,20 +45,20 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Um...
-	I'm Lan Hikari.
+	Er...
+	O meu nome é Lan Hikari.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm new here__
-	I just moved in.
+	Eu sou novo aqui,
+	acabei de me mudar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's your name?"
+	"Qual é o seu?"
 	keyWait
 		any = false
 	clearMsg
@@ -70,8 +70,8 @@ script 3 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	...nks...
-	...or...
+	... igada...
+	... or...
 	"""
 	keyWait
 		any = false
@@ -83,7 +83,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -95,8 +95,8 @@ script 5 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	T_Thanks... for...
-	helping... me...
+	O-obrigada... por...
+	me... ajudar...
 	"""
 	keyWait
 		any = false
@@ -106,7 +106,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's with her...?"
+	"Qual é a dela...?"
 	keyWait
 		any = false
 	clearMsg
@@ -118,8 +118,8 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	She's embarrassed,
-	I think...
+	Acho que ela ficou
+	com vergonha...
 	"""
 	keyWait
 		any = false
@@ -129,21 +129,21 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh..."
+	"Ah..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,she's not hurt,
-	so I guess she
-	should be OK.
+	Bom, eu vi que ela não
+	se machucou, então acho
+	que tá tudo bem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get back to
-	looking around town!
+	Bora continuar
+	explorando o bairro!
 	"""
 	keyWait
 		any = false
@@ -155,12 +155,12 @@ script 9 mmbn6 {
 	controlLock
 	soundPlay
 		track = 373
-	"*woof,"
+	"Au, "
 	wait
 		frames = 16
 	soundPlay
 		track = 373
-	"woof!!*"
+	"au!!"
 	wait
 		frames = 16
 	soundEnableTextSFX

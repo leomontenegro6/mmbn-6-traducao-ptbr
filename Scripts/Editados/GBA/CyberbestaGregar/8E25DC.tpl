@@ -7,8 +7,8 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	......
-	What are they going
-	to do to MegaMan...?
+	O que eles vão fazer
+	com o MegaMan...?
 	"""
 	keyWait
 		any = false
@@ -18,14 +18,14 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"... Lan,I'm sorry..."
+	"... Lan, eu sinto muito..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's because of our
-	Navis that this
-	happened.
+	Tudo isso só aconteceu
+	por causa dos nossos
+	Navis.
 	"""
 	keyWait
 		any = false
@@ -36,30 +36,30 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No,it's not your
-	fault.
+	Não, a culpa
+	não é de vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They've been after
-	MegaMan for a while.
+	Eles já tavam caçando
+	o MegaMan faz tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,everyone
-	was in danger
-	because of us...
+	Na verdade, todo mundo
+	tá correndo perigo
+	por culpa NOSSA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I should be the one
-	saying sorry...
+	Eu é quem devia tá
+	pedindo desculpa...
 	"""
 	keyWait
 		any = false
@@ -72,8 +72,8 @@ script 3 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hey,don't beat
-	yourself up,Lan!!
+	Ô, não se condena
+	assim, não, Lan!!
 	"""
 	keyWait
 		any = false
@@ -86,17 +86,17 @@ script 4 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	He'll never change.
-	Always quick to
-	blame himself.
+	Ele não muda nunca.
+	O primeiro reflexo
+	é sempre se culpar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the real problem
-	is,what do we do
-	now?
+	O verdadeiro problema
+	aqui é o que a gente
+	faz agora.
 	"""
 	keyWait
 		any = false
@@ -109,25 +109,25 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmm... For now,I
-	should go back to
-	Cyber City.
+	Hmm... Por enquanto, é
+	melhor eu voltar pra
+	Cidade Saibher.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I can get
-	info on MegaMan's
-	status there.
+	Acho que eu posso
+	aprender sobre a
+	situação do MegaMan lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry. I came
-	here to have fun,and
-	then this happened.
+	Desculpa, gente.
+	Eu vim aqui curtir com
+	vocês, e isso acontece.
 	"""
 	keyWait
 		any = false

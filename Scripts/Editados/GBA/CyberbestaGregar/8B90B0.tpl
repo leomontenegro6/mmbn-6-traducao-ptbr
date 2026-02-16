@@ -4,24 +4,23 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	This main computer
-	controls everything
-	in the Aquarium.
+	O computador central
+	controla tudo no Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cages and tanks can
-	be locked and
-	unlocked with this.
+	É possível trancar e
+	destrancar gaiolas e
+	tanques com ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can jack in to
-	it.
+	Possui uma entrada
+	para conexão.
 	"""
 	keyWait
 		any = false
@@ -30,14 +29,14 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	It looks like this
-	computer controls
-	the water pipes...
+	Parece que esse
+	computador controla
+	os dutos de água...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You can jack in."
+	"Dá para se conectar nele."
 	keyWait
 		any = false
 	end
@@ -45,9 +44,8 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	This ladder leads
-	down into the sewer
-	water...
+	Essa escada leva às
+	águas do esgoto...
 	"""
 	keyWait
 		any = false
@@ -57,9 +55,8 @@ script 2 mmbn6 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	There's something
-	floating on the
-	water...
+	Tem uma coisa
+	flutuando na água...
 	"""
 	keyWait
 		any = false
@@ -71,7 +68,7 @@ script 2 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -89,24 +86,23 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	This main computer
-	controls everything
-	in the Aquarium.
+	O computador central
+	controla tudo no Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cages and tanks can
-	be unlocked and
-	locked with this.
+	É possível trancar e
+	destrancar gaiolas e
+	tanques com ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can jack in to
-	it.
+	Possui uma entrada
+	para conexão.
 	"""
 	keyWait
 		any = false
@@ -115,9 +111,8 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	The ventilation
-	fan... There's some
-	dust on it.
+	O duto de ventilação...
+	Está meio empoeirado.
 	"""
 	keyWait
 		any = false
@@ -126,9 +121,9 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	It's a control box.
-	But what does it
-	control...?
+	É uma caixa de controle.
+	Mas o que será que ela
+	controla...?
 	"""
 	keyWait
 		any = false

@@ -6,28 +6,27 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We have to go to the
-	back of this deep
-	cave...?
+	A gente tem que ir
+	lá pro fundo desse
+	abismo...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what kind
-	of world it is...
+	Que tipo de mundo
+	será lá...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's really
-	creepy...
+	É de dar arrepios...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But we can do it!"
+	"mas a gente dá conta!"
 	keyWait
 		any = false
 	clearMsg
@@ -52,7 +51,7 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's head out,
+	Vamos nessa,
 	HeatMan.
 	"""
 	keyWait
@@ -60,7 +59,7 @@ script 1 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = HeatMan
-	"OK,let's burn!"
+	"Pode vir quente,\nque eu tô fervendo!"
 	keyWait
 		any = false
 	end
@@ -70,15 +69,15 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's head out,
-	SpoutMan.
+	Vamos nessa,
+	AquaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SpoutMan
-	"Alright,drip."
+	"Vamos, xuá."
 	keyWait
 		any = false
 	end
@@ -88,7 +87,7 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's head out,
+	Vamos nessa,
 	SlashMan.
 	"""
 	keyWait
@@ -96,7 +95,7 @@ script 3 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = SlashMan
-	"Slash! OK!"
+	"Fuish! OK!"
 	keyWait
 		any = false
 	end
@@ -106,7 +105,7 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's head out,
+	Vamos nessa,
 	TenguMan.
 	"""
 	keyWait
@@ -114,7 +113,7 @@ script 4 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = TenguMan
-	"Onward!"
+	"Avante!"
 	keyWait
 		any = false
 	end
@@ -124,7 +123,7 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's head out,
+	Vamos nessa,
 	ElecMan.
 	"""
 	keyWait
@@ -132,7 +131,7 @@ script 5 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = ElecMan
-	"Yes,let's..."
+	"Sim..."
 	keyWait
 		any = false
 	end
@@ -142,7 +141,7 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's head out,
+	Vamos nessa,
 	TomahawkMan.
 	"""
 	keyWait
@@ -151,9 +150,9 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = TomahawkMan
 	"""
-	I thought you'd
-	never say so! Let's
-	get going already!
+	Tava demorando
+	pra falar, hein?!
+	Só bora!
 	"""
 	keyWait
 		any = false
@@ -164,7 +163,7 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's head out,
+	Vamos nessa,
 	GroundMan.
 	"""
 	keyWait
@@ -173,9 +172,8 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	"""
-	Yeah! I'll drill
-	my way through if
-	I have to!!
+	É! Eu vou cavando,
+	se precisar!!
 	"""
 	keyWait
 		any = false
@@ -186,7 +184,7 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's head out,
+	Vamos nessa,
 	DustMan.
 	"""
 	keyWait
@@ -195,8 +193,8 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	"""
-	Gahahahaha!
-	Leave it to me!
+	Ga ha ha ha ha!
+	Deixa comigo!
 	"""
 	keyWait
 		any = false
@@ -207,7 +205,7 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's head out,
+	Vamos nessa,
 	ChargeMan.
 	"""
 	keyWait
@@ -216,8 +214,8 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	"""
-	Ready for departure!
-	Chuga_chuga!!
+	Pronto para partir!
+	Tchú-tchúúú!!
 	"""
 	keyWait
 		any = false
@@ -228,8 +226,8 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's head out,
-	EraseMan.
+	Vamos nessa,
+	Killerman.
 	"""
 	keyWait
 		any = false
@@ -237,9 +235,9 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	"""
-	The Underground,huh?
-	Sounds like my type
-	of place...
+	O SubSolo, é?
+	Sinto que eu vou
+	adorar o lugar...
 	"""
 	keyWait
 		any = false

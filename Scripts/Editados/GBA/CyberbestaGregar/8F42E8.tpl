@@ -8,7 +8,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Cybeast... Gregar!!"
+	"A Cyberbesta... Gregar!!"
 	keyWait
 		any = false
 	end
@@ -17,7 +17,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Cybeast... Falzar!!"
+	"A Cyberbesta... Falzar!!"
 	keyWait
 		any = false
 	end
@@ -27,9 +27,9 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If we don't beat him
-	now,there won't be
-	a tomorrow!
+	Se a gente não vencer
+	ela agora, não vai ter
+	um amanhã!
 	"""
 	keyWait
 		any = false
@@ -41,7 +41,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!!"
+	"É!!"
 	keyWait
 		any = false
 	end
@@ -50,22 +50,22 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"You made it,MegaMan!"
+	"Você veio, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I never thought we
-	would fight side by
-	side again.
+	Nunca pensei que
+	lutaríamos lado a
+	lado de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our opponents are
-	the Cybeasts. Be
-	extra careful!!
+	Nossos oponentes são as
+	Cyberbestas. Tenha
+	cuidado dobrado!!
 	"""
 	keyWait
 		any = false
@@ -78,8 +78,8 @@ script 5 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	Colonel,MegaMan,
-	get ready!!
+	Colonel, MegaMan,
+	preparem-se!!
 	"""
 	keyWait
 		any = false
@@ -97,7 +97,7 @@ script 6 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*roooooooooar!!*"
+	"Raaaaaaarrr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -119,7 +119,7 @@ script 7 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeeeeech!!*"
+	"Kyaaaaaarhh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -136,14 +136,14 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"You stupid fools!"
+	"Tolos ignorantes!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Cybeasts are
-	more powerful than
-	you can imagine!
+	As Cyberbestas são
+	muito mais poderosas
+	do que podem imaginar!
 	"""
 	keyWait
 		any = false
@@ -156,16 +156,17 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It doesn't matter!
-	We will stop you,
-	Dr.Wily!
+	Isso não importa!
+	A gente VAI te
+	deter, Dr. Wily!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go,MegaMan!
-	Battle routine,set!
+	Vamos lá, MegaMan!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -177,7 +178,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -197,7 +198,7 @@ script 11 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*roooooooooar!!*"
+	"Raaaaaaaaarr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -220,7 +221,7 @@ script 12 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeeeeech!!*"
+	"Kyaaaaaarhh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX

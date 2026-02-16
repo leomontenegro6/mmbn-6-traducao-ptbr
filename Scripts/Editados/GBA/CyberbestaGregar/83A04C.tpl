@@ -6,47 +6,47 @@ script 1 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Activatin' a Cross
-	lets ya use a
-	linked Navi's power.
+	Ativar uma União Cruzada
+	faz você poder usar o
+	poder de um Navi ligado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once you've linked,
-	you'll stay that way
-	durin' the battle.
+	Uma vez que você ativa
+	o elo, ele fica assim
+	a batalha inteira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To link up,press Up
-	on the +Control Pad
+	Para fazer a união,
+	aperte o direcional
+	para cima
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when selectin' a
-	chip on the Custom
-	Screen.
+	na hora de selecionar
+	um chip na Tela de
+	Customização.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then select a Navi
-	to link with on the
-	CrossSelect Screen.
+	Daí selecione um Navi
+	pra se unir na Tela
+	de Seleção Cruzada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go on! Give it a
-	try yerself!
+	Vai! Experimenta!
 	"""
 	keyWait
 		any = false
@@ -57,43 +57,43 @@ script 2 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	OK,now that's how
-	ya activate a Cross!
-	Now to try it out!
+	E é assim que se faz
+	uma União Cruzada!
+	Vai, brinca com ela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HeatCross will
-	launch a FireArm 3
-	panels forward when
+	A HeatCruz dispara
+	um FireArm 3 quadros
+	à frente quando
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"powered up!"
+	"carregada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fire Chips that
-	don't dim the screen
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	will also get
-	Attack+50!
+	Além disso, chips de
+	Fogo que não "param
+	o tempo" ganham mais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not to mention that
-	the Buster attack
-	will be +1.
+	50 pontos de ataque!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ah, e o ataque
+	do MegaTiro é
+	aumentado em um.
 	"""
 	keyWait
 		any = false
@@ -104,56 +104,54 @@ script 3 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Got a grip on this
-	yet?
+	Já sacou como funciona?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Using Cross to link
-	with a Navi will
-	give ya its power,
+	Usar a União Cruzada
+	pra se ligar a um Navi
+	te dá os poderes dele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but yer gonna
-	have to keep track
-	of a few things.
+	mas você ainda tem
+	que ficar esperto
+	pra umas coisas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ya'll take 2x
-	damage against hits
-	that exploit your
+	Golpes que atingem a
+	sua fraqueza causam
+	dano dobrado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	weaknesses,as well
-	as break yer link
-	with the Cross.
+	além de também
+	quebrar o seu elo
+	com a União Cruzada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In this case,
-	HeatCross is weak
-	against Aqua.
+	Neste caso, o HeatCruz
+	é fraco contra Água.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter what Cross
-	ya use,be aware of
-	its weaknesses.
+	Sempre que usar uma
+	União Cruzada, fique
+	atento pra fraqueza dela.
 	"""
 	keyWait
 		any = false
@@ -164,8 +162,8 @@ script 4 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Pick a Cross now,
-	ya hear?
+	Escolhe uma União
+	Cruzada, rapaz!
 	"""
 	keyWait
 		any = false
@@ -176,9 +174,9 @@ script 5 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Huh?
-	What ya cancellin'
-	for!? Don't do it!
+	Hã?
+	Vai cancelar pra quê?!
+	Pode parar!
 	"""
 	keyWait
 		any = false
@@ -189,8 +187,8 @@ script 6 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Hey! Hey! Why
-	ya runnin' away?!
+	Epa! Opa!
+	Vai fugir por quê?!
 	"""
 	keyWait
 		any = false

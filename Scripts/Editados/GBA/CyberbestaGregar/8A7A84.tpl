@@ -6,16 +6,16 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It looks like some
-	Navis are gathering
-	together...
+	Parece que tem uns
+	Navis se reunindo ali...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's going on?
-	Let's go and ask!
+	O que será
+	que tá rolando?
+	Vamos perguntar!
 	"""
 	keyWait
 		any = false
@@ -26,33 +26,32 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	...PEOPLE ARE
-	BEINGS WHO HAVE
-	MANY FAULTS...
+	... AS PESSOAS SÃO
+	SERES CHEIOS DE
+	FALHAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT IS WHY THEY
-	NEED THE RULES
-	THEY CALL LAWS.
+	E É POR ISSO QUE ELAS
+	PRECISAM DAS REGRAS,
+	VULGO "LEIS".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THUS,THOSE OF YOU
-	HERE AT THE GREEN
-	HP,
+	LOGO, VOCÊS QUE
+	ESTÃO AQUI, NA
+	PÁGINA VERDE,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WILL RECEIVE THE
-	THE GRAND TRADITION
-	OF THE LAW!
+	RECEBERÃO A GRANDE
+	TRADIÇÃO DAS LEIS!
 	"""
 	keyWait
 		any = false
@@ -77,104 +76,108 @@ script 10 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Thank ya,thank ya!
-	Thank ya fer takin'
-	me request!
+	Opa, opa!
+	Pô, valeu por aceitar
+	o meu pedido, firmeza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lemme tell ya 'bout
-	it!
+	Enfim, xô te
+	explicar o negócio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Me job is ta lend
-	people money.
+	O meu trabalho é
+	emprestar dinheiro
+	pros outros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One o' me customers,
-	a bad Navi at that,
+	E tem esse cliente
+	meu, véi, um Navi
+	mó do mal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	once he gets a loan,
-	he uses all da
-	money!
+	que, quando recebe
+	um empréstimo, já
+	sai gastando tudo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He even looks like
-	a bad Navi...
+	Ele tem até cara
+	de Navi do mal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And he's got no
-	plan ta pay me back!
+	E eu SEI que ele não
+	tá nem pensando em me
+	pagar! Mó caô!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Accordin' to me
-	investigation,he
+	De acordo com a
+	investigação que eu fiz,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	should be gettin'
-	his bonus today.
+	ele vai receber o bônus
+	de salário dele hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now he can be
-	payin' me back...
+	Agora ele vai poder
+	me dar o dindim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...and I'd like ya
-	to get me money
-	back fer me!
+	... e eu quero que cê
+	vá nele descolar a
+	grana, brother!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But remember that
-	once he gets his
-	bonus,he'll use it!
+	Mas não esquece: assim
+	que ele botar a mão no
+	bônus, ele VAI gastar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If ya watch fer him
-	near a chip shop,he
-	should show up.
+	Se cê ficar esperando
+	perto de uma loja de
+	chips, ele deve colar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good luck gettin'
-	back me money!
+	Boa sorte aí pra
+	recuperar a minha
+	grana!
 	"""
 	keyWait
 		any = false
@@ -185,53 +188,55 @@ script 11 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Checkin' the
-	facts?
+	Revisando as parada?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Me job is ta lend
-	people money.
+	O meu trampo é
+	emprestar dinheiro
+	"prozoutro".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One o' me customers,
-	is a very bad Navi.
+	E tem esse cliente
+	meu, véi, um Navi
+	mó do mal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And he's got no
-	plan ta pay me back!
+	e eu SEI que ele não
+	tá nem pensando em me
+	pagar! Mó caô!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd like ya to get
-	me money back fer
-	me!
+	E eu quero que cê
+	vá nele descolar
+	a grana, brother!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But remember that
-	once he gets his
-	bonus,he'll use it!
+	Mas não esquece: assim
+	que ele botar a mão no
+	bônus, ele VAI gastar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If ya watch fer him
-	near a chip shop,he
-	should show up.
+	Se cê ficar esperando
+	perto de uma loja de
+	chips, ele deve colar.
 	"""
 	keyWait
 		any = false
@@ -244,13 +249,13 @@ script 12 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Ahhh! Ya got me
-	money back fer me!?
+	Ahhh! Cê recuperou
+	a minha grana?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Re,really? Great!"
+	"S-sérião? Ô, louco!"
 	keyWait
 		any = false
 	clearMsg
@@ -259,7 +264,7 @@ script 12 mmbn6 {
 		amount = 1
 	mugshotHide
 	"""
-	MegaMan gave:
+	MegaMan deu:
 	"
 	"""
 	printItem
@@ -272,24 +277,24 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	Well done...
-	And from such a
-	frightenin' Navi!
+	Show demais...
+	Ainda mais sendo de
+	um Navi tão sinistro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I couldn't do
-	sumthin' like that!
+	Nunca que eu ia
+	conseguir resolver
+	um B.O. desses!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,fer gettin' it
-	back,here's ya
-	reward!
+	Bom, aqui tua recompensa
+	por trazer a grana!
 	"""
 	keyWait
 		any = false
@@ -304,7 +309,7 @@ script 12 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"5000 Zennys"!!
 	"""
 	keyWait
@@ -315,21 +320,20 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	Thanks fer
-	ev'rything!
+	Valeu aí, brother!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -341,16 +345,15 @@ script 13 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Thanks fer
-	ev'rything!
+	Valeu aí, brother!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I ever need
-	help again,I know
-	who to call!!
+	Se eu precisar de
+	ajuda de novo, já
+	sei pra quem falar!!
 	"""
 	keyWait
 		any = false
@@ -379,72 +382,71 @@ script 20 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You're the one who
-	answered my smokin'
-	request?
+	Foi você quem pegou
+	o meu pedido, rapaz?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a guy with a
-	burnin' soul...
+	Eu sou um cara com
+	uma alma ardente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to set this
-	cold world on fire
-	with my hot soul!
+	e eu quero botar fogo
+	neste mundo frio com
+	o calor da minha alma!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Basically...
-	Soul to Soul!
-	That's my policy!
+	... Basicamente...
+	Alma a Alma!
+	Esse é a minha filosofia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To give everything
-	the proper respect,
-	those who follow
+	E, pra dar o devido
+	respeito a tudo,
+	aqueles que seguem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this policy are
-	called
-	"SoulBattlers"!
+	essa filosofia são
+	chamados de
+	"AlmaLutadores"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...I'm looking for
-	people who can see
-	what we are doing...
+	... Estou atrás de
+	gente que entenda
+	o que estamos fazendo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There still aren't
-	that many
-	SoulBattlers...
+	Não são muitos os
+	AlmaLutadores por
+	enquanto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Would you like to
-	get Soul to Soul
-	with our group?
+	Tá a fim de fazer
+	um Alma a Alma
+	com o nosso grupo?
 	"""
 	keyWait
 		any = false
@@ -460,7 +462,7 @@ script 20 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -469,7 +471,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -483,7 +485,7 @@ script 20 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"That's too bad..."
+	"Que pena..."
 	keyWait
 		any = false
 	end
@@ -493,32 +495,31 @@ script 21 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Want to rethink
-	things?
+	Repensou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...I'm looking for
-	people who can see
-	what we are doing...
+	... Estou atrás de
+	gente que entenda
+	o que estamos fazendo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There still aren't
-	that many
-	SoulBattlers...
+	Não são muitos os
+	AlmaLutadores por
+	enquanto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Would you like to
-	get Soul to Soul
-	with our group?
+	Tá a fim de fazer
+	um Alma a Alma
+	com o nosso grupo?
 	"""
 	keyWait
 		any = false
@@ -534,7 +535,7 @@ script 21 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -543,7 +544,7 @@ script 21 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -557,7 +558,7 @@ script 21 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"That's too bad..."
+	"Pena..."
 	keyWait
 		any = false
 	end
@@ -569,69 +570,69 @@ script 22 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	...Alright,so you
-	share our purpose!
+	... Maravilha, então
+	cê também compartilha
+	do nosso propósito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're a
-	SoulBattler now!
+	Agora, você é
+	um AlmaLutador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go spread
-	the Soul to Soul
-	message!
+	Vamos lá espalhar
+	a mensagem do
+	Alma a Alma!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Right now,the Net
-	Mafia is having a
-	top secret meeting.
+	Agora mesmo, a NetMáfia
+	está fazendo uma
+	reunião ultra-secreta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They must be making
-	evil plans...
+	Devem estar planejando
+	planos malignos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you want to help
-	me stop them?
+	Você aceitaria me
+	ajudar a detê-los?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As far as their
-	meeting place,
-	the area around
+	Quanto ao local da
+	reunião, a área do
+	Distrito Verde
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Green Town looks
-	suspicious,so I am
-	watching it closely.
+	parece suspeita, então
+	tenho vigiado ela com
+	muita atenção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go check out the
-	area!
-	Good luck!!
+	Vá lá conferir a área!
+	Boa sorte!!
 	"""
 	keyWait
 		any = false
@@ -642,47 +643,46 @@ script 23 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Right now,the Net
-	Mafia is having a
-	top secret meeting.
+	Agora mesmo, a NetMáfia
+	está fazendo uma
+	reunião ultra-secreta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They must be making
-	evil plans...
+	Devem estar planejando
+	planos malignos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you want to help
-	me stop them?
+	Você aceitaria me
+	ajudar a detê-los?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As far as their
-	meeting place,
-	the area around
+	Quanto ao local da
+	reunião, a área do
+	Distrito Verde
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Green Town looks
-	suspicious,so I am
-	watching it closely.
+	parece suspeita, então
+	tenho vigiado ela com
+	muita atenção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go check out the
-	area!
-	Good luck!!
+	Vá lá conferir a área!
+	Boa sorte!!
 	"""
 	keyWait
 		any = false
@@ -698,48 +698,47 @@ script 24 mmbn6 {
 	msgOpen
 	"""
 	Ahhh!
-	You did it!
+	Você conseguiu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks to you,we've
-	uncovered the Net
-	Mafia's evil plot!
+	Graças a você, nós
+	escancaramos o plano
+	maligno da NetMáfia!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Amazing!"
+	"Incrível!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone with this
-	kind of talent...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Not since the
-	legendary Soul
-	Battler Takeshi...
+	Um talento desses...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You are an amazing
-	SoulBattler!
+	Não vejo desde o
+	lendário AlmaLutador
+	Takeshi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me give you
-	this...
+	Você é um AlmaLutador
+	fenomenal!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Por favor,
+	aceite isto...
 	"""
 	keyWait
 		any = false
@@ -752,7 +751,7 @@ script 24 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -767,35 +766,35 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	We are all linked
-	by our souls...
+	Nós estamos todos
+	ligados por nossas
+	almas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why we say
-	Soul to Soul!
+	Logo, "Alma a Alma"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll never forget
-	a burnin' soul!
+	Uma alma ardente,
+	você nunca esquece!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -807,22 +806,22 @@ script 25 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	We are all linked
-	by our souls...
+	Nós estamos todos
+	ligados por nossas
+	almas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why we say
-	Soul to Soul!
+	Logo, "Alma a Alma"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll never forget
-	a burnin' soul!
+	Uma alma ardente,
+	você nunca esquece!
 	"""
 	keyWait
 		any = false
@@ -833,31 +832,32 @@ script 30 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EXCUSE ME...
-	WOULD YOU LIKE TO
-	TRADE HP LINKS?
+	COM LICENÇA...
+	ACEITARIA TROCAR
+	LINKS DE PÁGINA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PUTTING UP A LINK
-	WILL LET YOU EASILY
-	GO BACK AND FORTH
+	INSTALAR UM LINK LHE
+	PERMITE TRANSITAR
+	RAPIDAMENTE ENTRE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BETWEEN YOUR HP AND
-	THE GREEN HP!
+	A SUA PÁGINA E A
+	PÁGINA DO DISTRITO
+	VERDE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	POST A LINK?
+	E ENTÃO? GOSTARIA
+	DE POSTAR UM LINK?
 	"""
 	keyWait
 		any = false
@@ -873,7 +873,7 @@ script 30 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -882,7 +882,7 @@ script 30 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -896,14 +896,14 @@ script 30 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"I SEE..."
+	"ENTENDO..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU EVER CHANGE
-	YOUR MIND,PLEASE
-	RETURN ANYTIME...
+	CASO MUDE DE IDEIA,
+	FIQUE À VONTADE PARA
+	VOLTAR AQUI...
 	"""
 	keyWait
 		any = false
@@ -914,9 +914,9 @@ script 31 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IN ACCORDANCE WITH
-	OUR AGREEMENT,PLEASE
-	TAKE THIS.
+	TOME, COMO EXPLICADO
+	EM NOSSOS TERMOS DE
+	USO.
 	"""
 	keyWait
 		any = false
@@ -929,7 +929,7 @@ script 31 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -944,13 +944,13 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	I WILL POST YOUR
-	LINK NOW.
+	POSTAREI O SEU
+	LINK AGORA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FINISHED!"
+	"PRONTO!"
 	keyWait
 		any = false
 	soundDisableTextSFX
@@ -961,13 +961,13 @@ script 31 mmbn6 {
 		flag = 382
 	clearMsg
 	"""
-	MY WORK HERE IS
-	DONE.
+	MEU TRABALHO AQUI
+	ESTÁ FEITO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FARE THEE WELL..."
+	"ADEUS..."
 	keyWait
 		any = false
 	soundDisableTextSFX
@@ -986,15 +986,15 @@ script 40 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	I'm a SubChip
-	merchant!
+	Sou um mercador
+	de SubChips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I got lots of
-	great things!
+	Meu acervo é
+	show de bola!
 	
 	"""
 	positionOptionHorizontal
@@ -1007,7 +1007,7 @@ script 40 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Look  "
+	" Ver  "
 	option
 		brackets = 0
 		left = 0
@@ -1016,7 +1016,7 @@ script 40 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't look"
+	" Não ver"
 	select
 		default = 0
 		BSeparate = false
@@ -1033,8 +1033,7 @@ script 40 mmbn6 {
 script 41 mmbn6 {
 	clearMsg
 	"""
-	Come back again
-	sometime!
+	Volte sempre!
 	"""
 	keyWait
 		any = false
@@ -1045,15 +1044,16 @@ script 42 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	I'm a SubChip
-	merchant!
+	Sou um mercador
+	de SubChips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But right now I'm
-	sold out!! Sorry!
+	Mas estou sem nada
+	para oferecer agora!
+	Sinto muito!
 	"""
 	keyWait
 		any = false

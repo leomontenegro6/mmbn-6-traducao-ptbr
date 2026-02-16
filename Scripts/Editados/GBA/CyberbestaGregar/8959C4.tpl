@@ -16,17 +16,17 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A GLANCE...
-	...CYBEASTS...
-	...RIGHT...?
+	DE RELANCE...
+	... CYBERBESTAS...
+	... NÉ...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HEARING TALK OF
-	THE UNDERGOUND IS
-	SCARY...
+	OUVIR MURMÚRIOS
+	DO SUBSOLO DÁ
+	TANTO MEDO...
 	"""
 	keyWait
 		any = false
@@ -47,16 +47,15 @@ script 1 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Since it's connected
-	directly to Central
-	Area3,
+	Como está diretamente
+	ligada à Área Central 3,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this area must have
-	tight security.
+	esta área exige
+	segurança pesada.
 	"""
 	keyWait
 		any = false
@@ -72,16 +71,14 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	If something comes
-	up from the
-	Underground...
+	Se sair alguma
+	coisa do SubSolo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What can we do
-	about it...?
+	o que poderemos fazer...?
 	"""
 	keyWait
 		any = false
@@ -92,32 +89,32 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EVEN THOUGH THE REAL
-	WORLD IS EXCITED FOR
-	THE EXPO,THOSE IN
+	APESAR DO MUNDO
+	REAL ESTAR ANIMADO
+	PARA A EXPOSIÇÃO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE CYBERWORLD
-	ISN'T EXCITED AT
-	ALL...
+	NÓS, NO MUNDO
+	CIBERNÉTICO, NÃO
+	ESTAMOS TANTO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ESPECIALLY SINCE A
-	GAPING WIDE HOLE
-	HAS OPENED TO THE
+	AINDA MAIS QUANDO
+	UMA ENORME PASSAGEM
+	PARA O SUBSOLO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	UNDERGROUND IN THE
-	NEXT AREA OVER!
+	SE ABRIU NA
+	ÁREA AO LADO!
 	"""
 	keyWait
 		any = false
@@ -128,17 +125,16 @@ script 6 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I hope we hurry
-	and finish the
-	Underground
+	Espero que terminemos
+	logo a investigação do
+	SubSolo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	investigation so
-	we can talk about
-	the Expo again!
+	para podermos voltar
+	a falar da Exposição!
 	"""
 	keyWait
 		any = false
@@ -149,17 +145,17 @@ script 7 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	When the Expo opens,
-	pavilion security
-	will be very tight.
+	Quando a Exposição abrir,
+	a segurança do Pavilhão
+	será bem forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There will also be
-	limitations on
-	moving around.
+	Também haverá algumas
+	limitações à locomoção
+	dos civis.
 	"""
 	keyWait
 		any = false
@@ -170,17 +166,17 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LATELY THERE HAVE
-	BEEN LOTS OF GLOOMY
-	TALK AROUND HERE,
+	TEM HAVIDO MUITA
+	CONVERSA TRISTE
+	POR AQUI,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT WHEN THE EXPO
-	OPENS EVERYTHING
-	WILL BE BRIGHT...
+	MAS, QUANDO A EXPOSIÇÃO
+	INAUGURAR, TUDO VAI SE
+	ILUMINAR...
 	"""
 	keyWait
 		any = false
@@ -191,17 +187,15 @@ script 11 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The Expo was the
-	mayor's biggest wish
-	in the world,
+	A Exposição era o maior
+	desejo do prefeito,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but now he won't
-	even be able to
-	attend...
+	mas, agora, ele nem
+	vai poder comparecer...
 	"""
 	keyWait
 		any = false
@@ -221,16 +215,16 @@ script 16 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	The NetPolice can't
-	even say a thing...
+	Agora a NetPolícia não
+	pode falar nada...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What're you lookin
-	at? I'll make you
-	a mute too!!
+	Tá olhando o quê?!
+	Eu vou calar a tua
+	boca também!!
 	"""
 	keyWait
 		any = false
@@ -245,8 +239,8 @@ script 17 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Time to be
-	deleted!!!!
+	Hora de ser
+	deletado!!!!
 	"""
 	keyWait
 		any = false

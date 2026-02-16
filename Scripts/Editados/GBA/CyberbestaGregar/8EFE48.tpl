@@ -6,9 +6,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If we climb this,we
-	can get into to the
-	Principal's Office.
+	Se a gente escalar aqui,
+	chega na Diretoria.
 	"""
 	keyWait
 		any = false
@@ -19,9 +18,9 @@ script 1 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Let's stay calm and
-	find a more normal
-	route,Lan...
+	Vamos manter a calma
+	e tentar achar uma
+	rota mais normal, Lan...
 	"""
 	keyWait
 		any = false
@@ -32,8 +31,8 @@ script 2 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Over here!
-	They're over here!!
+	Ali!
+	Ali tão eles!!
 	"""
 	keyWait
 		any = false
@@ -43,7 +42,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No...!"
+	"Não...!"
 	keyWait
 		any = false
 	end
@@ -53,8 +52,8 @@ script 4 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Leave them to me...
-	You go ahead.
+	Deixe eles comigo...
+	Vá na frente.
 	"""
 	keyWait
 		any = false
@@ -77,7 +76,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Hurry!"
+	"Rápido!"
 	keyWait
 		any = false
 	clearMsg
@@ -88,7 +87,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!!"
+	"Tá!!"
 	keyWait
 		any = false
 	end

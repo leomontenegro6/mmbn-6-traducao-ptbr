@@ -11,100 +11,93 @@ script 5 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = GirlNaviYellow
-	"Well done!"
+	"Muito bem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This SecurCam films
-	the classroom 24
-	hours a day!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Morning,noon,and
-	night,it films
-	everything!!
+	Esta câmera de
+	segurança filma a
+	sala 24 horas por dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course it also
-	captures images of
+	Manhã, tarde e noite.
+	Ela filma tudo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the crayfish in
-	their tank!
+	E, claro, também
+	capta, com clareza,
+	os lagostins no tanque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	An amazing job!
-	You were 1st place
-	in round 1!
+	Ótimo trabalho! Você
+	ficou em primeiro lugar
+	na primeira rodada!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Congratulations!"
+	"Meus parabéns!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"We did it Lan!"
+	"Conseguimos, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviYellow
 	"""
-	The road to becoming
-	the Operator Navi
-	has just begun!
+	Mas a batalha pra se
+	tornar Navi Operador
+	está só começando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The second test will
-	be held another day!
+	A segunda prova será
+	realizada um outro dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll inform you via
-	mail with details
-	on the second test!
+	Contataremos vocês via
+	e-mail com mais detalhes
+	sobre a segunda prova.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The second test will
-	be even tougher,but
+	Ela vai ser ainda mais
+	acirrada, mas é só não
+	perder o objetivo de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	remember your goal
-	and do your best!!
+	vista e lutar com garra!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here is your
-	qualifier's prize!
+	Aqui, seu prêmio
+	de qualificação!
 	"""
 	keyWait
 		any = false
@@ -120,14 +113,14 @@ script 5 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 112
 	"""
-	" and
+	" e
 	"
 	"""
 	printFolderName
@@ -141,7 +134,7 @@ script 5 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviYellow
-	"Congratulations!"
+	"Meus parabéns!"
 	keyWait
 		any = false
 	end
@@ -151,30 +144,29 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviYellow
 	"""
-	How was the first
-	test?
+	E aí, como foi a
+	primeira prova?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The second test will
-	be held shortly.
+	A segunda vai ser
+	realizada em breve.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll let you
-	know the details
-	via mail!
+	Enviaremos os detalhes
+	via e-mail mais tarde!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remember your goal
-	and do your best!!
+	Mantenha o objetivo em
+	mente e lute com garra!!
 	"""
 	keyWait
 		any = false
@@ -190,100 +182,93 @@ script 7 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = GirlNaviPink
-	"Well done!"
+	"Muito bem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This SecurCam films
-	the classroom 24
-	hours a day!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Come morning or
-	night it films
-	everything!!
+	Esta câmera de
+	segurança filma a
+	sala 24 horas por dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course it also
-	captures images of
+	Faça chuva, faça sol,
+	ela filma tudo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the crayfish in
-	their tank!
+	E, claro, também
+	capta, com clareza,
+	os lagostins no tanque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	An amazing job!
-	You were 1st place
-	in round 1!
+	Ótimo trabalho! Você
+	ficou em primeiro lugar
+	na primeira rodada!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Congratulations!"
+	"Meus parabéns!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"We did it Lan!"
+	"Conseguimos, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviPink
 	"""
-	The road to becoming
-	an Operator Navi has
-	just begun!
+	Mas a batalha pra se
+	tornar Navi Operador
+	está só começando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The second test will
-	be held another day!
+	A segunda prova será
+	realizada um outro dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll inform you via
-	mail with details
-	on the second test!
+	Contataremos vocês via
+	e-mail com mais detalhes
+	sobre a segunda prova.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The second test will
-	be even tougher,but
+	Ela vai ser ainda mais
+	acirrada, mas é só não
+	perder o objetivo de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	remember your goal
-	and do your best!!
+	vista e lutar com garra!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here is your
-	qualifier's prize!
+	Aqui, seu prêmio
+	de qualificação!
 	"""
 	keyWait
 		any = false
@@ -299,14 +284,14 @@ script 7 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 112
 	"""
-	" and
+	" e
 	"
 	"""
 	printFolderName
@@ -320,7 +305,7 @@ script 7 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviPink
-	"Congratulations!"
+	"Meus parabéns!"
 	keyWait
 		any = false
 	end
@@ -330,32 +315,29 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	"""
-	This is just the
-	first step towards
-	becoming the one
+	Esse foi só o primeiro
+	passo na jornada de se
+	tornar o famigerado
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and only Operator
-	Navi!
+	Navi Operador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The tests are only
-	going to get
-	harder...
+	As provações só vão
+	ficar mais difíceis...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give it everything
-	you've got and do
-	your absolute best!
+	Deem tudo de si e
+	lutem com afinco!
 	"""
 	keyWait
 		any = false

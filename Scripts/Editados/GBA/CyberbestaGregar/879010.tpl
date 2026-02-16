@@ -5,24 +5,23 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
 	msgOpen
-	"Um... um..."
+	"Hum... Er..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	Your punishment for
-	forgetting your
-	homework:
+	Como castigo por
+	esquecer a lição de casa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You will finish this
-	entire drill or you
-	are not going home!
+	vai ter que fazer todo
+	esse exercício, senão
+	não vai pra casa!
 	"""
 	keyWait
 		any = false
@@ -33,27 +32,26 @@ script 11 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I think you've
-	learned your lesson.
+	Acho que você já
+	aprendeu a lição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remember to do your
-	homework from now
-	on.
+	Não esqueça de fazer a
+	lição daqui pra frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Alright?"
+	"Tá bom?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
-	"I'm sorry..."
+	"Desculpa..."
 	keyWait
 		any = false
 	end

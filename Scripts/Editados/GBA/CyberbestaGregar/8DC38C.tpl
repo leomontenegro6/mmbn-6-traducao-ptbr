@@ -6,17 +6,16 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	After I cross this
-	bridge and take
-	the elevator down,
+	Depois de atravessar
+	essa ponte e descer
+	no elevador,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Force Room
-	should be right
-	around there...
+	eu chego na
+	Sala de Força...
 	"""
 	keyWait
 		any = false
@@ -29,17 +28,15 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,be careful!
-	The wind is really
-	strong.
+	Lan, cuidado!
+	O vento tá bem forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you fall,there's
-	nothing to catch
-	you...
+	Se você cair, não tem
+	nada pra te segurar...
 	"""
 	keyWait
 		any = false
@@ -52,13 +49,13 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I_I know...
-	*gulp*
+	E-eu sei...
+	Glup!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"H_Here goes..."
+	"L-lá vai..."
 	keyWait
 		any = false
 	soundPlayBGM
@@ -69,7 +66,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W_Whoaaa!!"
+	"A-aaaahhh!!"
 	keyWait
 		any = false
 	end
@@ -79,9 +76,9 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's swaying a
-	lot... If I don't
-	hurry...
+	Tá balançando
+	pra caramba...
+	Se eu não correr...
 	"""
 	keyWait
 		any = false
@@ -96,7 +93,7 @@ script 5 mmbn6 {
 	controlLock
 	soundPlay
 		track = 227
-	"*crunch,crack!!*"
+	"Crrrt, crrec!!"
 	wait
 		frames = 32
 	soundEnableTextSFX
@@ -120,13 +117,14 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Now what...?"
+	"E agora...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How do I get to the
-	Force Room now...?
+	Como eu faço pra
+	chegar na Sala de
+	Força agora...?
 	"""
 	keyWait
 		any = false
@@ -139,8 +137,7 @@ script 8 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... What should
-	we do...?
+	... O que a gente faz...?
 	"""
 	keyWait
 		any = false
@@ -151,14 +148,14 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We're running
-	out of time!
-	I'm gonna have to...
+	A gente tá ficando
+	sem tempo!
+	Eu vou ter que...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...jump for it!"
+	"... pular!"
 	keyWait
 		any = false
 	clearMsg
@@ -170,8 +167,8 @@ script 10 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	L_Lan!
-	You're not really...
+	L-Lan!
+	Cê não vai mesmo...
 	"""
 	keyWait
 		any = false
@@ -184,8 +181,8 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yes,it's the only
-	way.
+	Vou, sim.
+	É o único jeito.
 	"""
 	keyWait
 		any = false
@@ -195,7 +192,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Here goes..."
+	"Lá vai..."
 	keyWait
 		any = false
 	clearMsg
@@ -207,7 +204,7 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's too dangerous!
+	É perigoso demais!
 	Lan!!
 	"""
 	keyWait
@@ -221,17 +218,17 @@ script 14 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I know,but right now
-	I don't have any
-	other choice!
+	Eu sei, mas não
+	tem nenhuma outra
+	escolha agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK...
-	Deep breath...
-	Go!!
+	Tá...
+	Respira fundo...
+	E vai!!
 	"""
 	keyWait
 		any = false
@@ -243,7 +240,7 @@ script 15 mmbn6 {
 	msgOpen
 	"""
 	... Ah!
-	It's too scary...
+	Medo demais...
 	"""
 	keyWait
 		any = false
@@ -255,7 +252,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hey,Lan..."
+	"Ei, Lan..."
 	keyWait
 		any = false
 	end
@@ -264,7 +261,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yes,MegaMan?"
+	"Sim, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -276,16 +273,14 @@ script 18 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... I'll jump across
-	first.
+	... Eu vou pular primeiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And then I can catch
-	you on the other
-	side!
+	Daí, eu te pego
+	do outro lado!
 	"""
 	keyWait
 		any = false
@@ -298,8 +293,8 @@ script 19 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You...jump...?
-	But how?
+	Você... pular...?
+	Mas como?
 	"""
 	keyWait
 		any = false
@@ -312,9 +307,9 @@ script 20 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There's that man's
-	CopyBot in the
-	Operator's Room.
+	Tem o CópiRoide
+	daquele homem na
+	Sala do Operador.
 	"""
 	keyWait
 		any = false
@@ -327,9 +322,9 @@ script 21 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,I see...
-	But are you sure you
-	want to do this?
+	Ah, tendi...
+	Mas certeza que cê
+	quer fazer isso?
 	"""
 	keyWait
 		any = false
@@ -342,24 +337,23 @@ script 22 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah!
-	Leave it to me!
+	Aham!
+	Deixa comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm,I need to find a
-	good place to jump
-	from...
+	Hmm, preciso achar um
+	bom lugar pra pular...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I should
-	jump from a higher
-	place...
+	Acho que o melhor
+	seria pular de um
+	lugar mais alto...
 	"""
 	keyWait
 		any = false
@@ -372,8 +366,8 @@ script 23 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And you were going
-	to tell me when!?
+	Pera, quando é que
+	cê ia ME falar isso?!
 	"""
 	keyWait
 		any = false

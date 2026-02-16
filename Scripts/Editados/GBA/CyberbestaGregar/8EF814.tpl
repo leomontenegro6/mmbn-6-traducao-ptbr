@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whoooooooaaaaaaa!!"
+	"Aaaaaaaaaaaugh!!"
 	keyWait
 		any = false
 	end
@@ -14,7 +14,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Oooooooooohh!!"
+	"Ráááááááááá!!"
 	keyWait
 		any = false
 	end

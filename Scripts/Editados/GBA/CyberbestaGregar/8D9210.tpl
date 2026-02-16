@@ -6,57 +6,55 @@ script 0 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	Today's class is
-	all about
-	cybercooking!
+	A aula de hoje é
+	sobre cyberculinária!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"\"Cybercooking\"?"
+	"\"Cyberculinária\"?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = PatFahran
 	"""
-	Yup!
-	For example,
-	when chefs want to
+	Aham!
+	Por exemplo: quando
+	chefs querem criar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	make a new dish,they
-	must try again and
-	again until they get
+	um novo prato, eles
+	têm que repetir várias
+	vezes até chegarem na
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it right. But all
-	those ingredients
-	are wasted!
+	dose certa. Mas isso
+	desperdiça um monte
+	de ingredientes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cybercooking lets
-	you perfect the dish
-	in the Cyberworld
+	A cyberculinária nos
+	permite aperfeiçoar o
+	prato na Rede primeiro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so that it can
-	be made in the
-	real world!
+	para, então, podermos
+	prepará-lo no mundo real!
 	"""
 	keyWait
 		any = false
@@ -64,16 +62,15 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	So that's
-	cybercooking...
+	Ah, então isso que é
+	cyberculinária...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I can't imagine
-	what it feels like
-	to do it.
+	Mas eu nem imagino
+	como se faz isso.
 	"""
 	keyWait
 		any = false
@@ -81,32 +78,31 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = PatFahran
 	"""
-	Well,that's what
-	you're here for,
-	right? I want you to
+	Bom, é pra isso que
+	você tá aqui, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	use SlashMan to
-	gather some
-	ingredients for me.
+	Quero que você use o
+	SlashMan pra reunir uns
+	ingredientes pra mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SlashMan is in that
-	recipe book's
-	computer.
+	O SlashMan está no
+	computador deste
+	livro de receitas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll leave the
-	operating to you!
+	Deixo a operação
+	nas suas mãos!
 	"""
 	keyWait
 		any = false

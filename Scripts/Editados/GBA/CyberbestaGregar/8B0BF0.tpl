@@ -10,9 +10,9 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Alright!
-	We beat the
-	EvilSpirits!!
+	Beleza!
+	Espíritos Malignos
+	abatidos!!
 	"""
 	keyWait
 		any = false
@@ -27,8 +27,8 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The darkness is
-	disappearing!!
+	A escuridão está
+	desaparecendo!!
 	"""
 	keyWait
 		any = false

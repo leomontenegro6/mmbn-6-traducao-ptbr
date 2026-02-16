@@ -6,13 +6,13 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	SEASIDEAREA3!
+	BEM-VINDO À
+	ÁREA BEIRA-MAR 3!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HAVE A GREAT DAY!"
+	"TENHA UM ÓTIMO DIA!"
 	keyWait
 		any = false
 	end
@@ -32,16 +32,14 @@ script 1 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hey,what's going to
-	happen with the
-	Expo?
+	Ei, o que vai acontecer
+	com a Exposição?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will they really
-	open it?
+	Será que ainda vai ter?
 	"""
 	keyWait
 		any = false
@@ -61,30 +59,30 @@ script 2 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Drinking this water
-	will make you feel
-	young again...
+	Bebes esta água faz
+	você se sentir
+	jovem de novo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But since I was
-	only made six months
+	Mas eu só fui criado
+	há seis meses,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ago,it won't have
-	much of an effect!
+	então não vai surtir
+	nenhum efeito em mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was made to be
-	old Navi!
+	Eu fui CRIADO pra
+	ser um Navi velho!
 	"""
 	keyWait
 		any = false
@@ -95,13 +93,13 @@ script 5 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	They aren't delaying
-	the Expo!
+	Não vão adiar
+	a Exposição!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's good news..."
+	"Ufa, ainda bem..."
 	keyWait
 		any = false
 	end
@@ -111,17 +109,17 @@ script 6 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Why did my operator
-	make me into an old
-	Navi,anyways?
+	Por que o meu operador
+	me criou pra ser um
+	Navi velho, afinal?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do they even need
-	old Navis in the
-	Cyberworld?
+	Tem mesmo necessidade
+	de Navis velhos no
+	mundo cibernético?
 	"""
 	keyWait
 		any = false
@@ -132,9 +130,9 @@ script 10 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	At any rate...
-	Where is that
-	"Healing Water"?
+	De todo modo...
+	Cadê aquela
+	Água da Cura"?
 	"""
 	keyWait
 		any = false
@@ -144,19 +142,19 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"Isn't it great!?"
+	"Não é demais?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I asked my operator
-	and he turned me
-	into a young Navi!
+	Eu pedi pro meu operador,
+	e ele me transformou num
+	Navi jovem!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Youth... Wonderful!"
+	"Ah, a juventude...\nQue maravilha!"
 	keyWait
 		any = false
 	end
@@ -166,17 +164,16 @@ script 15 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EVERYONE SHOULD
-	UNDERSTAND WHEN I
-	SAY THIS...
+	TODOS DEVIAM ENTEDER
+	QUANDO EU DIGO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	RIGHT OR WRONG,
-	YOU CAN NEVER SETTLE
-	ANYTHING WITH FORCE.
+	CERTO OU ERRADO,
+	NUNCA SE RESOLVE NADA
+	ATRAVÉS DA FORÇA.
 	"""
 	keyWait
 		any = false
@@ -187,16 +184,15 @@ script 16 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	After talking to
-	a Mr.Prog like that,
+	Depois de falar
+	com um Prog desses,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	doing evil deeds
-	has become an act
-	of foolishness!
+	fazer maldades fica
+	dparecendo pura tolice!
 	"""
 	keyWait
 		any = false
@@ -206,7 +202,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Owwwowwwowww..."
+	"Ai, ai, ai, ai-ai-ai..."
 	keyWait
 		any = false
 	end

@@ -11,20 +11,21 @@ script 0 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	If you don't tell
-	the JudgeTree to
+	A menos que você
+	convença a Árvore
+	Juíza a parar a punição,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	stop punishing,it
-	won't do it.
+	não haverá nada que
+	possamos fazer.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's the system!"
+	"O sistema é assim!"
 	keyWait
 		any = false
 	end
@@ -34,23 +35,23 @@ script 1 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Huh!? The Judge
-	Tree's run amuck!!
+	Hã?! A Árvore Juíza
+	saiu de controle?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's nuts! The
-	JudgeTree is a
-	perfect system!!
+	Isso é absurdo!
+	A Árvore Juíza é um
+	sistema perfeito!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why is this
-	happening...
+	Como isso foi
+	acontecer...?
 	"""
 	keyWait
 		any = false

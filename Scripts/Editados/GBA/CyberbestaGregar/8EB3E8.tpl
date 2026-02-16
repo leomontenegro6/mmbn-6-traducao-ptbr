@@ -6,25 +6,23 @@ script 0 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	To think that even
-	Colonel was
-	defeated...
+	Quem imaginaria que até
+	o Colonel seria vencido...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I did not expect
-	things to turn
-	out like this...
+	Eu realmente não
+	esperava que as coisas
+	tomassem esse rumo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but my plan will
-	continue to move
-	forward.
+	mas o meu plano
+	prosseguirá.
 	"""
 	keyWait
 		any = false
@@ -35,16 +33,15 @@ script 1 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	A certain thing
-	will happen tonight.
+	Um certo evento irá
+	acontecer esta noite.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it is
-	successful...
-	... *cackle*
+	Se for bem-sucedido...
+	... Mua ha ha ha ha...
 	"""
 	keyWait
 		any = false
@@ -55,22 +52,20 @@ script 2 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Lan,MegaMan...
-	Come to me!
-	Ah,it will be
+	Lan, MegaMan...
+	Venham até mim!
+	Ah, será igual àquela vez!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just like that one
-	time__the end of the
-	world is here!
+	O fim do mundo chegou!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wahahahahahahaha!!"
+	"Uáá ha ha ha ha ha ha!!"
 	keyWait
 		any = false
 	end
@@ -79,28 +74,27 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"*huff,huff...*"
+	"Urf... Arf..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the control
-	system...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	She had better
-	come back soon...
+	Mas o sistema
+	de controle...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	According to my
-	calculations,we can
-	move shortly...
+	É bom ela voltar logo...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	De acordo com os meus
+	cálculos, poderemos
+	seguir em breve...
 	"""
 	keyWait
 		any = false

@@ -6,28 +6,29 @@ script 0 mmbn6 {
 		mugshot = Bass
 	msgOpen
 	"""
-	... Wahaha.
-	You're not bad...
+	... Ha ha ha.
+	Você até que
+	não é ruim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I may let you
-	entertain me again
-	sometime...
+	Talvez eu permita que
+	me entretenha de novo
+	uma outra hora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Until then,keep
-	training...
+	Até então, continue
+	treinando...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"See you around."
+	"Até mais."
 	keyWait
 		any = false
 	end
@@ -37,17 +38,17 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Phew,I never
-	thought we'd meet
-	Bass here...
+	... Ufa, nunca ia achar
+	que a gente ia esbarrar
+	com o Bass aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Huh?
-	Looks like he
-	dropped something...
+	... Hm?
+	Parece que ele deixou
+	cair alguma coisa...
 	"""
 	keyWait
 		any = false
@@ -71,9 +72,8 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What is it?
-	It looks like a
-	key...
+	O que é isso?
+	Parece uma chave...
 	"""
 	keyWait
 		any = false
@@ -85,7 +85,7 @@ script 2 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -109,9 +109,9 @@ script 3 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Looks like a key...
-	Wonder what it goes
-	to...?
+	Parece ser uma chave...
+	Onde será que é pra
+	usar...?
 	"""
 	keyWait
 		any = false
@@ -126,7 +126,7 @@ script 3 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	HeatMan got:
+	HeatMan adquiriu:
 	"
 	"""
 	printItem
@@ -150,9 +150,9 @@ script 4 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	It seems to be a key
-	of some sort...
-	What does it open?
+	Parece ser algum tipo
+	de chave... O que será
+	que ela abre?
 	"""
 	keyWait
 		any = false
@@ -164,7 +164,7 @@ script 4 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	ElecMan got:
+	ElecMan adquiriu:
 	"
 	"""
 	printItem
@@ -188,8 +188,8 @@ script 5 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	A key... But it sure
-	is a strange shape.
+	Uma chave... Mas tem
+	um formato bem incomum.
 	"""
 	keyWait
 		any = false
@@ -201,7 +201,7 @@ script 5 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	SlashMan got:
+	SlashMan adquiriu:
 	"
 	"""
 	printItem
@@ -225,15 +225,14 @@ script 6 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	It looks like a
-	key...
+	Parece ser uma chave...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also looks kind of
-	fancy...
+	E uma mó cara,
+	ainda por cima...
 	"""
 	keyWait
 		any = false
@@ -245,7 +244,7 @@ script 6 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	EraseMan got:
+	KillerMan adquiriu:
 	"
 	"""
 	printItem
@@ -269,9 +268,9 @@ script 7 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Choo,choo...
-	I think it's a key
-	to something.
+	Tchú-tchúú...
+	Acho que é uma chave
+	para alguma coisa.
 	"""
 	keyWait
 		any = false
@@ -283,7 +282,7 @@ script 7 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	ChargeMan got:
+	ChargeMan adquiriu:
 	"
 	"""
 	printItem
@@ -307,9 +306,9 @@ script 8 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	A key,drip!
-	A key to something,
-	drip!
+	Uma chave, xuá!
+	Uma chave pra alguma
+	coisa, xuá!
 	"""
 	keyWait
 		any = false
@@ -321,7 +320,7 @@ script 8 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	SpoutMan got:
+	AquaMan adquiriu:
 	"
 	"""
 	printItem
@@ -345,8 +344,8 @@ script 9 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Hmm... It looks like
-	a key to something.
+	Hmm...
+	Parece ser uma chave.
 	"""
 	keyWait
 		any = false
@@ -358,7 +357,7 @@ script 9 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	TomahawkMan got:
+	TomahawkMan adquiriu:
 	"
 	"""
 	printItem
@@ -382,9 +381,9 @@ script 10 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Hmm,it is a key...
-	However,I know not
-	what it unlocks.
+	Hmm, é uma chave...
+	Contudo, não sei o
+	que ela destrancaria.
 	"""
 	keyWait
 		any = false
@@ -396,7 +395,7 @@ script 10 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	TenguMan got:
+	TenguMan adquiriu:
 	"
 	"""
 	printItem
@@ -420,8 +419,8 @@ script 11 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Whiiir...
-	It's a key,yo!
+	Tchrrr...
+	É uma chave, cara!
 	"""
 	keyWait
 		any = false
@@ -433,7 +432,7 @@ script 11 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	GroundMan got:
+	GroundMan adquiriu:
 	"
 	"""
 	printItem
@@ -457,9 +456,9 @@ script 12 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	It's a key to...
-	something...? Well,
-	it's not junk...
+	É uma chave pra...
+	alguma coisa...?
+	Bom, lixo não é...
 	"""
 	keyWait
 		any = false
@@ -471,7 +470,7 @@ script 12 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	DustMan got:
+	DustMan adquiriu:
 	"
 	"""
 	printItem
@@ -495,32 +494,30 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A key shaped like
-	a bat...
+	Uma chave em forma
+	de morcego...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe we can
-	use this key
-	somewhere...
+	Talvez dê pra gente usar
+	ela em algum lugar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Someday,we're
-	going to finish
-	this,Bass...
+	... Um dia, a gente vai
+	pôr um fim nisso, Bass...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So until then,we're
-	gonna train hard to
-	bring you down!
+	Então, até lá, a gente
+	vai continuar treinando
+	pra te vencer!
 	"""
 	keyWait
 		any = false

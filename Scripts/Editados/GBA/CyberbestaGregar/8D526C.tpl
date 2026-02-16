@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... There's nothing
-	really useful here.
+	... Não tô vendo
+	nada de útil aqui.
 	"""
 	keyWait
 		any = false
@@ -20,8 +20,8 @@ script 1 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HOLD ON...
-	AH,HERE WE ARE!
+	SÓ UM MOMENTO...
+	AH, PRONTO!
 	"""
 	keyWait
 		any = false
@@ -31,14 +31,13 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's just Mick."
+	"É só o Mick."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Him being in the
-	classroom isn't
-	that strange.
+	Não é estranho ele
+	estar na sala dele.
 	"""
 	keyWait
 		any = false
@@ -48,11 +47,11 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's with him?"
+	"O que há com ele?"
 	keyWait
 		any = false
 	clearMsg
-	"He's all fidgety..."
+	"Ele tá todo agitado..."
 	keyWait
 		any = false
 	end
@@ -61,11 +60,16 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"\"Hey,you,come here!"
+	"""
+	"Ei, vem aqui!
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" There's some weird\n thing here!\""
+	"""
+	Tem alguma coisa
+	estranha aqui!"
+	"""
 	keyWait
 		any = false
 	end
@@ -75,15 +79,14 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's a Security
-	Bot...
+	É um Robô de Segurança...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's Mick up
-	to now...?
+	O que é que o Mick
+	tá aprontando agora...?
 	"""
 	keyWait
 		any = false
@@ -93,15 +96,25 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"\"Look,something\n strange's in this\n closet,I tell you!"
+	"""
+	"Olha, tem uma coisa
+	estranha nesse armário,
+	é sério!
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Aren't you a\n Security Bot?\n Aren't you supposed"
+	"""
+	Cê não é um Robô de
+	Segurança? Não é o seu
+	dever proteger a escola?
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" to protect the\n school? Well,then,\n do your job!\""
+	"""
+	Bom, faz o seu trabalho!"
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -111,7 +124,7 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	mugshotHide
 	msgOpen
-	"\"I UNDERSTAND.\""
+	"\"ENTENDIDO.\""
 	keyWait
 		any = false
 	end
@@ -120,7 +133,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"\"Look real closely!\""
+	"\"Olha bem de perto!\""
 	keyWait
 		any = false
 	end
@@ -145,14 +158,14 @@ script 9 mmbn6 {
 	"."
 	wait
 		frames = 15
-	"."
+	". "
 	wait
 		frames = 15
 	"\""
 	keyWait
 		any = false
 	clearMsg
-	"\"I DON'T SEE\n ANYTHING\n STRANGE...\""
+	"\"NÃO VEJO NADA\nDE INCOMUM...\""
 	keyWait
 		any = false
 	clearMsg
@@ -163,11 +176,11 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"\"Aw,come on,you're\n not looking hard\n enough! It's..."
+	"\"Ah, vai, cê não tá\nolhando direito!\nÉ bem..."
 	keyWait
 		any = false
 	clearMsg
-	" here!\""
+	"aqui!\""
 	keyWait
 		any = false
 	end
@@ -179,29 +192,29 @@ script 11 mmbn6 {
 	controlLock
 	soundPlay
 		track = 417
-	"*clank! "
+	"Plenc! "
 	wait
 		frames = 6
 	soundPlay
 		track = 417
-	"clank!*"
-	wait
-		frames = 6
-	"\n"
-	soundPlay
-		track = 417
-	"*clank! "
-	wait
-		frames = 6
-	soundPlay
-		track = 417
-	"clank!*"
+	"Plenc!"
 	wait
 		frames = 6
 	"\n"
 	soundPlay
 		track = 417
-	"*clank!*"
+	"Plenc! "
+	wait
+		frames = 6
+	soundPlay
+		track = 417
+	"Plenc!"
+	wait
+		frames = 6
+	"\n"
+	soundPlay
+		track = 417
+	"Plenc!"
 	wait
 		frames = 26
 	soundEnableTextSFX
@@ -214,18 +227,18 @@ script 11 mmbn6 {
 	"... "
 	soundPlay
 		track = 417
-	"*clank! "
+	"Plenc! "
 	wait
 		frames = 13
 	soundPlay
 		track = 417
-	"clank!*"
+	"Plenc!"
 	wait
 		frames = 6
 	"\n... "
 	soundPlay
 		track = 417
-	"*clank!*"
+	"Plenc!"
 	wait
 		frames = 26
 	soundEnableTextSFX
@@ -238,7 +251,7 @@ script 11 mmbn6 {
 	"... "
 	soundPlay
 		track = 417
-	"*clank!*"
+	"Plenc!"
 	wait
 		frames = 26
 	"\n........."
@@ -252,11 +265,17 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"\"Hehehe! I got a\n Security Bot!"
+	"""
+	"He he he! Eu prendi
+	um Robô de Segurança!
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" I'm gonna tell\n everyone all\n about it!\""
+	"""
+	Vou espalhar pra geral!
+	Ninguém vai acreditar!"
+	"""
 	keyWait
 		any = false
 	end
@@ -266,43 +285,40 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's just another
-	one of his pranks...
+	Mais uma traquinagem
+	do Sr. Mick...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I tell Mr.Mach,
-	he'll get in trouble
-	again...
+	Se eu contar pro
+	Sr. Mach, ele tá ferrado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And anyway,this has
-	nothing to do with
-	Dad.
+	Mas, é, isso não tem
+	nada a ver com o papai.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*sigh*..."
+	"Arf..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're almost out
-	of time...
+	O nosso tempo tá
+	quase acabando...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,let's try
-	to think of another
-	plan.
+	MegaMan, bora tentar
+	pensar em outro plano.
 	"""
 	keyWait
 		any = false

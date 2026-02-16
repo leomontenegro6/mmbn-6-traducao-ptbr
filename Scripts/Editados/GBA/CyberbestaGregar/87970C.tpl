@@ -6,16 +6,16 @@ script 0 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Lan! Are you done
-	with the writing
-	assignment?
+	Lan!
+	Já terminou a tarefa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just don't get
-	caught napping,OK?
+	Cuidado pra ele não
+	te pegar cochilando
+	de novo, viu?
 	"""
 	keyWait
 		any = false
@@ -26,9 +26,9 @@ script 30 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	I'm going to enter
-	the Operator Navi
-	Selection Test too!
+	Eu também vou fazer
+	a Prova de Seleção
+	de Navi Operador!
 	"""
 	keyWait
 		any = false
@@ -39,24 +39,24 @@ script 31 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	...Ummm...
-	What's a pavilion?
+	... Aahmm...
+	O que é que é
+	um "pavilhão"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess it must
-	be close to an
-	onion,right?
+	Deve ser uma unidade
+	acima do "trilhão", né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I love onion
-	soup...so maybe I'd
-	love pavilion soup!
+	Ah, eu bem que queria
+	um "pavilhão" de
+	hambúrgueres agora...!
 	"""
 	keyWait
 		any = false
@@ -67,16 +67,15 @@ script 32 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	The Operator
-	Navi,huh...?
+	Navi Operador, é...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are lots of
-	people trying out
-	aren't there?
+	Tem um monte de gente
+	encarando essa prova,
+	não é mesmo?
 	"""
 	keyWait
 		any = false
@@ -87,16 +86,16 @@ script 33 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Hey! Don't take
-	your time now!
+	Aí! Não perde
+	tempo, não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't hurry
-	you can't enter the
-	Operator Navi Test!
+	Se cê não correr,
+	não vai poder fazer a
+	Prova de Navi Operador!
 	"""
 	keyWait
 		any = false
@@ -107,16 +106,16 @@ script 35 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	How did the
-	Operator Navi
-	Selection Test go?
+	E aí, como foi a
+	Prova de Seleção
+	de Navi Operador?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I failed...
-	Did you pass,Lan?
+	Eu não passei...
+	E você, Lan?
 	"""
 	keyWait
 		any = false
@@ -127,17 +126,15 @@ script 36 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	You've got an
-	errand to run in
-	Green Town?
+	Você tem um compromisso
+	no Distrito Verde?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's a great place.
-	It's surrounded by
-	nature!
+	Lá é muito legal.
+	É natureza pra todo lado!
 	"""
 	keyWait
 		any = false
@@ -148,16 +145,16 @@ script 40 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Doesn't Green Town
-	have a courthouse?
+	O Distrito Verde
+	tem um tribunal, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sometimes I sneak
-	a snack... That's
-	not a crime,is it?
+	Às vezes, eu trago
+	chocolate pra escola...
+	Isso não é crime, é?
 	"""
 	keyWait
 		any = false
@@ -168,17 +165,17 @@ script 41 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	For some reason I
-	don't see a single
-	Security Bot!
+	Por algum motivo, eu
+	não tô vendo nenhum
+	Robô de Segurança!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Where did they go?
-	They didn't run
-	away,did they?
+	Pra onde foi que
+	eles foram? Eles
+	não fugiram, né?
 	"""
 	keyWait
 		any = false

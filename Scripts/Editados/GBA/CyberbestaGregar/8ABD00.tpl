@@ -10,14 +10,13 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	If we could bring
-	this back to
-	normal......
+	Se pudéssemos fazer
+	isso voltar ao normal...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wah! A virus!!"
+	"Aah! Um vírus!!"
 	keyWait
 		any = false
 	flagSet
@@ -27,9 +26,9 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The control panel
-	is functioning
-	normally.
+	O painel de controle
+	está funcionando
+	normalmente.
 	"""
 	keyWait
 		any = false

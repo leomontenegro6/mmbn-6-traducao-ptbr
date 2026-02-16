@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Excuse me."
+	"Com licença."
 	keyWait
 		any = false
 	end
@@ -15,9 +15,9 @@ script 1 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	Welcome,Dr.Hikari.
-	I've been waiting
-	for you.
+	Ah, Dr. Hikari,
+	bem-vindo. Estava
+	à sua espera.
 	"""
 	keyWait
 		any = false
@@ -30,25 +30,25 @@ script 2 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It is an honor,
-	Mayor Cain.
-	I've heard that you
+	É uma honra, Prefeito
+	Cain. Eu já tinha ouvido
+	falar que você se
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	are quite involved
-	in town affairs.
-	But school,too?
+	envolvia bastante com
+	os assuntos da cidade...
+	mas a escola também?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Should I call you
-	"Principal" while we
-	are here in school?
+	Devo chamar o senhor
+	de "diretor" enquanto
+	estamos aqui, na escola?
 	"""
 	keyWait
 		any = false
@@ -61,39 +61,38 @@ script 3 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	No,no,no. I've got
-	my hands full taking
-	care of the Expo.
+	Não, não, não.
+	Eu ando ocupado demais
+	cuidando da Exposição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm leaving school
-	affairs to the
-	Vice Principal.
+	Os assuntos da escola,
+	estou deixando nas mãos
+	do vice-diretor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ha,ha,ha,ha...
-	So,with greetings
-	out of the way,
+	Ha ha ha ha...
+	Enfim, agora que
+	nos cumprimentamos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	let's get down to
-	business...
+	vamos aos negócios...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you have the
-	program with you?
+	Você está com
+	o programa?
 	"""
 	keyWait
 		any = false
@@ -105,21 +104,21 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"... Yes."
+	"... Estou."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,this program is
-	not known to the
-	general public...
+	Mas este programa
+	ainda não foi divulgado
+	ao público...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How do you know of
-	its existence?
+	Como o senhor sabe
+	da existência dele?
 	"""
 	keyWait
 		any = false
@@ -132,17 +131,17 @@ script 5 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	I know a person
-	who used to work
-	in the SciLab.
+	Conheço uma pessoa
+	que já trabalhou
+	para o SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He knows about this
-	program which you
-	made 11 years ago.
+	E ele tem ciência desse
+	programa, que você
+	desenvolveu há 11 anos.
 	"""
 	keyWait
 		any = false
@@ -154,38 +153,36 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Is that so...?"
+	"É mesmo...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I only brought
-	one part of the
-	whole program today.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It is not that I
-	don't trust you,
-	and while this
+	Bem, eu só trouxe uma
+	parte do programa hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	program,in its
-	entirety,is quite
-	useful,
+	Não que eu não confie
+	no senhor, mas, apesar
+	deste programa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there are great
-	risks,should it fall
-	into evil hands.
+	em sua totalidade,
+	ser muito útil, ele
+	também pode apresentar
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	grandes riscos caso
+	caia em mãos erradas.
 	"""
 	keyWait
 		any = false
@@ -198,25 +195,25 @@ script 7 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	I see. You
-	scientists take
-	risks seriously.
+	Eu entendo. Vocês,
+	cientistas, levam riscos
+	bem a sério mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I suppose it's
-	because the
-	technology you make
+	Acho que é porque a
+	tecnologia que vocês
+	fazem pode mudar a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	changes society,so
-	you feel the need
-	to guard it closely.
+	sociedade...
+	É, isso justifica
+	essa proteção toda.
 	"""
 	keyWait
 		any = false
@@ -228,38 +225,38 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Well,yes,in a way..."
+	"Bom, pode-se\ndizer isso..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What I meant was
-	even though this is
-	only one part,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I believe it is more
-	than enough to
-	complete the task.
+	O que eu quero dizer
+	é que, mesmo esta sendo
+	só uma parte dele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For example,even if
-	Net access increased
-	by 30 fold,
+	creio ser mais do
+	que suficiente para
+	realizar a tarefa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this program,once
-	installed,can fully
-	support the network.
+	Por exemplo, mesmo se
+	o acesso à Rede fosse
+	multiplicado em 30,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	este programa, uma vez
+	instalado, conseguiria
+	mantê-la estável.
 	"""
 	keyWait
 		any = false
@@ -272,22 +269,22 @@ script 9 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	I see. It can
-	greatly boost
-	memory capacity...
+	Entendo. Ele é capaz de
+	impulsionar a capacidade
+	de memória imensamente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dr.Hikari,let us
-	try for the most
-	successful Expo!
+	Dr. Hikari, por favor,
+	vamos usá-lo para fazer
+	da Exposição um sucesso!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ha,ha,ha,ha,ha!"
+	"Ha ha ha ha ha!"
 	keyWait
 		any = false
 	end

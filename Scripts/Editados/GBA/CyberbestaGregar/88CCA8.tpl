@@ -10,9 +10,9 @@ script 0 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Mr.Weather is over
-	there. Make sure you
-	check in with him.
+	O Seu Cleema está
+	bem ali. Não esqueça
+	de falar com ele.
 	"""
 	keyWait
 		any = false
@@ -23,46 +23,44 @@ script 1 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	The test will
-	now start!
-	Good luck to you!
+	A prova se iniciará
+	agora! Boa sorte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Follow this walkway
-	down to the end,
+	Siga esse corredor
+	até o fim,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	where it will lead
-	you outside.
+	o que lhe levará
+	ao lado de fora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once you're outside,
-	just follow the road
-	to a spacious area.
+	Uma vez lá fora, é só
+	seguir a estrada que
+	dará em uma área aberta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In that area,there
-	is a dish antenna.
+	Nessa área, haverá
+	uma antena.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you jack in
-	there,you can
-	go on the Net.
+	É só se conectar nela
+	e você estará na Rede.
 	"""
 	keyWait
 		any = false
@@ -73,24 +71,17 @@ script 2 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The umbrella you got
-	earlier is very
-	strong.
+	Aquele seu guarda-
+	chuva de antes era
+	bem forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You could probably
-	even use it as a
-	parachute
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	to float down if you
-	wanted!
+	Aposto que daria até para
+	usá-lo de para-quedas,
+	se precisasse!
 	"""
 	keyWait
 		any = false
@@ -101,17 +92,16 @@ script 5 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	I heard the story...
-	But,to take on those
-	Undernet guys...
+	Eu ouvi a história...
+	Mas encarar gente da
+	Undernet...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wouldn't have been
-	able to do a
-	thing...
+	Nunca que eu ia
+	conseguir...
 	"""
 	keyWait
 		any = false
@@ -122,13 +112,13 @@ script 20 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	You are taking the
-	test as well...?
+	Você também tá
+	fazendo a prova...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Heh,good luck..."
+	"He, boa sorte..."
 	keyWait
 		any = false
 	end
@@ -138,15 +128,15 @@ script 21 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	You're taking the
-	test too?
+	Você também tá
+	fazendo a prova?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good! We came for
-	a good battle!
+	Maravilha! A gente quer
+	mesmo uma boa batalha!
 	"""
 	keyWait
 		any = false
@@ -157,8 +147,8 @@ script 22 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	The test,huh...
-	... Good luck.
+	A prova, é...?
+	... Boa sorte.
 	"""
 	keyWait
 		any = false
@@ -169,15 +159,9 @@ script 23 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	The Operator Navi
-	test is
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	a whole lot tougher
-	than I thought!
+	A prova de Navi Operador
+	é muito mais difícil do
+	que eu pensava!
 	"""
 	keyWait
 		any = false
@@ -188,17 +172,16 @@ script 41 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Mr.Weather was
-	broken by something
-	or another...
+	O Seu Cleema acabou
+	se quebrando...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but we worked really
-	hard to rebuild and
-	normalize him.
+	mas nós arregaçamos as
+	mangas e reconstruimos
+	ele.
 	"""
 	keyWait
 		any = false
@@ -209,22 +192,25 @@ script 46 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Mr.Weather has been
-	rebuilt better than
-	ever!
+	O Seu Cleema foi
+	reconstruído, e agora
+	está melhor que nunca!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can control the
-	weather in Cyber
-	City again,
+	Podemos controlar
+	o clima da Cidade
+	Saibher de novo,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"so no need to worry!"
+	"""
+	então não há com o
+	que se preocupar!
+	"""
 	keyWait
 		any = false
 	end

@@ -10,8 +10,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mom! I'm gonna
-	go explore outside!
+	Mãe! Eu vou sair pra
+	explorar o bairro!
 	"""
 	keyWait
 		any = false
@@ -19,9 +19,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	OK! Take care and
-	don't come home too
-	late!
+	Tudo bem! Se cuida lá
+	fora, e não vá voltar
+	tarde demais!
 	"""
 	keyWait
 		any = false
@@ -34,8 +34,7 @@ script 1 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Don't wander too far
-	from home!
+	Não vá muito longe!
 	"""
 	keyWait
 		any = false
@@ -55,9 +54,9 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad,I'm gonna
-	go outside and
-	look around!!
+	Pai, eu vou sair pra
+	dar uma explorada pelo
+	bairro!
 	"""
 	keyWait
 		any = false
@@ -65,16 +64,16 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	I'm going to connect
-	your computer to the
-	Net later.
+	Tá. Mais tarde, eu
+	vou conectar o seu
+	computador à Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once it is ready,
-	I'll let you know.
+	Quando estiver tudo
+	pronto, eu te aviso.
 	"""
 	keyWait
 		any = false
@@ -86,7 +85,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Take care,Lan."
+	"Se cuida, filhão."
 	keyWait
 		any = false
 	end
@@ -100,17 +99,17 @@ script 5 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I wonder if there
-	is a good grocery
-	store nearby...
+	Será que tem algum
+	mercadinho aqui por
+	perto...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We just moved,so
-	not knowing the area
-	is quite a hassle.
+	Dores de mudança. Não
+	saber onde as coisas
+	ficam é bem chato.
 	"""
 	keyWait
 		any = false
@@ -137,9 +136,9 @@ script 7 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Welcome home. Your
-	Net connection is
-	ready. Try it out!
+	Ah, você voltou. A sua
+	conexão com a Rede tá
+	prontinha. Confere lá!
 	"""
 	keyWait
 		any = false
@@ -150,9 +149,9 @@ script 8 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	I haven't set up
-	your connection yet.
-	Wait for a bit,OK?
+	Eu ainda não fiz a
+	sua conexão. Espera só
+	um pouquinho, tá bom?
 	"""
 	keyWait
 		any = false
@@ -163,9 +162,9 @@ script 9 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You have school
-	tomorrow,so don't
-	stay out too late.
+	Amanhã você tem aula,
+	então não fica
+	acordado até tarde.
 	"""
 	keyWait
 		any = false
@@ -176,22 +175,22 @@ script 10 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	How is the Net
-	in this town?
+	O que achou da
+	Rede do bairro?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems to be
-	pretty nice...
+	Parece bem legal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to check
-	it out myself.
+	Pretendo conferir por
+	conta própria depois,
+	também.
 	"""
 	keyWait
 		any = false
@@ -202,15 +201,15 @@ script 15 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	It's your first day
-	at a new school...
+	É o seu primeiro dia
+	em uma nova escola...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Make lots of
-	friends,OK?
+	Faça um monte de
+	amizades, viu?
 	"""
 	keyWait
 		any = false
@@ -221,16 +220,16 @@ script 16 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	New school time,huh?
-	Do your best!!
+	Hora da nova escola,
+	hein? Força lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got to get
-	ready for work
-	myself!!
+	Eu também tenho que
+	me preparar pra ir
+	pro trabalho!
 	"""
 	keyWait
 		any = false
@@ -246,15 +245,15 @@ script 25 mmbn6 {
 	msgOpen
 	"""
 	Lan...
-	You kinda smell
-	like smoke...
+	Você tá com um
+	cheirinho de fumaça...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I'm just
-	imagining things...
+	Talvez seja só
+	impressão minha...
 	"""
 	keyWait
 		any = false
@@ -265,8 +264,8 @@ script 26 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Don't stay out
-	too late,OK?
+	Não fique acordado
+	até tarde, viu?
 	"""
 	keyWait
 		any = false
@@ -276,13 +275,13 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Welcome home,Lan."
+	"Bem-vindo de volta, Lan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't forget to
-	wash your hands.
+	Não esquece de
+	lavar as mãos.
 	"""
 	keyWait
 		any = false
@@ -293,9 +292,9 @@ script 41 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	What should I make
-	for dinner... Lan,
-	what do you want?
+	O que eu faço pro
+	jantar...? Lan, o
+	que você quer comer?
 	"""
 	keyWait
 		any = false
@@ -306,17 +305,16 @@ script 45 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I think I'll try
-	making something
-	new for dinner.
+	Acho que eu vou tentar
+	fazer um prato novo
+	pro jantar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I'll do the
-	experimenting this
-	time!
+	Não é só o seu pai
+	quem faz "experiências"!
 	"""
 	keyWait
 		any = false
@@ -327,9 +325,9 @@ script 46 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	I'm looking forward
-	to your Mom's new
-	tasty treats!!
+	Estou ansioso para a
+	nova comida deliciosa
+	da sua mãe!
 	"""
 	keyWait
 		any = false
@@ -339,21 +337,21 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Ahhh! Welcome back!"
+	"Ahhh!\nBem-vindo de volta!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tonight's dinner is
-	Cashew Chicken!!
+	O jantar de hoje
+	é frango xadrez!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's really good!
-	I think you will
-	love it!!
+	Está uma delícia!
+	Aposto que você
+	vai adorar!
 	"""
 	keyWait
 		any = false
@@ -364,15 +362,16 @@ script 51 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Huh? You went to
-	the Aquarium?
+	Hã?
+	Você foi no Aquário?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tell me all about
-	it during dinner!
+	Olha! Quero ouvir a
+	história toda durante
+	o jantar, viu?
 	"""
 	keyWait
 		any = false

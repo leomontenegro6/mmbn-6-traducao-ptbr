@@ -7,29 +7,29 @@ script 0 mmbn6 {
 	mugshotPalette
 		palette = 6
 	msgOpen
-	"N_NO!!"
+	"N-NÃÃÃO!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DON'T WANT TO
-	BURN OUT HERE!!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	THERE ARE STILL
-	THINGS I WANT TO DO
-	IN THIS WORLD!!
+	EU NÃO QUERO
+	QUEIMAR AQUI!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE'S THIS AND
-	THAT __ OH,JUST
-	TOO MANY THINGS!
+	AINDA TEM TANTA
+	COISA QUE EU QUERO
+	FAZER NESTE MUNDO!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	TEM AQUILO... E
+	AQUILO LÁ... AHH,
+	É TANTA COISA!!
 	"""
 	keyWait
 		any = false
@@ -42,17 +42,16 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Everything will
-	be OK! I'm here
-	for you!
+	Vai ficar tudo bem!
+	Eu vou te ajudar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll get a chance
-	to do everything
-	you want to!
+	Você ainda vai poder
+	fazer tudo que você
+	quer da vida!
 	"""
 	keyWait
 		any = false
@@ -63,30 +62,31 @@ script 2 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	... YES,I CAN
-	FEEL IT NOW!
+	... AH, SIM,
+	ESTOU SENTINDO...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE WONDERFUL
-	FEELING OF BEING
-	ALIVE!
+	A MARAVILHOSA
+	SENSAÇÃO DE ESTAR
+	VIVO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WANT TO THANK YOU,
-	REALLY...
+	QUERO AGRADECER
+	VOCÊ, DE CORAÇÃO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND TO SAY WATCH
-	OUT AHEAD!
+	E DIZER PARA VOCÊ
+	SE CUIDAR MAIS À
+	FRENTE!
 	"""
 	keyWait
 		any = false

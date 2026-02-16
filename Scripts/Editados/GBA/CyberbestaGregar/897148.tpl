@@ -16,25 +16,24 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TO PREVENT ANOTHER
-	INCIDENT LIKE THE
-	ONE IN GREEN TOWN,
+	PARA PREVENIR OUTRO
+	INCIDENTE COMO O DO
+	DISTRITO VERDE,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE,THE GUARDIANS OF
-	THIS AREA,TO
-	STRENGTHEN SECURITY,
+	NÓS, OS GUARDIÕES
+	DESTA ÁREA, ESTAMOS
+	AUMENTANDO A SEGURANÇA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ARE VOLUNTARILY
-	PATROLLING THIS
-	AREA!
+	E NOS VOLUNTARIANDO
+	PARA PATRULHÁ-LA!
 	"""
 	keyWait
 		any = false
@@ -55,23 +54,21 @@ script 1 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	STAY ALERT!!
-	STAY ALERT!!
+	FICAR ALERTA!!
+	FICAR ALERTA!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU SEE ANY
-	SUSPICIOUS PEOPLE,
+	SE VIR ALGUÉM SUSPEITO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DON'T TRY TO TAKE
-	THEM ON,AND CALL FOR
-	HELP!
+	NÃO TENTAR ENFRENTÁ-LO
+	SOZINHO! CHAMAR AJUDA!
 	"""
 	keyWait
 		any = false
@@ -91,25 +88,24 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HELP!!"
+	"SOCORRO!!"
 	keyWait
 		any = false
 	clearMsg
-	"HELP!!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	THIS IS ONLY A TEST,
-	THIS IS ONLY A TEST.
-	"""
+	"SOCORRO!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BE SURE TO PRACTICE
-	YOUR SCREAM FOR
-	HELP!
+	ISSO FOI APENAS UM
+	TESTE. APENAS UM TESTE.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	LEMBRE-SE DE PRATICAR
+	SEU GRITO DE SOCORRO!
 	"""
 	keyWait
 		any = false
@@ -120,20 +116,19 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE ISN'T ANYTHING
-	WRONG IN THIS AREA.
+	NADA DE ERRADO NA ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHAT? THE UNDERNET?"
+	"QUÊ? A UNDERNET?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DON'T WANT TO GET
-	TO KNOW THAT CREEPY
-	DEMONS' AREA!
+	EU NÃO QUERO SABER
+	DAQUELA ÁREA
+	DEMONÍACA DO MAL!
 	"""
 	keyWait
 		any = false
@@ -143,21 +138,21 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"A_AAAAAAAAAH!!"
+	"A-AAAAAAAAAH!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	UH... DON'T BE
-	THREATENED...
+	AH... NÃO FIQUE
+	ALARMADO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I JUST REMEMBERED
-	THAT WHILE I WAS
-	FROZEN...
+	EU SÓ ME LEMBREI
+	DAQUILO ENQUANTO
+	FIQUEI PARADO...
 	"""
 	keyWait
 		any = false
@@ -168,16 +163,15 @@ script 7 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	... I'M ALL...
-	HOARSE...
+	... ESTOU... ROUCO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PRACTICED...
-	... SCREAMING...
-	TOO MUCH...
+	PRATIQUEI...
+	... GRITO...
+	DEMAIS...
 	"""
 	keyWait
 		any = false
@@ -188,17 +182,17 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SOMETHING HAPPENED
-	IN THE REAL WORLD
-	AGAIN!
+	ACONTECEU ALGUMA
+	COISA NO MUNDO
+	REAL DE NOVO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHICH MEANS WE HAVE
-	TO STRENGTHEN THE
-	NET BARRIER!
+	LOGO, TEMOS QUE
+	FORTALECER A
+	BARREIRA DA REDE!
 	"""
 	keyWait
 		any = false
@@ -208,22 +202,22 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"... *SHIVER,SHIVER*"
+	"... BRRRRR...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SOMETHING HAPPENED
-	IN THE REAL WORLD,
-	DIDN'T IT...?
+	ACONTECEU ALGUMA
+	COISA NO MUNDO REAL,
+	NÃO FOI...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	W_WHAT SHOULD I DO
-	IF STRANGE PEOPLE
-	SHOW UP ON THE NET?
+	O-O QUE EU FAÇO
+	SE GENTE ESTRANHA
+	APARECER NA REDE?!
 	"""
 	keyWait
 		any = false
@@ -234,9 +228,9 @@ script 12 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	... MY THROAT...
-	TOTALLY... GONE...
-	HURTS... OWWWW...
+	... MINHA GARGANTA...
+	ZERO... SOM...
+	DOR... AAAAI...
 	"""
 	keyWait
 		any = false
@@ -247,24 +241,24 @@ script 40 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	How about it?
-	Can't you feel the
-	cool,slick guy vibes
+	E aí? Tá sentindo
+	essa "vibe" de cara
+	legal e seguro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	coming from my
-	awesome self?
+	exalando de minha
+	incrível pessoa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What? No?
-	Oh,come on!
-	You're not trying!!
+	Quê? Não tá?
+	Ah, vai, cara!
+	Cê nem tá tentando!!
 	"""
 	keyWait
 		any = false
@@ -275,16 +269,16 @@ script 41 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	You were in the
-	Operator Navi Se_
-	lection Test finals?
+	Você chegou nas finais
+	da Prova de Seleção de
+	Navi Operador?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wow!! That is sooooo
-	cool!!
+	Nossa!! Isso é
+	tãããão legal!!
 	"""
 	keyWait
 		any = false
@@ -306,30 +300,30 @@ script 45 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"\"Let's go,Lan!\""
+	"\"Vamos nessa, Lan!\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hehe,that was me
-	imitating that
-	commercial on TV.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Wait a sec! You look
-	just like the Navi
-	in the commercial...
+	He he, eu tava
+	imitando aquele
+	comercial da TV.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You could imitate
-	him better than I
-	can,I bet!
+	... Espera aí! Você é
+	igualzinho ao Navi
+	do comercial...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Aposto que faz uma
+	imitação ainda melhor
+	que eu dele!
 	"""
 	keyWait
 		any = false
@@ -340,16 +334,16 @@ script 46 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Cyber City's Mayor
-	Cain is so
-	dashing...
+	O Prefeito da Cidade
+	Saibher, o Sr. Cain,
+	é tão esbelto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,Mayor Cain!!
-	*swoon*
+	Aaaaain, Prefeito Cain!!
+	Hi hi...
 	"""
 	keyWait
 		any = false
@@ -359,22 +353,21 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"\"Let's go,Lan!\""
+	"\"Vamos nessa, Lan!\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hehe,that was me
-	imitating the
-	commercial on TV.
+	He he, eu tava
+	imitando aquele
+	comercial da TV.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What do you think?
-	Don't I sound like
-	the real guy!?
+	O que cê achou?
+	Ficou idêntico, né?!
 	"""
 	keyWait
 		any = false
@@ -385,14 +378,14 @@ script 55 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Wawawawa...
-	Seaside Town is in
-	huge trouble!
+	Aaaaauuhhh...
+	O Distrito Beira-Mar
+	tá em sérios apuros!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wawawawa..."
+	"Aaaaauuhhh..."
 	keyWait
 		any = false
 	end
@@ -402,20 +395,15 @@ script 60 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	It sounds like no
-	one was hurt badly
-	during the Seaside
+	Parece que ninguém saiu
+	muito ferido do incidente
+	no Distrto Beira-Mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Town incident..."
-	keyWait
-		any = false
-	clearMsg
 	"""
-	That's such a
-	relief...
+	Que alívio...
 	"""
 	keyWait
 		any = false

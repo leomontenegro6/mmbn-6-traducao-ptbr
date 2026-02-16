@@ -3,14 +3,14 @@
 
 script 25 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -25,9 +25,9 @@ script 26 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	...Destroy...
-	...Lan...
-	...Hikari...
+	... Destruir...
+	... Lan...
+	... Hikari...
 	"""
 	keyWait
 		any = false
@@ -45,11 +45,11 @@ script 27 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"You...!!"
+	"Você...!!"
 	keyWait
 		any = false
 	clearMsg
-	"Fool!!!!!!"
+	"Já era!!!!!!"
 	keyWait
 		any = false
 	flagSet
@@ -67,8 +67,8 @@ script 28 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Finally showed up!?
-	You'll regret that!!
+	Finalmente apareceu?!
+	Vai se arrepender disso!!
 	"""
 	keyWait
 		any = false
@@ -87,8 +87,8 @@ script 29 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Yahhhhh!!
-	I've found you!!
+	Iááááá!!
+	Te achei!!
 	"""
 	keyWait
 		any = false

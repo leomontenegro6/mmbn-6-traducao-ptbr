@@ -4,8 +4,8 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	The morning of the
-	Preview Gala...
+	Na manhã do Baile
+	de Pré-Inauguração...
 	"""
 	keyWait
 		any = false
@@ -17,7 +17,7 @@ script 1 mmbn6 {
 	controlLock
 	soundPlay
 		track = 439
-	"*tiptoe,tiptoe...*"
+	"Tip... Tap..."
 	wait
 		frames = 104
 	soundEnableTextSFX
@@ -30,7 +30,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Hehehehe..."
+	"He he he he..."
 	keyWait
 		any = false
 	end
@@ -40,8 +40,8 @@ script 3 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Alright,all
-	together...
+	Tá, todo mundo
+	junto: 1, 2...
 	"""
 	keyWait
 		any = false
@@ -52,7 +52,7 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	mugshotHide
 	msgOpen
-	"WAAAAAAKE UP!!"
+	"AACOOOORDAAAA!!"
 	keyWait
 		any = false
 	clearMsg
@@ -64,8 +64,8 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whaaaaaaaaai!!
-	Whowhatwhenwhere!?
+	Aaaaaa-uaaaaiah!!
+	Quê-quem-quando-onde?!
 	"""
 	keyWait
 		any = false
@@ -76,8 +76,8 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	D_Dex,Mayl...
-	Yai!?
+	D-Dex, Mayl...
+	Yai?!
 	"""
 	keyWait
 		any = false
@@ -90,9 +90,9 @@ script 7 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	You sleep like a
-	rock,Lan. So we came
-	by to bust your z's!
+	Cê dorme demais, Lan.
+	Então a gente veio te
+	trazer pra realidade!
 	"""
 	keyWait
 		any = false
@@ -105,8 +105,8 @@ script 8 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Good morning,Lan!
-	Did we scare you?
+	Bom dia, Lan!
+	A gente te assustou?
 	"""
 	keyWait
 		any = false
@@ -119,16 +119,16 @@ script 9 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Hmph. Well,get up
-	already,sleepyhead!
+	Hmpf. Tá, levanta logo,
+	bela adormecida!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll be waiting at
-	the park so hurry
-	over there ASAP!
+	A gente vai te esperar
+	no parque, então vai
+	logo pra lá, viu?!
 	"""
 	keyWait
 		any = false
@@ -139,9 +139,9 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Aah... They totally
-	scared me. I'm wide
-	awake now...
+	Aah... Eles me mataram
+	de susto. Agora eu tô
+	aceso feito uma vela...
 	"""
 	keyWait
 		any = false
@@ -151,14 +151,14 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm good to go!"
+	"Tá, tudo pronto!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Better meet up
-	with everyone at
-	the park now.
+	Melhor a gente ir se
+	encontrar com o pessoal
+	no parque agora.
 	"""
 	keyWait
 		any = false
@@ -170,7 +170,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yup!"
+	"Aham!"
 	keyWait
 		any = false
 	end

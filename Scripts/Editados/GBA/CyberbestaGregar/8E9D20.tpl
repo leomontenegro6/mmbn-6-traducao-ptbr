@@ -6,40 +6,40 @@ script 0 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	It's time to start
-	our lesson.
+	Hora de darmos
+	início à aula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll be able to
-	delete anyone with
-	a focused mind
+	Quando terminarmos,
+	você será capaz de
+	deletar qualquer um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	once we're through.
-	I'll teach you how
-	to stay calm,
+	com o foco necessário.
+	Vou te ensinar como
+	manter a calma,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	though to be honest,
-	my real job is to
-	delete Navis.
+	apesar de que, para ser
+	sincero, meu trabalho de
+	verdade é deletar Navis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All you have to do
-	is help me with a
-	few things...
+	Tudo o que você precisa
+	fazer é me ajudar com
+	umas coisinhas...
 	"""
 	keyWait
 		any = false
@@ -52,15 +52,15 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmm,so your job is
-	to delete Navis...
+	Err, então o seu trabalho
+	é deletar Navis...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you're kinda
-	like Dusk...?
+	Então você é que nem
+	o Dark Miyagi...?
 	"""
 	keyWait
 		any = false
@@ -73,38 +73,37 @@ script 2 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	I learned the dark
-	art of deleting
-	Navis from Dusk...
+	Eu aprendi a arte
+	sombria de deletar
+	Navis com o Miyagi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Like you,he learned
-	a lot on the
-	Undernet.
+	Assim como você, ele
+	aprendeu muitas coisas
+	na Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So my class should
-	be as easy as pig's
-	heart pie for you.
+	Logo, pra você, minha
+	aula deverá ser fácil
+	feito matar uma criança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In that computer,
-	EraseMan is waiting
-	for you.
+	O KillerMan lhe aguarda
+	naquele computador ali.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So,hurry..."
+	"Então apresse-se..."
 	keyWait
 		any = false
 	clearMsg
@@ -115,7 +114,10 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Y_Yeah..."
+	"""
+	T-tá bom...
+	た"Matar uma criança"?!ち
+	"""
 	keyWait
 		any = false
 	end

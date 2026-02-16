@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"It's a BBS..."
+	"É um fórum..."
 	keyWait
 		any = false
 	startBBS
@@ -13,15 +13,15 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	SeasideArea1 on it.
+	Nele, há um mapa
+	da Área Beira-Mar 1.
 	"""
 	keyWait
 		any = false
@@ -38,23 +38,22 @@ script 2 mmbn6 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	PLEASE PRESENT ME
-	WITH PROOF THAT
-	YOU HAVE
+	PARA ABRIR A PORTA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CAPTURED ALL THE
-	FISH IN THIS AREA
+	POR FAVOR,
+	APRESENTE UMA PROVA
+	DE QUE VOCÊ CAPTUROU
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FOR ME TO OPEN
-	THIS DOOR.
+	TODOS OS PEIXES
+	DESTA ÁREA.
 	"""
 	keyWait
 		any = false
@@ -63,23 +62,22 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	PLEASE PRESENT ME
-	WITH PROOF THAT
-	YOU HAVE
+	PARA ABRIR A PORTA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CAPTURED ALL THE
-	FISH IN THIS AREA
+	POR FAVOR,
+	APRESENTE UMA PROVA
+	DE QUE VOCÊ CAPTUROU
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FOR ME TO OPEN
-	THIS DOOR.
+	TODOS OS PEIXES
+	DESTA ÁREA.
 	"""
 	keyWait
 		any = false
@@ -94,7 +92,7 @@ script 3 mmbn6 {
 		chip = 24
 	"""
 	"
-	CONFIRMED.
+	CONFIRMADO.
 	"""
 	keyWait
 		any = false
@@ -112,7 +110,7 @@ script 4 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 used:
+	 usou:
 	"
 	"""
 	printItem
@@ -128,17 +126,17 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	The darkness won't
-	budge,even with your
-	strongest attacks.
+	As trevas não
+	diminuem, nem com os
+	seus ataques mais fortes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe the
-	EvilSpirits are
-	related somehow...
+	Talvez isso tenha
+	alguma relação com
+	os Espíritos Malignos...
 	"""
 	keyWait
 		any = false
@@ -168,9 +166,9 @@ script 7 mmbn6 {
 		jumpIfProtoMan = continue
 	msgOpen
 	"""
-	The cyberwater's
-	flow is too strong
-	to go against!!
+	O fluxo de cyberágua
+	é forte demais para
+	atravessar!!
 	"""
 	keyWait
 		any = false
@@ -181,21 +179,21 @@ script 8 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Hmm,if I pass very
-	strong electricity
-	through the water...
+	Hmm, se eu fizer uma
+	forte corrente elétrica
+	passar pela água...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can split it into
-	hydrogen and oxygen!
+	posso separá-la em
+	hidrogênio e oxigênio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Elec Power!!"
+	"Tensão Elétrica!!"
 	keyWait
 		any = false
 	clearMsg
@@ -205,9 +203,8 @@ script 8 mmbn6 {
 	wait
 		frames = 30
 	"""
-	The raging water_
-	spout evaporated
-	off as steam!
+	A tromba d'água
+	violenta virou vapor!
 	"""
 	keyWait
 		any = false
@@ -219,19 +216,18 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Hiyahaha!"
+	"Riá ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Hex Sickle can
-	cut through
-	anything!!
+	A minha HexaFoice
+	fatia qualquer coisa!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hiyahahaha!!"
+	"Riá ha ha haa!"
 	keyWait
 		any = false
 	clearMsg
@@ -241,8 +237,8 @@ script 9 mmbn6 {
 	wait
 		frames = 30
 	"""
-	The Hex Sickle cut
-	the waterspout!!
+	A HexaFoice consegue
+	cortar a tromba d'água!!
 	"""
 	keyWait
 		any = false
@@ -255,26 +251,25 @@ script 10 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	If it's got to do
-	with water,leave it
-	to me,drip!!
+	Se o assunto é água,
+	deixa comigo, xuá!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Water...
-	Calm!!
-	... drip.
+	Água...
+	Acalma-te!!
+	... Xuá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	At SpoutMan's words,
-	the waterspout
-	calmly disappeared!!
+	Obedecendo às palavras
+	do AquaMan, a tromba
+	d'água desapareceu!!
 	"""
 	keyWait
 		any = false
@@ -286,19 +281,18 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whiiiiiir!!"
+	"Tchrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All we gotta do is
-	dump some dirt on
-	the source!!
+	É só jogar um pouquinho
+	de terra na fonte!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Whiiiiiir!!"
+	"Tchrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
@@ -308,8 +302,8 @@ script 11 mmbn6 {
 	wait
 		frames = 30
 	"""
-	GroundMan stopped up
-	the water opening!
+	O GroundMan tampou
+	a abertura da água!
 	"""
 	keyWait
 		any = false
@@ -325,9 +319,8 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	msgOpen
 	"""
-	The door is locked
-	so you can't get
-	through!
+	A porta está trancada.
+	Não há como passar.
 	"""
 	keyWait
 		any = false

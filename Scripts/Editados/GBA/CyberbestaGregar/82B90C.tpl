@@ -559,7 +559,7 @@ script 148 mmbn6s {
 	end
 }
 script 149 mmbn6s {
-	"DripShwr"
+	"XuáShwr"
 	end
 }
 script 150 mmbn6s {

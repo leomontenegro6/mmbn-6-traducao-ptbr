@@ -6,9 +6,8 @@ script 0 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	HEY!!
-	WHO THE HECK'S
-	OVER THERE!?
+	OPA!!
+	QUEM TÁ AÍ?!
 	"""
 	keyWait
 		any = false
@@ -21,8 +20,8 @@ script 1 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Tsk!!
-	Spotted!
+	Tsc!!
+	Fui avistado!
 	"""
 	keyWait
 		any = false
@@ -30,8 +29,8 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	BETTER LUCK NEXT
-	TIME,SUCKER!
+	MAIS SORTE NA
+	PRÓXIMA, OTÁRIO!
 	"""
 	keyWait
 		any = false
@@ -42,7 +41,7 @@ script 5 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Sweet dreams!
+	Divirta-se no inferno!
 	Hya_ha!!
 	"""
 	keyWait
@@ -55,7 +54,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"AAAURRK!!"
+	"AAAURRGH!!"
 	keyWait
 		any = false
 	soundPlay
@@ -67,8 +66,8 @@ script 10 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Hey,focus,Lan!
-	Stealth,remember!?
+	Ei, foca, Lan!
+	Sutileza, lembra?!
 	"""
 	keyWait
 		any = false

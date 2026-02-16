@@ -13,9 +13,9 @@ script 0 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	The control panel
-	is operating
-	normally.
+	O painel de controle
+	está funcionando
+	normalmente.
 	"""
 	keyWait
 		any = false
@@ -34,19 +34,19 @@ script 6 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's normalize
-	this control panel!
+	Lan, vamos normalizar
+	este painel de controle!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go!"
+	"Vamos lá!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"OK!!"
+	"Beleza!!"
 	keyWait
 		any = false
 	flagSet

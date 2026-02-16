@@ -6,30 +6,30 @@ script 0 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Looks like the job's
-	over...
+	Parece que a gente
+	terminou o trabalho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're not bad at
-	operating,Lan,
+	A sua operação não
+	é nada má, Lan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but you're not very
-	good at deleting.
+	mas cê ainda não é
+	muito bom em deletar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Heh,heh!!
-	More!! I want to
-	delete MORE!!!
+	He he!!
+	Mais!
+	Eu quero deletar MAIS!!!
 	"""
 	keyWait
 		any = false
@@ -42,24 +42,24 @@ script 1 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	Lan,jack EraseMan
-	out.
+	Lan, desconecta
+	o KillerMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're going to have
-	a small,painless
-	final test.
+	Vamos fazer uma prova
+	prova final. Bem pequena,
+	bem indolor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems EraseMan
-	wants...a taste of
-	your Navi!
+	Parece que o KillerMan
+	quer... um gostinho do
+	SEU Navi!
 	"""
 	keyWait
 		any = false
@@ -72,9 +72,9 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A battle against
-	EraseMan...? Why do
-	I feel... *gulp*
+	Uma luta contra o
+	KillerMan...? Por que eu
+	tô sentindo que... Glup!
 	"""
 	keyWait
 		any = false

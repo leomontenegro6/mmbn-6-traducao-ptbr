@@ -20,30 +20,29 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	It's been a long
-	time,MegaMan!
-	Are you doing well!?
+	Há quanto tempo, Mega!
+	Você tá bem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah!"
+	"Tô, sim!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But anyway,wasn't
-	the meeting place in
-	ACDC Area?
+	Mas... o local de
+	encontro não era
+	na Área ACDC?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are you doing
-	hanging out here?
+	Tá fazendo o
+	que por aqui?
 	"""
 	keyWait
 		any = false
@@ -51,38 +50,38 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	Well,I asked Mr.Prog
-	to run an errand for
-	me,but
+	Bom, eu pedi pra um
+	Prog fazer uma tarefa
+	pra mim,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	he's really late...
-	He hasn't come back
-	yet...
+	mas ele tá super
+	atrasado... Não
+	voltou até agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought maybe he
-	got lost,so I was
-	looking for him.
+	Achei que ele podia
+	ter se perdido, então
+	vim procurar por ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"A lost Mr.Prog,huh?"
+	"Um Prog perdido, é?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,I'll help you
-	look for him!
+	Beleza, eu te ajudo
+	a procurar por ele!
 	"""
 	keyWait
 		any = false
@@ -90,9 +89,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	Really?
-	That would be a big
-	help!
+	Sério?
+	Isso ia ajudar demais!
 	"""
 	keyWait
 		any = false
@@ -105,24 +103,23 @@ script 1 mmbn6 {
 		mugshot = Roll
 	msgOpen
 	"""
-	I asked Mr.Prog to
-	run an errand for
-	me,but
+	Eu pedi pra um Prog fazer
+	uma tarefa pra mim,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	he's really late...
-	He hasn't come back
-	yet...
+	mas ele tá super
+	atrasado... Não
+	voltou até agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think he might
-	be lost,so...
+	Acho que ele pode ter
+	se perdido, então...
 	"""
 	keyWait
 		any = false
@@ -137,9 +134,9 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Here you go,Roll.
-	This is the thing
-	you wanted,right...?
+	Tá aqui, Roll.
+	Era isso o que
+	você queria, né...?
 	"""
 	keyWait
 		any = false
@@ -147,31 +144,30 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	Ah,yes!
-	Thank you,MegaMan!
+	Ah, sim!
+	Obrigada, Mega!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... But,you know,
-	this isn't for me.
+	... Mas, sabe, isso
+	aí não é pra mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"... HUH!?"
+	"... Hã?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Roll
 	"""
-	... This is a
-	present for you,
-	MegaMan!
+	... É um presente
+	pra VOCÊ, Mega!
 	"""
 	keyWait
 		any = false
@@ -179,8 +175,8 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	For me!?
-	Really!?
+	Pra mim?!
+	É sério?!
 	"""
 	keyWait
 		any = false
@@ -188,52 +184,51 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	They just finished
-	the road between
-	Cyber City
+	Acabaram de terminar
+	a estrada entre a
+	Cidade Saibher
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and ACDC Area,and
-	with this passport
-	you can move
+	e a Área ACDC, e, com
+	este passaporte, dá
+	pra você transitar de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	between both areas
-	freely. This way,we
-	can see each other
+	boa entre as duas
+	áreas. Assim, a gente
+	pode ser ver sempre
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"whenever we want!"
+	"que quisermos!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Thank you,Roll!"
+	"Obrigada, Roll!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Roll
 	"""
-	Come on,let's go to
-	the meeting place.
+	Vem, vamos lá pro
+	local de encontro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone's probably
-	already waiting for
-	us there!
+	Todo mundo já deve tá
+	lá, esperando a gente!
 	"""
 	keyWait
 		any = false
@@ -246,16 +241,15 @@ script 3 mmbn6 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Come on,let's go to
-	the meeting place.
+	Vem, vamos lá pro
+	local de encontro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone's probably
-	already waiting for
-	us there!
+	Todo mundo já deve tá
+	lá, esperando a gente!
 	"""
 	keyWait
 		any = false

@@ -15,67 +15,59 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"You're here!!"
+	"Aí está você!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're here about
-	the request!!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	See that? That's
-	the safe we use at
-	this Popcorn Shop...
+	Você veio resolver
+	o meu pedido, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I've forgotten
-	the code to open
-	it!!
+	Tá vendo isto aqui?
+	É o cofre que usamos
+	nesta pipocaria...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to send this
-	money to the bank
-	soon...
+	e eu esqueci a
+	senha que abre ele!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the only other
-	person who knows
+	Preciso depositar este
+	dinheiro no banco já, já...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the code is
-	the shop owner!
+	e a única outra pessoa
+	que sabe a senha é o
+	dono da loja.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The shop owner is
-	on a trip and I
-	can't reach him!
+	Só que ele viajou
+	e eu não consigo
+	falar com ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I need help!
-	I need you to open
-	this safe!
+	Então eu preciso de
+	ajuda! Por favor,
+	abre o cofre pra mim!
 	"""
 	keyWait
 		any = false
@@ -86,63 +78,55 @@ script 1 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	See that? That's
-	the safe we use at
-	this Popcorn Shop...
+	Tá vendo isto aqui?
+	É o cofre que usamos
+	nesta pipocaria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today I'm supposed
-	to count the sales
-	money.
+	Eu fiquei encarregado
+	de contar o dinheiro
+	das vendas de hoje...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I've forgotten
-	the code to open
-	it!!
+	mas esqueci a senha
+	pra abrir o cofre!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to send this
-	money to the bank
-	soon...
+	Preciso depositar este
+	dinheiro no banco já, já...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the only other
-	person who knows
+	e a única outra pessoa
+	que sabe a senha é o
+	dono da loja.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the code is
-	the shop owner!
+	Só que ele viajou
+	e eu não consigo
+	falar com ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The shop owner is
-	on a trip and I
-	can't reach him!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	So I need help!
-	I need you to open
-	this safe!
+	Então eu preciso de
+	ajuda! Por favor,
+	abre o cofre pra mim!
 	"""
 	keyWait
 		any = false
@@ -152,14 +136,13 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Whew! I'm saved!"
+	"Ufa!\nA minha pele tá salva!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be able to make
-	the bank deposit
-	on time!
+	Vai dar pra eu depositar
+	o dinheiro a tempo!
 	"""
 	keyWait
 		any = false
@@ -180,8 +163,8 @@ script 3 mmbn6 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	What a heavy box!
-	It's like a safe...
+	Uff, que peso!
+	Parece ser um cofre...
 	"""
 	keyWait
 		any = false
@@ -192,16 +175,16 @@ script 4 mmbn6 {
 	flagSet
 		flag = 4451
 	"""
-	What a heavy box!
-	It's like a safe...
+	Que peso!
+	Parece ser um cofre...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This paper says,
-	"A hint if you've
-	forgotten the code."
+	Um papel afixado a ele
+	diz: "Dica para caso
+	você esqueça a senha".
 	"""
 	keyWait
 		any = false
@@ -209,25 +192,24 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	The shop owner must
-	have put it there...
-	I didn't know...
+	O dono da loja deve ter
+	colado aí. Eu nem sabia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	1 is dolphin.
-	10 is penguin.
-	100 is sea angel.
+	1 é golfinho.
+	10 é pinguim.
+	100 é anjo-do-mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"...OK..."
+	"... Tá..."
 	keyWait
 		any = false
 	clearMsg
@@ -237,24 +219,24 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	What a heavy box!
-	It's like a safe...
+	Que peso!
+	Parece ser um cofre...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This paper says,
-	"A hint if you've
-	forgotten the code."
+	Um papel afixado a ele
+	diz: "Dica para caso
+	você esqueça a senha".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	1 is dolphin.
-	10 is penguin.
-	100 is sea angel.
+	1 é golfinho.
+	10 é pinguim.
+	100 é anjo-do-mar.
 	"""
 	keyWait
 		any = false
@@ -264,7 +246,7 @@ script 5 mmbn6 {
 }
 script 6 mmbn6 {
 	mugshotHide
-	"Enter Code:\n"
+	"Insira senha:\n"
 	option
 		brackets = 1
 		left = 3
@@ -308,7 +290,7 @@ script 6 mmbn6 {
 		count = 1
 	"""
 	OK
-	たLてR:Cursor UてD:Numち
+	たDてE:Cursor CてDB:Númち
 	"""
 	menuSelectPassword
 		password = 1
@@ -325,12 +307,12 @@ script 7 mmbn6 {
 	controlLock
 	soundPlay
 		track = 337
-	"*Beep!* "
+	"Bip! "
 	wait
 		frames = 20
 	soundPlay
 		track = 374
-	"*Click!!*"
+	"Clic!!"
 	wait
 		frames = 20
 	soundEnableTextSFX
@@ -340,21 +322,20 @@ script 7 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"YES! It's open!!"
+	"ISSO! Abriu!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I see... The hint
-	was the number of
-	animals.
+	Entendi... A dica era
+	o número de animais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's a gift to
-	show my thanks...
+	Tome, um presente
+	como agradecimento...
 	"""
 	keyWait
 		any = false
@@ -368,7 +349,7 @@ script 7 mmbn6 {
 		amount = 1
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printNaviCustProgram
@@ -382,14 +363,13 @@ script 7 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Whew! I'm saved!"
+	"Ufa!\nA minha pele tá salva!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be able to make
-	the bank deposit
-	on time!
+	Vai dar pra eu depositar
+	o dinheiro a tempo!
 	"""
 	keyWait
 		any = false
@@ -397,14 +377,14 @@ script 7 mmbn6 {
 		flag = 4450
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -413,14 +393,14 @@ script 7 mmbn6 {
 }
 script 8 mmbn6 {
 	msgOpen
-	"Incorrect Code."
+	"Senha incorreta."
 	keyWait
 		any = false
 	end
 }
 script 9 mmbn6 {
 	msgOpen
-	"Input cancelled."
+	"Cancelando processo."
 	keyWait
 		any = false
 	end
@@ -428,13 +408,13 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	What a heavy box!
-	It's like a safe...
+	Que peso!
+	Parece ser um cofre...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It is unlocked..."
+	"Está aberto."
 	keyWait
 		any = false
 	end
@@ -443,27 +423,27 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"There's a virus!"
+	"É um vírus!"
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,Lan!"
+	"Vamos nessa, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Alright!!"
+	"Beleza!!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -497,9 +477,9 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We did it,Lan!
-	We deleted all of
-	the viruses!!
+	Conseguimos, Lan!
+	Deletamos todos
+	os vírus!!
 	"""
 	keyWait
 		any = false
@@ -507,9 +487,9 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yep!
-	This computer
-	is safe now!
+	Aham!
+	Agora este computador
+	vai ficar bem!
 	"""
 	keyWait
 		any = false
@@ -519,16 +499,16 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it,Lan!"
+	"Conseguimos, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yep!
-	This computer
-	is safe now!
+	Aham!
+	Agora este computador
+	vai ficar bem!
 	"""
 	keyWait
 		any = false
@@ -539,31 +519,31 @@ script 15 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'VE GOT A SECRET
-	RIVAL.
+	EU TENHO UM
+	RIVAL SECRETO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE PROGRAM AT THE
-	FISH STICKS SHOP...
+	O PROG DA LOJA DE
+	PALITOS DE PEIXE...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I NEVER WANT TO COME
-	IN SECOND TO THAT
-	PROGRAM...
+	ME RECUSO A FICAR EM
+	SEGUNDO LUGAR CONTRA
+	AQUELE LÁ...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EVERYONE KNOWS
-	POPCORN IS BETTER
-	THAN FISH STICKS!
+	TODO MUNDO SABE QUE
+	PIPOCA É MUITO MELHOR
+	QUE PALITO DE PEIXE!
 	"""
 	keyWait
 		any = false

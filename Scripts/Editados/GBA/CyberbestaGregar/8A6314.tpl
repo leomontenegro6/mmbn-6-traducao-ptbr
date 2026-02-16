@@ -30,85 +30,82 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviYellow
 	"""
-	You're an Operator
-	Navi Selection Test
-	participant,right?
+	Você é participante
+	da Prova de Seleção
+	de Navi Operador, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the
-	"cyberseal"!
+	Esta é a "cyberfoca"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Can you see it?"
+	"Hm? Não tá vendo?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe if you stand
-	on your tip toes
-	you can...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	At the Aquarium HP,
-	the seal is used as
-	a visual.
+	Tenta ficar bem na
+	pontinha dos pés.
+	E agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Congratulations
-	on passing the
-	first test!
+	A foca é usada como
+	ícone no papel de parede
+	da página do Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But don't be too
-	proud of yourself!
+	Parabéns por passar
+	na primeira prova!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The tests will
-	keep on coming!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"The next test is..."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	To find a
-	"fish that cannot
-	 swim"!
+	Mas não vá ficando
+	cheio de si, não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's a hint...
-	"You can't find it
-	 in the real world!"
+	Ainda tem mais
+	prova pela frente!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"A próxima é..."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	encontrar um
+	"peixe que não nada"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use your brain and
-	solve the riddle!
+	Aqui vai uma dica...
+	"Ele pode ser achado
+	no mundo real!"
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Usa bem a cachola e
+	encontre a solução!
 	"""
 	keyWait
 		any = false
@@ -119,38 +116,35 @@ script 51 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviYellow
 	"""
-	The tests will
-	keep coming!!
+	Ainda tem mais
+	prova pela frente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The next test is to
-	find a "fish that
-	cannot swim"!
+	A próxima prova é achar
+	um "peixe que não nada"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? You'd like
-	a hint?
+	Hã? Quer uma dica?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"A fish that
-	 cannot swim" is
-	a tasty snack.
+	O "peixe que não nada"
+	é um lanchinho delicioso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Heheh...
-	Did you get it?
+	He he...
+	Pegou?
 	"""
 	keyWait
 		any = false
@@ -167,85 +161,82 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	"""
-	You're an Operator
-	Navi Selection Test
-	participant,right?
+	Você é participante
+	da Prova de Seleção
+	de Navi Operador, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the
-	"cyberseal"!
+	Esta é a "cyberfoca"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Can you see it?"
+	"Hm? Não tá vendo?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe if you stand
-	on your tip toes
-	you can...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	At the Aquarium HP,
-	the seal is used as
-	a visual.
+	Tenta ficar bem na
+	pontinha dos pés.
+	E agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Congratulations
-	on passing the
-	first test!
+	A foca é usada como
+	ícone no papel de parede
+	da página do Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But don't be too
-	proud of yourself!
+	Parabéns por passar
+	na primeira prova!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The tests will
-	keep on coming!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"The next test is..."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	To find a
-	"fish that cannot
-	 swim"!
+	Mas não vá ficando
+	cheio de si, não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's a hint...
-	"You can't find it
-	 in the real world!"
+	Ainda tem mais
+	prova pela frente!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"A próxima é..."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	encontrar um
+	"peixe que não nada"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go out there and
-	do your best!
+	Aqui vai uma dica...
+	"Ele pode ser achado
+	no mundo real!"
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Bom, boa sorte!
+	Manda ver!
 	"""
 	keyWait
 		any = false
@@ -256,30 +247,28 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	"""
-	What is a
-	"fish that cannot
-	 swim"? Do you know?
+	O que é um "peixe que
+	não nada"? Não sabe?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's a hint for
-	those that are
-	stuck!
+	Aqui vai uma dica
+	pros empacados!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"A fish that
-	 cannot swim"
-	floats in oil!
+	O "peixe que não
+	nada"... é mergulhado
+	em óleo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Did that help?"
+	"Ajudou?"
 	keyWait
 		any = false
 	end

@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"That night..."
+	"Naquela noite..."
 	keyWait
 		any = false
 	clearMsg
@@ -17,7 +17,7 @@ script 1 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeeeeech!!*"
+	"Kyaaaaaarhh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -34,7 +34,7 @@ script 2 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*rooooooooar!!*"
+	"Raaaaaarrr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -54,16 +54,15 @@ script 3 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Did you hear some_
-	thing? It sounded
-	like a large animal.
+	Você ouviu alguma coisa?
+	Parecia um animal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe it was the
-	other Cybeast...
+	Talvez fosse a outra
+	Cyberbesta...
 	"""
 	keyWait
 		any = false
@@ -83,17 +82,16 @@ script 4 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	What...mumbling
-	about...? This's the
-	real world...
+	Mas... papo é esse...?
+	É o mundo real...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're hearing...in
-	your sleep... Nngh...
-	Mmm... zzzzzz...
+	Cê tá ouvindo... sua
+	cabeça... Nngh...
+	Mmm... Zzzzzz...
 	"""
 	keyWait
 		any = false
@@ -106,9 +104,9 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... Maybe my ears
-	are playing tricks
-	on me...
+	... É, talvez seja
+	só a minha imaginação
+	mesmo...
 	"""
 	keyWait
 		any = false
@@ -120,8 +118,8 @@ script 6 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	The next day,after
-	school...
+	No dia seguinte,
+	após a aula...
 	"""
 	keyWait
 		any = false
@@ -132,8 +130,8 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah! School's finally
-	over!!
+	Ah! Finalmente
+	acabou a aula!!
 	"""
 	keyWait
 		any = false
@@ -146,40 +144,38 @@ script 8 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go invite Mick
-	and the others to
-	the Expo!
+	Vamos convidar o Mick e
+	os outros pra Exposição!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And then,after we
-	get home,I'll go
-	invite everyone from
+	Aí, depois que a gente
+	chegar em casa, eu vou
+	convidar todo mundo do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ACDC Town through
-	the Net!
+	Bairro ACDC
+	através da Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And if Chaud's
-	around,I'll invite
-	him,too!
+	E, se encontrar o
+	Chaud por aí, eu
+	convido ele também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you think he
-	went back to
-	DenCity?
+	Será que ele voltou
+	pra DenCity?
 	"""
 	keyWait
 		any = false
@@ -192,17 +188,17 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,I think so.
-	Sounds good!
-	You take care of
+	Eu acho que voltou.
+	E beleza!
+	Você cuida disso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that,and I'll invite
-	Mick and the others
-	in Central Town!
+	e eu convido o
+	Mick os outros
+	no Bairro Central!
 	"""
 	keyWait
 		any = false

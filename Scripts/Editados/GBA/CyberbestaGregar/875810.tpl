@@ -6,56 +6,54 @@ script 0 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	I guess you can get
-	rare chips at a
-	Chip Trader,
+	É possível tirar
+	um chip raro no
+	Troca-Chips,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but there is also a
-	chance you'll get
-	some boring chip...
+	mas também é possível
+	tirar um chip besta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And 3 chips for 1
-	is kind of a bad
-	deal.
+	E trocar 3 chips
+	por 1 só é um belo
+	de um sacrifício.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,when you use
-	a Chip Trader it
-	automatically
+	Lembrando que, quando
+	se usa o Troca-Chips,
+	o jogo é salvo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	saves,so you have
-	to be careful.
+	automaticamente,
+	então, cuidado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And NEVER,EVER
-	accidentally
-	insert a rare chip!
+	E nunca, JAMAIS
+	insira um chip
+	raro por acidente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ahhh! Just thinking
-	about it gives me
-	the shivers!!
+	Ahhh! Só de pensar,
+	já deu um arrepio!!
 	"""
 	keyWait
 		any = false
@@ -66,39 +64,37 @@ script 1 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Next to the Chip
-	Trader,there is a
-	Number Trader.
+	Do lado do Troca-Chips
+	fica o Troca-Números.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you enter 8
-	digits into the
+	Se digitar 8
+	números na máquina,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	machine,do you
-	know what will
-	happen?
+	sabe o que acontece?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe someone can
-	tell you...
+	Bom, eu não sei.
+	Será que você acha
+	alguém que sabe?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Rumor has it that
-	many things are
-	hidden beyond sight.
+	O boato que eu ouvi
+	é que "muitas coisas se
+	escondem do olho nu".
 	"""
 	keyWait
 		any = false
@@ -109,17 +105,17 @@ script 2 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	It's finally open!
-	I've got a long
-	list of chips I
+	Finalmente abriu!
+	Eu tenho uma lista enorme
+	de chips que eu quero,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	want so I've been
-	waiting for it to
-	open!
+	então tava esperando
+	ansioso pra loja abrir
+	de novo!
 	"""
 	keyWait
 		any = false
@@ -130,17 +126,16 @@ script 5 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	I collect chips
-	no matter how
-	worthless they are!
+	Eu coleciono chips,
+	até os inúteis!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Why?
-	To use them in the
-	Chip Trader!!
+	... "Por quê?"
+	Pra usar no Troca-Chips,
+	oras!
 	"""
 	keyWait
 		any = false
@@ -151,33 +146,32 @@ script 6 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	The information on
-	this display is
-	the RequestBBS.
+	Nesse monitor fica
+	o Quadro de Pedidos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lots of people
-	post their problems
-	and requests here.
+	Várias pessoas
+	postam seus problemas
+	e pedidos nele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you solve the
-	requestors problem,
-	you'll get a reward.
+	E se você soluciona o
+	problema do solicitante,
+	ganha uma recompensa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you've got some
-	free time you should
-	take a request!
+	Se tiver um tempinho,
+	recomendo forte você
+	encarar alguns!
 	"""
 	keyWait
 		any = false
@@ -188,17 +182,17 @@ script 30 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	I really want this
-	chip... Maybe I can
-	get Dad to buy it!
+	Eu quero tanto este
+	chip... Talvez o papai
+	possa comprar pra mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah! I'll ask after
-	I give him a nice
-	long massage...
+	É! Eu vou pedir pra
+	ele depois de massagear
+	os ombros dele!
 	"""
 	keyWait
 		any = false
@@ -214,9 +208,9 @@ script 31 mmbn6 {
 	clearMsg
 	mugshotHide
 	"""
-	No response...
-	He's entranced
-	by the chips...
+	Ele não reage...
+	Está completamente
+	hipnotizado pelos chips...
 	"""
 	keyWait
 		any = false
@@ -232,9 +226,9 @@ script 35 mmbn6 {
 	clearMsg
 	mugshotHide
 	"""
-	No response...
-	He's entranced
-	by the chips...
+	Ele não reage...
+	Está completamente
+	hipnotizado pelos chips...
 	"""
 	keyWait
 		any = false
@@ -245,16 +239,16 @@ script 36 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	That kid has been
-	staring at those
-	chips for ages...
+	Faz horas que esse
+	menino tá olhando
+	pra esses chips...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He must really
-	want them...
+	Ele deve mesmo
+	querer comprar...
 	"""
 	keyWait
 		any = false

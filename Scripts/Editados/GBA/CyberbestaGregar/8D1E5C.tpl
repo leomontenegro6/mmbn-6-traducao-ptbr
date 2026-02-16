@@ -6,14 +6,13 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is the first
-	time I've been to
-	a courthouse.
+	Essa é a minha primeira
+	vez num tribunal.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm so nervous..."
+	"Tô tão nervoso..."
 	keyWait
 		any = false
 	end
@@ -25,20 +24,20 @@ script 1 mmbn6 {
 	msgOpen
 	soundDisableTextSFX
 	controlLock
-	"*BEEP,"
+	"BIP  "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP,"
+	"BIP  "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP"
+	"BIP"
 	soundPlay
 		track = 205
-	"!!*"
+	"!!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -47,8 +46,8 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	INTRUDER ALERT
-	INTRUDER ALERT
+	ALERTA DE INTRUSO!
+	ALERTA DE INTRUSO!
 	"""
 	soundPlayBGM
 		track = 12
@@ -67,16 +66,15 @@ script 2 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Now where have I
-	heard that sound
-	before...?
+	Pera, onde foi que eu
+	já ouvi isso antes...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know it means
-	something bad...
+	Bom, coisa boa, eu
+	sei que não é...
 	"""
 	keyWait
 		any = false
@@ -86,7 +84,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah,I knew it!"
+	"Ah, sabia!"
 	keyWait
 		any = false
 	clearMsg
@@ -97,8 +95,8 @@ script 4 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	INTRUDER ALERT
-	INTRUDER ALERT
+	ALERTA DE INTRUSO!
+	ALERTA DE INTRUSO!
 	"""
 	keyWait
 		any = false
@@ -110,13 +108,13 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W_Wait a sec!"
+	"P-pera aí!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was told to come
-	here to testify!
+	Eu fui chamado
+	aqui pra depor!
 	"""
 	keyWait
 		any = false
@@ -130,15 +128,15 @@ script 6 mmbn6 {
 	soundPlayBGM
 		track = 99
 	"""
-	OH...WELL,WHY DIDN'T
-	YOU SAY SO?
+	AH... POR QUE
+	NÃO DISSE LOGO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... PLEASE STATE
-	YOUR NAME.
+	... POR FAVOR,
+	DECLARE SEU NOME.
 	"""
 	keyWait
 		any = false
@@ -150,7 +148,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm Lan Hikari,uh..."
+	"L-Lan Hikari..."
 	keyWait
 		any = false
 	clearMsg
@@ -161,7 +159,7 @@ script 8 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	PROCESSING THE NAME
+	PROCESSANDO NOME.
 	"LAN HIKARI".
 	"""
 	keyWait
@@ -183,7 +181,7 @@ script 8 mmbn6 {
 		animation = 1
 	soundPlay
 		track = 414
-	"*beep,beep,beep*"
+	"Bip-Bip-Bip"
 	wait
 		frames = 10
 	soundEnableTextSFX
@@ -194,22 +192,16 @@ script 8 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	AS SUSPECTED,YOU ARE
-	NOT ON THE LIST!
+	COMO IMAGINEI, VOCÊ
+	NÃO ESTÁ NA LISTA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEREFORE,YOU ARE
-	A SUSPICIOUS PERSON
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	AND MUST BE
-	AN INTRUDER!!
+	PORTANTO, É UMA
+	ENTIDADE SUSPEITA E
+	DEVE SER UM INTRUSO!
 	"""
 	soundPlayBGM
 		track = 12
@@ -224,9 +216,9 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	S_Suspi__!?
-	An i_intruder!?
-	What!?
+	S-suspe...?!
+	I-intruso?!
+	O quê?!
 	"""
 	keyWait
 		any = false
@@ -238,31 +230,37 @@ script 10 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	GREEN TOWN
-	ORDINANCE NUMBER
-	128 STATES THAT
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"\"ANYONE WHO ENTERS\n THE COURTHOUSE\n MUST HAVE RECEIVED"
-	keyWait
-		any = false
-	clearMsg
-	" PRIOR APPROVAL\n FROM THE COURT\"."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	YOU ARE BREAKING
-	THE ABOVE ORDINANCE.
+	O DECRETO 128 DO
+	DISTRITO VERDE
+	ESTABELECE QUE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU WILL NOW
-	BE ARRESTED.
+	"TODOS QUE ADENTREM O
+	TRIBUNAL DEVEM FAZÊ-LO
+	SOMENTE APÓS RECEBER
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	APROVAÇÃO PRÉVIA
+	DO TRIBUNAL."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	VOCÊ ESTÁ VIOLANDO
+	ESSE DECRETO.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	AGORA, SERÁ APREENDIDO.
 	"""
 	keyWait
 		any = false
@@ -272,7 +270,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A_Arrested!?"
+	"A-apreendido?!"
 	keyWait
 		any = false
 	end
@@ -281,7 +279,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Wait,wait!!"
+	"Esperem, esperem!!"
 	soundPlayBGM
 		track = 99
 	keyWait
@@ -292,7 +290,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mr.Director!"
+	"Sr. Diretor!"
 	keyWait
 		any = false
 	clearMsg
@@ -304,25 +302,23 @@ script 14 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I called for this
-	boy to stand as
-	a witness.
+	Eu chamei esse rapaz
+	aqui para depor como
+	testemunha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I simply forgot to
-	enter his name
-	onto the list.
+	Mas esqueci de inserir
+	o nome dele na lista...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was my mistake.
-	I will add him to
-	the list now.
+	Foi um erro sincero.
+	Adicionarei ele lá agora.
 	"""
 	keyWait
 		any = false
@@ -349,7 +345,7 @@ script 15 mmbn6 {
 		animation = 1
 	soundPlay
 		track = 414
-	"*beep,beep,beep*"
+	"Bip-Bip-Bip"
 	wait
 		frames = 10
 	soundEnableTextSFX
@@ -360,13 +356,13 @@ script 15 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	SPECIAL PERMISSION
-	GRANTED.
+	PERMISSÃO ESPECIAL
+	CONCEDIDA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HAVE A NICE DAY."
+	"TENHAM UM BOM DIA."
 	keyWait
 		any = false
 	end
@@ -378,9 +374,8 @@ script 16 mmbn6 {
 	soundPlayBGM
 		track = 8
 	"""
-	Ah,I'm really sorry
-	for the little
-	mix_up,my boy...
+	Ah, mil desculpas pela
+	confusão, rapaz...
 	"""
 	keyWait
 		any = false
@@ -393,8 +388,8 @@ script 17 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Um,what were those
-	robots just now?
+	Er, que robôs eram
+	esses, afinal?
 	"""
 	keyWait
 		any = false
@@ -407,17 +402,16 @@ script 18 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	If you try to enter
-	this courthouse
-	without permission,
+	Quando se tenta entrar
+	no tribunal sem permissão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you'll be arrested
-	by those Punishment
-	Robots you just saw.
+	aqueles Robôs de
+	Punição prendem você,
+	como deu para ver.
 	"""
 	keyWait
 		any = false
@@ -430,9 +424,8 @@ script 19 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You can get arrested
-	for something like
-	that!?
+	Dá pra ser preso por
+	uma coisinha dessas?!
 	"""
 	keyWait
 		any = false
@@ -445,65 +438,64 @@ script 20 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I suppose I should
-	explain how Green
-	Town came about.
+	Acho que preciso
+	explicar como o Distrito
+	Verde veio a ser.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This town was
-	founded on the
-	theme of a
+	Esta comunidade foi
+	fundada sob a filosofia
+	de uma sociedade livre
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	crime_free society.
-	So rules and laws
-	are more strictly
+	de crimes. Logo, leis e
+	decretos são seguidos com
+	mais afinco aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	enforced here. There
-	is also a reason
-	why there is so much
+	Também há um motivo
+	para haver tanto
+	verde aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	greenery,as it ties
-	into the town's
-	theme.
+	e está ligado a essa
+	filosofia da cidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Research is still
-	ongoing,but the best
-	models for a crime_
+	Pesquisas ainda estão
+	em andamento, mas os
+	melhores modelos para 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	free town seem to
-	include "nature" in
-	their attributes.
+	cidades sem crimes
+	parecem incluir "natureza"
+	em suas características.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that is why
-	Green Town is full
-	of nature now.
+	E é por isso que o
+	Distrito Verde é tão
+	cheio de natureza.
 	"""
 	keyWait
 		any = false
@@ -515,19 +507,19 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wow..."
+	"Uau..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I still need
-	permission to get
-	into court,right?
+	Mas eu ainda preciso
+	de permissão pra entrar
+	no tribunal, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So how do I get it?"
+	"Como eu consigo?"
 	keyWait
 		any = false
 	clearMsg
@@ -539,25 +531,24 @@ script 22 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	You'll need to go
-	to Green Area2's
-	NetCafe to get it.
+	Você vai ter que ir
+	ao NetCafé da Área
+	Verde 2 para obtê-la.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was going to go
-	myself and get it
-	earlier...
+	Eu mesmo pretendia
+	ir lá buscar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry I forgot
-	to take care of
-	that.
+	Peço desculpas por
+	ter esquecido de
+	providenciar isso.
 	"""
 	keyWait
 		any = false
@@ -569,13 +560,13 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's OK."
+	"Tá tranquilo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll go get it
-	and be right back!
+	Eu vou lá pegar
+	e volto já!
 	"""
 	keyWait
 		any = false
@@ -588,17 +579,17 @@ script 24 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	The fastest way to
-	Green Area is
-	through that tablet.
+	O acesso mais rápido pra
+	Área Verde é através
+	daquela tabuleta ali.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,and Green Area
-	is full of trees,so
-	please take this.
+	Ah, e a Área Verde é
+	cheia de árvores, então,
+	por favor, leve isto.
 	"""
 	keyWait
 		any = false
@@ -610,7 +601,7 @@ script 24 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -634,9 +625,9 @@ script 25 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	... Alright,be
-	careful,and good
-	luck,my boy.
+	... Certo.
+	Cuide-se bem e
+	boa sorte, rapaz.
 	"""
 	keyWait
 		any = false

@@ -16,89 +16,87 @@ script 0 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Ahh,you must be the
-	one who took my
-	request!?
+	Ah, então foi você
+	quem aceitou o meu
+	pedido?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As a member of the
-	the Official
-	NetBattlers,
+	Como membro dos
+	NetLutadores Oficiais,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm in charge of
-	maintaining order
-	in this area.
+	estou encarregado
+	de manter a ordem
+	nesta área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Behind me is image
-	data from recent
-	NetCriminal Navis.
+	Atrás de mim estão
+	os dados de imagem de
+	NetCriminosos recentes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We Officials are
-	charged with storing
-	the data of Navis
+	Nós, Oficiais, nos
+	encarregamos de
+	armazenar os dados de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	who cause these
-	incidents as a means
-	to prevent crime.
+	Navis que causam esses
+	incidentes como forma
+	de prevenir crimes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This image data
-	faithfully recreates
-	a Navi's movements.
+	Esses dados de imagem
+	recriam com precisão os
+	movimentos de um Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you battle
-	against this
-	image data,
+	Ao lutar contra os
+	dados de imagem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you can explore
-	the Navi's
-	weaknesses.
+	você poderá explorar
+	as fraquezas do Navi
+	em questão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'd like you to
-	take on the Navis
-	in this image data.
+	Gostaríamos que você
+	enfrentasse os Navis
+	nos dados de imagem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Help us defend this
-	area against further
-	incidents!
+	Ajude-nos a defender
+	esta área de futuros
+	incidentes!
 	"""
 	keyWait
 		any = false
@@ -109,49 +107,48 @@ script 1 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Behind me is image
-	data from recent
-	NetCriminal Navis.
+	Atrás de mim estão
+	os dados de imagem de
+	NetCriminosos recentes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This image data
-	faithfully recreates
-	a Navi's movements.
+	Esses dados recriam
+	com precisão os
+	movimentos deles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you battle
-	against this
-	image data,
+	Ao lutar contra os
+	dados de imagem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you can explore
-	the Navi's
-	weaknesses.
+	você poderá explorar
+	as fraquezas do Navi
+	em questão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'd like you to
-	take on the Navis
-	in this image data.
+	Gostaríamos que você
+	enfrentasse os Navis
+	nos dados de imagem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Help us defend this
-	area against further
-	incidents!
+	Ajude-nos a defender
+	esta área de futuros
+	incidentes!
 	"""
 	keyWait
 		any = false
@@ -185,24 +182,22 @@ script 3 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	We were able to
-	record great data
-	from your fight!!
+	Conseguimos registrar
+	ótimos dados da sua luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your cooperation will
-	be a great help in
-	preventing crimes!
+	A sua cooperação será
+	de grande ajuda na
+	prevenção de crimes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And now for your
-	reward!
+	Aqui vai sua recompensa!
 	"""
 	keyWait
 		any = false
@@ -224,7 +219,7 @@ script 3 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip
@@ -245,12 +240,12 @@ script 3 mmbn6 {
 	printCode
 		buffer = 0
 		code = *
-	"\","
+	"\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and
+	e
 	"
 	"""
 	printChip
@@ -269,22 +264,22 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	I have to take
-	this data back and
-	analyze it!!
+	Tenho que levar estes
+	dados para a central
+	e analisá-los!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -296,9 +291,9 @@ script 4 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Your cooperation will
-	be a great help in
-	preventing crimes!
+	A sua cooperação será
+	de grande ajuda na
+	prevenção de crimes!
 	"""
 	keyWait
 		any = false
@@ -323,13 +318,13 @@ script 7 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	BlastMan's
-	image data.
+	Dados de imagem
+	do BlastMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle against it?"
+	"Lutar?"
 	keyWait
 		any = false
 	clearMsg
@@ -343,7 +338,7 @@ script 7 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -352,7 +347,7 @@ script 7 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -365,17 +360,17 @@ script 7 mmbn6 {
 		]
 	mugshotShow
 		mugshot = Lan
-	"Let's go MegaMan!"
+	"Vamos nessa, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -388,7 +383,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! We did it!!"
+	"Lan! Conseguimos!!"
 	keyWait
 		any = false
 	end
@@ -397,14 +392,13 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"So...strong..."
+	"Tão... forte..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! Let's get
-	ready and try
-	again!!
+	Lan! Vamos nos preparar
+	e tentar de novo!!
 	"""
 	keyWait
 		any = false
@@ -428,13 +422,13 @@ script 11 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	DiveMan's
-	image data.
+	Dados de imagem
+	do DiveMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle against it?"
+	"Lutar?"
 	keyWait
 		any = false
 	clearMsg
@@ -448,7 +442,7 @@ script 11 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -457,7 +451,7 @@ script 11 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -470,17 +464,17 @@ script 11 mmbn6 {
 		]
 	mugshotShow
 		mugshot = Lan
-	"Let's go MegaMan!"
+	"Vamos nessa, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -493,7 +487,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! We did it!!"
+	"Lan! Conseguimos!!"
 	keyWait
 		any = false
 	end
@@ -502,14 +496,13 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"So...strong..."
+	"Tão... forte..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! Let's get
-	ready and try
-	again!!
+	Lan! Vamos nos preparar
+	e tentar de novo!!
 	"""
 	keyWait
 		any = false
@@ -531,13 +524,13 @@ script 15 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	CrcusMan's
-	image data.
+	Dados de imagem
+	do CircusMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle against it?"
+	"Lutar?"
 	keyWait
 		any = false
 	clearMsg
@@ -551,7 +544,7 @@ script 15 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -560,7 +553,7 @@ script 15 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -573,17 +566,17 @@ script 15 mmbn6 {
 		]
 	mugshotShow
 		mugshot = Lan
-	"Let's go MegaMan!"
+	"Vamos nessa, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -596,7 +589,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! We did it!!"
+	"Lan! Conseguimos!!"
 	keyWait
 		any = false
 	end
@@ -605,14 +598,13 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"So...strong..."
+	"Tão... forte..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! Let's get
-	ready and try
-	again!!
+	Lan! Vamos nos preparar
+	e tentar de novo!!
 	"""
 	keyWait
 		any = false
@@ -634,13 +626,13 @@ script 19 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	JudgeMan's
-	image data.
+	Dados de imagem
+	do JudgeMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle against it?"
+	"Lutar?"
 	keyWait
 		any = false
 	clearMsg
@@ -654,7 +646,7 @@ script 19 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -663,7 +655,7 @@ script 19 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -676,17 +668,17 @@ script 19 mmbn6 {
 		]
 	mugshotShow
 		mugshot = Lan
-	"Let's go MegaMan!"
+	"Vamos nessa, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -699,7 +691,7 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! We did it!!"
+	"Lan! Conseguimos!!"
 	keyWait
 		any = false
 	end
@@ -708,14 +700,13 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"So...strong..."
+	"Tão... forte..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! Let's get
-	ready and try
-	again!!
+	Lan! Vamos nos preparar
+	e tentar de novo!!
 	"""
 	keyWait
 		any = false
@@ -737,13 +728,13 @@ script 23 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	ElmntMan's
-	image data.
+	Dados de imagem
+	do ElementMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle against it?"
+	"Lutar?"
 	keyWait
 		any = false
 	clearMsg
@@ -757,7 +748,7 @@ script 23 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -766,7 +757,7 @@ script 23 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -779,17 +770,17 @@ script 23 mmbn6 {
 		]
 	mugshotShow
 		mugshot = Lan
-	"Let's go MegaMan!"
+	"Vamos nessa, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -802,7 +793,7 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! We did it!!"
+	"Lan! Conseguimos!!"
 	keyWait
 		any = false
 	end
@@ -811,14 +802,13 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"So...strong..."
+	"Tão... forte..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! Let's get
-	ready and try
-	again!!
+	Lan! Vamos nos preparar
+	e tentar de novo!!
 	"""
 	keyWait
 		any = false
@@ -828,8 +818,8 @@ script 26 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	BlastMan's
-	image data.
+	Dados de imagem
+	do BlastMan.
 	"""
 	keyWait
 		any = false
@@ -839,8 +829,8 @@ script 27 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	DiveMan's
-	image data.
+	Dados de imagem
+	do DiveMan.
 	"""
 	keyWait
 		any = false
@@ -850,8 +840,8 @@ script 28 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	CrcusMan's
-	image data.
+	Dados de imagem
+	do CircusMan.
 	"""
 	keyWait
 		any = false
@@ -861,8 +851,8 @@ script 29 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	JudgeMan's
-	image data.
+	Dados de imagem
+	do JudgeMan.
 	"""
 	keyWait
 		any = false
@@ -872,8 +862,8 @@ script 30 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	ElmntMan's
-	image data.
+	Dados de imagem
+	do ElementMan.
 	"""
 	keyWait
 		any = false
@@ -884,17 +874,17 @@ script 40 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TODAY'S WEATHER
-	IN CYBER CITY IS
-	CLEAR AND SUNNY,
+	O TEMPO NA CIDADE
+	SAIBHER HOJE É CÉU
+	LIMPO E ENSOLARADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MEANING GREAT
-	WEATHER ALL DAY
-	LONG!!
+	OU SEJA, MAIS UM
+	DIA DE ÓTIMO TEMPO
+	DO COMEÇO AO FIM!!
 	"""
 	keyWait
 		any = false

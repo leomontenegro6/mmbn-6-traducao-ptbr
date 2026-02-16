@@ -4,8 +4,8 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	A hot cloud is
-	blocking the way!!
+	Há uma nuvem quente
+	barrando o caminho!!
 	"""
 	keyWait
 		any = false
@@ -14,16 +14,15 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	This is the control
-	panel for this
-	pavilion...
+	Esse é o painel de
+	controle deste pavilhão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is operating
-	normally.
+	Está funcionando
+	normalmente.
 	"""
 	keyWait
 		any = false

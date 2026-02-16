@@ -20,17 +20,17 @@ script 0 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Each area reporting
-	no abnormalities...
-	in the weather!
+	Nenhuma anomalia
+	climática registrada
+	em nenhuma área!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh,a suspicious
-	group of 3 with a
-	girl?
+	Hã? Um grupo suspeito
+	de três adultos e uma
+	criança?
 	"""
 	keyWait
 		any = false
@@ -45,9 +45,9 @@ script 1 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Each area reporting
-	no abnormalities...
-	in the weather!
+	Nenhuma anomalia
+	climática registrada
+	em nenhuma área!
 	"""
 	keyWait
 		any = false
@@ -58,8 +58,9 @@ script 5 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	All of Cyber City
-	has great weather!
+	A Cidade Saibher
+	inteira tem um
+	clima tão bom!
 	"""
 	keyWait
 		any = false
@@ -70,15 +71,16 @@ script 10 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Huh? Go to the Expo
-	pre_opening?
+	Hã? Vai pra
+	pré-inauguração
+	da Exposição?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today is going to
-	be sunny all day!
+	Hoje o dia vai ser
+	todo ensolarado!
 	"""
 	keyWait
 		any = false
@@ -86,14 +88,14 @@ script 10 mmbn6 {
 }
 script 15 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -108,9 +110,8 @@ script 16 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Lan Hikari,
-	It's Game Over for
-	you!
+	Lan Hikari, fim
+	da linha pra você!
 	"""
 	keyWait
 		any = false

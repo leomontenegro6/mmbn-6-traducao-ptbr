@@ -3,14 +3,14 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"Owww..."
+	"Aaaaii..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My ears are still
-	ringing from all
-	that yelling.
+	E eu que achava que
+	não tinha mais punição
+	física nas escolas...
 	"""
 	keyWait
 		any = false
@@ -21,17 +21,16 @@ script 1 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	Could he have beaten
-	the virus because
-	our plan was leaked?
+	Será que ele venceu o
+	vírus porque o nosso
+	plano foi um lixo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But then again,it's
-	you we're talking
-	about here,so...
+	Bom, seria o esperado
+	de VOCÊ, né...
 	"""
 	keyWait
 		any = false
@@ -44,8 +43,8 @@ script 2 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Shut up,
-	you useless Navi!
+	Cala a boca,
+	Navi imprestável!
 	"""
 	keyWait
 		any = false
@@ -57,14 +56,14 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviMick
 	msgOpen
-	"What!?"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And here I am trying
-	to comfort and calm
-	you down!
+	Pô, eu só tava tentando
+	te reconfortar e
+	acalmar os ânimos!
 	"""
 	keyWait
 		any = false
@@ -75,16 +74,16 @@ script 4 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Shut up,you
-	worthless Navi! If
-	you were stronger,
+	Cala a BOCA,
+	Navi imprestável!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you would've crushed
-	a beginner like him!
+	Se cê fosse mais
+	forte, teria humilhado
+	aquele novato!
 	"""
 	keyWait
 		any = false
@@ -97,9 +96,9 @@ script 5 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	And I suppose it
-	wasn't because you
-	stink at operating?
+	Ah, é, foi culpa
+	minha, e não da sua
+	operação chinfrim!
 	"""
 	keyWait
 		any = false
@@ -112,14 +111,14 @@ script 7 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Shut up,shut up!
-	I can't do anything
-	with you!
+	Cala a boca! Calado!
+	Cê não presta pra nada,
+	mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Get away from me!"
+	"Vai embora!"
 	keyWait
 		any = false
 	clearMsg
@@ -130,26 +129,25 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviMick
 	msgOpen
-	"Hmph!"
+	"Hmpf!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was just about to
-	leave anyway!
+	Não precisa pedir,
+	eu já tava indo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then you can yell
-	all you want,
-	by yourself!
+	Pode ficar chorando
+	à vontade aí... sozinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"See you,loser!!"
+	"Falou, otário!!"
 	keyWait
 		any = false
 	clearMsg
@@ -167,13 +165,12 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Ah... HEY!"
+	"Ah... EI!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Hmph,
-	he really left...
+	... Hmpf, ele foi mesmo...
 	"""
 	keyWait
 		any = false
@@ -183,21 +180,22 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Darn it..."
+	"Droga..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's all Lan's fault
-	that things turned
-	out like this...
+	As coisas só ficaram
+	assim por causa do Lan...
+	É tudo culpa dele...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Argh! If I could
-	somehow crush him...
+	Argh! Se eu conseguisse
+	achar um jeito de
+	dar uma coça nele...
 	"""
 	keyWait
 		any = false
@@ -208,20 +206,20 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Kwohohoho..."
+	"Quo ho ho ho..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Would you like
-	my help?
+	Aceitaria a minha
+	ajuda, rapaz?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	soundPlayBGM
 		track = 99
-	"Kwohohoho..."
+	"Quo ho ho ho..."
 	keyWait
 		any = false
 	end
@@ -230,7 +228,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"W_Who's there!?"
+	"Q-quem tá aí?!"
 	keyWait
 		any = false
 	clearMsg
@@ -240,11 +238,11 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Here,I'm here!"
+	"Aqui! Estou aqui!"
 	keyWait
 		any = false
 	clearMsg
-	"I'm in your PET!"
+	"No seu PET!"
 	keyWait
 		any = false
 	end
@@ -254,8 +252,8 @@ script 14 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	W_What the!?
-	Who are you...?
+	O-o quê?!
+	Quem é você...?
 	"""
 	keyWait
 		any = false
@@ -269,20 +267,20 @@ script 15 mmbn6 {
 	msgOpen
 	soundPlayBGM
 		track = 2
-	"I am BlastMan."
+	"Eu sou BlastMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems that you
-	want power...
+	Parece que você
+	quer poder...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in order to defeat
-	that new student...
+	Poder para derrotar
+	aquele aluno novo...
 	"""
 	keyWait
 		any = false
@@ -294,11 +292,11 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"How did you know...?"
+	"Como você sabia...?"
 	keyWait
 		any = false
 	clearMsg
-	"And where did...?"
+	"E de onde você...?"
 	keyWait
 		any = false
 	clearMsg
@@ -310,34 +308,34 @@ script 17 mmbn6 {
 		mugshot = BlastMan
 	msgOpen
 	"""
-	Don't worry about
-	things like that...
+	Não esquente a cabeça
+	com esses detalhes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you or don't you
-	want to crush the
-	new student?
+	Você quer ou não
+	quer dar uma lição
+	no aluno novo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have 5 seconds
-	to decide...
+	Você tem cinco segundos
+	para decidir...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"4,"
+	"4, "
 	wait
 		frames = 60
-	"3,"
+	"3, "
 	wait
 		frames = 60
-	"2,"
+	"2, "
 	wait
 		frames = 60
 	"1"
@@ -360,14 +358,14 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Y_Yes,help me...!!"
+	"S-sim, me ajuda...!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't care how,but
-	I want to teach Lan
-	a lesson!
+	Não tô nem aí como vai
+	ser feito, eu só quero
+	dar um jeito nele!
 	"""
 	keyWait
 		any = false
@@ -379,41 +377,41 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = BlastMan
 	msgOpen
-	"Kwohohoho..."
+	"Quo ho ho ho ho..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ok...
-	but why stop at one?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Why not teach him a
-	lesson over and over
-	again?
+	Tudo bem...
+	mas por que se contentar
+	com só UMA lição?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Leave the fighting
-	to me.
+	Por que não dar um
+	trato nele várias e
+	várias e várias vezes?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just sit back and
-	watch me crush
-	those two...
+	Deixe a luta comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Kwohohoho!!"
+	"""
+	Pode só relaxar e
+	observar enquanto eu
+	esmago aqueles dois...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Quo ho ho ho ho!!"
 	keyWait
 		any = false
 	clearMsg
@@ -426,7 +424,7 @@ script 20 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"... *grin!!*"
+	"... H-he he!!"
 	keyWait
 		any = false
 	end
@@ -439,16 +437,16 @@ script 21 mmbn6 {
 		track = 99
 	soundPlay
 		track = 375
-	"*ding,"
+	"Bim "
 	wait
 		frames = 42
-	"dong,"
+	"Bom "
 	wait
 		frames = 40
-	"ding,"
+	"Bim "
 	wait
 		frames = 40
-	"dong*"
+	"Bom"
 	wait
 		frames = 80
 	soundEnableTextSFX

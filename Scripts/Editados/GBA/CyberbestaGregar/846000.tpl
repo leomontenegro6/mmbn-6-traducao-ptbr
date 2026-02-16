@@ -18,7 +18,7 @@ script 3 mmbn6s {
 	end
 }
 script 4 mmbn6s {
-	"EraseMan"
+	"KillerMan"
 	end
 }
 script 5 mmbn6s {

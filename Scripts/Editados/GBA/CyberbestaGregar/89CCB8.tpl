@@ -4,16 +4,16 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	The data remains
-	of a Navi...
+	São os dados vestigiais
+	de um Navi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It keeps saying the
-	same thing over and
-	over again...
+	Não param de repetir
+	as mesmas coisas sem
+	parar...
 	"""
 	keyWait
 		any = false
@@ -21,9 +21,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	L...B...B...
-	R...B...A...A...
-	...LRR...
+	L... B... B...
+	R... B... A... A...
+	... LRR...
 	"""
 	keyWait
 		any = false
@@ -32,16 +32,16 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The data remains
-	of a Navi...
+	São os dados vestigiais
+	de um Navi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It keeps saying the
-	same thing over and
-	over again...
+	Não param de repetir
+	as mesmas coisas sem
+	parar...
 	"""
 	keyWait
 		any = false
@@ -49,9 +49,9 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	A...R...L...
-	A...L...A...L...
-	...LAB...
+	A... R... L...
+	A... L... A... L...
+	... LAB...
 	"""
 	keyWait
 		any = false

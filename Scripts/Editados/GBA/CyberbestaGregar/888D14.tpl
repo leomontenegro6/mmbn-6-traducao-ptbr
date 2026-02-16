@@ -6,9 +6,9 @@ script 40 mmbn6 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Mr.Lawyer...
-	Do you think today's
-	trial went OK?
+	Senhor advogado...
+	Acha que o julgamento
+	de hoje foi bem?
 	"""
 	keyWait
 		any = false
@@ -16,9 +16,9 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Oh,of course it's
-	OK! You just leave
-	everything to me!
+	Ah, claro que foi!
+	Tá tudo bem! É só
+	deixar tudo comigo!
 	"""
 	keyWait
 		any = false
@@ -29,8 +29,8 @@ script 50 mmbn6 {
 		mugshot = Woman
 	msgOpen
 	"""
-	M_Mr.Lawyer,thank
-	you so much!
+	S-senhor advogado,
+	muito obrigada!
 	"""
 	keyWait
 		any = false
@@ -38,15 +38,16 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Ah,it was a bit of
-	a rough trial...
+	Ah, o julgamento foi
+	meio preocupante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we won,and
-	that's what counts!
+	mas a gente venceu com
+	aquela reviravolta, e
+	é só isso o que importa!
 	"""
 	keyWait
 		any = false

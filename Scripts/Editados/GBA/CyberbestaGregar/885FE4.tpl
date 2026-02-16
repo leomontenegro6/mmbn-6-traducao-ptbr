@@ -20,25 +20,23 @@ script 0 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	You've got a
-	terribly strained
-	look on you...
+	Você está com
+	uma expressão tão
+	terrivelmente tensa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why don't you try
-	taking a deep
-	breath?
+	Por que não tenta
+	inspirar bem fundo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The great weather
-	here should clear
-	you up right away!
+	O ótimo clima daqui deve
+	te refrescar rapidinho!
 	"""
 	keyWait
 		any = false
@@ -49,17 +47,15 @@ script 1 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	I heard a rumor
-	that there is a
-	Navi that went in
+	Eu ouvi um boato de
+	que um Navi aí entrou
+	no SubSolo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Underground.
-	I wonder if that's
-	true...
+	Será que é verdade...?
 	"""
 	keyWait
 		any = false
@@ -75,24 +71,24 @@ script 2 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The other day,
-	Mayor Cain's trial
-	was held...
+	O julgamento do
+	Prefeito Cain foi
+	um dia desses...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He was found
-	guilty...
+	E ele foi declarado
+	culpado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I still can't
-	believe it. Mayor
-	Cain was a hoodlum!
+	Eu ainda não consigo
+	acreditar. O Prefeito
+	Cain era um crápula!
 	"""
 	keyWait
 		any = false
@@ -103,9 +99,9 @@ script 3 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Nice weather today!
-	The flowers must be
-	very happy.
+	Que tempo bom hoje!
+	As flores devem estar
+	super felizes.
 	"""
 	keyWait
 		any = false
@@ -116,9 +112,9 @@ script 5 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I'm providing all of
-	the flowers growing
-	at the Expo Site!
+	Me deixaram providenciar
+	todas as flores que terão
+	na área da Exposição!
 	"""
 	keyWait
 		any = false
@@ -128,14 +124,14 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Boy
 	msgOpen
-	"Yep!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One whiff of this
-	air really wakes
-	up the senses!!
+	Uma aspiradinha do ar
+	daqui realmente acorda
+	todos os sentidos!!
 	"""
 	keyWait
 		any = false
@@ -146,18 +142,21 @@ script 7 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	Recently,a Navi
-	shuffled in and
-	said,
+	Um dia desses, um
+	Navi apareceu pra
+	mim e falou:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The Expo's going to\n open on schedule!\""
+	"""
+	"A Exposição abrirá
+	dentro do combinado!"
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can't wait!!"
+	"Mal posso esperar!!"
 	keyWait
 		any = false
 	end
@@ -167,32 +166,36 @@ script 8 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	It appears that the
-	Expo will open on
-	schedule!
+	Parece que a Exposição
+	vai abrir sem atrasos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Green Town will also
-	have a pavilion.
+	O Distrito Verde também
+	vai ter um pavilhão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The pavilion's theme
-	is going to be...
+	O temadele vai ser...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The gifts of nature\n to man,and"
+	"""
+	"As dádivas da
+	natureza ao homem
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" the effects of\n environmental\n destruction.\""
+	"""
+	e os efeitos da destruição
+	do meio ambiente."
+	"""
 	keyWait
 		any = false
 	end
@@ -202,9 +205,8 @@ script 10 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Good morning.
-	The morning air
-	is so nice,isn't it?
+	Bom dia. O ar da manhã
+	é tão gostoso, não é?
 	"""
 	keyWait
 		any = false

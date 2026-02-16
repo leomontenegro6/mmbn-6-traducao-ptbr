@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The legendary
-	Cybeasts...
+	As lendárias
+	Cyberbestas...
 	"""
 	keyWait
 		any = false
@@ -17,16 +17,15 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I guess they have a
-	legend about them in
-	this area of the Net...
+	Parece que existe uma
+	lenda sobre elas nesta
+	área da Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sounds really
-	interesting,huh,Lan?
+	Interessante, né, Lan?
 	"""
 	keyWait
 		any = false
@@ -37,14 +36,14 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,sounds like
-	the Net's just full
-	of these mysteries!
+	Aham. Acho que a Rede
+	é mesmo cheia de
+	mistérios assim!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's so cool!"
+	"O que é tão da hora!"
 	keyWait
 		any = false
 	clearMsg
@@ -56,8 +55,7 @@ script 2 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan,it's time
-	for bed!
+	Lan! Hora de dormir!
 	"""
 	keyWait
 		any = false
@@ -70,20 +68,19 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? It's already
-	bedtime?
+	Ué? Já deu a hora?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Ack!"
+	"... Aah!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,MegaMan. One more
-	look around,and then
-	we gotta jack out.
+	Tá, MegaMan. Só mais
+	uma voltinha, e a gente
+	tem que desconectar.
 	"""
 	keyWait
 		any = false

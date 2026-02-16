@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"Legal!"
 	keyWait
 		any = false
 	clearMsg
@@ -17,8 +17,8 @@ script 1 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Hey,I think you've
-	got it,kid!
+	É, acho que cê
+	conseguiu, guri!
 	"""
 	keyWait
 		any = false
@@ -31,16 +31,16 @@ script 2 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	You may have passed
-	Level 4,but
+	Você pode ter
+	passado da fase 4,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can you pass the
-	final exam!?
-	Get ready!
+	mas será que tá pronto
+	pra prova final?!
+	Se prepara!
 	"""
 	keyWait
 		any = false
@@ -53,13 +53,13 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A final!?
-	Bring it on!!
+	Prova final, é?
+	Manda ver!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Jack out,HeatMan!!"
+	"Desconecta, HeatMan!!"
 	keyWait
 		any = false
 	clearMsg

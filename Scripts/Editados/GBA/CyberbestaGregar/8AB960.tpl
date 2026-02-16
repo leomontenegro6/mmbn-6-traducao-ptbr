@@ -16,8 +16,8 @@ script 0 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	Hey ya...
-	Do you have a
+	Aí...
+	Cê tem algum
 	"
 	"""
 	printChip
@@ -32,9 +32,8 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	If you have one,
-	care to trade for
-	a "
+	Se tiver, topa trocar
+	por um "
 	"""
 	printChip
 		buffer = 0
@@ -47,7 +46,7 @@ script 0 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"How bout it?"
+	"Hein?"
 	keyWait
 		any = false
 	clearMsg
@@ -62,7 +61,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -71,7 +70,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -86,8 +85,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviYellow
 	"""
-	Really? No way!
-	I can't believe it!
+	Ai, fala sério!
+	Não acredito!
 	"""
 	keyWait
 		any = false
@@ -98,16 +97,15 @@ script 1 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	WHHHAATTT!?
-	Is that really...
+	OOO QUÊÊÊÊ?!
+	Esse é mesmo o...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How's about you
-	trade me a
-	"
+	Cê topa trocar
+	comigo um "
 	"""
 	printChip
 		buffer = 0
@@ -121,7 +119,7 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	for my
+	por este meu
 	"
 	"""
 	printChip
@@ -146,7 +144,7 @@ script 1 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -155,7 +153,7 @@ script 1 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -169,7 +167,7 @@ script 1 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviYellow
-	"WHHHAATTT!? NO WAY!"
+	"O QUÊÊÊ?! FALA SÉRIO!"
 	keyWait
 		any = false
 	end
@@ -186,14 +184,14 @@ script 2 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	Really!? Really!?
-	I really want this
+	Sério?! Sério mesmo?!
+	Eu queria DEMAIS este
 	chip!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now it's my turn..."
+	"Tá, agora, eu..."
 	keyWait
 		any = false
 	clearMsg
@@ -210,7 +208,7 @@ script 2 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip
@@ -228,7 +226,7 @@ script 2 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviYellow
-	"Isn't \""
+	"O \""
 	printChip
 		buffer = 0
 		chip = 95
@@ -237,8 +235,8 @@ script 2 mmbn6 {
 		buffer = 0
 		code = B
 	"""
-	"
-	cool?
+	" não
+	é incrível?
 	"""
 	keyWait
 		any = false
@@ -252,7 +250,7 @@ script 3 mmbn6 {
 	msgOpen
 	"""
 	...?
-	I can't find a
+	Eu não tô vendo o
 	"
 	"""
 	printChip
@@ -267,31 +265,29 @@ script 3 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	You wouldn't happen
-	to have one in your
-	folder,would ya?
+	Cê não tá com ele
+	numa pasta, tá?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you have one,
-	would you like to
-	trade...?
+	Se tiver, tem que
+	tirar pra trocar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't have one?
-	Too bad...
+	E se não tiver...
+	Pena.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come back if you get
-	a "
+	Volta quando arranjar
+	um "
 	"""
 	printChip
 		buffer = 0
@@ -309,7 +305,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviYellow
 	msgOpen
-	"Isn't \""
+	"O \""
 	printChip
 		buffer = 0
 		chip = 95
@@ -318,9 +314,9 @@ script 4 mmbn6 {
 		buffer = 0
 		code = B
 	"""
-	"
-	cool?
-	It's sooooo cute!!
+	" não
+	é incrível?
+	É tãããão fofinho!!
 	"""
 	keyWait
 		any = false
@@ -330,35 +326,29 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"...I AM THE"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	AIR CONDITIONER
-	PROGRAM...
+	... EU SOU O PROG
+	DO AR CONDICIONADO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...MY JOB IS TO
-	LOWER THE
-	TEMPERATURE!
+	... E MEU TRABALHO É
+	BAIXAR A TEMPERATURA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EVERYONE SAYS I HAVE
-	A COLD PERSONALITY,
+	TODO MUNDO DIZ QUE
+	EU SOU MUITO FRIO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I DON'T AGREE
-	AT ALL...
+	MAS EU NÃO ACHO...
 	"""
 	keyWait
 		any = false

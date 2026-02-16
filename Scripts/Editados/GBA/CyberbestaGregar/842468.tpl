@@ -11,71 +11,72 @@ script 0 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	I set up your
-	computer for
-	Net access,
+	Eu configurei o
+	seu computador pra
+	acessar a Rede,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so please check that
-	it works when you
-	get home,OK?
+	então, confirma
+	se funciona quando
+	voltar, tá?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I also set up a mail
-	program on your
-	homepage.
+	Também instalei um
+	programa de e-mails
+	na sua página.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyber City's network
-	has strong security
-	so it is hard to
+	A Rede de Saibher
+	tem uma segurança
+	forte, e é difícil
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	access from outside
-	the system. To get
-	mail from outside,
+	acessá-la de fora do
+	sistema. Pra receber
+	e-mails de fora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you have to check
-	the mail program.
+	terá que sempre
+	conferir o Prog
+	de e-mails.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To see mail from
-	ACDC Town,I've setup
-	this mail program's
+	Eu configurei a
+	caixa de e-mails
+	dele pra você poder
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mailbox to send and
-	receive.
+	enviar e receber
+	e-mails de ACDC.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It may seem like you
-	don't have mail,but
-	give it a look.
+	Nem sempre você
+	terá e-mails lá,
+	mas sempre confira.
 	"""
 	keyWait
 		any = false
@@ -83,30 +84,28 @@ script 0 mmbn6 {
 }
 script 1 mmbn6 {
 	msgOpenEmail
-	"\"Net Advisory\""
+	"\"Net Assessoria\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lately,there has
-	been a breakdown of
-	order on the Net.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We would like to
-	report that some
-	Navis have been
+	Nos últimos dias, tem
+	havido um colapso na
+	ordem na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	attacked. Due to
-	this,we advise
-	exercising caution.
+	Informamos que alguns
+	Navis foram atacados.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Aconselhamos todos a
+	navegarem com cautela.
 	"""
 	keyWait
 		any = false
@@ -115,97 +114,89 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpenEmail
 	"""
-	Thank you for
-	using the NaviCust
-	Support Center.
+	Obrigado por usar o
+	Centro de Apoio do
+	Customizador de Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We are pleased to
-	announce the long
-	awaited upgrade
+	Temos o prazer de
+	anunciar a muito
+	aguardada atualização
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to the NaviCust
-	system.
+	do sistema do
+	Customizador.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We feel that you'll
-	love the changes
-	we've made.
+	Acreditamos que irá
+	apreciar imensamente
+	as mudanças.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once you have loaded
-	this NaviCustomizer
-	into your PET,
+	Após instalar este
+	Customizador no PET,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you will be able to
-	load various things
-	onto MegaMan.
+	você poderá incorporar
+	diversas funções no
+	MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By using skillfully
-	created programs,
+	Customize seu Navi
+	usando programas
+	habilmente selecionados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you can customize
-	your Navi.
+	Incluímos alguns deles
+	gratuitamente para
+	os nossos valiosos
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"clientes como demonstração\ndo nosso apreço."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Por fim, para
+	agradecer a vocês
+	por sua lealdade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We even provide some
-	of these programs as
-	a service to our
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"valued customers."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Finally,as a thank
-	you to our loyal
-	customers,we would
+	também oferecemos
+	um presente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	like to give each
-	of them a wonderful
-	gift. We look
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	forward to you using
-	this great gift!
+	Esperamos que façam
+	bom uso dele!
 	"""
 	keyWait
 		any = false
@@ -230,8 +221,8 @@ script 2 mmbn6 {
 		slot = 2
 		folder = 2
 	"""
-	Lan got a Navi_
-	Customizer and:
+	Lan adquiriu um
+	Customizador de Navi e:
 	"""
 	keyWait
 		any = false
@@ -259,7 +250,7 @@ script 2 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	and
+	e
 	"
 	"""
 	printFolderName
@@ -282,49 +273,46 @@ script 3 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	It looks like you
-	were able to fight
-	off the Cybeast.
+	Parece que vocês
+	conseguiram conter
+	a Cyberbesta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While you two were
-	sleeping, I studied
-	MegaMan's body a
+	Enquanto dormiam,
+	eu analisei um pouco
+	o corpo do MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	little. The Cybeast
-	is somehow living
-	in there.
+	De alguma forma, a
+	Cyberbesta permanece
+	viva dentro dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've installed a
-	function in Lan's
-	PET and in MegaMan
+	Eu instalei uma função
+	no seu PET e no MegaMan
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that will allow you
-	to control the
-	Cybeast. Whether
+	que lhe permitirá
+	controlar a Cyberbesta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you can master that
-	power depends on
-	you!
+	Mas só depende de vocês
+	dominar esse poder!
 	"""
 	keyWait
 		any = false
@@ -344,147 +332,147 @@ script 5 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Hello.This is the
-	Director of the
-	Seaside Aquarium.
+	Olá. Sou o Diretor
+	do Aquário Beira-Mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you very much
-	for the other day.
+	Muito obrigado
+	pelo que fez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't get the
-	chance to thank you
-	properly...
+	Não tive a chance de
+	agradecer devidamente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So to say thanks,I
-	wanted to send you
-	something special!
+	Então, para fazê-lo,
+	decidi lhe enviar uma
+	coisa especial!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I call it the
-	"TagChip system"!
+	Eu o chamo de
+	"sistema de Pareamento
+	de Chips"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is what it sounds
-	like... It lets you
-	tag up 2 chips!
+	Como o nome sugere,
+	ele lhe permite
+	parear dois chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For instance,you
-	can tag Sword with
-	AreaGrab.Then,when
+	Por exemplo, você
+	pode parear Sword com
+	AreaGrab. Aí, quando
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sword appears on the
-	Custom Screen during
-	battle,so will
+	uma Sword aparecer na
+	Tela de Customização
+	durante uma luta,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"AreaGrab!!"
+	"um AreaGrab vai\naparecer junto!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This lets you make
-	combos even easier!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Let me tell you how
-	to setup a TagChip.
+	Isso facilitará a você
+	realizar combinações!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go to the Folder
-	edit screen and
-	press SELECT.
+	Vou explicar como
+	configurar um Pareamento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This will take you
-	to the TagChip
-	selection screen.
+	Vá na tela de
+	"Editar pasta"
+	e aperte SELECT.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On that screen you
-	can select the 2
-	chips to tag up...
+	Isso lhe levará à
+	tela de seleção de
+	Chip Pareado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,the chips
-	that you can tag
+	Nela, você poderá
+	selecionar até dois
+	chips para parear...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	must add up to less
-	than 60MB. Remember
-	this limit!
+	Contudo, há uma
+	limitação: os dois
+	chips pareados, somados,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should
-	definitely master
-	this system!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"...Oh yeah..."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Plata is anxious
-	to see his two
-	friends.
+	devem ficar abaixo
+	de 60 MB de memória.
+	Não esqueça!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't forget to stop
-	by the Aquarium!!
+	Recomendo fortemente
+	a você dominar esse
+	sistema!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"... Ah, sim..."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O Plata está ansioso
+	para rever os dois
+	amiguinhos.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Não deixe de nos
+	visitar no Aquário!!
 	"""
 	keyWait
 		any = false
@@ -500,7 +488,7 @@ script 5 mmbn6 {
 		item = 11
 		amount = 1
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -521,65 +509,60 @@ script 6 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Hello. It has been
-	a while since I've
-	contacted you.
+	Olá. Sei que já faz
+	tempo desde a última
+	vez que lhe contatei.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Unfortunately,we
-	need you to appear
-	at the trial of
+	Infelizmente, precisamos
+	que você compareça ao
+	julgamento do Capitão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Captain Blackbeard
-	for the incident a
-	little while back
+	Barba-Negra pelo
+	incidente do Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	at the Aquarium.
-	Since you were the
-	one who thwarted
+	Como foi você quem
+	frustrou os planos dele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cpt.Blackbeard,you
-	will be asked to
-	take an oath and
+	querem que você
+	deponha sob juramento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	testify.
-	The trial starts
-	this afternoon,
+	O julgamento será
+	hoje à tarde,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and is at the
-	Green Town
-	Courthouse.
+	e se dará no Tribunal
+	do Distrito Verde.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I appreciate your
-	cooperation on such
-	short notice.
+	Obrigado pela cooperação,
+	apesar do contato
+	repentino.
 	"""
 	keyWait
 		any = false
@@ -588,30 +571,32 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpenEmail
 	"""
-	Round 2 of the Expo
-	Pavilion Operator
-	Navi Selection Test
+	A Segunda Rodada da
+	Prova de Seleção de
+	Navi Operador do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will take place in
-	Sky Town.
+	Pavilhão da Exposição
+	será realizada no
+	Distrito Céu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Round 2 Selection
-	Test participants
+	Participantes da
+	2ª Rodada da
+	Prova de Seleção,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	should gather there
-	prior to the test.
+	por favor, reúnam-se
+	lá antes da provação.
 	"""
 	keyWait
 		any = false
@@ -627,16 +612,16 @@ script 8 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	I have something
-	important to talk
-	to you about...
+	Tenho uma coisa
+	importante pra
+	falar com você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please come to
-	Sky Town right away!
+	Venha ao Distrito
+	Céu agora!
 	"""
 	keyWait
 		any = false
@@ -652,31 +637,31 @@ script 9 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	In SeasideArea3 on
-	the Net,"
+	Na Área Beira-Mar 3 da
+	Rede, "
 	"""
 	printItem
 		buffer = 0
 		item = 10
 	"""
 	",
-	a kind of
+	um tipo de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	cyberwater that
-	rejuvenates a Navi,
-	gushes forth...
+	água cibernética que
+	rejuvenesce Navis,
+	jorra do chão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you use it,maybe
-	you can weaken the
-	Cybeast...
+	Se usá-la, talvez
+	isso enfraqueça a
+	Cyberbesta...
 	"""
 	keyWait
 		any = false
@@ -685,29 +670,29 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpenEmail
 	"""
-	This is the Net
-	Police.There has
-	been an incident
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"on the Net."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	As the situation is
-	dangerous,we advise
-	you not to jack in.
+	Aqui é a NetPolícia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Those who are now
-	jacked in should
-	jack out now.
+	Informamos que ocorreu
+	um incidente na Rede.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Como a situação é
+	perigosa, pedimos que
+	não se conectem agora.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Caso já esteja conectado,
+	desconecte-se.
 	"""
 	keyWait
 		any = false
@@ -723,8 +708,8 @@ script 11 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	My Navi is fine.
-	Is yours OK?
+	O meu Navi tá bem.
+	E o seu?
 	"""
 	keyWait
 		any = false
@@ -740,14 +725,13 @@ script 12 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	I sense a great
-	disturbance in the
-	Net...
+	Eu senti uma grande
+	perturbação na Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan,are you OK?"
+	"Você tá legal?"
 	keyWait
 		any = false
 	waitHold
@@ -762,40 +746,40 @@ script 14 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Let me tell ya
-	'bout the HeatCross!
+	Vou te explicar
+	sobre o HeatCruz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If ya got HeatCross
-	activated,Fire chips
-	that don't dim the
+	Quando cê ativa o
+	HeatCruz, os chips de
+	Fogo que não "param o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	screen get Attack+50
-	and the MegaBuster
-	gets Attack+1.
+	tempo" ganham 50 de
+	Ataque e o MegaTiro
+	ganha +1 de Ataque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But Aqua attacks do
-	2x damage if they
-	hit ya!!
+	Só que ataques de Água
+	causam dano dobrado se
+	te acertarem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get goin' and use
-	the awesome power
-	of HeatCross!
+	Agora vai lá e
+	aproveita o poder
+	incrível do HeatCruz!
 	"""
 	keyWait
 		any = false
@@ -811,48 +795,46 @@ script 15 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Now I'm going to
-	instruct you on the
-	uses of SlashCross.
+	Vou ensinar como
+	usar o SlashCruz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Activating
-	SlashCross will give
-	all Sword attack
+	Ativar o SlashCruz
+	dá a todos os chips
+	de espada que não
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	chips that don't
-	dim the screen
-	Attack+50! Powering
+	"param o tempo" mais
+	50 de Ataque! E segurar
+	o botão para atacar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	up a Sword chip will
-	also make the chip
-	stronger.
+	com um chip de Espada
+	também fortalece ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,Breaker
-	attacks will do 2x
+	Porém, ataques de
+	quebra vão causar
+	dano dobrado em você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	damage to you! Now
-	be a good student
-	and go practice!
+	Tá, vá lá e
+	pratique bastante!
 	"""
 	keyWait
 		any = false
@@ -868,48 +850,49 @@ script 16 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Allow me to explain
-	the varied abilities
-	of ElecCross.
+	Permita-me explicar as
+	habilidades variadas do
+	ElecCruz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Activating ElecCross
-	gives Elec attack
+	Ativar o ElecCruz
+	dá a chips de ataque
+	Elétricos que não
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	chips that don't
-	dim the screen
-	Attack+50.
+	"param o tempo"
+	mais 50 pontos
+	de Ataque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Powering up an
-	Elementless
-	chip will also make
+	Carregar o ataque em
+	chips sem elemento
+	também fará com que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it paralyze foes.
-	However,Wood attacks
-	will do 2x damage to
+	paralisem inimigos.
+	Contudo, ataques de
+	Madeira causarão dano
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you... Now you
-	simply must try
-	ElecCross yourself!
+	em dobro em você...
+	Experimente bem
+	com o ElecCruz!
 	"""
 	keyWait
 		any = false
@@ -925,87 +908,86 @@ script 17 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	I'm going to explain
-	the usage of
-	EraseCross...
+	Vou explicar o
+	funcionamento
+	do KillerCruz...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Activating
-	EraseCross benefits
-	all Cursor chips
+	Ativar ele fornece
+	a todos os chips
+	de Cursor 30 de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with Attack+30!
-	Also,if your
-	opponent's HP has
+	Ataque adicional!
+	E se os PV do seu
+	oponente incluírem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the number 4 in it,
-	and you attack with
-	an Elementless chip
+	o número 4 e você os
+	atacar com um chip
+	sem elemento que não
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that does not dim
-	the screen,good
-	things will happen.
+	"para o tempo",
+	uma coisa muito boa
+	acontece...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If your opponent is
-	a virus,it will be
-	deleted instantly.
+	Se seu oponente for
+	um vírus, ele é
+	deletado na hora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If your opponent is
-	a Navi,a bug will be
+	Já se for um Navi,
+	ele sofrerá um bug
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	inserted that will
-	reduce his or her
-	HP.
+	que irá reduzir
+	seus PV.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is a downside,
-	however. Wind
-	attacks will do
+	Mas tem um lado
+	negativo:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	twice as much
-	damage to you.
+	ataques de Vento
+	causarão o dobro
+	de dano em você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EraseCross... King
-	of destruction...
-	Use it wisely.
+	KillerCruz...
+	O Rei da Morte...
+	Use com sabedoria.
 	"""
 	keyWait
 		any = false
@@ -1021,61 +1003,63 @@ script 18 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Let me explain how
-	to drive this
-	ChargeCross!
+	Vou explicar
+	como guiar esse
+	ChargeCruz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While ChargeCross is
-	activated,
-	you can choose one
+	Enquanto ele está
+	ativado, você pode
+	selecionar mais um chip
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	more chip on the
-	Custom Screen...
-	Every single turn!
+	na Tela de
+	Customização...
+	Em todos os turnos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And if you power up
-	a Fire chip,its
+	E, se carregar o
+	ataque com um chip
+	de Fogo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	attack strength will
-	reach new heights!
+	a força dele
+	alcançará novos
+	patamares!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But there are some
-	drawbacks...
+	Mas há certos poréns...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Aqua attacks will
-	cause 2x damage!
+	Ataques de Água
+	causarão dano
+	dobrado em você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ChargeCross! Explode
-	with strength! Use
-	it to its fullest!!
+	ChargeCruz! Exploda
+	com potência! Use-o
+	à todo o vapor!!
 	"""
 	keyWait
 		any = false
@@ -1091,60 +1075,60 @@ script 19 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	I'm going to explain
-	AquaCross... 
+	Vou explicar o
+	AquaCruz... 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When AquaCross is 
-	activated,Aqua chip
-	attacks that do not
+	Quando ele está ativado,
+	ataques com chips de
+	Água que não "param o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	dim the screen do 2x
-	damage when powered
-	up!
+	tempo" causam o
+	dobro de dano quando
+	você os carrega!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Another bonus is
-	using Aqua chips
+	Outro bônus é que
+	usar chips de Água
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will restore small
-	amounts of health.
+	restaura um
+	pouco de vida.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The drawback is
-	that Elec attacks
+	A desvantagem é que
+	ataques Elétricos
+	causam dano dobrado
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will inflict 2x
-	damage against you.
+	em você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Strength and grace.
-	That's AquaCross. 
-	Enjoy using it.
+	Força e graça.
+	Isso é o AquaCruz. 
+	Espero que goste.
 	"""
 	keyWait
 		any = false
@@ -1160,78 +1144,75 @@ script 20 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Now I will reveal
-	the secrets of the
-	TenguCross.
+	Revelarei os segredos
+	do TenguCruz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When using the
-	TenguCross,all Wind
-	chips that do not
+	Ao usá-lo, todos os
+	chips de Vento que
+	não "param o tempo"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	dim the screen will
-	receive Attack+10!
+	recebem mais
+	10 de Ataque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You will also have
-	AirShoes ON,and
+	Ele também mantém
+	BotasAr sempre ativas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	pressing the B Button
-	and ひ on the
+	e apertar "B" e
+	ひ no Direcional
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	+Control Pad will
-	kick up a
-	tremendous breeze,
+	conjura uma ventania
+	tremenda
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and bring your
-	opponent towards
-	you.
+	que puxa o alvo
+	até você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are also
-	disadvantages,
-	grasshopper.
+	Mas o TenguCruz
+	também apresenta
+	desvantagens.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sword attacks
-	will damage you  
-	twice as badly.
+	Ataques de Espada
+	causarão o dobro
+	de dano em você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TenguCross.
-	Master of Wind.
-	Deadly. Beautiful.
+	TenguCruz.
+	O Mestre do Vento.
+	Mortal. Esbelto.
 	"""
 	keyWait
 		any = false
@@ -1247,65 +1228,59 @@ script 21 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	I'm going to explain
-	the usage of
-	TomahawkCross.
+	Vou explicar como
+	se usa o TomahawkCruz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When TomahawkCross
-	is activated,
-	Wood chips that do
+	Quando ele é ativado,
+	chips de Madeira que não
+	"param o tempo" causam
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	not dim the screen
-	do 2x damage when
-	they are powered up!
+	o dobro de dano quando
+	você os carrega!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,you will never
-	fall victim to
-	abnormal statuses,
+	E você fica 100%
+	imune a alterações
+	de condição,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	like becoming
-	paralyzed or
-	confused!
+	tipo paralisia e confusão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,there are
-	flaws. Fire attacks
-	will do twice as
+	Dito isso, ataques de
+	Fogo usados em você
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	much damage to you
-	than they did
-	before.
+	causam o dobro
+	do dano normal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Power from the land.
-	Try TomahawkCross
-	for yourself!
+	A força da terra.
+	Vai, experimenta
+	o TomahawkCruz!
 	"""
 	keyWait
 		any = false
@@ -1321,71 +1296,68 @@ script 22 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Let's drill into the
-	basics of using
-	GroundCross!
+	Hora de se aprofundar
+	no GroundCruz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When GroundCross is
-	activated,Breaker
-	chips that don't dim
+	Quando ele é ativado,
+	chips de Quebra que não
+	"param o tempo" ganham
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the screen will get
-	a bonus Attack+10.
+	10 de Ataque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you power up a
-	Breaker chip,it will
-	cause a shower of
+	E, se carregar o ataque
+	em um chip de Quebra,
+	ele faz chover pedras
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	rocks over an enemy,
-	causing them damage
-	along the way!
+	nos alvos, causando
+	alto dano!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You will also turn
-	the SuprArmr
-	program ON!
+	E, com ele, você
+	sempre fica com uma
+	SuprArmd ligada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is a weakness
-	with GroundCross.
+	Mas o GroundCruz
+	tem uma fraqueza.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cursor attacks
-	will cause you 2x
-	damage.
+	Ataques de Cursor
+	vão causar dano
+	dobrado em você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Drill to the center
-	of power with
-	GroundCross!!
+	Chegue no cerne
+	da força com o
+	GroundCruz!!
 	"""
 	keyWait
 		any = false
@@ -1401,69 +1373,68 @@ script 23 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	It is pressing that
-	I explain DustCross
-	to you now!
+	É essencial que eu
+	explique o DustCruz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When DustCross is
-	activated,you can
+	Quando ele é ativado,
+	você pode jogar fora
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	throw away chips on
-	the Custom Screen
-	you no longer need.
+	chips na Tela de
+	Customização de que
+	não precise mais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can also press
-	the B Button and
+	E pode apertar
+	"B" e Esquerda
+	no Direcional
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Left on the
-	+Control Pad to suck
+	para aspirar
+	várias coisas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	things in,and then
-	send them flying
-	back out!
+	e, depois, arremessá-las
+	de volta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The weakness of
-	DustCross is that
+	A fraqueza do
+	DustCruz é que
+	ataques de Cursor
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cursor attacks
-	will cause you 2x
-	damage.
+	causam dano
+	dobrado em você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DustCross.
-	Environmentally
-	sound power.Use it.
+	DustCruz.
+	Poder sonoro ecológico.
+	Use-o.
 	"""
 	keyWait
 		any = false
@@ -1472,24 +1443,24 @@ script 23 mmbn6 {
 script 24 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Virus Deletion
+	NOME DO PEDIDO:
+	Deleção de vírus
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Cyber Academy
-	Class 6_2
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE: Escola
+	Saibher, Sala 6-2
 	"""
 	keyWait
 		any = false
@@ -1498,24 +1469,24 @@ script 24 mmbn6 {
 script 25 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Find Keepsake
+	NOME DO PEDIDO:
+	Ache Minha Recordação
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Cyber Academy
-	School Gate
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE: Escola
+	Saibher, Portão
 	"""
 	keyWait
 		any = false
@@ -1524,24 +1495,24 @@ script 25 mmbn6 {
 script 26 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Errand Request
+	NOME DO PEDIDO:
+	Pedido de favor
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Cyber Academy
-	Teachers' Room
+	LOCAL DE ENCONTRO:
+	Escola Saibher, Sala
+	dos Professores
 	"""
 	keyWait
 		any = false
@@ -1550,24 +1521,24 @@ script 26 mmbn6 {
 script 27 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	For Victory!
+	NOME DO PEDIDO:
+	Até vencer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:
-	CentralArea1
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE:
+	Área Central 1
 	"""
 	keyWait
 		any = false
@@ -1576,24 +1547,24 @@ script 27 mmbn6 {
 script 28 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Someone Help!
+	NOME DO PEDIDO:
+	Alguém ajuda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:
-	Robot Control Comp1
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE:
+	CPU Controle dos Robôs 1
 	"""
 	keyWait
 		any = false
@@ -1602,24 +1573,24 @@ script 28 mmbn6 {
 script 29 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Get The Chip!
+	NOME DO PEDIDO:
+	Pega o chip!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:SeasideArea3
-	Chip Shop
+	LOCAL DE ENCONTRO:
+	Loja de Chips da
+	Área Beira-Mar 3
 	"""
 	keyWait
 		any = false
@@ -1628,24 +1599,24 @@ script 29 mmbn6 {
 script 30 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Stock Up!
+	NOME DO PEDIDO:
+	Estocar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Aquarium
-	Sunfish Tank
+	LOCAL DE ENCONTRO:
+	Tanque dos Peixes-Lua
+	do Aquário
 	"""
 	keyWait
 		any = false
@@ -1654,24 +1625,25 @@ script 30 mmbn6 {
 script 31 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	StandIn Recruit
+	NOME DO PEDIDO:
+	Recrutamento de
+	substituto
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:
-	Aquarium Homepage
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE:
+	Página do Aquário
 	"""
 	keyWait
 		any = false
@@ -1680,24 +1652,25 @@ script 31 mmbn6 {
 script 32 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Daughter Worry
+	NOME DO PEDIDO:
+	Preocupação com a
+	filha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Plaza In
-	Green Town
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE: Praça
+	no Distrito Verde
 	"""
 	keyWait
 		any = false
@@ -1706,24 +1679,24 @@ script 32 mmbn6 {
 script 33 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Stop Him!
+	NOME DO PEDIDO:
+	Detenha-o!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Green Town
-	Courtroom
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE: Tribunal
+	do Distrito Verde
 	"""
 	keyWait
 		any = false
@@ -1732,24 +1705,25 @@ script 33 mmbn6 {
 script 34 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Loan Collection
+	NOME DO PEDIDO:
+	Cobrança de
+	empréstimo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:
-	Green Town HP
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE:
+	Página do Distrito Verde
 	"""
 	keyWait
 		any = false
@@ -1758,24 +1732,24 @@ script 34 mmbn6 {
 script 35 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Lumber Merchant
+	NOME DO PEDIDO:
+	Mercador de lenha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Large Tree
-	In Green Area2
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE: Árvore
+	Grande na Área Verde 2
 	"""
 	keyWait
 		any = false
@@ -1784,24 +1758,24 @@ script 35 mmbn6 {
 script 36 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	TimeCpsl
+	NOME DO PEDIDO:
+	Cápsula do tempo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Green Town
-	Plaza
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE: Praça
+	do Distrito Verde
 	"""
 	keyWait
 		any = false
@@ -1810,24 +1784,24 @@ script 36 mmbn6 {
 script 37 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Got A Problem
+	NOME DO PEDIDO:
+	Tenho um problema
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:On The
-	Auditorium Stage
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE:
+	Palco do Aquário
 	"""
 	keyWait
 		any = false
@@ -1836,24 +1810,24 @@ script 37 mmbn6 {
 script 38 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Songwriter
+	NOME DO PEDIDO:
+	Compositor
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Sky Area1
-	NetCafe
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE: NetCafé
+	da Área Céu 1
 	"""
 	keyWait
 		any = false
@@ -1862,23 +1836,24 @@ script 38 mmbn6 {
 script 39 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Buy Which Stock?
+	NOME DO PEDIDO:
+	O que comprar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Sky Area1
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE:
+	Área Céu 1
 	"""
 	keyWait
 		any = false
@@ -1887,24 +1862,25 @@ script 39 mmbn6 {
 script 40 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Can't Open The Safe
+	NOME DO PEDIDO:
+	Não consigo abrir o
+	cofre
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Auditorium
-	Popcorn Shop Comp
+	LOCAL DE ENCONTRO:
+	CPU da Loja de Pipoca
+	do Aquário
 	"""
 	keyWait
 		any = false
@@ -1913,24 +1889,24 @@ script 40 mmbn6 {
 script 41 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Do Something!!
+	NOME DO PEDIDO:
+	Faz alguma coisa!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Seaside Town
-	Fish Stick Shop
+	LOCAL DE ENCONTRO:
+	Loja de Palitos de Peixe
+	do Distrito Beira-Mar
 	"""
 	keyWait
 		any = false
@@ -1939,24 +1915,24 @@ script 41 mmbn6 {
 script 42 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Want to Meet Dghter
+	NOME DO PEDIDO:
+	Quero ver a minha filha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:
-	Sky HP
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE:
+	Página do Distrito Céu
 	"""
 	keyWait
 		any = false
@@ -1965,24 +1941,24 @@ script 42 mmbn6 {
 script 43 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Not Enough Members
+	NOME DO PEDIDO:
+	Faltam membros
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:
-	Class 6_2 Comp
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE:
+	CPU Sala 6-2
 	"""
 	keyWait
 		any = false
@@ -1991,24 +1967,24 @@ script 43 mmbn6 {
 script 44 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Track The Criminal
+	NOME DO PEDIDO:
+	Ache o criminoso
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Seaside Water
-	Vending Machine
+	LOCAL DE ENCONTRO:
+	Máquina de Venda de
+	Água Beira-Mar
 	"""
 	keyWait
 		any = false
@@ -2017,24 +1993,24 @@ script 44 mmbn6 {
 script 45 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Where's My Navi?
+	NOME DO PEDIDO:
+	Cadê o meu Navi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Cyber Academy
-	Class1_1
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE: Escola
+	Saibher, Sala 1-1
 	"""
 	keyWait
 		any = false
@@ -2043,24 +2019,24 @@ script 45 mmbn6 {
 script 46 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	One More Time
+	NOME DO PEDIDO:
+	Mais uma vez
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Central Town
-	Residential Area
+	LOCAL DE ENCONTRO:
+	Área Residencial do
+	Bairo Central
 	"""
 	keyWait
 		any = false
@@ -2069,23 +2045,24 @@ script 46 mmbn6 {
 script 47 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	SupportChip Please
+	NOME DO PEDIDO:
+	Chip de apoio, por favor
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Sky Town Orb
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE:
+	Orbe do Distrito Céu
 	"""
 	keyWait
 		any = false
@@ -2094,24 +2071,24 @@ script 47 mmbn6 {
 script 48 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Negotiate!
+	NOME DO PEDIDO:
+	Negociar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Sky Town
-	Force Room Entrance
+	LOCAL DE ENCONTRO:
+	Entrada da Sala de
+	Força, Distrito Céu
 	"""
 	keyWait
 		any = false
@@ -2120,24 +2097,25 @@ script 48 mmbn6 {
 script 49 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	JuvenileDiv
+	NOME DO PEDIDO:
+	Divisão de crimes
+	juvenis
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Cyber Academy
-	Foyer MonitorComp
+	LOCAL DE ENCONTRO:
+	Escola Saibher,
+	CPU Monitor Entrada
 	"""
 	keyWait
 		any = false
@@ -2146,24 +2124,24 @@ script 49 mmbn6 {
 script 50 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Get The Bad Guy!
+	NOME DO PEDIDO:
+	Pega o bandido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Central Town
-	Outskirts
+	LOCAL DE ENCONTRO:
+	Arredores do
+	Bairro Central
 	"""
 	keyWait
 		any = false
@@ -2172,24 +2150,24 @@ script 50 mmbn6 {
 script 51 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Find The Virus!
+	NOME DO PEDIDO:
+	Ache o vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Central Town
-	LevBus Station
+	LOCAL DE ENCONTRO:
+	Estação de ÔnibsMag
+	do Bairro Central
 	"""
 	keyWait
 		any = false
@@ -2198,24 +2176,24 @@ script 51 mmbn6 {
 script 52 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Penguins Ran Away
+	NOME DO PEDIDO:
+	Pinguins fugiram
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Aquarium
-	Piranha Tank
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE: Tanque
+	das Piranhas do Aquário
 	"""
 	keyWait
 		any = false
@@ -2224,24 +2202,24 @@ script 52 mmbn6 {
 script 53 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Update Help
+	NOME DO PEDIDO:
+	Ajuda com atualização
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Aquarium
-	Turtle Tank
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE: Aquário,
+	Tanque das Tartarugas
 	"""
 	keyWait
 		any = false
@@ -2250,24 +2228,25 @@ script 53 mmbn6 {
 script 54 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Diet Goods Money
+	NOME DO PEDIDO:
+	Dinheiro de produtos
+	diet
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Cyber Academy
-	1st Floor Hallway
+	LOCAL DE ENCONTRO:
+	Escola Saibher,
+	Corredor 1º Andar
 	"""
 	keyWait
 		any = false
@@ -2276,24 +2255,24 @@ script 54 mmbn6 {
 script 55 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Self Research
+	NOME DO PEDIDO:
+	Auto-pesquisa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:
-	Class 1_1 Comp
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE:
+	CPU Sala 1-1
 	"""
 	keyWait
 		any = false
@@ -2302,30 +2281,31 @@ script 55 mmbn6 {
 script 56 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Official Request!
+	NOME DO PEDIDO:
+	Pedido Oficial!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sky Town Operator's
-	Room ObservationComp
+	CPU Observação de
+	Sala do Operador
+	do Distrito Céu (REVISE ISTO)
 	"""
 	keyWait
 		any = false
@@ -2334,24 +2314,24 @@ script 56 mmbn6 {
 script 57 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	An Experiment!
+	NOME DO PEDIDO:
+	Um experimento!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:Around The
-	Aquarium Shark Tank
+	LOCAL DE ENCONTRO:
+	Aquário, perto do
+	Tanque dos Tubarões
 	"""
 	keyWait
 		any = false
@@ -2360,25 +2340,25 @@ script 57 mmbn6 {
 script 58 mmbn6 {
 	msgOpenEmail
 	"""
-	This mail confirms
-	request acceptance.
-	Details below.
+	Esta é uma confirmação
+	de pedido.
+	Detalhes a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUEST NAME:
-	Road to a
-	SoulBattler.
+	NOME DO PEDIDO:
+	O caminho para ser
+	um AlmaLutador.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTOR MEETING
-	PLACE:
-	Green HP
+	LOCAL DE ENCONTRO COM
+	O SOLICITANTE:
+	Página do Distrito Verde
 	"""
 	keyWait
 		any = false
@@ -2390,15 +2370,15 @@ script 59 mmbn6 {
 		jumpIfCybeastFalzar = 87
 	msgOpenEmail
 	"""
-	You defeated a great
-	evil...
+	Você derrotou
+	um grande mal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be watching
-	you...
+	Ficarei a lhe
+	observar...
 	"""
 	keyWait
 		any = false
@@ -2415,7 +2395,7 @@ script 59 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printChip
@@ -2435,33 +2415,32 @@ script 59 mmbn6 {
 script 60 mmbn6 {
 	msgOpenEmail
 	"""
-	Mail has been
-	received in the
-	mailbox on Lan's HP.
+	Um e-mail foi recebido
+	na caixa de e-mails
+	da página do Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To confirm mails,
-	call the Mr.Prog
-	on the homepage.
+	Para conferi-lo, fale
+	com o Prog da página.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the only
-	mail notification
-	you will receive,
+	Este é o único e-mail
+	de notificação que
+	você receberá,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so please check the
-	mailbox often from
-	this point forward.
+	então, por favor,
+	confira sua caixa de
+	e-mails com frequência.
 	"""
 	keyWait
 		any = false
@@ -2477,23 +2456,22 @@ script 61 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Lan...call me as
-	soon as you can...
+	Lan... Assim que
+	puder, liga...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dad... Dad...
-	He was arrested by
-	the police!
+	O seu pai... Seu pai...
+	A polícia prendeu ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have no idea what
-	is going on!
+	Eu não sei o que
+	tá acontecendo!
 	"""
 	keyWait
 		any = false
@@ -2568,180 +2546,182 @@ script 76 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	I've gathered up all
-	the info I could on
+	Reuni todas as
+	informações que
+	consegui a respeito
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	transforming into a
-	Cybeast aka
-	BeastOut!
+	da transformação
+	em Cyberbesta:
+	a Feralização!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To BeastOut,go to
-	the Custom Screen,
+	Para Feralizar,
+	vá na Tela de
+	Customização
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"then press the \nCybeastButton."
+	"e aperte o Botão\nCyberbesta."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When you transform
-	while using a Cross,
-	you become a
+	Quando você se
+	transforma no meio
+	de uma União Cruzada,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"CrossCybeast."
+	"você vira uma\nCyberbestaCruz."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can use the
-	Cross powers as well
-	as Cybeast powers.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	As a Cybeast,
-	Elementless chips
+	Isso lhe permite usar
+	todos os poderes Cruza-
+	dos como Cyberbesta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that don't dim
-	the screen get
-	Attack+30.
+	Como Cyberbesta,
+	chips Neutros que
+	não "param o tempo"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Moreover,when using
-	chips that don't dim
-	the screen,a beast's
+	ganham mais 30
+	pontos de Ataque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	instincts will move
-	you swiftly into
-	attack position!
+	Adicionalmente, ao usar
+	chips que "param o
+	tempo", os instintos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you tap the B
-	Button,you can fire
-	the GregarBuster
+	da besta lhe levarão
+	rapidamente à
+	posição de ataque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	repeatedly. Also,
-	charging Elementless
-	chips will summon
+	Ao apertar o botão "B",
+	você dispara o
+	TiroGregar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	special moves that
-	can only be done by
-	a Cybeast.
+	repetidamente.
+	E carregar o ataque
+	em chips Neutros 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It will also change
-	your special moves
-	as a CrossCybeast.
+	desferirá técnicas
+	especiais exclusivas
+	das Cyberbestas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,as each turn
-	passes,an
-	EmotionCounter next
+	O modo CyberbestaCruz
+	também vem com golpes
+	especiais exclusivos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to the EmotionWindow
-	will decrease.
+	Porém, a cada turno
+	que passa, um Contador
+	de Emoção ao lado da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it hits 0,MegaMan
-	will transform back,
-	exhausted.
+	Janela de Emoção
+	irá diminuindo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you try to
-	transform while
-	exhausted,MegaMan
+	Ao chegar a 0,
+	o MegaMan voltará ao
+	normal, só que exausto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will become wild,
-	reaching the limit
-	on his Navi body.
+	Se tentar se
+	transformar durante
+	essa exaustão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is called
-	BeastOver.
+	o MegaMan vai ficar
+	feral, e seu corpo de
+	Navi chegará ao limite.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Battling without
-	transforming will
-	recover the
+	É o que chamamos
+	de Colapso Feral.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EmotionCounter.
-	BeastOut is a
-	trump card,but be
+	Para restaurar o
+	Contador de Emoção,
+	é só lutar sem se
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	careful not to
-	show your hand too
-	often.
+	transformar.
+	A Feralização é um
+	ás na manga,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	mas cuidado para não
+	jogar suas melhores
+	cartas o tempo todo.
 	"""
 	keyWait
 		any = false
@@ -2750,62 +2730,62 @@ script 76 mmbn6 {
 script 77 mmbn6 {
 	msgOpenEmail
 	"""
-	This is the
-	NetPolice.
+	Aqui fala a
+	NetPolícia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Since the laws of
-	Cyber City and other
-	towns differ,
+	Como as leis da Cidade
+	Saibher diferem das
+	leis de outras cidades,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in place of Official
-	NetBattlers,the
+	em vez de NetLutadores
+	Oficiais,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetPolice will take
-	charge of the safety
-	of all citizens.
+	é a NetPolícia quem
+	fica encarregada da
+	segurança dos cidadãos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In this mail,we want
-	to introduce novice
-	NetBattlers to the
+	Neste e-mail, queremos
+	instruir NetLutadores
+	iniciantes quanto aos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fundamentals needed
-	by all NetBattlers.
+	fundamentos exigidos
+	de todos os NetLutadores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please keep these in
-	mind,as we work to
-	prevent crime.
+	Lembrem-se sempre deles
+	para que, juntos, possa-
+	mos conter todo o crime.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We would like to go
-	over the following
-	two points.
+	Com isso dito, queremos
+	discorrer os seguintes
+	dois tópicos.
 	"""
 	keyWait
 		any = false
@@ -2822,7 +2802,7 @@ script 77 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Folder Editing\n"
+	" Editar Pastas\n"
 	positionOptionHorizontal
 		width = 10
 	option
@@ -2833,7 +2813,7 @@ script 77 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Regular System\n"
+	" Sistema Padrão\n"
 	positionOptionHorizontal
 		width = 10
 	option
@@ -2844,7 +2824,7 @@ script 77 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Finish Reading"
+	" Terminar"
 	select
 		default = 0
 		BSeparate = false
@@ -2859,137 +2839,138 @@ script 77 mmbn6 {
 	clearMsg
 	textSpeed
 		delay = 2
-	"\"Editing the Chip\n Folder\""
-	keyWait
-		any = false
-	clearMsg
 	"""
-	While travelling the
-	Cyberworld,you can
-	get BattleChips.
+	"Editar a Pasta
+	de Chips".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yet,acquiring Battle
-	Chips will not allow
-	you to use them in a
+	Ao navegar pelo mundo
+	cibernético, você irá
+	adquirir BattleChips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetBattle. When you
-	get a chip you wish
-	to use,be sure to
+	Mas só adquirir chips
+	não lhe permitirá usá-los
+	em NetLutas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	put it into the
-	ChipFolder.
+	Sempre que adquirir
+	um chip que quiser
+	usar, lembre-se de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When you want to
-	edit the ChipFolder,
-	open the PET Screen
+	inseri-lo na sua
+	Pasta de Chips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and open the Edit
-	Screen by selecting
-	a ChipFolder.
+	Quando quiser editar
+	a Pasta de Chips,
+	abra a Tela do PET
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While editing a
-	Folder,
+	e vá à Tela de Edição
+	selecionando "Pastas".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	pressing START will
-	bring up a sort
-	menu.
+	Enquanto estiver
+	editando uma Pasta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In the sort menu,
-	you can sort your
-	Folder or Pack
+	aperte "START" para
+	abrir um menu de
+	organização.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with various options
-	such as alphabetical
-	sort or ID sort.
+	Nesse menu, poderá
+	organizar a sua Pasta
+	ou Mochila com base em
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Editing your Chip
-	Folder is very
-	useful,so we
+	várias opções, como
+	ordem alfabética ou
+	número de ID dos chips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	recommend you do it
-	early and often.
+	Editar sua
+	Pasta é vital,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can get Battle
-	Chips by deleting
-	viruses,collecting
+	então recomendamos
+	que você o faça com
+	frequência.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mystery data in the
-	Cyberworld,buying
-	chips at shops on
+	Para adquirir chips,
+	delete vírus, colete
+	dados misteriosos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Net,or trading
-	BugFrags or items at
-	special shops.
+	no mundo cibernético,
+	compre chips em lojas
+	na Rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By collecting a wide
-	variety of chips,you
+	ou troque FragBugs e
+	itens em lojas especiais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can make a world
-	class Folder.
+	Coletando uma vasta
+	gama de chips,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	você poderá fazer
+	uma Pasta de primeira.
 	"""
 	keyWait
 		any = false
@@ -2998,23 +2979,23 @@ script 77 mmbn6 {
 script 78 mmbn6 {
 	msgOpenEmail
 	"""
-	Ms.Pat Fahran has
-	opened a NetBattler
+	A Srta. Pat Fahran
+	abriu uma Escola de
+	NetLuta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	School in
-	Green Town.
+	no Distrito Verde.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How would you like
-	to learn from a
-	Yum_my NetBattler?
+	Que tal aprender
+	a lutar com uma
+	NetLutadora saboryana?
 	"""
 	keyWait
 		any = false
@@ -3023,24 +3004,25 @@ script 78 mmbn6 {
 script 79 mmbn6 {
 	msgOpenEmail
 	"""
-	At Sky Town's Admin
-	Building,
+	No Prédio de
+	Administração
+	do Distrito Céu,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ms.Ann Zap has
-	opened a shocking
-	Operator's School!
+	a Srta. Ann Zap
+	abriu uma chocante
+	Escola de Operadores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wouldn't you love
-	to learn how to use
-	Elec chips?
+	Não seria ótimo
+	aprender a utilizar
+	chips Elétricos?
 	"""
 	keyWait
 		any = false
@@ -3049,25 +3031,25 @@ script 79 mmbn6 {
 script 80 mmbn6 {
 	msgOpenEmail
 	"""
-	In ResearchLab2 of
-	the Cyber Academy
-	Teachers' Room,
+	No Laboratório de
+	Pesquisa 2 na Sala dos
+	Profs. da Escola Saibher,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Dark Scyth has
-	opened a NetBattler
-	School.
+	o Sr. Dark Kirisaki
+	abriu uma Escola de
+	NetLuta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wouldn't you love to
-	learn some splendid
-	battle techniques?
+	Que tal aprender
+	técnicas de luta
+	esplêndidas com ele?
 	"""
 	keyWait
 		any = false
@@ -3076,25 +3058,24 @@ script 80 mmbn6 {
 script 81 mmbn6 {
 	msgOpenEmail
 	"""
-	At Seaside Town
-	Aquarium,near the
-	vending machines,
+	No Aquário do Distrito
+	Beira-Mar, perto da
+	máquina de vendas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Al Ferry has
-	opened a Charged Up
-	Operator's School.
+	o Sr. Al Ferry abriu uma
+	Escola de Operadores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wouldn't you love to
-	learn how to operate
-	this powerful Navi?
+	Não acha uma boa ideia
+	aprender a operar esse
+	poderoso Navi?
 	"""
 	keyWait
 		any = false
@@ -3103,23 +3084,23 @@ script 81 mmbn6 {
 script 82 mmbn6 {
 	msgOpenEmail
 	"""
-	Master Feng_Tian has
-	opened a NetBattler
+	O Mestre Feng-Tian
+	abriu uma Escola de
+	NetLutas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	School in
-	Green Town.
+	no Distrito Verde.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wouldn't you love to
-	learn the secrets of
-	a Master?
+	Não acha uma boa ideia
+	aprender os segredos de
+	um Mestre?
 	"""
 	keyWait
 		any = false
@@ -3128,25 +3109,25 @@ script 82 mmbn6 {
 script 83 mmbn6 {
 	msgOpenEmail
 	"""
-	At the Heliport on
-	the Admin Building
-	in Sky Town,
+	No Heliporto do
+	Prédio da Administração
+	no Distrito Céu,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Dingo has started
-	a Chopper Operator's
-	School.
+	o Sr. Dingo abriu uma
+	Escola para Operadores
+	Cortantes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take this chance to
-	learn this splendid
-	NetBattling style!
+	Não perca essa chance
+	de aprender esse estilo
+	de NetLuta de ponta!
 	"""
 	keyWait
 		any = false
@@ -3155,25 +3136,23 @@ script 83 mmbn6 {
 script 84 mmbn6 {
 	msgOpenEmail
 	"""
-	In ResearchLab2 of
-	the Cyber Academy
-	Teachers' Room,
+	No Laboratório de
+	Pesquisa 2, na Sala dos
+	Professores da Escola,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Moliarty has
-	opened a Drill
-	School.
+	o Sr. Moliarty abriu
+	um Curso Broqueiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wouldn't you love to
-	learn from this
-	powerful operator?
+	Não quer aprender com
+	esse poderoso operador?
 	"""
 	keyWait
 		any = false
@@ -3182,30 +3161,30 @@ script 84 mmbn6 {
 script 85 mmbn6 {
 	msgOpenEmail
 	"""
-	At Seaside Town
-	Aquarium,near the
-	vending machines,
+	No Aquário do Distrito
+	Beira-Mar, perto das
+	máquinas de venda,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Press has opened
-	a Recycling Operator
-	School.
+	o Sr. Press abriu uma
+	Escola de Operação
+	e Reciclagem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wouldn't you love to
-	learn recycling and
-	NetBattling...
+	Não acha uma boa ideia
+	aprender a reciclar e
+	a NetLutar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"AT THE SAME TIME!?"
+	"AO MESMO TEMPO?!"
 	keyWait
 		any = false
 	waitHold
@@ -3213,56 +3192,55 @@ script 85 mmbn6 {
 script 86 mmbn6 {
 	msgOpenEmail
 	"""
-	Dear Mr.Lan Hikari,
-	We of the Expo
-	Executive Committee
+	Prezado Sr. Lan Hikari.
+	Nós, do Comitê
+	Executivo da Exposição,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	would like to
-	invite you to our
-	Preview Gala.
+	gostaríamos de lhe
+	convidar para o nosso
+	Baile Pré-Inaugural.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have been
-	selected from
-	among the citizens
+	O senhor foi selecionado
+	dentre os cidadãos da
+	Cidade Saibher
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of Cyber City to
-	attend this once in
-	a lifetime event!
+	para comparecer a esse
+	evento único na vida!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This event will be
-	held in one week.
+	O baile se dará dentro
+	de uma semana.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may bring
-	any interested
-	friends with you to
+	Fique à vontade para
+	trazer também quaisquer
+	amigos interessados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Expo Site to
-	experience this
-	exciting event!
+	à área da Exposição
+	para viverem esse
+	evento marcante!
 	"""
 	keyWait
 		any = false
@@ -3271,15 +3249,15 @@ script 86 mmbn6 {
 script 87 mmbn6 {
 	msgOpenEmail
 	"""
-	You defeated a great
-	evil...
+	Você derrotou um
+	grande mal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be watching
-	you...
+	Ficarei de olho
+	em você...
 	"""
 	keyWait
 		any = false
@@ -3296,7 +3274,7 @@ script 87 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printChip
@@ -3323,173 +3301,182 @@ script 88 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	I've gathered up all
-	the info I could on
+	Reuni todas as
+	informações que
+	consegui a respeito
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	transforming into a
-	Cybeast aka
-	BeastOut!
+	da transformação
+	em Cyberbesta:
+	a Feralização!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To BeastOut,go to
-	the Custom Screen,
+	Para Feralizar,
+	vá na Tela de
+	Customização
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"then press the \nCybeastButton."
+	"e aperte o Botão\nCyberbesta."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When you transform
-	while using a Cross,
-	you become a
+	Quando você se
+	transforma no meio
+	de uma União Cruzada,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"CrossCybeast."
+	"você vira uma\nCyberbestaCruz."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can use the
-	Cross powers as well
-	as Cybeast powers.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	As a Cybeast,
-	Elementless chips
+	Isso lhe permite usar
+	todos os poderes Cruza-
+	dos como Cyberbesta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that don't dim
-	the screen get
-	Attack+30.
+	Como Cyberbesta,
+	chips Neutros que
+	não "param o tempo"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Moreover,when using
-	chips that don't dim
-	the screen,a beast's
+	ganham mais 30
+	pontos de Ataque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	instincts will move
-	you swiftly into
-	attack position!
+	Adicionalmente, ao usar
+	chips que "param o
+	tempo", os instintos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To unleash the
-	FalzarBuster,
-	tap the B Button.
+	da besta lhe levarão
+	rapidamente à
+	posição de ataque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,charging
-	Elementless chips
-	will summon special
+	Ao apertar o botão "B",
+	você dispara o
+	TiroFalzar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	moves that can
-	only be done by
-	a Cybeast.
+	repetidamente.
+	E carregar o ataque
+	em chips Neutros 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It will also change
-	your special moves
-	as a CrossCybeast.
+	desferirá técnicas
+	especiais exclusivas
+	das Cyberbestas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,as each turn
-	passes,an
-	EmotionCounter next
+	O modo CyberbestaCruz
+	também vem com golpes
+	especiais exclusivos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to the EmotionWindow
-	will decrease.
+	Porém, a cada turno
+	que passa, um Contador
+	de Emoção ao lado da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it hits 0,MegaMan
-	will transform back,
-	exhausted.
+	Janela de Emoção
+	irá diminuindo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you try to
-	transform while
-	exhausted,MegaMan
+	Ao chegar a 0,
+	o MegaMan voltará ao
+	normal, só que exausto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will become wild,
-	reaching the limit
-	on his Navi body.
+	Se tentar se
+	transformar durante
+	essa exaustão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Battling without
-	transforming will
-	recover the 
+	o MegaMan vai ficar
+	feral, e seu corpo de
+	Navi chegará ao limite.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EmotionCounter.
-	BeastOut is a
-	trump card,but be
+	É o que chamamos
+	de Colapso Feral.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	careful not to
-	show your hand too
-	often.
+	Para restaurar o
+	Contador de Emoção,
+	é só lutar sem se
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	transformar.
+	A Feralização é um
+	ás na manga,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	mas cuidado para não
+	jogar suas melhores
+	cartas o tempo todo.
 	"""
 	keyWait
 		any = false
@@ -3504,35 +3491,34 @@ script 90 mmbn6 {
 	mugshotAnimation
 		animation = 0
 	msgOpenEmail
-	"Lan,how are you?"
+	"Oi, Lan! Como você tá?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone here is
-	great!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Dex is a little
-	lonely though...
+	Todo mundo aqui tá ótimo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh yeah,I forgot to
-	give something to
-	you when you moved
+	Bom, o Dex anda
+	meio solitário...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I'll just send it
-	to you instead...
+	Ah, é, eu esqueci de
+	te dar uma coisa
+	quando você se mudou,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	então vou ter que
+	mandar por aqui...
 	"""
 	keyWait
 		any = false
@@ -3549,7 +3535,7 @@ script 90 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printChip
@@ -3576,60 +3562,59 @@ script 91 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Hello,Lan. How have
-	you been lately?
+	Oi, Lan. Como está?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've been doing
-	your homework,right?
+	Fazendo a lição
+	de casa direitinho?
+	Espero que esteja!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And not being late
-	either,I hope...
+	E que também não
+	esteja se atrasando
+	pra escola...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How about your
-	friends...?
+	E as amizades...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure you haven't
-	had any trouble
-	making new friends!
+	Estou certa de que você
+	está fazendo amigos
+	sem dificuldade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone here in
-	ACDC Town is doing
-	great!
+	Todos aqui no Bairro
+	ACDC estão ótimos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should come
-	visit as soon as
-	you can!
+	Você devia vir nos
+	visitar assim que
+	possível!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm looking forward
-	to seeing you again!
+	Estou ansiosa para
+	te ver de novo!
 	"""
 	keyWait
 		any = false
@@ -3645,23 +3630,23 @@ script 92 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Yo Lan!
-	Been a long time!!
+	Fala aê, Lan!
+	Quanto tempo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ever since you moved
-	me and GutsMan have
-	been training hard!
+	Desde que cê foi embora,
+	o GutsMan e eu temos
+	treinado pra burro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I doubt you can
-	beat me now!!
+	Duvido que cê consegue
+	me vencer agora!!
 	"""
 	keyWait
 		any = false
@@ -3677,36 +3662,35 @@ script 93 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	We were talking
-	about you at school,
-	and Ms.Mari decided
+	A gente tava falando
+	de você na escola,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that we should all
-	send you some email!
+	e a Srta. Mari disse
+	pra todo mundo mandar
+	e-mails!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Oh yeah..."
+	"Ah, é..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Have you been using
-	that ChipData I sent
-	you?
+	Tem usado aquele
+	chip que eu mandei?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm glad you are
-	getting used to
-	things...
+	Que bom que você tá
+	se acostumando com
+	a nova vida aí...
 	"""
 	keyWait
 		any = false
@@ -3722,31 +3706,32 @@ script 94 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	So,how is Cyber City
-	as a place to live?
+	E aí, como é a Cidade
+	Saibher pra morar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet you're still
-	Mr.Popular,even in
-	Cyber City.
+	Aposto que você
+	continua o centro das
+	atenções, mesmo aí.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not sad you're
-	gone at all,but if
+	Eu não tô SUPER
+	triste de você ter
+	ido embora, sabe,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you start feeling
-	lonely you should
-	come and visit.
+	mas, se sentir muitas
+	saudades, devia vir
+	visitar a gente.
 	"""
 	keyWait
 		any = false
@@ -3761,37 +3746,37 @@ script 95 mmbn6 {
 	mugshotAnimation
 		animation = 0
 	msgOpenEmail
-	"HEY!"
+	"AÍ!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard that there
-	are lots of events
-	for the Expo being
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	held all around
-	Cyber City...
+	Eu fiquei sabendo que
+	tem um monte de coisa
+	legal rolando na Cidade
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Man! I wish I lived
-	in a cool place like
-	that!
+	Saibher por causa da
+	Exposição...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope they have a
-	cool event here in
-	ACDC Town!
+	Poxa! Eu também quero
+	morar num lugar irado
+	desses!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tomara que façam um
+	evento maneiro assim
+	aqui em ACDC também!
 	"""
 	keyWait
 		any = false
@@ -3807,38 +3792,38 @@ script 96 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	I heard it through
-	the grapevine,but
+	Acabou chegando em
+	mim via fofocas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	something terrible
-	happened on the
-	Net in Cyber City!
+	que aconteceu alguma
+	tragédia aí, na Rede
+	da Cidade Saibher!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Make sure you don't
-	go on the Net!
+	Não entra na
+	Rede agora, viu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I bet that even
-	though I'm warning
-	you,you'll still go
+	... Mas aposto que,
+	mesmo eu te avisando,
+	você ainda vai lá
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	poking around where
-	you shouldn't...
+	enfiar o nariz
+	onde não devia...
 	"""
 	keyWait
 		any = false
@@ -3854,40 +3839,41 @@ script 97 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	I hear the Net
-	in Cyber City is
-	having some errors!
+	Fiquei sabendo que a
+	Cidade Saibher tá dando
+	uns erros aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was even on the
-	news here in ACDC.
+	É notícia até
+	aqui, em ACDC.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Are you OK?"
+	"Cê tá bem?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know MegaMan is
-	OK! He's MegaMan!
+	Bom, eu sei que
+	o MegaMan deve tá!
+	Digo, é o MegaMan, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you two are
-	strong,so I guess
-	I have no reason to
+	Eu sei que cês dois
+	são fortes, então acho
+	que não tenho por que
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"worry too much!"
+	"me preocupar!"
 	keyWait
 		any = false
 	waitHold
@@ -3902,21 +3888,20 @@ script 98 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Lan,I saw on the
-	news that something
-	big happened on the
+	Lan, eu vi no noticiário
+	que aconteceu uma coisa
+	séria aí,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Net in Cyber City!"
+	"na Rede da\nCidade Saibher!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use this instead of
-	your good luck
-	charm...
+	Toma, um amuleto de
+	boa sorte pra você...
 	"""
 	keyWait
 		any = false
@@ -3933,7 +3918,7 @@ script 98 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printChip
@@ -3960,39 +3945,38 @@ script 99 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Looks like things
-	are happening all
-	over Cyber City...
+	Parece que tá
+	acontecendo umas coisas
+	por toda a Saibher...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Information has been
-	flowing in around
-	here.
+	A gente tem ouvido
+	umas informações aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got a feeling
-	that you're wrapped
-	up in all of this.
+	E eu tô sentindo que
+	você tá envolvido nesse
+	rolo todo, como sempre.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mayl is really
-	worried about you,
+	A Mayl tá ultra
+	preocupada com você,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so don't do anything
-	stupid,OK?
+	então não vai fazer
+	nenhuma loucura, viu?!
 	"""
 	keyWait
 		any = false
@@ -4008,25 +3992,23 @@ script 100 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	The weather over
-	there sounds real
-	strange,
+	Parece que o tempo
+	aí é puro caos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but in ACDC Town,
-	it's nothing but
-	blue skies!
+	mas aqui, em ACDC, o
+	céu tá um azul limpinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today,I'm going
-	fishing in the big
-	river here in town!
+	Inclusive, hoje eu
+	vou pra pescar no rio
+	da cidade!
 	"""
 	keyWait
 		any = false
@@ -4042,21 +4024,20 @@ script 101 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Lan. I want to say
-	that I'm sorry for
-	what happened when
+	Lan. Olha, eu sinto
+	muito pelo que
+	aconteceu quando
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"you came to visit..."
+	"você veio visitar..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope you and
-	MegaMan are
-	both safe...
+	Espero que você e o
+	MegaMan estejam bem...
 	"""
 	keyWait
 		any = false
@@ -4072,14 +4053,14 @@ script 102 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Lan,I wanted to say
-	sorry for what
-	happened to MegaMan.
+	Lan, eu sinto muito
+	pelo que aconteceu com
+	o MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"He did it for us..."
+	"Ele fez aquilo\npela gente..."
 	keyWait
 		any = false
 	waitHold
@@ -4094,23 +4075,22 @@ script 103 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Lan,I wanna
-	apologize...
+	Lan, eu quero te
+	pedir desculpa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If me and GutsMan
-	were stronger this
-	wouldn't have
+	Se o GutsMan e eu
+	fôssemos mais fortes,
+	isso não teria rolado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	happened...
-	I'm really sorry.
+	Desculpa, de verdade.
 	"""
 	keyWait
 		any = false
@@ -4126,24 +4106,24 @@ script 104 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	It looks like the
-	Expo will open on
-	time!
+	Parece que a
+	Exposição vai abrir
+	dentro do prazo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When it opens,I will
-	definitely go there!
+	Quando acontecer,
+	eu com certeza vou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll also make a
-	a special trip to
-	visit your house!
+	E também tirar um
+	tempo para visitar a
+	sua casa, claro!
 	"""
 	keyWait
 		any = false
@@ -4157,110 +4137,108 @@ script 111 mmbn6 {
 		delay = 2
 	clearMsg
 	"""
-	The RegularSystem
-	allows you to
-	select a chip you
+	O Sistema Padrão
+	permite selecionar
+	um chip de que goste
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	like,and make one of
-	them a RegularChip.
+	e torná-lo um
+	Chip Padrão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chips that have been
-	marked RegularChips
-	will always be
+	Chips marcados
+	como Chips Padrão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	available at the
-	start of a battle.
+	sempre ficam
+	disponíveis ao
+	início de uma luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To select a chip as
-	a RegularChip,go to
-	the Folder Edit
+	Para selecionar um
+	chip como Padrão, vá
+	na Tela de Edição
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Screen and press
-	SELECT.Then pick the
-	chip you want to set
+	e aperte "SELECT".
+	Daí, escolha o chip
+	que quiser configurar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	as a RegularChip.
-	If the chip is
-	larger than the
+	como Chip Padrão.
+	Se o chip for maior
+	que a capacidade
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	capacity of your
-	PET,it cannot be a
-	RegularChip.
+	do seu PET, não poderá
+	ser um Chip Padrão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The capacity of a
-	chip that can become
-	a RegularChip is
+	A capacidade de um
+	chip que pode ser
+	Padrão fica visível
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	written to the right
-	of the Folder name
-	on the Edit Screen.
+	à direita do nome da
+	Pasta na Tela de Edição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Select a chip that
-	is smaller than the
-	capacity listed.
+	Selecione um chip
+	que seja menor que a
+	capacidade listada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can increase the
-	capacity with the
-	RegUP item.
+	Para aumentar sua
+	capacidade máxima,
+	encontre Padrão+.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you master the
-	RegularSystem,
+	Dominar o
+	Sistema Padrão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it will open up a
-	wide range of
-	strategies.
+	abrirá para você
+	todo um leque de
+	estratégias.
 	"""
 	keyWait
 		any = false

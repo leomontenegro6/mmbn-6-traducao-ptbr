@@ -10,25 +10,24 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'm the caretaker
-	program for this
-	Pavilion...
+	Eu sou o Prog cuidador
+	deste Pavilhão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...A smooth talking
-	program created for
-	the Expo...
+	... Um Prog de fala
+	mansa criado para a
+	Exposição...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got alot to
-	say,would you like
-	to take a listen?
+	Eu tenho muita
+	coisa a dizer.
+	Gostaria de ouvir?
 	"""
 	keyWait
 		any = false
@@ -44,7 +43,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -53,7 +52,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -68,9 +67,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	This information is
-	important if you are
-	going to continue...
+	Essa informação é
+	importante para o
+	seu progresso...
 	"""
 	keyWait
 		any = false
@@ -81,132 +80,127 @@ script 1 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	As a counter to the
-	hackings in the
-	Cyberworld,we've
+	Para tenter conter
+	os hackers do
+	mundo cibernético,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	implemented a means
-	to prevent
-	backtracking.
+	nós implementamos uma
+	forma de prevenir
+	retrogressos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Step on a panel in
-	this area,and grass
-	will begin to grow.
+	Ao pisar em um painel
+	desta área, começa a
+	nascer grama nele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stepping on grass
-	is regarded as
-	breaking the law.
+	E pisar nessa grama
+	é classificado como
+	uma violação de lei.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One of the guards
-	in this area will
-	appear,
+	Um dos guardas desta
+	área irá aparecer,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a court will be
-	opened,and violators
-	will be punished.
+	um julgamento será
+	realizado e o infrator
+	será punido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One more thing. One
-	step is considered
-	one crime.
+	Mais uma coisa.
+	Uma pisada é
+	considerada um crime.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Step on 3 grass
-	panels,and you're
-	guilty of 3 crimes.
+	Se pisar em três
+	paineis, será culpado
+	de três crimes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The bigger the crime
-	the bigger the
-	punishment...
+	Quanto maior o crime,
+	maior a punição...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ahh,another thing..."
+	"Ahh, mais uma coisa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press the L Button
-	to look at your
-	surroundings.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Press the L Button
-	again to stop
-	looking.
+	Aperte o botão "L"
+	para olhar os seus
+	arredores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The best thing to
-	do is look ahead
-	then move forward.
+	Aperte "L" de novo
+	para parar de olhar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There should be a
-	door blocking your
-	path...
+	O melhor a se fazer
+	é observar a área de
+	antemão antes de seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There'll definitely
-	be buttons near
-	there,
+	Você encontrará
+	portas barrando
+	a sua passagem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and pressing all of
-	them will open the
-	door.
+	Perto delas,
+	haverá botões,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Take care and
-	good luck...
+	e, apertando eles,
+	as portas se abrirão.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... Vá com cuidado
+	e boa sorte...
 	"""
 	keyWait
 		any = false
@@ -217,9 +211,9 @@ script 2 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	It looks like things
-	are back to normal.
-	Thank goodness...
+	Parece que as coisas
+	voltaram ao normal.
+	Ainda bem...
 	"""
 	keyWait
 		any = false

@@ -4,14 +4,18 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	Mom left a strict
-	reminder on the
-	memo pad.
+	A mãe do Lan deixou
+	um lembrete agressivo
+	grudado na parede.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Change the roll if\n the toilet paper\n runs out!\""
+	"""
+	"Reponha o rolo
+	quando o papel
+	higiênico acabar!"
+	"""
 	keyWait
 		any = false
 	end
@@ -23,24 +27,24 @@ script 1 mmbn6 {
 		jumpIfFalse = 5
 	msgOpen
 	"""
-	This new house's
-	toilet is a high
-	efficiency model.
+	A privada desta nova
+	casa é um modelo de
+	alta eficiência.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It gets rid of nasty
-	mold,fills the air
-	with Minus Ions...
+	Ela mesma se livra de
+	mofo, enche o ar de
+	íons negativos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And even lets you
-	jack in!
+	E tem até entrada para
+	você se conectar nela!
 	"""
 	keyWait
 		any = false
@@ -49,9 +53,9 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	... Well,at least
-	changing the toilet
-	paper is easy...
+	... Bom, pelo menos
+	trocar o papel
+	higiênico é fácil...
 	"""
 	keyWait
 		any = false
@@ -60,16 +64,16 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	The window is just
-	a little too high,
+	A janela é um pouco
+	alta demais,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but if you stand on
-	your tiptoes,you
-	can see the garden.
+	mas, na pontinha dos
+	pés, Lan consegue ver
+	o jardim.
 	"""
 	keyWait
 		any = false
@@ -78,16 +82,17 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	The sink is still
-	brand_spanking new.
+	A pia ainda está
+	novinha, sem nenhum
+	sinal de uso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It almost seems like
-	a sin to use it and
-	dirty it up...
+	Parece até um pecado
+	começar a usá-la e
+	estragar isso...
 	"""
 	keyWait
 		any = false
@@ -96,17 +101,17 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	This new house's
-	toilet is a high
-	efficiency model.
+	A privada desta nova
+	casa é um modelo de
+	alta eficiência.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It gets rid of nasty
-	mold,and fills the
-	air with Minus Ions.
+	Ela mesma se livra de
+	mofo e enche o ar de
+	íons negativos.
 	"""
 	keyWait
 		any = false

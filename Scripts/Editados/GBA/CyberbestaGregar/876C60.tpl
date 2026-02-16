@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	msgOpen
-	"...Goodbye."
+	"... Tchau."
 	keyWait
 		any = false
 	end
@@ -19,8 +19,8 @@ script 20 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Time to feed the
-	crayfish...
+	Hora de alimentar
+	os lagostins...
 	"""
 	keyWait
 		any = false
@@ -30,49 +30,54 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Boy
 	msgOpen
-	"...Huh?"
-	keyWait
-		any = false
-	clearMsg
-	"\"I'm always looking\n at crayfish.\" ???"
+	"... Hã?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I am the
-	Biology teacher's
+	"Estou sempre de olho
+	nos lagostins"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	aide,so I do look
-	at them alot...
+	Bom, eu sou o assistente
+	do professor de Biologia,
+	sim,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I have no idea
-	what the answer is!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"...However..."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If it's always
-	looking at crayfish,
+	então tô sempre
+	olhando pra eles...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then it has to be
-	closeby!
+	mas eu nem faço ideia do
+	que isso aí tá falando!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"... Dito isso..."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se é uma coisa
+	que tá sempre de
+	olho nos lagostins,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	então tem que
+	tá por perto!
 	"""
 	keyWait
 		any = false
@@ -83,15 +88,15 @@ script 40 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	...Hey Lan!
-	Something happen?
+	... Fala, Lan!
+	Aconteceu alguma coisa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You look really
-	grim!!
+	Cê tá com uma
+	cara de enterro!
 	"""
 	keyWait
 		any = false
@@ -102,15 +107,15 @@ script 41 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	You're not really
-	the culprit,are you?
+	Você não é realmente
+	o culpado, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then who would do
-	something like this?
+	Mas quem faria
+	uma coisa dessas?
 	"""
 	keyWait
 		any = false
@@ -118,16 +123,16 @@ script 41 mmbn6 {
 }
 script 42 mmbn6 {
 	msgOpen
-	"*pant!*"
+	"Arf!"
 	wait
 		frames = 30
-	" *pant!*"
+	" Arf!"
 	wait
 		frames = 30
-	"\n*pant!*"
+	"\nUrf!"
 	wait
 		frames = 30
-	" *pant!*"
+	" Urf!"
 	controlUnlock
 	keyWait
 		any = false

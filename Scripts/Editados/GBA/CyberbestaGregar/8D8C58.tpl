@@ -6,15 +6,15 @@ script 0 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	This area grows
-	cyberradishes.
+	Nesta área crescem
+	cyber-rabanetes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	160 grams should
-	about do it!
+	160 gramas deve
+	ser o bastante!
 	"""
 	keyWait
 		any = false
@@ -27,14 +27,14 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Cyberradishes,
-	160 grams...
-	check!
+	Cyber-rabanetes,
+	160 gramas...
+	Positivo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ready,SlashMan!?"
+	"Pronto, SlashMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -45,7 +45,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Slash!"
+	"Fuinnnn!"
 	keyWait
 		any = false
 	end

@@ -11,17 +11,17 @@ script 0 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	I like to look at
-	flowers inside of
-	empty classrooms.
+	Eu gosto de ficar
+	olhando pras flores
+	de salas vazias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I get this feeling
-	that the flowers
-	will talk to me!
+	Fico com essa
+	sensação de que
+	elas vão falar comigo!
 	"""
 	keyWait
 		any = false
@@ -32,8 +32,8 @@ script 5 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	It's about time to
-	go home,huh...?
+	Acho que já tá na hora
+	de ir pra casa, né...?
 	"""
 	keyWait
 		any = false
@@ -44,24 +44,23 @@ script 40 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	I heard there was
-	a huge riot on the
-	Net recently.
+	Eu ouvi falar que teve
+	uma confusão das grandes
+	na Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm definitely not
-	going to use the
-	Net now!
+	Eu é que não vou
+	usar ela agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too scary!!
-	Way too scary!!
+	Dá medo demais!!
+	Medão!!
 	"""
 	keyWait
 		any = false
@@ -72,24 +71,23 @@ script 45 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	You went to
-	Green Town?
+	Você foi no
+	Distrito Verde?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When I grow up,
-	I really would like
-	to become a lawyer!
+	Quando eu crescer,
+	quero muito ser advogado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why you
-	should take me to
-	Green Town sometime!
+	Então você tem que
+	me levar no Distrito
+	Verde qualquer dia!
 	"""
 	keyWait
 		any = false

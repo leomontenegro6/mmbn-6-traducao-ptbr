@@ -6,15 +6,15 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... So this is
-	Undernet2...
+	... Então essa é
+	a Undernet 2...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	MegaMan,
-	be careful...
+	toma cuidado...
 	"""
 	keyWait
 		any = false
@@ -26,7 +26,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I will."
+	"Pode deixar."
 	keyWait
 		any = false
 	end
@@ -34,7 +34,7 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	mugshotHide
 	msgOpen
-	"HOLD IT RIGHT THERE!"
+	"PARADO AÍ!"
 	keyWait
 		any = false
 	clearMsg
@@ -43,7 +43,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huh!?"
+	"Hã?!"
 	keyWait
 		any = false
 	end
@@ -53,8 +53,8 @@ script 4 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	... YOU CAME
-	AFTER ALL.
+	... ENTÃO,
+	VOCÊ VEIO MESMO.
 	"""
 	keyWait
 		any = false
@@ -64,7 +64,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huh,what!?"
+	"... Hã, quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -75,30 +75,30 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"YOU'RE MEGAMAN..."
+	"VOCÊ É MEGAMAN..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE ONE WITH A
-	CYBEAST INSIDE HIS
-	BODY... RIGHT?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	WE ARE WORSHIPPERS
-	OF THE GREAT
-	CYBEASTS...
+	AQUELE QUE CONTÉM UMA
+	CYBERBESTA DENTRO DO
+	CORPO... NÃO É?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU MET A FEW OF OUR
-	FRIENDS A FEW DAYS
-	AGO...
+	NÓS SOMOS OS
+	DEVOTOS DAS GRANDES
+	CYBERBESTAS...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	VOCÊ SE DEPAROU COM
+	UM DOS MEUS IRMÃOS
+	UNS DIAS ATRÁS...
 	"""
 	keyWait
 		any = false
@@ -111,16 +111,16 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Cybeast...
-	Worshippers?...
+	Devotos...
+	das Cyberbestas...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You guys are friends
-	with those guys that
-	took Mick's Navi!?
+	Você é amigo daqueles
+	caras que pegaram o
+	Navi do Mick?!
 	"""
 	keyWait
 		any = false
@@ -132,22 +132,21 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"... HAHAHA."
+	"... HA HA HA."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LOOKS LIKE THE
-	GREAT "HEAD PRIEST"
-	WAS RIGHT.
+	PARECE QUE O GRANDE
+	"SUMO SACERDOTE"
+	TINHA RAZÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU SHOWED UP RIGHT
-	WHERE HE SAID YOU
-	WOULD.
+	VOCÊ APARECEU BEM NO
+	LUGAR QUE ELE PREVIU.
 	"""
 	keyWait
 		any = false
@@ -160,9 +159,9 @@ script 9 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Priest"...?
-	"Said we would"...?
-	What are you...?
+	"Sacerdote"...?
+	"Lugar que previu"...?
+	Mas que conversa é...?
 	"""
 	keyWait
 		any = false
@@ -175,17 +174,17 @@ script 10 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	DOING WHAT OUR GREAT
-	PRIEST HAS TOLD US
-	TO DO,
+	FAZENDO O QUE NOSSO
+	SUMO SACERDOTE NOS
+	ORDENOU,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE WILL NOW
-	AWAKEN THE CYBEAST
-	INSIDE YOUR NAVI.
+	IREMOS AGORA DESPERTAR
+	A CYBERBESTA DENTRO
+	DO SEU NAVI.
 	"""
 	keyWait
 		any = false
@@ -198,14 +197,14 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is bad! They're
-	trying to cast some
-	strange spell again!
+	Essa não! Eles tão
+	lançando algum feitiço
+	esquisito de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Run,MegaMan!"
+	"Sai daí, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -216,7 +215,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"YOU WON'T GET AWAY!"
+	"NÃO VAI FUGIR!"
 	keyWait
 		any = false
 	end
@@ -279,7 +278,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"N_No!!"
+	"N-não!!"
 	keyWait
 		any = false
 	clearMsg
@@ -291,9 +290,9 @@ script 18 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	IT'S TIME!
-	SHOW US THE
-	CYBEAST'S POWER!!
+	É CHEGADA A HORA!
+	MOSTRE-NOS O PODER
+	DA CYBERBESTA!!
 	"""
 	keyWait
 		any = false
@@ -308,8 +307,8 @@ script 19 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	Hold it!
-	Choo,choooo!
+	Pode parar!
+	Tchú-tchúúú!
 	"""
 	soundStop
 	keyWait
@@ -324,29 +323,30 @@ script 20 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	All of ya against 1
-	little guy? That's
-	not really fair!
+	Todos vocês contra um
+	só passageiro? Isso não
+	é nada justo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't ya listen to
-	the announcements on
-	trains!?
+	Nunca ouviram os
+	anúncios no trem?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Remember to be\n courteous to others\n onboard!\""
+	"""
+	"Sempre mostre educação
+	aos demais passageiros!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So where are YOUR
-	manners!?
-	Choo,choo!!
+	Cadê os SEUS modos?!
+	Tchú-tchúú!!
 	"""
 	keyWait
 		any = false
@@ -359,16 +359,15 @@ script 21 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	WHAT IN THE
-	WORLD...?
+	MAS O QUE...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU JUST TRY TO STOP
-	US! YOU'LL SEE WHAT
-	HAPPENS...
+	TENTE NOS PARAR,
+	ENTÃO! VAI VER O
+	QUE ACONTECE...
 	"""
 	keyWait
 		any = false
@@ -381,31 +380,29 @@ script 22 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	I'll see what
-	happens?
+	Eu vou, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's what I was
-	going to say!
+	Essa fala é minha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ya guys that bother
-	the other passengers
-	all the time...
+	Vocês só sabem
+	perturbar os demais
+	passageiros...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll deal with ya
-	in the usual way __
-	by charging ya!
+	E com gente assim, eu
+	só faço uma coisa...
+	atropelo!
 	"""
 	keyWait
 		any = false
@@ -417,7 +414,7 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Crazy Locomotive!!"
+	"Locomotiva Maluca!!"
 	keyWait
 		any = false
 	end
@@ -429,7 +426,7 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"... GWAAAAAH!!"
+	"... GUAAAAAH!!"
 	keyWait
 		any = false
 	end
@@ -441,7 +438,7 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Choo,choo!!"
+	"Tchú-tchúú!!"
 	keyWait
 		any = false
 	clearMsg
@@ -452,7 +449,7 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"W_Wow...!"
+	"C-caramba...!"
 	keyWait
 		any = false
 	clearMsg
@@ -464,14 +461,14 @@ script 27 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	OOGH... A LITTLE
-	MORE... WE... THE
-	CYBEAST...
+	OUGH... SÓ MAIS UM
+	POUCO E... NÓS...
+	A CYBERBESTA...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"DRAT!"
+	"DROGA!"
 	keyWait
 		any = false
 	end
@@ -487,16 +484,16 @@ script 28 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	... Are you alright?
-	Are you hurt?
+	... Você tá bem?
+	Se machucou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are bad Navis
-	around here...
-	Best to take care.
+	Tem uns Navis mó
+	cretinos por aqui...
+	É bom tomar cuidado.
 	"""
 	keyWait
 		any = false
@@ -509,9 +506,9 @@ script 29 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Ah! Um... Didn't
-	I see you during the
-	opening ceremony?
+	... Ah! Hum... A gente
+	não se viu durante a
+	cerimônia de abertura?
 	"""
 	keyWait
 		any = false
@@ -523,13 +520,13 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = AlFerry
 	msgOpen
-	"The name's Al Ferry."
+	"O meu nome é Al Ferry."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This here Navi's
-	ChargeMan.
+	E este Navi aqui
+	é o ChargeMan.
 	"""
 	keyWait
 		any = false
@@ -541,13 +538,13 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm Lan Hikari."
+	"Lan Hikari."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks for rescuing
-	MegaMan!
+	Valeu mesmo por
+	salvar o MegaMan!
 	"""
 	keyWait
 		any = false
@@ -560,24 +557,24 @@ script 32 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	... You're here for
-	the MoonStone,too,
-	huh?
+	... Você tá aqui atrás
+	da Pedra da Lua também,
+	né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,but I can't
-	help you,I'm afraid.
+	Desculpa, mas eu
+	não posso te ajudar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No hard feelings,but
-	I'm going to do what
-	I have to do to win.
+	Sem ofensa, mas vou
+	fazer o que for preciso
+	pra vencer.
 	"""
 	keyWait
 		any = false
@@ -589,7 +586,7 @@ script 33 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I understand."
+	"Eu entendo."
 	keyWait
 		any = false
 	clearMsg
@@ -601,7 +598,7 @@ script 34 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	... Well,let's go,
+	... Bom, vamos lá,
 	ChargeMan.
 	"""
 	keyWait
@@ -615,8 +612,8 @@ script 35 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	All aboard!
-	Full speed ahead!
+	Todos a bordo!
+	Velocidade máxima!
 	"""
 	keyWait
 		any = false
@@ -626,8 +623,7 @@ script 36 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	Hold on there,
-	buddy!!
+	Pode parar, amigão!!
 	"""
 	soundStop
 	keyWait
@@ -639,9 +635,9 @@ script 37 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Don't you know it's
-	not smart to pick on
-	the 1 little guy!?
+	Não sabia que é muita
+	canalhice ficar de
+	marcação com um baixinho?
 	"""
 	keyWait
 		any = false
@@ -654,16 +650,15 @@ script 38 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	WHAT IN THE
-	WORLD...?
+	MAS O QUE...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU JUST TRY TO STOP
-	US! YOU'LL SEE WHAT
-	HAPPENS...
+	TENTE NOS PARAR,
+	ENTÃO! VAI VER O
+	QUE ACONTECE...
 	"""
 	keyWait
 		any = false
@@ -676,16 +671,15 @@ script 39 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	I'll see what
-	happens?
+	Ah, eu vou, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gahahahaha!! You
-	took the words right
-	out of my mouth!
+	Ga ha ha ha ha!!
+	Cê tirou as palavras
+	da minha boca!
 	"""
 	keyWait
 		any = false
@@ -697,7 +691,7 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	msgOpen
-	"Dust Break!"
+	"Quebra-Pó!"
 	keyWait
 		any = false
 	end
@@ -706,7 +700,7 @@ script 41 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"... GWAAAAAH!!"
+	"... GUAAAAAH!!"
 	keyWait
 		any = false
 	end
@@ -726,7 +720,7 @@ script 43 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"W_Wow!"
+	"C-caramba!"
 	keyWait
 		any = false
 	clearMsg
@@ -738,14 +732,14 @@ script 44 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	OOGH... A LITTLE
-	MORE... WE... THE
-	CYBEAST...
+	OUGH... SÓ MAIS UM
+	POUCO E... NÓS...
+	A CYBERBESTA...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"DRAT!"
+	"DROGA!"
 	keyWait
 		any = false
 	end
@@ -757,22 +751,22 @@ script 45 mmbn6 {
 	soundFadeInBGM
 		track = 20
 		length = 10
-	"... Hey,you OK?"
+	"... Ei, você tá bem?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,there are some
-	really nasty Navis
-	around here.So yeah.
+	Pois é, tem uns Navis
+	bem cretinos por aqui.
+	Aí... já viu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Hey,don't tell
-	me you forgot who I
-	am already!?
+	... Pera, não vai
+	dizer que já esqueceu
+	quem eu sou?!
 	"""
 	keyWait
 		any = false
@@ -785,9 +779,9 @@ script 46 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Ah! Um... Didn't
-	I see you during the
-	opening ceremony?
+	... Ah! Hum... A gente
+	não se viu durante a
+	cerimônia de abertura?
 	"""
 	keyWait
 		any = false
@@ -800,16 +794,15 @@ script 47 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	Ie_yes!!
-	I am Mr.Press!
+	Aaahaam!!
+	Sou o Sr. Press!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And my Navi is
-	DustMan,don't you
-	forget it.
+	E o meu Navi é o DustMan.
+	Não vá esquecer.
 	"""
 	keyWait
 		any = false
@@ -821,13 +814,13 @@ script 48 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm Lan Hikari."
+	"Lan Hikari."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks for rescuing
-	MegaMan!
+	Valeu mesmo por
+	salvar o MegaMan!
 	"""
 	keyWait
 		any = false
@@ -840,25 +833,24 @@ script 49 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	I bet you're here
-	for the MoonStone,
-	too.
+	Aposto que você tá
+	aqui atrás da Pedra
+	da Lua também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like we're
-	rivals after the
-	same thing,then...
+	Então acho que somos
+	rivais atrás de uma
+	mesma coisa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give it all you got
-	and have no regrets,
-	OK!?
+	Dê tudo de si pra não ter
+	arrependimentos, viu?!
 	"""
 	keyWait
 		any = false
@@ -882,8 +874,7 @@ script 51 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	... Let's go,
-	DustMan.
+	... Vamos lá, DustMan.
 	"""
 	keyWait
 		any = false
@@ -895,7 +886,7 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	msgOpen
-	"Yeah!!"
+	"É!!"
 	keyWait
 		any = false
 	end
@@ -905,9 +896,8 @@ script 53 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	All the Navis that
-	are in the finals
-	sure are strong.
+	Todos os Navis nas
+	finais são fortes mesmo.
 	"""
 	keyWait
 		any = false
@@ -919,29 +909,30 @@ script 54 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,that's true..."
+	"Pode crer..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But what did those
-	guys earlier mean by
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	"priest" and him
-	"telling them" and
-	the other stuff...?
+	Mas do que aqueles
+	caras tavam falando
+	antes, com aquele papo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,for now,let's
-	be careful and keep
-	on going!
+	de "sacerdote" e dele
+	ter "previsto" e não
+	sei o que mais...?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... Enfim, por enquanto,
+	bora só tomar cuidado
+	e seguir adiante!
 	"""
 	keyWait
 		any = false

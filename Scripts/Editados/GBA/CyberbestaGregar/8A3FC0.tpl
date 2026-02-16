@@ -16,9 +16,9 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HEEEEY!!
-	THIS IS A REEEALLY
-	BIIIIG STORM!
+	EEEEEI!!
+	ESTA É UMA TEMPESTADE
+	DAS GRAAANDEEEES!
 	"""
 	keyWait
 		any = false
@@ -26,9 +26,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	What's causing the
-	weather mess_up
-	around here!?
+	O que tá causando
+	essa confusão toda
+	no tempo aqui?!
 	"""
 	keyWait
 		any = false
@@ -36,37 +36,37 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	A TYPHOON VIRUS THAT
-	UP AND INVADED!
+	UM VÍRUS TUFÃO NOS
+	INVADIU DO NADA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT VIRUS IS WHAT'S
-	CAUSING THIS HARD
-	DOWNPOUR,
+	É ESSE VÍRUS QUE
+	TÁ CAUSANDO ESSA
+	CHUVARADA TODA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND THAT GIANT RAIN
-	CLOUD TO BLOCK UP
-	THE ROAD.
+	ALÉM DAQUELA NUVEM D
+	DE CHUVA GIGANTE
+	BARRANDO A ESTRADA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HOW RUDE!"
+	"GROSSO, ELE!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Isn't there some
-	way to fix this?
+	Não tem nenhum jeito
+	de consertar isso?
 	"""
 	keyWait
 		any = false
@@ -78,25 +78,25 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	7 PIECES OF RAINBOW
-	DATA ARE SCATTERED
-	IN THIS AREA.
+	HÁ SETE PARTES
+	DE DADOS ARCO-ÍRIS
+	ESPALHADAS NESTA ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU COLLLECT THEM
-	ALL,YOU COULD USE
-	"RAINBOW POWER".
+	SE COLETAR TODAS,
+	VOCÊ PODERÁ USAR O
+	"PODER ARCO-ÍRIS".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WITH THAT POWER,YOU
-	COULD SURROUND THE
-	TYPHOON VIRUS...
+	COM ELE, VOCÊ SERÁ
+	CAPAZ DE CERCAR O
+	VÍRUS TUFÃO...
 	"""
 	keyWait
 		any = false
@@ -104,16 +104,14 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Surround the
-	typhoon with
-	Rainbow Power...
+	Cercar o tufão com
+	Poder Arco-Íris...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,I'll give it a
-	try!
+	Tá, eu vou tentar!
 	"""
 	keyWait
 		any = false
@@ -121,77 +119,74 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	R_REALLY?
-	OH,THANK YOU
-	SO VERY MUCH!
+	É-É MESMO?
+	AH, MUITO OBRIGADO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... UM,THE RAINBOW
-	DATA IS SCATTERED
-	IN THE UPPER AREA.
+	... HM, OS DADOS ARCO-
+	ÍRIS ESTÃO ESPALHADOS
+	NO PISO SUPERIOR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU FOLLOW THE
-	PATH THAT'S BESIDE
-	ME,
+	SE SEGUIR O CAMINHO
+	ABAIXO DE MIM,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE'S A CLOUD YOU
-	CAN STAND AND MOVE
-	AROUND ON.
+	ACHARÁ UM NUVEM EM QUE
+	VOCÊ PODE MONTAR PARA
+	SE LOCOMOVER.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU RIDE ON THAT,
-	YOU CAN MOVE AROUND
-	IN THE UPPER AREA!
+	NELA, VOCÊ PODERÁ
+	CIRCULAR PELO
+	PISO SUPERIOR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT THE CLOUD IS
-	VERY FRAGILE.
+	MAS A NUVEM É
+	ULTRA FRÁGIL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF IT'S HIT BY 3
-	STRONG ATTACKS,IT
-	WILL DISAPPEAR,
+	SE FOR ATINGIDA POR
+	TRÊS ATAQUES FORTES,
+	ELA DESAPARECERÁ,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO PLEASE BE
-	CAREFUL!
+	ENTÃO, POR FAVOR,
+	TOME CUIDADO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Got it!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Alright,let's
-	give the cloud a
-	try!
+	... Beleza, bora lá dar
+	uma volta naquela nuvem!
 	"""
 	keyWait
 		any = false
@@ -202,55 +197,55 @@ script 1 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	7 PIECES OF RAINBOW
-	DATA ARE SCATTERED
-	IN THIS AREA.
+	HÁ SETE PARTES DE
+	DADOS ARCO-ÍRIS
+	ESPALHADAS NESTA ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU COLLECT THEM
-	ALL,YOU COULD USE
-	"RAINBOW POWER",AND
+	SE COLETAR TODAS,
+	VOCÊ PODERÁ USAR
+	O "PODER ARCO-ÍRIS"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SURROUND THE TYPHOON
-	VIRUS WITH IT.
+	E CERCAR O VÍRUS
+	TUFÃO COM ELE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU DO THAT,IT
-	SHOULD GET RID OF
-	THE TYPHOON VIRUS.
+	SE O FIZER, ISSO
+	DEVERÁ ELIMINAR O
+	VÍRUS TUFÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN USE A CLOUD
-	TO MOVE AROUND IN
-	THE UPPER AREA,BUT
+	VOCÊ PODE USAR UMA
+	NUVEM PARA CIRCULAR
+	PELO PISO CUPERIOR,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF IT IS HIT BY 3
-	STRONG ATTACKS,IT
-	WILL DISAPPEAR,
+	MAS, SE FOR ATINGIDA
+	POR 3 ATAQUES FORTES,
+	ELA DESAPARECERÁ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO PLEASE BE
-	CAREFUL!
+	ENTÃO, POR FAVOR,
+	TOME CUIDADO!
 	"""
 	keyWait
 		any = false
@@ -261,22 +256,16 @@ script 2 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE'S ANOTHER
-	TYPHOON VIRUS
+	HÁ OUTRO VÍRUS TUFÃO
+	CAUSANDO CONFUSÃO NA
+	ÁREA SEGUINTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MAKING A MESS IN
-	THE NEXT AREA!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	PLEASE BE CAREFUL,
-	OK!?
+	POR FAVOR, TOME
+	CUIDADO, VIU?!
 	"""
 	keyWait
 		any = false

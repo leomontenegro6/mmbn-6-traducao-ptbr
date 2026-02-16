@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The flames are gone!
-	Thanks,Lan!
+	O fogo apagou!
+	Valeu, Lan!
 	"""
 	keyWait
 		any = false
@@ -20,8 +20,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You should thank
-	Mick's Navi.
+	Você tem que agradecer
+	é ao Navi do Mick.
 	"""
 	keyWait
 		any = false
@@ -33,27 +33,26 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviMick
 	msgOpen
-	"Hmph,whatever..."
+	"Hmpf, tá, tá..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wasn't trying
-	to help MegaMan out.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Anyway,go get
-	BlastMan for me!
+	Eu não fiz isso pra
+	ajudar o MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All of this is
-	his fault!
+	Enfim, acaba aí com
+	o BlastMan pra mim!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tudo isso é culpa dele!
 	"""
 	keyWait
 		any = false
@@ -65,7 +64,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You got it!!"
+	"Pode deixar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -77,7 +76,7 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's up to you,
+	Agora é com você,
 	MegaMan!
 	"""
 	keyWait
@@ -90,7 +89,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!"
+	"Entendido!!"
 	keyWait
 		any = false
 	end

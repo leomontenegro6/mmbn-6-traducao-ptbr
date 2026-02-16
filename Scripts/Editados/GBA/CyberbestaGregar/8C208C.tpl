@@ -7,15 +7,15 @@ script 0 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"たI'm really here...!"
+	"たEu tô mesmo aqui...!"
 	keyWait
 		any = false
 	clearMsg
-	" My new classroom,\n and classmates..."
+	" A minha nova sala,\n com novos colegas..."
 	keyWait
 		any = false
 	clearMsg
-	" *gulp*\n I'm so nervous...ち"
+	" Glup...\n Tô tão nervoso...ち"
 	keyWait
 		any = false
 	end
@@ -24,14 +24,14 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"Everyone!!"
+	"Crianças!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Like I said,starting
-	today,we have a new
-	student!!
+	Como eu avisei antes,
+	temos sangue novo na
+	classe hoje!!
 	"""
 	keyWait
 		any = false
@@ -43,8 +43,8 @@ script 2 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	*chatter,chatter*...
-	...*whisper,whisper*
+	Blá, Blá, Blá...
+	... Zum, Zum...
 	"""
 	keyWait
 		any = false
@@ -52,25 +52,25 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Girl
 	"""
-	I wonder what
-	they're like?
+	Como será que
+	é a pessoa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
-	"Is it a guy?"
+	"Será que é menino?"
 	keyWait
 		any = false
 	clearMsg
-	"Or maybe a girl?"
+	"Ou menina?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Boy
-	"Ah,I can't wait!"
+	"Ah, tô doido pra ver!"
 	keyWait
 		any = false
 	clearMsg
@@ -81,7 +81,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"...... Hmph!"
+	"...... Hmpf!"
 	keyWait
 		any = false
 	clearMsg
@@ -92,13 +92,12 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"Ok,now settle down!"
+	"Tá bom, molecada,\nabaixa essa bola!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,come on
-	in,Lan!!
+	Vem, pode entrar, Lan!
 	"""
 	keyWait
 		any = false
@@ -109,8 +108,8 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm L_Lan H_Hikari!
-	Nice to meet you!!
+	Eu sou L-Lan Hikari!
+	Muito prazer!!
 	"""
 	keyWait
 		any = false
@@ -121,7 +120,7 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*clap,clap,clap*..."
+	"Clap Clap Clap..."
 	keyWait
 		any = false
 	clearMsg
@@ -133,8 +132,9 @@ script 7 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Hmm,that was a nice,
-	energetic greeting!
+	Ótimo, uma apresentação
+	amigável e cheia de
+	ânimo!
 	"""
 	keyWait
 		any = false
@@ -142,42 +142,42 @@ script 7 mmbn6 {
 	soundPlayBGM
 		track = 5
 	"""
-	He's quite the
-	fearless guy!
+	Tá aí um cara destemido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can tell he has a
-	lot of faith in his
-	NetBattling skills!
+	Dá pra ver que ele tem
+	muita fé nas habilidades
+	de NetLuta dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But! Reckless
-	NetBattling is a
-	no_no!
+	Porém!
+	NetLutas desenfreadas
+	são proibidas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So let's play nice
-	and be good friends!
+	Quero todo mundo aqui
+	na paz e sendo bons
+	amigos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now,then..."
+	"Enfim..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,your seat...
-	is over there.
+	Lan, a sua carteira...
+	é aquela ali.
 	"""
 	keyWait
 		any = false
@@ -187,13 +187,13 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"Right behind Mick."
+	"Atrás do Mick."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,Mick,try to be
-	nice,OK!?
+	Ô, Mick, seja
+	agradável, viu?!
 	"""
 	keyWait
 		any = false
@@ -206,21 +206,21 @@ script 8 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrMach
-	"His name's Mick."
+	"Aquele é Mick Aragaki."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's a little
-	grouchy,but he's
-	not a bad guy.
+	Meio marrento, mas
+	gente fina, no fundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's all. You can
-	sit down now,Lan.
+	Isso é tudo.
+	Já pode ir para
+	o seu lugar, Lan.
 	"""
 	keyWait
 		any = false
@@ -232,7 +232,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK."
+	"Tá bom."
 	keyWait
 		any = false
 	end
@@ -243,7 +243,7 @@ script 10 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"... *eye roll*"
+	"... Hf."
 	keyWait
 		any = false
 	soundPlayBGM
@@ -255,8 +255,8 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm Lan Hikari.
-	N_Nice to meet you!
+	Eu sou Lan Hikari.
+	M-muito prazer!
 	"""
 	keyWait
 		any = false
@@ -272,7 +272,7 @@ script 12 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"...... Hmph!"
+	"...... Hmpf!"
 	keyWait
 		any = false
 	clearMsg
@@ -285,13 +285,13 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Eh,heh heh heh..."
+	"Ê he he he he..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"たW_What's with him!?\n I've got a bad\n feeling...ち"
+	"たQ-qual é a dele?!\n Eu tô com um mau\n pressentimento aqui...ち"
 	keyWait
 		any = false
 	end
@@ -302,11 +302,11 @@ script 14 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"たBoy,that was\n scary..."
+	"たCara, isso deu\n tanto medo..."
 	keyWait
 		any = false
 	clearMsg
-	" but it'd be nice\n if we could\n be friends...ち"
+	" mas seria legal a\n gente poder ser amigo...ち"
 	keyWait
 		any = false
 	soundFadeOut
@@ -322,16 +322,16 @@ script 15 mmbn6 {
 	controlLock
 	soundPlay
 		track = 375
-	"*ding,"
+	"Bim"
 	wait
 		frames = 42
-	"dong,"
+	" Bom "
 	wait
 		frames = 40
-	"ding,"
+	"Bim "
 	wait
 		frames = 40
-	"dong*"
+	"Bom"
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -347,27 +347,26 @@ script 16 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Oh,it's already
-	break time!
+	Opa, já tá na
+	hora do intervalo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,next period is
-	Virus Busting!
+	OK, a próxima aula vai
+	ser Deleção de Vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did anyone forget to
-	bring their Navi?
+	Alguém esqueceu o Navi?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Wow,no one!?"
+	"... Nossa, ninguém?!\nQue milagre!"
 	keyWait
 		any = false
 	clearMsg
@@ -376,7 +375,7 @@ script 16 mmbn6 {
 }
 script 17 mmbn6 {
 	msgOpen
-	"Wahahahahahahahaha!"
+	"Aah ha ha ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
@@ -386,28 +385,26 @@ script 17 mmbn6 {
 script 18 mmbn6 {
 	mugshotShow
 		mugshot = Lan
-	mugshotAnimation
-		animation = 1
 	msgOpen
 	"""
-	Mr.Mach seems like
-	he can do anything.
-	...... Maybe.
+	O Sr. Mach parece do
+	tipo que resolve qualquer
+	parada... Talvez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My first recess.
-	Guess I should go
-	talk with everyone.
+	Meu primeiro recreio...
+	Acho que eu vou falar
+	com o pessoal da turma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Talk about nerve_
-	wracking.
+	Apesar de tá
+	puro nervosismo...
 	"""
 	keyWait
 		any = false

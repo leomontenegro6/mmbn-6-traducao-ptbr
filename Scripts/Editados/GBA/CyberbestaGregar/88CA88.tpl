@@ -11,8 +11,7 @@ script 0 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Ahh! Don't go over
-	there yet!
+	Ahh! Não entre aí ainda!
 	"""
 	keyWait
 		any = false
@@ -28,8 +27,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,this isn't the
-	right way,is it?
+	Lan, não é pra aí que
+	a gente tem que ir, é?
 	"""
 	keyWait
 		any = false
@@ -38,8 +37,7 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	The elevator is
-	stopped...
+	O elevador parou...
 	"""
 	keyWait
 		any = false
@@ -48,8 +46,7 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	The elevator won't
-	move...
+	O elevador não se mexe...
 	"""
 	keyWait
 		any = false
@@ -70,8 +67,8 @@ script 5 mmbn6 {
 	flagSet
 		flag = 4397
 	"""
-	I'm looking for a
-	"
+	Estou atrás de um
+	chip "
 	"""
 	printChip
 		buffer = 0
@@ -81,17 +78,13 @@ script 5 mmbn6 {
 		buffer = 0
 		code = I
 	"""
-	" chip
-	to give as a gift.
+	"
+	para dar de presente.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	If you've got one,
-	would you like to
-	trade for a
-	"""
+	"Se tiver um, aceitaria\ntrocá-lo por um\n"
 	keyWait
 		any = false
 	clearMsg
@@ -103,7 +96,7 @@ script 5 mmbn6 {
 	printCode
 		buffer = 0
 		code = O
-	"\"!"
+	"\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -118,7 +111,7 @@ script 5 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure  "
+	" Tá  "
 	option
 		brackets = 0
 		left = 0
@@ -127,7 +120,7 @@ script 5 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -141,7 +134,7 @@ script 5 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabWoman
-	"That's too bad..."
+	"Que pena..."
 	keyWait
 		any = false
 	end
@@ -151,8 +144,8 @@ script 6 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I'm looking for a
-	"
+	Estou atrás de um
+	chip "
 	"""
 	printChip
 		buffer = 0
@@ -162,16 +155,14 @@ script 6 mmbn6 {
 		buffer = 0
 		code = I
 	"""
-	" chip
-	to give as a gift.
+	"
+	para dar de presente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you've got one,
-	would you like to
-	trade for a
+	"Se tiver um, aceitaria\ntrocá-lo por um\n"
 	"""
 	keyWait
 		any = false
@@ -184,7 +175,7 @@ script 6 mmbn6 {
 	printCode
 		buffer = 0
 		code = O
-	"\"!"
+	"\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -199,7 +190,7 @@ script 6 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure  "
+	" Tá  "
 	option
 		brackets = 0
 		left = 0
@@ -208,7 +199,7 @@ script 6 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -222,7 +213,7 @@ script 6 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabWoman
-	"That's too bad..."
+	"Que pena..."
 	keyWait
 		any = false
 	end
@@ -238,7 +229,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Awesome! Thanks!"
+	"Que maravilha! Obrigada!"
 	keyWait
 		any = false
 	clearMsg
@@ -254,7 +245,7 @@ script 7 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printChip
@@ -273,8 +264,8 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	My friend is going
-	to be very happy!
+	A minha amiga vai
+	ficar tão feliz!
 	"""
 	keyWait
 		any = false
@@ -287,8 +278,8 @@ script 8 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Huh...?
-	You don't have one?
+	Ué...?
+	Você não tem?
 	"""
 	keyWait
 		any = false
@@ -299,9 +290,9 @@ script 9 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Thanks so much!
-	My friend is going
-	to be so happy!
+	Muito obrigada!
+	A minha amiga vai
+	ficar tão feliz!
 	"""
 	keyWait
 		any = false

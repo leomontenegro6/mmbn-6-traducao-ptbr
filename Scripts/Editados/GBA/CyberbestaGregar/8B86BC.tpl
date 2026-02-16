@@ -6,17 +6,25 @@ script 0 mmbn6 {
 		flag = 1359
 	msgOpen
 	"""
-	There is a recording
-	playing.
+	Uma gravação está
+	sendo reproduzida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The alligator is a\n reptile that lives\n on land and"
+	"""
+	"O jacaré é um réptil
+	 que vive tanto na terra
+	 quanto na água.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" in water. It mostly\n lives in warm to\n tropical areas.\""
+	"""
+	 A maioria vive
+	 em áreas mornas
+	 ou tropicais."
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -84,21 +92,33 @@ script 1 mmbn6 {
 		flag = 1360
 	msgOpen
 	"""
-	There is a recording
-	playing.
+	Uma gravação está
+	sendo reproduzida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The elephant seal\n has the largest\n body of all seals."
+	"""
+	"O elefante-marinho
+	 é a foca de maior
+	 corpo do mundo.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" It's name comes\n the fact that when\n male elephant seals"
+	"""
+	 O nome advém do fato de
+	 que, quando elefantes-
+	 marinhos assopram com o
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" trumpet from their\n noses,they sound\n like elephants.\""
+	"""
+	 nariz, o som que
+	 emitem é semelhante
+	 ao dos elefantes."
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -166,21 +186,32 @@ script 2 mmbn6 {
 		flag = 1361
 	msgOpen
 	"""
-	There is a recording
-	playing.
+	Uma gravação está
+	sendo reproduzida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Penguins are birds,\n however,their wings"
+	"""
+	"Pinguins são aves,
+	 porém, as asas deles
+	 se tornaram inviáveis
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" have become useless\n for flying,and\n act more like fins."
+	"""
+	 para o voo, e servem
+	 mais como barbatanas.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" It's possible they\n used to fly a very\n long time ago.\""
+	"""
+	 É possível que, num
+	 passado distante, eles
+	 fossem capazes de voar."
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -248,21 +279,29 @@ script 3 mmbn6 {
 		flag = 1362
 	msgOpen
 	"""
-	There is a recording
-	playing.
+	Uma gravação está
+	sendo reproduzida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"There are 300 to\n 400 kinds of sharks\n in the world."
+	"""
+	"Existem de 300 a 400
+	 espécies de tubarão no
+	 mundo.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" \"Shark fin soup\" is\n a famous food that\n really has sharks'"
+	"""
+	 Há um prato famoso
+	 que realmente contém
+	 tubarões no preparo:
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" fins in it!\""
+	" a sopa de barbatana\n de tubarão!\""
 	keyWait
 		any = false
 	clearMsg
@@ -330,21 +369,29 @@ script 4 mmbn6 {
 		flag = 1363
 	msgOpen
 	"""
-	There is a recording
-	playing.
+	Uma gravação está
+	sendo reproduzida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Dolphins are in\n actuality,related\n to whales."
+	"""
+	"Os golfinhos,
+	 na verdade, são
+	 parentes das baleias.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Dolphins are less\n than 12 feet long,"
+	"""
+	 Golfinhos medem
+	 menos de 4 metros
+	 de comprimento,
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" while anything over\n that is considered\n a whale.\""
+	" e tudo acima disso é\n considerado uma baleia.\""
 	keyWait
 		any = false
 	clearMsg
@@ -413,21 +460,21 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wow!"
+	"Caramba!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are all sorts
-	of things that live
-	in the water!
+	Existe mesmo todo
+	o tipo de coisa
+	vivendo na água!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I could stare at
-	them all day!
+	Eu podia ficar olhando
+	pra elas o dia todo!
 	"""
 	keyWait
 		any = false
@@ -437,7 +484,7 @@ script 5 mmbn6 {
 	controlLock
 	soundPlay
 		track = 335
-	"*ding,dong,\n    ding,doooong*"
+	"Dim Dom\n    Dim Doooom"
 	wait
 		frames = 98
 	soundEnableTextSFX
@@ -447,29 +494,28 @@ script 5 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Oh,an announcement!"
+	"Ah, um anúncio!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Attention all
-	visitors.
+	Atenção, visitantes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Dolphin and
-	Seal's Show will
-	begin shortly.
+	O Show do Golfinho
+	e da Foca está
+	prestes a começar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We hope to see you
-	there!
+	Esperamos ver
+	todos vocês lá!
 	"""
 	keyWait
 		any = false
@@ -477,15 +523,15 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sounds like there's
-	a show!
+	Parece que vai
+	ter um show!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It might be fun!
-	Let's check it out!
+	Pode ser divertido!
+	Bora lá ver!
 	"""
 	keyWait
 		any = false
@@ -502,24 +548,23 @@ script 7 mmbn6 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	There is a large
-	monitor installed
-	into the wall here.
+	Há um enorme monitor
+	instalado nessa parede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A short movie,
-	"Mysteries of the
-	 Deep" is showing.
+	Está exibindo um curta
+	chamado "Mistérios das
+	Profundezas".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can jack in to
-	the monitor!
+	É possível se
+	conectar no monitor!
 	"""
 	keyWait
 		any = false
@@ -527,7 +572,9 @@ script 7 mmbn6 {
 }
 script 8 mmbn6 {
 	msgOpen
-	"\"This way to the\n show stage!\""
+	"""
+	"Palco do show, por aqui!"
+	"""
 	keyWait
 		any = false
 	end
@@ -535,17 +582,17 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	There is a bench
-	next to these three
-	vending machines.
+	Há um banco ao
+	lado dessas três
+	máquinas de bebidas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The bench is for
-	people when they
-	need to take a rest.
+	Ele é para quando
+	os visitantes querem
+	fazer uma pausa.
 	"""
 	keyWait
 		any = false
@@ -578,17 +625,24 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	msgOpen
 	"""
-	It's the monitor's
-	speaker.
+	É o alto-falante
+	do monitor.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The sea is the\n mother of all\n living things..."
+	"""
+	"O oceano é a mãe de
+	 todos os seres vivos...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" All 7 continents\n are surrounded by\n the oceans...\""
+	"""
+	 Todos os sete
+	 continentes são
+	 cercados por mar."
+	"""
 	keyWait
 		any = false
 	end
@@ -596,16 +650,16 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	msgOpen
 	"""
-	The image on the
-	monitor is a mess.
+	A imagem no monitor
+	está toda bagunçada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems to be
-	broken. You also
-	can't jack in.
+	Parece estar quebrado.
+	Não dá para se conectar
+	nele.
 	"""
 	keyWait
 		any = false
@@ -614,17 +668,17 @@ script 13 mmbn6 {
 script 14 mmbn6 {
 	msgOpen
 	"""
-	There is a bench
-	next to these three
-	vending machines.
+	Há um banco ao
+	lado dessas três
+	máquinas de bebidas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The bench is for
-	people when they
-	need to take a rest.
+	Ele é para quando
+	os visitantes querem
+	fazer uma pausa.
 	"""
 	keyWait
 		any = false
@@ -633,17 +687,16 @@ script 14 mmbn6 {
 script 15 mmbn6 {
 	msgOpen
 	"""
-	You can see the
-	dolphins underwater
-	from here.
+	Dá para ver os golfinhos
+	debaixo d'água aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Their beauty makes
-	it easy to lose
-	track of time.
+	A beleza deles faz
+	as horas passarem sem
+	a gente nem perceber.
 	"""
 	keyWait
 		any = false
@@ -652,9 +705,8 @@ script 15 mmbn6 {
 script 16 mmbn6 {
 	msgOpen
 	"""
-	The dolphins are
-	missing from their
-	tank...
+	Os golfinhos não
+	estão no tanque...
 	"""
 	keyWait
 		any = false
@@ -663,8 +715,8 @@ script 16 mmbn6 {
 script 17 mmbn6 {
 	msgOpen
 	"""
-	The alligator cage
-	is locked tight.
+	A gaiola dos jacarés
+	está bem trancada.
 	"""
 	keyWait
 		any = false
@@ -673,8 +725,8 @@ script 17 mmbn6 {
 script 18 mmbn6 {
 	msgOpen
 	"""
-	The cage door is
-	hanging wide open...
+	A gaiola está
+	escancarada...
 	"""
 	keyWait
 		any = false
@@ -714,9 +766,9 @@ script 21 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Operate ChargeMan
-	from this vending
-	machine?
+	Operar o ChargeMan
+	desta máquina de
+	bebidas?
 	"""
 	keyWait
 		any = false
@@ -732,7 +784,7 @@ script 21 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -741,7 +793,7 @@ script 21 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -764,9 +816,9 @@ script 23 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Operate DustMan
-	from this vending
-	machine?
+	Operar o DustMan
+	desta máquina de
+	bebidas?
 	"""
 	keyWait
 		any = false
@@ -782,7 +834,7 @@ script 23 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -791,7 +843,7 @@ script 23 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -824,9 +876,8 @@ script 25 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Choo,choooo!!
-	Is it departure
-	time?
+	Tchú-tchúúú!!
+	Já é hora de partir?
 	"""
 	keyWait
 		any = false
@@ -842,7 +893,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -851,7 +902,7 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -869,9 +920,9 @@ script 26 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Gahahahaha!!
-	Is it time to take
-	out the trash!?
+	Aah ha ha ha!!
+	E aí, hora de
+	tirar o lixo?!
 	"""
 	keyWait
 		any = false
@@ -887,7 +938,7 @@ script 26 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -896,7 +947,7 @@ script 26 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -917,15 +968,15 @@ script 27 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you doing,
-	Lan!?
+	O que é que você
+	tá fazendo, Lan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Ferry's final
-	exam is waiting!!
+	A prova final do
+	Sr. Ferry te espera!!
 	"""
 	keyWait
 		any = false
@@ -936,15 +987,22 @@ script 28 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you doing,
-	Lan!?
+	O que é que você
+	tá fazendo, Lan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Press's final
-	exam is waiting!!
+	O que é que você
+	tá fazendo, Lan?!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A prova final do
+	Sr. Press te espera!!
 	"""
 	keyWait
 		any = false

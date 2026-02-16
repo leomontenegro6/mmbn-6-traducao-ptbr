@@ -11,14 +11,13 @@ script 0 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	I don't feel like
-	doing homework when
-	I'm at home,
+	Eu não gosto de fazer a
+	lição de casa EM casa,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"so I'm doing it now!"
+	"então tô fazendo agora!"
 	keyWait
 		any = false
 	end
@@ -28,16 +27,16 @@ script 5 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	Lately,studying
-	has become fun!!
+	Sabe, eu comecei a me
+	divertir estudando!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once you understand,
-	class is
-	interesting!
+	Depois que você começa
+	a entender, as aulas
+	ficam interessantes!
 	"""
 	keyWait
 		any = false
@@ -45,14 +44,14 @@ script 5 mmbn6 {
 }
 script 10 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -67,8 +66,8 @@ script 11 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You're Lan Hikari!!
-	YAAAAAHHHHHHHHHHH!!
+	Você é o Lan Hikari!!
+	IÁÁÁÁÁÁÁÁÁRHHHHHH!!
 	"""
 	keyWait
 		any = false

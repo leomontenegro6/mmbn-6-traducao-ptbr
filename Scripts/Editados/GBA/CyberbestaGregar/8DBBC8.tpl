@@ -6,15 +6,15 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ok,we've shut off
-	the cyclone!
+	Pronto, vamos dar um
+	tempo nesse vento!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack out,MegaMan,and
-	let's keep going!
+	Desconecta, MegaMan,
+	e bora continuar!
 	"""
 	keyWait
 		any = false
@@ -26,7 +26,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end
@@ -52,9 +52,8 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've cleared the
-	path now,so let's
-	go,MegaMan!
+	A gente livrou o caminho.
+	Bora seguir, MegaMan!
 	"""
 	keyWait
 		any = false

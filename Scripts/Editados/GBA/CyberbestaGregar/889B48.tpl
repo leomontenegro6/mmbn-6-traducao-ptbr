@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"Go up the ladder?\n"
+	"Subir as escadas?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -14,7 +14,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -23,7 +23,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -58,53 +58,55 @@ script 10 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Did someone call
-	the Quiz King!?
-	Ruler of Trivia!!
+	Alguém convocou o
+	Questionário Rei?!
+	Regente das Perguntas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give it a chance!
-	C'mon give it a try!
+	Experimente!
+	Tente! Desafie!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,yeah,yeah!
-	たCha_chaちQuiz Power!
+	Tchú-tchú-tchú!
+	Tchá-tchá-tchá!
+	Ques! Tio! Nárioo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm the Quiz King!"
+	"Sou o Questionário Rei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll obtain world
-	peace through the
-	power of trivia!!
+	E ainda hei de instaurar
+	a paz mundial através do
+	poder das perguntas!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Meeting me is the
-	perfect invitation
+	E o ato de me encontrar
+	só leva a um desfecho...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"to Quiz Battle!"
+	"uma Batalha de\nQuestionários!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can you get all of
-	my questions right?
+	Será você capaz de
+	acertar todas as
+	minhas perguntas?
 	"""
 	keyWait
 		any = false
@@ -120,7 +122,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Go for it!\n"
+	" Só bora!\n"
 	positionOptionHorizontal
 		width = 10
 	option
@@ -131,7 +133,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" No thanks!"
+	" Não, valeu!"
 	select
 		default = 0
 		BSeparate = false
@@ -145,13 +147,13 @@ script 10 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OldMan
-	"Hmmmphhh..."
+	"Hmmmpf..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't say that
-	to a king...
+	Isso não é coisa que
+	se diga a um rei...
 	"""
 	keyWait
 		any = false
@@ -162,42 +164,44 @@ script 11 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Did someone call
-	the Quiz King!?
-	Ruler of Trivia!!
+	Alguém convocou o
+	Questionário Rei?!
+	Regente das Perguntas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give it a chance!
-	C'mon give it a try!
+	Experimente!
+	Tente! Desafie!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,yeah,yeah!
-	たCha_chaちQuiz Power!
+	Tchú-tchú-tchú!
+	Tchá-tchá-tchá!
+	Ques! Tio! Nárioo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm the Quiz King!"
+	"Sou o Questionário Rei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll obtain world
-	peace through the
-	power of trivia!!
+	E ainda hei de instaurar
+	a paz mundial através do
+	poder das perguntas!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,young man,care
-	to Quiz Battle!?
+	E então, jovem?
+	Que tal uma Batalha
+	de Questionário?!
 	"""
 	keyWait
 		any = false
@@ -215,7 +219,7 @@ script 11 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Go for it!\n"
+	" Só bora!\n"
 	positionOptionHorizontal
 		width = 10
 	option
@@ -226,7 +230,7 @@ script 11 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" No means no!!"
+	" Não, cara!!"
 	select
 		default = 0
 		BSeparate = false
@@ -243,8 +247,8 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	And my quizzes are
-	so interesting...
+	Poxa... Meus questionários
+	são interessantes...
 	"""
 	keyWait
 		any = false
@@ -257,16 +261,15 @@ script 12 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	Let's get started
-	with question 1!
+	Comecemos com
+	a pergunta 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How many trees are
-	growing in Central
-	Town?
+	Quantas árvores existem
+	no Bairro Central?
 	"""
 	keyWait
 		any = false
@@ -284,7 +287,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" 8 Trees\n"
+	" 8 árvores\n"
 	positionOptionHorizontal
 		width = 4
 	option
@@ -295,7 +298,7 @@ script 12 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" 9 Trees\n"
+	" 9 árvores\n"
 	positionOptionHorizontal
 		width = 4
 	option
@@ -306,7 +309,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" 10 Trees"
+	" 10 árvores"
 	select
 		default = 0
 		BSeparate = false
@@ -328,17 +331,16 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Correct!
-	Now time for
-	question 2!!
+	Correto!
+	Agora, hora
+	da pergunta 2!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Cyber Academy
-	logo has what
-	letters on it?
+	O logo da Escola Saibher
+	tem quais destas letras?
 	"""
 	keyWait
 		any = false
@@ -356,7 +358,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" D and B\n"
+	" D e B\n"
 	positionOptionHorizontal
 		width = 4
 	option
@@ -367,7 +369,7 @@ script 12 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" C and A\n"
+	" C e A\n"
 	positionOptionHorizontal
 		width = 4
 	option
@@ -378,7 +380,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" C and G"
+	" C e G"
 	select
 		default = 0
 		BSeparate = false
@@ -400,17 +402,16 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Correct!
-	Moving on to
-	question 3!!
+	Correto!
+	Sigamos para
+	a pergunta 3!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What does the Net
-	Merchant in Central
-	Area1 sell?
+	O que o NetVendedor na
+	Área Central 1 vende?
 	"""
 	keyWait
 		any = false
@@ -428,7 +429,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" SubChip\n"
+	" SubChips\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -439,7 +440,7 @@ script 12 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" BattleChip\n"
+	" BattleChips\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -450,7 +451,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Program"
+	" Programas"
 	select
 		default = 0
 		BSeparate = false
@@ -472,17 +473,16 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Correct!
-	Moving on to
-	question 4!!
+	Correto!
+	Seguindo para
+	a pergunta 4!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Which one of these
-	chips has the best
-	Attack power?
+	Qual destes chips tem
+	maior poder de Ataque?
 	"""
 	keyWait
 		any = false
@@ -544,9 +544,8 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Correct!
-	Moving on to
-	question 5!!
+	Correto!
+	Agora, a pergunta 5!!
 	"""
 	keyWait
 		any = false
@@ -612,24 +611,22 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Correct again!
-	Moving on to
-	question 6!!
+	Correto de novo!
+	Pergunta 6 agora!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is the
-	difference in the
-	Attack power of
+	Qual é a diferença
+	entre os poderes de
+	Ataque dos chips
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HiCannon and
-	Spreadr2?
+	HiCannon e Spreadr2?
 	"""
 	keyWait
 		any = false
@@ -691,17 +688,16 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Correct!
-	Moving on to
-	question 7!!
+	Correto!
+	Agora, a pergunta 7!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How many students
-	are in Class 6_A
-	in ACDC School?
+	Quantos alunos
+	tem na Turma 6-A
+	da Escola ACDC?
 	"""
 	keyWait
 		any = false
@@ -763,17 +759,17 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Correct again!
-	Moving on to
-	question 8!!
+	Correto de novo!
+	Agora, vamos
+	à pergunta 8!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is the name
-	of the seal at the
-	Seaside Aquarium?
+	Qual é o nome do
+	elefante-marinho do
+	Aquário Beira-Mar?
 	"""
 	keyWait
 		any = false
@@ -791,7 +787,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Furry\n"
+	" Lulu\n"
 	positionOptionHorizontal
 		width = 6
 	option
@@ -802,7 +798,7 @@ script 12 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Sealy\n"
+	" Léo\n"
 	positionOptionHorizontal
 		width = 6
 	option
@@ -813,7 +809,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Fanny"
+	" Lelê"
 	select
 		default = 0
 		BSeparate = false
@@ -835,16 +831,16 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Correct again!
-	Moving on to
-	question 9!!
+	Certo de novo!
+	Agora, hora da
+	pergunta 9!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is it called
-	when 2 Navis fight?
+	Como chamamos o ato de
+	dois Navis batalhando?
 	"""
 	keyWait
 		any = false
@@ -862,7 +858,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" NetBattle\n"
+	" NetLuta\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -873,7 +869,7 @@ script 12 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" NetBallet\n"
+	" NetLuau\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -884,7 +880,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" MetBattle"
+	" MetLuta"
 	select
 		default = 0
 		BSeparate = false
@@ -906,17 +902,15 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Correct again!
-	Moving on to
-	question 10!!
+	Correto de novo!
+	Agora, a pergunta 10!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How much HP does
-	the MiniEnrg SubChip
-	restore?
+	Quantos PV o SubChip
+	MiniEnrg restaura?
 	"""
 	keyWait
 		any = false
@@ -978,16 +972,15 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Correct again!
-	Moving on to
-	question 11!!
+	Correto de novo
+	Hora da pergunta 11!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What chip is ID58
-	in the Data Library?
+	Qual é o chip de
+	ID58 na Coleção?
 	"""
 	keyWait
 		any = false
@@ -1049,16 +1042,15 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Correct!
-	Moving on to
-	question 12!!
+	Correto!
+	Agora, a pergunta 12!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How high is Sky
-	Town?
+	Qual é a altura
+	do Distrito Céu?
 	"""
 	keyWait
 		any = false
@@ -1076,7 +1068,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" 30,000 feet\n"
+	" 10 km\n"
 	positionOptionHorizontal
 		width = 11
 	option
@@ -1087,7 +1079,7 @@ script 12 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" 300,000 feet\n"
+	" 100 km\n"
 	positionOptionHorizontal
 		width = 11
 	option
@@ -1098,7 +1090,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" 3,000 feet"
+	" 1 km"
 	select
 		default = 0
 		BSeparate = false
@@ -1120,31 +1112,30 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Correct!
-	Moving on to
-	question 13!!
+	Correto!
+	Agora, a pergunta 13!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Add the Attack power
-	of a Sword and
+	Some o poder de
+	Ataque de uma Sword
+	com o de uma MiniBomb,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MiniBomb,then
-	subtract the Attack
+	daí subtraia o poder
+	de Ataque de um AirShot
+	e de um Cannon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	power of an
-	AirShot and Cannon.
-	What do you get?
+	Qual o resultado?
 	"""
 	keyWait
 		any = false
@@ -1206,22 +1197,17 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Correct!
-	Moving on to
-	question 14!!
+	Correto!
+	Vamos agora à
+	pergunta 14!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's the name
-	of the Navi who
-	attacked the
+	Qual é o nome do Navi
+	que atacou o Aquário?
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"Aquarium?"
 	keyWait
 		any = false
 	clearMsg
@@ -1281,18 +1267,19 @@ script 12 mmbn6 {
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = OldMan
-	"Correct!"
+	"Correto!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time for the last
-	question,number 15!
+	Finalmente, hora
+	da pergunta final!
+	Pergunta 15!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Who am I?"
+	"Quem sou eu?"
 	keyWait
 		any = false
 	clearMsg
@@ -1309,7 +1296,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Quiz Gramps\n"
+	" Questionário Top\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1320,7 +1307,7 @@ script 12 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Quiz King\n"
+	" Questionário Rei\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1331,7 +1318,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Quiz Master"
+	" Questionário Mestre"
 	select
 		default = 0
 		BSeparate = false
@@ -1353,21 +1340,21 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Nooo!!
-	NooooOOOOoooo!!
-	You got them right!
+	Nããão!!
+	Nããããããããoooo!!
+	Você acertou elas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ALL OF THEM!!!"
+	"TODAS!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's a win for
-	you... Here's your
-	reward for victory!
+	Você venceu...
+	Eis aqui sua recompensa
+	pela vitória!
 	"""
 	keyWait
 		any = false
@@ -1379,7 +1366,7 @@ script 12 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1394,17 +1381,16 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	I'll just have to
-	update the
-	questions and
+	O jeito será eu atualizar
+	as perguntas e te
+	surpreender bonito da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	surprise you next
-	time!!
-	Hmmmphhh!!
+	próxima vez!!
+	Hmmmpf!!
 	"""
 	keyWait
 		any = false
@@ -1423,31 +1409,31 @@ script 13 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	Wrong answer!!
-	Too bad!!
+	Resposta errada!!
+	Que peninha!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It must be
-	embarrassing to get
-	the wrong answer!
+	Deve ser tão
+	embaraçoso errar
+	essa pergunta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I am the Quiz
-	King after all!
+	Mas era de se esperar.
+	Eu sou o Questionário
+	Rei, afinal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm looking forward
-	to your next
-	attempt!
+	Mal posso esperar pela
+	sua próxima tentativa!
 	"""
 	keyWait
 		any = false
@@ -1458,9 +1444,9 @@ script 14 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	By applying CopyBot
-	technology,this can
-	be achieved!
+	Isso é possível
+	graças ao uso da
+	tecnologia CópiRoide!
 	"""
 	keyWait
 		any = false

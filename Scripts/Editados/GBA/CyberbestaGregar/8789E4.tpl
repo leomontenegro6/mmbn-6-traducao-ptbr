@@ -14,52 +14,52 @@ script 0 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	You...
-	You took my request!
+	Você...
+	Foi você quem aceitou
+	o meu pedido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...My Navi was
-	deleted by a virus
-	on the Net!
+	... O meu Navi foi
+	deletado por um
+	vírus na Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When it happened,my
-	Navi's data was
-	blown off someplace.
+	E, quando aconteceu,
+	os dados dele voaram
+	para um outro lugar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then when I was
-	dreaming,my Navi
-	appeared and cried
+	Daí, enquanto eu dormia,
+	o meu Navi apareceu
+	num sonho e falou:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"It's cold...\n I'm lonely...\""
+	"\"Está frio...\nQue solidão...\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My request is that
-	someone find out
-	what happened to my
+	Meu pedido é que alguém
+	descubra o que aconteceu
+	com o meu Navi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navi...
-	The Net is too
-	big for me...
+	A Rede é grande
+	demais pra mim...
 	"""
 	keyWait
 		any = false
@@ -67,8 +67,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Do you have any
-	clues?
+	Tem alguma pista?
 	"""
 	keyWait
 		any = false
@@ -81,52 +80,52 @@ script 0 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"Oh yeah!"
+	"Ah, é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everytime my Navi
-	appears in my dream,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	it comes face to
-	face with a giant
-	horned skull...
+	Sempre que o meu Navi
+	aparece num sonho meu,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what that
-	means...
+	ele luta contra uma
+	caveira gigante com
+	chifres...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not a great
-	clue,but is it OK?
-	Can you help me?
+	O que será que isso
+	quer dizer...?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Não é uma grande pista,
+	mas tudo bem pra você?
+	Pode me ajudar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I'll do something!"
+	"Eu resolvo!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldWoman
-	"Please help..."
+	"Obrigada..."
 	keyWait
 		any = false
 	flagSet
@@ -138,23 +137,23 @@ script 1 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Everytime my Navi
-	appears in my dream,
+	Sempre que o meu Navi
+	aparece num sonho meu,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it comes face to
-	face with a giant
-	horned skull...
+	ele luta contra uma
+	caveira gigante com
+	chifres...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what that
-	means...
+	O que será que isso
+	quer dizer...?
 	"""
 	keyWait
 		any = false
@@ -164,7 +163,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ma'am,here..."
+	"Senhora, tome..."
 	keyWait
 		any = false
 	clearMsg
@@ -173,7 +172,7 @@ script 2 mmbn6 {
 		item = 63
 		amount = 1
 	"""
-	Lan gave:
+	Lan deu:
 	"
 	"""
 	printItem
@@ -186,16 +185,16 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = OldWoman
 	"""
-	Ahhh... This is...
-	my Navi's...
+	Ahhh... Isso é...
+	do meu Navi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you so much.
-	Here is a small
-	token of my thanks.
+	Muito obrigada. Aqui,
+	uma pequena amostra
+	da minha gratidão.
 	"""
 	keyWait
 		any = false
@@ -208,7 +207,7 @@ script 2 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printNaviCustProgram
@@ -223,14 +222,14 @@ script 2 mmbn6 {
 	flagSet
 		flag = 4457
 	mugshotHide
-	"Request Points\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	clearMsg
@@ -239,8 +238,8 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = OldWoman
 	"""
-	Now I can finally
-	sleep easy...
+	Finalmente eu posso
+	dormir tranquila...
 	"""
 	keyWait
 		any = false

@@ -42,9 +42,9 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Things don't look
-	too damaged from the
-	JudgeMan incident...
+	Parece que o incidente
+	do JudgeMan não deixou
+	grandes estragos...
 	"""
 	keyWait
 		any = false
@@ -55,8 +55,8 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Want to take a look
-	around,MegaMan!?
+	Quer explorar a área
+	por cima, MegaMan!?
 	
 	"""
 	positionOptionHorizontal
@@ -69,7 +69,7 @@ script 4 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -78,7 +78,7 @@ script 4 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -123,7 +123,7 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's move on,
+	Bora em frente,
 	MegaMan!
 	"""
 	keyWait

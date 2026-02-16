@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"A few days later..."
+	"Alguns dias depois..."
 	keyWait
 		any = false
 	clearMsg
@@ -15,8 +15,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,hey,hey!
-	It's on,it's on!
+	Ah! Ah! Ah!
+	Tá passando!!
 	"""
 	keyWait
 		any = false
@@ -27,16 +27,15 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	They're showing
-	the commercial!
+	O comercial tá passando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Ah! This is
-	footage from the
-	preliminary trials!
+	... Ah! Essas filmagens
+	são das provas
+	preliminares!
 	"""
 	keyWait
 		any = false
@@ -47,7 +46,7 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	mugshotHide
 	msgOpen
-	"\"Let's go,Lan!\""
+	"\"Vamos nessa, Lan!\""
 	keyWait
 		any = false
 	clearMsg
@@ -59,8 +58,8 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Even the sound's
-	crystal clear!
+	Nossa, até gravaram a
+	gente em alto e bom som!
 	"""
 	keyWait
 		any = false
@@ -73,16 +72,16 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	L_Lan...
-	This is so
-	embarrassing...
+	L-Lan...
+	Eu tô morrendo
+	de vergonha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Change the channel,
-	please?
+	Pode mudar de canal,
+	por favor?
 	"""
 	keyWait
 		any = false
@@ -95,9 +94,9 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,if you put it
-	that way,maybe I'll
-	just keep it on!
+	Bom, como você pediu
+	com jeitinho... eu vou
+	deixar nesse canal!
 	"""
 	keyWait
 		any = false
@@ -128,8 +127,7 @@ script 8 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's your
-	autophone,Lan!
+	É o seu autofone, Lan!
 	"""
 	keyWait
 		any = false
@@ -139,7 +137,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hello?"
+	"Alô."
 	keyWait
 		any = false
 	clearMsg
@@ -161,7 +159,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"!? Hello??"
+	"?! Alô?!"
 	keyWait
 		any = false
 	clearMsg
@@ -171,13 +169,12 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	mugshotHide
 	msgOpen
-	"... Hee,hee,hee,"
+	"... Hi, hi, hi.\n"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can you guess who
-	I am?
+	Adivinha quem é.
 	"""
 	keyWait
 		any = false
@@ -189,11 +186,11 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,I know...!"
+	"Ah, claro que eu sei...!"
 	keyWait
 		any = false
 	clearMsg
-	"Mayl!?"
+	"Mayl!"
 	keyWait
 		any = false
 	clearMsg
@@ -204,7 +201,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Eheheh,that's right!"
+	"He he, acertou!"
 	keyWait
 		any = false
 	clearMsg
@@ -216,9 +213,9 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey! How are you!?
-	Wow,this is a
-	surprise! What's up?
+	Oi! Como você tá?!
+	Nossa, que surpresa!
+	Tudo bem?
 	"""
 	keyWait
 		any = false
@@ -231,16 +228,14 @@ script 16 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I should be asking
-	you!
+	isso, eu que te pergunto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I saw the commercial
-	on TV! I was totally
-	stunned!
+	Eu vi o comercial na TV!
+	Fiquei boba!
 	"""
 	keyWait
 		any = false
@@ -252,14 +247,14 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hehehe!"
+	"He he he!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,if you come
-	here,you'd see we're
-	doing just fine!
+	Bom, se você viesse
+	aqui, ia ver que a
+	gente tá ótimo!
 	"""
 	keyWait
 		any = false
@@ -272,17 +267,17 @@ script 18 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Oh... Sounds like
-	you're working real
-	hard too!
+	Hm... Parece que
+	você andou bem
+	ocupado mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really want to
-	see you and your new
-	life...
+	Eu queria muito poder
+	te ver, ver a sua
+	nova vida...
 	"""
 	keyWait
 		any = false
@@ -306,16 +301,16 @@ script 20 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	... Hey,if it's OK
-	with you,how about
-	we all get together?
+	... Ei, se você topar,
+	que tal a gente se reunir?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dex and Yai miss
-	you too...
+	O Dex e a Yai também
+	tão morrendo de
+	saudade...
 	"""
 	keyWait
 		any = false
@@ -328,25 +323,23 @@ script 21 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You know,I was just
-	thinking the exact
-	same thing!
+	Na real, eu tava
+	pensando a mesma coisa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hearing your voice
-	suddenly made me
-	miss ACDC Town.
+	Ouvir a sua voz me fez
+	sentir a maior falta
+	do Bairro ACDC.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,how about I come
-	visit ACDC Town this
-	weekend?
+	OK, que tal eu ir visitar
+	ACDC no fim de semana?
 	"""
 	keyWait
 		any = false
@@ -359,15 +352,15 @@ script 22 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Really?
-	You promise!?
+	Sério?
+	Promete?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better not
-	oversleep!
+	É bom não ignorar
+	o despertador, viu?!
 	"""
 	keyWait
 		any = false
@@ -379,13 +372,12 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Don't worry,I won't!"
+	"Relaxa, não vou, não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I'll see you
-	this weekend!
+	... Até o fim de semana!
 	"""
 	keyWait
 		any = false
@@ -398,8 +390,8 @@ script 24 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	OK! I can't wait!
-	Bye bye!
+	OK! Mal posso esperar!
+	Tchau!
 	"""
 	keyWait
 		any = false
@@ -410,17 +402,17 @@ script 25 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ACDC Town...
-	I wonder how much
-	it's changed?
+	ACDC...
+	Será que as coisas
+	mudaram muito?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if I'll
-	cry when I see the
-	town again...?
+	Será que eu vou chorar
+	quando vir o bairro de
+	novo...?
 	"""
 	keyWait
 		any = false
@@ -430,8 +422,8 @@ script 26 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	... And then,
-	that weekend...
+	... E assim, o fim de
+	semana chegou...
 	"""
 	keyWait
 		any = false
@@ -444,8 +436,8 @@ script 27 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,time to head
-	out,MegaMan!
+	Bom, hora da gente
+	sair, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -458,9 +450,9 @@ script 28 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's a long way to
-	ACDC Town. You sure
-	you're ready?
+	Até o Bairro ACDC, a
+	viagem é longa. Certeza
+	que tá pronto?
 	"""
 	keyWait
 		any = false
@@ -473,13 +465,13 @@ script 29 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm ready!
-	I've got everything!
+	Absoluta!
+	Tô com tudo aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Come on! Let's go!"
+	"Chega de enrolar!\nBora lá!"
 	keyWait
 		any = false
 	end

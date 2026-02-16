@@ -14,9 +14,9 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME!! THIS IS
-	CENTRALAREA3!!
-	HOT!! HOT!! HOT!!
+	BEM-VINDO!! ESTA É
+	A ÁREA CENTRAL 3!!
+	QUENTE!! QUENTE!!
 	"""
 	keyWait
 		any = false
@@ -32,37 +32,28 @@ script 1 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	That really is a
-	huge hole!
+	Nossa, que buracão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At the bottom of
-	this hole,there's
+	No fundo desse buraco,
+	fica uma área conhecida
+	como o "SubSolo"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	an area called the
-	Underground!
+	Reza a lenda que as
+	Cyberbestas repousam lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a legend
-	that says Cybeasts
-	are sleeping there.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I wonder if it's
-	true...
+	Será que é verdade...?
 	"""
 	keyWait
 		any = false
@@ -78,23 +69,22 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You can't get too
-	close to that huge
-	hole.
+	É bom não chegar muito
+	perto desse abismo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A Cybeast might
-	eat you!!
+	Uma Cyberbesta pode
+	sair e te devorar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hahahaha...
-	Just kidding...
+	Ha ha ha ha...
+	Brincadeira...
 	"""
 	keyWait
 		any = false
@@ -105,17 +95,17 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME!!
-	THIS IS
-	CENTRALAREA3!!
+	BEM-VINDO!!
+	ESTA É A
+	ÁREA CENTRAL 3!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S FREEZING!
-	HEY! YOU SPRAYED
-	ME WITH WATER!
+	TÁ UM GELO AQUI!
+	A-AH! VOCÊ ESPIRROU
+	ÁGUA EM MIM!
 	"""
 	keyWait
 		any = false
@@ -132,13 +122,13 @@ script 20 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	There's a Kettle
-	burning for a fight!
+	Tá aqui um Kettle se
+	fervendo pra lutar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Fire up the battle!?"
+	"Bora torrar ele?!"
 	keyWait
 		any = false
 	clearMsg
@@ -153,7 +143,7 @@ script 20 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -162,7 +152,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -176,7 +166,7 @@ script 20 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = HeatMan
-	"C'mon! Let's fight!"
+	"Ah, vai! Bora lutar!"
 	keyWait
 		any = false
 	end
@@ -185,7 +175,7 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"Heat things up!!"
+	"Queima! QUEIMA!!"
 	keyWait
 		any = false
 	flagSet
@@ -199,8 +189,8 @@ script 22 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	It's a Kettle...
-	Should we battle?
+	É um Kettle...
+	Lutar?
 	"""
 	keyWait
 		any = false
@@ -216,7 +206,7 @@ script 22 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -225,7 +215,7 @@ script 22 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -240,8 +230,8 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	"""
-	C'mon!
-	Let me fight!!
+	Ah, vai!
+	Me deixa lutar!!
 	"""
 	keyWait
 		any = false
@@ -258,13 +248,13 @@ script 23 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	There's a Kettle
-	burning for a fight!
+	Tá aqui um Kettle se
+	fervendo pra lutar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Fire up the battle!?"
+	"Bora torrar ele?!"
 	keyWait
 		any = false
 	clearMsg
@@ -279,7 +269,7 @@ script 23 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -288,7 +278,7 @@ script 23 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -303,8 +293,8 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	"""
-	C'mon... You aren't
-	nervous,are you?
+	Ah, vai... Cê não
+	tá nervoso, tá?
 	"""
 	keyWait
 		any = false
@@ -315,9 +305,9 @@ script 24 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Yaaaahhhh!!
-	It's gonna get
-	a bit hot in here!
+	Riiiááááááá!!
+	A chapa tá pra
+	esquentar BONITO aqui!
 	"""
 	keyWait
 		any = false
@@ -332,8 +322,8 @@ script 25 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	It's a Kettle...
-	Should we battle?
+	É um Kettle...
+	Lutar?
 	"""
 	keyWait
 		any = false
@@ -349,7 +339,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -358,7 +348,7 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -373,8 +363,8 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	"""
-	C'mon!
-	Let me fight!!
+	Ah, vai!
+	Me deixa lutar!!
 	"""
 	keyWait
 		any = false
@@ -385,9 +375,9 @@ script 26 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME!!
-	THIS IS
-	CENTRALAREA3!!
+	BEM-VINDO!!
+	ESTA É A ÁREA
+	CENTRAL 3!!
 	"""
 	keyWait
 		any = false
@@ -398,9 +388,9 @@ script 27 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Where are they
-	going to have that
-	thing tomorrow?
+	Onde é que eles
+	vão fazer aquela
+	coisa amanhã?
 	"""
 	keyWait
 		any = false
@@ -411,9 +401,9 @@ script 28 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I hope this area is
-	crowded during the
-	Expo as well!!
+	Tomara que esta área
+	fique lotada durante
+	a Exposição também!!
 	"""
 	keyWait
 		any = false
@@ -428,7 +418,7 @@ script 30 mmbn6 {
 		any = false
 	clearMsg
 	mugshotHide
-	"No response..."
+	"Não responde..."
 	keyWait
 		any = false
 	end
@@ -452,24 +442,23 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You're a member of
-	the NetPolice...
+	Você é da NetPolícia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"That's correct..."
+	"Isso..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Please...
-	Leave the Cybeast
-	to me.
+	Por favor...
+	Deixa a Cyberbesta
+	comigo.
 	"""
 	keyWait
 		any = false
@@ -477,52 +466,52 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	OK... But if you
-	don't hurry,it will
-	get to SeasideArea!
+	Tudo bem... Mas, se você
+	não correr, ela chegará
+	na Área Beira-Mar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it gets to
-	SeasideArea...
+	Se isso acontecer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It could pollute
-	the water system
-	for the real world!
+	ela poderá poluir
+	o sistema hídrico
+	do mundo real!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If the Cybeast does
-	that,it'd be an
+	Se a Cyberbesta
+	fizer isso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	awful blow to the
-	human world...
+	será um estrago
+	gigantesco para
+	o mundo humano...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here...take my
-	SoulWeapons...
+	Tome... leve as
+	minhas ArmasAlma...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"...OK!!"
+	"... OK!!"
 	keyWait
 		any = false
 	clearMsg
@@ -535,9 +524,8 @@ script 50 mmbn6 {
 		track = 386
 	soundEnableTextSFX
 	"""
-	"SoulWeapons" have
-	been installed
-	inside MegaMan.
+	"ArmasAlma" foram
+	instaladas no MegaMan.
 	"""
 	keyWait
 		any = false
@@ -551,8 +539,8 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Please...stop...
-	the Cybeast...
+	Por favor... detenha...
+	a Cyberbesta...
 	"""
 	keyWait
 		any = false
@@ -563,8 +551,8 @@ script 51 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Reload the
-	SoulWeapons?
+	Recarregar
+	as ArmasAlma?
 	"""
 	keyWait
 		any = false
@@ -580,7 +568,7 @@ script 51 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -589,7 +577,7 @@ script 51 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -603,7 +591,7 @@ script 51 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Good luck..."
+	"Boa sorte..."
 	keyWait
 		any = false
 	end
@@ -620,9 +608,8 @@ script 52 mmbn6 {
 	clearMsg
 	mugshotHide
 	"""
-	No response...
-	It seems he passed
-	out...
+	Não responde...
+	Parece ter desmaiado...
 	"""
 	keyWait
 		any = false
@@ -633,30 +620,28 @@ script 55 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Reloading the Soul
-	Weapons requires a
-	bit of time...
+	Recarregar as ArmasAlma
+	demora um pouco...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	During that time,
-	the EvilSpirits you
-	have already taken
+	Nesse meio-tempo, os
+	Espíritos Malignos
+	que você já abateu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	care of in this
-	area may come back
-	to haunt you...
+	nesta área podem voltar
+	para te assombrar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Is that OK?"
+	"Tudo bem pra você?"
 	keyWait
 		any = false
 	clearMsg
@@ -671,7 +656,7 @@ script 55 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -680,7 +665,7 @@ script 55 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -694,7 +679,7 @@ script 55 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Good luck..."
+	"Boa sorte..."
 	keyWait
 		any = false
 	flagSet
@@ -705,7 +690,7 @@ script 56 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Take...take care..."
+	"Vá com... cuidado..."
 	keyWait
 		any = false
 	end
@@ -715,23 +700,23 @@ script 60 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DUE TO THE RECENT
-	DISASTER,
+	DEVIDO AO
+	DESASTRE RECENTE,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE NUMBER OF NAVIS
-	VISITING CENTRAL
-	AREA HAS GONE DOWN.
+	O NÚMERO DE NAVIS
+	VISITANDO A ÁREA
+	CENTRAL DIMINUIU.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S REALLY KIND
-	OF LONELY...
+	ELA ANDA MEIO
+	SOLITÁRIA...
 	"""
 	keyWait
 		any = false
@@ -742,25 +727,24 @@ script 61 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Did you know that
-	there was a huge
-	riot here earlier?
+	Sabia que teve uma
+	comoção enorme aqui
+	pouco tempo atrás?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The area is
-	currently under
-	inspection...
+	A área está sob
+	investigação agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Though,we can't
-	say we've found a
-	smoking gun yet...
+	Mas não vou mentir:
+	ainda não achamos a
+	fonte do problema...
 	"""
 	keyWait
 		any = false
@@ -771,24 +755,24 @@ script 65 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS CENTRAL
-	AREA3...
+	ESTA É A ÁREA
+	CENTRAL 3...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DUE TO THE RECENT
-	RIOT,NAVIS HAVEN'T
-	BEEN COMING HERE.
+	DEVIDO AO INCIDENTE
+	RECENTE, POUCOS NAVIS
+	TÊM VINDO AQUI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I WON'T GIVE UP!
-	THIS AREA IS GONNA
-	KEEP IT'S CHIN UP!
+	MAS NÃO VOU ME DEIXAR
+	ABATER! A ÁREA SEGUE
+	DE CABEÇA ERGUIDA!
 	"""
 	keyWait
 		any = false
@@ -799,32 +783,30 @@ script 66 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm a member of
-	the NetPolice...
+	Eu sou um membro
+	da NetPolícia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We are inspecting
-	the site of the
-	recent riot...
+	Estamos investigando a
+	área do ataque recente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we haven't
-	gotten any
-	results...
+	mas não tivemos nenhum
+	resultado ainda...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,we won't
-	give up! We will
-	figure it out!!
+	Porém, não vamos
+	desistir! Nós vamos
+	resolver isso!!
 	"""
 	keyWait
 		any = false

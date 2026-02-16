@@ -6,16 +6,16 @@ script 0 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Look Iris! The
-	weather map is
-	on the floor!
+	Olha, Iris!
+	Olha o mapa climático
+	no piso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Iris
-	"Yeah..."
+	"É..."
 	keyWait
 		any = false
 	end
@@ -25,16 +25,16 @@ script 1 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Those two sure are
-	becoming close...
+	Essas duas tão
+	ficando tão amigas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel lonely not
-	knowing what to
-	say.
+	Eu me sinto meio
+	excluída, sem saber
+	o que dizer, sabe?
 	"""
 	keyWait
 		any = false
@@ -44,27 +44,27 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	msgOpen
-	"...Hahaha!"
+	"... Ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mayl
-	"Hahaha!"
+	"Ha ha ha!"
 	keyWait
 		any = false
 	end
 }
 script 10 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -79,8 +79,8 @@ script 11 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Don't like it here!?
-	Too bad!!
+	Não me quer aqui, não?!
+	Problema seu!!
 	"""
 	keyWait
 		any = false

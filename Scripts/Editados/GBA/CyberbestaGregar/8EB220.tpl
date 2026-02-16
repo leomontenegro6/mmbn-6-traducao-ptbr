@@ -6,24 +6,22 @@ script 0 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	... You've learned
-	to operate your Navi
-	well.
+	... Você aprendeu a
+	operar o seu Navi bem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have nothing left
-	to teach you.
+	Não me resta mais
+	nada a lhe ensinar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may have
-	ChargeMan as one
-	of your LinkNavis.
+	Pode tomar o ChargeMan
+	como um de seus NavisElo.
 	"""
 	keyWait
 		any = false
@@ -40,8 +38,8 @@ script 1 mmbn6 {
 	soundPlay
 		track = 143
 	"""
-	ChargeMan became
-	Lan's LinkNavi!
+	ChargeMan se tornou
+	NaviElo do Lan!
 	"""
 	waitOWVar
 		variable = 0
@@ -60,41 +58,41 @@ script 2 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	ChargeMan's strength
-	is stored in the
-	ChargeCross.
+	A força do ChargeMan
+	está armazenada no
+	ChargeCruz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I believe,in your
-	capable hands,you
-	will become good
+	Eu acredito que, com ele
+	em suas mãos capazes,
+	você se tornará bom o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	enough that I will
-	want to hire you for
-	my railroad someday.
+	bastante para eu lhe
+	contratar para a minha
+	ferrovia, um dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... If you ever want
-	to hear the chuga_
-	chuga of an engine,
+	... E, se quiser só ouvir
+	a melodia de um motor de
+	locomotiva qualquer dia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you'll always be
-	welcome here.
-	We'll be waiting.
+	será sempre
+	bem-vindo aqui.
+	Estaremos esperando.
 	"""
 	keyWait
 		any = false
@@ -106,7 +104,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK! Thanks!"
+	"Beleza! Valeu!"
 	keyWait
 		any = false
 	end

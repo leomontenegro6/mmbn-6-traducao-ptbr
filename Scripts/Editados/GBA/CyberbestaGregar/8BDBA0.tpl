@@ -4,15 +4,15 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	Green Area2 on it.
+	Nele, há um mapa
+	da Área Verde 2.
 	"""
 	keyWait
 		any = false
@@ -22,7 +22,7 @@ script 0 mmbn6 {
 }
 script 1 mmbn6 {
 	msgOpen
-	"\"Welcome\n       to the\n            NetCafe\""
+	"\"Bem-vindo\n       ao\n            NetCafé\""
 	keyWait
 		any = false
 	end
@@ -33,17 +33,15 @@ script 2 mmbn6s {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	A giant cybertree
-	created in the image
-	of the "JudgeTree".
+	Uma cyberárvore gigante
+	criada à imagem da
+	"Árvore Juíza".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a very
-	serious air about
-	it...
+	Passa um ar tão sério...
 	"""
 	keyWait
 		any = false
@@ -52,9 +50,9 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	A cybertree...
-	It's taken the place
-	of normal signposts.
+	Uma cyberárvore...
+	Elas cumprem a função
+	de postes comuns.
 	"""
 	keyWait
 		any = false
@@ -70,7 +68,7 @@ script 5 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 used:
+	 usou:
 	"
 	"""
 	printItem
@@ -86,14 +84,14 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	A large pit... It
-	looks like it goes
-	somewhere...
+	Um enorme abismo...
+	Parece que ele dá
+	em algum lugar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Jump into the pit?\n"
+	"Pular?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -104,7 +102,7 @@ script 6 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -113,7 +111,7 @@ script 6 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -156,9 +154,8 @@ script 8 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	Where are you
-	going!? We're
-	still in class!!
+	Aonde é que você vai?!
+	A aula ainda não acabou!
 	"""
 	keyWait
 		any = false
@@ -169,9 +166,9 @@ script 9 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Hmph. Where are you
-	headed!? We are in
-	class!
+	Hmph.
+	Aonde você pensa que vai?!
+	A aula ainda não acabou!
 	"""
 	keyWait
 		any = false
@@ -180,9 +177,9 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	The door is sealed
-	tight. You can't get
-	through it!
+	O bloqueio na porta
+	é bem forte. Não dá
+	para passar!
 	"""
 	keyWait
 		any = false
@@ -193,9 +190,8 @@ script 11 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Where are we
-	charging off to!?
-	Class,Lan! Class!
+	Aonde está seguindo?!
+	A aula, Lan! A aula!
 	"""
 	keyWait
 		any = false
@@ -206,9 +202,9 @@ script 12 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Where do you think
-	you're going!?
-	Class is still on!
+	Aonde é que cê pensa
+	que vai?! A aula
+	ainda não acabou!
 	"""
 	keyWait
 		any = false

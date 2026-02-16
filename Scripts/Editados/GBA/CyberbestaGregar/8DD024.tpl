@@ -7,8 +7,8 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	PIPPIRIRIKKU...
-	...PIRIRAAKI...
-	...RIRIRII!!!
+	... PIRIRAAKI...
+	... RIRIRII!!!
 	"""
 	keyWait
 		any = false
@@ -18,14 +18,14 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Vic
 	msgOpen
-	"W_What!?"
+	"O-o quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	ElementMan...
-	You beat
-	ElementMan!?
+	Você venceu o
+	ElementMan?!
 	"""
 	keyWait
 		any = false

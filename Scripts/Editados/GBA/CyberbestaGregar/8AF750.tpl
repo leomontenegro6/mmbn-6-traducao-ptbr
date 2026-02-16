@@ -6,16 +6,15 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN'T REMEMBER...
-	WHAT I AM...
+	NÃO CONSIGO LEMBRAR...
+	O QUE EU SOU...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT,I DO REMEMBER
-	HAVING A
-	STUBBY TAIL...
+	MAS ME LEMBRO DE TER
+	UMA CAUDA CURTINHA...
 	"""
 	keyWait
 		any = false
@@ -27,14 +26,13 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WHAT AM I AGAIN...?"
+	"O QUE EU SOU MESMO...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HMM... I KNOW I
-	DON'T LIKE
-	COLD WATER...
+	HMM... EU SEI QUE NÃO
+	GOSTO DE ÁGUA FRIA...
 	"""
 	keyWait
 		any = false
@@ -47,16 +45,16 @@ script 2 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MAN,I WISH I KNEW
-	WHAT I WAS...
+	POXA, EU QUERIA
+	SABER O QUE EU ERA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ALL I REMEMBER
-	IS EATING A WHOLE
-	COW ONCE...
+	SÓ O QUE ME LEMBRO
+	É DE COMER UMA VACA
+	INTEIRA UMA VEZ...
 	"""
 	keyWait
 		any = false
@@ -69,16 +67,17 @@ script 3 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AH,MONSIEUR! I CAN
-	NOT REMEMBER...
+	AH, MONSIEUR!
+	POSSO NON ME
+	LEMBRRAR...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IN MY MEMORY,I SEE
-	SOMETHING FROM LONG
-	AGO...
+	EM MINHA MEMÓRRIA,
+	VEJO ALGÔ DE MUITÔ
+	TEMPÔ ATRRÁS...
 	"""
 	keyWait
 		any = false
@@ -91,17 +90,17 @@ script 4 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HMM,I SEEM TO HAVE
-	FORGOTTEN
-	WHAT I AM,BUT...
+	HMM, PARECE QUE EU
+	ME ESQUECI DO QUE
+	EU SOU, MAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I REMEMBER SOME NO_
-	BODY SAID I'M A BIT
-	SNOBBY. HOW RUDE!
+	LEMBRO DE ALGUÉM ME
+	CHAMAR DE "CONVENCIDO".
+	QUANTA GROSSERIA!
 	"""
 	keyWait
 		any = false
@@ -114,15 +113,16 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MY MEMORY IS A BIT
-	FUZZY...
+	A MINHA MEMÓRIA
+	ANDA MEIO TURVA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I'M SURE I'M
-	STEADY AS A ROCK.
+	MAS ESTOU CERTO
+	DE QUE SOU IMÓVEL,
+	COMO UMA ROCHA.
 	"""
 	keyWait
 		any = false
@@ -135,16 +135,17 @@ script 6 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I DON'T REMEMBER
-	MUCH,YOU KNOW...
+	EU NÃO LEMBRO
+	DE MUITA COISA,
+	NA VERDADE...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I REMEMBER MY
-	LIZARD FRIENDS,
-	LIKE SNAP...
+	MAS ME LEMBRO DOS
+	MEUS AMIGOS LAGARTOS,
+	QUE NEM O JECA...
 	"""
 	keyWait
 		any = false
@@ -156,13 +157,13 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"I'M A WHALE..."
+	"SOU UMA BALEIA..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I GOT THAT WRONG,
-	DIDN'T I...?
+	NÃO, EU ME CONFUNDI,
+	NÃO FOI...?
 	"""
 	keyWait
 		any = false
@@ -175,20 +176,21 @@ script 8 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT'S STRANGE THAT
-	I'D FORGET,BUT...
+	É ESTRANHO EU
+	TER SIDO CAPAZ
+	DE ESQUECER, MAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HMM,THE ONE THING
-	I DO REMEMBER IS...
+	HMM, A ÚNICA COISA
+	DE QUE ME LEMBRO É...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... MY NOSE??"
+	"... DO MEU NARIZ?!"
 	keyWait
 		any = false
 	clearMsg
@@ -200,9 +202,9 @@ script 9 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN FLY
-	HIGH IN THE SKY!
-	REALLY!!
+	EU SOU CAPAZ DE
+	VOAR BEM ALTO NO
+	CÉU! EEU JUUROOO!
 	"""
 	keyWait
 		any = false
@@ -214,7 +216,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Bring this Program?\n"
+	"Levar esse Prog?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -225,7 +227,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -234,7 +236,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -250,8 +252,9 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Sunfish CompTank"
+	No rótulo:
+	"NetTanque dos
+	Peixes-Lua"
 	"""
 	keyWait
 		any = false
@@ -260,9 +263,9 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Tropical Fish
-	 CompTank"
+	No rótulo:
+	"NetTanque dos
+	Peixes Tropicais"
 	"""
 	keyWait
 		any = false
@@ -271,8 +274,8 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Piranha CompTank"
+	No rótulo:
+	"NetTanque das Piranhas"
 	"""
 	keyWait
 		any = false
@@ -281,8 +284,8 @@ script 13 mmbn6 {
 script 14 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Nautilus CompTank"
+	No rótulo:
+	"NetTanque dos Náutilos"
 	"""
 	keyWait
 		any = false
@@ -291,8 +294,9 @@ script 14 mmbn6 {
 script 15 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"King Crab CompTank"
+	No rótulo:
+	"NetTanque dos
+	Caranguejos-Reais"
 	"""
 	keyWait
 		any = false
@@ -301,8 +305,9 @@ script 15 mmbn6 {
 script 16 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Turtle CompTank"
+	No rótulo:
+	"NetTanque das
+	Tartarugas"
 	"""
 	keyWait
 		any = false
@@ -311,8 +316,8 @@ script 16 mmbn6 {
 script 17 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Alligator CompTank"
+	No rótulo:
+	"NetTanque dos Jacarés"
 	"""
 	keyWait
 		any = false
@@ -321,8 +326,8 @@ script 17 mmbn6 {
 script 18 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Dolphin CompTank"
+	No rótulo:
+	"NetTanque dos Golfinhos"
 	"""
 	keyWait
 		any = false
@@ -331,9 +336,9 @@ script 18 mmbn6 {
 script 19 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Elephant Seal
-	 CompTank"
+	No rótulo:
+	"NetTanque dos
+	Elefantes-Marinhos"
 	"""
 	keyWait
 		any = false
@@ -342,8 +347,8 @@ script 19 mmbn6 {
 script 20 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Penguin CompTank"
+	No rótulo:
+	"NetTanque dos Pinguins"
 	"""
 	keyWait
 		any = false
@@ -351,18 +356,18 @@ script 20 mmbn6 {
 }
 script 21 mmbn6 {
 	msgOpen
-	"... OH! I REMEMBER!"
+	"... AH! ME LEMBREI!"
 	keyWait
 		any = false
 	clearMsg
-	"I'M REALLY A..."
+	"NA VERDADE, EU SOU..."
 	keyWait
 		any = false
 	end
 }
 script 22 mmbn6 {
 	msgOpen
-	"... A... I FORGET..."
+	"... UM... ESQUECI..."
 	keyWait
 		any = false
 	end
@@ -370,21 +375,21 @@ script 22 mmbn6 {
 script 23 mmbn6 {
 	msgOpen
 	soundDisableTextSFX
-	"*BEEP!*"
+	"BIIP!"
 	wait
 		frames = 60
-	" *BEEP!*"
+	" BIIIP!"
 	wait
 		frames = 60
 	keyWait
 		any = false
 	clearMsg
 	soundEnableTextSFX
-	"ANIMAL MISMATCH!"
+	"ANIMAL INCOMPATÍVEL!"
 	keyWait
 		any = false
 	clearMsg
-	"BEGIN DELETION!"
+	"INICIAR DELEÇÃO!"
 	keyWait
 		any = false
 	end
@@ -394,8 +399,8 @@ script 24 mmbn6 {
 		flag = 1525
 	msgOpen
 	"""
-	A SUNFISH! YES,
-	THAT'S ME!
+	UM PEIXE-LUA!
+	É, É ISSO O QUE EU SOU!
 	"""
 	keyWait
 		any = false
@@ -406,8 +411,8 @@ script 25 mmbn6 {
 		flag = 1526
 	msgOpen
 	"""
-	A TROPICAL FISH!
-	BLOOP,BLOOP!
+	UM PEIXE TROPICAL!
+	BLUB BLUB!
 	"""
 	keyWait
 		any = false
@@ -418,9 +423,9 @@ script 26 mmbn6 {
 		flag = 1527
 	msgOpen
 	"""
-	A PIRANHA! MAN,
-	I CAN'T BELIEVE
-	I FORGOT!
+	UMA PIRANHA! CARA,
+	NÃO ACREDITO QUE EU
+	ESQUECI DISSO!
 	"""
 	keyWait
 		any = false
@@ -430,7 +435,7 @@ script 27 mmbn6 {
 	flagSet
 		flag = 1528
 	msgOpen
-	"A NAUTILUS! OUI,OUI!"
+	"UM NÁUTILO! OUI, OUI!"
 	keyWait
 		any = false
 	end
@@ -440,9 +445,9 @@ script 28 mmbn6 {
 		flag = 1529
 	msgOpen
 	"""
-	A KING CRAB! THANK
-	YOU FOR HELPING,
-	PEASANT.
+	UM CARANGUEJO-REAL!
+	TENS MINHA GRATIDÃO
+	PELA AJUDA, PLEBEU.
 	"""
 	keyWait
 		any = false
@@ -453,9 +458,9 @@ script 29 mmbn6 {
 		flag = 1530
 	msgOpen
 	"""
-	A TURTLE! AH,MY
-	MEMORY IS SLOWLY
-	COMING BACK.
+	UMA TARTARUGA! AH,
+	MINHA MEMÓRIA ESTÁ
+	VOLTANDO, LENTAMENTE.
 	"""
 	keyWait
 		any = false
@@ -466,16 +471,16 @@ script 30 mmbn6 {
 		flag = 1531
 	msgOpen
 	"""
-	OH,SNAP,
-	AN ALLIGATOR!
+	CARAMBA, MANÉ,
+	EU SOU UM JACARÉ!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M A REPTILE,SO
-	THAT'S WHY LIZARDS
-	DIG ME!
+	EU SOU UM RÉPTIL,
+	POR ISSO QUE SOU
+	POPULAR ENTRE ELES!
 	"""
 	keyWait
 		any = false
@@ -486,15 +491,16 @@ script 31 mmbn6 {
 		flag = 1532
 	msgOpen
 	"""
-	A DOLPHIN!
-	*SQUEEK!*
+	UM GOLFINHO!
+	IH-IH-IIIH!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... GUESS I'M NOT A
-	WHALE,TEE,HEE!
+	... ACHO QUE EU
+	NÃO ERA MESMO UMA
+	BALEIA, HE HE!
 	"""
 	keyWait
 		any = false
@@ -505,9 +511,9 @@ script 32 mmbn6 {
 		flag = 1533
 	msgOpen
 	"""
-	AN ELEPHANT SEAL!
-	AND ELEPHANTS NEVER
-	FORGET... HMPH!
+	UM ELEFANTE-MARINHO!
+	ERA PRA ELEFANTES NUNCA
+	ESQUECEREM... AFE!
 	"""
 	keyWait
 		any = false
@@ -518,21 +524,21 @@ script 33 mmbn6 {
 		flag = 1534
 	msgOpen
 	"""
-	A PENGUIN!
-	A PENGUIN,I SAY!
+	UM PINGUIM!
+	UM PINGUIM, SIM!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... OH,THAT MEANS I
-	CAN'T REALLY FLY IN
-	THE SKY,HUH?
+	... AH, ISSO QUER
+	DIZER QUE EU NÃO
+	VOO, NÃO, NÉ?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*BLUSH*"
+	"HE... ER..."
 	keyWait
 		any = false
 	end
@@ -541,7 +547,7 @@ script 34 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"IS THIS MY COMPTANK?\n"
+	"É ESTE O MEU NETTANQUE?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -552,7 +558,7 @@ script 34 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -561,7 +567,7 @@ script 34 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -713,15 +719,16 @@ script 36 mmbn6 {
 script 37 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Sunfish CompTank"
+	No rótulo:
+	"NetTanque dos
+	Peixes-Lua"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"IS THIS MY COMPTANK?\n"
+	"É ESTE O MEU NETTANQUE?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -732,7 +739,7 @@ script 37 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -741,7 +748,7 @@ script 37 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -757,16 +764,16 @@ script 37 mmbn6 {
 script 38 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Tropical Fish
-	 CompTank"
+	No rótulo:
+	"NetTanque dos
+	Peixes Tropicais"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"IS THIS MY COMPTANK?\n"
+	"É ESTE O MEU NETTANQUE?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -777,7 +784,7 @@ script 38 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -786,7 +793,7 @@ script 38 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -802,15 +809,15 @@ script 38 mmbn6 {
 script 39 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Piranha CompTank"
+	No rótulo:
+	"NetTanque das Piranhas"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"IS THIS MY COMPTANK?\n"
+	"É ESTE O MEU NETTANQUE?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -821,7 +828,7 @@ script 39 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -830,7 +837,7 @@ script 39 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -846,15 +853,15 @@ script 39 mmbn6 {
 script 40 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Nautilus CompTank"
+	No rótulo:
+	"NetTanque dos Náutilos"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"IS THIS MY COMPTANK?\n"
+	"É ESTE O MEU NETTANQUE?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -865,7 +872,7 @@ script 40 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -874,7 +881,7 @@ script 40 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -890,15 +897,16 @@ script 40 mmbn6 {
 script 41 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"King Crab CompTank"
+	No rótulo:
+	"NetTanque dos
+	Caranguejos-Reais"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"IS THIS MY COMPTANK?\n"
+	"É ESTE O MEU NETTANQUE?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -909,7 +917,7 @@ script 41 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -918,7 +926,7 @@ script 41 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -934,15 +942,16 @@ script 41 mmbn6 {
 script 42 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Turtle CompTank"
+	No rótulo:
+	"NetTanque das
+	Tartarugas"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"IS THIS MY COMPTANK?\n"
+	"É ESTE O MEU NETTANQUE?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -953,7 +962,7 @@ script 42 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -962,7 +971,7 @@ script 42 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -978,15 +987,15 @@ script 42 mmbn6 {
 script 43 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Alligator CompTank"
+	No rótulo:
+	"NetTanque dos Jacarés"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"IS THIS MY COMPTANK?\n"
+	"É ESTE O MEU NETTANQUE?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -997,7 +1006,7 @@ script 43 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1006,7 +1015,7 @@ script 43 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1022,15 +1031,15 @@ script 43 mmbn6 {
 script 44 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Dolphin CompTank"
+	No rótulo:
+	"NetTanque dos Golfinhos"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"IS THIS MY COMPTANK?\n"
+	"É ESTE O MEU NETTANQUE?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -1041,7 +1050,7 @@ script 44 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1050,7 +1059,7 @@ script 44 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1066,16 +1075,16 @@ script 44 mmbn6 {
 script 45 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Elephant Seal
-	 CompTank"
+	No rótulo:
+	"NetTanque dos
+	Elefantes-Marinhos"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"IS THIS MY COMPTANK?\n"
+	"É ESTE O MEU NETTANQUE?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -1086,7 +1095,7 @@ script 45 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1095,7 +1104,7 @@ script 45 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1111,15 +1120,15 @@ script 45 mmbn6 {
 script 46 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Penguin CompTank"
+	No rótulo:
+	"NetTanque dos Pinguins"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"IS THIS MY COMPTANK?\n"
+	"É ESTE O MEU NETTANQUE?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -1130,7 +1139,7 @@ script 46 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1139,7 +1148,7 @@ script 46 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1156,7 +1165,7 @@ script 47 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = MrProgGreen
-	"WAAAAAH!"
+	"AAAAAUUGH!"
 	keyWait
 		any = false
 	end
@@ -1165,7 +1174,7 @@ script 48 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = MrProgGreen
-	"N_NOOOOOOO!"
+	"N-NÃÃÃÃÃOOO!"
 	keyWait
 		any = false
 	end
@@ -1174,7 +1183,7 @@ script 49 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = MrProgGreen
-	"EEEEEEEE!"
+	"IIIIIIIGH!"
 	keyWait
 		any = false
 	end
@@ -1184,9 +1193,8 @@ script 50 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	GOLLY,I WISH I
-	COULD REMEMBER
-	WHAT I AM...
+	AI, EU QUERIA TANTO
+	LEMBRA O QUE EU ERA...
 	"""
 	keyWait
 		any = false
@@ -1196,9 +1204,9 @@ script 50 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I THINK I OWE
-	SOMETHING TO A
-	SEA ANEMONE...
+	ACHO QUE EU DEVIA
+	ALGUMA COISA PRA UMA
+	ANÊMONA-DO-MAR...
 	"""
 	keyWait
 		any = false
@@ -1211,36 +1219,36 @@ script 51 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HEY...
-	DON'T REMEMBER
-	MUCH,BUT...
+	EI...
+	EU NÃO LEMBRO DE
+	MUITA COISA, MAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HMM... IF ONLY
-	I HAD A CLUE...
+	HMM... SE, AO MENOS,
+	EU TIVESSE UMA PISTA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DON'T REALLY KNOW
-	ANYTHING ABOUT ME
-	THAT STANDS OUT...
+	NÃO CONSIGO PENSAR EM
+	NADA A MEU RESPEITO
+	QUE SE DESTACASSE...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OH,WHAT TO DO,
-	WHAT TO DO...
+	AH, O QUE EU FAÇO,
+	O QUE EU FAÇO...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...... *CHOMP*"
+	"...... NHAC."
 	keyWait
 		any = false
 	clearMsg
@@ -1252,24 +1260,24 @@ script 52 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH DEAR,OH MY...
-	MY MEMORY IS REALLY
-	GOING... AND YET...
+	Ó, CÉUS, Ó, VIDA...
+	A MINHA MEMÓRIA ESTÁ
+	SUMINDO... MAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I KNOW ALL ABOUT
-	THE SEASIDE TOWN
-	AQUARIUM... STRANGE.
+	EU SEI DE TUDO SOBRE
+	O AQUÁRIO DO DISTRITO
+	BEIRA-MAR... ESTRANHO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT IN THE WORLD
-	AM I...?
+	MAS, AFINAL,
+	O QUE SOU EU...?
 	"""
 	keyWait
 		any = false
@@ -1280,9 +1288,9 @@ script 52 mmbn6 {
 script 53 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Clown Fish
-	 CompTank"
+	No rótulo:
+	"NetTanque dos
+	Peixes-Palhaço"
 	"""
 	keyWait
 		any = false
@@ -1291,8 +1299,8 @@ script 53 mmbn6 {
 script 54 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Shark CompTank"
+	No rótulo:
+	"NetTanque dos Tubarões"
 	"""
 	keyWait
 		any = false
@@ -1301,16 +1309,16 @@ script 54 mmbn6 {
 script 55 mmbn6 {
 	msgOpen
 	"""
-	The nameplate is
-	broken...
+	A plaquinha do nome
+	está quebrada...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't tell what
-	animal's CompTank
-	this is...
+	Não dá para ler
+	de qual animal
+	este NetTanque é...
 	"""
 	keyWait
 		any = false
@@ -1319,9 +1327,9 @@ script 55 mmbn6 {
 script 56 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Clown Fish
-	 CompTank"
+	No rótulo:
+	"NetTanque dos
+	Peixes-Palhaço"
 	"""
 	keyWait
 		any = false
@@ -1333,8 +1341,8 @@ script 56 mmbn6 {
 script 57 mmbn6 {
 	msgOpen
 	"""
-	It's labeled:
-	"Shark CompTank"
+	No rótulo:
+	"NetTanque dos Tubarões"
 	"""
 	keyWait
 		any = false
@@ -1346,16 +1354,16 @@ script 57 mmbn6 {
 script 58 mmbn6 {
 	msgOpen
 	"""
-	The nameplate is
-	broken...
+	A plaquinha do nome
+	está quebrada...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't tell what
-	animal's CompTank
-	this is...
+	Não dá para ler
+	de qual animal
+	este NetTanque é...
 	"""
 	keyWait
 		any = false
@@ -1369,24 +1377,25 @@ script 59 mmbn6 {
 	flagSet
 		flag = 4034
 	"""
-	A CLOWN FISH!
-	I'M A FAVORITE
-	WITH THE KIDS!
+	SOU UM PEIXE-PALHAÇO!
+	AS CRIANÇAS ADORAM
+	ME "PROCURAR"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SHUCKS,I'M JUST A
-	SHY,LITTLE FISH THAT
-	HIDES IN AN ANEMONE!
+	AH, SOU SÓ UM PEIXINHO
+	TÍMIDO QUE SE ESCONDE
+	NAS ANÊMONAS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I FEEL SO MUCH
-	BETTER!
+	ME SINTO MUITO
+	MELHOR AGORA!
+	VOU CONTINUAR A NADAR!
 	"""
 	keyWait
 		any = false
@@ -1396,19 +1405,19 @@ script 60 mmbn6 {
 	msgOpen
 	flagSet
 		flag = 4035
-	"A SHARK! MMMM..."
+	"UM TUBARÃO! MMMM..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NO WONDER I HAVE
-	AN UNSTOPPABLE URGE
-	TO EAT EVERYTHING!
+	NÃO É À TOA QUE TENHO
+	UMA VONTADE INSACIÁVEL
+	DE COMER DE TUDO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*CH_CHOMP!*"
+	"N-NHAC!"
 	keyWait
 		any = false
 	end
@@ -1418,32 +1427,30 @@ script 61 mmbn6 {
 	flagSet
 		flag = 4036
 	"""
-	AN AQUARIUM
-	DIRECTOR!
+	UM DIRETOR DE AQUÁRIO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M THE AQUARIUM
-	DIRECTOR MADE INTO
-	A JOKE PROGRAM!
+	EU SOU O DIRETOR DO
+	AQUÁRIO, CONVERTIDO EM
+	UM PROGRAMA-PARÓDIA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I GUESS THAT'S WHY I
-	KNOW SO MUCH ABOUT
-	THE AQUARIUM!
+	ACHO QUE É POR
+	ISSO QUE EU ENTENDO
+	TANTO DO AQUÁRIO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... WHICH MEANS I'M
-	NOT REALLY A FISH
-	AT ALL,HUH...?
+	... OU SEJA, EU NEM
+	SOU UM PEIXE, NÉ...?
 	"""
 	keyWait
 		any = false

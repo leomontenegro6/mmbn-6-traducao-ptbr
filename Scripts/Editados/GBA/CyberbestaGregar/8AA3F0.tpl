@@ -6,23 +6,23 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE CLASS
-	1_2 COMP.
+	ESTE É O COMPUTADOR
+	DA SALA 1-2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JUST A BIT AGO,
-	THE BREAKDOWN WAS
-	FINALLY FIXED!!
+	ELE ESTAVA QUEBRADO,
+	MAS FINALMENTE FOI
+	CONSERTADO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOOHOO!
-	I'M SO HAPPY!!
+	URRÚÚÚ!
+	TÔ TÃO FELIZ!!
 	"""
 	keyWait
 		any = false
@@ -38,86 +38,87 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	msgOpen
-	"Eh,hey!"
+	"Opa, oi!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I may look like this
-	now,but I used to be
-	a famous virus prof!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	However,years
-	exposed to viruses
-	turned me into this!
+	Posso estar assim agora,
+	mas já fui um super
+	pesquisador de vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You wouldn't want to
-	buy a virus would
-	you?
+	Só que anos expostos
+	aos vírus me deixaram
+	neste estado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you have this
+	Você não estaria
+	interessado em comprar
+	um vírus, por acaso?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se usar este
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 64
 	"""
-	"
-	I developed,
+	" que
+	eu desenvolvi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you can store
-	virus data inside.
+	vai poder armazenar
+	dados de vírus dentro
+	dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When you have a
-	virus,you can enter
+	Quando tiver um
+	vírus,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a virus battle
-	taking place in a
-	comp!
+	poderá entrar em uma
+	luta de vírus dentro
+	de um computador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can buy one
-	with 2 viruses for
+	Estou vendendo um com
+	dois vírus dentro por
 	5000...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No! Make that 2000
-	Zennys!!
+	Não! Faço por
+	2000 Zennys!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How about it!?"
+	"Que tal?!"
 	keyWait
 		any = false
 	clearMsg
@@ -132,7 +133,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -141,7 +142,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't Buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -156,9 +157,9 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	You've got cash...
-	And I wan't some...
-	Please buy this!
+	Você tem dinheiro...
+	E eu quero...
+	Por favor, compra!
 	"""
 	keyWait
 		any = false
@@ -180,15 +181,15 @@ script 11 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	Thank...
-	Thank you...
+	Obri...
+	Obrigado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright... Here it
-	is!
+	Tá bom...
+	Tome aqui!
 	"""
 	keyWait
 		any = false
@@ -201,7 +202,7 @@ script 11 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -216,32 +217,32 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	Alright,so if you
-	check around the
-	Cyberworld,
+	Então: se você der
+	uma conferida pelo
+	mundo cibernético,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there are extremely
-	rare viruses with
-	"Rare" in the names.
+	pode achar vírus
+	extremamente raros.
+	Eles têm "Raro" no nome.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you delete a
-	rare virus,you can
-	get its data!
+	Quando deleta um,
+	você consegue os
+	dados dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can store virus
-	data in the
+	E dá para armazenar
+	dados de vírus no
 	"
 	"""
 	printItem
@@ -252,46 +253,44 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	If you want to
-	enter in a virus
-	battle,
+	Se quiser entrar em
+	uma batalha de vírus,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	find a different
-	colored Mr.Progs and
-	talk to it.
+	encontre Progs de
+	coloração diferente
+	e fale com eles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Prog's
-	whereabouts...?
+	A localização
+	desses Progs...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They should be near
-	places with dogs or
-	robots...
+	Eles devem estar por
+	volta de lugares com
+	cães ou robôs...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go find them for
-	yourself...
+	Encontre-os...
 	"""
 	keyWait
 		any = false
 	end
 	"""
-	Thank you for
-	your business!
+	E obrigado pela
+	preferência!
 	"""
 	keyWait
 		any = false
@@ -302,9 +301,9 @@ script 12 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	Sorry...
-	You don't have
-	enough money...
+	Lamento...
+	Você precisa de
+	mais dinheiro...
 	"""
 	keyWait
 		any = false
@@ -315,32 +314,32 @@ script 13 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	Alright,so if you
-	check around the
-	Cyberworld,
+	Então: se você der
+	uma conferida pelo
+	mundo cibernético,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there are extremely
-	rare viruses with
-	"Rare" in the name.
+	pode achar vírus
+	extremamente raros.
+	Eles têm "Raro" no nome.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you delete a
-	rare virus,you can
-	get its data!
+	Quando deleta um,
+	você consegue os
+	dados dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can store virus
-	data in the
+	E dá para armazenar
+	dados de vírus no
 	"
 	"""
 	printItem
@@ -351,46 +350,44 @@ script 13 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	If you want to
-	enter in a virus
-	battle,
+	Se quiser entrar em
+	uma batalha de vírus,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	find a different
-	colored Mr.Progs and
-	talk to it.
+	encontre Progs de
+	coloração diferente
+	e fale com eles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Prog's
-	whereabouts...?
+	A localização
+	desses Progs...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They should be near
-	places with dogs or
-	robots...
+	Eles devem estar por
+	volta de lugares com
+	cães ou robôs...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go find them for
-	yourself...
+	Encontre-os...
 	"""
 	keyWait
 		any = false
 	end
 	"""
-	Thank you for
-	your business!
+	E obrigado pela
+	preferência!
 	"""
 	keyWait
 		any = false

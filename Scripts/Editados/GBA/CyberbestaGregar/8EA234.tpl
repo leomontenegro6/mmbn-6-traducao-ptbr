@@ -5,18 +5,18 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Hmmmm,hmmmm..."
+	"Hmmmm, hmmmm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no one left
-	in this area!
+	Não tem mais ninguém
+	nesta área!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hyahahaha!"
+	"Hya ha ha ha!"
 	keyWait
 		any = false
 	end

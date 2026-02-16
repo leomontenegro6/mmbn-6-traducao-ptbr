@@ -13,15 +13,14 @@ script 0 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	It's the elevator's
-	control panel...
+	É o painel de controle
+	do elevador...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks perfectly
-	normal.
+	Parece normal.
 	"""
 	keyWait
 		any = false
@@ -39,27 +38,27 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"How is it,MegaMan?"
+	"E aí, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Um... Hold on and
-	I'll take a look!
+	Hm... Pera aí, eu
+	vou dar uma olhada!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Um... Hmm..."
+	"Hum... Hmm..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	A virus suddenly
-	jumps out at
+	Um vírus saltou de
+	repente e atacou o
 	MegaMan!!
 	"""
 	keyWait
@@ -67,7 +66,7 @@ script 6 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Waaaah!!"
+	"Aaaaugh!!"
 	keyWait
 		any = false
 	flagSet

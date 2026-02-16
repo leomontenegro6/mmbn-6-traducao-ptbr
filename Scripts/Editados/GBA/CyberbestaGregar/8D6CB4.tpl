@@ -5,13 +5,13 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Is this..."
+	"... Essas são..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the JudgeTree's
-	roots!?
+	as raízes da
+	Árvore Juíza?!
 	"""
 	keyWait
 		any = false
@@ -23,7 +23,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"That's gotta be it!"
+	"Devem ser!"
 	keyWait
 		any = false
 	clearMsg
@@ -32,15 +32,16 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	You've gotta find a
-	port to jack me in,
+	Você tem que achar
+	uma entrada e me
+	conectar nela,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and then I'll stop
-	the JudgeTree!
+	aí eu paro a
+	Árvore Juíza!
 	"""
 	keyWait
 		any = false
@@ -52,7 +53,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Got it!!"
+	"Beleza!!"
 	keyWait
 		any = false
 	end

@@ -5,23 +5,23 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,they're coming!"
+	"Lan, lá vem!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Leave it to me!!"
+	"Deixa comigo!!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -36,23 +36,23 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,they're coming!"
+	"Lan, lá vem!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Leave it to me!!"
+	"Deixa comigo!!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -67,23 +67,23 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,they're coming!"
+	"Lan, lá vem!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Leave it to me!!"
+	"Deixa comigo!!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -112,35 +112,34 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WHHHAAAAA..."
+	"UUUÉÉÉÉ..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT'S GOING ON
-	HERE!?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I THOUGHT I
-	HEARD A BEAST'S
-	ROAR,
+	O QUE ESTÁ
+	ACONTECENDO AQUI?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEN ALL OF A SUDDEN
-	EVIL SPIRITS JUST
+	EU PENSEI TER OUVIDO
+	O RUGIDO DE UMA FERA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	APPEARED AND TOOK
-	OVER THIS AREA!
+	AÍ, DE REPENTE,
+	ESPÍRITOS MALIGNOS
+	APARECERAM AQUI
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E TOMARAM A ÁREA!
 	"""
 	keyWait
 		any = false
@@ -148,9 +147,9 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Was there a Navi
-	that looked
-	like a clown?
+	Você viu um Navi
+	que parecia um
+	palhaço com eles?
 	"""
 	keyWait
 		any = false
@@ -158,73 +157,72 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	AHH... THAT NAVI
-	IS RIGHT OVER
-	THERE!
+	AHH... AQUELE NAVI!
+	ELE TÁ BEM ALI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I THOUGHT I WOULD
-	FINISH HIM,BUT
+	EU PENSEI EM
+	ACABAR COM ELE,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BECAUSE OF THE
-	DARKNESS THE EVIL
-	SPIRITS MADE,
+	MAS, DEVIDO À ESCURIDÃO
+	QUE OS ESPÍRITOS
+	MALIGNOS CRIARAM,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I COULDN'T REACH
-	HIM.
+	NÃO CONSEGUI
+	CHEGAR ATÉ ELE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = CircusMan
-	"Ahoo,hoo,hoo!!"
+	"Ahu hu hu huuu!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Welcome to the
-	bigtop,MegaMan.
-	If you want to
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	fight me,you have
-	to finish the 3
-	EvilSpirits in this
+	Bem-vindo à minha
+	lona, MegaMan. Se
+	quiser lutar comigo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	area. Can you defeat
-	them without your
-	SoulWeapon?
+	terá que acabar com
+	os três Espíritos
+	Malignos nesta área.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ahoo,hoo,hoo!!"
+	"""
+	Será que vai ser
+	capaz de vencê-los
+	sem as suas ArmasAlma?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Ahu hu hu huuu!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Have a honkin'
-	great time!!
-	Ahoo,hoo,hoo!!
+	Quero ver um sorriso
+	bem grandão!!
+	Ahu hu hu huuu!!
 	"""
 	keyWait
 		any = false
@@ -235,33 +233,33 @@ script 3 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,Lan!!"
+	"Vamos lá, Lan!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Gotcha!!"
+	"Beleza!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	THE EVIL SPIRITS
-	IN THIS AREA ARE
+	OS ESPÍRITOS MALIGNOS
+	NESTA ÁREA ESTÃO
+	VOANDO POR AÍ COMO UMA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FLYING AROUND LIKE
-	A STORM!
+	TEMPESTADE!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"TAKE CARE!"
+	"TOME CUIDADO!"
 	keyWait
 		any = false
 	end
@@ -271,8 +269,9 @@ script 4 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WATCH OUT FOR
-	FLYING EVIL SPIRITS!
+	CUIDADO COM OS
+	ESPÍRITOS MALIGNOS
+	VOADORES!
 	"""
 	keyWait
 		any = false
@@ -283,21 +282,20 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE DARKNESS IS
-	GONE!
+	A ESCURIDÃO SE FOI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NOW ALL THAT'S
-	LEFT IS CRUSHING
-	THAT DUMB NAVI!
+	AGORA, SÓ FALTA
+	ACABAR COM AQUELE
+	NAVI CRETINO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"GO FOR IT!!"
+	"VAI NA FÉ!!"
 	keyWait
 		any = false
 	end
@@ -307,17 +305,16 @@ script 6 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE EVIL SPIRITS ARE
-	GONE,AND IT'S
-	PEACEFUL AGAIN,BUT
+	OS ESPÍRITOS MALIGNOS
+	SE FORAM E A PAZ VOLTOU,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M WORRIED
-	SOMETHING ELSE BAD
-	MIGHT HAPPEN NEXT.
+	MAS ESTOU PREOCUPADO
+	QUE OUTRA COISA RUIM
+	ACONTEÇA AGORA.
 	"""
 	keyWait
 		any = false

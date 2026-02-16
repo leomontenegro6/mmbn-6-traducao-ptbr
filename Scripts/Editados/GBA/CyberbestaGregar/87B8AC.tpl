@@ -10,8 +10,7 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ahh,Iris!
-	Nice to see you!
+	Ahh, Iris! Bom te ver!
 	"""
 	keyWait
 		any = false
@@ -19,8 +18,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	"""
-	...You're inviting
-	me to the Expo too?
+	... Você também vai
+	me convidar para a
+	Exposição?
 	"""
 	keyWait
 		any = false
@@ -28,27 +28,27 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah! It's gonna
-	be great! Let's
-	go together!!
+	Aham! Vai ser super
+	legal! Bora junto!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We are meeting at
-	blah blah blah...
+	A gente vai se
+	encontrar lá no
+	blá blá blá...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Got it?"
+	"Sacou?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Iris
-	"Umm...yeah..."
+	"Hum... Aham..."
 	keyWait
 		any = false
 	flagSet
@@ -60,8 +60,8 @@ script 1 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	...The...Expo...
-	It'll...be...fun...
+	... A... Exposição...
+	Vai ser... divertido...
 	"""
 	keyWait
 		any = false

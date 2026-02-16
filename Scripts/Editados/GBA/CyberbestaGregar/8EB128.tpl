@@ -6,16 +6,16 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	"""
-	... SeasideArea,
-	SeasideArea...
+	... Área Beira-Mar,
+	Área Beira-Mar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please remember to
-	take everything with
-	you.
+	Verifiquem se estão
+	levando todos os seus
+	pertences.
 	"""
 	keyWait
 		any = false
@@ -26,16 +26,15 @@ script 1 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Choo,choo!!
-	Great driving!
+	Tchú-tchúú!!
+	Ótima pilotagem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We got to the final
-	stop without a
-	hitch!
+	Chegamos na parada
+	final sem problemas!
 	"""
 	keyWait
 		any = false
@@ -48,15 +47,15 @@ script 2 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	... Jack ChargeMan
-	out,Lan.
+	... Desconecte
+	o ChargeMan, Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next comes the final
-	test...
+	Chegou a hora
+	da prova final...
 	"""
 	keyWait
 		any = false
@@ -68,7 +67,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... OK!"
+	"... Tá!"
 	keyWait
 		any = false
 	end

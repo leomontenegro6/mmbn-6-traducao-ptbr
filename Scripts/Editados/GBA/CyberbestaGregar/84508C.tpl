@@ -6,8 +6,7 @@ script 0 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	You've got new
-	mail.
+	Há novas mensagens.
 	"""
 	waitHold
 }
@@ -16,8 +15,8 @@ script 1 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Which mail would
-	you like to read?
+	Qual e-mail você
+	gostaria de ler?
 	"""
 	waitHold
 }
@@ -26,8 +25,7 @@ script 2 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	You have no new
-	mail.
+	Nenhuma mensagem nova.
 	"""
 	waitHold
 }
@@ -47,8 +45,7 @@ script 10 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	YOU'VE GOT NEW
-	MAIL.
+	HÁ NOVAS MENSAGENS.
 	"""
 	waitHold
 }
@@ -60,8 +57,8 @@ script 11 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	WHICH MAIL WOULD
-	YOU LIKE TO READ?
+	QUAL E-MAIL VOCÊ
+	GOSTARIA DE LER?
 	"""
 	waitHold
 }
@@ -73,8 +70,7 @@ script 12 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	YOU HAVE NO NEW
-	MAIL.
+	NENHUMA MENSAGEM NOVA.
 	"""
 	waitHold
 }

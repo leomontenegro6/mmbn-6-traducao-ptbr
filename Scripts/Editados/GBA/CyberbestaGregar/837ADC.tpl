@@ -6,14 +6,13 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	let's try some
-	virus busting!
+	Lan, vamos deletar
+	esses vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Operate away!"
+	"Me opere!"
 	keyWait
 		any = false
 	clearMsg
@@ -24,31 +23,31 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me.
-	Let's go,MegaMan!!!
+	Deixa comigo.
+	Vamos nessa, MegaMan!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Umm... To battle
-	viruses...
+	Humm... Pra lutar
+	contra vírus...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...first I've gotta
-	send Chip Data to
-	MegaMan!
+	... primeiro, eu tenho
+	que mandar dados de
+	chips pro MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can select
-	BattleChips in
-	this Custom Window.
+	Eu posso selecionar
+	BattleChips nesta
+	Janela de Customização.
 	"""
 	keyWait
 		any = false
@@ -59,17 +58,17 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Here are the chips
-	I can select. Hmm...
-	Any good ones?
+	Estes são os chips que
+	eu posso selecionar.
+	Hmm... Algum que preste?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The chips in the
-	folder I've equipped
-	are shown here.
+	Os chips da pasta
+	que eu tenho equipada
+	aparecem aqui.
 	"""
 	keyWait
 		any = false
@@ -80,9 +79,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I see the currently
-	highlighted Chip's
-	Data here!
+	Olha só os dados do
+	chip que aparecem aqui!
 	"""
 	keyWait
 		any = false
@@ -92,7 +90,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"This is its Attack."
+	"Este é o poder\nde ataque dele."
 	keyWait
 		any = false
 	end
@@ -101,14 +99,14 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm ready now!"
+	"Tá, pronto!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now this is crucial.
-	Here is the virus's
-	HP or hit points.
+	Agora, um detalhe vital.
+	Estes são os PV, pontos
+	de vida, dos vírus.
 	"""
 	keyWait
 		any = false
@@ -119,9 +117,9 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	HP shows how much
-	damage it can take.
-	Gotta remember that!
+	Os PV mostram quanto
+	dano eles aguentam.
+	Não posso esquecer!
 	"""
 	keyWait
 		any = false
@@ -133,24 +131,25 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Got it,Lan? You
-	can only send data
-	for 1 chip per turn,
+	Lembrou, Lan? Você só
+	pode mandar os dados
+	de um chip por turno,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	unless it is
-	data from the
-	same type of chip.
+	a menos que sejam os
+	dados de vários chips
+	do mesmo tipo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have 2 Cannons,so
-	let's go with them!
+	A gente tem dois
+	Cannons, então,
+	vamos usar eles!
 	"""
 	keyWait
 		any = false
@@ -161,43 +160,45 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's a no_brainer!
-	I got it down!
+	Moleza!
+	Eu sei isso de
+	cor e salteado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The A Button selects
-	the chip to send.
+	O botão "A" seleciona o
+	chip que vai ser enviado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The R Button shows
-	the chip's info.
+	Apertando "R", eu vejo
+	as informações do chip.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the L Button
-	is for escaping.
+	E apertando o "L",
+	eu fujo da luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But this is no time
-	to run away!
+	Mas isto lá é
+	hora de fugir?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd better send Chip
-	Data to MegaMan now!
+	Eu vou é mandar dados
+	de chips pro MegaMan
+	agora!
 	"""
 	keyWait
 		any = false
@@ -208,16 +209,16 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There are 2 Cannons,
-	so I can select 1
-	more!
+	Tem dois Cannons,
+	então eu posso mandar
+	mais um!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't pass up a
-	chance like this!
+	Não posso deixar essa
+	chance escapar!
 	"""
 	keyWait
 		any = false
@@ -228,9 +229,9 @@ script 10 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you don't have
-	to cancel that last
-	move,do you?
+	Lan, você não tem
+	que cancelar essa
+	última ação...
 	"""
 	keyWait
 		any = false
@@ -241,15 +242,15 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	send 1 more Cannon!
+	Lan, manda mais
+	um Cannon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can delete the
-	viruses in a flash!
+	Aí eu deleto esses vírus
+	num piscar de olhos!
 	"""
 	keyWait
 		any = false
@@ -260,27 +261,28 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! You haven't
-	selected any chips!
+	Lan! Você ainda não
+	selecionou nenhum chip!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can fight with my
-	MegaBuster alone,
+	Sim, dá pra eu lutar
+	só com o meu MegaTiro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but some Chip Data
-	would be a big help!
+	mas uns chips seriam
+	uma mão na roda!
+	Duas mãos, até!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Got any good chips?"
+	"Não tem nenhum bom aí?"
 	keyWait
 		any = false
 	end
@@ -290,9 +292,9 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you have to bust
-	the viruses. This is
-	no time to run!
+	Lan, você tem que
+	deletar os vírus.
+	Não é hora de fugir!
 	"""
 	keyWait
 		any = false
@@ -303,14 +305,14 @@ script 14 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Now that I've
-	selected Chip Data,
-	I just select OK!
+	Agora que eu selecionei
+	os dados dos chips, é
+	só apertar "OK"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here we go,MegaMan!"
+	"Vamos lá, MegaMan!"
 	keyWait
 		any = false
 	end
@@ -320,15 +322,15 @@ script 15 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The chips you've
-	selected are fine!
+	Os chips que você
+	selecionou tão ótimos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up and send
-	the data!
+	Rápido, só manda
+	logo os dados!
 	"""
 	keyWait
 		any = false
@@ -339,9 +341,9 @@ script 16 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,I sent the
-	Chip Data! Time to
-	start virus busting!
+	MegaMan, eu mandei
+	dados de chips! Hora
+	de deletar uns vírus!
 	"""
 	keyWait
 		any = false
@@ -352,36 +354,36 @@ script 17 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	operate away!
+	Me opere, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can move up,down,
-	left and right on
-	the battlefield.
+	Durante a luta, eu posso
+	andar pra cima, baixo,
+	esquerda e direita.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fire the MegaBuster
-	with the B Button.
-	It's weak but fast.
+	Aperte "B" para
+	disparar o MegaTiro.
+	É fraco, porém, veloz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hold it down longer
-	for a ChargeShot.
+	Segure "B" e depois
+	solte para usar um
+	Tiro Carregado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Remember that,OK?"
+	"Não vá esquecer, viu?"
 	keyWait
 		any = false
 	end
@@ -390,13 +392,13 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here are my HP!"
+	"Estes são os meus PV!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be deleted if
-	they reach 0!
+	Se chegarem a zero,
+	eu vou ser deletado!
 	"""
 	keyWait
 		any = false
@@ -407,32 +409,32 @@ script 19 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The Chip Data you
-	just sent is shown
-	above my head.
+	Os dados dos chips que
+	você mandou aparecem
+	sobre a minha cabeça.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use them with the
-	A Button!
+	Aperte "A" pra
+	usar os chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But be careful!
-	Each one can be
-	used only once!
+	Mas cuidado!
+	Cada chip só pode
+	ser usado uma vez!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If a virus remains
-	even after you used
-	all your chips...
+	Se sobrar vírus mesmo
+	depois de você gastar
+	todos os chips...
 	"""
 	keyWait
 		any = false
@@ -444,8 +446,9 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I know,I know! The
-	CustGauge,right?
+	Eu sei, eu sei!
+	A Barra de Customização,
+	né?
 	"""
 	keyWait
 		any = false
@@ -456,38 +459,38 @@ script 21 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The CustGauge
-	gradually rises
-	over time.
+	A BarraCust vai sendo
+	preenchida gradualmente
+	com o passar do tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once it's full,
-	I can access the
+	Quando ela fica cheia,
+	eu posso abrir a
+	Janela de Customização
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Custom Screen again
-	with the L Button
-	or the R Button.
+	de novo apertando
+	"L" ou "R".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I got the battle
-	basics down pat!
+	O básico da NetLuta tá
+	tatuado no meu cérebro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But enough already.
-	Let's bust a virus!
+	Chega de revisão.
+	Esses vírus já eram!
 	"""
 	keyWait
 		any = false
@@ -498,15 +501,16 @@ script 22 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Come on,Lan! Let's
-	select a Cannon!
+	Lan!
+	Seleciona um Cannon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cancel with the B
-	Button and reselect!
+	Aperta "B" pra
+	cancelar e troca
+	o chip selecionado!
 	"""
 	keyWait
 		any = false
@@ -517,15 +521,16 @@ script 23 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Come on,Lan! Let's
-	select a Cannon!
+	Lan!
+	Seleciona um Cannon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cancel with the B
-	Button and reselect!
+	Aperta "B" pra
+	cancelar e troca
+	o chip selecionado!
 	"""
 	keyWait
 		any = false

@@ -23,9 +23,9 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Things don't look
-	too damaged from the
-	ElementMan incident.
+	Parece que o incidente
+	do ElementMan não
+	deixou grandes estragos...
 	"""
 	keyWait
 		any = false
@@ -43,8 +43,8 @@ script 27 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've gotta fix
-	Mr.Weather,MegaMan!
+	A gente tem que consertar
+	o Seu Cleema,MegaMan!
 	"""
 	keyWait
 		any = false

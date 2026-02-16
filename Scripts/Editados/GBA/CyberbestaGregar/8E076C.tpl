@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"That night..."
+	"Naquela noite..."
 	keyWait
 		any = false
 	end
@@ -23,7 +23,7 @@ script 1 mmbn6 {
 	controlLock
 	soundPlay
 		track = 117
-	"... *beep*"
+	"... Bip."
 	wait
 		frames = 30
 	soundEnableTextSFX
@@ -36,7 +36,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	msgOpen
-	"... This is Cain."
+	"... Cain falando."
 	keyWait
 		any = false
 	clearMsg
@@ -49,36 +49,34 @@ script 2 mmbn6 {
 	"."
 	wait
 		frames = 30
-	" Oh,it's you."
+	" Ah, é você"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought I told
-	you not to call
-	my personal line.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Anyway,what's going
-	on?
+	Pensei ter dito para
+	não me ligar na minha
+	linha pessoal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So he appeared
-	where I said he
-	would,huh?
+	Enfim, o que foi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then why did
-	you fail!?
+	Ele apareceu onde eu
+	disse que iria, não?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Então por que
+	vocês falharam?!
 	"""
 	keyWait
 		any = false
@@ -94,25 +92,23 @@ script 2 mmbn6 {
 	wait
 		frames = 30
 	"""
-	 Spare me.
-	I don't want to hear
-	it.
+	 Me poupe.
+	Não quero ouvir desculpas.
 	"""
 	controlUnlock
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Quit your sniveling
-	and start showing
-	me results.
+	Pare de balbucear
+	e comece a mostrar
+	resultados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Do I make myself
-	clear?
+	... Eu fui claro?
 	"""
 	keyWait
 		any = false
@@ -123,24 +119,23 @@ script 3 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	... Useless,bumble_
-	brained idiots.
+	... Imbecis inúteis
+	e atrapalhados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They were unable
-	to awaken the
-	Cybeast...
+	Eles não conseguiram
+	despertar a Cyberbesta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Did I make a
-	miscalculation in
-	my excitement?...
+	... Será que o meu
+	otimismo foi mal
+	calculado...?
 	"""
 	keyWait
 		any = false
@@ -163,7 +158,7 @@ script 4 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MayorCain
-	"The phone again...?"
+	"Outra ligação...?"
 	keyWait
 		any = false
 	end
@@ -172,18 +167,18 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	msgOpen
-	"It's Cain..."
+	"É o Cain..."
 	keyWait
 		any = false
 	clearMsg
-	"... Oh. You."
+	"... Ah. Você."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How about it?
-	The proposal to
-	cooperate with me...
+	E então?
+	Quanto à proposta
+	de cooperar comigo...
 	"""
 	keyWait
 		any = false
@@ -206,37 +201,35 @@ script 5 mmbn6 {
 	"."
 	wait
 		frames = 20
-	" I see."
+	" Entendo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm pleased to have
-	your support.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Oh,I,too,don't have
-	enough help,so I
-	welcome you openly.
+	Fico feliz de
+	ter o seu apoio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will send you
-	something nice
-	very soon.
+	Ah, também estou com
+	pouco pessoal, então
+	aceito de bom grado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A valuable
-	little piece of
-	electronics...
+	Mandarei um presente
+	bem agradável em breve.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Um pequeno, porém muito
+	valioso, eletrônico...
 	"""
 	keyWait
 		any = false

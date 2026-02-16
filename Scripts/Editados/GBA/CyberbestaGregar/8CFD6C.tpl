@@ -6,17 +6,16 @@ script 0 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Heeey! Lan Hikari!
-	I'll be counting
-	on you,kid!
+	Ooopaaa! Lan Hikari!
+	Conto com você, guri!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm always in this
-	comp,so if you ever
-	need me,I'm here!
+	Eu tô sempre neste
+	computador. Se precisar
+	de mim, tamos aí!
 	"""
 	keyWait
 		any = false
@@ -29,9 +28,9 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Uh,OK,thanks!
-	And it's great to be
-	partners with you!
+	Ah, er, valeu!
+	É legal trabalhar
+	com você!
 	"""
 	keyWait
 		any = false
@@ -44,9 +43,9 @@ script 2 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Alright,girls. If
-	yer done yacking,
-	let's get started.
+	Bom, crianças, se já
+	terminaram o papinho,
+	hora de começar.
 	"""
 	keyWait
 		any = false
@@ -58,7 +57,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!!"
+	"Beleza!!"
 	keyWait
 		any = false
 	clearMsg
@@ -70,17 +69,17 @@ script 4 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Best way I know
-	to learn the basics
-	is to just do it!
+	O melhor jeito que eu
+	conheço de aprender o
+	básico... é fazendo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,in CentralArea,
-	I've left ya a few
-	of these guys.
+	Tá: na Área Central,
+	eu deixei alguns
+	destes aqui pra vocês.
 	"""
 	keyWait
 		any = false
@@ -91,48 +90,47 @@ script 5 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	These are
-	Kettle viruses.
+	São vírus Kettle.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ya can't hit them
-	with anything other
-	than a Fire attack.
+	É impossível destruir
+	eles com ataques que
+	não sejam de Fogo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you'll boil them
-	right up if ya use
-	a Fire_based attack!
+	Com ataques de Fogo,
+	dá pra ferver eles
+	rapidinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And what temperature
-	does water boil at?
-	100 degrees Celsius!
+	E sabe a que temperatura
+	a água ferve?
+	100 graus Celsius!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,if ya use a Fire_
-	based chip on a
-	Kettle,
+	Então, se você usar
+	chips de Fogo em um
+	Kettle
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you'll do 100 damage
-	to them,and get them
-	really steamed up!
+	e causar 100 de
+	dano nele, ele vai
+	ferver bonito!
 	"""
 	keyWait
 		any = false
@@ -145,14 +143,14 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,I get it! So,I've
-	gotta delete all the
-	Kettles on the Net.
+	Tá, entendi! Então é
+	só eu deletar todos
+	os Kettles na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Too easy!"
+	"Molezinha!"
 	keyWait
 		any = false
 	clearMsg
@@ -164,25 +162,23 @@ script 7 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Easy,huh? Well,so
-	ya know,there's
-	1 in CentralArea1,
+	Moleza, é? Bom, só
+	pra constar, tem um
+	na Área Central 1,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	1 in CentralArea2,
-	and
-	2 in CentralArea3.
+	um na Área Central 2 e
+	dois na Área Central 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Beat them all,
-	and we can call
-	it a day!
+	Vença todos eles e
+	pronto, aula encerrada!
 	"""
 	keyWait
 		any = false
@@ -193,8 +189,8 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright,let's try
-	our best,HeatMan!
+	Beleza! Bora lutar
+	com tudo, HeatMan!
 	"""
 	keyWait
 		any = false
@@ -207,8 +203,8 @@ script 9 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	OK,it's time to
-	fire it up,kid!
+	É! Hora de tocar fogo
+	nisso aqui, guri!
 	"""
 	keyWait
 		any = false

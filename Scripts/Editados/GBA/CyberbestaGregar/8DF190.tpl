@@ -6,13 +6,13 @@ script 0 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	So you were here
-	all this time...
+	Então, você estava
+	aqui o tempo todo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Dr.Wily."
+	"... Dr. Wily."
 	keyWait
 		any = false
 	end
@@ -31,23 +31,21 @@ script 2 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	... It is nearly
-	finished.
+	... Está quase concluído.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't it
-	magnificent?
+	Magnífico, não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Slowly,one step at
-	a time,my dream
-	becomes a reality.
+	Lentamente, um passo
+	de cada vez, meu sonho
+	vai se realizando.
 	"""
 	keyWait
 		any = false
@@ -60,13 +58,13 @@ script 3 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	... We got the
-	Force Program.
+	... Adquirimos o
+	Programa de Força.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Here,Doctor."
+	"... Aqui está, Doutor."
 	keyWait
 		any = false
 	end
@@ -76,20 +74,19 @@ script 4 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	So this is the
-	Force Program.
+	Então este é o
+	Programa de Força.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Mwahaha."
+	"... Mua ha ha."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We finally have
-	another crucial
-	piece.
+	Finalmente temos
+	outra peça crucial.
 	"""
 	keyWait
 		any = false
@@ -102,9 +99,8 @@ script 5 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Have you told
-	this to the
-	"benefactor"?
+	Você contou isso
+	ao "patrocinador"?
 	"""
 	keyWait
 		any = false
@@ -116,30 +112,28 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"No,there's no need."
+	"Não, não há por quê."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's finally
-	revealed his
-	true colors.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	He wants the Cybeast
-	that's in our
-	possession.
+	Ele finalmente revelou
+	sua verdadeira face.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,we'll keep him in
-	the dark and let him
-	think what he wants.
+	Ele quer a Cyberbesta
+	que possuímos.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Então vamos deixá-lo
+	na ignorância,
+	pensando no que quiser.
 	"""
 	keyWait
 		any = false
@@ -149,9 +143,9 @@ script 6 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	now is the time to
-	break our connection
-	to our "benefactor"!
+	é chegada a hora de
+	rompermos nossa relação
+	com nosso "patrocinador"!
 	"""
 	keyWait
 		any = false
@@ -164,25 +158,25 @@ script 7 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	But don't we need
-	a lot of things that
-	only our
+	Mas nós não precisamos
+	de muitas coisas que
+	somente o nosso
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"benefactor" can
-	give us for our
-	plan to work...?
+	"patrocinador" pode nos
+	providenciar para a
+	realização do plano...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we cut our
-	source,we would only
-	hurt ourselves...
+	Se cortarmos nossa fonte
+	de renda, só quem sairia
+	prejudicado seríamos nós.
 	"""
 	keyWait
 		any = false
@@ -195,31 +189,29 @@ script 8 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Mwahaha,that is
-	where you're
-	wrong.
+	Mua ha ha...
+	É aí que você se engana.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All this time,our
-	plan...
+	Todo esse tempo,
+	o nosso plano...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	never needed that
-	"benefactor" at
-	all!
+	nunca precisou de
+	um "patrocinador"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All that remains is
-	the "control panel".
+	Só o que resta é o
+	"painel de controle".
 	"""
 	keyWait
 		any = false
@@ -243,16 +235,14 @@ script 10 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	In just a little
-	while...
+	Dentro de muito
+	pouco tempo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we will bring
-	about the end of
-	the world!
+	traremos o fim do mundo!
 	"""
 	keyWait
 		any = false
@@ -261,7 +251,7 @@ script 10 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Waaahahahaha!!"
+	"Uaaah ha ha ha ha!!"
 	keyWait
 		any = false
 	end

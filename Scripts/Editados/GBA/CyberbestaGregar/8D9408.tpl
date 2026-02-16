@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"I'm coming in..."
+	"Com sua licença..."
 	keyWait
 		any = false
 	clearMsg
@@ -13,8 +13,7 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	Oh,
-	it's you... Vic.
+	Ah, é você... Vic.
 	"""
 	keyWait
 		any = false
@@ -25,9 +24,8 @@ script 2 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Ito messed up
-	and got himself
-	busted...
+	O Ito pisou na bola e
+	foi parar no xadrez...
 	"""
 	keyWait
 		any = false
@@ -38,42 +36,41 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	mugshotHide
 	msgOpen
-	"I know..."
+	"Eu sei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just a little more
-	and Cyber City would
-	have been ours...
+	Só mais um pouco,
+	e a Cidade Saibher
+	seria nossa...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Prosecutor Ito..."
+	"Satoru Ito..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He may have fallen,
-	but he managed to do
-	what he needed to.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	There's no need to
-	worry. Our plan is
-	still going fine.
+	Ele pode ter sido pego,
+	mas conseguiu fazer o
+	que precisava.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How is "that"
-	operation going,by
-	the way?
+	Não há motivo para
+	alarde. Nosso plano
+	segue firme.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E como está indo "aquela"
+	operação, por sinal?
 	"""
 	keyWait
 		any = false
@@ -85,14 +82,14 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Vic
 	msgOpen
-	"Ah,forget about it!"
+	"Ah, sem trela!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who do you take me
-	for? I'll get that
-	program,you'll see,
+	Tá pensando que eu sou
+	quem? Eu vou pegar o
+	programa, cê vai ver...
 	"""
 	keyWait
 		any = false
@@ -116,17 +113,17 @@ script 5 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	I'll send Colonel to
-	you shortly,just to
-	be safe.
+	Enviarei Colonel também
+	depois, só por via das
+	dúvidas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Soon,our plans will
-	be realized,and WWW
-	will rise again...
+	Em breve, nossos planos
+	se concretizarão e a
+	WWW se reerguerá...
 	"""
 	keyWait
 		any = false
@@ -139,9 +136,9 @@ script 6 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Yeah,the day will
-	come,but it won't be
-	thanks to Colonel!
+	É, esse dia vem, sim...
+	たMas não vai ser graças
+	ao Colonel, não!ち
 	"""
 	keyWait
 		any = false

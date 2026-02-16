@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"The JudgeTree..."
+	"A Árvore Juíza..."
 	keyWait
 		any = false
 	end
@@ -11,9 +11,9 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	A computer that
-	stops the JudgeTree
-	from withering...
+	Um computador que
+	impede a Árvore
+	Juíza de murchar...
 	"""
 	keyWait
 		any = false

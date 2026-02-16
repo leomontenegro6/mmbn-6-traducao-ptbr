@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME!
-	THIS IS GREEN AREA2!
+	BEM-VINDO!
+	ESTA É Á ÁREA VERDE 2!
 	"""
 	keyWait
 		any = false
@@ -28,8 +28,8 @@ script 1 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The coffee here
-	tastes very unique.
+	O café daqui tem um
+	gosto bem peculiar.
 	"""
 	keyWait
 		any = false
@@ -50,9 +50,9 @@ script 2 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I bet Mayor Cain
-	is answering some
-	tough questions now.
+	Aposto que o Prefeito
+	Cain tá sendo interrogado
+	com peso agora.
 	"""
 	keyWait
 		any = false
@@ -63,17 +63,16 @@ script 5 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Lots of people
-	gather at an Expo
-	right?
+	Muita gente se reúne
+	nessas Exposições, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if it's
-	OK to have one at a
-	time like this...
+	Será que tudo bem
+	mesmo realizar uma
+	num momento destes...?
 	"""
 	keyWait
 		any = false
@@ -84,16 +83,16 @@ script 6 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	It looks like the
-	Expo is opening on
-	schedule...
+	Parece que a Exposição
+	vai abrir dentro do
+	programado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet there will be
-	enormous lines!
+	Aposto que as filas
+	vão ser quilométricas!
 	"""
 	keyWait
 		any = false
@@ -108,8 +107,8 @@ script 10 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	This coffee is
-	truly unique.
+	Este café realmente é
+	único.
 	"""
 	keyWait
 		any = false
@@ -120,16 +119,15 @@ script 11 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	If you are planning
-	on being first to
+	Se tá pretendo entrar
+	cedo na Exposição,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Expo,I think you
-	might have to get in
-	line right now!
+	sugiro entrar na
+	fila logo agora!
 	"""
 	keyWait
 		any = false
@@ -140,9 +138,9 @@ script 15 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	What a terrible
-	lie... I'll
-	finish this here!
+	Que mentira feia...
+	Eu vou acabar com isso
+	agora mesmo!
 	"""
 	keyWait
 		any = false

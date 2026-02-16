@@ -10,8 +10,8 @@ script 0 mmbn6 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	PLEASE PRESENT
-	BATTLECHIP
+	POR FAVOR,
+	APRESENTE O CHIP
 	"
 	"""
 	printChip
@@ -25,15 +25,15 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	CentralArea1 on it.
+	Nele, há um mapa
+	da Área Central 1.
 	"""
 	keyWait
 		any = false
@@ -47,8 +47,8 @@ script 2 mmbn6s {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	PLEASE PRESENT
-	BATTLECHIP
+	POR FAVOR,
+	APRESENTE O CHIP
 	"
 	"""
 	printChip
@@ -59,7 +59,7 @@ script 3 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	MegaMan showed:
+	MegaMan mostrou:
 	"
 	"""
 	printChip
@@ -70,7 +70,7 @@ script 3 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	BATTLECHIP
+	CHIP
 	"
 	"""
 	printChip
@@ -78,7 +78,7 @@ script 3 mmbn6 {
 		chip = 131
 	"""
 	"
-	CONFIRMED...
+	CONFIRMADO...
 	"""
 	keyWait
 		any = false
@@ -88,7 +88,7 @@ script 3 mmbn6 {
 }
 script 4 mmbn6 {
 	msgOpen
-	"\"Welcome\n       to the\n            NetCafe\""
+	"\"Bem-vindo\n         ao\n            NetCafé\""
 	keyWait
 		any = false
 	end
@@ -115,7 +115,7 @@ script 5 mmbn6 {
 		jumpIfProtoMan = 11
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -138,7 +138,7 @@ script 6 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 used:
+	 usou:
 	"
 	"""
 	printItem
@@ -154,16 +154,17 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	A Security Cube that
-	protects Cyber
-	Academy...
+	Um Cubo de Segurança
+	que protege a
+	Escola Saibher...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It can't be unlocked
-	without its P_Code!
+	Não pode ser
+	desbloqueado sem
+	seu Código-P!
 	"""
 	keyWait
 		any = false
@@ -172,7 +173,7 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	HeatMan used:
+	HeatMan usou:
 	"
 	"""
 	printItem
@@ -188,7 +189,7 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	SpoutMan used:
+	AquaMan usou:
 	"
 	"""
 	printItem
@@ -212,17 +213,17 @@ script 11 mmbn6s {
 script 12 mmbn6 {
 	msgOpen
 	"""
-	The darkness won't
-	budge,even with your
-	strongest attacks.
+	As trevas não
+	diminuem, nem com os
+	seus ataques mais fortes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe the
-	EvilSpirits are
-	related somehow...
+	Talvez isso tenha
+	alguma relação com
+	os Espíritos Malignos...
 	"""
 	keyWait
 		any = false
@@ -231,9 +232,9 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	msgOpen
 	"""
-	The door is sealed
-	tight. You can't get
-	through it!
+	O bloqueio na porta
+	é bem forte. Não dá
+	para passar!
 	"""
 	keyWait
 		any = false

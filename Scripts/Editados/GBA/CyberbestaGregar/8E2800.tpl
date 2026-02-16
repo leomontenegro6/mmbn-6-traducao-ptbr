@@ -5,37 +5,37 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Vic
 	msgOpen
-	"Yeah!"
+	"Boa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With the Cybeast in
-	our hot hands,we
-	don't have to care
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	about Baryl anymore!
-	Now,we are ready to
-	fight!
+	Com a Cyberbesta sob a
+	nossa posse, não temos
+	mais que dar atenção
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First we shed off
-	our WWW bonds,
+	pro Baryl!
+	Agora, nós estamos
+	prontos pra lutar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then we'll move
-	forward with our
-	own organization!
+	Primeiro, nos livramos
+	dos grilhões da WWW,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	daí seguimos a
+	estabelecer a nossa
+	própria organização!
 	"""
 	keyWait
 		any = false
@@ -45,7 +45,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"Wait a second."
+	"Esperem."
 	keyWait
 		any = false
 	end
@@ -54,7 +54,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Vic
 	msgOpen
-	"What?"
+	"Que é?"
 	keyWait
 		any = false
 	clearMsg
@@ -66,44 +66,42 @@ script 3 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	I've never had any
-	interest in your new
-	organization.
+	Eu nunca tive nenhum
+	interesse nessa nova
+	organização de vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I only helped you
-	kidnap MegaMan on
-	Baryl's command...
+	Só ajudei vocês a
+	sequestrarem o MegaMan
+	por ordens do Baryl...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but if you want to
-	defect,I will not
-	be joining you.
+	mas, se vão se rebelar
+	contra a WWW, eu não
+	vou com vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going back to
-	Baryl.
+	Vou voltar pro Baryl.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we ever meet
-	again,
+	Se nos virmos de novo,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"we will be enemies!"
+	"será como inimigos!"
 	keyWait
 		any = false
 	clearMsg
@@ -115,8 +113,8 @@ script 4 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	H_Hey...
-	What are ye sayin'?
+	C-calma aí...
+	O que você tá dizendo?
 	"""
 	keyWait
 		any = false
@@ -127,16 +125,15 @@ script 5 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	You're a strange
-	one...
+	Você é um tanto
+	estranho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why do you care
-	so much about
-	Baryl...?
+	Por que se importa
+	tanto com o Baryl...?
 	"""
 	keyWait
 		any = false
@@ -147,8 +144,7 @@ script 6 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	... Hmph,that's
-	enough!
+	... Hmpf, basta!
 	"""
 	keyWait
 		any = false
@@ -159,40 +155,41 @@ script 7 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	I'm sure we're all
-	curious to know
-	why you'd go back,
+	Estou certo de que todos
+	estamos curiosos quanto a
+	por que você voltaria,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and I suppose we can
-	let you do what you
-	want...
+	e acho que PODÍAMOS
+	deixar você fazer o
+	que bem quiser...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But in exchange,we
-	get to do what we
-	want.
+	Mas, em troca, NÓS
+	vamos fazer o que
+	bem quisermos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Since we're a real
-	organization now,
+	Como somos uma
+	organização genuína
+	agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we should do things
-	for us and only for
-	us!
+	só devemos fazer coisas
+	pelo nosso próprio bem,
+	e de mais ninguém!
 	"""
 	keyWait
 		any = false
@@ -204,9 +201,9 @@ script 8 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	Tee,hee,hee... If
-	that's the case,I've
-	got a great plan!
+	Hi hi hi... Nesse
+	caso, eu tenho um
+	plano ótimo aqui!
 	"""
 	keyWait
 		any = false
@@ -217,9 +214,8 @@ script 9 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Hey,where have you
-	been all this time,
-	Yuika!?
+	Ah, por onde você andou
+	esse tempo todo, Yuika?!
 	"""
 	keyWait
 		any = false
@@ -231,34 +227,34 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Yuika
 	msgOpen
-	"Doing the obvious!"
+	"Fazendo o óbvio!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we're rebelling
-	against Baryl,then
-	we should tell him!
+	Se vamos nos rebelar
+	contra o Baryl, então
+	tínhamos que avisar ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I told him,"We're
-	not listening to you
-	anymore!"
+	Então eu falei pra ele:
+	"Não vamos mais dar
+	ouvidos a você!"
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ahahaha!"
+	"Ah ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And then,even the
-	mighty Baryl was
-	speechless!
+	Depois que eu falei,
+	até o grande Baryl
+	ficou caladinho!
 	"""
 	keyWait
 		any = false
@@ -270,13 +266,12 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Blackbeard
 	msgOpen
-	"Is that right,lass!?"
+	"É mesmo, mocinha?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He got what he
-	deserved,he did!
+	Ele teve o que merecia!
 	"""
 	keyWait
 		any = false
@@ -289,9 +284,9 @@ script 12 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Anyway,you were
-	saying something
-	about a good plan?
+	Enfim, o que você tava
+	falando sobre ter um
+	bom plano aí?
 	"""
 	keyWait
 		any = false
@@ -304,9 +299,9 @@ script 13 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	I got some good news
-	from our dear
-	"benefactor".
+	Eu recebi boas novas
+	do nosso querido
+	"patrocinador".
 	"""
 	keyWait
 		any = false
@@ -318,7 +313,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	msgOpen
-	"Good news?"
+	"Boas novas?"
 	keyWait
 		any = false
 	clearMsg
@@ -329,22 +324,25 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Yuika
 	msgOpen
-	"... You'll like it."
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Apparently,there's
-	these "Cybeast
-	Worshippers" in the
+	... Vão gostar
+	de ouvir isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Undernet who can
-	call out the
-	Cybeast's max power.
+	Ao que parece, tem
+	esses "Adoradores das
+	Cyberbestas" na Undernet
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	que sabem como despertar
+	o poder máximo da
+	Cyberbesta.
 	"""
 	keyWait
 		any = false
@@ -357,23 +355,25 @@ script 16 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	The "Cybeast
-	Worshippers" on the
-	Undernet?
+	Adoradores das
+	Cyberbestas,
+	na Undernet?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a suspicious_
-	soundin' lot.
+	Isso aí parece mais
+	suspeito que história
+	de pescador...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not that we're ones
-	to talk...
+	Bom, não que a gente
+	esteja em posição de
+	julgar.
 	"""
 	keyWait
 		any = false
@@ -390,36 +390,33 @@ script 18 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	The "benefactor"
-	said that if we tell
-	them we're with the
+	O "patrocinador" disse
+	que, se falarmos pra
+	eles que estamos com o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"priest",then
-	they'll tell us
-	anything we want.
+	"sacerdote", eles nos
+	contam tudo o que
+	quisermos saber.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that's not all
-	he's given us!
+	E não foi só isso
+	que ele deu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He also sent us
-	this really neat,
+	Ele também mandou
+	esta bonequinha legal
+	e suuuuper fofinha!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"suuuuper cute doll!"
 	keyWait
 		any = false
 	clearMsg
@@ -430,14 +427,14 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Vic
 	msgOpen
-	"... A doll?"
+	"... Uma boneca?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What did he send
-	that for!? We don't
-	need or want it!
+	Pra que ele mandou
+	isso?! Não precisamos
+	disso nem queremos!
 	"""
 	keyWait
 		any = false
@@ -450,24 +447,22 @@ script 20 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	I bet you'll be
-	surprised once I
-	tell you why!
+	Ah, aposto que vai
+	querer quando eu
+	explicar por quê!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	See,if we use it on
-	MegaMan...
+	Usando ela no MegaMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tee,hee! Something
-	really fun will
-	happen!
+	Hi hi! Uma coisa "mega"
+	divertida vai acontecer!
 	"""
 	keyWait
 		any = false

@@ -5,28 +5,29 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"I'm SlashMan..."
+	"Sou SlashMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is nothing
-	in the world my
-	claws can't slice!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Good to be working
-	with you,Lan.
+	Não há nada no mundo
+	que as minhas garras
+	não consigam dilacerar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now let's get
-	slashing!!
+	É um prazer trabalhar
+	com você, Lan Hikari.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Vamos cortar as
+	apresentações e
+	ir ao trabalho!!
 	"""
 	keyWait
 		any = false
@@ -38,7 +39,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Alright,let's go!"
+	"Beleza, bora!"
 	keyWait
 		any = false
 	clearMsg
@@ -50,47 +51,46 @@ script 2 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	Like we were talking
-	about before,please
-	operate SlashMan and
+	Como estávamos falando
+	antes, por favor, opere
+	o SlashMan e reúna
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	collect cyberveggies
-	for us to cook with.
+	cyberverduras para
+	usarmos na cozinha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it's not like
-	we can just go get
-	the veggies!
+	Mas você não vai
+	simplesmente pegar
+	as verduras e pronto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gotta have
-	SlashMan cut the
-	veggies right there!
+	O SlashMan vai ter
+	que fatiá-las bem aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll teach you how
-	to cut the veggies,
+	Vou ensinar a você
+	como se corta elas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so just pay
-	attention and
-	you'll learn,OK?
+	então preste muita
+	atenção para aprender,
+	está bem?
 	"""
 	keyWait
 		any = false
@@ -114,24 +114,24 @@ script 4 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	So,here's what you
-	need to know to get
-	our ingredients!
+	Tá, eis o que você
+	precisa saber para
+	reunir os ingredientes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cybercabbages are
-	grown in this area.
+	Nesta área crescem
+	cyber-repolhos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please cut up
-	80 grams of
-	cybercabbage,OK?
+	Por favor, corte
+	80 gramas de
+	cyber-repolho, tá?
 	"""
 	keyWait
 		any = false
@@ -144,8 +144,8 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	80 grams,huh?
-	Roger!
+	80 gramas, né?
+	Beleza!
 	"""
 	keyWait
 		any = false
@@ -158,45 +158,39 @@ script 6 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	Now listen
-	carefully.
-	Once you cut into a
+	Agora, escute com
+	atenção. Quando a gente
+	corta uma cyberverdura,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	cyberveggie,they
-	tend to go bad
-	almost right away.
+	ela tende a estragar
+	imediatamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gotta finish
-	cutting it before it
-	goes bad completely.
+	Você vai precisar
+	terminar de cortá-las
+	antes que isso aconteça.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In this area,you
-	have to get 80 grams
-	before you run out
+	Nesta área, terá que
+	pegar 80 gramas antes
+	que acabem os repolhos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"of cabbage heads."
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Otherwise,you'll
-	have to start
-	all over!
+	Caso contrário, terá
+	que recomeçar do zero!
 	"""
 	keyWait
 		any = false
@@ -209,16 +203,16 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wow,it's like I
-	can't make a
-	mistake!
+	Nossa, então eu não
+	posso cometer nenhum
+	deslize, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cybercooking is
-	really hard!
+	Cyberculinária é
+	osso duro de roer!
 	"""
 	keyWait
 		any = false
@@ -231,17 +225,16 @@ script 8 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	Heh,I have faith
-	in you.
+	He, eu tenho fé em você.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Alright!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
-	"Let's cook!!"
+	"Mãos na massa!!"
 	keyWait
 		any = false
 	end

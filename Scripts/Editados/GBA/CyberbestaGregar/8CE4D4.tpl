@@ -6,13 +6,13 @@ script 0 mmbn6 {
 		mugshot = CircusMan
 	msgOpen
 	"""
-	... The show's
-	not over!!
+	... O show ainda
+	não acabou!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll remember this!!"
+	"Isso vai ter troco!!"
 	keyWait
 		any = false
 	end
@@ -25,15 +25,13 @@ script 1 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	What a load of
-	hot air!
+	Promessa vazia, esse aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,time to
-	burn outta here!
+	Enfim, bora vazar daqui!
 	"""
 	keyWait
 		any = false
@@ -44,9 +42,8 @@ script 2 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	I've gotta hurry
-	back to MegaMan,
-	drip!
+	Eu tenho que voltar logo
+	pro MegaMan, xuá!
 	"""
 	keyWait
 		any = false

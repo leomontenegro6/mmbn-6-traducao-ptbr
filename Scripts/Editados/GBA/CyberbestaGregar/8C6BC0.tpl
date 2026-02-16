@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Alright!"
+	"Beleza!"
 	keyWait
 		any = false
 	end
@@ -18,7 +18,7 @@ script 1 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -42,9 +42,8 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's make sure
-	the Repair Navi gets
-	this!
+	Lan, vamos entregar
+	isto pro Navi encanador!
 	"""
 	keyWait
 		any = false
@@ -57,8 +56,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK! Time to
-	jack out,MegaMan!
+	OK!
+	Desconectar, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -70,7 +69,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roge..."
+	"Entendid..."
 	keyWait
 		any = false
 	clearMsg
@@ -100,8 +99,7 @@ script 6 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's your
-	autophone,Lan!
+	É uma ligação, Lan!
 	"""
 	keyWait
 		any = false
@@ -114,22 +112,21 @@ script 7 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Heeello!
-	Repairman here!
+	Alô!
+	É o encanador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Ah,actually,I'm
-	the operator of the
-	Navi
+	... Er, digo, é o
+	operador do Navi
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that just lost a
+	que perdeu o
 	"
 	"""
 	printItem
@@ -140,24 +137,13 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	But,for some reason,
-	I just can't seem to
+	Bom, por algum motivo, eu
+	não consigo achar ele...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	find the
-	"
-	"""
-	printItem
-		buffer = 0
-		item = 8
-	"\"..."
-	keyWait
-		any = false
-	clearMsg
-	"Hmm,hmm..."
+	"Hmm, hmm..."
 	keyWait
 		any = false
 	clearMsg
@@ -169,8 +155,8 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's OK. We found
-	it,Mister.
+	Tá tranquilo, moço.
+	A gente achou.
 	"""
 	keyWait
 		any = false
@@ -182,28 +168,28 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"R_Really!?"
+	"M-mesmo?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright! You're
-	a real help! Now
-	I can do some work!
+	Ô, coisa boa! Salvou a
+	minha vida! Agora posso
+	fazer meu trabalho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you think you can
-	bring the "
+	Desculpa, mas pode
+	trazer o "
 	"""
 	printItem
 		buffer = 0
 		item = 8
 	"""
 	"
-	to CentralArea3?
+	pra Área Central 3?
 	"""
 	keyWait
 		any = false
@@ -215,14 +201,13 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,no problem!"
+	"Claro, de boa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go to
-	CentralArea3
-	MegaMan!
+	Bora lá pra Área
+	Central 3, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -234,7 +219,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end

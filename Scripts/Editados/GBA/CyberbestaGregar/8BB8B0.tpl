@@ -4,9 +4,9 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	If you don't hit the
-	release button,this
-	door will not open.
+	Se não apertar o botão
+	de liberação, esta
+	porta não se abrirá.
 	"""
 	keyWait
 		any = false
@@ -23,17 +23,16 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	It's the control
-	panel for the
-	JudgeTree...
+	É o painel de controle
+	da Árvore Juíza...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is where all of
-	Cyber City's laws
-	are kept...
+	É aqui que todas as leis
+	da Cidade Saibher são
+	armazenadas...
 	"""
 	keyWait
 		any = false

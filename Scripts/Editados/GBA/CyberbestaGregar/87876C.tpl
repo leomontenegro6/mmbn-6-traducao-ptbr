@@ -10,23 +10,24 @@ script 10 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	I'm today's
-	teacher's aide,
+	Eu sou a assistente
+	da professora hoje,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so that's why I'm
-	wiping off the
-	blackboard!
+	e é por isso que
+	eu tô limpando o
+	quadro-negro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Being a teacher's
-	aide sure is hard!
+	Ser assistente de
+	professor não é
+	mole não, viu?!
 	"""
 	keyWait
 		any = false
@@ -37,16 +38,17 @@ script 15 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	Oh yeah!
-	I have to water the
-	plants!!
+	Ah, é mesmo!
+	Eu tenho que regar
+	as plantas!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A teacher's aide's
-	work is never done!
+	Vida de assistente
+	de professor é uma
+	vida de cão!
 	"""
 	keyWait
 		any = false
@@ -57,17 +59,17 @@ script 30 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	The school lunch has
-	really,really good
-	bread!
+	O pão do almoço da
+	escola é super, mega
+	delicioso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna eat it!
-	... Mwraaaawr!!
-	*chomp,chomp,chomp*
+	Eu vou comer!
+	... Mraaaarrr!!
+	Nhac Nhac Nhac!
 	"""
 	keyWait
 		any = false

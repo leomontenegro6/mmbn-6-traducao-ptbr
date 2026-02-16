@@ -5,39 +5,39 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = PatFahran
 	msgOpen
-	"... Hahahaha!!"
+	"... Ha ha ha ha!!"
 	keyWait
 		any = false
 	clearMsg
-	"You're a natural!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	There's nothing left
-	to teach you!
-	"""
+	"Que talento nato!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll be a great
-	cook one day!
+	Não me resta mais
+	nada pra te ensinar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Congratulations,Lan!
-	You've passed my
-	class!
+	Você ainda vai
+	dar um cozinheiro
+	incrível um dia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SlashMan is yours
-	to operate!
+	Meus parabéns, Lan!
+	Está formado no meu curso!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Pode operar o SlashMan
+	quando quiser!
 	"""
 	keyWait
 		any = false
@@ -54,8 +54,8 @@ script 1 mmbn6 {
 	soundPlay
 		track = 143
 	"""
-	SlashMan became
-	Lan's LinkNavi!
+	SlashMan se tornou
+	NaviElo do Lan!
 	"""
 	waitOWVar
 		variable = 0
@@ -74,14 +74,14 @@ script 2 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	Now you can use
-	SlashMan's skills
-	during a SlashCross!
+	Agora poderá usar as
+	habilidades do SlashMan
+	durante um SlashCruz!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Use it well,OK!?"
+	"Use bem, viu?"
 	keyWait
 		any = false
 	clearMsg
@@ -93,9 +93,9 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,I'll definitely
-	practice until I
-	master it!!
+	Beleza! Eu vou
+	treinar até virar
+	um mestre nelas!!
 	"""
 	keyWait
 		any = false
@@ -107,22 +107,20 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = PatFahran
 	msgOpen
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh! The cybersoup
-	should be just
-	about done.
+	Ah! A cybersopa já
+	deve estar pronta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How about it? Wanna
-	let your Navi give
-	it a taste?
+	Que tal? Quer dar pro
+	seu Navi experimentar?
 	"""
 	keyWait
 		any = false
@@ -134,7 +132,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yes,please!"
+	"Por favor!"
 	keyWait
 		any = false
 	end
@@ -144,8 +142,8 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Here,MegaMan,give
-	this a taste!
+	Toma, MegaMan,
+	experimenta!
 	"""
 	keyWait
 		any = false
@@ -157,11 +155,11 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"OK,here goes!"
+	"Bom, vamos lá!"
 	keyWait
 		any = false
 	clearMsg
-	"... *gulp,gulp*"
+	"... Glup Glup"
 	keyWait
 		any = false
 	clearMsg
@@ -171,41 +169,40 @@ script 7 mmbn6 {
 	"."
 	wait
 		frames = 30
-	"."
+	".\n"
 	wait
 		frames = 30
 	"""
-	
-	This...
-	This is...!
+	Isto...
+	Isto é...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The flavor of each
-	vegetable comes
-	through very well,
+	O sabor de cada verdura
+	é tão maravilhosamente
+	acentuado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but they harmonize
-	very well too for
-	the perfect balance!
+	mas eles se harmonizam
+	divinamente, criando um
+	equilíbrio perfeito!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Wow."
+	"... Nossa."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so delicious
-	that I can't even
-	put it into words!
+	É tão deliciosa que eu
+	nem consigo expressar
+	em palavras!
 	"""
 	keyWait
 		any = false
@@ -218,15 +215,15 @@ script 8 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	Well,of course
-	it's delicious!
+	Ora, claro que
+	é deliciosa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I made it,after all!
-	Hahahaha!
+	Afinal, fui eu que fiz!
+	Ha ha ha ha!
 	"""
 	keyWait
 		any = false
@@ -237,9 +234,8 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Thank you for
-	everything,
-	Ms.Fahran!
+	Muito obrigado por
+	tudo, Srta. Fahran!
 	"""
 	keyWait
 		any = false
@@ -252,23 +248,23 @@ script 10 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	I'm very glad I
-	could teach you!
+	Fico feliz de ter tido
+	a honra de te ensinar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh yeah,if you want
-	to use SlashMan,just
-	come back here!
+	Ah, e, se quiser
+	usar o SlashMan,
+	é só voltar aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He'll be here in
-	this cookbook,OK!?
+	Ele vai estar neste
+	livro de receitas.
 	"""
 	keyWait
 		any = false
@@ -281,9 +277,8 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK!
-	I'll definitely
-	be back!
+	Beleza!
+	Com certeza eu volto!
 	"""
 	keyWait
 		any = false

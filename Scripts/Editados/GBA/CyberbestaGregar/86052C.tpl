@@ -23,9 +23,9 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Things don't look
-	too damaged from the
-	DiveMan incident...
+	Parece que o incidente
+	do DiveMan não deixou
+	grandes estragos...
 	"""
 	keyWait
 		any = false

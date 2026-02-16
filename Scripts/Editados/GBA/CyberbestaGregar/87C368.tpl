@@ -13,17 +13,17 @@ script 40 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I'm working overtime
-	again today on
-	this paperwork...
+	Estou fazendo hora
+	extra hoje de novo pra
+	terminar este relatório...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	*huff!*...
-	It's destroying my
-	good mood!!
+	Unf!
+	O meu bom humor
+	foi pro brejo!
 	"""
 	keyWait
 		any = false
@@ -34,17 +34,16 @@ script 41 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I hope I can
-	finish up work
-	early,
+	Eu espero conseguir
+	terminar o trabalho cedo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and do something
-	nice for my family
-	for a change...
+	e fazer um mimo legal
+	pra minha família hoje,
+	pra variar...
 	"""
 	keyWait
 		any = false
@@ -55,17 +54,16 @@ script 45 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Well,I've got all my
-	work in order,so
-	now I can go home!
+	Bom, terminei todo o
+	meu trabalho, então,
+	casa, aqui vou eu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The soap opera I
-	love to watch will
-	be on TV soon!!
+	Tá quase na hora da
+	minha novela favorita!
 	"""
 	keyWait
 		any = false
@@ -76,23 +74,23 @@ script 46 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Working overtime
-	again today...
+	Fazendo hora extra
+	de novo hoje...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Oh yes... I've
-	got to hurry up and
-	call home...
+	... Ah, é mesmo...
+	Melhor eu ligar logo
+	pra casa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Otherwise I'm going
-	to get yelled at!
+	senão eu vou ouvir
+	poucas e boas!
 	"""
 	keyWait
 		any = false

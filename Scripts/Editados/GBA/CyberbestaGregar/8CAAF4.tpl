@@ -4,8 +4,8 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	*huff,huff...*
-	*huff,huff...*
+	Arf... Urf...
+	Arf... Urf...
 	"""
 	keyWait
 		any = false
@@ -16,15 +16,15 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	*huff,huff...*
-	*huff,huff...*
+	Urf... Urf...
+	Urf... Urf...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	*huff,huff...*
-	*huff,huff...*
+	Arf... Urf...
+	Arf... Urf...
 	"""
 	keyWait
 		any = false
@@ -37,7 +37,7 @@ script 2 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*rooooar!!*"
+	"RAAAAARRR!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -50,7 +50,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... *gasp!!*"
+	"... Ahh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -64,7 +64,7 @@ script 4 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeech!!*"
+	"KYEEEERRHH!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -91,7 +91,7 @@ script 6 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*rooooooar!!*"
+	"RAAAAAR!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -108,7 +108,7 @@ script 7 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeeech!!*"
+	"KYEEEERRHH!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -126,8 +126,8 @@ script 8 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	... H_Help me,Lan...
-	Lan... L_La...
+	... M-me ajuda, Lan...
+	Lan... L-La...
 	"""
 	keyWait
 		any = false
@@ -156,7 +156,7 @@ script 10 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	...n ... Lan...
+	... n ... Lan...
 	Lan...
 	"""
 	keyWait
@@ -169,7 +169,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"Mr.Lan Hikari!!"
+	"Lan Hikari!!"
 	keyWait
 		any = false
 	end

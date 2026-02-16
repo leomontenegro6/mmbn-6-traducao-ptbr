@@ -9,8 +9,8 @@ script 0 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Play Crossover Battle 2
-	with Boktai 3!
+	Jogue Luta Crossover 2
+	com Boktai 3!
 	"""
 	waitHold
 }
@@ -22,8 +22,8 @@ script 1 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Change your name
-	and comment.
+	Mude o seu nome
+	e comentário.
 	"""
 	waitHold
 }
@@ -35,8 +35,8 @@ script 2 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Learn the rules of
-	Crossover Battle 2.
+	Aprenda as regras da
+	Luta Crossover 2.
 	"""
 	waitHold
 }
@@ -48,8 +48,8 @@ script 10 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Waiting for the other
-	party member.
+	Aguardando o outro
+	membro do grupo.
 	"""
 	wait
 		frames = 30
@@ -70,7 +70,7 @@ script 12 mmbn6 {
 	printLinkBuffer
 		buffer = 20
 	"""
-	Request a battle?
+	Propor uma luta?
 	
 	"""
 	positionOptionHorizontal
@@ -83,7 +83,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -92,7 +92,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -116,7 +116,7 @@ script 13 mmbn6 {
 	printLinkBuffer
 		buffer = 20
 	"""
-	Requested a battle.
+	Luta proposta.
 	"""
 	waitHold
 }
@@ -125,8 +125,8 @@ script 14 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	Waiting for the other
-	party member.
+	Aguardando o outro
+	membro do grupo.
 	"""
 	wait
 		frames = 30
@@ -138,8 +138,8 @@ script 15 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Failed to connect to
-	the other player...
+	Falha em se conectar
+	com o outro jogador...
 	"""
 	keyWait
 		any = false
@@ -151,8 +151,8 @@ script 16 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Battle request has
-	been cancelled.
+	A proposta de luta
+	foi cancelada.
 	"""
 	keyWait
 		any = false
@@ -164,9 +164,8 @@ script 17 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Your opponent has
-	cancelled your
-	battle request.
+	O oponente cancelou
+	sua proposta de luta.
 	"""
 	keyWait
 		any = false
@@ -178,8 +177,8 @@ script 19 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Failed to initialize
-	the Wireless Adapter.
+	Falha em inicializar
+	o Adaptador Wireless.
 	"""
 	keyWait
 		any = false
@@ -190,7 +189,7 @@ script 20 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	Enter your name.
+	Insira seu nome.
 	"""
 	keyWait
 		any = false
@@ -201,7 +200,7 @@ script 21 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	Enter your comment.
+	Insira seu comentário.
 	"""
 	keyWait
 		any = false
@@ -215,7 +214,7 @@ script 22 mmbn6 {
 	printLinkBuffer
 		buffer = 2
 	"""
-	Is this OK?
+	Confirma?
 	
 	"""
 	positionOptionHorizontal
@@ -228,7 +227,7 @@ script 22 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -237,7 +236,7 @@ script 22 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -258,7 +257,7 @@ script 23 mmbn6 {
 	printLinkBuffer
 		buffer = 3
 	"""
-	Is this OK?
+	Confirma?
 	
 	"""
 	positionOptionHorizontal
@@ -271,7 +270,7 @@ script 23 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -280,7 +279,7 @@ script 23 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -298,8 +297,8 @@ script 24 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	Cancelling data input.
-	Return to menu?
+	Cancelando comando.
+	Voltar para o menu?
 	
 	"""
 	positionOptionHorizontal
@@ -312,7 +311,7 @@ script 24 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -321,7 +320,7 @@ script 24 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -342,7 +341,7 @@ script 25 mmbn6 {
 		global = 4
 		value = 1
 	"""
-	Go back to edit name?
+	Voltar à edição de nome?
 	
 	"""
 	positionOptionHorizontal
@@ -355,7 +354,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -364,7 +363,7 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -384,8 +383,8 @@ script 25 mmbn6 {
 		global = 4
 		value = 2
 	"""
-	Cancelling data input.
-	Return to menu?
+	Cancelando comando.
+	Voltar para o menu?
 	
 	"""
 	positionOptionHorizontal
@@ -398,7 +397,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -407,7 +406,7 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -425,8 +424,8 @@ script 26 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossover
 	"""
-	Cancelling data input.
-	Return to menu?
+	Cancelando comando.
+	Voltar para o menu?
 	
 	"""
 	positionOptionHorizontal
@@ -439,7 +438,7 @@ script 26 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -448,7 +447,7 @@ script 26 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -469,7 +468,7 @@ script 27 mmbn6 {
 		global = 4
 		value = 1
 	"""
-	Go back to edit name?
+	Voltar à edição de nome?
 	
 	"""
 	positionOptionHorizontal
@@ -482,7 +481,7 @@ script 27 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -491,7 +490,7 @@ script 27 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -511,8 +510,8 @@ script 27 mmbn6 {
 		global = 4
 		value = 2
 	"""
-	Cancelling data input.
-	Return to title screen?
+	Cancelando comando.
+	Voltar à tela de título?
 	
 	"""
 	positionOptionHorizontal
@@ -525,7 +524,7 @@ script 27 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -534,7 +533,7 @@ script 27 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -604,11 +603,11 @@ script 51 mmbn6s {
 	end
 }
 script 52 mmbn6s {
-	"Next"
+	"Próximo"
 	end
 }
 script 53 mmbn6s {
-	"Back"
+	"Voltar"
 	end
 }
 script 54 mmbn6s {
@@ -616,7 +615,7 @@ script 54 mmbn6s {
 	end
 }
 script 55 mmbn6s {
-	"End"
+	"Fim"
 	end
 }
 script 56 mmbn6s {
@@ -723,8 +722,8 @@ script 80 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	We did it,Lan!
-	Nice operating!
+	A gente conseguiu, Lan!
+	Mandou bem na operação!
 	"""
 	keyWait
 		any = false
@@ -736,8 +735,8 @@ script 81 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	We did it,Lan!
-	Nice operating!
+	A gente conseguiu, Lan!
+	Mandou bem na operação!
 	"""
 	keyWait
 		any = false
@@ -749,9 +748,9 @@ script 82 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Too bad,Lan.
-	I should've
-	tried harder.
+	Ah, que pena, Lan.
+	Eu devia ter me
+	empenhado mais...
 	"""
 	keyWait
 		any = false
@@ -763,9 +762,9 @@ script 83 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Too bad,Lan.
-	I should've
-	tried harder.
+	Ah, que pena, Lan.
+	Eu devia ter me
+	empenhado mais...
 	"""
 	keyWait
 		any = false
@@ -777,8 +776,9 @@ script 84 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	It's not the end.
-	We'll win next time!
+	Ainda não acabou.
+	Na próxima, a gente
+	vence!
 	"""
 	keyWait
 		any = false
@@ -791,7 +791,7 @@ script 85 mmbn6 {
 	msgOpenCrossoverQuick
 	"""
 	Lan...
-	We can't run away...
+	A gente não pode fugir...
 	"""
 	keyWait
 		any = false
@@ -803,8 +803,8 @@ script 86 mmbn6 {
 		mugshot = MegaMan
 	msgOpenCrossoverQuick
 	"""
-	Connection error...
-	Let's try it again.
+	Erro de conexão...
+	Vamos tentar de novo.
 	"""
 	keyWait
 		any = false
@@ -823,7 +823,7 @@ script 90 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"About Crossover Battle\n"
+	"Sobre Luta Crossover\n"
 	option
 		brackets = 0
 		left = 1
@@ -832,7 +832,7 @@ script 90 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"About Disturb Icon\n"
+	"Sobre Ícone Empecilho\n"
 	option
 		brackets = 0
 		left = 2
@@ -841,7 +841,7 @@ script 90 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Blocking and Beast Out"
+	"Defender e Feralizar"
 	select
 		default = 0
 		BSeparate = true
@@ -868,7 +868,7 @@ script 91 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"About Crossover Battle\n"
+	"Sobre Luta Crossover\n"
 	option
 		brackets = 0
 		left = 1
@@ -877,7 +877,7 @@ script 91 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"About Disturb Icon\n"
+	"Sobre Ícone Empecilho\n"
 	option
 		brackets = 0
 		left = 2
@@ -886,7 +886,7 @@ script 91 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Blocking and Beast Out"
+	"Defender e Feralizar"
 	select
 		default = 1
 		BSeparate = true
@@ -913,7 +913,7 @@ script 92 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"About Crossover Battle\n"
+	"Sobre Luta Crossover\n"
 	option
 		brackets = 0
 		left = 1
@@ -922,7 +922,7 @@ script 92 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"About Disturb Icon\n"
+	"Sobre Ícone Empecilho\n"
 	option
 		brackets = 0
 		left = 2
@@ -931,7 +931,7 @@ script 92 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Blocking and Beast Out"
+	"Defender e Feralizar"
 	select
 		default = 2
 		BSeparate = true
@@ -952,39 +952,38 @@ script 93 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	Crossover Battle 2
-	continues from the
-	previous game,MMBN5.
+	A Luta Crossover 2
+	continua da opção no
+	jogo anterior, MMBN5.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a race
-	between "MegaMan
-	Battle Network 6"
+	É uma corrida entre
+	"MegaMan Battle Network 6"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and "Boktai 3" to see
-	who defeats the Count
-	first.
+	e "Boktai 3" para
+	ver quem derrota
+	o Conde primeiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If Django's HP reaches
-	zero before the Count is
-	defeated,
+	Se os PV de Django
+	chegarem a zero antes
+	do Conde ser vencido,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Boktai 3 side loses.
+	o lado Boktai 3 perde.
 	"""
 	keyWait
 		any = false
@@ -999,83 +998,83 @@ script 94 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	As the two of you play,
-	the players can disrupt
-	each other's play
+	À medida que os dois
+	jogam, os jogadores
+	podem atrapalhar o jogo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by sending a
-	Disturb Icon.
+	do outro enviando
+	um Ícone Empecilho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you have the
-	BatCannon chip and
-	hit the Count,
+	Se você tiver o
+	chip BatCannon e
+	atingir o Conde,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you can send a
-	Disturb Icon.
+	pode enviar um
+	Ícone Empecilho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are 4 BatCannons
-	and each chip sends a
-	different Disturb Icon.
+	Há 4 BatCannons, e cada
+	chip envia um Ícone
+	Empecilho diferente.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BatCannon1 is "
+	"O BatCannon1 é "
 	callDisturbIcon
 		color = 5
 	spacePx
 		count = 18
 	"""
 	
-	I will appear and attack
-	with the MegaBuster.
+	Eu aparecerei e atacarei
+	com o MegaTiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BatCannon2 is "
+	"O BatCannon2 é "
 	callDisturbIcon
 		color = 4
 	spacePx
 		count = 18
 	"""
 	
-	I will appear and attack
-	with ZapRing.
+	Eu aparecerei e atacarei
+	com um ZapRing.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BatCannon3 is "
+	"O BatCannon3 é "
 	callDisturbIcon
 		color = 6
 	spacePx
 		count = 18
 	"""
 	
-	I will appear and attack
-	with LifeSword.
+	Eu aparecerei e atacarei
+	com uma LifeSword.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BatCannon4 is "
+	"O BatCannon4 é "
 	callDisturbIcon
 		color = 5
 	spacePx
@@ -1090,47 +1089,48 @@ script 94 mmbn6 {
 		count = 18
 	"""
 	
-	3 different Disturb
-	Icons are sent at once.
+	três Ícones Empecilho
+	diferentes são enviados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's another way to
-	send a Disturb Icon:
+	Há outra forma de enviar
+	um Ícone Empecilho:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"A Counter Attack!"
+	"com um Contra-Ataque!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you hit the Count
-	during an attack, a
+	Se você atingir o Conde
+	durante um ataque, um
+	ícone 
 	"""
 	callDisturbIcon
 		color = 0
 	spacePx
 		count = 18
-	" icon will be sent"
+	" é enviado."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	From Boktai 3's side,
-	the Count will use his
-	Blood Rain attack.
+	Do lado Boktai 3, o
+	Conde usará seu ataque
+	Chuva de Sangue.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't forget that the
-	other side can send
-	Disturb Icons too!
+	Não esqueça que o outro
+	lado pode mandar Ícones
+	Empecilho também!
 	"""
 	keyWait
 		any = false
@@ -1140,9 +1140,9 @@ script 94 mmbn6 {
 	spacePx
 		count = 18
 	"""
-	This Disturb Icon will
-	summon Django to
-	attack with a sword.
+	Este Ícone Empecilho
+	invocará Django para
+	atacar com a espada.
 	"""
 	keyWait
 		any = false
@@ -1152,9 +1152,9 @@ script 94 mmbn6 {
 	spacePx
 		count = 18
 	"""
-	This Disturb Icon will
-	summon Django to
-	attack with GunDelSol!
+	Este Ícone Empecilho
+	invocará o Django para
+	atacar com a GunDelSol!
 	"""
 	keyWait
 		any = false
@@ -1164,9 +1164,9 @@ script 94 mmbn6 {
 	spacePx
 		count = 18
 	"""
-	This Disturb Icon will
-	summon Django to
-	attack using his bike!
+	Este Ícone Empecilho
+	invocará o Django para
+	atacar com sua moto!
 	"""
 	keyWait
 		any = false
@@ -1176,9 +1176,9 @@ script 94 mmbn6 {
 	spacePx
 		count = 18
 	"""
-	This Disturb Icon will
-	make the Count attack
-	with BloodRain!
+	Este Ícone Empecilho invo-
+	cará o Conde para atacar
+	com Chuva de Sangue!
 	"""
 	keyWait
 		any = false
@@ -1193,85 +1193,85 @@ script 95 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	You can use Block,
-	but it can only be
-	used once.
+	Você pode usar Defesa,
+	mas somente uma vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On the custom screen
-	choose BLOCK instead
-	of OK.
+	Na tela de customização,
+	escolha DEFENDER em vez
+	de OK.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	During the next turn,
-	you will knock away all
-	Disturb Icons received.
+	Durante a próxima rodada,
+	você apagará todos os
+	Ícones que você recebeu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't forget that
-	the Boktai 3 side can
-	also Block once.
+	Não esqueça que o lado
+	Boktai 3 também pode
+	usar Defender uma vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,I can Beast Out
-	using a special chip
-	in the folder.
+	Ah, e eu posso Feralizar
+	usando um chip especial
+	na pasta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While in Beast Out,
-	aside from Navi Chips
-	and BatCannon,
+	No modo Feralizado,
+	fora Chips Navi e
+	os BatCannons,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	all chips send
-	Disturb Icons to
+	todos os chips enviam
+	Ícone Empecilhos para
 	Boktai 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is your chance to
-	turn everything around!
+	É a sua chance
+	de virar o jogo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,Boktai 3 has a
-	similar skill.
+	Contudo, Boktai 3
+	também tem uma
+	habilidade parecida.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Django can use his Sol
-	Trance transformation
-	to power up!
+	O Django pode usar sua
+	transformação Sol Trance
+	para se energizar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Keep this in mind!
+	Lembre-se bem disso!
 	"""
 	keyWait
 		any = false

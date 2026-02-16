@@ -10,24 +10,25 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Just when I sprained
-	my ankle and thought
-	I could relax,BOOM!
+	Justo quando eu torci
+	o tornozelo e achei
+	que ia poder relaxar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Writing assignment!
-	Teachers are mean!!
+	Redação!!
+	Professor é um bicho
+	tão desalmado...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've never seen you
-	before. You're the
-	new kid in 6_1,huh?
+	Hm, nunca te vi por
+	aqui antes. Você que
+	é o novato da 6-1?
 	"""
 	keyWait
 		any = false
@@ -38,13 +39,13 @@ script 5 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Huh?
-	Something happen!?
+	Hã?
+	Aconteceu alguma coisa?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Creepy..."
+	"Que medo..."
 	keyWait
 		any = false
 	end
@@ -66,23 +67,22 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = Boy
 	"""
-	Huh?
-	What am I doing?
+	Hã?
+	"O que eu tô fazendo?"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm recording the
-	growth of living
-	things!
+	Registrando o crescimento
+	dos animais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is part of
-	my daily routine.
+	É uma das minhas
+	tarefas diárias.
 	"""
 	keyWait
 		any = false
@@ -94,53 +94,51 @@ script 51 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = Boy
-	"...Huh?"
+	"... Hã?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's right!
-	I'm the Biology
-	teacher's aide!
+	Aham! Sou eu sim,
+	o assistente do
+	professor de Biologia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something the
-	matter?
+	Algum problema?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Umm..."
+	"Humm..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Boy
 	"""
-	WHAT!?
-	You want some fish
-	to feed a penguin!
+	O QUÊ?!
+	Cê quer um peixe pra
+	alimentar um pinguim?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I am in charge
-	of feeding the
-	animals here...
+	Bom, é, eu SOU
+	o encarregado de
+	alimentar os animais...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't have
-	any food to give to
-	a penguin!
+	mas não tenho nada pra
+	dar pra pinguim comer!
 	"""
 	keyWait
 		any = false
@@ -148,94 +146,91 @@ script 51 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I guess I'm outta
-	luck...
+	Que azar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thanks anyways..."
+	"Bom, valeu mesmo assim..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Boy
 	"""
-	...Oh,wait a
-	second...
+	... Ah, espera...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My grandpa loves
-	to fish!
+	O meu avô é amarradão
+	em pesca!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure he is
-	even fishing today!
+	Certeza que ele saiu
+	pra pescar hoje mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He should be coming
-	home around now I
-	think...
+	Acho que ele já deve
+	tá voltando pra casa
+	a esta hora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you ask him,I
-	bet he'd give you a
-	fish!!
+	Se pedir pra ele,
+	aposto que ele te
+	descola um peixe!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Really!?"
+	"É mesmo?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Boy
 	"""
-	Yeah,I don't think
-	it'll be a problem!
+	Aham. Duvido que
+	ele vá ser contra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll try and get
-	ahold of my grandpa!
+	Eu vou tentar
+	ligar pra ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll ask him to
-	bring some fish to
-	the LevBus station.
+	Vou pedir pra ele
+	levar uns peixes pra
+	estação de ÔnibsMag.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Thanks!"
+	"Valeu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll head to the
-	station right now!
+	Eu vou pra estação é já!
 	"""
 	keyWait
 		any = false
@@ -246,16 +241,16 @@ script 52 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	I'll try and get
-	ahold of my grandpa!
+	Eu vou tentar
+	ligar pra ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll ask him to
-	bring some fish to
-	the LevBus station.
+	Vou pedir pra ele
+	levar uns peixes pra
+	estação de ÔnibsMag.
 	"""
 	keyWait
 		any = false
@@ -266,8 +261,8 @@ script 53 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Were the fish
-	useful?
+	E aí, os
+	peixes serviram?
 	"""
 	keyWait
 		any = false
@@ -278,16 +273,16 @@ script 54 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	Everyone's spreading
-	rumors...
+	Tá todo mundo
+	espalhando um boato aí...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They say a penguin
-	showed up to the
-	class next door!
+	Tão dizendo que
+	apareceu um pinguim
+	na sala do lado!
 	"""
 	keyWait
 		any = false

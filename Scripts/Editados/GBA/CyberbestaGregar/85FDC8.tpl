@@ -23,9 +23,9 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Things don't look
-	too damaged from the
-	BlastMan incident...
+	Parece que o incidente
+	do BlastMan não deixou
+	grandes estragos...
 	"""
 	keyWait
 		any = false
@@ -48,9 +48,9 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Things don't look
-	too damaged from the
-	BlastMan incident...
+	Parece que o incidente
+	do BlastMan não deixou
+	grandes estragos...
 	"""
 	keyWait
 		any = false
@@ -61,9 +61,9 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's look for the
-	recorded data that
-	Security Bot taped!
+	Bora procurar pelos
+	dados do que o Robô
+	de Segurança gravou!
 	"""
 	keyWait
 		any = false
@@ -74,16 +74,15 @@ script 12 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's take that
-	recorded data and go
-	to the courthouse!
+	Vamos levar os dados
+	gravados pro tribunal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll prove Dad's
-	innocent!
+	Hora de provar a
+	inocência do papai!
 	"""
 	keyWait
 		any = false
@@ -94,9 +93,9 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Things don't look
-	too damaged from the
-	BlastMan incident...
+	Parece que o incidente
+	do BlastMan não deixou
+	grandes estragos...
 	"""
 	keyWait
 		any = false

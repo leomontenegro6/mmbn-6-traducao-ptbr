@@ -6,21 +6,21 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M THE SECURITY
-	CAMERA PROGRAM.
+	SOU O PROG DA
+	CÂMERA DE SEGURANÇA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU SLEEP DURING
-	CLASS THE CAMERA
-	WILL CATCH YOU!!
+	SE DORMIR DURANTE
+	A AULA, A CÂMERA
+	VAI TE PEGAR!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HAHAHA..."
+	"HA HA HA..."
 	keyWait
 		any = false
 	end

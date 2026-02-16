@@ -2,107 +2,107 @@
 @size 48
 
 script 0 mmbn6s {
-	"The Underworld DKWebmr "
+	"O Submundo     AdminTrv"
 	end
 }
 script 1 mmbn6s {
-	"Rock Virus     Jinta   "
+	"Vírus pedra    Jinta   "
 	end
 }
 script 2 mmbn6s {
-	"Smashing Rocks Chivalry"
+	"Quebrar pedras Cvaleiro"
 	end
 }
 script 3 mmbn6s {
-	"ICan'tBeStoppd GoGoGo  "
+	"Não me param   GoGoGo  "
 	end
 }
 script 4 mmbn6s {
-	"AquariumAccdnt DKWebmr "
+	"AcidnteAquário AdminTrv"
 	end
 }
 script 5 mmbn6s {
-	"Real Criminal  Jori    "
+	"Vrdr Criminoso Jori    "
 	end
 }
 script 6 mmbn6s {
-	"Who? Where?    Badboy  "
+	"Quem? Onde?    Bandidão"
 	end
 }
 script 7 mmbn6s {
-	"Bones! Bones!  UnderYou"
+	"Ossos! Ossos!  UnderYoh"
 	end
 }
 script 8 mmbn6s {
-	"Took Shortcut  DarkWest"
+	"Peguei atalho  OesTreva"
 	end
 }
 script 9 mmbn6s {
-	"That Thing...  Suzanne "
+	"Aquela coisa   Suzanne "
 	end
 }
 script 10 mmbn6s {
-	"MonsterRevival Danny   "
+	"Revive Monstro Danny   "
 	end
 }
 script 11 mmbn6s {
-	"StupidNetPolic TheFools"
+	"Polícia idiota OsTolos "
 	end
 }
 script 12 mmbn6s {
-	"EndOfTheWorld  Mumu    "
+	"Fim do mundo   Mumu    "
 	end
 }
 script 13 mmbn6s {
-	"The Cybeasts?  BigBaddy"
+	"Cyberbestas?   Chfãozão"
 	end
 }
 script 14 mmbn6s {
-	"Criminal Trial Boo     "
+	"Julgamento     Bu      "
 	end
 }
 script 15 mmbn6s {
-	"Hey!AScientist Jackyl  "
+	"Ei! Cientista  Jackyl  "
 	end
 }
 script 16 mmbn6s {
-	"Sunglass Virus DKWebmr "
+	"Vírus óculos   AdminTrv"
 	end
 }
 script 17 mmbn6s {
-	"ColoredGlasses Shogun  "
+	"Óculos colords Xogum   "
 	end
 }
 script 18 mmbn6s {
-	"Strange Times  SlickRbr"
+	"Dias estranhos SlickRbr"
 	end
 }
 script 19 mmbn6s {
-	"NO_TITLE       NO_NAME "
+	"SEM_TÍTULO     SEM_NOME"
 	end
 }
 script 20 mmbn6s {
-	"Candle Phobia  Peter   "
+	"Fobia de velas Peter   "
 	end
 }
 script 21 mmbn6s {
-	"Blow Off Baby! Mr.Dama "
+	"Blow Off Baby! Sr. Dama"
 	end
 }
 script 22 mmbn6s {
-	"NO_TITLE       NO_NAME "
+	"SEM_TÍTULO     SEM_NOME"
 	end
 }
 script 23 mmbn6s {
-	"Crime Preview? Secret  "
+	"Prévia crime?  Segredo "
 	end
 }
 script 24 mmbn6s {
-	"FortProtection Hahahaha"
+	"Proteção Forte Hahahaha"
 	end
 }
 script 25 mmbn6s {
-	"WWW People     NO_NAME "
+	"Povo da WWW    SEM_NOME"
 	end
 }
 script 26 mmbn6s {

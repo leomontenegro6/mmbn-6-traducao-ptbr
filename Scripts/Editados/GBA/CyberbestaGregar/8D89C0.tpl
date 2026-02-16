@@ -6,25 +6,24 @@ script 0 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	Cybercarrots are
-	grown in this
-	area.
+	Nesta área crescem
+	cybercenouras.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just do as you did
-	before,but this
-	time,
+	É só fazer o mesmo
+	que você fez antes,
+	mas, desta vez,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I need you to get
-	120 grams of
-	cybercarrots,OK?
+	preciso que você
+	colha 120 gramas
+	de cybercenouras.
 	"""
 	keyWait
 		any = false
@@ -36,13 +35,13 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"120 grams,huh?"
+	"120 gramas, é?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK!
-	Let's go,SlashMan!
+	Beleza!
+	Bora, SlashMan!
 	"""
 	keyWait
 		any = false
@@ -54,7 +53,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Slash!"
+	"Shuiiinnnn!"
 	keyWait
 		any = false
 	end

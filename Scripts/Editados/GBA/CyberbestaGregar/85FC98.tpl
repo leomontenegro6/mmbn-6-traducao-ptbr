@@ -47,9 +47,9 @@ script 29 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,it's up to
-	you to fix the
-	control system!!
+	MegaMan, só você
+	pode consertar o
+	sistema de controle!!
 	"""
 	keyWait
 		any = false
@@ -60,8 +60,9 @@ script 32 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's show BlastMan
-	what you've got!
+	Bora mostrar pro
+	BlastMan do que
+	que cê é capaz!
 	"""
 	keyWait
 		any = false
@@ -72,9 +73,9 @@ script 35 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Things don't look
-	too damaged from the
-	BlastMan incident...
+	Parece que o incidente
+	do BlastMan não deixou
+	grandes estragos...
 	"""
 	keyWait
 		any = false

@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	We'll go after you
-	talk to Mom and Dad!
+	Lan, a gente só sai
+	depois que você falar
+	com os seus pais!
 	"""
 	keyWait
 		any = false
@@ -19,9 +19,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	Let's go to bed
-	already!
+	Lan, vamos
+	logo pra cama!
 	"""
 	keyWait
 		any = false
@@ -32,8 +31,8 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where's the guest?
-	Let's ask Mom!
+	Cadê a tal visita?
+	Pergunta pra mamãe!
 	"""
 	keyWait
 		any = false
@@ -44,9 +43,9 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	We'll go after you
-	talk to Mom.
+	Lan, a gente só vai
+	depois que você falar
+	com a mamãe.
 	"""
 	keyWait
 		any = false

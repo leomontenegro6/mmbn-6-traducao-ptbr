@@ -19,14 +19,13 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"THE UNDERBBS!?"
+	"O UNDERFÓRUM?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DON'T KNOW A
-	THING ABOUT SUCH
-	AWFUL PLACES!!
+	EU NÃO SEI NADA SOBRE
+	ESSE LUGAR MEDONHO!!
 	"""
 	keyWait
 		any = false
@@ -37,15 +36,16 @@ script 1 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE UNDERNET IS A
-	TRULY SCARY PLACE...
+	A UNDERNET É UM
+	LUGAR REALMENTE
+	ATERRORIZANTE...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JUST THINKING ABOUT
-	IT MAKES ME SHIVER!
+	SÓ DE PENSAR NELA,
+	EU TREMO!
 	"""
 	keyWait
 		any = false
@@ -56,23 +56,22 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	CURRENTLY,THERE
-	IS AN EXAMINATION
-	OF THE UNDERGROUND
+	NO MOMENTO, ESTÁ
+	SENDO CONDUZIDA UMA
+	INVESTIGAÇÃO DO SUBSOLO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OCCURRING IN CENTRAL
-	AREA3.
+	NA ÁREA CENTRAL 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MAKE SURE YOU DON'T
-	GET IN THE WAY!
+	CERTIFIQUE-SE DE
+	NÃO ATRAPALHÁ-LA!
 	"""
 	keyWait
 		any = false
@@ -88,17 +87,16 @@ script 6 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Shouldn't you
-	avoid going to
-	CentralArea3?
+	Não é melhor evitar
+	ir na Área Central 3?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you get too close
-	you might fall into
-	the Underground!
+	Se chegar perto demais,
+	pode acabar caindo no
+	SubSolo!
 	"""
 	keyWait
 		any = false
@@ -110,16 +108,15 @@ script 10 mmbn6 {
 	msgOpen
 	"""
 	HMMMM...
-	JUST AS LONG AS
-	NOTHING STRANGE
+	DESDE QUE NENHUMA
+	COISA ESQUISITA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	COMES OUT OF THE
-	UNDERGROUND AND INTO
-	THIS AREA...
+	SAIA DO SUBSOLO E
+	VENHA PARA ESTA ÁREA...
 	"""
 	keyWait
 		any = false
@@ -130,14 +127,13 @@ script 11 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	I checked out the
-	Underground,but
-	only for a second...
+	Eu vi o SubSolo,
+	mas foi só de relance...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It was really scary!"
+	"Dá mó medo!"
 	keyWait
 		any = false
 	end
@@ -147,8 +143,8 @@ script 15 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	A blu...blue Navi?
-	I...dunno...know...
+	Um N-Navi... azul?
+	Eu... não sei... não...
 	"""
 	keyWait
 		any = false
@@ -159,9 +155,9 @@ script 16 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	The one I'm looking
-	at is about to get
-	DELETED!! Yahhhhh!!
+	Eu tô olhando prum
+	mané que tá pra ser
+	DELETADO!! IÁÁÁÁÁ!!
 	"""
 	keyWait
 		any = false

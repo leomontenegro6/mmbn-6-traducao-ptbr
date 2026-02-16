@@ -7,7 +7,7 @@ script 0 mmbn6 {
 	controlLock
 	soundPlay
 		track = 337
-	"*beep!*"
+	"Bip!"
 	wait
 		frames = 20
 	soundEnableTextSFX
@@ -22,7 +22,7 @@ script 1 mmbn6 {
 	controlLock
 	soundPlay
 		track = 211
-	"*click!*"
+	"Clic!"
 	wait
 		frames = 45
 	soundEnableTextSFX
@@ -35,13 +35,13 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Alright!!"
+	"Beleza!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack out,MegaMan!
-	Let's get going!
+	Desconecta, MegaMan!
+	Bora seguir em frente!
 	"""
 	keyWait
 		any = false
@@ -53,7 +53,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end

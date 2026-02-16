@@ -6,8 +6,8 @@ script 1 mmbn6 {
 	flagSet
 		flag = 407
 	"""
-	You got new Virus
-	Data:"Mettaur"!
+	Obteve novos Dados
+	de Vírus: "Mettaur"!
 	"""
 	keyWait
 		any = false
@@ -18,8 +18,8 @@ script 2 mmbn6 {
 	flagSet
 		flag = 408
 	"""
-	You got new Virus
-	Data:"Piranha"!
+	Adquiriu novos Dados
+	de Vírus "Piranha"!
 	"""
 	keyWait
 		any = false
@@ -30,8 +30,8 @@ script 3 mmbn6 {
 	flagSet
 		flag = 409
 	"""
-	You got new Virus
-	Data:"HeadyA"!
+	Adquiriu novos Dados
+	de Vírus: "HeadyA"!
 	"""
 	keyWait
 		any = false
@@ -42,8 +42,8 @@ script 4 mmbn6 {
 	flagSet
 		flag = 410
 	"""
-	You got new Virus
-	Data:"Swordy"!
+	Adquiriu novos Dados
+	de Vírus: "Swordy"!
 	"""
 	keyWait
 		any = false
@@ -54,8 +54,8 @@ script 5 mmbn6 {
 	flagSet
 		flag = 411
 	"""
-	You got new Virus
-	Data:"KillrEye"!
+	Adquiriu novos Dados
+	de Vírus: "KillrEye"!
 	"""
 	keyWait
 		any = false
@@ -66,8 +66,8 @@ script 6 mmbn6 {
 	flagSet
 		flag = 412
 	"""
-	You got new Virus
-	Data:"Quaker"!
+	Adquiriu novos Dados
+	de Vírus: "Quaker"!
 	"""
 	keyWait
 		any = false
@@ -78,8 +78,8 @@ script 7 mmbn6 {
 	flagSet
 		flag = 413
 	"""
-	You got new Virus
-	Data:"Catack"!
+	Adquiriu novos Dados
+	de Vírus: "Catack"!
 	"""
 	keyWait
 		any = false
@@ -90,8 +90,8 @@ script 8 mmbn6 {
 	flagSet
 		flag = 414
 	"""
-	You got new Virus
-	Data:"Champy"!
+	Adquiriu novos Dados
+	de Vírus: "Champy"!
 	"""
 	keyWait
 		any = false
@@ -102,8 +102,8 @@ script 9 mmbn6 {
 	flagSet
 		flag = 415
 	"""
-	You got new Virus
-	Data:"WindBox"!
+	Adquiriu novos Dados
+	de Vírus: "WindBox"!
 	"""
 	keyWait
 		any = false
@@ -114,8 +114,8 @@ script 11 mmbn6 {
 	flagSet
 		flag = 417
 	"""
-	You got new Virus
-	Data:"OldStov"!
+	Adquiriu novos Dados
+	de Vírus: "OldStov"!
 	"""
 	keyWait
 		any = false
@@ -126,8 +126,8 @@ script 12 mmbn6 {
 	flagSet
 		flag = 418
 	"""
-	You got new Virus
-	Data:"HntdCndl"!
+	Adquiriu novos Dados
+	de Vírus: "HntdCndl"!
 	"""
 	keyWait
 		any = false
@@ -138,8 +138,8 @@ script 14 mmbn6 {
 	flagSet
 		flag = 420
 	"""
-	You got new Virus
-	Data:"Puffy"!
+	Adquiriu novos Dados
+	de Vírus: "Puffy"!
 	"""
 	keyWait
 		any = false
@@ -150,8 +150,8 @@ script 15 mmbn6 {
 	flagSet
 		flag = 421
 	"""
-	You got new Virus
-	Data:"StarFish"!
+	Adquiriu novos Dados
+	de Vírus: "StarFish"!
 	"""
 	keyWait
 		any = false
@@ -162,8 +162,8 @@ script 16 mmbn6 {
 	flagSet
 		flag = 422
 	"""
-	You got new Virus
-	Data:"ErthDrgn"!
+	Adquiriu novos Dados
+	de Vírus: "ErthDrgn"!
 	"""
 	keyWait
 		any = false
@@ -174,8 +174,8 @@ script 17 mmbn6 {
 	flagSet
 		flag = 423
 	"""
-	You got new Virus
-	Data:"ScarCrow"!
+	Adquiriu novos Dados
+	de Vírus: "ScarCrow"!
 	"""
 	keyWait
 		any = false
@@ -186,8 +186,8 @@ script 18 mmbn6 {
 	flagSet
 		flag = 424
 	"""
-	You got new Virus
-	Data:"PulsBulb"!
+	Adquiriu novos Dados
+	de Vírus: "PulsBulb"!
 	"""
 	keyWait
 		any = false
@@ -198,8 +198,8 @@ script 19 mmbn6 {
 	flagSet
 		flag = 425
 	"""
-	You got new Virus
-	Data:"BigHat"!
+	Adquiriu novos Dados
+	de Vírus: "BigHat"!
 	"""
 	keyWait
 		any = false
@@ -210,8 +210,8 @@ script 20 mmbn6 {
 	flagSet
 		flag = 426
 	"""
-	You got new Virus
-	Data:"BombCorn"!
+	Adquiriu novos Dados
+	de Vírus: "BombCorn"!
 	"""
 	keyWait
 		any = false
@@ -222,8 +222,8 @@ script 21 mmbn6 {
 	flagSet
 		flag = 427
 	"""
-	You got new Virus
-	Data:"Shrubby"!
+	Adquiriu novos Dados
+	de Vírus: "Shrubby"!
 	"""
 	keyWait
 		any = false
@@ -234,8 +234,8 @@ script 22 mmbn6 {
 	flagSet
 		flag = 428
 	"""
-	You got new Virus
-	Data:"HonyBmbr"!
+	Adquiriu novos Dados
+	de Vírus: "HonyBmbr"!
 	"""
 	keyWait
 		any = false
@@ -246,8 +246,8 @@ script 23 mmbn6 {
 	flagSet
 		flag = 429
 	"""
-	You got new Virus
-	Data:"Gunner"!
+	Adquiriu novos Dados
+	de Vírus: "Gunner"!
 	"""
 	keyWait
 		any = false
@@ -258,8 +258,8 @@ script 24 mmbn6 {
 	flagSet
 		flag = 430
 	"""
-	You got new Virus
-	Data:"FgtrPlne"!
+	Adquiriu novos Dados
+	de Vírus: "FgtrPlne"!
 	"""
 	keyWait
 		any = false
@@ -270,8 +270,8 @@ script 25 mmbn6 {
 	flagSet
 		flag = 431
 	"""
-	You got new Virus
-	Data:"DarkMech"!
+	Adquiriu novos Dados
+	de Vírus: "DarkMech"!
 	"""
 	keyWait
 		any = false
@@ -282,8 +282,8 @@ script 26 mmbn6 {
 	flagSet
 		flag = 432
 	"""
-	You got new Virus
-	Data:"SnakeArm"!
+	Adquiriu novos Dados
+	de Vírus: "SnakeArm"!
 	"""
 	keyWait
 		any = false
@@ -294,8 +294,8 @@ script 27 mmbn6 {
 	flagSet
 		flag = 433
 	"""
-	You got new Virus
-	Data:"Armadill"!
+	Adquiriu novos Dados
+	de Vírus: "Armadill"!
 	"""
 	keyWait
 		any = false
@@ -306,8 +306,8 @@ script 28 mmbn6 {
 	flagSet
 		flag = 434
 	"""
-	You got new Virus
-	Data:"Cragger"!
+	Adquiriu novos Dados
+	de Vírus: "Cragger"!
 	"""
 	keyWait
 		any = false
@@ -318,8 +318,8 @@ script 29 mmbn6 {
 	flagSet
 		flag = 435
 	"""
-	You got new Virus
-	Data:"Nghtmare"!
+	Adquiriu novos Dados
+	de Vírus: "Nghtmare"!
 	"""
 	keyWait
 		any = false

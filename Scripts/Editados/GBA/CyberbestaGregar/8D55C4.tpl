@@ -8,19 +8,19 @@ script 0 mmbn6 {
 	"... "
 	soundPlay
 		track = 417
-	"*thunk!"
+	"Tunc!"
 	wait
 		frames = 13
 	"\n"
 	soundPlay
 		track = 417
-	"       thunk!"
+	"       Tunc!"
 	wait
 		frames = 6
 	"\n"
 	soundPlay
 		track = 417
-	"         thunk!*"
+	"             Tunc!"
 	wait
 		frames = 26
 	soundEnableTextSFX
@@ -36,24 +36,21 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmm,now that I think
-	about it,
+	Hmm, parando pra pensar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I might
-	have heard something
-	during class...
+	a gente ouviu alguma
+	coisa durante a aula...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,this Bot's been
-	in here for 2 days
-	now?
+	Então esse Robô tá preso
+	aí já tem dois dias?
 	"""
 	keyWait
 		any = false
@@ -68,34 +65,34 @@ script 2 mmbn6 {
 	controlLock
 	soundPlay
 		track = 417
-	"*thunk! "
+	"Tunc! "
 	wait
 		frames = 6
 	soundPlay
 		track = 417
-	"thunk!*"
-	wait
-		frames = 6
-	"\n"
-	soundPlay
-		track = 417
-	"*thunk! "
-	wait
-		frames = 6
-	soundPlay
-		track = 417
-	"thunk!*"
+	"Tunc!"
 	wait
 		frames = 6
 	"\n"
 	soundPlay
 		track = 417
-	"*thunk! "
+	"Tunc! "
 	wait
 		frames = 6
 	soundPlay
 		track = 417
-	"thunk!*"
+	"Tunc!"
+	wait
+		frames = 6
+	"\n"
+	soundPlay
+		track = 417
+	"Tunc! "
+	wait
+		frames = 6
+	soundPlay
+		track = 417
+	"Tunc!"
 	wait
 		frames = 6
 	soundEnableTextSFX
@@ -111,23 +108,22 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... You know I'm
-	here,huh?
+	... Ele sabe que
+	eu tô aqui, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess you can see
-	me from inside
-	there.
+	É, acho que daria pra
+	ele me ver daí de dentro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,let's get you
-	out of there...
+	Bom, eu vou te
+	tirar daí...
 	"""
 	keyWait
 		any = false
@@ -138,13 +134,13 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmm... There's some
-	strange lock here...
+	Hmm... Que tranca
+	estranha...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,here we go!"
+	"Tá, lá vai!"
 	keyWait
 		any = false
 	end
@@ -157,7 +153,7 @@ script 5 mmbn6 {
 	controlLock
 	soundPlay
 		track = 418
-	"*crash!!*"
+	"Prrrec!!"
 	wait
 		frames = 60
 	soundEnableTextSFX
@@ -170,16 +166,16 @@ script 6 mmbn6 {
 	controlLock
 	textSpeed
 		delay = 1
-	"*pant!*"
+	"ARH!"
 	wait
 		frames = 30
-	" *pant!*"
+	" ARH!"
 	wait
 		frames = 30
-	"\n*pant!*"
+	"\nARH!"
 	wait
 		frames = 30
-	" *pant!*"
+	" ARH!"
 	controlUnlock
 	keyWait
 		any = false
@@ -187,8 +183,7 @@ script 6 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	IT WAS SIMPLY
-	AWFUL!!
+	FOI HORRÍVEL!!
 	"""
 	keyWait
 		any = false
@@ -196,16 +191,16 @@ script 6 mmbn6 {
 	controlLock
 	textSpeed
 		delay = 1
-	"*pant!*"
+	"ARH!"
 	wait
 		frames = 30
-	" *pant!*"
+	" ARH!"
 	wait
 		frames = 30
-	"\n*pant!*"
+	"\nARH!"
 	wait
 		frames = 30
-	" *pant!*"
+	" ARH!"
 	controlUnlock
 	keyWait
 		any = false
@@ -219,7 +214,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,are you OK...?"
+	"Ei, cê tá legal...?"
 	keyWait
 		any = false
 	clearMsg
@@ -240,15 +235,15 @@ script 9 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	What are you
-	doing here!?
+	O que você tá
+	fazendo aí?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've been looking
-	for you for 2 days!!
+	Faz dois dias que eu
+	tava te procurando!!
 	"""
 	keyWait
 		any = false
@@ -259,8 +254,8 @@ script 10 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	... Did you hide him
-	here,Lan Hikari?
+	... Foi você quem
+	escondeu ele aí, Lan?
 	"""
 	keyWait
 		any = false
@@ -272,7 +267,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"N_No!"
+	"N-não!"
 	keyWait
 		any = false
 	clearMsg
@@ -283,7 +278,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"... Really?"
+	"... Mesmo?"
 	keyWait
 		any = false
 	clearMsg
@@ -294,7 +289,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Really!"
+	"Mesmo!"
 	keyWait
 		any = false
 	clearMsg
@@ -306,44 +301,43 @@ script 14 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	I don't know...
-	sounds kinda fishy.
+	Não sei, não...
+	Tem caroço nesse angu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you're hiding the
-	truth from me,I'll
-	know soon enough.
+	Se estiver escondendo a
+	verdade de mim, eu vou
+	descobrir já, já.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This Security Bot
-	records everything
-	it sees.
+	Porque o Robô de
+	Segurança grava
+	tudo o que vê.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So it'll be on
-	record!
+	Logo, vai estar
+	nos registros dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One look at the
-	video,and I'll know
-	the culprit!
+	É só eu ver o vídeo que
+	eu descubro o culpado!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wahaha!"
+	"Aah ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
@@ -366,13 +360,13 @@ script 15 mmbn6 {
 	"."
 	wait
 		frames = 30
-	" Wait..."
+	" Espera..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What did you just
-	say,Mr.Mach...?
+	O que foi que você
+	disse, Sr. Mach...?
 	"""
 	keyWait
 		any = false
@@ -385,31 +379,29 @@ script 16 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	I said that this
-	Security Bot records
-	everything it sees.
+	Eu disse que o Robô
+	de Segurança grava
+	tudo o que vê.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... What's wrong,
-	Lan?
+	... Que foi, Lan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why the serious
-	face?
+	Por que essa cara séria?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Don't tell me
-	you WERE the one
-	that hid the Bot!?
+	... Não vá me dizer que
+	foi mesmo você quem
+	escondeu o Robô?!
 	"""
 	keyWait
 		any = false
@@ -421,13 +413,13 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Record..."
+	"Grava..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	MegaMan!
-	Maybe...!
+	Será...?!
 	"""
 	keyWait
 		any = false
@@ -439,30 +431,29 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This Security Bot
-	has been in this
-	closet for 2 days,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	which means that
-	it may have been
-	able to look out
+	Esse Robô de Segurança
+	ficou dois dias nesse
+	armário,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	into the classroom,
-	and record
-	everything we need!
+	logo, ele deve ter
+	ficado olhando a
+	sala de aula
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e gravado tudo de
+	que precisamos!
 	"""
 	keyWait
 		any = false
@@ -475,9 +466,9 @@ script 19 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mr.Mach! Where's the
-	recorded data stored
-	for this Bot!?
+	Sr. Mach! Onde ficam
+	guardados os dados de
+	gravação desse Robô?!
 	"""
 	keyWait
 		any = false
@@ -490,17 +481,16 @@ script 20 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Um,the RoboControl
-	PC in the Teachers'
-	Room,but...
+	Er, no Computador de
+	Controle dos Robôs na
+	Sala dos Professores...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if you go in there,
-	no pranks,
-	understand!?
+	mas, se for lá, não
+	vá aprontar nada, viu?!
 	"""
 	keyWait
 		any = false
@@ -512,14 +502,14 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thank you,Mr.Mach!"
+	"Valeu, Sr. Mach!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With this data,maybe
-	we can back up Dad's
-	alibi!
+	Com esses dados, talvez
+	dê pra gente embasar
+	o álibi do papai!
 	"""
 	keyWait
 		any = false

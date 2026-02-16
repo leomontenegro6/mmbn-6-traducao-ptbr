@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = JudgeMan
 	msgOpen
 	"""
-	I'm sorry...
+	Peço perdão...
 	Ito...
-	Gwaaaaaaah!!
+	Ghaaaaaarhh!!
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! The switch!
-	Hurry!
+	MegaMan! O interruptor!
+	Rápido!
 	"""
 	keyWait
 		any = false
@@ -32,7 +32,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Got it!"
+	"Certo!"
 	keyWait
 		any = false
 	end
@@ -41,7 +41,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here we go!"
+	"Lá vai!"
 	keyWait
 		any = false
 	end

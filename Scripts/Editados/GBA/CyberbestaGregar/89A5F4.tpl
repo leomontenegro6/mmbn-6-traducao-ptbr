@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	GREEN AREA1!
+	BEM-VINDO À
+	ÁREA VERDE 1!
 	"""
 	keyWait
 		any = false
@@ -28,16 +28,16 @@ script 1 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	Green Area has
-	many Cyber Minus
+	A Área Verde tem
+	um monte de Cyber
+	Íons Negativos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ions,so your skin
-	will become very
-	beautiful.
+	que deixam a pele
+	super linda.
 	"""
 	keyWait
 		any = false
@@ -58,9 +58,9 @@ script 2 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	The Cyber Minus
-	Ions are going into
-	my skin!
+	Os Cyber Íons Negativos
+	tão entrando na minha
+	pele!
 	"""
 	keyWait
 		any = false
@@ -71,16 +71,16 @@ script 5 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	*Huff* *Huff*...
-	Walking like this
-	allows the Minus
+	Urf... Uff...
+	Andar assim facilita
+	a penetração dos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ions to penetrate my
-	skin!
+	Cyber Íons Negativos
+	na minha pele!
 	"""
 	keyWait
 		any = false
@@ -91,9 +91,9 @@ script 6 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Ewww! What kind of
-	girl do you think
-	I am!
+	Eeecaaaa! Que tipo de
+	garota você acha que
+	eu sou, hein?!
 	"""
 	keyWait
 		any = false
@@ -104,9 +104,8 @@ script 7 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hey girl,wanna go
-	to the NetCafe with
-	me?
+	Aí, novinha, tá a fim
+	de ir no NetCafé comigo?
 	"""
 	keyWait
 		any = false
@@ -117,9 +116,9 @@ script 10 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	The Expo,huh?
-	I want to go with
-	a cool guy!
+	A Exposição, é?
+	Eu queria ir, com
+	um cara bem gato!
 	"""
 	keyWait
 		any = false
@@ -130,9 +129,9 @@ script 11 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	I wonder if lots of
-	Navi hotties will
-	be at the Expo.
+	Será que vão ter um
+	monte de Navis gatinhos
+	na Exposição?
 	"""
 	keyWait
 		any = false
@@ -143,9 +142,9 @@ script 15 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	You can't think of
-	us as your normal
-	kind of girls...
+	Errou feio em tratar
+	a gente como garotas
+	normais, rapaz...
 	"""
 	keyWait
 		any = false
@@ -156,15 +155,15 @@ script 16 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	As special Riot
-	NetPolice members
+	Como membros especiais
+	da NetPolícia de Choque,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we sure make a
-	pretty pair!
+	nós duas formamos
+	uma bela dupla!
 	"""
 	keyWait
 		any = false

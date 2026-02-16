@@ -4,8 +4,8 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	Raging flames block
-	the way.
+	Chamas intensas
+	barram o caminho.
 	"""
 	keyWait
 		any = false
@@ -13,14 +13,14 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	We have to stop the
-	fire inside the
-	computer to get rid
+	A gente tem que
+	apagar o fogo dos
+	Progs
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"of these flames!"
+	"pra se livrar\ndessas chamas!"
 	keyWait
 		any = false
 	end

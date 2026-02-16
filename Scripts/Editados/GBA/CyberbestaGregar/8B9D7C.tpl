@@ -4,16 +4,15 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	The elevator's core.
-	For maintenance
-	reasons,
+	O núcleo do elevador.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there is a port for
-	jacking in.
+	Possui uma entrada de
+	conexão, usada para
+	realizar manutenção.
 	"""
 	keyWait
 		any = false
@@ -22,9 +21,8 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	You can almost see
-	what is inside
-	through this window.
+	Quase dá para ver o que
+	tem atrás dessa janela.
 	"""
 	keyWait
 		any = false
@@ -33,9 +31,9 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	It's locked...
-	No unauthorized
-	personnel allowed.
+	Está trancada...
+	Proibida a entrada de
+	pessoal não autorizado.
 	"""
 	keyWait
 		any = false
@@ -44,8 +42,8 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	A control panel for
-	the helipad.
+	Um painel de controle
+	do heliporto.
 	"""
 	keyWait
 		any = false
@@ -85,8 +83,8 @@ script 21 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Operate ElecMan from
-	this control panel?
+	Operar o ElecMan deste
+	painel de controle?
 	"""
 	keyWait
 		any = false
@@ -102,7 +100,7 @@ script 21 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -111,7 +109,7 @@ script 21 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -134,9 +132,8 @@ script 23 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Operate TomahawkMan
-	from this control
-	panel?
+	Operar o TomahawkMan
+	deste painel de controle?
 	"""
 	keyWait
 		any = false
@@ -152,7 +149,7 @@ script 23 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -161,7 +158,7 @@ script 23 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -194,8 +191,8 @@ script 25 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	... What? Are you
-	going to operate me?
+	... Quê?
+	Você vai me operar?
 	"""
 	keyWait
 		any = false
@@ -211,7 +208,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -220,7 +217,7 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -238,8 +235,8 @@ script 26 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Yo,Lan!
-	Do you need my help?
+	Fala, Lan!
+	Quer a minha ajuda?
 	"""
 	keyWait
 		any = false
@@ -255,7 +252,7 @@ script 26 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -264,7 +261,7 @@ script 26 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -285,15 +282,15 @@ script 27 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you doing,
-	Lan!?
+	O que é que você
+	tá fazendo, Lan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ms.Zap's final exam
-	is waiting!!
+	A prova final da
+	Srta. Zap te aguarda!!
 	"""
 	keyWait
 		any = false
@@ -304,15 +301,15 @@ script 28 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you doing,
-	Lan!?
+	O que é que você
+	tá fazendo, Lan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dingo's final exam
-	is waiting!!
+	A prova final do
+	Dingo te aguarda!!
 	"""
 	keyWait
 		any = false

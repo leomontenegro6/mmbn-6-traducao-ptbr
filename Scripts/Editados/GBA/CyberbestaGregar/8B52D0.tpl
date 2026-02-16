@@ -4,22 +4,22 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	A display panel for
-	plotting graphs in
-	Math class.
+	Um monitor usado
+	para desenhar gráficos
+	pra aula de Matemática.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks to this,more
-	people are starting
-	to like Math...
+	Ele faz cada vez mais
+	crianças passarem a
+	gostar de Matemática...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Maybe."
+	"... Talvez."
 	keyWait
 		any = false
 	checkFlag
@@ -28,9 +28,9 @@ script 0 mmbn6 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	Looking closer,you
-	see something shiny
-	behind the display.
+	Olhando com atenção,
+	dá para ver uma coisa
+	brilhante atrás dele.
 	"""
 	keyWait
 		any = false
@@ -46,7 +46,7 @@ script 0 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -57,8 +57,8 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Regular memory
-	increased by
+	Memória padrão
+	aumentada em
 	1 MB!!!
 	"""
 	keyWait
@@ -71,21 +71,21 @@ script 0 mmbn6 {
 }
 script 1 mmbn6 {
 	msgOpen
-	"The blackboard."
+	"O quadro-negro."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's actually a
-	touch panel,so no
-	chalk is needed.
+	Na verdade, utiliza
+	tecnologia de toque,
+	então não precisa de giz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was custom made
-	for this school.
+	Foi feito sob medida
+	para esta escola.
 	"""
 	keyWait
 		any = false
@@ -94,16 +94,16 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	A display of things
-	useful for class.
+	Um monitor que lista
+	coisas úteis nas aulas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are maps,basic
-	formulas,and figures
-	posted all over it.
+	Está repleto de
+	mapas, fórmulas
+	básicas e figuras.
 	"""
 	keyWait
 		any = false
@@ -112,17 +112,16 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	There are killifish
-	living in this
-	fishtank.
+	Há peixes-da-chuva
+	vivendo nesse aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They drift around
-	to and fro,without
-	a care in the world.
+	Nadam pra lá e pra cá,
+	zero preocupações em
+	suas mentezinhas.
 	"""
 	keyWait
 		any = false
@@ -131,16 +130,16 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	Every student has
-	their own locker.
+	Cada aluno tem seu
+	próprio armário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can tell what
-	people are like by
-	how they use it.
+	O modo como eles o
+	utilizam diz muito
+	sobre a pessoa.
 	"""
 	keyWait
 		any = false
@@ -149,17 +148,17 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	A record of the
-	class crayfish's
-	growth.
+	Um registro do
+	crescimento dos
+	lagostins da classe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a living animal
-	so it grows a little
-	bit every day.
+	Como todo ser vivo,
+	eles crescem um
+	pouquinho todos os dias.
 	"""
 	keyWait
 		any = false
@@ -172,25 +171,25 @@ script 6 mmbn6 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A special gizmo in
-	this tank sets the
-	water to a certain
+	Um aparelho especial
+	no tanque mantém a
+	temperatura da água
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	temperature that is
-	just right for the
-	animal in it.
+	no nível ideal para
+	o animal que se
+	encontra nele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks to this,the
-	crayfish are very
-	healthy.
+	Graças a ele, os
+	lagostins estão
+	todos saudáveis.
 	"""
 	keyWait
 		any = false
@@ -208,17 +207,17 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	Every student's desk
-	at Cyber Academy has
-	a computer built in.
+	Toda carteira de aluno
+	da Escola Saibher tem
+	um computador embutido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This makes studying
-	much more efficient
-	for the students.
+	Com isso, eles
+	estudam de forma
+	muito mais eficiente.
 	"""
 	keyWait
 		any = false
@@ -227,17 +226,17 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	Cyber Academy takes
-	security very
-	seriously.
+	A Escola Saibher leva
+	segurança muitíssimo a
+	sério.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If anything happens,
-	it can be dealt with
-	very quickly.
+	Se alguma coisa
+	acontece, é resolvida
+	quase que de imediato.
 	"""
 	keyWait
 		any = false
@@ -246,23 +245,23 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	This high_tech
-	podium is linked to
+	Este pódio de alta
+	tecnologia está
+	ligado às carteiras
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	every student's
-	desk.
+	de cada aluno.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With this,a teacher
-	can see a student's
-	answers right away.
+	Com ele, o professor
+	vê as respostas dos
+	alunos imediatamente.
 	"""
 	keyWait
 		any = false
@@ -271,16 +270,16 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	msgOpen
 	"""
-	There are some fish
-	in this tank...
+	Há peixes
+	nesse aquário...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Big fish,little
-	fish... happily
-	swimming around.
+	Peixes grandes,
+	peixes pequenos...
+	nadando alegremente.
 	"""
 	keyWait
 		any = false
@@ -289,17 +288,17 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	msgOpen
 	"""
-	There is a control
-	panel underneath the
-	blackboard.
+	Há um painel de
+	controle abaixo
+	do quadro-negro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so that people
-	can jack in for
-	Virus Busting class.
+	Através dele, os alunos
+	se conectam na aula
+	de Deleção de Vírus.
 	"""
 	keyWait
 		any = false
@@ -312,17 +311,17 @@ script 13 mmbn6 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Cyber Academy takes
-	security very
-	seriously.
+	A Escola Saibher leva
+	segurança muitíssimo a
+	sério.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If anything happens,
-	it can be dealt with
-	very quickly.
+	Se alguma coisa
+	acontece, é resolvida
+	quase que de imediato.
 	"""
 	keyWait
 		any = false
@@ -334,31 +333,31 @@ script 14 mmbn6 {
 		jumpIfTrue = 15
 		jumpIfFalse = continue
 	msgOpen
-	"A security camera..."
+	"Uma câmera\nde segurança..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hmm... The clue was,
-	"I am always looking
-	 at the crayfish".
+	Hmm... A pista era:
+	"Estou sempre de olho
+	nos lagostins".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Looking"...
-	Hmm... Maybe...
+	"De olho"...
+	Hmm... Será...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey! You can jack
-	in to this security
-	camera!
+	Ah! Dá pra se
+	conectar nessa
+	câmera de segurança!
 	"""
 	keyWait
 		any = false
@@ -369,16 +368,15 @@ script 14 mmbn6 {
 script 15 mmbn6 {
 	msgOpen
 	"""
-	It's the security
-	camera for Lan's
-	classroom.
+	É a câmera de segurança
+	da classe do Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can jack in to
-	it.
+	Dá para se
+	conectar nela.
 	"""
 	keyWait
 		any = false
@@ -393,37 +391,35 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	... Ah! Here's the
-	crayfish!
+	... Ah!
+	Tem lagostim aqui!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I guess the
-	crayfish in the
-	clue are these...?
+	Acho que os lagostins da
+	pista eram estes, né...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then the answer is
-	the thing that's
+	Então a resposta tem que
+	ser uma coisa que tá
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	always looking at
-	these guys...?
+	sempre de olho neles...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Always looking...
-	Hmm......
+	Sempre de olho...
+	Hmm...
 	"""
 	flagSet
 		flag = 2171
@@ -434,25 +430,25 @@ script 16 mmbn6 {
 script 17 mmbn6 {
 	msgOpen
 	"""
-	A special gizmo in
-	this tank sets the
-	water to a certain
+	Um aparelho especial
+	no tanque mantém a
+	temperatura da água
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	temperature that is
-	just right for the
-	creature in it.
+	no nível ideal para
+	o animal que se
+	encontra nele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Because of this,the
-	crayfish are very
-	healthy.
+	Graças a ele, os
+	lagostins estão
+	todos saudáveis.
 	"""
 	keyWait
 		any = false
@@ -469,7 +465,7 @@ script 19 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -484,8 +480,8 @@ script 19 mmbn6 {
 		flag = 391
 	clearMsg
 	"""
-	Regular memory
-	increased by
+	Memória padrão
+	aumentada em
 	1 MB!!!
 	"""
 	keyWait
@@ -494,22 +490,22 @@ script 19 mmbn6 {
 }
 script 20 mmbn6 {
 	msgOpen
-	"Broom closets."
+	"Os armários\nde vassouras."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're big enough
-	for a person to
-	hide in.
+	São tão grandes,
+	que caberia uma
+	pessoa dentro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like a good
-	hiding place for
-	hide and seek...
+	Ótima pedida
+	pra um jogo de
+	esconde-esconde...
 	"""
 	keyWait
 		any = false
@@ -527,7 +523,7 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Huh?"
+	"... Hã?"
 	keyWait
 		any = false
 	flagSet

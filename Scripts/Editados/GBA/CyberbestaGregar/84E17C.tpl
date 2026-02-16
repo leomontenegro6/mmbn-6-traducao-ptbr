@@ -10,39 +10,39 @@ script 0 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	For some silly
-	reason I released
-	a virus into the
+	Eu fiz besteira e
+	liberei vírus no
+	mundo cibernético,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyberworld,but
-	it was more violent
-	than I expected,and
+	mas eles eram mais
+	violentos do que eu
+	esperava e acabou que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I couldn't delete it
-	myself...
+	eu não consigo deletar
+	eles sozinha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone please help
-	me!
+	Alguém, por favor,
+	me ajuda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am in Cyber
-	Academy Class 6_2.
-	Come quick!
+	Estou na Sala 6-2
+	da Escola Saibher.
+	Venha logo pra cá!
 	"""
 	keyWait
 		any = false
@@ -57,37 +57,32 @@ script 1 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I lost a very
-	important keepsake
-	somewhere!
+	Eu perdi um pertence
+	muito querido em algum
+	lugar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is really
-	important,so I have
-	to find it!
+	É super importante
+	pra mim, então eu
+	PRECISO encontrar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will someone please
-	help me in my
-	search?
+	Alguém poderia me
+	ajudar na busca?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"If you can help me,"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	I'll be waiting at
-	the gate of
-	Cyber Academy...
+	Se sim, estarei
+	esperando no portão
+	da Escola Saibher...
 	"""
 	keyWait
 		any = false
@@ -102,39 +97,38 @@ script 2 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	There is something
-	that I absolutely
-	must have!!
+	Tem uma coisa que
+	eu tenho que comprar,
+	custe o que custar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to go and
-	pre_order it,but
-	I don't have time.
+	Queria comprar na
+	pré-venda, mas estou
+	sem tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will someone please
-	go pre_order it for
-	me?
+	Será que alguém poderia
+	fazer isso pra mim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can help me
-	out,please come to
+	Se puder, por favor,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Cyber Academy
-	Teachers' Room.
+	venha à Sala dos
+	Professores da
+	Escola Saibher.
 	"""
 	keyWait
 		any = false
@@ -149,15 +143,15 @@ script 3 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I have a rival that
-	I MUST defeat!
+	Eu tenho um rival que
+	eu PRECISO vencer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want this chip,
-	"
+	E, para tal, preciso
+	do chip "
 	"""
 	printChip
 		buffer = 0
@@ -167,30 +161,29 @@ script 3 mmbn6 {
 		buffer = 0
 		code = C
 	"""
-	",
-	so I can win!
+	"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone hand over
-	this chip! Please!
+	Por favor, alguém me
+	providencie esse chip!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll make it worth
-	your while. I'm no
-	cheapskate!
+	Juro que o pagamento
+	vale a pena. Eu sempre
+	impressiono nesse quesito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be waiting
-	in CentralArea1.
+	Estarei esperando
+	na Área Central 1.
 	"""
 	keyWait
 		any = false
@@ -205,38 +198,38 @@ script 4 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I want to talk about
-	money...
+	O assunto aqui
+	é dinheiro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone please help
-	my factory!
+	Alguém, por favor,
+	ajude a minha fábrica!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's on the verge
-	of bankruptcy...
+	Ela está à beira
+	da falência...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you have any
-	extra money,please
-	help me!!
+	Quem tiver algum
+	dinheiro sobrando,
+	por favor, me ajuda!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can help out,
-	I'll wait near the
-	RobCtrlComp1...
+	Se puder, estarei
+	esperando perto do
+	CPUCtrlRobô...
 	"""
 	keyWait
 		any = false
@@ -251,39 +244,39 @@ script 5 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I lost an important
-	chip...
+	Eu perdi um chip
+	importante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will someone please
-	help me get that
-	chip back?
+	Alguém poderia,
+	por favor, me
+	ajudar a reavê-lo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,I am a
-	Navi,so I don't even
-	know if I can make
+	Na verdade, eu sou um
+	Navi, então nem sei se
+	eu POSSO fazer pedidos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	requests,but if you
-	can help I'm in
-	front of the
+	mas, quem puder me
+	ajudar, por favor, me
+	encontre na frente da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chip Shop in
-	SeasideArea3.
+	Loja de Chips na
+	Área Beira-Mar 3.
 	"""
 	keyWait
 		any = false
@@ -298,39 +291,40 @@ script 6 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Will someone help
-	me gather toppings
-	for my sushi?
+	Alguém aí pode me ajudar
+	a reunir ingredientes pro
+	meu sushi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't want help
-	from real sushi
-	shops,
+	Eu não quero ajuda
+	de restaurantes de
+	sushi do mundo real,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	because I want
-	cybersushi toppings!
+	porque o que eu tô
+	atrás é de ingredientes
+	pra cybersushi!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can help with
-	this request,
+	Se achar que pode me
+	ajudar com esse pedido,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	meet me in front
-	of the Sunfish tank
-	at the Aquarium!
+	me encontre em frente
+	ao tanque dos peixes-lua
+	no Aquário!
 	"""
 	keyWait
 		any = false
@@ -345,31 +339,32 @@ script 7 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	We are currently
-	filming a movie.
+	Estamos gravando
+	um filme agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,our star was
-	injured during filming
-	and we had to stop.
+	Porém, o nosso ator
+	principal se machucou
+	durante as filmagens,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So now we urgently
-	need a stand_in!
+	então tivemos que parar.
+	Precisamos urgente de um
+	substituto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can fill the
-	role,please come to
-	the Aquarium HP!
+	Se puder fazer isso por
+	nós, por favor, venha
+	à página do Aquário!
 	"""
 	keyWait
 		any = false
@@ -384,32 +379,31 @@ script 8 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	My daughter seems
-	to have gotten a
-	boyfriend...
+	Parece que a minha
+	filha arranjou um
+	namorado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All I can do is
-	worry about her.
+	e claro que eu me
+	preocupo por ela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will someone please
-	spy on their date
-	for me?
+	Alguém poderia, por
+	favor, espionar o
+	encontro dela pra mim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can,please
-	come to the Plaza
-	in Green Town.
+	Se puder, venha à Praça
+	do Distrito Verde.
 	"""
 	keyWait
 		any = false
@@ -424,51 +418,51 @@ script 9 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Someone please stop
-	my brother from
-	researching viruses!
+	Por favor, alguém me
+	ajude a impedir o meu
+	irmão de estudar vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He eats,breathes,and
-	sleeps viruses!
+	A vida dele é só vírus,
+	dia, tarde e noite!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm worried that his
-	research will make
-	him a criminal!
+	Tô preocupado que essa
+	pesquisa transforme ele
+	num criminoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please,someone
-	finish off his
-	virus stock,
+	Preciso que alguém
+	extermine o estoque
+	de vírus dele
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and put an end to
-	his research!!
+	e bote um fim na
+	pesquisa dele!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"If you can help,"
+	"Se puder me ajudar,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	please come to
-	Green Town's
-	Courtroom!
+	por favor, venha
+	ao tribunal do
+	Distrito Verde!
 	"""
 	keyWait
 		any = false
@@ -483,24 +477,25 @@ script 10 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	There's a Navi who
-	refuses to pay back
-	a loan...
+	Tem esse Navi que
+	tá se recusando a
+	pagar um empréstimo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will someone please
-	go get my money!!
+	Por favor, me
+	ajude a recuperar
+	o meu dinheiro!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you want this
-	job,come to
-	Green HP.
+	Se puder encarar
+	essa, venha à página
+	do Distrito Verde.
 	"""
 	keyWait
 		any = false
@@ -515,40 +510,39 @@ script 11 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I'm the lumberjack
-	of the Cyberworld.
+	Eu sou um lenhador
+	do mundo cibernético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My trusty axe has
-	become not so
-	trusty lately...
+	O meu condiável machado
+	tem ficado cada vez
+	menos confiável...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,I think I'll
-	trade this one in
-	for a new model.
+	então, acho que vou
+	trocá-lo por um modelo
+	mais novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll give all
-	the details
-	face to face.
+	Darei mais detalhes
+	pessoalmente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So please come to
-	the large tree in
-	Green Area2.
+	Então, por favor, venha
+	para a árvore grande
+	na Área Verde 2.
 	"""
 	keyWait
 		any = false
@@ -563,38 +557,40 @@ script 12 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	It's almost time
-	for me to dig up
+	Tá quase chegando a
+	hora de eu escavar a
+	cápsula do tempo que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the TimeCpsl
-	that I buried as a
+	eu e uns amigos
+	enterramos quando
+	éramos crianças,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	kid,and I have to be
-	the first to get it!
-	However,I completely
+	e eu TENHO que ser o
+	primeiro a chegar nela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	forgot where I left
-	it in the ground!
+	Porém... eu esqueci
+	completamente onde
+	eu enterrei ela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can help find
-	it,please come to
-	Green Town Plaza!!
+	Se puder me ajudar a
+	achá-la, venha à Praça
+	do Distrito Verde!
 	"""
 	keyWait
 		any = false
@@ -609,32 +605,32 @@ script 13 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Recently I've become
-	a trainer at the
-	Aquarium show.
+	Eu fui contratada como
+	domadora no show do
+	Aquário estes dias,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I have a small
-	problem,and I can't
-	put on a good show!
+	mas tem um probleminha...
+	eu não consigo fazer uma
+	boa apresentação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will someone listen
-	to my worries?
+	Alguém pode me
+	dar uma força aí?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you will,please
-	meet me onstage at
-	the Auditorium...
+	Se puder, por favor,
+	fale comigo no palco
+	do Aquário...
 	"""
 	keyWait
 		any = false
@@ -649,33 +645,33 @@ script 14 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I'm a musician,but
-	lately I've been in
-	a writing slump!
+	Eu sou músico, mas
+	estou com bloqueio
+	criativo total pra compor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter what I do
-	I can't write a new
-	song...
+	Por mais que eu tente,
+	não consigo compor uma
+	música nova...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have no idea what
-	to do now... I can't
-	live like this!
+	Estou completamente
+	perdido... Não posso
+	viver assim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can help,I'll
-	be waiting in the
-	Sky Area NetCafe...
+	Se puder me ajudar,
+	estarei esperando no
+	NetCafé da Área Céu...
 	"""
 	keyWait
 		any = false
@@ -690,39 +686,31 @@ script 15 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I am a stock
-	trader,but I have
-	no idea what stock
+	Sou um acionista, mas
+	não faço ideia de qual
+	ação comprar a seguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I should buy next.
-	I need someone who
-	can make decisions,
+	Preciso de alguém capaz
+	de tomar decisões,
+	mesmo se for amador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	even if they are an
-	amateur!
+	Se quiser o trabalho,
+	venha à Área Céu 1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you want the job
-	you should come to
-	Sky Area1.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	A cute girl Navi
-	is waiting for you!!
+	Uma Navi muito lindinha
+	estará te esperando!!
 	"""
 	keyWait
 		any = false
@@ -736,35 +724,35 @@ script 16 mmbn6 {
 	positionArrow
 		left = 210
 		top = 108
-	"It's terrible!!"
+	"Que horror!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The safe in my shop
-	won't open any more!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I have to put money
-	in the bank today!
+	O cofre da minha loja
+	não abre mais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can help open
-	the safe,please come
-	quick!
+	E eu tenho que depositar
+	dinheiro no banco hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm waiting at the
-	PopcornShopComp!
+	Se puder me ajudar a
+	abrir o cofre, por
+	favor, venha logo!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Estarei esperando
+	no CPU Pipocaria!
 	"""
 	keyWait
 		any = false
@@ -779,32 +767,32 @@ script 17 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I sell Fish Sticks
-	in Seaside Town,but
-	my fryer's computer
+	Eu vendo palitos de peixe
+	no Distrito Beira-Mar,
+	mas o computador da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	has gotten a strange
-	virus and I can't
-	make Fish Sticks!!
+	fritadeira pegou um vírus
+	estranho que não me
+	deixa mais trabalhar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can someone help me
-	get rid of this
-	virus?
+	Alguém aí pode me
+	ajudar a me livrar
+	desse vírus?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be waiting in
-	Seaside Town.
+	Estarei esperando no
+	Distrito Beira-Mar.
 	"""
 	keyWait
 		any = false
@@ -819,23 +807,22 @@ script 18 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I'm looking for my
-	daughter...
+	Estou atrás da
+	minha filha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will someone go
-	looking for her
-	with me?
+	Alguém poderia me ajudar
+	a procurar por ela?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll wait at the
-	Sky HP.
+	Espero por você na
+	página do Distrito Céu.
 	"""
 	keyWait
 		any = false
@@ -850,25 +837,25 @@ script 19 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I'm the President of
-	the Cyber Academy
-	Cyber Jazz Band!
+	Sou o presidente da
+	Banda de CyberJazz
+	da Escola Saibher!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We need more members
-	to enter the battle
-	of the bands!
+	Precisamos de mais
+	membros pra encarar
+	a batalha das bandas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you want to help
-	please come to the
-	Class 6_2 Comp!
+	Se puder ajudar,
+	venha ao computador
+	da Turma 6-2!
 	"""
 	keyWait
 		any = false
@@ -883,24 +870,24 @@ script 20 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I'm investigating an
-	incident that took
-	place on the Net...
+	Estou investigando
+	um incidente que
+	ocorreu na Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If anyone can assist
-	the investigation,
+	Se puder me ajudar
+	com a investigação,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	please come to the
-	Seaside Town Water
-	Vending Machine.
+	por favor, venha à
+	Máquina de Bebidas
+	do Distrito Beira-Mar.
 	"""
 	keyWait
 		any = false
@@ -915,39 +902,36 @@ script 21 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	My Navi was deleted
-	from the Net...
+	O meu Navi foi
+	deletado na Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If someone could
-	bring back just a
-	bit of his data...
+	Se alguém puder me
+	trazer, pelo menos, um
+	pedacinho dos dados dele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It would mean so
-	much to me.
+	significaria tudo pra mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can bring
-	back my Navi's
-	remains...
+	Se não for
+	demais pra você,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be waiting in
-	Cyber Academy
-	Class 1_1.
+	fico esperando na Sala
+	1-1 da Escola Saibher.
 	"""
 	keyWait
 		any = false
@@ -962,25 +946,25 @@ script 22 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Everyday all my
-	Dad and Mom do is
-	fight...
+	Todo santo dia, o
+	meu pai e a minha mãe
+	só sabem brigar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to make
-	things better now.
-	Can anyone help me?
+	Eu quero dar um jeito
+	de resolver isso.
+	Alguém pode me ajudar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can,please
-	come to Central Town
-	Residential Area!
+	Se puder, é só vir
+	à Área Residencial
+	do Bairro Central!
 	"""
 	keyWait
 		any = false
@@ -995,48 +979,46 @@ script 23 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	No matter what,
-	I,like,can't beat
-	another Navi!
+	Por mais que eu tente,
+	eu não consigo, tipo,
+	vencer um certo Navi!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not winning is,
-	like,really
-	annoying!
+	E não vencer é,
+	tipo, TÃO sacal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I thought I'd
-	ask for some
-	Support Chips!
+	Então eu pensei em
+	arranjar uns Chips
+	de Apoio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They should,like,
-	help me win in
-	battle!
+	Eles devem me ajudar
+	a, tipo, vencer e tal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope someone can
-	get some for me!
+	Espero que alguém aí
+	possa me arranjar eles!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can,like,
-	meet me at the Sky
-	Town Orb!
+	Se puder, então, tipo,
+	fala comigo no Orbe do
+	Distrito Céu!
 	"""
 	keyWait
 		any = false
@@ -1051,38 +1033,32 @@ script 24 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	To those good at
-	negotiating and
+	Tem alguém aí bom de
+	negociação e que também
+	se garante nas NetLutas?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	said to be confident
-	NetBattlers...
+	Eu não posso dar mais
+	detalhes aqui, mas
+	preciso de ajuda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't give details
-	but I need some
-	assistance!
+	É um pedido perigoso,
+	mas, se achar que dá
+	conta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a dangerous
-	request,but if
-	you're up to it,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	come to the Sky Town
-	Force Room Entrance.
+	venha à Sala de Força
+	do Distrito Céu.
 	"""
 	keyWait
 		any = false
@@ -1097,25 +1073,24 @@ script 25 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I've got a bully
-	problem,and I need
-	help solving it!
+	Tem um valentão me
+	infernizando, e eu
+	preciso resolver isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can someone help?
-	If you can,please
-	meet me at the
+	Alguém pode me ajudar?
+	Se puder, por favor,
+	fale comigo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MonitorComp in
-	Cyber Academy's
-	Foyer.
+	no CPU Monitor na
+	entrada da Escola Saibher.
 	"""
 	keyWait
 		any = false
@@ -1130,31 +1105,28 @@ script 26 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	This is the
-	NetPolice. If you
+	Aqui é a NetPolícia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	have the guts to
-	NetBattle,we need
-	your help!
+	Quem tiver coragem para
+	NetLutar: precisamos da
+	sua ajuda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you are up to
-	the task,
+	Se achar que dá conta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	come to the
-	outskirts of
-	Central Town.
+	venha aos arredores
+	do Bairro Central.
 	"""
 	keyWait
 		any = false
@@ -1169,23 +1141,22 @@ script 27 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I'm really in a
-	bind...
+	Eu tô enrolado
+	pra caramba...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can someone help
-	me work it out?
+	Alguém aí pode me ajudar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can,come
-	to the Central
-	Town LevBus Station.
+	Se puder, venha à
+	Estação de ÔnibsMag
+	do Bairro Central.
 	"""
 	keyWait
 		any = false
@@ -1200,25 +1171,24 @@ script 28 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Umm... I think you
-	can tell from the
-	post title...
+	Hummm... Acho que já
+	deu pra entender pelo
+	título da postagem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So that's it...
-	If you can help
-	get the penguins,
+	É... Bom, se puder
+	me ajudar a recuperar
+	os pinguins,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	come to the
-	Piranha Tank at the
-	Aquarium.
+	venha ao tanque das
+	piranhas no Aquário.
 	"""
 	keyWait
 		any = false
@@ -1233,24 +1203,24 @@ script 29 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Hi,I'm a SciLab
-	member.
+	Olá, sou um
+	membro do SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I need help updating
-	the electronics at
-	the Aquarium,mmmkay?
+	Preciso de ajuda pra
+	atualizar os aparelhos
+	do Aquário, tááá?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you want the job,
-	come to the Aquarium
-	Turtle Tank,mmmkay.
+	Se topar, venha ao
+	tanque das tartarugas
+	no Aquário, tááá?
 	"""
 	keyWait
 		any = false
@@ -1264,36 +1234,36 @@ script 30 mmbn6 {
 	positionArrow
 		left = 210
 		top = 108
-	"I've been tricked!!"
+	"Fui tapeada!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bought some diet
-	goods and they
-	don't work at all!!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I want my money
-	back!
+	Eu comprei uns produtos
+	dietéticos e eles NÃO
+	funcionam!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone help me get
-	my money back!
+	Quero o meu
+	dinheiro de volta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come to the hallway
-	on the first floor
-	of Cyber Academy!
+	Alguém, por favor,
+	dá uma força aí!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Fale comigo no corredor
+	do primeiro andar da
+	Escola Saibher!
 	"""
 	keyWait
 		any = false
@@ -1308,22 +1278,23 @@ script 31 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I don't think I
-	will finish in time
+	Não acho que eu vou
+	conseguir terminar a
+	minha pesquisa a tempo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for my research
-	presentation!!
+	de apresentar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm at the Class 1_1
-	Comp. Someone help!
+	Estou no computador
+	da Sala 1-1. Alguém,
+	por favor, me ajuda!
 	"""
 	keyWait
 		any = false
@@ -1338,31 +1309,31 @@ script 32 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	In order to preserve
-	public order,we are
+	Para proteger a paz
+	e manter a ordem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	collecting certain
-	data.
+	estamos coletando
+	certos dados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We are thus looking
-	for people to assist
-	in data collection.
+	E, para tal, buscamos
+	pessoas para nos
+	auxiliarem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If interested,please
-	come to the Sky Town
-	ObservtnComp.
+	Caso esteja interessado,
+	venha ao CPU Observação
+	do Distrito Céu.
 	"""
 	keyWait
 		any = false
@@ -1377,32 +1348,32 @@ script 33 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I'm Famous.
-	Mr.Famous!!
+	Eu sou Famoso...
+	o Sr. Famoso!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I need help with my
-	research subject
-	experimentation!
+	E preciso de ajuda
+	com um experimento
+	de pesquisa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you aren't a
-	strong battler,it
-	will be dangerous!!
+	Será perigoso... se
+	você não for um lutador
+	que se garante!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you feel you can
-	help,come to the
-	Aquarium Shark Tank!
+	Caso seja, aguardo
+	no tanque dos tubarões
+	do Aquário!
 	"""
 	keyWait
 		any = false
@@ -1417,38 +1388,31 @@ script 34 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	People call
-	battlers like me
-	SoulBattlers...
+	Pessoas como eu são
+	conhecidas como
+	"AlmaLutadores"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm looking for
-	those who believe
+	Estou atrás de outros
+	que acreditem na causa
+	da AlmaLuta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in the SoulBattler
-	cause.
+	Se estiver disposto a
+	me encarar alma-a-alma,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you wish to come
-	Soul to Soul with
-	me,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	come to the Green
-	HP.
+	é só vir à página
+	do Distrito Verde.
 	"""
 	keyWait
 		any = false

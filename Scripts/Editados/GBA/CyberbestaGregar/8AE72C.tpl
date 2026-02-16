@@ -10,31 +10,31 @@ script 0 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	This is the
-	StfToySpComp!
-	Welcome!
+	Este é o Computador
+	da Loja de Bichos de
+	Pelúcia! Bem-vindo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can now
-	reserve the new
+	Agora, você já pode
+	reservar o novo boneco
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"CyberWarrior Cybo"!
-	figure!!
+	do "CyberGuerreiro
+	Cybo"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to leave
-	a 3000 Zenny
-	deposit? OK?
+	O preço para
+	a reserva é só
+	3000 Zennys. OK?
 	"""
 	keyWait
 		any = false
@@ -50,7 +50,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -59,7 +59,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -74,7 +74,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	msgOpen
-	"Come back soon,OK!"
+	"Volte sempre, OK?"
 	keyWait
 		any = false
 	end
@@ -89,15 +89,15 @@ script 1 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Thank you for
-	reserving!!
+	Obrigado por fazer
+	a reserva!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here is your
-	reservation ticket!
+	Aqui está o seu
+	comprovante!
 	"""
 	keyWait
 		any = false
@@ -112,7 +112,7 @@ script 1 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -127,9 +127,8 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	"""
-	Please come back
-	when the figure is
-	finally released!
+	Volte quando o boneco
+	chegar, e ele será seu!
 	"""
 	keyWait
 		any = false
@@ -140,16 +139,16 @@ script 2 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Thank you for
-	reserving!!
+	Obrigado por fazer
+	a reserva!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please come back
-	when the figure is
-	finally on sale!
+	Volte quando o boneco
+	chegar na loja, e ele
+	será seu!
 	"""
 	keyWait
 		any = false
@@ -160,16 +159,16 @@ script 3 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	I sincerely
-	apologize,but
-	it seems you are
+	Milo desculpas
+	pela grosseria,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a bit short on
-	Zennys.
+	mas parece que
+	você não tem Zennys
+	suficientes.
 	"""
 	keyWait
 		any = false
@@ -179,29 +178,29 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WELCOME WELCOME!"
+	"BEM-VINDO, BEM-VINDO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS IS THE
-	STUFFED TOY SHOP
-	COMP!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	WHEN YOU ARE IN
-	SEASIDE TOWN,YOU
-	SHOULD VISIT THE
+	ESTE É O COMPUTADOR
+	DA LOJA DE BICHOS DE
+	PELÚCIA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	STUFFED TOY SHOP
-	IN THE REAL WORLD!
+	RECOMENDO MUITO QUE
+	VOCÊ VISITE A LOJA
+	DO MUNDO REAL
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	QUANDO ESTIVER NO
+	DISTRITO BEIRA-MAR!
 	"""
 	keyWait
 		any = false

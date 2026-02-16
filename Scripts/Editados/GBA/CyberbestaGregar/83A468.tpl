@@ -39,8 +39,8 @@ script 1 mmbn6 {
 		flag = 5918
 	msgOpen
 	"""
-	MegaMan isn't in
-	the PET...
+	MegaMan não
+	está no PET...
 	"""
 	keyWait
 		any = false
@@ -53,9 +53,9 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It seems you can't
-	jack in to the
-	CopyBot right now!
+	Parece que não dá
+	pra fazer conexão do
+	CópiRoide, por ora!
 	"""
 	keyWait
 		any = false
@@ -72,8 +72,8 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,now isn't the
-	time to jack in!
+	Lan, isso não é hora
+	de se conectar!
 	"""
 	keyWait
 		any = false
@@ -84,16 +84,15 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	If you don't know
-	how to defeat a
-	Cybeast,it'd
+	Se você não sabe como
+	vencer a Cyberbesta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	be better to not
-	jack in right now.
+	melhor não se conectar
+	por enquanto.
 	"""
 	keyWait
 		any = false
@@ -111,9 +110,9 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,jack in later!
-	Let's go get every
-	one else!
+	Lan, depois a gente
+	conecta! Bora atrás
+	do pessoal primeiro!
 	"""
 	keyWait
 		any = false
@@ -132,13 +131,13 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -173,8 +172,8 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's check out
-	the town first!
+	Lan, bora explorar
+	o bairro primeiro!
 	"""
 	keyWait
 		any = false
@@ -199,8 +198,8 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's check the
-	mail,Lan!
+	Lê o e-mail primeiro,
+	Lan!
 	"""
 	keyWait
 		any = false
@@ -222,8 +221,8 @@ script 15 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you can't jack
-	in right now!
+	Lan, você não pode
+	se conectar agora!
 	"""
 	keyWait
 		any = false
@@ -257,9 +256,9 @@ script 22 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,if you just jack
-	in whenever you want
-	I'll get mad!
+	Lan, se ficar se conec-
+	tando quando dá na telha,
+	eu vou ficar bravo!
 	"""
 	keyWait
 		any = false
@@ -268,8 +267,8 @@ script 22 mmbn6 {
 script 23 mmbn6 {
 	msgOpen
 	"""
-	MegaMan isn't in
-	the PET...
+	MegaMan não
+	está no PET...
 	"""
 	keyWait
 		any = false
@@ -304,13 +303,13 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nHeatMan,"
+	"\nHeatMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -323,13 +322,13 @@ script 32 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nElecMan,"
+	"\nElecMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -342,13 +341,13 @@ script 33 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nSlashMan,"
+	"\nSlashMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -361,13 +360,13 @@ script 34 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nEraseMan,"
+	"\nKillerMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -380,13 +379,13 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nChargeMan,"
+	"\nChargeMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -399,13 +398,13 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nAquaMan, "
+	"\nAquaMan.EXE, "
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -418,13 +417,13 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nTomahawkMan,"
+	"\nTomahawkMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -437,13 +436,13 @@ script 38 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nTenguMan,"
+	"\nTenguMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -456,13 +455,13 @@ script 39 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nGroundMan,"
+	"\nGroundMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -475,13 +474,13 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nDustMan,"
+	"\nDustMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock

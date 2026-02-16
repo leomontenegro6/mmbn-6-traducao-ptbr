@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Alright!!"
+	"Beleza!!"
 	keyWait
 		any = false
 	clearMsg
@@ -17,8 +17,8 @@ script 1 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	You're getting the
-	hang of it!
+	Cê tá pegando
+	o jeito, guri!
 	"""
 	keyWait
 		any = false
@@ -31,16 +31,15 @@ script 2 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Ya cleared Level 1,
-	Lan!
+	Pronto: fase 1
+	concluída, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now move on to
-	Level 2 in
-	CentralArea2!
+	Agora, vamos pra fase 2
+	na Área Central 2.
 	"""
 	keyWait
 		any = false
@@ -52,7 +51,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,I'm ready to go!"
+	"Beleza, já tô lá!"
 	keyWait
 		any = false
 	end

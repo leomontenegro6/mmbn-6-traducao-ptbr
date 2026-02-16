@@ -6,24 +6,23 @@ script 0 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Welcome to the Dark
-	Side!
+	Bem-vindo ao
+	Lado Sombrio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am the
-	cyberdeleter,
-	EraseMan...
+	Eu sou KillerMan,
+	o cybereliminador...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gonna have some fun
-	deleting our targets
-	today! Hyahaha!!
+	e vou me divertir
+	deletando os nossos
+	alvos hoje! Hya ha ha!!
 	"""
 	keyWait
 		any = false
@@ -36,8 +35,7 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wh_What a spooky
-	guy...
+	Q-que cara medonho...
 	"""
 	keyWait
 		any = false
@@ -50,86 +48,83 @@ script 2 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	You can't have
-	fun if you don't
-	know what to do.
+	Não dá para se divertir
+	sem saber o que é para
+	fazer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In Undernet1 and 2,
-	the Navis of a
-	certain gang are
+	Nas Undernets 1 e 2
+	estão os Navis de uma
+	certa gangue.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hanging out. Our
-	targets are the gang
-	members,all of them.
+	Nossos alvos são os
+	membros da gangue.
+	Todos eles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must delete them
-	without letting them
-	see you.
+	Você deve deletá-los
+	sem deixar que te vejam.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,if you press and
-	hold the A Button
-	while EraseMan is
+	Lan, se segurar o botão
+	"A" enquanto movimenta
+	o KillerMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	moving,he will
-	become invisible.
+	ele se torna invisível.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use this technique
-	to get close to your
-	target,and then...
+	Use essa técnica para se
+	aproximar do alvo e...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	whisper in their
-	ear,"Sweet dreams!"
+	sussurre no ouvido dele:
+	"Divirta-se no inferno!"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Happy deleting,Lan!
-	Hehehe... Hahahaha!!
+	Bom, boa deleção, Lan!
+	He he he... Ha ha ha ha!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,yes. The gang
-	members tend to look
-	around for deleters.
+	Ah, mais uma coisa. Essa
+	gangue costuma ficar
+	esperta pra eliminadores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remember,you can't
-	be spotted by your
-	target...
+	Lembre-se: você não
+	pode deixar que
+	o alvo te veja...
 	"""
 	keyWait
 		any = false
@@ -141,13 +136,13 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Let's go already!"
+	"Bora logo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no need
-	for so much talk!
+	Não tem pra que
+	todo esse lero-lero!
 	"""
 	keyWait
 		any = false
@@ -159,7 +154,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uh,OK..."
+	"Er, tá bom..."
 	keyWait
 		any = false
 	end

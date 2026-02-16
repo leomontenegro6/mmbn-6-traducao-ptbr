@@ -7,7 +7,7 @@ script 0 mmbn6s {
 script 1 mmbn6 {
 	msgOpen
 	msgOpen
-	"It's a BBS..."
+	"É um fórum..."
 	keyWait
 		any = false
 	startBBS

@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's a dead_end!"
+	"É um beco sem saída!"
 	keyWait
 		any = false
 	end
@@ -15,16 +15,14 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That Mr.Prog looks
-	like he's in
-	trouble.
+	Aquele Prog ali
+	parece enrolado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go talk to
-	him!
+	Vamos lá falar com ele.
 	"""
 	keyWait
 		any = false
@@ -33,9 +31,8 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	The cloud seems to
-	be undergoing
-	maintenance.
+	A nuvem parece estar
+	sendo consertada.
 	"""
 	keyWait
 		any = false
@@ -60,34 +57,32 @@ script 10 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	YOU!!
-	You're the new
-	negotiator,right?
+	VOCÊ!!
+	Você que é o novo
+	negociador, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Ummm...yeah..."
+	"Err... É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But... I'm not a
-	member of the
-	NetPolice though,
+	Mas... eu não sou da
+	NetPolícia, não,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"so calm down..."
+	"então, relaxa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've no plans to
-	hurt you...
+	Eu não vou te machucar.
 	"""
 	keyWait
 		any = false
@@ -95,28 +90,28 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	Really?
-	Prove it...
+	Ah, é?
+	Pois prova!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Prove it...?"
+	"Provar...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviRed
-	"Yeah..."
+	"É."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go give this to my
-	brother at the back
-	of Undernet1.
+	Pega isto aqui e
+	entrega pro meu mano
+	nos fundos da Undernet1.
 	"""
 	keyWait
 		any = false
@@ -129,7 +124,7 @@ script 10 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -143,42 +138,41 @@ script 10 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"This must be..."
+	"Este deve ser..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	It's the money
-	I got as ransom.
+	É a grana que eu
+	fiz com o resgate.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My brother looks
-	just like me.
+	O meu mano é
+	igualzinho a mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go find him in the
-	Undernet.
+	Encontra ele na Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And don't forget to
-	bring back proof
-	that you met him!
+	E não esquece de
+	trazer aqui uma prova
+	de que cê falou com ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hurry up!!"
+	"Rapa daqui!!"
 	keyWait
 		any = false
 	end
@@ -197,15 +191,15 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is from your
-	brother...
+	Isto aqui é do
+	seu irmão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan gave:
+	MegaMan deu:
 	"
 	"""
 	printItem
@@ -218,37 +212,34 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	It's my brother's
-	pendant...
+	É o colar do meu irmão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You might be of
-	use to me after
-	all...
+	Cê pode ser útil
+	pra mim, até...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Ummm..."
+	"Err..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your brother is
-	worried about you.
+	O seu irmão tá
+	preocupado com você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He let the hostage
-	go,and came out of
-	hiding...
+	Ele liberou a refém
+	e se entregou...
 	"""
 	keyWait
 		any = false
@@ -256,59 +247,60 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	SHUDDUP!
-	We were thrown away
-	together...
+	CALA A BOCA!
+	A gente foi jogado
+	fora junto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We will always stick
-	together...
+	Então vamo sempre
+	ficar junto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...We had no choice
-	but to become
-	criminals...
+	... A gente só teve
+	uma escolha: virar
+	criminoso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is no way
-	we will get caught
-	now...
+	Nunca que a gente
+	vai se deixar ser
+	pego agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"But..."
+	"Mas..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviRed
-	"SILENCE!!"
+	"CALA A BOCA!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I haven't lowered
-	my guard against
-	you yet!
+	Eu ainda não baixei
+	a minha guarda pra
+	você, não, viu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now you need to
-	deliver this for me!
+	Agora, quero que
+	cê entregue isto
+	aqui pra mim!
 	"""
 	keyWait
 		any = false
@@ -321,7 +313,7 @@ script 11 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -336,9 +328,9 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	Give that to the
-	pink girl type
-	Navi in Green Area2.
+	Dá isso aí pra
+	Navi cor-de-rosa
+	na Área Verde 2.
 	"""
 	keyWait
 		any = false
@@ -348,35 +340,35 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	msgOpen
-	"What're you doing!?"
+	"O que é que\ncê tá fazendo?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give that money
-	to my brother in
-	Undernet1!!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	He looks just like
-	me... You'll know
-	when you see him!
+	Entrega essa grana
+	pro meu mano na
+	Undernet 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And don't forget to
-	bring back proof
-	that you met him!
+	Ele é igualzinho
+	a mim... Cê vai
+	reconhecer quando vir!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hurry up!!"
+	"""
+	E não esquece de
+	trazer uma prova
+	de que falou com ele!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Anda, vai!!"
 	keyWait
 		any = false
 	end
@@ -395,20 +387,19 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm back from
-	handing over the
-	TextData.
+	Voltei. Entreguei
+	os Dados de Texto.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This is her reply..."
+	"Aqui, a resposta dela..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan gave:
+	MegaMan deu:
 	"
 	"""
 	printItem
@@ -420,19 +411,26 @@ script 13 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviRed
-	"\"I read your letter.\n Don't keep piling\n up your crimes..."
+	"""
+	"Eu li a sua carta.
+	 Por favor, não acumule
+	 ainda mais crimes...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Turn yourself in.\n Admit your crimes."
+	" Se entregue.\n Confesse seus crimes."
 	keyWait
 		any = false
 	clearMsg
-	" Then come and get\n me..."
+	" Daí, volte para mim..."
 	keyWait
 		any = false
 	clearMsg
-	" I'm waiting for\n you... I'll always\n be waiting...\""
+	"""
+	 Eu espero por você...
+	 Hoje e sempre..."
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -442,54 +440,54 @@ script 13 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"Waaaaahhhh..."
+	"Aaaaugh..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Why don't you give
-	up... For her...
+	Por que não se rende
+	logo... Por ela...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviRed
-	"QUIET!!"
+	"CALADO!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Green Town
-	JudgeTreeComp3.
+	... Distrito Verde,
+	Computador da Árvore
+	Juíza 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"What!?"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	The hostage
-	took off from
-	JudgeTreeComp3.
+	A refém fugiu do
+	Computador da Árvore
+	Juíza 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Check things out
-	there.
+	Vê lá.
 	"""
 	keyWait
 		any = false
@@ -512,23 +510,23 @@ script 14 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	What are you
-	doing!?
+	O que é que cê
+	tá fazendo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up and take
-	this TextData to
-	Green Area2!
+	Leva logo esses
+	Dados de Texto
+	pra Área Verde 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give it to the
-	pink girl type Navi!
+	Entrega pra Navi
+	cor-de-rosa!
 	"""
 	keyWait
 		any = false
@@ -539,16 +537,15 @@ script 15 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	The hostage
-	took off from
-	JudgeTreeComp3.
+	O refém fugiu do
+	Computador da Árvore
+	Juíza 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Check things out
-	there.
+	Vê lá.
 	"""
 	keyWait
 		any = false

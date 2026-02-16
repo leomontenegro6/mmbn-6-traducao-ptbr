@@ -4,44 +4,46 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	And so we left
-	ACDC Town,and
+	E, assim, a gente
+	deixou o Bairro ACDC
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	arrived in Central
-	Town,the heart of
-	Cyber City,
+	e chegou no Bairro
+	Central, o coração
+	da Cidade Saibher,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to begin our new
-	lives.
+	pra começar as nossas
+	novas vidas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm still a little
-	sad,but
+	Claro que eu continuo
+	meio triste,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	unpacking everything
-	makes me feel like
+	mas ir abrindo as
+	malas meio que me fez
+	começar a sentir como
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm getting ready
-	for a new adventure!
+	se eu tivesse me
+	preparando pra uma
+	nova aventura!
 	"""
 	keyWait
 		any = false
@@ -52,16 +54,16 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's take
-	a look around our
-	new home,
+	MegaMan, bora dar outra
+	volta na casa nova
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and then check out
-	Central Town!!
+	e, depois, sair pra
+	conhecer o Bairro
+	Central!
 	"""
 	keyWait
 		any = false
@@ -74,8 +76,8 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Sounds like fun!
-	Let's go!!
+	Gostei da ideia!
+	Só bora!
 	"""
 	keyWait
 		any = false

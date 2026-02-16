@@ -30,25 +30,25 @@ script 0 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	Ahh... Come to take
-	my class I see?
+	Ahh... Veio fazer
+	a minha aula?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm Dark Scyth..."
+	"Eu sou Dark Kirisaki..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My class will be
-	about deleting
-	many Navis...
+	A minha aula trabalha
+	a deleção de vários
+	Navis...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...That OK with you?"
+	"... Você está de acordo?"
 	keyWait
 		any = false
 	clearMsg
@@ -63,7 +63,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Continue  "
+	" Continuar  "
 	option
 		brackets = 0
 		left = 0
@@ -72,7 +72,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Leave"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -87,22 +87,21 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = DarkScyth
 	"""
-	You cannot suddenly
-	leave after class
-	begins,
+	Você não poderá
+	desistir depois
+	que a aula começar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	thus you must stay
-	here until class
-	is over.
+	e, portanto, vai ter que
+	ficar aqui até ela acabar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Is that OK?"
+	"Tudo bem pra você?"
 	keyWait
 		any = false
 	clearMsg
@@ -117,7 +116,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Continue  "
+	" Continuar  "
 	option
 		brackets = 0
 		left = 0
@@ -126,7 +125,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Leave"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -166,9 +165,9 @@ script 2 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	Use this computer
-	to operate my
-	Navi,EraseMan!
+	Use o computador
+	para operar o meu
+	Navi, o KillerMan!
 	"""
 	keyWait
 		any = false
@@ -179,13 +178,12 @@ script 3 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	Delete all of the
-	targets.
+	Delete todos os alvos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show them no mercy!"
+	"Não tenha misericórdia!"
 	keyWait
 		any = false
 	end
@@ -195,13 +193,13 @@ script 5 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	The final test is
-	to delete EraseMan!
+	A prova final será
+	deletar o KillerMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ready for the test?"
+	"Pronto para ela?"
 	keyWait
 		any = false
 	clearMsg
@@ -216,7 +214,7 @@ script 5 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -225,7 +223,7 @@ script 5 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -240,9 +238,8 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = DarkScyth
 	"""
-	Come back when
-	you're really
-	ready...
+	Volte quando estiver
+	pronto de verdade...
 	"""
 	keyWait
 		any = false
@@ -252,22 +249,23 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = DarkScyth
 	msgOpen
-	"Let's go..."
+	"Vamos lá..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	C'mon MegaMan,
-	Battle routine,set!
+	Bora, MegaMan!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -281,8 +279,7 @@ script 7 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	Being the final
-	test?
+	Começar a prova final?
 	"""
 	keyWait
 		any = false
@@ -298,7 +295,7 @@ script 7 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -307,7 +304,7 @@ script 7 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -322,9 +319,8 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = DarkScyth
 	"""
-	Come back when
-	you're really
-	ready...
+	Volte quando estiver
+	pronto de verdade...
 	"""
 	keyWait
 		any = false
@@ -335,14 +331,14 @@ script 8 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	You can never show
-	your enemy mercy
-	in battle!
+	Não se pode mostrar
+	clemência para o
+	inimigo em combate!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Try again?"
+	"Vai tentar de novo?"
 	keyWait
 		any = false
 	clearMsg
@@ -357,7 +353,7 @@ script 8 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -366,7 +362,7 @@ script 8 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -381,9 +377,8 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = DarkScyth
 	"""
-	Come back when
-	you're really
-	ready...
+	Volte quando estiver
+	pronto de verdade...
 	"""
 	keyWait
 		any = false
@@ -399,9 +394,9 @@ script 10 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	If you want to
-	know how to delete
-	a Navi,come anytime.
+	Se quiser aprender a
+	deletar um Navi, fique
+	à vontade para vir aqui.
 	"""
 	keyWait
 		any = false
@@ -412,13 +407,13 @@ script 11 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	Sorry,but I'm
-	taking a break now.
+	Desculpe, mas estou
+	na minha folga agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Come back later..."
+	"Volte mais tarde."
 	keyWait
 		any = false
 	end
@@ -429,7 +424,7 @@ script 15 mmbn6 {
 	msgOpen
 	"""
 	Lan!
-	Class isn't over yet!
+	A aula ainda não acabou!
 	"""
 	keyWait
 		any = false
@@ -464,9 +459,9 @@ script 20 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Oh,hey!
-	You... You want to
-	take my class?
+	Opa, oi!
+	Quer... Quer fazer
+	a minha aula?
 	"""
 	keyWait
 		any = false
@@ -482,7 +477,7 @@ script 20 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Take Class  "
+	" Aceitar  "
 	option
 		brackets = 0
 		left = 0
@@ -491,7 +486,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Leave"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -506,21 +501,21 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Moliarty
 	"""
-	Once class begins,
-	you can't leave.
+	Depois que a aula começa,
+	você não pode desistir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That means you have
-	to stay in this room
-	until class is over.
+	Logo, vai ter que
+	ficar nesta sala
+	até ela terminar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Is that OK?"
+	"Tudo bem pra você?"
 	keyWait
 		any = false
 	clearMsg
@@ -535,7 +530,7 @@ script 20 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Continue  "
+	" Continuar  "
 	option
 		brackets = 0
 		left = 0
@@ -544,7 +539,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Leave"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -584,9 +579,9 @@ script 22 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Use this computer
-	to operate my
-	Navi,GroundMan!
+	Use o computador pra
+	operar o meu Navi,
+	o GroundMan!
 	"""
 	keyWait
 		any = false
@@ -597,16 +592,16 @@ script 23 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Use GroundMan to
-	smash all of
-	the falling rocks!
+	Use o GroundMan pra
+	destruir todas aquelas
+	rochas caindo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get going!
-	Maximum Drill Power!
+	Vá lá!
+	Furadeira Força Total!
 	"""
 	keyWait
 		any = false
@@ -617,14 +612,14 @@ script 25 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	The final test is
-	to defeat GroundMan
-	while I operate him!
+	A prova final será
+	vencer o GroundMan
+	enquanto eu opero ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ready for the test?"
+	"Pronto pra prova?"
 	keyWait
 		any = false
 	clearMsg
@@ -639,7 +634,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -648,7 +643,7 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -663,15 +658,15 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = Moliarty
 	"""
-	Hey!
-	Don't give up...
+	Ei!
+	Não desiste, não...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just come back again
-	when you're ready...
+	É só voltar quando
+	se sentir preparado.
 	"""
 	keyWait
 		any = false
@@ -682,8 +677,8 @@ script 26 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Nobody blink!
-	Let's go for it,man!
+	Fica esperto!
+	Vamos nessa, cara!
 	"""
 	keyWait
 		any = false
@@ -691,15 +686,16 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Let's go MegaMan!
-	Battle routine,set!
+	Bora, MegaMan!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -713,8 +709,8 @@ script 27 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Ready to take the
-	final test?
+	Pronto pra encarar
+	a prova final?
 	"""
 	keyWait
 		any = false
@@ -730,7 +726,7 @@ script 27 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -739,7 +735,7 @@ script 27 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -754,8 +750,8 @@ script 27 mmbn6 {
 	mugshotShow
 		mugshot = Moliarty
 	"""
-	Come back whenever
-	you're ready!
+	Volta quando se
+	sentir preparado!
 	"""
 	keyWait
 		any = false
@@ -766,13 +762,13 @@ script 28 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Huh? Can't dig
-	fair and square!?
+	Eita! Cavou a
+	própria cova, hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Want to try again?"
+	"Quer tentar de novo?"
 	keyWait
 		any = false
 	clearMsg
@@ -787,7 +783,7 @@ script 28 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -796,7 +792,7 @@ script 28 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -811,8 +807,7 @@ script 28 mmbn6 {
 	mugshotShow
 		mugshot = Moliarty
 	"""
-	Come back when
-	you want to!
+	Volte quando quiser!
 	"""
 	keyWait
 		any = false
@@ -828,9 +823,9 @@ script 30 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	If you want to let
-	off some steam by
-	digging,come back!
+	Se quiser usar uma
+	broca pra extravazar,
+	é só vir aqui, viu?
 	"""
 	keyWait
 		any = false
@@ -841,15 +836,14 @@ script 31 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Sorry,but I don't
-	have class now.
+	Desculpa, mas eu não
+	tô dando aula agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come back another
-	time OK!?
+	Volta mais tarde, falou?!
 	"""
 	keyWait
 		any = false
@@ -869,14 +863,13 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = DarkScyth
 	msgOpen
-	"What!?"
+	"O quê?1"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You want to
-	NetBattle...
-	Against me...?
+	Você quer NetLutar...
+	comigo...?
 	"""
 	keyWait
 		any = false
@@ -892,7 +885,7 @@ script 50 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -901,7 +894,7 @@ script 50 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -916,8 +909,7 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = DarkScyth
 	"""
-	That was a smart
-	choice...
+	Rapaz esperto...
 	"""
 	keyWait
 		any = false
@@ -928,9 +920,8 @@ script 51 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	You want to
-	NetBattle...
-	Against me...?
+	Você quer NetLutar...
+	comigo...?
 	"""
 	keyWait
 		any = false
@@ -946,7 +937,7 @@ script 51 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -955,7 +946,7 @@ script 51 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -970,8 +961,7 @@ script 51 mmbn6 {
 	mugshotShow
 		mugshot = DarkScyth
 	"""
-	That was a smart
-	choice...
+	Rapaz esperto...
 	"""
 	keyWait
 		any = false
@@ -999,9 +989,9 @@ script 53 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	Too bad for you...
-	You'll get no
-	mercy from me!
+	Lamento...
+	Mas não vou ter
+	misericórdia!
 	"""
 	keyWait
 		any = false
@@ -1009,8 +999,8 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I don't want your
-	mercy!
+	Quem disse que
+	eu queria?!
 	"""
 	keyWait
 		any = false
@@ -1018,9 +1008,8 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	"""
-	Then you'll get
-	none!!
-	Hiiiiyyyaaahhh!!
+	Perfeito, então!!
+	Iiiiiááááárh!!
 	"""
 	keyWait
 		any = false
@@ -1039,9 +1028,9 @@ script 54 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	Listen...
-	It's your dark side
-	calling to you...
+	Está ouvindo...?
+	É o seu lado sombrio,
+	chamando por você...
 	"""
 	keyWait
 		any = false
@@ -1049,8 +1038,7 @@ script 54 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I can't hear
-	anything!!
+	Eu não tô ouvindo nada!!
 	"""
 	keyWait
 		any = false
@@ -1058,16 +1046,15 @@ script 54 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	"""
-	Hyahahaha!
-	You'll hear it in
-	time!!
+	Hya ha ha ha!
+	Vai ouvir em breve!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Soon after you taste
-	this sickle...!
+	Logo após sentir o
+	gostinho desta foice...!
 	"""
 	keyWait
 		any = false
@@ -1090,9 +1077,8 @@ script 55 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	I'll delete you
-	before you even
-	know it...
+	Eu vou te deletar
+	antes que se dê conta...
 	"""
 	keyWait
 		any = false
@@ -1100,8 +1086,7 @@ script 55 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I won't lose that
-	easily!!
+	Eu não caio fácil assim!!
 	"""
 	keyWait
 		any = false
@@ -1109,14 +1094,14 @@ script 55 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	"""
-	Your will to live
-	will make it all
-	the more fun!
+	Essa sua vivacidade
+	só torna tudo mais
+	divertido!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hiiiiyaaaahhh!!"
+	"Iiiiiáááárh!!"
 	keyWait
 		any = false
 	flagSet
@@ -1139,7 +1124,7 @@ script 58 mmbn6 {
 	mugshotShow
 		mugshot = DarkScyth
 	msgOpen
-	"Strong,huh..."
+	"Forte, você..."
 	keyWait
 		any = false
 	end
@@ -1149,9 +1134,8 @@ script 59 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	No one can escape
-	the grip of
-	darkness!
+	Ninguém escapa das
+	garras das trevas!
 	"""
 	keyWait
 		any = false
@@ -1171,27 +1155,26 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = Moliarty
 	msgOpen
-	"Yo! Hikari!"
+	"Opa! Hikari!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You feel like
-	taking on
-	GroundMan!?
+	Tá a fim de encarar
+	o GroundMan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's built up a lot
-	of stress lately
-	from not digging!
+	Ele acumulou bastante
+	estresse porque não
+	anda cavando muito!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How about it!?"
+	"Que tal?!"
 	keyWait
 		any = false
 	clearMsg
@@ -1215,7 +1198,7 @@ script 60 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No way"
+	" Nem vem"
 	select
 		default = 0
 		BSeparate = false
@@ -1230,9 +1213,8 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = Moliarty
 	"""
-	Awww,c'mon...
-	Just for a
-	little while...
+	Aaahhh, vai...
+	Só uma lutinha...
 	"""
 	keyWait
 		any = false
@@ -1243,22 +1225,21 @@ script 61 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	You feel like
-	taking on
-	GroundMan!?
+	Tá a fim de encarar
+	o GroundMan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's built up a lot
-	of stress lately
-	from not digging!
+	Ele acumulou bastante
+	estresse porque não
+	anda cavando muito!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How about it!?"
+	"Que tal?!"
 	keyWait
 		any = false
 	clearMsg
@@ -1282,7 +1263,7 @@ script 61 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No way"
+	" Nem vem"
 	select
 		default = 0
 		BSeparate = false
@@ -1297,9 +1278,8 @@ script 61 mmbn6 {
 	mugshotShow
 		mugshot = Moliarty
 	"""
-	Awww,c'mon...
-	Just for a
-	little while...
+	Aaahhh, vai...
+	Só uma lutinha...
 	"""
 	keyWait
 		any = false
@@ -1327,9 +1307,9 @@ script 63 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Nobody blink! You're
-	going to get drilled
-	in an instant!
+	Fica esperto! Cê vai
+	ser perfurado e vai
+	ser feio!
 	"""
 	keyWait
 		any = false
@@ -1337,19 +1317,18 @@ script 63 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'm coming straight
-	at you!
+	Quero ver cê tentar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This one's mine!!"
+	"Essa luta tá no papo!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GroundMan
-	"Whiiiiiir!!"
+	"Tchrrrrrrrr!!"
 	keyWait
 		any = false
 	flagSet
@@ -1367,22 +1346,22 @@ script 64 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Whhhooooaaaaa!!
-	I'm going to beat
-	you senseless!!
+	Aaaaaaahhhh!!
+	Prepara pra uma
+	surra das grandes!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Bring it on!!"
+	"Cai dentro!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GroundMan
-	"Whiiiiiiir!!"
+	"Tchrrrrrrrrr!!"
 	keyWait
 		any = false
 	flagSet
@@ -1404,9 +1383,9 @@ script 65 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Alright!! Here we
-	go!!
-	Whiiiiiiir!!
+	Beleza!!
+	Vamos lá!!
+	Tchrrrrrrr!!
 	"""
 	keyWait
 		any = false
@@ -1414,16 +1393,16 @@ script 65 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Say drill as much
-	as you want! There's
-	no way I'm losing!!
+	Essa broca não me
+	assusta! Nunca que
+	eu vou perder!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GroundMan
-	"Whiiiiiiiiir!!"
+	"Tchrrrrrrrrr!!"
 	keyWait
 		any = false
 	flagSet
@@ -1448,14 +1427,14 @@ script 68 mmbn6 {
 	msgOpen
 	"""
 	AAAAAHHHHHHHH!!
-	I.......LOST!!
+	EU........ PERDI!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I feel great!
-	Thank you!!
+	Mas me sinto ótimo!
+	Valeu!!
 	"""
 	keyWait
 		any = false
@@ -1467,8 +1446,8 @@ script 69 mmbn6 {
 	msgOpen
 	"""
 	Ahhhhhh!!
-	What a stress
-	reliever!
+	Isso alivia tanto
+	o estresse!
 	"""
 	keyWait
 		any = false
@@ -1512,20 +1491,20 @@ script 74 mmbn6 {
 	mugshotShow
 		mugshot = DarkScyth
 	msgOpen
-	"...MegaMan is...?"
+	"... O MegaMan foi...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should use
-	EraseMan...
+	Melhor você usar
+	o KillerMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He is your LinkNavi
-	after all...
+	Ele é o seu NaviElo,
+	afinal...
 	"""
 	keyWait
 		any = false
@@ -1535,20 +1514,20 @@ script 75 mmbn6 {
 	mugshotShow
 		mugshot = Moliarty
 	msgOpen
-	"MegaMan is what!?"
+	"O MegaMan foi o quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gotcha!
-	Use GroundMan!!
+	Beleza!
+	Usa o GroundMan!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GroundMan is your
-	LinkNavi you know!!
+	Digo, ele é o seu
+	NaviElo, não é?!
 	"""
 	keyWait
 		any = false
@@ -1559,17 +1538,15 @@ script 76 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	Without MegaMan here
-	there'll be no
-	battle...
+	Sem o MegaMan aqui,
+	não temos como lutar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EraseMan's always
-	up for being
-	operated...
+	O KillerMan está sempre
+	disposto a ser operado...
 	"""
 	keyWait
 		any = false
@@ -1580,16 +1557,15 @@ script 77 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Without MegaMan,
-	you can't NetBattle!
+	Sem o MegaMan, não dá
+	pra gente NetLutar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GroundMan is always
-	ready to be
-	operated!
+	O GroundMan tá sempre
+	pronto pra ser operado!
 	"""
 	keyWait
 		any = false

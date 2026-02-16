@@ -5,14 +5,14 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"OK,see you,later!"
+	"OK, até mais!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Things have been
-	dangerous lately,so
-	hurry on home!
+	As coisas andam bem
+	perigosas, então vá
+	logo pra casa!
 	"""
 	keyWait
 		any = false
@@ -22,7 +22,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Boy
 	msgOpen
-	"Later!"
+	"Até!"
 	keyWait
 		any = false
 	end
@@ -31,7 +31,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = FriesBoy
 	msgOpen
-	"Bye bye!"
+	"Tchau-tchau!"
 	keyWait
 		any = false
 	end

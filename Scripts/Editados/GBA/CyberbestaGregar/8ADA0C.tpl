@@ -5,23 +5,23 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I found a virus!"
+	"Achei um vírus!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Get ready,MegaMan!"
+	"Prepara, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -55,9 +55,9 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I did it,Lan! That
-	should have taken
-	out all the viruses!
+	Consegui, Lan!
+	Isso deve resolver o
+	problema dos vírus!
 	"""
 	keyWait
 		any = false
@@ -65,9 +65,9 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yep!
-	This computer
-	is safe now!
+	Aham!
+	Agora este computador
+	vai ficar bem!
 	"""
 	keyWait
 		any = false
@@ -77,16 +77,16 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I did it,Lan!"
+	"Consegui, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yep!
-	This computer
-	is safe now!
+	Aham!
+	Agora este computador
+	vai ficar bem!
 	"""
 	keyWait
 		any = false
@@ -97,16 +97,16 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE
-	TEACHER'S ROOM COMP!
+	ESTE É O COMPUTADOR DA
+	SALA DOS PROFESSORES!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOW ABOUT A HEATED
-	DISCUSSION ABOUT
-	EDUCATION!!
+	E AÍ, VAMOS FAZER UM
+	DEBATE INTENSO SOBRE
+	O TÓPICO DA EDUCAÇÃO?!
 	"""
 	keyWait
 		any = false

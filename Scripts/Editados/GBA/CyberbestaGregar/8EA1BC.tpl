@@ -5,27 +5,26 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Hmm,hmm..."
+	"Hmm, hmm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are no more
-	targets left alive
-	here!
+	Não sobrou mais nenhum
+	alvo vivo aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hehehe...
-	Ooh,my blood
-	boils...
+	He he he...
+	Aah, o meu sangue
+	tá fervendo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hyahahaha!"
+	"Hya ha ha ha!"
 	keyWait
 		any = false
 	end

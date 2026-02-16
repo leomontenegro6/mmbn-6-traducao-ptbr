@@ -10,8 +10,8 @@ script 0 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm a NetMerchant...
-	See what I've got?
+	Sou um NetVendedor...
+	Quer ver meu acervo?
 	
 	"""
 	positionOptionHorizontal
@@ -24,7 +24,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Look "
+	" Ver "
 	option
 		brackets = 0
 		left = 0
@@ -33,7 +33,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't look "
+	" Não ver "
 	select
 		default = 0
 		BSeparate = false
@@ -49,7 +49,7 @@ script 0 mmbn6 {
 }
 script 1 mmbn6 {
 	clearMsg
-	"Come back soon!"
+	"FIQUE À VONTADE PARA\nVOLTAR AQUI!"
 	keyWait
 		any = false
 	end
@@ -59,8 +59,8 @@ script 2 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Sorry,but we're all
-	sold out...
+	Desculpa,
+	mas acabou tudo...
 	"""
 	keyWait
 		any = false
@@ -71,15 +71,15 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS MAYL'S
-	PERSONAL SPACE!
+	ESTE É O ESPAÇO
+	PESSOAL DA MAYL!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE PINK FLOOR IS
-	TOTALLY CUTE!!
+	O PISO COR-DE-ROSA
+	É FOFÍSSIMO!!
 	"""
 	keyWait
 		any = false
@@ -102,16 +102,16 @@ script 7 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS YAI'S
-	PERSONAL SPACE!
+	ESTE É O ESPAÇO
+	PESSOAL DA YAI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S NOTABLE FOR
-	ITS SIZE! CLEARLY
-	SUITABLE FOR YAI!
+	NOTÁVEL POR SEU
+	TAMANHO! PERFEITAMENTE
+	ADEQUADO PARA A YAI!
 	"""
 	keyWait
 		any = false
@@ -122,37 +122,36 @@ script 8 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS SPACE IS
-	DEX'S PERSONAL
-	SPACE!
+	ESTE É O ESPAÇO
+	PESSOAL DO DEX!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HUH? YOU DON'T
-	KNOW ABOUT THE
-	DOOR KEY?
+	HÃ? VOCÊ NÃO SABE
+	SOBRE A CHAVE DA
+	PORTA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NO WAY...
-	SPEAKING OF WHICH,
+	NÃO ACREDITO...
+	ALIÁS, O SR. GUTSMAN
+	ESCONDEU ALGO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MR.GUTSMAN IS
-	HIDING SOMETHING
-	IN THE CHESSPIECES.
+	POR ENTRE AS PEÇAS
+	DE XADRES.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"UNBELIEVABLE..."
+	"INACREDITÁVEL..."
 	keyWait
 		any = false
 	end
@@ -162,20 +161,20 @@ script 9 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS DEX'S
-	PERSONAL SPACE.
+	ESTE É O ESPAÇO
+	PESSOAL OD DEX.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DEX IS REALLY GOOD
-	AT CHESS!
+	O DEX MANDA MUITO
+	BEM NO XADREZ!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HOW ABOUT A MATCH?"
+	"QUE TAL UMA PARTIDA?"
 	keyWait
 		any = false
 	end
@@ -185,28 +184,27 @@ script 10 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	I came here from
-	CentralArea to
-	hang out a bit...
+	Eu vim aqui da Área
+	Central só pra passar
+	o tempo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This area is great!"
+	"Esta área é\nmuito da hora!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It isn't new,but
-	no matter where you
-	go,
+	Não é exatamente nova,
+	mas, não importa aonde
+	você vá,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's always a good
-	time.
+	sempre tem diversão.
 	"""
 	keyWait
 		any = false
@@ -217,15 +215,15 @@ script 11 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO ACDC
-	AREA!
+	BEM-VINDO À ÁREA ACDC!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ITS INTERNET RIVALS
-	EVEN CYBER CITY'S!
+	A QUALIDADE DA REDE
+	AQUI SE EQUIPARA ATÉ
+	À DA CIDADE SAIBHER!
 	"""
 	keyWait
 		any = false
@@ -244,8 +242,7 @@ script 20 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Talk to the
-	Mr.Prog!
+	Fale com o Prog!
 	"""
 	keyWait
 		any = false
@@ -256,9 +253,9 @@ script 21 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go with
-	everyone to the
-	meeting place!
+	Lan, vamos lá ver
+	o pessoal no ponto
+	de encontro!
 	"""
 	keyWait
 		any = false
@@ -269,8 +266,8 @@ script 22 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go over
-	to Roll's place?
+	A gente não vai pra
+	área da Roll, Lan?
 	"""
 	keyWait
 		any = false
@@ -281,9 +278,9 @@ script 25 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Hey! Where you goin?
-	You got nothin' to
-	do over there!
+	Ei! Aonde é que você
+	vai? Não tem nada pra
+	fazer aí, não!
 	"""
 	keyWait
 		any = false

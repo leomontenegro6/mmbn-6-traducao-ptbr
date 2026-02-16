@@ -6,16 +6,15 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS SEASIDE
-	AREA1!
+	ESTA É A ÁREA
+	BEIRA-MAR 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A PERFECT AREA FOR
-	VACATION AND
-	LEISURE!
+	UMA ÁREA IDEAL PARA
+	FÉRIAS E LAZER!
 	"""
 	keyWait
 		any = false
@@ -25,22 +24,20 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"*whew*..."
+	"Uff..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you look at this
-	area from a guide
-	board,
+	Vendo esta área
+	no mapa-guia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it looks like it's 
-	shaped like a
-	vortex! 
+	dá pra ver que ela tem
+	o formato de um vórtice!
 	"""
 	keyWait
 		any = false
@@ -51,21 +48,21 @@ script 2 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	When you stand in
-	a huge plaza like
-	this...
+	Ficar postada em
+	uma praça enorme
+	como esta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It really sets you
-	free!!
+	dá uma sensação tão
+	grande de liberdade!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wooohooo!!!"
+	"Uuuhuuuuu!!!"
 	keyWait
 		any = false
 	end
@@ -75,21 +72,20 @@ script 3 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Since this road
-	loops around
-	like a vortex...
+	Esta estrada espiraliza
+	como um vórtice...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my eyes spin as
-	I walk around!
+	Andar por ela faz
+	a minha vista girar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*spin*..."
+	"Ooough..."
 	keyWait
 		any = false
 	end
@@ -99,16 +95,16 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS SEASIDE
-	AREA!
+	ESTA É A ÁREA
+	BEIRA-MAR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FOR THOSE THAT LOVE
-	ENDLESS SUMMER,MAKE
-	YOURSELF HOME HERE!
+	TODOS QUE AMAM
+	VERÕES INFINITOS,
+	DIVIRTAM-SE AQUI!
 	"""
 	keyWait
 		any = false
@@ -119,17 +115,17 @@ script 6 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	If I check the BBS
-	faithfully,there are
-	sometimes new posts,
+	Eu confiro o fórum com
+	frequência, e, às vezes,
+	tem postagens novas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I recommend a
-	faster pace when
-	checking the BBS!
+	Logo, recomendo
+	conferir o fórum
+	sem demora!
 	"""
 	keyWait
 		any = false
@@ -140,24 +136,23 @@ script 7 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Choices are what
-	life is made of...
+	A vida é feita
+	de escolhas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I'm
-	worried about
-	life...
+	e, por isso, eu me
+	preocupo tanto com
+	a vida.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder which way
-	I should go at this
-	crossroads...
+	Que direção eu escolho
+	nesta encruzilhada...?
 	"""
 	keyWait
 		any = false

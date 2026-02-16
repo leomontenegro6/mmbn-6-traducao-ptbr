@@ -4,22 +4,22 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	The Cybeasts' roar
-	echoed throughout
-	the Net,and
+	Os rugidos das
+	Cyberbestas
+	ecoaram pela Rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it caused a large
-	amount of damage to
-	Cyber City...
+	e causaram estragos
+	pesados na Cidade
+	Saibher...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and Central Town..."
+	"No Bairro Central..."
 	keyWait
 		any = false
 	end
@@ -30,8 +30,8 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	Aaah!
-	The maintenance
-	system...!!
+	O sistema de
+	manutenção...!!
 	"""
 	keyWait
 		any = false

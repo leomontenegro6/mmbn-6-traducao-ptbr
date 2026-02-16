@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!"
+	"Aê!"
 	keyWait
 		any = false
 	clearMsg
@@ -17,8 +17,8 @@ script 1 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Wow,better than I
-	expected...
+	Olha, se saiu melhor
+	do que eu esperava...
 	"""
 	keyWait
 		any = false
@@ -31,23 +31,22 @@ script 2 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Hey,Lan,ya got
-	through Level 2!
+	Ah, passou na fase 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next is Level 3 in
-	CentralArea3!
+	A seguir, a fase 3
+	na Área Central 3!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's 2 Kettles
-	in CentralArea3,so
-	better get burning!
+	Tem dois Kettles lá,
+	então vai lá e queima
+	tudo, garoto!
 	"""
 	keyWait
 		any = false
@@ -60,9 +59,9 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I think I'm really
-	beginning to get the
-	hang of fire chips!
+	Acho que eu tô começando
+	a pegar o jeito com os
+	chips de Fogo!
 	"""
 	keyWait
 		any = false

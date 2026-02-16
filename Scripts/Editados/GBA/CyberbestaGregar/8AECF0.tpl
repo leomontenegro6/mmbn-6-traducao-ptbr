@@ -7,20 +7,25 @@ script 0 mmbn6 {
 	mugshotPalette
 		palette = 6
 	msgOpen
-	"AH,HOT,HOT,HOT!"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	AT THIS RATE,I'LL
-	BE BURNT TO A CRISP!
+	AAAAAAHHHH!
+	TÁ QUENTE!
+	QUENTE! QUENTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DON'T WANNA
-	BE DELETED!!
+	NESSE RITMO, EU VOU
+	QUEIMAR QUE NEM
+	PALITO DE FÓSFORO!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	NÃO QUERO SER
+	DELETAAADOOO!!
 	"""
 	keyWait
 		any = false
@@ -33,8 +38,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't panic!
-	It'll be OK!
+	Calma!
+	Vai ficar tudo bem!
 	"""
 	keyWait
 		any = false
@@ -45,17 +50,17 @@ script 2 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	... PHEW!
-	ANY LATER AND I
-	WOULDA BEEN TOAST!
+	... UFA!
+	MAIS UM SEGUNDO, E
+	EU VIRAVA CHURRASCO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU BE CAREFUL,TOO,
-	YA HEAR? DON'T GET
-	BURNT!
+	TOMA CUIDADO VOCÊ
+	TAMBÉM, VIU?
+	NÃO VÁ SE QUEIMAR!
 	"""
 	keyWait
 		any = false

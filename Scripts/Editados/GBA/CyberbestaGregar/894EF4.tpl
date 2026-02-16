@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	SEASIDEAREA1!
+	BEM-VINDO À
+	ÁREA BEIRA-MAR 1!
 	"""
 	keyWait
 		any = false
@@ -22,17 +22,17 @@ script 1 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Since the incident
-	at the Aquarium,
-	we're keeping a
+	Desde aquele incidente
+	no Aquário, estamos mais
+	atentos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	closer look out,
-	but paying this much
-	attention is tiring!
+	mas prestar essa
+	atenção toda dá
+	uma canseira, viu?!
 	"""
 	keyWait
 		any = false
@@ -46,21 +46,21 @@ script 2 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Never seen you
-	around before...
+	Eu nunca te vi
+	por aqui antes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You look like
-	you've got a fiery
-	personality!
+	Cê tem cara de que
+	tem uma personalidade
+	esquentadinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can tell!!"
+	"Eu capto essas coisas!!"
 	keyWait
 		any = false
 	end
@@ -70,31 +70,31 @@ script 5 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You like to cry
-	don't you?
+	Você gosta de
+	chorar, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can tell just
-	by looking at you!
+	Dá pra saber só
+	de olhar pra você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Huh?
-	You're not a
-	crier?
+	... Hã?
+	Você não é um
+	"choradeiro"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't tell me
-	that... Your
-	eyes are watery!!
+	Não minta pra mim...
+	Eu tô vendo os seus
+	olhos super úmidos!!
 	"""
 	keyWait
 		any = false
@@ -105,17 +105,16 @@ script 10 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hey you! You're just
-	a regular Navi!?
-	Hurry and jack out!
+	Ei, você aí! É só
+	um Navi civil comum?!
+	Desconecte-se logo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's been a
-	disaster in
-	CentralArea!
+	Houve um desastre
+	na Área Central!
 	"""
 	keyWait
 		any = false
@@ -126,9 +125,9 @@ script 11 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	What are you
-	doing!? Hurry up
-	and jack out!!
+	O que é que você está
+	fazendo?! Desconecte-se
+	de uma vez!
 	"""
 	keyWait
 		any = false
@@ -155,36 +154,34 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"You..."
+	"Você..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Continuing on
-	is really...
-	dangerous...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	EvilSpirits are
-	flying all over...
+	Ir mais adiante é...
+	perigoso demais...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you really want
-	to keep going...
-	take this...
+	Tem Espíritos Malignos
+	voando por toda a parte...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't use this
-	anymore...
+	Se for seguir em
+	frente mesmo assim...
+	leve isto...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Não posso mais usá-las...
 	"""
 	keyWait
 		any = false
@@ -201,9 +198,9 @@ script 50 mmbn6 {
 		track = 386
 	soundEnableTextSFX
 	"""
-	"SoulWeapons" have
-	been installed
-	inside HeatMan.
+	As "ArmasAlmas" foram
+	instaladas dentro do
+	HeatMan.
 	"""
 	keyWait
 		any = false
@@ -216,7 +213,7 @@ script 50 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Take...care..."
+	"Tome... cuidado..."
 	keyWait
 		any = false
 	end
@@ -226,8 +223,8 @@ script 51 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Reload the
-	SoulWeapons?
+	Recarregar
+	as ArmasAlma?
 	"""
 	keyWait
 		any = false
@@ -243,7 +240,7 @@ script 51 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -252,7 +249,7 @@ script 51 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -266,7 +263,7 @@ script 51 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Good luck..."
+	"Boa sorte..."
 	keyWait
 		any = false
 	end
@@ -283,9 +280,8 @@ script 52 mmbn6 {
 	clearMsg
 	mugshotHide
 	"""
-	No response...
-	It seems he passed
-	out...
+	Não responde...
+	Parece ter desmaiado...
 	"""
 	keyWait
 		any = false
@@ -302,9 +298,9 @@ script 53 mmbn6 {
 		track = 386
 	soundEnableTextSFX
 	"""
-	"SoulWeapons" have
-	been installed
-	inside SpoutMan.
+	As "ArmasAlmas" foram
+	instaladas dentro do
+	AquaMan.
 	"""
 	keyWait
 		any = false
@@ -317,7 +313,7 @@ script 53 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Take...care..."
+	"Tome... cuidado..."
 	keyWait
 		any = false
 	end
@@ -327,30 +323,28 @@ script 55 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Reloading the Soul
-	Weapons requires a
-	bit of time...
+	Recarregar as ArmasAlma
+	demora um pouco...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	During that time,
-	the EvilSpirits you
-	have already taken
+	Nesse meio-tempo, os
+	Espíritos Malignos
+	que você já abateu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	care of in this
-	area may come back
-	to haunt you...
+	nesta área podem voltar
+	para te assombrar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Is that OK?"
+	"Tudo bem pra você?"
 	keyWait
 		any = false
 	clearMsg
@@ -365,7 +359,7 @@ script 55 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -374,7 +368,7 @@ script 55 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -388,7 +382,7 @@ script 55 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Good luck..."
+	"Boa sorte..."
 	keyWait
 		any = false
 	flagSet
@@ -399,7 +393,7 @@ script 56 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Take...care..."
+	"Tome... cuidado..."
 	keyWait
 		any = false
 	end
@@ -409,24 +403,23 @@ script 60 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	...According to
-	this BBS,the
-	recent trouble
+	... De acordo com este
+	Fórum, aquele incidente
+	recente foi devido
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	was caused by the
-	revival of the
-	Cybeasts!!
+	ao renascimento
+	das Cyberbestas!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It_it's true...
-	It's really scary!
+	S-se isso for verdade...
+	Eu tô apavorado!
 	"""
 	keyWait
 		any = false
@@ -437,20 +430,14 @@ script 61 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	Checking out
-	Mr.Progs and
+	Observar os Progs
+	e Navis daqui é
+	tão divertido!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	Navis up here
-	is fun!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"You agree,right?"
+	"Você concorda, né?"
 	keyWait
 		any = false
 	end
@@ -460,17 +447,16 @@ script 62 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'VE BEEN FEELING
-	WEIRD EYES ON ME
-	FOR A WHILE NOW.
+	JÁ HÁ UM TEMPO, VENHO
+	SENTIDO UM OLHAR
+	ESTRANHO SOBRE MIM...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LIKE SOMEONE HAS
-	BEEN WATCHING ME
-	THE ENTIRE TIME...
+	COMO SE ALGUÉM VIESSE
+	ME VIGIANDO...
 	"""
 	keyWait
 		any = false
@@ -481,27 +467,27 @@ script 65 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hey...
-	Listen to this...
+	Ei...
+	Escuta só...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Operator Navi
-	Selection Test...
-	I forgot to sign up!
+	A Prova de Seleção de
+	Navi Operador... Eu
+	esqueci de me inscrever!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HA"
+	"HA "
 	wait
 		frames = 30
-	"HA"
+	"HA "
 	wait
 		frames = 30
-	"HA"
+	"HA "
 	wait
 		frames = 30
 	"HA!"
@@ -509,28 +495,26 @@ script 65 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	All I can do is
-	laugh about it now!
+	Agora, só dá pra rir!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HA"
+	"HA "
 	wait
 		frames = 30
-	"HA"
+	"HA "
 	wait
 		frames = 30
-	"HA"
+	"HA "
 	wait
 		frames = 30
-	"WAAAHH!..."
+	"BUUUÁÁÁÁÁ! ..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm starting to
-	cry...!!
+	Eu comecei a chorar...!!
 	"""
 	keyWait
 		any = false
@@ -541,23 +525,22 @@ script 66 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	Huh? What am I
-	doing?
+	Hã?
+	"O que eu tô fazendo?"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The post I made
-	on this BBS...
+	É que eu postei uma
+	coisa lá no Fórum...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm seeing if there
-	are any Navis who
-	will reply...
+	e tô esperando pra ver
+	se algum Navi responde...
 	"""
 	keyWait
 		any = false

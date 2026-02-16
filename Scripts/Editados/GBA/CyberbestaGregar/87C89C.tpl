@@ -6,24 +6,25 @@ script 5 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Mr.Mach gave notice
-	that he would take
-	a long break,but
+	O Mach mandou um aviso
+	de que ia ter que tirar
+	vários dias de folga,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that doesn't seem
-	like him at all. Do
-	you know anything?
+	mas ele realmente não
+	é disso. Você sabe de
+	alguma coisa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm... But why
-	would you know...
+	Aliás, deixa pra lá.
+	Por que você saberia,
+	né...?
 	"""
 	keyWait
 		any = false
@@ -34,16 +35,16 @@ script 6 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	The Teachers' Room
-	is dark without
-	Mr.Mach around...
+	A Sala dos Professores
+	fica tão desanimada sem
+	o Mach por aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He is our "mood
-	maker"...
+	Ele meio que é o
+	arroz da nossa festa...
 	"""
 	keyWait
 		any = false
@@ -51,14 +52,14 @@ script 6 mmbn6 {
 }
 script 10 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -73,8 +74,7 @@ script 11 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You!! Don't run away
-	from here!!
+	Ô!! Não foge daqui, não!!
 	"""
 	keyWait
 		any = false
@@ -92,7 +92,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"I found you Hikari!"
+	"Te achei, Hikari!"
 	keyWait
 		any = false
 	flagSet

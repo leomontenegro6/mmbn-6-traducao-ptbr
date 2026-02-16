@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Count
 	msgOpen
-	"GWOOOHHHHH!!"
+	"GHNNNNAAAAAHHH!!"
 	keyWait
 		any = false
 	end
@@ -14,7 +14,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Django
 	msgOpen
-	"It's over..."
+	"Acabou..."
 	keyWait
 		any = false
 	end
@@ -24,16 +24,16 @@ script 2 mmbn6 {
 		mugshot = Django
 	msgOpen
 	"""
-	MegaMan,thank you.
-	Truly.
+	MegaMan, obrigado.
+	De verdade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With your help,
-	we were able to
-	defeat the Count.
+	Com a sua ajuda,
+	nós conseguimos
+	derrotar o Conde.
 	"""
 	keyWait
 		any = false
@@ -46,23 +46,23 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,I should be the
-	one thanking you!
+	Ah, eu é que
+	devia agradecer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you two hadn't
-	come here,
+	Se vocês dois não
+	tivessem vindo aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who knows what
-	would've happened
-	to the cyberworld...
+	vai saber o que teria
+	acontecido com o mundo
+	cibernético...
 	"""
 	keyWait
 		any = false
@@ -75,9 +75,9 @@ script 4 mmbn6 {
 		mugshot = Otenko
 	msgOpen
 	"""
-	No need to be humble.
-	Your battle style
-	was amazing!
+	Não precisa ser humilde.
+	As suas técnicas de
+	batalha foram incríveis!
 	"""
 	keyWait
 		any = false
@@ -88,9 +88,9 @@ script 5 mmbn6 {
 		mugshot = Otenko
 	msgOpen
 	"""
-	Well,Django,perhaps
-	it's time for us to
-	return now?
+	Bom, Django, acho que
+	já tá na hora de a
+	gente voltar, não acha?
 	"""
 	keyWait
 		any = false
@@ -102,7 +102,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You're going already?"
+	"Vocês já vão?"
 	keyWait
 		any = false
 	clearMsg
@@ -114,14 +114,14 @@ script 7 mmbn6 {
 		mugshot = Django
 	msgOpen
 	"""
-	Yes. It seems a new
-	enemy is making his move
-	even as we speak.
+	Sim. Parece que um novo
+	inimigo está começando
+	a agir agora mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So,we must go!"
+	"Então temos que ir!"
 	keyWait
 		any = false
 	clearMsg
@@ -133,8 +133,9 @@ script 8 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	...I see.
-	Will we ever meet again?
+	... Entendi.
+	E a gente vai
+	se ver de novo?
 	"""
 	keyWait
 		any = false
@@ -146,7 +147,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Django
 	msgOpen
-	"Of course!"
+	"Mas é claro!"
 	keyWait
 		any = false
 	clearMsg
@@ -158,8 +159,9 @@ script 10 mmbn6 {
 		mugshot = Otenko
 	msgOpen
 	"""
-	Django,the space_time
-	rift is closing.
+	Django, a distorção
+	no espaço-tempo tá
+	se fechando.
 	"""
 	keyWait
 		any = false
@@ -169,11 +171,11 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Otenko
 	msgOpen
-	"Farewell,boys!"
+	"Adeus, amigos!"
 	keyWait
 		any = false
 	clearMsg
-	"May the sun be with you!"
+	"E que o sol\nesteja com vocês!"
 	keyWait
 		any = false
 	end
@@ -187,8 +189,7 @@ script 12 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	The sun will
-	rise tomorrow!
+	O sol vai nascer amanhã!
 	"""
 	keyWait
 		any = false
@@ -200,7 +201,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -209,7 +210,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"They're gone..."
+	"E se foram..."
 	keyWait
 		any = false
 	clearMsg
@@ -221,9 +222,9 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't look so down!
-	I'm sure we'll run into
-	Django again somewhere!
+	Não fica triste! Com
+	certeza a gente vai ver
+	o Django de novo por aí!
 	"""
 	keyWait
 		any = false
@@ -236,13 +237,13 @@ script 16 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The sun will
-	rise tomorrow!
+	O sol vai nascer
+	de novo amanhã!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...Definitely!"
+	"... Com certeza!"
 	keyWait
 		any = false
 	clearMsg
@@ -253,7 +254,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end

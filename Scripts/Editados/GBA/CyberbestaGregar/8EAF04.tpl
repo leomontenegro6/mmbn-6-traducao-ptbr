@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	msgOpen
 	soundDisableTextSFX
 	controlLock
-	"*whooooo,whoooooo*"
+	"Tchúúú-tchúúúúú!"
 	wait
 		frames = 45
 	soundEnableTextSFX
@@ -16,15 +16,15 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	"""
-	We will be departing
-	shortly...
+	O trem está prestes
+	a deixar a estação...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please do not rush
-	onto the train.
+	Por favor, entrem
+	nele calmamente.
 	"""
 	keyWait
 		any = false
@@ -34,11 +34,11 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Now departing!"
+	"Partindo!"
 	keyWait
 		any = false
 	clearMsg
-	"Full speed ahead!"
+	"A toda velocidade!"
 	keyWait
 		any = false
 	end

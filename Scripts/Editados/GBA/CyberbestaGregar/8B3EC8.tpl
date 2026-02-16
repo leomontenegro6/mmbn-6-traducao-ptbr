@@ -7,22 +7,22 @@ script 0 mmbn6 {
 		jumpIfCybeastFalzar = 11
 	msgOpen
 	"""
-	This new house came
-	with a brand new
-	shoe rack.
+	A nova casa veio com
+	uma prateleira para
+	sapatos também nova.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sitting on top are 2
-	golden fish statues
-	like the ones in
+	Acima dela, há duas
+	estátuas de Shachi
+	dourados,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"End City."
+	"como os que têm na\nCidade de Endo."
 	keyWait
 		any = false
 	end
@@ -30,16 +30,15 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	It's the family
-	sofa.
+	É o sofá da família.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so soft and
-	comfy,and it even
-	seats three!
+	É super macio e
+	confortável, e tem
+	espaço pra três pessoas!
 	"""
 	keyWait
 		any = false
@@ -48,17 +47,17 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	A plant Mom bought
-	almost as soon as
-	you moved in.
+	Uma planta que a mãe do
+	Lan trouxe assim que
+	eles se mudaram.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's sitting there
-	happily cleaning the
-	living room air.
+	Está postada aí
+	alegremente, limpando
+	o ar da sala.
 	"""
 	keyWait
 		any = false
@@ -67,17 +66,17 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	This TV is special
-	because it can learn
-	what your favorite
+	Essa TV é especial,
+	porque aprende quais
+	são os seus programas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	programs are,and
-	then record them
-	automatically!
+	preferidos e os
+	grava automaticamente
+	para você!
 	"""
 	keyWait
 		any = false
@@ -86,24 +85,25 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	Mom took the move as
-	a chance to get a
-	custom kitchen!
+	A mãe do Lan aproveitou
+	a chance e montou uma
+	cozinha personalizada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like she
-	splurged and got all
-	sorts of new,nifty
+	Parece que ela
+	esvaziou a carteira
+	e comprou vários
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	appliances and
-	cooking tools!
+	eletrodomésticos
+	e utensílios de
+	cozinha top de linha!
 	"""
 	keyWait
 		any = false
@@ -115,25 +115,24 @@ script 5 mmbn6 {
 		jumpIfCybeastFalzar = 12
 	msgOpen
 	"""
-	There's a piece of
-	steak sizzling in a
-	pan on the stovetop.
+	Há uma bela bisteca
+	sendo fritada numa
+	frigideira sobre o fogão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Black pepper is
-	sprinkled on top
-	of this rare steak.
+	Cuidadosamente mal
+	passada e temperada
+	com pimenta-do-reino...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mmm... This is good
-	ol' homecooking at
-	its finest!
+	Mmm... Comida caseira
+	de primeira!
 	"""
 	keyWait
 		any = false
@@ -142,23 +141,23 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	A refrigerator
-	Mom picked out...
+	Uma geladeira que a
+	mãe do Lan comprou...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mom has a good eye
-	when it comes to
-	shopping,so
+	Ela tem ótimo
+	discernimento
+	para as compras,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's bound to be a
-	good fridge!
+	então com certeza é
+	uma ótima geladeira!
 	"""
 	keyWait
 		any = false
@@ -167,17 +166,16 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	You can look into
-	the litte center
-	garden from here...
+	Daqui, dá para ver o
+	pequeno jardim central...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nothing has been
-	planted yet,so it's
-	still just grass.
+	Nada foi plantado
+	ainda, então, por
+	enquanto, é tudo mato.
 	"""
 	keyWait
 		any = false
@@ -189,17 +187,16 @@ script 8 mmbn6 {
 		jumpIfCybeastFalzar = 10
 	msgOpen
 	"""
-	Mom painted this
-	picture to spice
-	up the room.
+	A mãe do Lan pintou
+	esse quadro para
+	alegrar o ambiente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The theme of the
-	picture is...
-	"Smile".
+	O tema do quadro é...
+	"Sorrisos".
 	"""
 	keyWait
 		any = false
@@ -208,17 +205,17 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	It's a control
-	panel,but it's not
-	just any panel...
+	É um painel de controle,
+	mas não um painel
+	qualquer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can operate any
-	electronic device in
-	the house with this!
+	Pode-se operar todo
+	dispositivo eletrônico
+	da casa com ele!
 	"""
 	keyWait
 		any = false
@@ -227,17 +224,17 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	Mom painted this
-	picture to spice
-	up the room.
+	A mãe do Lan pintou
+	esse quadro para
+	alegrar o ambiente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The monkey looks at
-	you with a cheery
-	smile.
+	O macaquinho olha
+	para você com um
+	sorriso maroto.
 	"""
 	keyWait
 		any = false
@@ -246,24 +243,25 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	msgOpen
 	"""
-	This new house came
-	with a brand new
-	shoe rack.
+	A nova casa veio com
+	uma prateleira para
+	sapatos também nova.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A ship's steering
-	wheel is sitting
-	on top.
+	Acima dela, foi
+	colocado o leme
+	de um navio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a souvenir from
-	a trip somewhere...
+	É um souvenir de
+	alguma viagem aí,
+	para algum lugar...
 	"""
 	keyWait
 		any = false
@@ -272,9 +270,9 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	msgOpen
 	"""
-	The savory smell of
-	roasted onion drifts
-	from the oven.
+	O aroma apetitoso
+	de cebolas assando
+	exala do fogão.
 	"""
 	keyWait
 		any = false
@@ -283,17 +281,17 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	msgOpen
 	"""
-	This kind of foot_
-	stool is called an
-	"ottoman".
+	Esse tipo de bancada
+	para os pés é conhecida
+	como "ottoman".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's great for
-	relaxing after a day
-	of hard NetBattling.
+	É perfeita para relaxar
+	após um dia cheio de
+	NetLutas acirradas.
 	"""
 	keyWait
 		any = false

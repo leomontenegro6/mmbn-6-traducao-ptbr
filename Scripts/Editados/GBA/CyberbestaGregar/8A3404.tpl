@@ -6,16 +6,14 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That Mr.Prog looks
-	like he's in
-	trouble.
+	Aquele Prog ali
+	parece enrolado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go talk to
-	him.
+	Vamos lá falar com ele.
 	"""
 	keyWait
 		any = false
@@ -37,20 +35,20 @@ script 10 mmbn6 {
 	msgOpen
 	"""
 	Ahhhh...
-	Listen to this...
+	Escuta só...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just got my hands
-	on something really
-	nice!
+	Eu acabei arranjando
+	aqui uma coisinha bem
+	legal!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna see it?"
+	"Quer ver?"
 	keyWait
 		any = false
 	clearMsg
@@ -65,7 +63,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -74,7 +72,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -90,7 +88,7 @@ script 10 mmbn6 {
 		mugshot = BlueNavi
 	"""
 	Arrgghhh!
-	Borrrriinnnggg!
+	Sem graça!
 	"""
 	keyWait
 		any = false
@@ -101,21 +99,20 @@ script 11 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Hey!
-	Hey!
+	Epa!
+	Opa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just got ahold
-	of something
-	great!
+	Eu acabei arranjando
+	aqui uma coisinha incrível!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna see it?"
+	"Quer ver?"
 	keyWait
 		any = false
 	clearMsg
@@ -130,7 +127,7 @@ script 11 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -139,7 +136,7 @@ script 11 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -154,9 +151,9 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	"""
-	What!?
-	You should see this
-	thing...really...
+	O quê?!
+	Pô, cara, sério, cê
+	devia ver a coisinha...
 	"""
 	keyWait
 		any = false
@@ -166,19 +163,19 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"Wanna see it!?"
+	"Você QUER ver?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hehehe...
-	Don't be too
-	surprised...
+	He he he...
+	Cuidado pra não
+	cair da cadeira...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Voila!!"
+	"Voilà!!"
 	keyWait
 		any = false
 	flagSet
@@ -192,40 +189,39 @@ script 13 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Hehehe!
-	How was it!?
-	Scared ya,huh!?
+	He he he!
+	E aí?! Mó sustão, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh?
-	You aren't mad are
-	you?
+	Ué?
+	Por que é que cê
+	tá bravo comigo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was just a joke!
-	Serious... It was
-	just a joke...
+	Foi zoeira!
+	Sério...
+	Só uma zoeirinha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	C'mon on now...
-	No need to get
-	violent...
+	Ah, vai...
+	Não tem pra que
+	apelar pra violência...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M SORRY!!
-	HERE TAKE THIS OK!?
+	OLHA, DESCULPA!!
+	SÓ LEVA, FALOU?!
 	"""
 	keyWait
 		any = false
@@ -239,7 +235,7 @@ script 13 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printNaviCustProgram
@@ -253,7 +249,7 @@ script 13 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"I'm sorry..."
+	"Desculpa..."
 	keyWait
 		any = false
 	end
@@ -263,9 +259,9 @@ script 14 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	I'm sorry...
-	I won't spring
-	viruses anymore!
+	Desculpa...
+	Eu não vou mais jogar
+	vírus nos outros!
 	"""
 	keyWait
 		any = false
@@ -290,24 +286,24 @@ script 20 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HELLO! THIS IS
-	THE AQUARIUM COMP!
+	OLÁ! ESTE É O
+	COMPUTADOR DO AQUÁRIO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...YES! YES!
-	I'VE HEARD ABOUT
-	THE UPDATE!
+	... SIM! SIM!
+	FUI INFORMADO
+	DA ATUALIZAÇÃO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan gave:
-	"UpdtData"!!
+	MegaMan deu:
+	"Dados de Atualização"!!
 	"""
 	keyWait
 		any = false
@@ -329,29 +325,29 @@ script 20 mmbn6 {
 	"."
 	wait
 		frames = 15
-	"."
+	". "
 	wait
 		frames = 15
-	"COMPLETED!!"
+	"CONCLUÍDO!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS UPDATE WILL
-	AFFECT MY
-	PROCESSING SPEED...
+	ESTA ATUALIZAÇÃO IRÁ
+	AUMENTAR MINHA VELOCI-
+	DADE DE PROCESSAMENTO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT SEEMS IT WILL
-	RISE RAPIDLY!!
+	OH, PARECE ESTAR
+	AUMENTANDO RÁPIDO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I CAN'T WAIT!!"
+	"MAL POSSO ESPERAR!!"
 	keyWait
 		any = false
 	end
@@ -361,21 +357,21 @@ script 21 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS UPDATE WILL
-	AFFECT MY
-	PROCESSING SPEED...
+	ESTA ATUALIZAÇÃO IRÁ
+	AFETAR MINHA VELOCIDADE
+	DE PROCESSAMENTO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT SEEMS IT WILL
-	RISE RAPIDLY!!
+	OH, ELA PARECE ESTAR
+	AUMENTANDO RÁPIDO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I CAN'T WAIT!!"
+	"MAL POSSO ESPERAR!!"
 	keyWait
 		any = false
 	end
@@ -387,30 +383,30 @@ script 22 mmbn6 {
 		palette = 6
 	msgOpen
 	"""
-	HOTHOTHOT!!!
-	HEEEELLLLPPPP!!!
+	QUENTE! QUENTEEE!!!!!
+	SOCOOOORRROOOOOO!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Wait!!"
+	"Aguenta aí!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll update your
-	data to the latest
-	version!!
+	Eu vou atualizar
+	os seus dados pra
+	versão mais nova!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan updated
-	the UpdtData.
+	MegaMan atualizou os
+	Dados de Atualização.
 	
 	"""
 	flagSet
@@ -424,15 +420,15 @@ script 23 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THA...
-	THANK YOU...
+	OB...
+	OBRIGADO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WAS ALMOST BURNT
-	TO A CRISP!!
+	QUASE QUE EU VIRO
+	CHURRASQUINHO!!
 	"""
 	keyWait
 		any = false

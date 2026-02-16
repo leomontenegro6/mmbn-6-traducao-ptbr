@@ -4,15 +4,15 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	Sky Area1 on it.
+	Nele, há um mapa
+	da Área Céu 1.
 	"""
 	keyWait
 		any = false
@@ -33,7 +33,7 @@ script 3 mmbn6 {
 		jumpIfInRange = 16
 		jumpIfOutOfRange = continue
 	msgOpen
-	"\"Welcome\n       to the\n            NetCafe\""
+	"\"Bem-vindo\n       ao\n            NetCafé\""
 	keyWait
 		any = false
 	end
@@ -60,8 +60,8 @@ script 4 mmbn6 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	A thick,dense cloud
-	is blocking the way!
+	Uma densa e grossa
+	nuvem impede a passagem!
 	"""
 	keyWait
 		any = false
@@ -89,9 +89,9 @@ script 5 mmbn6 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	A strong_looking
-	cybertree is
-	blocking the way...
+	Uma cyberárvore
+	bem grossa está
+	barrando o caminho...
 	"""
 	keyWait
 		any = false
@@ -102,14 +102,14 @@ script 6 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	These thunderclouds
-	are just what I
-	like...
+	Essas nuvens de
+	tempestade são
+	minha especialidade...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Zaaaaaap!!"
+	"Tzzzz-ah!!"
 	keyWait
 		any = false
 	clearMsg
@@ -119,8 +119,8 @@ script 6 mmbn6 {
 	wait
 		frames = 30
 	"""
-	ElecMan's lightning
-	dispersed the cloud!
+	O relâmpago do ElecMan
+	dispersou a nuvem!
 	"""
 	keyWait
 		any = false
@@ -132,14 +132,14 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Hiyahaha!!"
+	"Hya ha ha!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Hex Sickle can
-	cut even shapeless
-	things!!
+	Minha HexaFoice pode
+	cortar até coisas sem
+	forma!!
 	"""
 	keyWait
 		any = false
@@ -150,9 +150,8 @@ script 7 mmbn6 {
 	wait
 		frames = 30
 	"""
-	EraseMan's Hex
-	Sickle cut through
-	the cloud!!
+	A HexaFoice do KillerMan
+	corta a nuvem!!
 	"""
 	keyWait
 		any = false
@@ -165,9 +164,9 @@ script 8 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Hey,cloud!
-	Here's a Tomahawk
-	Swing for you!!
+	Aí, nuvem!
+	Aqui vai um Corte
+	de Machadinha!!
 	"""
 	keyWait
 		any = false
@@ -178,9 +177,9 @@ script 8 mmbn6 {
 	wait
 		frames = 30
 	"""
-	The Tomahawk Swing's
-	strong wind blew the
-	cloud away!!
+	O vento forte do Corte
+	de Machadinha assoprou
+	a nuvem!!
 	"""
 	keyWait
 		any = false
@@ -193,9 +192,8 @@ script 9 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	This cloud's just
-	like that junk over
-	there!!
+	Essa nuvem é que
+	nem aquele lixo ali!
 	"""
 	keyWait
 		any = false
@@ -206,8 +204,8 @@ script 9 mmbn6 {
 	wait
 		frames = 30
 	"""
-	DustMan sucked up
-	the cloud!!
+	O DustMan aspirou
+	a nuvem!!
 	"""
 	keyWait
 		any = false
@@ -224,13 +222,13 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"This tree is toast!"
+	"A árvore já era!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Burn,baby,burn!
-	Yeah!
+	Queima!
+	Queima bonito!
 	"""
 	keyWait
 		any = false
@@ -241,9 +239,9 @@ script 11 mmbn6 {
 	wait
 		frames = 30
 	"""
-	HeatMan's raging
-	flames burned the
-	cybertree to ashes!!
+	As chamas intensas do
+	HeatMan reduziram a
+	cyberárvore a cinzas!!
 	"""
 	keyWait
 		any = false
@@ -255,11 +253,11 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Slice and dice!"
+	"Fatiar!"
 	keyWait
 		any = false
 	clearMsg
-	"Slaaaaaaaash!!"
+	"Shuiiiiin!!"
 	keyWait
 		any = false
 	clearMsg
@@ -269,9 +267,9 @@ script 12 mmbn6 {
 	wait
 		frames = 30
 	"""
-	SlashMan's powerful
-	attack cut the
-	cybertree down!!
+	O ataque poderoso
+	do SlashMan partiu a
+	cyberárvore ao meio!!
 	"""
 	keyWait
 		any = false
@@ -284,14 +282,13 @@ script 13 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Heh,this tree will
-	fall in no time
-	flat!
+	He, eu derrubo essa
+	árvore rapidinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Tomahawk Swing!!"
+	"Corte de Machadinha!!"
 	keyWait
 		any = false
 	clearMsg
@@ -301,8 +298,8 @@ script 13 mmbn6 {
 	wait
 		frames = 30
 	"""
-	The cybertree was
-	split into two!!
+	A cyberárvore se
+	partiu em duas!!
 	"""
 	keyWait
 		any = false
@@ -314,19 +311,19 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whiiiiiir!!"
+	"Tchrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll uproot this
-	tree from the bottom
-	up!
+	Eu vou escavar as
+	raízes dessa árvore
+	e derrubá-la!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Whiiiiiir!!"
+	"Tchrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
@@ -336,9 +333,9 @@ script 14 mmbn6 {
 	wait
 		frames = 30
 	"""
-	GroundMan's charge
-	dug the cybertree
-	out,roots and all!!
+	A ação do GroundMan
+	arrancou a cyberárvore,
+	com raiz e tudo!!
 	"""
 	keyWait
 		any = false
@@ -354,9 +351,9 @@ script 15 mmbn6 {
 script 16 mmbn6 {
 	msgOpen
 	"""
-	It seems to have
-	run out of energy,
-	so it's not lit...
+	Parece ter ficado
+	sem energia, portanto,
+	não está acesa...
 	"""
 	keyWait
 		any = false
@@ -365,22 +362,21 @@ script 16 mmbn6 {
 script 17 mmbn6 {
 	msgOpen
 	"""
-	A thick,dense cloud
-	is blocking the way!
+	Uma densa e grossa
+	nuvem impede a passagem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too thick for
-	the 
+	É grossa demais para
+	o 
 	"""
 	printItem
 		buffer = 0
 		item = 28
 	"""
-	 to
-	suck up.
+	 aspirar.
 	"""
 	keyWait
 		any = false
@@ -389,22 +385,18 @@ script 17 mmbn6 {
 script 18 mmbn6 {
 	msgOpen
 	"""
-	A strong_looking
-	cybertree is
-	blocking the way...
+	Uma cyberárvore
+	bem grossa está
+	barrando o caminho...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and the "
+	"e o "
 	printItem
 		buffer = 0
 		item = 66
-	"""
-	
-	is too weak to cut
-	it down.
-	"""
+	"\né fraco demais\npara cortá-la."
 	keyWait
 		any = false
 	end

@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright! We got
-	160 grams of
-	cyberradishes!!
+	Beleza! 160 gramas
+	de cyber-rabanetes,
+	confere!!
 	"""
 	keyWait
 		any = false
@@ -21,8 +21,8 @@ script 1 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	Slash!
-	Nice cybercooking!
+	Fuiinnnn!
+	Boa cyberculinária!
 	"""
 	keyWait
 		any = false
@@ -34,19 +34,19 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = PatFahran
 	msgOpen
-	"You did great!"
+	"Você foi ótimo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now let's put the
-	finishing touches on
-	this dish!
+	Agora, vamos dar os
+	toques finais nesse
+	prato!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Jack out,OK?"
+	"Desconecte-se, rapaz."
 	keyWait
 		any = false
 	clearMsg

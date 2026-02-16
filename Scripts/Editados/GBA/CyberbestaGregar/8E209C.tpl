@@ -5,21 +5,20 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = BlastMan
 	msgOpen
-	"Kw_Kwohoho..."
+	"Q-quo ho ho..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tsk! Even with
-	our combined
-	firepower...!
+	Tsc! Nem os nossos
+	poderes somados...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So this is the power
-	of a Cybeast...!
+	Então esse é o poder
+	de uma Cyberbesta...!
 	"""
 	keyWait
 		any = false
@@ -31,7 +30,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = DiveMan
 	msgOpen
-	"Incredible..."
+	"Incrível..."
 	keyWait
 		any = false
 	end
@@ -40,7 +39,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"...*huff,huff...*"
+	"... Urf... Arf..."
 	keyWait
 		any = false
 	clearMsg
@@ -57,20 +56,19 @@ script 3 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Are you all OK...?"
+	"Tá todo mundo bem...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Roll
-	"We're alright!"
+	"A gente tá bem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You shouldn't push
-	yourself too hard,
-	MegaMan!
+	Mas você não devia se
+	forçar tanto, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -82,23 +80,23 @@ script 4 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	You should listen
-	to the girl,MegaMan.
-	The real show...
+	Devia ouvir a moça,
+	MegaMan. O verdadeiro
+	espetáculo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	starts NOW!!
-	Ahoo,hoo,hoo!!
+	começa AGORA!!
+	Ahu hu hu huuu!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"That voice...?"
+	"Essa voz...?"
 	keyWait
 		any = false
 	end
@@ -107,7 +105,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"C_CircusMan!"
+	"-_CircusMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -119,8 +117,8 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What the...!?
-	Give us a break!!
+	O quê...?!
+	Fala sério!!
 	"""
 	keyWait
 		any = false
@@ -133,9 +131,9 @@ script 7 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	I love it
-	when things go
-	according to plan!
+	Ah, eu amo quando as
+	coisas correm de
+	acordo com o plano!
 	"""
 	keyWait
 		any = false
@@ -148,17 +146,16 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You__
-	You're CircusMan's
-	operator!?
+	Você...
+	Você é a operadora
+	do CircusMan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wait a sec. Plan!?
-	What are you going
-	to do!?
+	Pera aí. Plano?!
+	O que vocês vão fazer?!
 	"""
 	keyWait
 		any = false
@@ -171,63 +168,61 @@ script 9 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	Tee,hee! I thought
-	you already knew!
+	Hi hi! Ué, achei
+	que já soubesse!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our plan is to
-	steal MegaMan and
-	that Cybeast power
+	O nosso plano é roubar
+	o MegaMan e aquele
+	poder de Cyberbesta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that's sleeping
-	inside of him,duh!
+	que dorme dentro
+	dele, claro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You guys are so
-	easy to figure
-	out,really.
+	Vocês são tão
+	previsíveis, viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pretty much we were
-	going to hold your
-	friends hostage...
+	Basicamente, a gente ia
+	fazer os seus amiguinhos
+	de refém...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And then keep them
-	in the Undernet
-	until you came.
+	e mantê-los na Undernet
+	até você aparecer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that was all we
-	had to do to make
-	the plan work!
+	E a gente fez! Só
+	precisou disso pro
+	plano dar certo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You two are such
-	suckers!
-	Ahaha!
+	Vocês dois são
+	tão otários!
+	Ah ha ha!
 	"""
 	keyWait
 		any = false
@@ -239,7 +234,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That's really dirty!"
+	"Que sujeira!"
 	keyWait
 		any = false
 	clearMsg
@@ -251,21 +246,20 @@ script 11 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	What's this?
-	Are you
-	complementing me?
+	"Sujeira"?
+	Ui, obrigada pelo elogio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ahahaha!"
+	"Ah ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come on,CircusMan!
-	The last attraction
-	is about to begin!
+	Vamos, CircusMan!
+	A atração final
+	está para começar!
 	"""
 	keyWait
 		any = false
@@ -277,7 +271,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"Ahoo,hoo,hoo!!"
+	"Ahu hu hu huuu!!"
 	keyWait
 		any = false
 	end
@@ -290,7 +284,7 @@ script 13 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"I'm being pulled in!"
+	"Eu tô sendo puxado!"
 	keyWait
 		any = false
 	clearMsg
@@ -313,9 +307,9 @@ script 15 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's no good!
-	I can't hold out
-	much longer!
+	Droga!
+	Eu não aguento
+	mais segurar!
 	"""
 	keyWait
 		any = false
@@ -328,7 +322,7 @@ script 15 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"W_Waaaaaah!"
+	"A-aaaaahhhh!"
 	keyWait
 		any = false
 	end
@@ -346,21 +340,20 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"*huff,huff...*"
+	"Uff... Urf..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whew,even with my
-	large stomach,
+	Ufa! Mesmo com
+	o meu barrigão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this little Navi
-	is filling me to
-	the max!
+	esse Navizinho ocupou
+	um montão de espaço!
 	"""
 	keyWait
 		any = false
@@ -373,8 +366,8 @@ script 18 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You... You sucked
-	MegaMan in...
+	Você... absorveu
+	o MegaMan...
 	"""
 	keyWait
 		any = false
@@ -387,9 +380,9 @@ script 19 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	Great job,CircusMan!
-	Now we have a
-	weapon of our own!
+	Bom trabalho, CircusMan!
+	Agora nós temos uma
+	arma própria!
 	"""
 	keyWait
 		any = false
@@ -407,7 +400,7 @@ script 20 mmbn6 {
 	clearMsg
 	"""
 	Yuika!
-	Give MegaMan back!
+	Devolve o MegaMan!
 	"""
 	keyWait
 		any = false
@@ -420,24 +413,23 @@ script 21 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	Tee,hee!
-	You're babbling
-	nonsense again!
+	Hi hi hi hi!
+	Não fala besteira, rapaz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,but we need
-	the Cybeast's power
-	more than you!!
+	Lamento, mas nós
+	precisamos mais do poder
+	da Cyberbesta que você!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,CircusMan,
-	jack out!
+	OK, CircusMan,
+	desconectar!
 	"""
 	keyWait
 		any = false
@@ -450,8 +442,8 @@ script 22 mmbn6 {
 		mugshot = CircusMan
 	msgOpen
 	"""
-	You got it!
-	Ahoo,hoo,hoo!
+	Positivo!
+	Ahu hu hu huuu!
 	"""
 	keyWait
 		any = false
@@ -464,8 +456,8 @@ script 23 mmbn6 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Wait!
-	Give MegaMan back!
+	Espera!
+	Devolve o MegaMan!
 	"""
 	keyWait
 		any = false
@@ -475,18 +467,18 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"Ahoo,hoo,hoo!!"
+	"Ahu hu hu huuu!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We don't need you
-	guys anymore!
+	Nós não precisamos
+	mais de vocês!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Bye bye!"
+	"Tchauzinho!"
 	keyWait
 		any = false
 	end

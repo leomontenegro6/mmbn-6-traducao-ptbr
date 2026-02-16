@@ -6,26 +6,26 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Um... This seal's
-	name is...uh...
+	Er...
+	Esse elefante-marinho
+	se chamava... er...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Fanny,I think..."
+	"Lelê, né...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,Fanny!
-	Look over here!
+	Aí, Lelê!
+	Olha aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's your favorite
-	ball!
+	É a sua bola favorita!
 	"""
 	keyWait
 		any = false
@@ -36,7 +36,7 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	mugshotHide
 	msgOpen
-	"... *aur?*"
+	"... Ôur?"
 	keyWait
 		any = false
 	clearMsg
@@ -47,22 +47,20 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ooh! She responded!"
+	"Ah! Ela reagiu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,Fanny,I'm gonna
-	roll this ball over
-	here.
+	Tá, Lelê, eu vou
+	rolar a bola pra cá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you want it,
-	you're gonna have
-	to go get it!
+	Se quiser ela, vai
+	ter que ir pegar!
 	"""
 	keyWait
 		any = false
@@ -72,7 +70,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Look!"
+	"Olha!"
 	keyWait
 		any = false
 	end
@@ -89,11 +87,11 @@ script 4 mmbn6 {
 	"."
 	wait
 		frames = 30
-	" *aur!!*"
+	" Ôur!!"
 	keyWait
 		any = false
 	clearMsg
-	"*aur! aur! aur!*"
+	"Ôur! Ôur! Ôur!"
 	keyWait
 		any = false
 	end
@@ -106,8 +104,8 @@ script 5 mmbn6 {
 		timer = 0
 		value = 128
 	"""
-	Alright!!
-	We did it!
+	Beleza!!
+	Deu certo!
 	"""
 	keyWait
 		any = false
@@ -119,8 +117,8 @@ script 5 mmbn6 {
 		value = 130
 	clearMsg
 	"""
-	Now we can keep
-	on going!
+	Agora a gente
+	pode entrar lá!
 	"""
 	keyWait
 		any = false
@@ -131,16 +129,16 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The control room is
-	beyond this door.
+	A sala de controle fica
+	logo atrás dessa porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've gotta hurry!
-	Mick and the others
-	are in danger!
+	Não bora perder tempo!
+	O Mick e os outros tão
+	em perigo!
 	"""
 	keyWait
 		any = false

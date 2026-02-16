@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"Go down the ladder?\n"
+	"Descer a escada?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -14,7 +14,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -23,7 +23,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -46,8 +46,9 @@ script 1 mmbn6s {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	NO UNAUTHORIZED
-	PERSONNEL!
+	PROIBIDA A ENTRADA
+	DE PESSOAL
+	NÃO-AUTORIZADO!
 	"""
 	keyWait
 		any = false
@@ -63,94 +64,95 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"I'm a lawyer here."
-	keyWait
-		any = false
-	clearMsg
-	"JUSTICE WINS!!"
-	keyWait
-		any = false
-	clearMsg
-	"That's my motto!"
+	"Eu sou um advogado aqui."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...What?
-	FRAUD!
+	"O JUSTO PREVALECERÁ!"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tell me all about
-	it...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"I see... I see..."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	A fraud that prayed
-	on the pure heart
+	Esse é o meu lema!
+	... Bem, eu peguei
+	emprestado de alguém.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of a child who
-	simply wanted to
-	lose weight...
+	... O quê?
+	FRAUDE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This will not be
-	forgiven....
-	NEEEEEVVVVVAAAAHH!
+	Fale mais...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Uhum... Entendi..."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Uma fraude que se
+	aproveitou do coração
+	puro de uma criança
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Leave this all up
-	to me!
+	que simplesmente
+	queria perder peso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll even get some
-	of my lawyer friends
-	to help on the case!
+	Isso não tem perdão...
+	NÃO TEM PERDÃÃÃÃOOO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll bury that
-	merchant up to his
-	CPU in lawyer Navis!
+	Deixa isso tudo comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We are going to make
-	that crook cry
-	uncle!
+	Vou até chamar uns
+	amigos advogados pra
+	ajudarem no caso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is another
-	time where
-	JUSTICE WINS!!
+	Juro que esse vendedor
+	vai ficar como HD lotado
+	de Navis advogados!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Nós VAMOS fazer esse	
+	patife chorar por perdão!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Porque sempre...
+	O JUSTO PREVALECERÁ!!
 	"""
 	keyWait
 		any = false
@@ -161,63 +163,59 @@ script 21 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	A fraud that prayed
-	on the pure heart
+	Uma fraude que se
+	aproveitou do coração
+	puro de uma criança
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of a child who
-	simply wanted to
-	lose weight...
+	que simplesmente
+	queria perder peso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This will not be
-	forgiven....
-	NEEEEEVVVVVAAAAHH!
+	Isso não tem perdão...
+	NÃO TEM PERDÃÃÃÃOOO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Leave this all up
-	to me!
+	Pode deixar tudo comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll even get some
-	of my lawyer friends
-	to help on the case!
+	Vou até chamar uns
+	amigos advogados pra
+	ajudarem no caso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll bury that
-	merchant up to his
-	CPU in lawyer Navis!
+	Juro que esse vendedor
+	vai ficar como HD lotado
+	de Navis advogados!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We are going to make
-	that crook cry
-	uncle!
+	Nós VAMOS fazer esse	
+	patife chorar por perdão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is another
-	time where
-	JUSTICE WINS!!
+	Porque sempre...
+	O JUSTO PREVALECERÁ!!
 	"""
 	keyWait
 		any = false
@@ -241,84 +239,86 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"You took my request?"
+	"Você que pegou\no meu pedido?"
 	keyWait
 		any = false
 	clearMsg
-	"Thank you so much..."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I want you to stop
-	my brother's virus
-	research.
-	"""
+	"Muito obrigada..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sleeping,eating...
-	It's virus this,
-	virus that...
+	Eu quero que você
+	pare a pesquisa de
+	vírus do meu irmão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to stop
-	him soon... He is
-	making a weird
+	Na hora de dormir, na
+	do jantar... É só "vírus"
+	isso, "vírus" aquilo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	virus that would
-	cause the world a
-	ton of headaches...
+	Você tem que fazer ele
+	parar... Ele tá criando
+	um vírus esquisito que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't even want
-	to think about it!
+	vai dar uma super dor
+	de cabeça pro mundo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My brother's Navi
-	is currently in
-	Green Area1.
+	Ai, não gosto
+	nem de pensar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That Navi is
-	assisting my
-	brother's research!
+	O Navi do meu irmão tá
+	na Área Verde 1 agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can persuade
-	the Navi,maybe you
+	Esse Navi tá ajudando
+	o meu irmão com a
+	pesquisa dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can talk some sense
-	into my brother!
+	Se você conseguir
+	persuadir o Navi,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thanks for helping."
+	"""
+	talvez consiga fazer
+	o meu irmão ouvir à
+	voz da razão!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Desde já, obrigada
+	pela ajuda.
+	"""
 	keyWait
 		any = false
 	end
@@ -328,28 +328,28 @@ script 23 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	My brother's Navi
-	should be in
-	Green Area1.
+	O Navi do meu irmão deve
+	estar na Área Verde 1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can persuade
-	that Navi,maybe you
+	Se você conseguir
+	persuadir o Navi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can stop my
-	brother's research!
+	talvez consiga fazer
+	o meu irmão esquecer
+	essa pesquisa dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please help!"
+	"Por favor, me ajuda!"
 	keyWait
 		any = false
 	end
@@ -359,28 +359,28 @@ script 24 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I just got a call
-	from my brother...
+	O meu irmão acabou
+	de me ligar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't know he
-	was researching to
-	help the world!
+	Eu não sabia que a
+	pesquisa dele era pra
+	ajudar o mundo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks to you,
-	I know the truth!
+	Graças a você, agora,
+	eu sei a verdade!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thank you so much!"
+	"Muito obrigada!"
 	keyWait
 		any = false
 	clearMsg
@@ -392,7 +392,7 @@ script 24 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printChip
@@ -411,8 +411,9 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = Girl
 	"""
-	I can't thank you
-	enough!
+	Isso nem chega perto
+	de ser suficiente pra
+	agradecer!
 	"""
 	keyWait
 		any = false
@@ -420,14 +421,14 @@ script 24 mmbn6 {
 		flag = 4668
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -439,9 +440,8 @@ script 25 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I have to learn
-	more about
-	viruses...
+	Eu tenho que aprender
+	mais sobre vírus...
 	"""
 	keyWait
 		any = false

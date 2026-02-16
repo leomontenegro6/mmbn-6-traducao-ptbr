@@ -6,17 +6,17 @@ script 0 mmbn6 {
 		flag = 1356
 	msgOpen
 	"""
-	The clione is a
-	mollusk also known
-	as a "sea angel".
+	O clione é um molusco,
+	também conhecido como
+	"anjo-do-mar".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're floating to
-	and fro with their
-	strange shape.
+	Há vários flutuando pra
+	lá e pra cá com o seu
+	formato esquisito.
 	"""
 	keyWait
 		any = false
@@ -84,22 +84,21 @@ script 1 mmbn6 {
 	flagSet
 		flag = 1357
 	msgOpen
-	"This is a king crab."
+	"É um caranguejo-real."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even though it's
-	called a king,it's
-	actually closer to
+	Apesar do nome, na
+	realidade, é próximo
+	ao caranguejo-eremita.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a hermit crab.
-	Maybe it thinks too
-	highly of itself!
+	Acho que ele
+	se acha muito!
 	"""
 	keyWait
 		any = false
@@ -168,25 +167,22 @@ script 2 mmbn6 {
 		flag = 1358
 	msgOpen
 	"""
-	The nautilus is not
-	a new kid on the
-	block.
+	Não é de hoje, o náutilo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fossil records show
-	that these animals
-	have been on this
+	Registros fósseis
+	mostram que esses
+	animais habitam a Terra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	planet since
-	hundreds of millions
-	of years ago!
+	desde centenas de
+	milhões de anos atrás!
 	"""
 	keyWait
 		any = false
@@ -255,21 +251,29 @@ script 3 mmbn6 {
 		flag = 1351
 	msgOpen
 	"""
-	There is a recording
-	playing.
+	Uma gravação está
+	sendo reproduzida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Piranhas have very\n sharp and pointed\n triangular teeth."
+	"""
+	"As piranhas têm dentes
+	 triangulares afiados e
+	 pontiagudos.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Sometimes,a school\n will eat a whole\n cow or sheep that"
+	"""
+	 Por vezes, cardumes
+	 comem vacas ou ovelhas
+	 inteiras que, por acaso,
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" happens to fall\n into their river!\""
+	" acabam caindo no rio!\""
 	keyWait
 		any = false
 	clearMsg
@@ -337,21 +341,33 @@ script 4 mmbn6 {
 		flag = 1352
 	msgOpen
 	"""
-	There is a recording
-	playing.
+	Uma gravação está
+	sendo reproduzida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Sunfish are found\n in warm waters,such\n as the tropics."
+	"""
+	"Peixes-lua são achados
+	 em águas mornas,
+	 como nos trópicos.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" They say the reason\n why sunfish are so\n regionalized is"
+	"""
+	 Dizem que o motivo para
+	 os peixes-lua se tornarem
+	 tão regionalizados
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" because their tails\n have become too\n short.\""
+	"""
+	 é devido ao fato das
+	 caudas deles terem
+	 ficado curtas demais."
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -419,17 +435,25 @@ script 5 mmbn6 {
 		flag = 1353
 	msgOpen
 	"""
-	There is a recording
-	playing.
+	Uma gravação está
+	sendo reproduzida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The tropical fish\n in this tank are\n called \"angelfish\"."
+	"""
+	"Os peixes tropicais no
+	 tanque são conhecidos
+	 como 'peixes-anjo'.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" They are a favorite\n here because they\n are very friendly.\""
+	"""
+	 São muito queridos
+	 aqui porque são
+	 muito amigáveis."
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -497,17 +521,24 @@ script 6 mmbn6 {
 		flag = 1354
 	msgOpen
 	"""
-	There is a recording
-	playing.
+	Uma gravação está
+	sendo reproduzida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Tropical fish,like\n their name suggest,\n live in warm water."
+	"""
+	"Peixes tropicais, como
+	 o nome sugere, vivem
+	 em águas quentinhas.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" They like their\n water around 26\n degrees Celsius.\""
+	"""
+	 Eles gostam da água
+	 a 26 graus Celsius."
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -575,21 +606,31 @@ script 7 mmbn6 {
 		flag = 1355
 	msgOpen
 	"""
-	There is a recording
-	playing.
+	Uma gravação está
+	sendo reproduzida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"They say,\"Slow and\n steady wins the\n race\",and"
+	"""
+	"Como dizem, 'devagar
+	e sempre, você vence a
+	corrida', e a tartaruga
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" the turtle is no\n stranger to being\n steady."
+	"""
+	 é a paciência em
+	 pessoa... er, animal.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" This animal has\n quite a long life\n span!\""
+	"""
+	 Esta criatura vive por
+	 muito, mas muito tempo!"
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -659,21 +700,21 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wow!"
+	"Caramba!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are all sorts
-	of things that live
-	in the water!
+	Existe mesmo todo
+	o tipo de coisa
+	vivendo na água!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I could stare at
-	them all day!
+	Eu podia ficar olhando
+	pra elas o dia todo!
 	"""
 	keyWait
 		any = false
@@ -683,7 +724,7 @@ script 8 mmbn6 {
 	controlLock
 	soundPlay
 		track = 335
-	"*ding,dong,\n    ding,doooong*"
+	"Dim Dom\n    Dim Doooom"
 	wait
 		frames = 98
 	soundEnableTextSFX
@@ -693,29 +734,28 @@ script 8 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Oh,an announcement!"
+	"Ah, um anúncio!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Attention all
-	visitors.
+	Atenção, visitantes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Dolphin and
-	Seal's Show will
-	begin shortly.
+	O Show do Golfinho
+	e da Foca está
+	prestes a começar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We hope to see you
-	there!
+	Esperamos ver
+	todos vocês lá!
 	"""
 	keyWait
 		any = false
@@ -723,15 +763,15 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sounds like there's
-	a show!
+	Parece que vai
+	ter um show!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It might be fun!
-	Let's check it out!
+	Pode ser divertido!
+	Bora lá ver!
 	"""
 	keyWait
 		any = false
@@ -756,16 +796,16 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	msgOpen
 	"""
-	The Aquarium's
-	information board.
+	É um quadro de
+	informações do Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like the
-	show's stage is all
-	the way in the back.
+	Parece que o palco
+	do show fica bem
+	lá no fundo.
 	"""
 	keyWait
 		any = false
@@ -774,13 +814,15 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	msgOpen
 	"""
-	The Aquarium's
-	reception desk.
+	É a recepção do Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Adults: 1000 zenny\n Kids: 500 zenny\""
+	"""
+	"Adultos: 1000 Zenns
+	 Crianças: 500 Zennys
+	"""
 	keyWait
 		any = false
 	end
@@ -788,16 +830,16 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	msgOpen
 	"""
-	It's the jellyfish
-	tank...
+	É o tanque das
+	águas-vivas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's empty now.
-	Looks like they all
-	escaped...
+	Está vazio agora.
+	Parece que todas
+	elas escaparam...
 	"""
 	keyWait
 		any = false
@@ -806,17 +848,17 @@ script 13 mmbn6 {
 script 14 mmbn6 {
 	msgOpen
 	"""
-	The jellyfish are
-	happily puff_puffing
-	around the tank,but
+	As águas-vivas empurram
+	água alegremente no
+	tanque, mas, às vezes,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sometimes,the half_
-	transparent animals
-	just float around.
+	esses animais
+	semitransparentes só
+	flutuam, sem se mexer.
 	"""
 	keyWait
 		any = false

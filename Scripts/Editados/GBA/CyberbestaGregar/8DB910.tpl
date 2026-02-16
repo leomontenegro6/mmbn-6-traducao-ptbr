@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Piece of cake!"
+	"Moleza!"
 	keyWait
 		any = false
 	end
@@ -15,16 +15,15 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Alright! The
-	system's back
-	to normal!
+	Beleza! O sistema
+	voltou ao normal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How is it on your
-	side,Lan?
+	Como tão as coisas
+	aí do seu lado, Lan?
 	"""
 	keyWait
 		any = false
@@ -37,17 +36,17 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The elevator's
-	moving again!
+	O elevador tá
+	funcionando de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thank you,MegaMan!"
+	"Valeu, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
-	"OK,off to Sky Town!"
+	"OK, pro Distrito Céu!"
 	keyWait
 		any = false
 	end

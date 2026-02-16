@@ -86,9 +86,9 @@ script 18 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You got all the
-	stamps! Now,off to
-	Central Pavilion!
+	Você reuniu todos
+	os carimbos! Agora,
+	pro Pavilhão Central!
 	"""
 	keyWait
 		any = false
@@ -102,9 +102,9 @@ script 22 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack me in,Lan! We
-	have to beat the
-	ex_WWW members!
+	Me conecta, Lan!
+	A gente tem que vencer
+	os ex-membros da WWW!
 	"""
 	keyWait
 		any = false
@@ -115,9 +115,9 @@ script 23 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	After them! The
-	ex_WWW members
-	are getting away!
+	Atrás deles!
+	Os ex-membros da WWW
+	tão fugindo!
 	"""
 	keyWait
 		any = false
@@ -163,15 +163,15 @@ script 29 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is it,the final
-	battle,Lan!
+	É isso, Lan...
+	A batalha final!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time to find Dr.Wily
-	and finish this!
+	Vamos achar o Dr. Wily
+	e pôr um fim nisso!
 	"""
 	keyWait
 		any = false
@@ -182,9 +182,9 @@ script 30 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go see all the
-	pavilions and get
-	all the stamps!
+	Vamos visitar todos
+	os pavilhões e reunir
+	os carimbos!
 	"""
 	keyWait
 		any = false
@@ -198,9 +198,9 @@ script 91 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Let me at 'em,Lan!
-	I'm burning for one
-	hot battle!
+	Vamos nessa, Lan!
+	Eu tô me ardendo
+	pra lutar!
 	"""
 	keyWait
 		any = false
@@ -211,9 +211,9 @@ script 92 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Your operating
-	sparks a surge of
-	power within me...
+	A sua operação
+	acende uma centelha
+	no meu sistema...
 	"""
 	keyWait
 		any = false
@@ -224,9 +224,9 @@ script 93 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	Slash! Any virus in
-	my way is asking for
-	a slicing!
+	Fuish! Qualquer vírus
+	que aparecer na minha
+	frente será fatiado!
 	"""
 	keyWait
 		any = false
@@ -237,9 +237,9 @@ script 94 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	My scythe cries...
-	It wants to delete!!
-	Hyahahahahaha!!
+	A minha foice grita...
+	Ela quer matar!!
+	Hya ha ha ha ha ha!!
 	"""
 	keyWait
 		any = false
@@ -250,9 +250,9 @@ script 95 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Is it departure
-	time!? I want to be
-	on time! Choo,choo!!
+	Já é hora de deixar a
+	estação?! Respeitemos o
+	cronograma! Tchú-tchúú!!
 	"""
 	keyWait
 		any = false
@@ -263,9 +263,9 @@ script 96 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	I don't fight a lot,
-	drip! Real battles
-	scare me... drip!
+	Eu não sou de brigar,
+	xuá! Lutas de verdade
+	me dão medo... xuá!
 	"""
 	keyWait
 		any = false
@@ -276,9 +276,8 @@ script 97 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Lan,your operating
-	gives me such an
-	awesome feeling!
+	Lan, a sua operação me
+	faz sentir força total!
 	"""
 	keyWait
 		any = false
@@ -289,8 +288,7 @@ script 98 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	I can feel
-	the wind...
+	Eu sinto o vento...
 	"""
 	keyWait
 		any = false
@@ -301,9 +299,9 @@ script 99 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Whiiiiiir!
-	C'mon! Let's go
-	break some viruses!
+	Vrrrrrrrr!
+	Vamos lá! Hora de
+	furar uns vírus!
 	"""
 	keyWait
 		any = false
@@ -314,9 +312,9 @@ script 100 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Gahahahaha!!
-	Let's go clean up
-	some cybertrash!!
+	Ga ha ha ha ha!!
+	Vamos lá limpar
+	esse cyberlixo!!
 	"""
 	keyWait
 		any = false
@@ -327,9 +325,9 @@ script 101 mmbn6 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Only you and Chaud
-	can operate me well.
-	Don't let me down...
+	Somente você e Chaud
+	conseguem me operar bem.
+	Não me decepcione...
 	"""
 	keyWait
 		any = false

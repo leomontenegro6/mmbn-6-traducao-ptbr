@@ -15,60 +15,61 @@ script 0 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = MrProgGreen
-	"OWWWW! OWWWW!"
+	"AAAAAI! AAAAAI!"
 	keyWait
 		any = false
 	clearMsg
-	"OWWW! OWWW! OWWW!"
+	"AAAAI! AAAAI! AAAAI!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Relax!
-	What's the matter!
+	Calma!
+	Qual é o problema?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"IT'S AWFUL!"
+	"É TERRÍVEL!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WAS SHOCKED TO SEE
-	A NAVI BREAK IN,AND
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	THEN A FISHPRGM CAME
-	OUT OF THE TANK!!
+	EU FIQUEI EM CHOQUE!
+	UM NAVI INVADIU AQUI,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I TRIED TO ESCAPE
-	THROUGH THE EMERGENCY
+	E, DEPOIS,
+	OS PROGS-PEIXE
+	SAÍRAM DO TANQUE!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EXIT,BUT THE PATH
-	WAS BLOCKED!!
+	EU TENTEI FUGIR PELA
+	SAÍDA DE EMERGÊNCIA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT'S WHEN I BEGAN
-	TO PANIC!!
+	MAS O CAMINHO
+	ESTAVA BARRADO!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	DAÍ, EU COMECEI A
+	ENTRAR EM PÂNICO!!
 	"""
 	keyWait
 		any = false
@@ -76,9 +77,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Is there any way
-	to make you calm
-	down?
+	Tem alguma coisa
+	que eu possa fazer
+	pra te acalmar?
 	"""
 	keyWait
 		any = false
@@ -86,39 +87,37 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	...I GUESS IF WE
-	RETURN THE FISHPRGM
-	TO THE TANK...
+	... BOM, DEVOLVER
+	OS PROGS-PEIXE AOS
+	TANQUES, TALVEZ...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT HOW DO WE
-	SEND THEM BACK...?
+	MAS COMO FAZER ISSO...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I SEEM TO HAVE
-	FORGOTTEN
-	"WHAT FISH I AM!?"
+	EU PAREÇO TER PERDIDO
+	OS DADOS "QUE TIPO
+	DE PEIXE EU SOU?!"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SINCE EVERY FISH
-	HAS ITS OWN TANK,
+	COMO CADA PEIXE TEM
+	SEU PRÓPRIO TANQUE,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE'D HAVE TO PUT
-	THEM BACK IN THE
-	RIGHT TANK...
+	TEMOS QUE DEVOLVÊ-LOS
+	AOS TANQUES CERTOS...
 	"""
 	keyWait
 		any = false
@@ -126,9 +125,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	So we have to
-	guess which is the
-	right tank...?
+	Então a gente tem
+	que descobrir quais
+	são os tanques certos...?
 	"""
 	keyWait
 		any = false
@@ -140,44 +139,44 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Even though he
-	doesn't remember,
-	fish are fish,right?
+	Sei que ele não
+	lembra, mas peixes
+	são peixes, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet there are
-	hints to where the
+	Aposto que dá pra
+	gente achar pistas de
+	qual peixe vai onde
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fish go if we look
-	around the Aquarium!
+	dando uma olhada
+	no Aquário!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you want a hint
-	about where the fish
+	Quando quiser
+	essas pistas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	go,press the
-	L Button to call me!
+	é só apertar
+	"L" e me chamar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll help you out,
-	OK?
+	Eu te ajudo, falou?
 	"""
 	keyWait
 		any = false
@@ -191,46 +190,44 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	THERE IS ONE MORE
-	THING I HAVE TO
-	TELL YOU...
+	HÁ MAIS UMA COISA QUE
+	EU TENHO A CONTAR...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF A FISHPRGM GETS
-	KNOCKED INTO A
-	WATERWAY,
+	SE O PROG-PEIXE
+	ACABAR CAINDO EM
+	UMA HIDROVIA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A SHARK VIRUS
-	WILL ATTACK IT.
+	UM VÍRUS-TUBARÃO
+	IRÁ ATACÁ-LO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF ATTACKED BY
-	A SHARK VIRUS,
+	SE ISSO ACONTECER,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A FISHPRGM WILL
-	BE CARRIED OFF TO
-	SOMEWHERE ELSE.
+	O PROG-PEIXE SERÁ
+	CARREGADO PARA SEU
+	PONTO DE ORIGEM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO BE CAREFUL OF
-	THE SHARK VIRUSES!
+	ENTÃO CUIDADO COM
+	OS VÍRUS-TUBARÃO!
 	"""
 	keyWait
 		any = false
@@ -238,17 +235,16 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Gotcha!
-	Leave that
-	up to me!
+	Beleza!
+	Pode deixar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Let's start
-	looking for some
-	FishPrgms!!
+	... Bora começar a
+	procurar por esses
+	Programas-Peixe!!
 	"""
 	keyWait
 		any = false
@@ -259,62 +255,59 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	...I GUESS IF WE
-	RETURN THE FISHPRGM
-	TO THE TANK...
+	... BOM, SE DEVOLVERMOS
+	OS PROGS-PEIXE AOS
+	TANQUES...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT HOW DO WE
-	SEND THEM BACK...?
+	MAS COMO FAZER ISSO...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I SEEM TO HAVE
-	FORGOTTEN
-	"WHAT FISH I AM!?"
+	EU PAREÇO TER
+	ESQUECIDO "QUE TIPO
+	DE PEIXE EU SOU?!"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE IS ONE MORE
-	THING I HAVE TO
-	TELL YOU...
+	E HÁ MAIS UMA COISA
+	QUE EU TENHO A CONTAR...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SHARK VIRUSES
-	WILL ATTACK
-	FISHPRGMS.
+	VÍRUS-TUBARÃO
+	ATACARÃO OS
+	PROGS-PEIXE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF ATTACKED BY
-	A SHARK VIRUS,
+	SE ISSO ACONTECER,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A FISHPRGM WILL
-	BE CARRIED OFF TO
-	SOMEWHERE ELSE.
+	O PROG-PEIXE SERÁ
+	CARREGADO PARA SEU
+	PONTO DE ORIGEM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO BE CAREFUL OF
-	THE SHARK VIRUSES!
+	ENTÃO CUIDADO COM
+	OS VÍRUS-TUBARÃO!
 	"""
 	keyWait
 		any = false
@@ -324,22 +317,21 @@ script 2 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = MrProgGreen
-	"OH!"
+	"AH!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THANKS TO YOU,
-	THINGS ARE BACK TO
-	NORMAL!!
+	GRAÇAS A VOCÊ, TUDO
+	VOLTOU AO NORMAL!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT OTHER PLACES ARE
-	STILL IN A PANIC,SO
-	PLEASE BE CAREFUL!
+	MAS OUTROS LUGARES
+	CONTINUAM EM PÂNICO,
+	ENTÃO TOME CUIDADO!
 	"""
 	keyWait
 		any = false

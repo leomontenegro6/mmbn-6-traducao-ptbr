@@ -2,15 +2,15 @@
 @size 11
 
 script 0 mmbn6s {
-	"LanFldr"
+	"PstaLan"
 	end
 }
 script 1 mmbn6s {
-	"ExpoFldr"
+	"PstaExpo"
 	end
 }
 script 2 mmbn6s {
-	"GiftFldr"
+	"PstaPsnt"
 	end
 }
 script 3 mmbn6s {
@@ -22,7 +22,7 @@ script 4 mmbn6s {
 	end
 }
 script 5 mmbn6s {
-	"SoulFldr"
+	"PstaAlma"
 	end
 }
 script 6 mmbn6s {
@@ -30,10 +30,10 @@ script 6 mmbn6s {
 	end
 }
 script 7 mmbn6s {
-	"RandFldr"
+	"PstaAlea"
 	end
 }
 script 10 mmbn6s {
-	"Pack"
+	"Mochila"
 	end
 }

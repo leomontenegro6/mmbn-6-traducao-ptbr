@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Ah! A fish jumped
-	out of the water!
+	Ah! Acabou de pular
+	um peixe da água!
 	"""
 	keyWait
 		any = false
@@ -15,30 +15,25 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	Come on. If you want
-	fish,you can see all
-	the fish you want
+	Ai, vem! Se quer ver
+	peixe, tem um monte
+	no Aquário.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"inside the Aquarium."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Man
 	"""
-	What are you talking
-	about!?
+	Que conversa é essa?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A real fish has a
-	charm that a fish in
-	a tank doesn't have!
+	Peixes de verdade têm
+	um charme que peixes
+	de tanque não têm!
 	"""
 	keyWait
 		any = false
@@ -49,44 +44,43 @@ script 1 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Why is it men like
-	wild plants and
-	animals so much...?
+	Por que é que homens
+	gostam tanto de plantas
+	e animais selvagens...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A fish is a fish,so
-	why does it matter
-	where you see it?
+	Peixe é peixe.
+	Não importa onde
+	se olhe eles, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Man
-	"Well,that's..."
+	"Bom, é que..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't fish for
-	the fish at the
-	Aquarium,right?
+	Não dá pra pescar
+	no Aquário, dá?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungWoman
-	"That's true..."
+	"É, verdade..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	*sigh* I guess it's
-	beyond me...
+	Ai, ai... Acho que eu
+	nunca vou entender...
 	"""
 	keyWait
 		any = false
@@ -97,8 +91,8 @@ script 2 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	A stuffed animal!
-	A stuffed animal!
+	Bicho de pelúcia!
+	Bicho de pelúcia!
 	"""
 	keyWait
 		any = false
@@ -113,14 +107,14 @@ script 3 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	My granddaughter's
-	taken a liking to
-	the Aquarium.
+	A minha neta se
+	apaixonou forte
+	pelo Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ho,ho,ho!"
+	"Ho ho ho!"
 	keyWait
 		any = false
 	end
@@ -130,25 +124,25 @@ script 4 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Originally,we came
-	here to make our
-	grandchild happy,but
+	No começo, nós só
+	vínhamos aqui pra
+	deixar nossa neta feliz,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	now,even grandpa and
-	I are caught up in
-	the Aquarium.
+	mas, agora, até eu e
+	o meu marido viramos
+	fãs do Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure we'll be
-	back other weekends
-	too.
+	Com certeza vamos
+	voltar em outros
+	fins de semana também.
 	"""
 	keyWait
 		any = false
@@ -159,9 +153,9 @@ script 10 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Look! There's some
-	clownfish over there
-	in the waves!!
+	Olha! Tem um
+	peixe-palhaço ali,
+	nas ondas!!
 	"""
 	keyWait
 		any = false
@@ -169,8 +163,8 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	Huh!?
-	Where!? Where!?
+	Quê?!
+	Onde? Onde?!
 	"""
 	keyWait
 		any = false
@@ -181,8 +175,7 @@ script 11 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Where are the
-	clownfish?
+	Cadê o peixe-palhaço?
 	"""
 	keyWait
 		any = false
@@ -190,22 +183,21 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Man
 	"""
-	Look!
-	They're over there!
-	Over there!
+	Ali!
+	Ele tá bem ali! Olha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungWoman
-	"I can't see them!"
+	"Eu não tô vendo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you sure you're
-	not seeing things?
+	Você não tá
+	alucinando, não?
 	"""
 	keyWait
 		any = false
@@ -216,8 +208,8 @@ script 12 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	Mermaid!
-	Mermaid!
+	Sereia!
+	Sereia!
 	"""
 	keyWait
 		any = false
@@ -235,15 +227,15 @@ script 13 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Phew...
-	Boy,I sure am tired!
+	Ufa...
+	Nossa, estou tão cansado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Care to take a
-	break...?
+	Podemos fazer
+	uma pausa...?
 	"""
 	keyWait
 		any = false
@@ -254,16 +246,16 @@ script 14 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Owwww...
-	My hip is hurting.
+	Aaaaai...
+	O meu quadril tá só dor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All this standing
-	and walking is
-	catching up to me...
+	Toda essa caminhada
+	e ficar de pé está
+	me matando...
 	"""
 	keyWait
 		any = false
@@ -274,22 +266,22 @@ script 20 mmbn6 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Due to the weird
-	weather,my customers
-	all went home.
+	Devido ao clima anormal,
+	todos os meus clientes
+	foram embora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And just when I
-	thought I'd gotten
-	them back,too!
+	E justo quando eu
+	pensei que tinha
+	reconquistado eles!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's not fair!"
+	"É tão injusto!"
 	keyWait
 		any = false
 	end
@@ -299,17 +291,17 @@ script 40 mmbn6 {
 		mugshot = Woman
 	msgOpen
 	"""
-	This time,it was Sky
-	Town that was
-	terrorized.
+	Desta vez, foi o
+	Distrito Céu que
+	foi aterrorizado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Society is getting
-	more dangerous,
-	that's for sure.
+	A sociedade está cada
+	vez mais perigosa, não
+	dá pra negar.
 	"""
 	keyWait
 		any = false
@@ -320,16 +312,16 @@ script 41 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Water is half price
-	today,so...
+	A água está com 50%
+	de desconto hoje...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	grandma had me come
-	out here to buy her
-	some.
+	então a minha mulher
+	me fez viz aqui comprar
+	um pouco para ela.
 	"""
 	keyWait
 		any = false
@@ -340,16 +332,16 @@ script 42 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Um... I think I'm
-	gonna buy 3 bottles
-	all at once.
+	Hmm... Acho que eu vou
+	comprar três garrafas
+	de uma vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't go wrong
-	with buying in bulk!
+	Comprar antecipando
+	o futuro é o que há!
 	"""
 	keyWait
 		any = false
@@ -360,8 +352,7 @@ script 43 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	... You're pretty
-	cute...
+	... Que lindeza...
 	"""
 	keyWait
 		any = false
@@ -369,9 +360,8 @@ script 43 mmbn6 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	Don't be silly!
-	People are
-	staring at us!
+	Ai, para, bobo!
+	Tem gente olhando!
 	"""
 	keyWait
 		any = false
@@ -379,23 +369,22 @@ script 43 mmbn6 {
 	mugshotShow
 		mugshot = Man
 	"""
-	Yup,you really are
-	cute!
+	É, você é muito
+	lindinho mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... You cute,little
-	dolphin you! You're
-	such a cute design!
+	... Seu golfinho fofo!
+	Olha como ele é bonitinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungWoman
-	"W_Wait a second!!"
+	"U-ué?!!"
 	keyWait
 		any = false
 	end
@@ -417,31 +406,31 @@ script 50 mmbn6 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Weeeelcome!
-	How about taking
-	home one of our
+	Beeeem-vindooo!
+	Que tal levar pra
+	casa um dos nossos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	adorable stuffed
-	animals?
+	fofíssimos bichos
+	de pelúcia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Huh?
-	The Undernet door?
+	... Hã?
+	Porta na Undernet?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... S_Sorry,but I
-	don't know what you
-	are talking about.
+	... D-desculpa, mas
+	eu não sei do que
+	você tá falando.
 	"""
 	keyWait
 		any = false
@@ -455,16 +444,15 @@ script 51 mmbn6 {
 		mugshot = Maid
 	msgOpen
 	"""
-	... I really don't
-	know anything about
-	the Undernet!
+	... É sério, eu não
+	sei nada da Undernet!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,but I can't
-	help you...
+	Desculpa, mas eu não
+	posso te ajudar...
 	"""
 	keyWait
 		any = false
@@ -478,101 +466,100 @@ script 52 mmbn6 {
 		mugshot = Maid
 	msgOpen
 	"""
-	... Do you want to
-	know that badly?
+	... Você quer mesmo
+	saber tanto assim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,I'll tell
-	you.
+	Tá bom, eu falo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's right..."
+	"É isso mesmo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The one that knows
-	the Undernet door
-	password...
+	A pessoa que possui
+	a senha da porta da
+	Undernet...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... is this bad
-	girl right here!
+	... é esta malandrinha
+	aqui mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"You mean... You!?"
+	"Quer dizer... você?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Maid
 	"""
-	... I was a bit of
-	a rebel back then.
+	... Eu tive uma
+	juventude meio rebelde.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I rebelled against,
-	well,everything!
+	Me rebelava contra...
+	bom, tudo, sabe?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,I was a total
-	mess,doing anything
-	I felt like.
+	É, eu era completamente
+	vida louca, fazendo o
+	que dava na telha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'm different
-	now.
+	Mas eu mudei.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really know the
-	joy of living now...
+	Agora, eu entendo
+	de verdade a alegria
+	de viver...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	thanks to working
-	at this store.
+	graças ao meu trabalho
+	nesta loja aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The customers'
-	smiles fill me with
-	a sense of purpose.
+	Os sorrisos dos
+	fregueses me enchem
+	de propósito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... That's why I
-	decided to leave
-	the past behind.
+	... E foi por isso que
+	eu decidi deixar o
+	passado pra trás.
 	"""
 	keyWait
 		any = false
@@ -580,9 +567,9 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I_I'm sorry. I
-	didn't mean to bring
-	back bad memories...
+	D-desculpa. Eu não
+	queria te fazer lembrar
+	dessas coisas ruins...
 	"""
 	keyWait
 		any = false
@@ -590,47 +577,46 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	No,no,it's OK.
-	Really.
+	Não, não, tá tudo bem.
+	É sério.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm much better now,
-	so not to worry...
+	Eu tô bem melhor
+	agora. Não precisa
+	se preocupar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... So you want to
-	know the password
-	to the door,right?
+	... Enfim, você quer
+	saber a senha, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,I'll tell
-	you.
+	Tudo bem, eu conto.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Moneyhats\"."
+	"\"HumilhaGeral\"."
 	keyWait
 		any = false
 	clearMsg
-	"That's the password."
+	"Essa é a senha."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	T_Thanks...
-	Ahahaha...
+	V-valeu...
+	Ah ha ha ha...
 	"""
 	keyWait
 		any = false
@@ -644,11 +630,11 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"\"Moneyhats\"."
+	"\"HumilhaGeral\"."
 	keyWait
 		any = false
 	clearMsg
-	"That's the password."
+	"Essa é a senha."
 	keyWait
 		any = false
 	end
@@ -658,17 +644,15 @@ script 55 mmbn6 {
 		mugshot = Woman
 	msgOpen
 	"""
-	That Mayor Cain.
-	He's a good_looking
-	man.
+	Aquele Prefeito Cain...
+	Homem bonitão, ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if he would
-	ever buy any Fish
-	Sticks from me...
+	Será que ele compraria
+	palitos de peixe de mim?
 	"""
 	keyWait
 		any = false
@@ -679,17 +663,16 @@ script 56 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	That Navi in the
-	Expo commercial's
-	great!
+	Aquele Navi do comercial
+	da Exposição é irado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He looks so cool and
-	strong! I was so
-	impressed!
+	Ele parece tão legal
+	e forte! Eu fiquei
+	super admirado!
 	"""
 	keyWait
 		any = false
@@ -700,31 +683,31 @@ script 57 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Hey,have you seen
-	the Expo commercial?
+	Ei, viu o comercial
+	da Exposição?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Man
-	"Yeah,I've seen it!"
+	"Aham, vi, sim!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	The Navi in that
-	commercial seemed so
-	strong and reliable.
+	O Navi no comercial
+	parecia tão forte e
+	confiável.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Unlike SOMEONE I
-	know...
+	Diferente de um CERTO
+	ALGUÉM que eu conheço...
 	"""
 	keyWait
 		any = false
@@ -732,8 +715,8 @@ script 57 mmbn6 {
 	mugshotShow
 		mugshot = Man
 	"""
-	H_Hey! What's that
-	supposed to mean!?
+	A-aí! O que você quer
+	dizer com isso?!
 	"""
 	keyWait
 		any = false
@@ -744,9 +727,8 @@ script 58 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Aaah!! Noooo!!
-	A Navi is going
-	nuts!
+	Aaah!! Nãããão!!
+	Tem um Navi doido à solta!
 	"""
 	keyWait
 		any = false
@@ -757,29 +739,29 @@ script 60 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Wow,your life really
-	does flash before
-	your eyes...
+	Nossa a vida realmente
+	passa diante dos
+	nossos olhos...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"A_Are you OK?"
+	"V-você tá bem?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	... Yes. Just a few
-	scratches is all.
+	... Tô. Só me arranhei
+	aqui e ali.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I was so
-	scared...
+	Mas eu fiquei
+	morta de medo...
 	"""
 	keyWait
 		any = false
@@ -790,17 +772,17 @@ script 61 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	That wild Navi just
-	now was jacked in to
-	a CopyBot,right...?
+	O Navi louco de ainda
+	agora estava conectado
+	a CópiRoide, né...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Didn't he look just
-	like the Navi in the
-	Expo commercial...?
+	Ele não era igualzinho
+	àquele Navi do comercial
+	da Exposição...?
 	"""
 	keyWait
 		any = false
@@ -811,16 +793,16 @@ script 62 mmbn6 {
 		mugshot = Woman
 	msgOpen
 	"""
-	What in the world
-	was up with that
-	wild Navi just now?
+	Mas o que foi que
+	deu naquele Navi
+	louco de ainda agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too bad we
-	couldn't catch it.
+	Pena que não
+	conseguiram pegar ele.
 	"""
 	keyWait
 		any = false
@@ -831,24 +813,23 @@ script 63 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	The security around
-	here must be really
-	bad
+	A segurança daqui
+	deve ser bem ruim
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if something like
-	that could happen.
+	pra deixar uma coisa
+	daquelas acontecer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With something like
-	this,will the Expo
-	be alright?
+	Com esse tipo de
+	problema, será que a
+	Exposição vai pra frente?
 	"""
 	keyWait
 		any = false
@@ -859,9 +840,9 @@ script 64 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	... I'm sorry. If I
-	could've only gained
-	complete control...
+	... Desculpe. Se eu
+	eu tivesse conseguido
+	assumir o controle...
 	"""
 	keyWait
 		any = false
@@ -870,9 +851,9 @@ script 64 mmbn6 {
 script 65 mmbn6 {
 	msgOpen
 	"""
-	The CopyBot MegaMan
-	jacked in to. The
-	battery is dead.
+	O CópiRoide no qual
+	MegaMan se conectou.
+	Está sem bateria.
 	"""
 	keyWait
 		any = false

@@ -10,8 +10,8 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	The Cybeast's power
-	is amazing...
+	O poder da Cyberbesta
+	é estarrecedor...
 	"""
 	keyWait
 		any = false
@@ -35,9 +35,8 @@ script 2 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	What's that face
-	for...?
-	You're the winner...
+	Por que essa cara...?
+	Você venceu...
 	"""
 	keyWait
 		any = false
@@ -49,7 +48,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Don't say that!"
+	"Não fala isso!"
 	keyWait
 		any = false
 	end
@@ -58,13 +57,13 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Don't come near me!!"
+	"Não chegue perto!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't need your
-	compassion!
+	Eu não preciso da
+	sua compaixão!
 	... Aargh!
 	"""
 	keyWait
@@ -76,8 +75,7 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... Colonel,
-	why...?
+	... Colonel, por quê...?
 	"""
 	keyWait
 		any = false
@@ -89,14 +87,13 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... I've had enough!"
+	"... Chega disso!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Baryl... Why does
-	it have to be like
-	this!?
+	Baryl... Por que as coisas
+	têm que ser assim?!
 	"""
 	keyWait
 		any = false
@@ -109,24 +106,24 @@ script 7 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	... What do you
-	want me to say?
+	... O que você
+	quer que eu digo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter what,we
-	are destined to
-	fight each other.
+	Não importa o modo,
+	estamos destinados a
+	lutar um contra o outro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you won...
-	That's all there
-	is to it...
+	E você venceu...
+	Não há mais o que
+	discutir...
 	"""
 	keyWait
 		any = false
@@ -140,20 +137,20 @@ script 8 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 3
-	"... Destined?"
+	"... Destinados?"
 	keyWait
 		any = false
 	clearMsg
 	textSpeed
 		delay = 2
-	"I get it..."
+	"Entendi..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Baryl and Colonel,
-	you two are doing
-	this for no reason.
+	Baryl, Colonel, vocês
+	dois tão fazendo isso
+	sem motivo nenhum.
 	"""
 	keyWait
 		any = false
@@ -165,14 +162,14 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"... What!?"
+	"... O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You said you
-	understood why we
-	have to fight.
+	Mas você acabou de
+	dizer que entendeu
+	por que temos que lutar.
 	"""
 	keyWait
 		any = false
@@ -185,68 +182,62 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's not what I'm
-	talking about!
+	Não é disso que
+	eu tô falando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You said it was
-	"destiny".
+	Você falou que
+	era o "destino".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But that's not what
-	I was asking!
+	Mas não foi isso
+	o que eu perguntei!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What I wanted to
-	know was if it was
-	of your own "will"!
+	O que eu queria saber
+	é se isso era mesmo
+	a "vontade" de vocês!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wanted to ask you,
-	if you really wanted
-	to join WWW,
+	Eu queria perguntar
+	se vocês entraram
+	mesmo pra WWW
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and if you really,of
-	your own will,wanted
-	to fight me.
+	e se realmente,
+	por vontade própria,
+	queriam lutar comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's what I was
-	asking! But what you
-	just told me is that
+	Foi isso que eu
+	perguntei! Mas o que
+	você me respondeu foi
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you're so focused on
-	"destiny" that
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	you've thrown your
-	"will" away!
+	que você tá tão focado
+	no "destino" que jogou
+	fora a sua "vontade"!
 	"""
 	keyWait
 		any = false
@@ -266,7 +257,7 @@ script 11 mmbn6 {
 		mugshot = Lan
 	"""
 	Baryl!
-	Open your eyes!
+	Abre os olhos!
 	"""
 	keyWait
 		any = false
@@ -275,16 +266,16 @@ script 11 mmbn6 {
 		mugshot = Baryl
 	textSpeed
 		delay = 3
-	"\"My own will\",huh..."
+	"\"Minhas vontade\", é...?"
 	keyWait
 		any = false
 	clearMsg
 	textSpeed
 		delay = 2
 	"""
-	It's been so long
-	that I've forgotten
-	what it really is...
+	Já faz tanto tempo,
+	que eu esqueci o que
+	isso realmente era...
 	"""
 	keyWait
 		any = false
@@ -292,9 +283,9 @@ script 11 mmbn6 {
 	soundPlayBGM
 		track = 13
 	"""
-	Looking at you,I can
-	see how dirty I have
-	become...
+	Olhando pra você, eu
+	enxergo o quanto eu
+	acabei me sujando...
 	"""
 	keyWait
 		any = false
@@ -307,48 +298,51 @@ script 11 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Baryl
-	"\"Live by your own\n will\"..."
+	"""
+	"Viva com base na
+	sua própria vontade"...
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I've been
-	hoping for someone
-	to tell me that.
+	Talvez, no fundo, eu
+	estivesse esperando
+	alguém me dizer isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"It's not too late!"
+	"Não é tarde demais!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can quit WWW,
-	Baryl!
+	Você pode largar
+	a WWW, Baryl!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Baryl
-	"... I can't do that."
+	"... Isso, eu não\nposso fazer."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"But why!?"
+	"Mas por quê?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Baryl
 	"""
-	I can't quit,not
-	right now...
+	Eu não posso parar.
+	Agora, não...
 	"""
 	keyWait
 		any = false
@@ -372,13 +366,13 @@ script 13 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	There's a favor I
-	have to return...
+	Eu tenho um favor
+	para devolver...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Stand up,Colonel..."
+	"Levante-se, Colonel..."
 	keyWait
 		any = false
 	clearMsg
@@ -398,7 +392,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wait,Colonel!"
+	"Colonel, espera!"
 	keyWait
 		any = false
 	clearMsg
@@ -410,20 +404,19 @@ script 16 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I can not afford to
-	let you stop me.
+	Não posso deixar
+	você me impedir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will take my
-	leave.
+	Eu vou partir agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good_bye,MegaMan."
+	"Adeus, MegaMan."
 	keyWait
 		any = false
 	end
@@ -442,33 +435,32 @@ script 18 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	In the end,after we
-	talked about "will",
-	Baryl and Colonel
+	No final, depois que a
+	gente falou de "vontade",
+	o Baryl e o Colonel
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	disappeared into the
-	Underground's
-	darkness.
+	desapareceram em meio
+	à escuridão do SubSolo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have to watch
-	over and protect our
-	"will".
+	A gente tem que
+	nutrir e proteger
+	a nossa "vontade".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even when it seemed
-	hopeless,my will
-	kept me going...
+	Mesmo quando tudo parecia
+	pedido, a minha vontade
+	me fez continuar...
 	"""
 	keyWait
 		any = false

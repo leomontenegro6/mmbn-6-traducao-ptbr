@@ -6,14 +6,14 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What in the world!?
-	In my own house...
-	WOW!!!!!!
+	Mas o quê...?!
+	Na minha própria casa...
+	MANO!!!!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"PENGUIN CAPTURE..."
+	"PINGUIM CAPTURADO..."
 	keyWait
 		any = false
 	flagSet
@@ -42,16 +42,15 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	All the penguins
-	gathered here!
+	Reunimos todos
+	os pinguins!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,time to go
-	back to the
-	requestor's place!
+	Beleza, hora de voltar
+	lá pro solicitante!
 	"""
 	keyWait
 		any = false

@@ -6,8 +6,9 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	...Lan! There's a rift
-	in space_time here!
+	... Lan!
+	Tem uma distorção no
+	espaço-tempo aqui!
 	"""
 	keyWait
 		any = false
@@ -19,7 +20,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A rift in space_time?"
+	"Uma distorção\nno espaço-tempo?"
 	keyWait
 		any = false
 	clearMsg
@@ -31,9 +32,9 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Looks like some kind
-	of power is causing a
-	tear in space_time.
+	Parece que tem algum tipo
+	de poder que tá causando
+	essa distorção.
 	"""
 	keyWait
 		any = false
@@ -46,8 +47,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Maybe it's connected
-	to another world!
+	Talvez ela teja
+	ligada a outro mundo!
 	"""
 	keyWait
 		any = false
@@ -60,8 +61,8 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's possible...
-	Whoa!
+	É possível...
+	Aah!
 	"""
 	keyWait
 		any = false
@@ -71,7 +72,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,something's coming!"
+	"Lan, tem alguma\ncoisa vindo aí!"
 	keyWait
 		any = false
 	clearMsg
@@ -82,7 +83,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What the_"
+	"O que...!"
 	keyWait
 		any = false
 	end
@@ -92,24 +93,25 @@ script 7 mmbn6 {
 		mugshot = Count
 	msgOpen
 	"""
-	Well,well...
-	It seems a little
-	pest snuck in.
+	Ora, ora...
+	Parece que entraram
+	umas baratas aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have no idea how
-	you got here,but...
+	Eu nem faço ideia
+	de como fizeram para
+	chegar aqui, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to thank you...
-	For opening a passage
-	to this area!
+	preciso agradecê-los...
+	por abrirem uma passagem
+	para esta área!
 	"""
 	keyWait
 		any = false
@@ -121,7 +123,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here he comes,Lan!"
+	"Ele tá vindo, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -134,7 +136,8 @@ script 10 mmbn6 {
 	msgOpen
 	"""
 	Aah!
-	Battle routine,set!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -146,7 +149,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
@@ -158,14 +161,14 @@ script 12 mmbn6 {
 		mugshot = Count
 	msgOpen
 	"""
-	I'm going to wring
-	the life out of
-	your pathetic body...
+	Hora de drenar toda
+	a a vida dessa sua
+	carcaça patética...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Down to the last drop!"
+	"Até a última gota!"
 	keyWait
 		any = false
 	end

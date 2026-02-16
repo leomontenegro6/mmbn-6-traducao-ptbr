@@ -28,62 +28,60 @@ script 0 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Pardon me...
-	You saw my post on
-	the RequestBBS...
+	Com licença...
+	Você que viu a minha
+	postagem no quadro?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The truth is my
-	operator is a
-	manager...
+	Então: o meu operador
+	é gerente de fábrica...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like the
-	factory might go
-	bankrupt...
+	e parece que ela pode
+	acabar indo à falência.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It doesn't matter
-	how much,but would
-	you lend me money?
+	Não importa a quantia:
+	você me empresa um
+	dinheiro?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know when,
-	but I'll repay
-	2x...
+	Eu não sei quando,
+	mas eu VOU devolver
+	ela, em dobro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No...10x...
-	the money!!
+	Não... vou devolver
+	em 10 vezes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I can...
-	For sure...
+	Eu acho que vou...
+	Não, eu sei que vou...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please...
-	Lend me money!!
+	Por favor...
+	Me empresta dinheiro!!
 	"""
 	keyWait
 		any = false
@@ -99,7 +97,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure  "
+	" Claro  "
 	option
 		brackets = 0
 		left = 0
@@ -108,7 +106,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No way"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -122,14 +120,14 @@ script 0 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"I see..."
+	"Entendo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you took the
-	request,live up to
-	your duty and lend!
+	Mas você aceitou o
+	pedido! Seja fiel ao
+	seu dever e empreste!
 	"""
 	keyWait
 		any = false
@@ -140,48 +138,49 @@ script 1 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	PLEASE!!
-	Lend us money!!
+	POR FAVOR!!
+	Empreste dinheiro
+	para a gente!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You took my
-	request didn't you?
+	Você aceitou o meu
+	pedido, não foi?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"PLEASE!!"
+	"POR FAVOR!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know when,
-	but I'll repay
-	2x...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	No...10x...
-	the money!!
+	Eu não sei quando,
+	mas eu VOU devolver
+	ele, em dobro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I can...
-	For sure...
+	Não... vou devolver
+	em 10 vezes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please...
-	Lend me money!!
+	Eu acho que vou...
+	Não, eu sei que vou...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Por favor...
+	Me empresta dinheiro!!
 	"""
 	keyWait
 		any = false
@@ -197,7 +196,7 @@ script 1 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure  "
+	" Claro  "
 	option
 		brackets = 0
 		left = 0
@@ -206,7 +205,7 @@ script 1 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No way"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -220,14 +219,14 @@ script 1 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"I see..."
+	"Entendo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you took the
-	request,live up to
-	your duty and lend!
+	Mas você aceitou o
+	pedido! Seja fiel ao
+	seu dever e empreste!
 	"""
 	keyWait
 		any = false
@@ -238,9 +237,9 @@ script 2 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Thank goodness...
-	How much can you
-	spare?
+	Graças aos céus...
+	Quanto você poderia
+	me arranjar?
 	"""
 	keyWait
 		any = false
@@ -281,7 +280,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"None"
+	"Nada"
 	select
 		default = 0
 		BSeparate = true
@@ -297,14 +296,14 @@ script 2 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"I see..."
+	"Entendo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you took the
-	request,live up to
-	your duty and lend!
+	Mas você aceitou o
+	pedido! Seja fiel ao
+	seu dever e empreste!
 	"""
 	keyWait
 		any = false
@@ -322,31 +321,31 @@ script 3 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Huh,100Z?
-	Kinda cheap,don't
-	you think?
+	Hm, 100Z?
+	Meio muquirana, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Awww... Right now,
-	even 100Z makes a
-	difference...
+	Hm... Ah, mas, agora,
+	até 100Z faz toda a
+	diferença...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be sure to pay
-	you back one day!
+	Eu juro que pago
+	de volta um dia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you...
-	I truly thank you.
+	Obrigado...
+	Muito obrigado,
+	de verdade.
 	"""
 	keyWait
 		any = false
@@ -367,21 +366,22 @@ script 4 mmbn6 {
 	msgOpen
 	"""
 	1000Z...
-	That really helps!
+	Isso é de grande ajuda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be sure to pay
-	you back one day!
+	Eu juro que pago
+	de volta um dia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you...
-	I truly thank you.
+	Obrigado...
+	Muito obrigado,
+	de verdade.
 	"""
 	keyWait
 		any = false
@@ -401,23 +401,23 @@ script 5 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	10000Z!?!?
-	WE'RE SAVED!!!!
+	10000Z?!?!
+	ESTAMOS SALVOS!!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be sure to pay
-	you back one day!
+	Eu juro que pago
+	de volta um dia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you...
-	I can't thank you
-	enough!!
+	Obrigado...
+	Nossa, eu nem sei
+	como agradecer!!
 	"""
 	keyWait
 		any = false
@@ -429,14 +429,14 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"I'm sorry..."
+	"Sinto muito..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Unfortunately work
-	can't pay you back
-	yet... Sorry...
+	Infelizmente, ainda
+	não reunimos o dinheiro
+	para devolver...
 	"""
 	keyWait
 		any = false
@@ -454,25 +454,25 @@ script 7 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Thanks to you,
-	the business is
-	back in action!
+	Graças a você, os
+	negócios voltaram
+	a todo o vapor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can even pay back
-	the 100Z you lent
-	us!!
+	Eu posso até devolver
+	os 100Z que você nos
+	emprestou1
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just like I said,
-	I'll pay you back
-	10 times the 100Z!
+	E, como eu disse, vou
+	pagar de volta 10 vezes
+	aqueles 100Z!
 	"""
 	keyWait
 		any = false
@@ -487,7 +487,7 @@ script 7 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"1000 Zennys"!!
 	"""
 	keyWait
@@ -510,25 +510,25 @@ script 8 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Thanks to you,
-	the business is
-	back in action!
+	Graças a você, os
+	negócios voltaram
+	a todo o vapor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can even pay back
-	the 1000Z you lent
-	us!!
+	Eu posso até devolver
+	os 1000Z que você nos
+	emprestou1
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just like I said,
-	I'll pay you back
-	10 times the 1000Z!
+	E, como eu disse, vou
+	pagar de volta 10 vezes
+	aqueles 1000Z!
 	"""
 	keyWait
 		any = false
@@ -543,7 +543,7 @@ script 8 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"10000 Zennys"!!
 	"""
 	keyWait
@@ -566,25 +566,25 @@ script 9 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Thanks to you,
-	the business is
-	back in action!
+	Graças a você, os
+	negócios voltaram
+	a todo o vapor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can even pay back
-	the 10000Z you lent
-	us!!
+	Eu posso até devolver
+	os 10000Z que você nos
+	emprestou1
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just like I said,
-	I'll pay you back
-	10 times the 10000Z!
+	E, como eu disse, vou
+	pagar de volta 10 vezes
+	aqueles 10000Z!
 	"""
 	keyWait
 		any = false
@@ -599,7 +599,7 @@ script 9 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"100000 Zennys"!!
 	"""
 	keyWait
@@ -615,14 +615,13 @@ script 10 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You know,you've got
-	no idea what will
-	happen in life...
+	É, a vida é mesmo uma
+	caixinha de surpresas...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hahahahaha!!"
+	"Ha ha ha ha ha!!"
 	keyWait
 		any = false
 	end
@@ -632,16 +631,16 @@ script 11 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	This is hard to say
-	since I'm asking for
-	money...
+	Sei que é absurdo dizer
+	isso quando eu tô
+	mendigando aqui, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't have
-	enough Zennys.
+	Você não tem Zennys
+	o bastante.
 	"""
 	keyWait
 		any = false
@@ -652,15 +651,15 @@ script 12 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	If I could make
-	a new PET widget,
+	Se eu conseguir
+	fazer um novo
+	acessório pra PETs,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it would be
-	awesome!!
+	vai ser tão incrível!!
 	"""
 	keyWait
 		any = false
@@ -669,14 +668,14 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd

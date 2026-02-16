@@ -6,14 +6,14 @@ script 0 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I heard from a
-	teacher that you
-	transferred here.
+	Um dos professores
+	comentou que você foi
+	transferido pra cá.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This is Class 6_1."
+	"Esta é a Sala 6-1."
 	keyWait
 		any = false
 	end
@@ -23,9 +23,8 @@ script 5 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	What is up with
-	those robots!?
-	I'm really scared!!
+	O que deu nos robôs?!
+	Que medo, sério!!
 	"""
 	keyWait
 		any = false
@@ -35,14 +34,14 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
 	msgOpen
-	"H...H...!!"
+	"S... S...!!"
 	keyWait
 		any = false
 	end
 }
 script 7 mmbn6 {
 	msgOpen
-	"*Rumble* *Rumble!!*"
+	"Gruummm... Grruummmm!!"
 	keyWait
 		any = false
 	end
@@ -52,14 +51,14 @@ script 9 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	You're still here!?
-	Hurry home as
-	fast as you can!!
+	Você ainda tá aqui?!
+	Vá logo pra casa,
+	sem demora!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be careful!"
+	"E cuidado!"
 	keyWait
 		any = false
 	end
@@ -69,15 +68,14 @@ script 10 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	What wonderful
-	technique!
+	Que técnica fantástica!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The brush strokes
-	are very elegant!
+	As pinceladas são
+	tão elegantes!
 	"""
 	keyWait
 		any = false

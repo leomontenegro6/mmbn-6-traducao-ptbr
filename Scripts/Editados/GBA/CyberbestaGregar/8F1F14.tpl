@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"T_This is!!"
+	"M-mas o que é isso?!"
 	keyWait
 		any = false
 	end
@@ -24,24 +24,22 @@ script 2 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	I had no worries
-	that you wouldn't
-	make it.
+	Eu não tinha dúvidas de
+	que você chegaria aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everything has gone
-	according to my
-	plan...
+	Tudo correu de acordo
+	com o meu plano...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All I want now is
-	the Maverick.
+	E, agora, tudo o que
+	eu quero é o Maverick.
 	"""
 	keyWait
 		any = false
@@ -69,9 +67,9 @@ script 4 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	the only thing I
-	didn't foresee was
-	your betrayal.
+	a única coisa que
+	eu não previ foi
+	a sua traição.
 	"""
 	keyWait
 		any = false
@@ -84,17 +82,17 @@ script 5 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	... I have not for_
-	gotten what you have
-	done for me,Dr.Wily,
+	... Eu não esqueci
+	o que você fez por
+	mim, Dr. Wily,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and that is why I
-	have worked for you
-	as a WWW member.
+	e foi por isso que
+	trabalhei para você
+	como membro da WWW.
 	"""
 	keyWait
 		any = false
@@ -104,7 +102,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What Dr.Wily did...?"
+	"O que o Dr. Wily fez...?"
 	keyWait
 		any = false
 	clearMsg
@@ -116,16 +114,16 @@ script 7 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Dr.Wily is the one
-	who raised me...
+	Foi o Dr. Wily
+	quem me criou...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and he is the one
-	who created my Navi,
-	Colonel...
+	e também foi ele
+	quem criou o meu
+	Navi, o Colonel...
 	"""
 	keyWait
 		any = false
@@ -137,7 +135,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!?"
+	"O quê?!"
 	keyWait
 		any = false
 	end
@@ -147,9 +145,9 @@ script 9 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	And now you betray
-	the very man who
-	gave you everything?
+	E, agora, você trai
+	justamente o homem
+	que lhe deu tudo?
 	"""
 	keyWait
 		any = false
@@ -157,8 +155,8 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	... No way!
-	Dr.Wily raised you!?
+	... Eu não acredito!
+	O Dr. Wily te criou?!
 	"""
 	keyWait
 		any = false
@@ -166,195 +164,192 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	"""
-	You should listen to
-	him,Lan.
+	Devia acreditar
+	mais nele, Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Many years ago,after
-	I was kicked out of
-	the science
+	Muitos anos atrás,
+	após ser banido da
+	comunidade científica,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	community,I started
-	to plan my revenge
-	against Net society.
+	eu comecei a planejar
+	minha vingança contra
+	a sociedade da Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But there was a man
-	who had wanted me
-	for his own plans...
+	Mas havia um homem que
+	queria meus serviços em
+	prol de seus planos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That man was a
-	Netopian commander__
-	Baryl's father.
+	Esse homem era um
+	comandante ameropano.
+	O pai do Baryl.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That man who had
-	scouted me out,had
-	me research
+	Ele me recrutou e
+	me fez pesquisar
+	robôs militares,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	military robots
-	while living in
-	Netopia.
+	e eu o fiz enquanto
+	morava na Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I put my own plans
-	on hold for this man
+	Paralisei meus próprios
+	planos temporariamente
+	por aquele homem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	who needed an
-	ex_scientist
-	like me...
+	que precisava de um
+	ex-cientista como eu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A few years later,
-	a war broke out in
-	a country somewhere,
+	Alguns anos depois,
+	começou-se uma guerra
+	em um país distante,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and that man went
-	to the battlefield
-	to fight.
+	e aquele homem seguiu
+	para o campo de batalha
+	para lutar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While he was out
-	there,I watched over
-	his only son,Baryl.
+	Enquanto ele o fazia,
+	eu tive de cuidar de
+	seu único filho, Baryl.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A few years
-	passed...
+	Alguns anos se passaram...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I received a
-	letter...
+	e eu recebi uma carta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was then that I
-	knew that that man
-	was no longer alive.
+	Foi então que eu
+	aprendi que aquele
+	homem não mais vivia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My sadness and anger
-	at losing a friend
+	Minha tristeza e fúria
+	por perder um amigo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	re_ignited my hidden
-	desire for revenge
-	against society...
+	reacendeu o meu desejo
+	de vingança contra a
+	sociedade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I threw my kindness
-	away that day,
+	Naquele dia, eu joguei
+	fora a minha ternura
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and became a "mad
-	scientist" out for
-	revenge.
+	e me tornei um
+	"cientista louco"
+	na estrada da vingança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... But there was
-	something I had to
-	do first.
+	... Mas havia uma coisa
+	que eu precisava fazer
+	primeiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I did everything I
-	could to repay the
-	debt to Baryl's
+	Eu fiz todo o possível
+	para pagar minha dívida
+	com o pai do Baryl
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	father by using the
-	soldier data he had
-	given me,to raise
+	utilizando os dados
+	de soldado que ele
+	me fornecera para
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	his son to be a
-	better soldier than
-	even he was,because
+	fazer do filho dele
+	um soldado ainda
+	melhor que o pai,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that was what the
-	man who had needed
-	me had wanted.
+	porque era esse o
+	desejo do homem que
+	precisou de mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I succeeded.
-	You are better
-	than your father
+	E eu consegui.
+	Você É ainda melhor
+	que o seu pai
 	"""
 	waitSkip
 		frames = 30
@@ -369,31 +364,30 @@ script 9 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Wake up,Baryl,
-	and realize
+	Abra os olhos, Baryl,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	who you should thank
-	for why you are even
-	alive today!
+	e compreenda a quem
+	você deve ser grato por
+	sequer estar vivo agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't let the world
-	and Net society
+	Não deixe este mundo
+	ou a sociedade da Rede
+	assustá-lo ou confundi-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	scare or confuse
-	you,and come,stand
-	with me!
+	Venha...
+	Fique ao meu lado!
 	"""
 	keyWait
 		any = false
@@ -406,25 +400,23 @@ script 10 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	... You're the one
-	who needs to wake
-	up.
+	... É você quem está
+	precisando abrir os olhos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I remember when you
-	first gave Colonel
-	to me,
+	Eu ainda me lembro
+	de quando você me
+	deu o Colonel.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your eyes shone
-	bright with
-	kindness...
+	Os seus olhos brilhavam
+	com ternura...
 	"""
 	keyWait
 		any = false
@@ -437,17 +429,17 @@ script 11 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Hmph! I told you!
-	I threw away my
-	kindness long ago!!
+	Hmpf! Eu já falei!
+	Joguei fora a minha
+	ternura há muito tempo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have no use for
-	kindness in my
-	grand plans!
+	Não há lugar para
+	ternura nos meus
+	grandiosos planos!
 	"""
 	keyWait
 		any = false
@@ -457,7 +449,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh!?"
+	"Hã?!"
 	keyWait
 		any = false
 	clearMsg
@@ -469,24 +461,23 @@ script 13 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Ah,looks like
-	it has finished
-	charging...
+	Ah, parece que
+	finalmente terminou
+	de carregar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The time for talk
-	is over!
+	Acabou o momento
+	para formalidades!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's time to put
-	my plans into
-	action...
+	É hora de pôr os meus
+	planos em ação...
 	"""
 	keyWait
 		any = false
@@ -507,8 +498,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	"""
-	Begin the
-	preparations!
+	Inicie os preparativos!
 	"""
 	keyWait
 		any = false
@@ -525,13 +515,13 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Iris,I'm here to
-	rescue you!!
+	Iris! Eu vim
+	aqui de salvar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Iris,Iris!!"
+	"Iris! Iris!!"
 	keyWait
 		any = false
 	clearMsg
@@ -542,20 +532,20 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"It's no use..."
+	"Não adianta..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Right now,she's
-	in operating mode.
+	Agora, ela está em
+	modo operacional.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She can't hear
-	anyone now...
+	Não pode mais
+	ouvir ninguém...
 	"""
 	keyWait
 		any = false
@@ -567,7 +557,7 @@ script 17 mmbn6 {
 	msgOpen
 	"""
 	... Baryl...
-	W_What do you mean!?
+	M-mas como assim?!
 	"""
 	keyWait
 		any = false
@@ -580,52 +570,50 @@ script 18 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Dr.Wily created
-	Colonel about 20
-	years ago,...
+	O Dr. Wily criou o
+	Colonel cerca de 20
+	anos atrás...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The newly completed
-	Colonel was at the
-	time...
+	O então recém-concluído
+	Colonel, na época...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...no,even now,he
-	has incredible
-	abilities.
+	... Não, mesmo agora,
+	ele possui habilidades
+	extraordinárias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He had incredible
-	power,speed,and very
-	clear thinking...
+	Tinha níveis absurdos
+	de força, velocidade e
+	clareza de pensamento...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	an ability to
-	control electronic
-	devices,
+	além da habilidade de
+	controlar dispositivos
+	eletrônicos
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...and kindness."
+	"... e era gentil."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He was the perfect
-	Navi...
+	Ele era o Navi perfeito...
 	"""
 	keyWait
 		any = false
@@ -637,7 +625,7 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Was?"
+	"... \"Era\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -649,25 +637,25 @@ script 20 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	On the day we found
-	out my father had
-	passed away...
+	No dia em que aprendemos
+	que o meu pai havia
+	morrido...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dr.Wily took Colonel
-	away from me...
-	A few hours later,
+	o Dr. Wily tomou
+	o Colonel de mim...
+	Algumas horas depois,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Colonel I got
-	back wasn't the same
-	Colonel I knew...
+	o Colonel que eu recebi
+	de volta não era o mesmo
+	Colonel que eu conhecia...
 	"""
 	keyWait
 		any = false
@@ -691,33 +679,31 @@ script 22 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Colonel's kindness
-	program had been
-	removed,and he had
+	O programa de ternura
+	do Colonel havia sido
+	removido,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	been changed into
-	the perfect combat
-	Navi.
+	e ele foi convertido no
+	Navi de combate perfeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... And there was
-	1 more program that
-	was removed.
+	... E houve mais um
+	programa que foi removido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Colonel's ability
-	to control any
-	electronic device...
+	A habilidade do Colonel
+	de controlar todo
+	dispositivo eletrônico...
 	"""
 	keyWait
 		any = false
@@ -730,8 +716,8 @@ script 23 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What does this have
-	to do with Iris...?
+	Mas o que isso tem
+	a ver com a Iris...?
 	"""
 	keyWait
 		any = false
@@ -744,29 +730,28 @@ script 24 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	You still don't
-	understand!?
+	Ainda não entendeu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I made another Navi
-	from the programs I
-	took from Colonel!
+	Eu criei um outro Navi
+	a partir dos programas
+	que removi do Colonel!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A Navi whose purpose
-	was to operate
-	military weaponry...
+	Um Navi cujo propósito
+	era operar armamentos
+	militares...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That Navi is Iris!"
+	"E esse Navi é a Iris!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -779,11 +764,11 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W_What...!?"
+	"O-o quê...?!"
 	keyWait
 		any = false
 	clearMsg
-	"Iris is a NetNavi!?"
+	"A Iris é uma NetNavi?!"
 	keyWait
 		any = false
 	clearMsg
@@ -794,13 +779,13 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Yes..."
+	"Sim..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Iris is Colonel's
-	younger sister.
+	A Iris é a irmã mais
+	nova do Colonel.
 	"""
 	keyWait
 		any = false
@@ -813,15 +798,15 @@ script 27 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Th_That's...
-	That's impossible!
+	M-mas isso...
+	Isso é impossível!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,Iris is in
-	the real world.
+	Digo, a Iris tá aqui,
+	no mundo real...
 	"""
 	waitSkip
 		frames = 30
@@ -835,7 +820,7 @@ script 27 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"...... A CopyBot!"
+	"...... Um CópiRoide!"
 	keyWait
 		any = false
 	clearMsg
@@ -847,16 +832,16 @@ script 28 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	It looks like you
-	finally understand.
+	Parece que, finalmente,
+	você entendeu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then you also know
-	what the CopyBots
-	behind me are for?
+	Então já deve saber para
+	que servem os CópiRoides
+	atrás de mim, não?
 	"""
 	keyWait
 		any = false
@@ -866,12 +851,12 @@ script 29 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"N_No way...!!"
+	"N-não pode ser...!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No,stop!!
+	Não, para!!
 	Iris!!
 	"""
 	keyWait
@@ -888,8 +873,8 @@ script 30 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	Come...
-	Cybeast Falzar.
+	Venha...
+	Cyberbesta Falzar.
 	"""
 	keyWait
 		any = false
@@ -898,8 +883,8 @@ script 30 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	Come...
-	Cybeast Gregar.
+	Venha...
+	Cyberbesta Gregar.
 	"""
 	keyWait
 		any = false
@@ -917,7 +902,7 @@ script 31 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeeech!!*"
+	"Kyaaaarh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -939,7 +924,7 @@ script 33 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*grrrrrrrrr!!*"
+	"Grrrrrrrrr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -957,17 +942,16 @@ script 34 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Iris,control the
-	Cybeast,and be my
-	arms and legs.
+	Iris, controle a
+	Cyberbesta e seja
+	meus braços e pernas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go cover the world
-	in fear and
-	confusion!!
+	Vá e mergulhe o mundo
+	em medo e confusão!!
 	"""
 	keyWait
 		any = false
@@ -990,7 +974,7 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wait,Iris!!"
+	"Espera, Iris!!"
 	keyWait
 		any = false
 	end
@@ -1000,21 +984,20 @@ script 37 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	T_That's...the
-	CopyBot from the
-	school's lobby...
+	E-esse... É o CópiRoide
+	da entrada da escola...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Iris is...
-	inside the Cybeast!?
+	A Iris tá...
+	dentro da Cyberbesta?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"MegaMan! Iris is..."
+	"MegaMan! A Iris tá..."
 	keyWait
 		any = false
 	clearMsg
@@ -1026,8 +1009,8 @@ script 38 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	I'll take care of
-	that Cybeast...
+	Eu vou cuidar
+	da Cyberbesta...
 	"""
 	keyWait
 		any = false
@@ -1038,17 +1021,16 @@ script 39 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	If Iris and Colonel
-	become one again,
-	and Colonel becomes
+	Se Iris e Colonel voltarem
+	a ser um só e o Colonel
+	voltar ao normal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	his old self,we may
-	be able to beat the
-	Cybeast.
+	talvez possamos
+	vencer a Cyberbesta.
 	"""
 	keyWait
 		any = false
@@ -1060,43 +1042,42 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Mwahaha!!"
+	"Mua ha ha ha ha!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad,but you
-	should give up on
-	that foolish idea.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	When I split Colonel
-	into 2,I installed a
-	little program that
+	Lamento, mas devo
+	sugerir que desista
+	dessa ideia tola.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	would delete them
-	automatically if
-	they should try to
+	Quando eu separei o
+	Colonel em dois, instalei
+	um singelo programa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	become 1 again! Ah,
-	what a heartwarming
-	instant it would be!
+	que os deletaria
+	automaticamente caso
+	tentassem voltar a ser
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wahahahahahaha!!"
+	"""
+	um só! Ah, mas seria um
+	momento bem comovente!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Uaah ha ha ha ha ha!!"
 	keyWait
 		any = false
 	clearMsg
@@ -1112,20 +1093,20 @@ script 41 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	They may not become
-	1,but at least it
-	will stop Iris!
+	Eles podem não durar
+	muito, mas, pelo menos,
+	isso vai parar a Iris!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Jack in!"
+	"Conectar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Colonel,
-	Execute!!
+	Colonel.EXE,
+	transmissão!!
 	"""
 	keyWait
 		any = false
@@ -1139,7 +1120,7 @@ script 42 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"He_He's bleeding!"
+	"E-ele tá sangrando!"
 	keyWait
 		any = false
 	clearMsg
@@ -1151,7 +1132,7 @@ script 43 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Go get her...
+	Pega ela...
 	Colonel...
 	"""
 	keyWait
@@ -1162,7 +1143,7 @@ script 44 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dr.Wily!!"
+	"Dr. Wily!!"
 	keyWait
 		any = false
 	clearMsg
@@ -1173,14 +1154,14 @@ script 45 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"You insolent fool!!"
+	"Tolo insolente!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may have sent
-	Colonel in,but
-	you're too late!!
+	Você pode ter mandado
+	o Colonel, mas é tarde
+	demais!!
 	"""
 	keyWait
 		any = false
@@ -1203,7 +1184,7 @@ script 46 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeeeeech!!*"
+	"Kyaaaaaarhh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -1226,7 +1207,7 @@ script 47 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*grrrrrrrrr!!*"
+	"Grrrrrrrrr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -1245,11 +1226,11 @@ script 48 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Waaaaaaaa!!"
+	"Uaaaaaagh!!"
 	keyWait
 		any = false
 	clearMsg
-	"Aaaaaaaaa!!"
+	"Aaaaaaaaah!!"
 	keyWait
 		any = false
 	end
@@ -1259,8 +1240,7 @@ script 49 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's wrong,
-	MegaMan!?
+	O que foi, MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -1273,24 +1253,22 @@ script 50 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	The Cybeasts are
-	reacting to each
-	other!
+	As Cyberbestas estão
+	reagindo uma à outra!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're pulling at
-	each other!!
+	Atraindo uma à outra!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mwahaha,let it go,
-	MegaMan...and right
-	into my CopyBot!!
+	Mua ha ha! Desapegue-se,
+	MegaMan... e entregue-se
+	ao meu CópiRoide!!
 	"""
 	keyWait
 		any = false
@@ -1305,7 +1283,7 @@ script 51 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Cybeast Gregar!!"
+	"Cyberbesta Gregar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -1316,7 +1294,7 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Cybeast Falzar!!"
+	"Cyberbesta Falzar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -1327,7 +1305,7 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Waaaaaaaaa!!!"
+	"Uaaaaaaaaarh!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -1349,7 +1327,7 @@ script 55 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gwaaaaaaa!!"
+	"Ghaaaaahh!!"
 	keyWait
 		any = false
 	end
@@ -1359,8 +1337,8 @@ script 58 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The Cybeast escaped
-	from MegaMan?
+	A Cyberbesta
+	saiu do MegaMan?
 	"""
 	keyWait
 		any = false
@@ -1372,21 +1350,22 @@ script 59 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Wahahahahaha!!"
+	"Uah ha ha ha h ha!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everything is going
-	just as I planned!!
+	Tudo está correndo
+	perfeitamente conforme
+	eu planejei!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let the Cybeasts'
-	roars echo through
-	all of Cyber City!
+	Que os rugidos das
+	Cyberbestas ecoem por
+	toda a Cidade Saibher!
 	"""
 	keyWait
 		any = false
@@ -1396,28 +1375,30 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Mwahaha!"
+	"Mua ha ha ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,our long fight
-	ends here as well!!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Iris,show him the
-	power of a Cybeast!!
+	Lan Hikari, o nosso
+	longo embate também
+	terminará aqui!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And blow Lan and the
-	traitor out of our
-	way!!
+	Iris, mostre a
+	ele o poder de
+	uma Cyberbesta!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E remova esse moleque
+	e o traidor do nosso
+	caminho!!
 	"""
 	keyWait
 		any = false
@@ -1430,9 +1411,8 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	"""
-	What are you waiting
-	for!?
-	Do it,NOW!!
+	O que está esperando?!
+	Obedeça! AGORA!!
 	"""
 	keyWait
 		any = false
@@ -1442,9 +1422,8 @@ script 60 mmbn6 {
 	soundPlayBGM
 		track = 99
 	"""
-	... I'm sorry that
-	I kept you in the
-	dark,Lan...
+	... Desculpa ter escondido
+	isso de você, Lan...
 	"""
 	keyWait
 		any = false
@@ -1458,32 +1437,30 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	"""
-	What!? Has she
-	regained her own
-	will!?
+	O quê?! Ela recuperou
+	a própria consciência?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No,Iris obeyed me
-	that time when we
-	were in Netopia
+	Não... A Iris me obedeceu
+	quando estávamos na
+	Ameropa controlando
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	controlling military
-	weapons...
+	armamentos militares...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not possible
-	for her to be that
-	strong willed.
+	Não é possível a
+	determinação dela
+	ser tão forte assim!
 	"""
 	keyWait
 		any = false
@@ -1491,9 +1468,9 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	"""
-	Lan,hurry... I can't
-	keep the Cybeast
-	back much longer...
+	Lan, depressa... Não vou
+	conseguir segurar a
+	Cyberbesta muito mais...
 	"""
 	keyWait
 		any = false
@@ -1501,24 +1478,23 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	Lan Hikari! We'll
-	take care of this
-	Cybeast!
+	Lan Hikari!
+	Vamos cuidar dessa
+	Cyberbesta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Iris
-	"Brother..."
+	"Irmão..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
 	"""
-	Iris,why did you
-	come back?
+	Iris, por que você voltou?
 	"""
 	keyWait
 		any = false
@@ -1531,21 +1507,21 @@ script 60 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
-	 I didn't want my
-	brother to keep on
-	hurting people...
+	Eu não queria que
+	o meu irmão continuasse
+	a machucar os outros...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it looks like I
-	don't have to worry
-	about that anymore.
+	Mas parece que não
+	tenho mais que me
+	preocupar com isso.
 	"""
 	keyWait
 		any = false
@@ -1553,17 +1529,16 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	"""
-	Hmph! You didn't
-	want him to hurt
-	people!?
+	Hmpf! Não queria que ele
+	machucasse os outros?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's funny,coming
-	from a weapons
-	control Navi!
+	Isso é cômico,
+	vindo de uma Navi
+	que controle armas!
 	"""
 	keyWait
 		any = false
@@ -1571,154 +1546,151 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	"""
-	I saw the people
-	from inside the
-	weapons.
+	Eu vi as pessoas
+	de dentro das armas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I saw their wounds,
-	how they hurt...
+	Vi seus ferimentos,
+	vi como se machucavam...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought that was
-	something that
-	couldn't be helped,
+	Eu via aquilo como
+	simplesmente inevitável,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but when I escaped
-	from your lab,
+	mas, depois que
+	eu escapei do
+	seu laboratório,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I found a town that
-	didn't want war for
-	the first time...
+	me deparei pela primeira
+	vez com uma cidade que
+	não desejava a guerra...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In that town,the
-	school was so
-	peaceful...
+	Nela, a escola era
+	tão pacífica...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I had fun with a lot
-	of school children
-	my age.
+	Eu me diverti muito com
+	crianças da minha idade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I became interested
-	in school,and I hid
-	on the school's Net.
+	Fiquei interessada na
+	escola, daí me escondi
+	na Rede dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I took classes with
-	the other kids...
+	Eu assisti a aulas
+	com meus colegas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and everybody was
-	truly happy...
+	e todos eram
+	verdadeiramente felizes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I realized...
-	This is what humans
-	were really like.
+	Foi quando eu percebi...
+	que é assim que os
+	humanos são, no fundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People hurting each
-	other is wrong.
+	É errado as pessoas
+	machucarem umas às
+	outras.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I decided that
-	I had to stop my
-	brother,but
+	... Eu concluí que eu
+	tinha que impedir o
+	meu irmão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when I thought about
-	what would happen if
-	Dr.Wily caught me...
+	mas, quando pensei no
+	que aconteceria se o
+	Dr. Wily me pegasse...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I became scared.
-	That was when you
-	came to our school.
+	eu fiquei com medo.
+	E foi então que você
+	veio à nossa escola.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You never ran away,
-	and always fought
-	bravely.
+	Você nunca fugiu
+	e sempre lutou
+	com bravura.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You risked your own
-	life to save those
-	around you...
+	Arriscava a própria vida
+	para salvar aqueles ao
+	seu redor...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When I saw that,I
-	told myself I had to
-	be brave,too...
+	Quando eu vi isso, disse
+	a mim mesma que também
+	precisava ser valente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Colonel,
-	I will fight!
+	Colonel, eu vou lutar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's defeat the
-	Cybeast together!
+	Vamos vencer a
+	Cyberbesta juntos!
 	"""
 	keyWait
 		any = false
@@ -1736,8 +1708,8 @@ script 60 mmbn6 {
 		frames = 30
 	"""
 	.
-	You've grown
-	strong.
+	Você cresceu e
+	se tornou forte.
 	"""
 	keyWait
 		any = false
@@ -1745,16 +1717,14 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	"""
-	Hahaha,Iris...
-	You would betray
-	me,too...?
+	Ha ha ha, Iris...
+	Até tu irá me trair...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is all your
-	doing...
+	Isso tudo é obra sua...
 	Lan Hikari...!!
 	"""
 	keyWait
@@ -1771,60 +1741,60 @@ script 61 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,jack me into
+	Lan, me conecta no
 	Gregar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll...
-	I'll beat Gregar!
+	Eu...
+	Eu vou vencer o Gregar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The four of us
-	as two pairs of
-	siblings...
+	Nós quatro vamos,
+	como dois pares
+	de irmãos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure Colonel and
-	Iris will beat
-	Falzar!
+	Tenho certeza de que
+	o Colonel e a Iris vão
+	vencer o Falzar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So let's combine
-	our powers and beat
+	Então vamos unir nossos
+	poderes pra vencer o
 	Gregar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Jack me in,Lan!"
+	"... Me conecta, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = LordWily
 	"""
-	You're wasting your
-	energy!!
+	Só estão desperdiçando
+	tempo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're no match for
-	a fully revived
-	Cybeast!
+	Vocês não são páreo
+	para uma Cyberbesta
+	100% revivida!!
 	"""
 	keyWait
 		any = false
@@ -1837,60 +1807,60 @@ script 62 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,jack me into
+	Lan, me conecta no
 	Falzar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll...
-	I'll beat Falzar!
+	Eu...
+	Eu vou vencer o Falzar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The four of us
-	as two pairs of
-	siblings...
+	Nós quatro vamos,
+	como dois pares
+	de irmãos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure Colonel and
-	Iris will beat
-	Gregar!
+	Tenho certeza de que
+	o Colonel e a Iris vão
+	vencer o Gregar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So let's combine
-	our powers and beat
+	Então vamos unir nossos
+	poderes pra vencer o
 	Falzar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Jack me in,Lan!"
+	"... Me conecta, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = LordWily
 	"""
-	You're wasting your
-	energy!!
+	Só estão desperdiçando
+	tempo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're no match for
-	a fully revived
-	Cybeast!
+	Vocês não são páreo
+	para uma Cyberbesta
+	100% revivida!!
 	"""
 	keyWait
 		any = false
@@ -1907,9 +1877,8 @@ script 63 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	OK,let's go!
-	This is the last
-	jack in!
+	OK, vamos nessa!
+	A nossa última conexão!
 	"""
 	keyWait
 		any = false
@@ -1922,13 +1891,13 @@ script 64 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock

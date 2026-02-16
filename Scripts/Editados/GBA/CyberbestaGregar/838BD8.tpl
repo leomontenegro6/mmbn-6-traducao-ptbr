@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,do you remember
-	Counter and Full
-	Synchro?
+	Lan, você lembra dos
+	Contra-Ataques e da
+	Sincronia Total?
 	"""
 	keyWait
 		any = false
@@ -19,7 +19,7 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
-	"Huh? What's that?"
+	"... Quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -30,9 +30,8 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Well... Take a look
-	at the "Emotion
-	Window" here.
+	... Só olha pra
+	"Janela de Emoção" aqui.
 	"""
 	keyWait
 		any = false
@@ -43,31 +42,30 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It shows my
-	emotional state.
+	Ela mostra o meu
+	estado emocional.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you operate me
-	well so our souls
-	connect,I'll go
+	Quando você me opera
+	bem, as nossas almas
+	se ligam e eu entro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Full Synchro,a
-	state where you and
-	I act as one.
+	em Sincronia Total, um
+	estado em que nós dois
+	atuamos como um só.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This improves my
-	focus.
+	Isso melhora o meu foco.
 	"""
 	keyWait
 		any = false
@@ -78,8 +76,8 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	How do I operate
-	you well?
+	E como eu faço
+	pra te operar bem?
 	"""
 	keyWait
 		any = false
@@ -91,8 +89,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You have to
-	Counter!
+	Usando Contra-Ataques!
 	"""
 	keyWait
 		any = false
@@ -104,8 +101,8 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Counter? Uhhh...
-	What was that again?
+	Contra-Ata...? Err...
+	Isso aí é o quê mesmo?
 	"""
 	keyWait
 		any = false
@@ -117,24 +114,24 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Counter means
-	using a chip attack
+	Tá meio na cara, né?
+	"Contra-Ataque"
+	significa atacar com um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	right when the enemy
-	is about to attack.
-	They'll be caught
+	chip quando o inimigo
+	estiver pra atacar. Isso
+	pega ele de surpresa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	off guard and won't
-	be able to move
-	for a bit.
+	e paralisa ele por
+	alguns instantes.
 	"""
 	keyWait
 		any = false
@@ -146,8 +143,8 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I get it.
-	It surprises them!
+	Saquei.
+	Pegar eles de supetão!
 	"""
 	keyWait
 		any = false
@@ -159,53 +156,55 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	During Full Synchro,
-	the next chip's
-	Attack power is x2,
+	Durante a Sincronia
+	Total, o ataque do chip
+	seguinte é dobrado
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and the enemy will
-	flash to show when
-	you should Counter.
+	e o inimigo pisca pra
+	mostrar quando se deve
+	contra-atacar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thus,you can use
-	x2 Atk chips again
-	if you score
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"multiple Counters."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	OK... This is a good
-	opportunity to get
-	some practice.
+	Logo, dá pra usar chips
+	com ataque dobrado mais
+	de uma vez,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just this once,
-	we'll start in
-	Full Synchro.
+	é só você ir acertando
+	vários Contra-Ataques.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use a chip attack
-	when the enemy
-	flashes!
+	Beleza... Esta é uma
+	boa oportunidade pra
+	treinar isso.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Só por esta luta, a
+	gente vai começar já
+	na Sincronia Total.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Usa um chip de ataque
+	quando o inimigo piscar!
 	"""
 	keyWait
 		any = false
@@ -215,38 +214,38 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Well done,Lan."
+	"Mandou bem, Lan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't need to
-	Counter every time,
-	but if you can
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	master it,I think
-	you'll find it very
-	effective.
+	Você não precisa
+	contra-atacar SEMPRE,
+	mas, se conseguir
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,it won't work
-	with chips that stop
-	time like AreaGrab.
+	dominar o negócio,
+	com certeza vai te
+	ajudar pra caramba.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remember to use the
-	right chip at the
-	right time.
+	Dito isso, não funciona
+	com chips que "param o
+	tempo", tipo o AreaGrab.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Lembre sempre de
+	usar o chip certo
+	na hora certa.
 	"""
 	keyWait
 		any = false
@@ -258,9 +257,9 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Roger! I'm gonna
-	master Counter
-	and Full Synchro!
+	Beleza! Eu vou dominar
+	bonito o Contra-Ataque
+	e a Sincronia Total!
 	"""
 	keyWait
 		any = false
@@ -271,9 +270,9 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you have to bust
-	the viruses. This is
-	no time to run!
+	Lan, você tem que
+	deletar os vírus.
+	Não é hora de fugir!
 	"""
 	keyWait
 		any = false

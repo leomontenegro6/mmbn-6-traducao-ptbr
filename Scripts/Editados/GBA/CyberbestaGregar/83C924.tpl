@@ -6,37 +6,38 @@ script 0 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	This is the Navi
-	Customizer screen.
+	Esta é a tela do
+	Customizador de Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The NetNavi program
-	"MegaMan.EXE" is
-	now on standby...
+	O programa NetNavi
+	"MegaMan.EXE" está
+	em modo de descanso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In other words,
-	he's asleep.
+	Em outras palavras,
+	está dormindo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	During standby,
-	you can install
+	Durante o modo de
+	descanso, você pode
+	instalar programas nele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	programs,customizing
-	MegaMan's abilities.
+	customizando as
+	habilidades do MegaMan.
 	"""
 	keyWait
 		any = false
@@ -44,9 +45,9 @@ script 0 mmbn6 {
 	flagSet
 		flag = 238
 	"""
-	Customization is
-	performed on this
-	"MemoryMap"...
+	A customização é
+	realizada neste
+	"Mapa de Memória"...
 	"""
 	waitFlag
 		flag = 239
@@ -62,8 +63,8 @@ script 1 mmbn6 {
 	flagSet
 		flag = 238
 	"""
-	By installing these
-	programs.
+	... através da instalação
+	destes programas.
 	"""
 	waitFlag
 		flag = 239
@@ -77,45 +78,43 @@ script 2 mmbn6 {
 		mugshot = Scientist
 	msgOpenQuick
 	"""
-	Now,let's try
-	installing the
-	"UnderSht"!
+	Bom, vamos tentar
+	instalar o "PorUm"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It allows you to
-	survive a lethal
-	hit.
+	Ele permite ao Navi
+	sobreviver a um
+	ataque letal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Select "UnderSht"
-	from the top_right
-	window and put it
+	Selecione o
+	"PorUm" na janela
+	superior-direita
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"in the MemoryMap."
+	"e posicione-o no\nMapa de Memória."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,there is
-	an important rule
-	you must follow!
+	Porém, há uma regra
+	importante que você
+	deve sempre seguir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	See the line in
-	the center of 
-	the MemoryMap?
+	Vê a linha no centro
+	do Mapa de Memória?
 	"""
 	keyWait
 		any = false
@@ -128,31 +127,30 @@ script 3 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	It's called the
-	"Command Line."
+	Ela se chama
+	"Linha de Comando."
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Programs must be
-	placed with at least
-	one of their squares
+	Os programas inseridos
+	devem ter pelo menos
+	um de seus blocos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on this line.
-	Now,then...
+	sobre a linha.
+	Explicado isso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's install the
-	"UnderSht"
-	program!
+	Vamos instalar o
+	programa "PorUm"!
 	"""
 	keyWait
 		any = false
@@ -163,9 +161,8 @@ script 10 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Oops! That isn't
-	the "UnderSht"
-	program.
+	Opa! Esse não é o
+	programa "PorUm".
 	"""
 	keyWait
 		any = false
@@ -176,8 +173,8 @@ script 11 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You don't need
-	to select that now.
+	Não precisa selecionar
+	isso agora.
 	"""
 	keyWait
 		any = false
@@ -188,8 +185,8 @@ script 12 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	That isn't over
-	the Command Line!
+	Ele não está sobre
+	a Linha de Comando!
 	"""
 	keyWait
 		any = false
@@ -200,8 +197,8 @@ script 13 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Don't place things
-	outside the frame!
+	Não coloque nada
+	fora do quadro!
 	"""
 	keyWait
 		any = false
@@ -212,14 +209,14 @@ script 15 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Good! Now,let's
-	install an
-	"Attack+1" program!
+	Ótimo! Agora, vamos
+	instalar um programa
+	"Ataque+1"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Select the program."
+	"Selecione o programa."
 	keyWait
 		any = false
 	end
@@ -229,9 +226,8 @@ script 16 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Oops! That isn't
-	the "Attack+1"
-	program!
+	Opa! Esse não é o
+	programa "Ataque+1"!
 	"""
 	keyWait
 		any = false
@@ -242,8 +238,8 @@ script 17 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You don't need
-	to select that now.
+	Não precisa selecionar
+	isso agora.
 	"""
 	keyWait
 		any = false
@@ -254,8 +250,8 @@ script 18 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	There's no need to
-	move that program.
+	Não há por que tirar
+	esse programa daí.
 	"""
 	keyWait
 		any = false
@@ -266,9 +262,9 @@ script 20 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Now for the second
-	rule. Look at the
-	"Attack+1" program.
+	Agora, vamos à segunda
+	regra. Observe o
+	programa "Ataque+1".
 	"""
 	keyWait
 		any = false
@@ -281,30 +277,32 @@ script 21 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	See the square
-	patterns? Programs
+	Vê essa estampa
+	quadriculada?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	like this are called
-	"Plus Parts" and
+	Programas como esse
+	são conhecidos como
+	"Peças Próton",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	must not be placed
-	on the Command Line.
+	e não devem ser
+	posicionados sobre
+	a Linha de Comando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,then...
-	Let's install the
-	"Attack+1" program.
+	Pois bem...
+	Agora, instale o
+	programa "Ataque+1".
 	"""
 	keyWait
 		any = false
@@ -315,16 +313,16 @@ script 22 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	"Attack+1" is a Plus
-	Parts program,so
-	don't place it
+	O "Ataque+1" é um
+	programa Peça Próton,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on the Command
-	Line.
+	portanto, não o
+	posicione sobre a
+	Linha de Comando.
 	"""
 	keyWait
 		any = false
@@ -335,9 +333,8 @@ script 23 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	"UnderSht" is
-	already installed
-	there!
+	O "PorUm" já está
+	instalado aí!
 	"""
 	keyWait
 		any = false
@@ -348,8 +345,8 @@ script 24 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Don't place things
-	outside the frame!
+	Não coloque nada
+	fora do quadro!
 	"""
 	keyWait
 		any = false
@@ -360,14 +357,14 @@ script 25 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Now,let's finish
-	by installing a
-	"Speed+1" program.
+	Agora, para concluir,
+	vamos instalar um
+	programa "Rapidz+1".
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Select the program."
+	"Selecione o programa."
 	keyWait
 		any = false
 	end
@@ -377,8 +374,8 @@ script 26 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	There's no need to
-	select that now.
+	Não há por que
+	selecionar isso agora.
 	"""
 	keyWait
 		any = false
@@ -389,8 +386,8 @@ script 27 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	There's no need to
-	move that program.
+	Não há por que tirar
+	esse programa daí.
 	"""
 	keyWait
 		any = false
@@ -401,21 +398,24 @@ script 28 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Now,for the third
-	rule. Same_colored
+	Agora, a terceira
+	regra: programas
+	de mesma cor
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	programs cannot be
-	placed next to each
-	other!
+	não podem ser
+	posicionados um
+	ao lado do outro!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"The \"UnderSht\" and"
+	"""
+	O "PorUm"...
+	"""
 	keyWait
 		any = false
 	flagSet
@@ -427,9 +427,9 @@ script 29 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	the "Speed+1" you
-	have selected are
-	the same_color.
+	e o "Rapidz+1" que
+	você selecionou
+	são da mesma cor.
 	"""
 	keyWait
 		any = false
@@ -442,13 +442,13 @@ script 30 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Make sure they
-	don't touch!
+	Não deixe que
+	eles se toquem!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Install the program."
+	"Agora, instale\no programa."
 	keyWait
 		any = false
 	end
@@ -458,16 +458,16 @@ script 31 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	"Speed+1" is a
-	Plus Parts program.
-	It must not be
+	O "Rapidz+1" é um
+	programa Peça Próton.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	placed on the
-	Command Line.
+	Não pode ser
+	posicionado sobre
+	a Linha de Comando.
 	"""
 	keyWait
 		any = false
@@ -478,9 +478,8 @@ script 32 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Another program is
-	already installed
-	there.
+	Já tem um outro
+	programa instalado aí.
 	"""
 	keyWait
 		any = false
@@ -491,9 +490,9 @@ script 33 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Hey! Same_colored
-	programs cannot be
-	next to each other!
+	Epa! Programas da
+	mesma cor não podem
+	se tocar!
 	"""
 	keyWait
 		any = false
@@ -504,8 +503,8 @@ script 34 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Don't place things
-	outside the frame!
+	Não coloque nada
+	fora do quadro!
 	"""
 	keyWait
 		any = false
@@ -516,38 +515,38 @@ script 35 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Now let me tell
-	you about "RUN"!
-	RUN activates
+	Agora, explicarei o
+	"EXECUTAR". Esse comando
+	religa MegaMan.EXE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan.EXE. When
-	you press RUN,
-	he will awaken
+	Ao apertar "EXECUTAR",
+	MegaMan acordará,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with the powers of
-	the programs you
+	mas, desta vez,
+	com os poderes dos
+	programas que você
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	installed on the
-	MemoryMap.
+	instalou no
+	Mapa de Memória.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,then,press
-	RUN and see!
+	Bom, aperte EXECUTAR
+	e confira!
 	"""
 	keyWait
 		any = false
@@ -558,8 +557,8 @@ script 36 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	There's no need to
-	move that program.
+	Não há por que tirar
+	esse programa daí.
 	"""
 	keyWait
 		any = false
@@ -570,9 +569,9 @@ script 37 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	RUN is complete!
-	Check and see
-	how MegaMan is.
+	EXECUÇÃO concluída!
+	Agora confira como
+	o MegaMan está.
 	"""
 	keyWait
 		any = false
@@ -580,15 +579,15 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I hope he's okay...
-	How do you feel?
+	Tomara que ele teja bem...
+	Como cê tá se sentindo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"...U_Uhhh..."
+	"... U-uuuhm..."
 	keyWait
 		any = false
 	clearMsg
@@ -596,7 +595,7 @@ script 37 mmbn6 {
 		mugshot = Lan
 	"""
 	MegaMan?
-	MegaMan!?
+	MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -604,15 +603,16 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Oooh... Morning,Lan!
-	All systems go!
+	Aahh... Bom dia, Lan!
+	Todos os sistemas
+	operantes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel even more
-	powerful now!
+	Eu tô me sentindo ainda
+	mais forte agora!
 	"""
 	keyWait
 		any = false
@@ -620,8 +620,8 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Whew! Hey,don't
-	scare me like that!
+	Ufa! Pô, não me
+	assusta, cara!
 	"""
 	keyWait
 		any = false
@@ -629,23 +629,25 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Congratulations!
-	If you get a new
-	program,just install
+	Meus parabéns!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"it the same way!"
+	"""
+	Ao adquirir um novo
+	programa, é só instalá-lo
+	desse mesmo jeito!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	All right! I'm going
-	to make MegaMan
-	the best Navi ever!
+	Beleza! Eu vou fazer
+	do MegaMan o melhor
+	Navi do mundo!
 	"""
 	keyWait
 		any = false
@@ -653,71 +655,65 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Just be sure to
-	follow those
-	three rules.
+	Apenas lembre-se
+	de sempre seguir
+	essas três regras.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Really,make sure!"
+	"É sério! Não esqueça!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't program
-	correctly,a bug
-	may occur.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Oh,and one more
-	thing. You can't
+	Se não programar
+	corretamente, isso
+	pode causar um bug.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	install more than 4
-	colors of programs.
+	Ah, e mais uma coisa:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you install 5 or
-	more,MegaMan will
-	overload!
+	não é possível instalar
+	mais que quatro cores de
+	programa de uma vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You could get a bug.
-	So pay attention.
+	Se tentar instalar
+	cinco ou mais, isso vai
+	sobrecarregar o MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The number of colors
-	currently installed
+	O que pode gerar um bug.
+	Portanto, atenção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is always
-	shown here.
+	O número de cores
+	atualmente instaladas
+	é mostrado aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Make sure it always
-	stays in the frame.
+	Não deixe que elas
+	saiam deste medidor.
 	"""
 	keyWait
 		any = false
@@ -731,8 +727,8 @@ script 38 mmbn6 {
 		mugshot = Lan
 	msgOpenQuick
 	"""
-	I got it.
-	Thanks a lot!
+	Saquei.
+	Muito obrigado!
 	"""
 	keyWait
 		any = false
@@ -740,30 +736,29 @@ script 38 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	If there is a bug
-	you should be able
-	to tell on the
+	Caso ocorra um bug,
+	você poderá confirmar
+	na Janela de Emoção,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Emotion Window,so
-	check it when you
-	enter a battle!
+	então, sempre a confira
+	quando for lutar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This concludes my
-	explanation of the
-	NaviCustomizer.
+	Isso conclui a
+	minha explicação do
+	Customizador de Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -778,9 +773,9 @@ script 39 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Fire Chip Attk
-	+50! Buster 
-	Attk +1!
+	Ataque de Chip de
+	Fogo + 50! Ataque
+	do MegaTiro +1!
 	"""
 	keyWait
 		any = true

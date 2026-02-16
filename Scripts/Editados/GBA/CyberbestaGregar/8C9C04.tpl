@@ -5,14 +5,13 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = DiveMan
 	msgOpen
-	"I'm s_sinking..."
+	"E-estou afundando..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I'm sorry,
-	C_Capt'n.
-	Awooga...
+	... Perdão, Capitão...
+	Bruooooou...
 	"""
 	keyWait
 		any = false
@@ -22,14 +21,14 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Great job,MegaMan!"
+	"Bom trabalho, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,play the
-	"Feeding Time" chime
-	as loud as you can!
+	Agora, toca a música
+	do "Hora de Comer"
+	pra todo o mundo ouvir!
 	"""
 	keyWait
 		any = false
@@ -41,7 +40,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Got it!"
+	"Só se for agora!"
 	keyWait
 		any = false
 	end
@@ -51,8 +50,9 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's see...
-	This should do it!
+	Deixa eu ver...
+	Pronto, acho que
+	isto resolve!
 	"""
 	keyWait
 		any = false
@@ -65,7 +65,7 @@ script 4 mmbn6 {
 	controlLock
 	soundPlay
 		track = 399
-	"*bring,bring,bring,\n bring,bring!!*"
+	"Blim Blim Blim\n Blim Blim!!"
 	wait
 		frames = 80
 	soundEnableTextSFX

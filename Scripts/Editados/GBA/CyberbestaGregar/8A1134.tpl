@@ -6,17 +6,15 @@ script 0 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Who are you! I've
-	never seen you
-	before!
+	Quem é tu?!
+	Nunca te vi aqui, não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are you doing
-	here!?
-	Get lost!!
+	Tá fazendo o quê
+	aqui?! Cai fora!!
 	"""
 	keyWait
 		any = false
@@ -31,15 +29,15 @@ script 1 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I'm bored...
-	Hey ugly!!
+	Que tédio...
+	Aí, cão chupando manga!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Deleting you should
-	help pass the time!
+	Te deletar pode dar
+	um bom passatempo!
 	"""
 	keyWait
 		any = false

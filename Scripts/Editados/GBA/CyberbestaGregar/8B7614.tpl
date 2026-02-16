@@ -4,9 +4,9 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	This computer is
-	taking a long time
-	computing something.
+	Esse computador está
+	computando alguma coisa
+	já há bastante tempo.
 	"""
 	keyWait
 		any = false
@@ -15,17 +15,17 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The teachers use the
-	computer in this
-	room for research.
+	Os professores usam o
+	computador desta sala
+	para suas pesquisas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's running an OS
-	you've never seen
-	before.
+	Utiliza um sistema
+	operacional que Lan
+	nunca viu na vida.
 	"""
 	keyWait
 		any = false
@@ -34,16 +34,16 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	This box is still
-	sealed shut.
+	Essa caixas continuam
+	firmemente lacradas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What could it have
-	in it? New materials
-	for class...?
+	O que será que tem
+	nelas? Novos materiais
+	de aula...?
 	"""
 	keyWait
 		any = false
@@ -52,9 +52,7 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	There are two stools
-	connected together
-	here.
+	Dois banquinhos afixados.
 	"""
 	keyWait
 		any = false
@@ -67,16 +65,16 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	Important papers are
-	piled up on this
-	bookshelf.
+	Documentos importantes
+	se postam, empilhados,
+	nesta estante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The sliding doors
-	are locked tight.
+	A porta de correr está
+	firmemente trancada.
 	"""
 	keyWait
 		any = false
@@ -99,9 +97,9 @@ script 6 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	There is a white
-	board in this box...
-	Could it be...?
+	Tem um quadro branco
+	dentro desta caixa...
+	Será que é...?
 	"""
 	keyWait
 		any = false
@@ -110,7 +108,7 @@ script 6 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"Ultra
 	 Kickboard EX2"!!
 	"""
@@ -120,9 +118,8 @@ script 6 mmbn6 {
 	playerResetObject
 	clearMsg
 	"""
-	Alright! Now to
-	give this to the
-	requestor...
+	Beleza! Bora levar
+	isto pro solicitante!
 	"""
 	keyWait
 		any = false
@@ -131,9 +128,8 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	There are new
-	materials for
-	class in this box.
+	Essas caixas contêm
+	novos materiais de aula.
 	"""
 	keyWait
 		any = false
@@ -183,8 +179,8 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Use this computer to
-	operate HeatMan?
+	Usar o computador para
+	operar o HeatMan?
 	"""
 	keyWait
 		any = false
@@ -200,7 +196,7 @@ script 11 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -209,7 +205,7 @@ script 11 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -232,8 +228,8 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Use this computer to
-	operate SpoutMan?
+	Usar o computador para
+	operar o AquaMan?
 	"""
 	keyWait
 		any = false
@@ -249,7 +245,7 @@ script 13 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -258,7 +254,7 @@ script 13 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -291,9 +287,8 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Please help me,
-	HeatMan! I'm
-	counting on you!
+	Por favor, HeatMan!
+	Tô contando com você!
 	"""
 	keyWait
 		any = false
@@ -306,9 +301,8 @@ script 16 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Please help me,
-	SpoutMan! I'm
-	counting on you!
+	Por favor, AquaMan!
+	Tô contando com você!
 	"""
 	keyWait
 		any = false
@@ -324,8 +318,8 @@ script 17 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Hey,Lan!
-	You rang?
+	Fala, Lan!
+	Chamou?
 	"""
 	keyWait
 		any = false
@@ -341,7 +335,7 @@ script 17 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -350,7 +344,7 @@ script 17 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -368,9 +362,8 @@ script 18 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Oh! Lan,drip!
-	Are you going to
-	operate me,drip?
+	Ah! Lan, xuáá!
+	Vai me operar, xuá?
 	"""
 	keyWait
 		any = false
@@ -386,7 +379,7 @@ script 18 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -395,7 +388,7 @@ script 18 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -416,15 +409,15 @@ script 19 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you doing,
-	Lan!?
+	O que é que você
+	tá fazendo, Lan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Match's final exam
-	is waiting!!
+	A prova final do
+	Match nos aguarda!!
 	"""
 	keyWait
 		any = false
@@ -435,15 +428,15 @@ script 20 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you doing,
-	Lan!?
+	O que é que você
+	tá fazendo, Lan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shuko's final exam
-	is waiting!!
+	A prova final da
+	Shuko nos aguarda!!
 	"""
 	keyWait
 		any = false

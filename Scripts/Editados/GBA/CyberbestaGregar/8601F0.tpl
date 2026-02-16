@@ -17,7 +17,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A stubby tail...?"
+	"Uma cauda curtinha...?"
 	keyWait
 		any = false
 	jump
@@ -28,8 +28,8 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He doesn't like
-	cold water...?
+	Ele não gosta
+	de água fria...?
 	"""
 	keyWait
 		any = false
@@ -40,7 +40,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"He ate a whole cow!?"
+	"Ele comeu uma\nvaca inteira?!"
 	keyWait
 		any = false
 	jump
@@ -51,9 +51,8 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He remembers
-	something from long
-	ago...
+	Ele se lembra de coisas
+	de muito tempo atrás...
 	"""
 	keyWait
 		any = false
@@ -65,9 +64,9 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What is "a bit
-	snobby" supposed to
-	mean?...
+	O que será que
+	significa esse
+	"meio convencido"...?
 	"""
 	keyWait
 		any = false
@@ -79,8 +78,8 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"Steady as a rock"?
-	What in the...?
+	"Imóveis feito pedra"?
+	Ué...?
 	"""
 	keyWait
 		any = false
@@ -92,9 +91,8 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmm... But lizards
-	don't really live in
-	the water...
+	Hmm... Mas lagartos
+	não vivem na água...
 	"""
 	keyWait
 		any = false
@@ -106,9 +104,9 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A whale? Does this
-	aquarium even have
-	something that big?
+	Uma baleia? E este
+	aquário lá tem uma
+	coisa grande assim?
 	"""
 	keyWait
 		any = false
@@ -120,9 +118,9 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What kind of clue is
-	his nose?? I don't
-	get it at all...
+	Que tipo de pista
+	é "o nariz dele"?!
+	Tô perdidinho...
 	"""
 	keyWait
 		any = false
@@ -134,9 +132,9 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If he can fly,then
-	maybe he's a kind
-	of bird...?
+	Se ele pode voar, então
+	deve ser um tipo de
+	pássaro, né...?
 	"""
 	keyWait
 		any = false
@@ -161,8 +159,8 @@ script 12 mmbn6 {
 		jumpIfTrue = continue
 		jumpIfFalse = 88
 	"""
-	Want me to go look
-	around for a clue?
+	Quer que eu vá
+	atrás de uma pista?
 	"""
 	keyWait
 		any = false
@@ -178,7 +176,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -187,7 +185,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -231,9 +229,9 @@ script 88 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Normalize this
-	computer,MegaMan!
-	Hurry!
+	Normaliza esse
+	computador, MegaMan!
+	E rápido!
 	"""
 	keyWait
 		any = false
@@ -248,15 +246,15 @@ script 95 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm worried about
-	Mick...
+	Eu tô preocupado
+	com o Mick...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack out,MegaMan,and
-	let's go find him!
+	Desconecta, MegaMan,
+	e bora atrás dele!
 	"""
 	keyWait
 		any = false
@@ -266,7 +264,7 @@ script 96 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Time for bed..."
+	"Dormir..."
 	keyWait
 		any = false
 	end

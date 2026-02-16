@@ -25,8 +25,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's wrong,
-	MegaMan!?
+	Que foi, MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -34,8 +33,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	The... Cybeast...
-	I can feel it...
+	A... Cyberbesta...
+	Eu tô sentindo ela...
 	"""
 	keyWait
 		any = false
@@ -43,8 +42,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Th_Then,that
-	means...!
+	E-então, isso que
+	dizer que...!
 	"""
 	keyWait
 		any = false
@@ -54,15 +53,14 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"Huh!?"
+	"Hã?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's wrong,
-	HeatMan!?
+	Que foi, HeatMan?!
 	"""
 	keyWait
 		any = false
@@ -70,16 +68,15 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	"""
-	Some really strong
-	power just appeared
-	out of nowhere...
+	Uma energia super
+	forte apareceu do nada...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Y_You're kidding!!"
+	"É-é sério?!"
 	keyWait
 		any = false
 	end
@@ -95,8 +92,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's wrong,
-	ElecMan!?
+	Que foi, ElecMan?!
 	"""
 	keyWait
 		any = false
@@ -104,24 +100,24 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	"""
-	The magnetic field
-	in this area just
-	shifted...
+	O campo magnético
+	desta área mudou
+	de repente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A power strong
-	enough to warp the
-	field is nearby...
+	Um poder forte o bastante
+	para distorcê-lo está
+	próximo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Y_You're kidding!!"
+	"É-é sério?!"
 	keyWait
 		any = false
 	end
@@ -137,8 +133,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's wrong,
-	SlashMan!?
+	Que foi, SlashMan?!
 	"""
 	keyWait
 		any = false
@@ -146,16 +141,16 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	"""
-	Watch out!!
-	Something really
-	dangerous is coming!
+	Fique alerta!!
+	Há uma coisa perigosa
+	a caminho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Y_You're kidding!!"
+	"É-é sério?!"
 	keyWait
 		any = false
 	end
@@ -164,15 +159,14 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"This is bad..."
+	"Isso não é nada bom..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's wrong,
-	EraseMan!?
+	Que foi, KillerMan?!
 	"""
 	keyWait
 		any = false
@@ -180,24 +174,22 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	"""
-	A really powerful
-	guy is calling for
-	us...
+	Um cara mó forte tá
+	chamando a gente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can hear him
-	yelling for our
-	deletion......
+	Eu sinto ele gritando
+	pela nossa deleção...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Y_You're kidding!!"
+	"É-é sério?!"
 	keyWait
 		any = false
 	end
@@ -206,15 +198,14 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Choo,choo..."
+	"Tchú-tchúú..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's wrong,
-	ChargeMan!?
+	Que foi, ChargeMan?!
 	"""
 	keyWait
 		any = false
@@ -222,23 +213,22 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	"""
-	My wheels are
-	wobbling...
+	As minhas rodas estão
+	cambaleantes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something dangerous
-	is coming down the
-	tracks...
+	Algo perigoso se
+	aproxima dos trilhos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Y_You're kidding!!"
+	"É-é sério?!"
 	keyWait
 		any = false
 	end
@@ -247,15 +237,14 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"D_Drip!?"
+	"X-xuá?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's wrong,
-	SpoutMan!?
+	Que foi, AguaMan?!
 	"""
 	keyWait
 		any = false
@@ -263,23 +252,23 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	"""
-	My water is
-	rippling,drip!
+	A minha água tá
+	ondulando, xuá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something really bad
-	is getting closer,
-	drip!
+	Uma coisa muito,
+	muito ruim tá
+	chegando perto, xuá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Y_You're kidding!!"
+	"É-é sério?!"
 	keyWait
 		any = false
 	end
@@ -288,15 +277,14 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Whoa!!"
+	"Eita!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's wrong,
-	TomahawkMan!?
+	Que foi, TomahawkMan?!
 	"""
 	keyWait
 		any = false
@@ -304,23 +292,21 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = TomahawkMan
 	"""
-	A really strong
-	spirit is getting
-	closer...
+	Tem um espírito super
+	forte se aproximando...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and it's a nasty
-	one to boot!
+	e é do pior tipo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Y_You're kidding!!"
+	"É-é sério?!"
 	keyWait
 		any = false
 	end
@@ -336,8 +322,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's wrong,
-	TenguMan!?
+	Que foi, TenguMan?!
 	"""
 	keyWait
 		any = false
@@ -345,16 +330,16 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = TenguMan
 	"""
-	I sense something
-	evil approaching.
-	Keep your guard up!
+	Sinto algo maligno
+	se aproximando.
+	Não baixe a guarda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Y_You're kidding!!"
+	"É-é sério?!"
 	keyWait
 		any = false
 	end
@@ -363,15 +348,14 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whiiiir!?"
+	"Tchhrrrr?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's wrong,
-	GroundMan!?
+	Que foi, GroundMan?!
 	"""
 	keyWait
 		any = false
@@ -379,22 +363,22 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	"""
-	Bad,bad... Something
-	bad is coming,
+	Coisa ruim...
+	Tem coisa ruim vindo aí.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	or so my drill
-	bits say...
+	É o que a minha
+	broca tá falando...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Y_You're kidding!!"
+	"É-é sério?!"
 	keyWait
 		any = false
 	end
@@ -403,15 +387,14 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	msgOpen
-	"Hmmmmm!?"
+	"Hmmmmm?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's wrong,
-	DustMan!?
+	Que foi, DustMan?!
 	"""
 	keyWait
 		any = false
@@ -419,16 +402,15 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	"""
-	Something really
-	bad's coming this
-	way...!
+	Tem uma coisa MUITO
+	ruim a caminho daqui...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Y_You're kidding!!"
+	"É-é sério?!"
 	keyWait
 		any = false
 	end
@@ -446,11 +428,11 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"M_MegaMan...!?"
+	"M-MegaMan...?!"
 	keyWait
 		any = false
 	clearMsg
-	"What's going on!?"
+	"O que tá acontecendo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -468,7 +450,7 @@ script 13 mmbn6 {
 	controlLock
 	soundPlay
 		track = 402
-	"*grrrrrrrrr!!*"
+	"Grrrrrrrrr!!"
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -487,7 +469,7 @@ script 14 mmbn6 {
 	controlLock
 	soundPlay
 		track = 404
-	"*screeeeeech!!*"
+	"Kyaaaaaarh!!"
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -502,9 +484,9 @@ script 15 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	It's just data bits
-	from the Underground
-	in a Cybeast's shape.
+	São apenas vestígios de
+	dados do SubSolo sob a
+	forma de uma Cyberbesta.
 	"""
 	keyWait
 		any = false
@@ -514,7 +496,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"B_Bass!"
+	"B-Bass!"
 	keyWait
 		any = false
 	clearMsg
@@ -526,23 +508,23 @@ script 17 mmbn6 {
 		mugshot = Bass
 	msgOpen
 	"""
-	I finally have the
-	power of a beast...
+	Eu enfim possuo o
+	poder de uma fera...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no one in
-	the Cyberworld who
-	can stop me now...
+	Agora, ninguém no
+	mundo cibernético é
+	capaz de me deter...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will destroy
-	the Cyberworld!
+	Eu irei destruir
+	toda a Rede!
 	"""
 	keyWait
 		any = false
@@ -555,9 +537,8 @@ script 18 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Destroy the
-	Cyberworld...!?
-	I won't let you!
+	Destruir a Rede...?!
+	Nunca que eu vou deixar!
 	"""
 	keyWait
 		any = false
@@ -569,29 +550,28 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"Hmph!"
+	"Hmpf!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no way a
-	weakling like you
-	can stop me!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If you want to fight
-	me,first you'll have
-	to go through him!
+	É impossível um verme
+	como você me parar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Show me what you've
-	got!!
+	Se quiser lutar comigo,
+	primeiro terá que
+	passar por ele!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mostre-me do que
+	você é capaz!!
 	"""
 	keyWait
 		any = false
@@ -610,7 +590,7 @@ script 20 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*grrrrrrrr!!*"
+	"Grrrrrrrr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -629,7 +609,7 @@ script 21 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeeech!!*"
+	"Kyaaaarh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -645,8 +625,9 @@ script 22 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Here it comes!!
-	Battle routine,set!!
+	Lá vem ele!!
+	Rotina de batalha,
+	preparar!!
 	"""
 	keyWait
 		any = false
@@ -671,7 +652,7 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -682,7 +663,7 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -693,7 +674,7 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -704,7 +685,7 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -715,7 +696,7 @@ script 27 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -726,7 +707,7 @@ script 28 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -737,7 +718,7 @@ script 29 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -748,7 +729,7 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -759,7 +740,7 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = TenguMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -770,7 +751,7 @@ script 32 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -781,7 +762,7 @@ script 33 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -793,9 +774,9 @@ script 34 mmbn6 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Weak fool!! Return
-	to the 0's and 1's
-	you're made of!
+	Verme fraco!! Volte
+	para o mundo binário
+	do qual você nasceu!
 	"""
 	keyWait
 		any = false
@@ -814,7 +795,7 @@ script 35 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*grrrrrrrr!!*"
+	"Grrrrrrrr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -831,7 +812,7 @@ script 36 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeeeeech!!*"
+	"Kyaaaaaarhh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX

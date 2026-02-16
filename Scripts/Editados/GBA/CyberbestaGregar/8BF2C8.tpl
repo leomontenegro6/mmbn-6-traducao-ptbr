@@ -25,9 +25,9 @@ script 1 mmbn6 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	YOU NEED A PASSWORD
-	TO OPEN THIS
-	CYBERDOOR.
+	DEVE-SE APRESENTAR
+	UMA SENHA PARA ACESSAR
+	ESTA CYBERPORTA.
 	"""
 	keyWait
 		any = false
@@ -36,15 +36,15 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	Undernet1 on it.
+	Nele, há um mapa
+	da Undernet 1.
 	"""
 	keyWait
 		any = false
@@ -55,9 +55,9 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	YOU NEED A PASSWORD
-	TO OPEN THIS
-	CYBERDOOR.
+	DEVE-SE APRESENTAR
+	UMA SENHA PARA ACESSAR
+	ESTA CYBERPORTA.
 	"""
 	keyWait
 		any = false
@@ -65,13 +65,13 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Um,the password
-	is... Uh...
+	Er, a senha é...
+	Uhm...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"M_Moneyhats..."
+	"H-HumilhaGeral..."
 	keyWait
 		any = false
 	clearMsg
@@ -80,7 +80,7 @@ script 3 mmbn6 {
 	controlLock
 	soundPlay
 		track = 202
-	"... *beep,beep!*"
+	"... Bip Bip!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -88,7 +88,7 @@ script 3 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"PASSWORD CONFIRMED."
+	"SENHA CONFIRMADA."
 	keyWait
 		any = false
 	flagClear
@@ -98,16 +98,15 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	Statues based on
-	Gregar and Falzar...
+	Estátuas baseadas no
+	Gregar e no Falzar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is an ominous
-	power coming from
-	them...
+	Uma força sinistra
+	emana delas...
 	"""
 	keyWait
 		any = false
@@ -115,7 +114,7 @@ script 4 mmbn6 {
 }
 script 5 mmbn6 {
 	msgOpen
-	"ENTER PASSWORD\n"
+	"INSIRA SENHA\n"
 	option
 		brackets = 1
 		left = 3
@@ -159,7 +158,7 @@ script 5 mmbn6 {
 		count = 1
 	"""
 	OK
-	たLてR:Cursor UてD:Numち
+	たEてD: Cursor CてB: Númち
 	"""
 	menuSelectPassword
 		password = 3
@@ -171,7 +170,7 @@ script 5 mmbn6 {
 }
 script 6 mmbn6 {
 	msgOpen
-	"... YOU MAY PASS."
+	"... PASSAGEM CONCEDIDA."
 	keyWait
 		any = false
 	flagClear
@@ -180,14 +179,14 @@ script 6 mmbn6 {
 }
 script 7 mmbn6 {
 	msgOpen
-	"... TRY AGAIN!"
+	"... TENTE OUTRA VEZ!"
 	keyWait
 		any = false
 	end
 }
 script 8 mmbn6 {
 	msgOpen
-	"... COME AGAIN!"
+	"... VOLTE SEMPRE!"
 	keyWait
 		any = false
 	end
@@ -195,8 +194,8 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	The cyberdoor is
-	blocking the way...
+	A cyberporta impede
+	a passagem...
 	"""
 	keyWait
 		any = false

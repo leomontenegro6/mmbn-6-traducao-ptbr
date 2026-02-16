@@ -28,8 +28,7 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Go back to operating
-	me,Lan?
+	Voltar a me operar, Lan?
 	"""
 	keyWait
 		any = false
@@ -45,7 +44,7 @@ script 1 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -54,7 +53,7 @@ script 1 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -109,8 +108,8 @@ script 65 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go tell Mick
-	about the penguin!
+	Vamos lá falar pro
+	Mick sobre o pinguim!
 	"""
 	keyWait
 		any = false
@@ -121,9 +120,9 @@ script 66 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's wait for Mick
-	in front of the
-	LevBus station!
+	Vamos esperar pelo Mick
+	na frente da estação de
+	Ônibus Magnético!
 	"""
 	keyWait
 		any = false
@@ -134,8 +133,7 @@ script 67 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to the
-	Aquarium,Lan!
+	Vamos pro Aquário, Lan!
 	"""
 	keyWait
 		any = false
@@ -146,8 +144,8 @@ script 68 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go home and
-	hit the sack,OK,Lan?
+	Que tal a gente ir
+	pra casa dormir, Lan?
 	"""
 	keyWait
 		any = false
@@ -158,16 +156,15 @@ script 69 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We said we'd meet
-	in front of the
-	Aquarium,so
+	A gente disse que ia
+	se encontrar na frente
+	do Aquário,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	let's head on out
-	there!
+	então vamos logo pra lá!
 	"""
 	keyWait
 		any = false
@@ -177,7 +174,7 @@ script 70 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's go inside,Lan!"
+	"Vamos entrar, Lan!"
 	keyWait
 		any = false
 	end
@@ -187,8 +184,8 @@ script 71 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's take a look
-	around,Lan!
+	Vamos dar uma
+	explorada por aí, Lan!
 	"""
 	keyWait
 		any = false
@@ -199,9 +196,9 @@ script 72 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The show's about to
-	start! Let's go or
-	we'll miss it!
+	O show tá pra começar!
+	Vamos logo, senão a
+	gente vai perder!
 	"""
 	keyWait
 		any = false
@@ -212,9 +209,9 @@ script 73 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	If Mick feels that
-	way,we should just
-	go home for today...
+	Se é assim mesmo que o
+	Mick se sente, só resta
+	pra gente ir pra casa...
 	"""
 	keyWait
 		any = false
@@ -261,8 +258,8 @@ script 80 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! We've gotta go
-	after Mick,quick!
+	Lan! A gente tem que
+	ir atrás do Mick, rápido!
 	"""
 	keyWait
 		any = false
@@ -278,17 +275,16 @@ script 81 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We've gotta get to
-	the control room
-	fast!
+	Temos que ir rápido
+	pra sala de controle!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Normalizing the main
-	computer is the only
-	way to save Mick!
+	Normalizar o computador
+	é a única forma da gente
+	salvar o Mick!
 	"""
 	keyWait
 		any = false
@@ -304,17 +300,17 @@ script 82 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we've gotta find
-	Fanny's play ball!
-	They just used it
+	Lan, a gente tem que
+	achar a bola da Lelê!
+	Acabaram de usar pra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for the show,so it's
-	gotta be around here
-	somewhere!
+	apresentação, então
+	deve estar por aqui,
+	em algum lugar!
 	"""
 	keyWait
 		any = false
@@ -325,9 +321,9 @@ script 83 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There must be some_
-	thing we can use so
-	we don't get stung!
+	Deve ter alguma coisa
+	que a gente possa usar
+	pra não se queimar!
 	"""
 	keyWait
 		any = false
@@ -338,9 +334,9 @@ script 84 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder what that
-	mysterious girl was
-	trying to tell us?
+	O que será que aquela
+	menina misteriosa quis
+	dizer?
 	"""
 	keyWait
 		any = false
@@ -351,8 +347,8 @@ script 85 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Transfer me
-	into that CopyBot!
+	Lan! Me transfere
+	pro CópiRoide!
 	"""
 	keyWait
 		any = false
@@ -363,9 +359,9 @@ script 86 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Use that ball to get
-	Fanny to move out of
-	our way,Lan!
+	Vamos usar a bola pra
+	fazer a Lelê sair do
+	caminho, Lan!
 	"""
 	keyWait
 		any = false
@@ -380,9 +376,9 @@ script 87 mmbn6 {
 		jumpIfTrue = continue
 		jumpIfFalse = 1
 	"""
-	Jack me in,Lan!
-	Hurry! We've gotta
-	save the Aquarium!
+	Me conecta, Lan!
+	Rápido! A gente tem
+	que salvar o Aquário!
 	"""
 	keyWait
 		any = false
@@ -393,9 +389,9 @@ script 88 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We've gotta hurry up
-	and get the ball
-	that's in the tank!
+	A gente tem que
+	pegar a bola dentro
+	do tanque, e rápido!
 	"""
 	keyWait
 		any = false
@@ -406,17 +402,16 @@ script 89 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! We've gotta
-	find Fanny's play
-	ball fast!
+	Lan! Vamos logo atrás
+	da bola da Lelê!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They used it in the
-	show,so maybe it's
-	near the stage...?
+	Ela foi usada durante
+	o show, então talvez
+	esteja perto do palco...
 	"""
 	keyWait
 		any = false
@@ -427,8 +422,9 @@ script 90 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hurry,Lan! Find the
-	main computer!
+	Rápido, Lan!
+	Encontra o computador
+	central!
 	"""
 	keyWait
 		any = false
@@ -443,9 +439,9 @@ script 95 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's hurry to where
-	Mick and the others
-	are,Lan!
+	Vamos logo pra
+	onde o Mick e os
+	outros tão, Lan!
 	"""
 	keyWait
 		any = false
@@ -456,8 +452,8 @@ script 96 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's call it a
-	day,Lan.
+	Vamos encerrar
+	por hoje, Lan.
 	"""
 	keyWait
 		any = false

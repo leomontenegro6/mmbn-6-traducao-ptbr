@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"Green Town..."
+	"Distrito Verde..."
 	keyWait
 		any = false
 	end
@@ -13,8 +13,8 @@ script 1 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The JudgeTree...
-	The JudgeTree...!
+	A Árvore Juíza...
+	A Árvore Juíza...!
 	"""
 	keyWait
 		any = false

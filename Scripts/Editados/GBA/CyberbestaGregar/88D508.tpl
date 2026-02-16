@@ -6,15 +6,15 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we'll go to the
-	Central Pavilion
+	Lan, a gente vai pro
+	Pavilhão Central depois
+	que terminar a Corrida
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	after we finish the
-	Stamp Rally.
+	dos Carimbos.
 	"""
 	keyWait
 		any = false

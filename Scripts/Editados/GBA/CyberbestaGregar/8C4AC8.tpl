@@ -15,9 +15,9 @@ script 0 mmbn6 {
 	waitSkip
 		frames = 30
 	"""
-	 Found him!!
-	You're Mick's Navi,
-	right?
+	 Achei!!
+	Você é o Navi
+	do Mick, né?
 	"""
 	keyWait
 		any = false
@@ -29,7 +29,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviMick
 	msgOpen
-	"Hmph!"
+	"Hmpf!"
 	keyWait
 		any = false
 	clearMsg
@@ -41,15 +41,15 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you doing
-	here!?
+	Tá fazendo o quê
+	parado aqui?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your operator is in
-	trouble!
+	O seu operador
+	tá em perigo!
 	"""
 	keyWait
 		any = false
@@ -62,16 +62,16 @@ script 3 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	He put some other
-	Navi in his PET!
+	Ele enfiou um outro
+	Navi aí no PET!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He looked dangerous
-	so I just said,
-	"Oh,well!"
+	Como parecia perigoso,
+	eu resolvi "ah, vida
+	que segue, né?"
 	"""
 	keyWait
 		any = false
@@ -84,16 +84,15 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're kidding,
-	right?
+	Tá zoando, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Aren't you following
-	Mick because you're
-	worried?
+	Cê não continua
+	seguindo o Mick
+	porque tá preocupado?
 	"""
 	keyWait
 		any = false
@@ -105,7 +104,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviMick
 	msgOpen
-	"Umm..."
+	"Humm..."
 	keyWait
 		any = false
 	end
@@ -119,22 +118,22 @@ script 6 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I need you two to
-	work together!
+	Eu preciso que vocês
+	dois colaborem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stop this fighting
-	and apologize,
+	Para com essa briga
+	idiota, pede desculpas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and let your Navi
-	back into your PET!
+	e deixa o seu Navi
+	voltar pro seu PET!
 	"""
 	keyWait
 		any = false
@@ -147,15 +146,15 @@ script 7 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	But,but,he's the one
-	that ran out on me!
+	M-m-mas foi ele
+	quem me largou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He should be
-	apologizing to me!
+	ELE é que devia
+	se desculpar!
 	"""
 	keyWait
 		any = false
@@ -167,14 +166,14 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviMick
 	msgOpen
-	"What!?"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm the one who's
-	always watching
-	out for...
+	Sou EU quem sempre
+	se ferra pra salvar
+	você de...
 	"""
 	keyWait
 		any = false
@@ -187,14 +186,14 @@ script 9 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	L_Lan!
-	Do something!
-	Hurry...
+	L-Lan!
+	Faz alguma coisa!
+	Rápido...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wah!!"
+	"Aagh!!"
 	keyWait
 		any = false
 	end
@@ -203,7 +202,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Waaaah! Ouuuuch!"
+	"Aaaahh! Ai, aaaaai!"
 	keyWait
 		any = false
 	clearMsg
@@ -230,36 +229,36 @@ script 12 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Ahh!! Where are the
-	Fire Extinguisher
-	System's controls!?
+	Ahh!! Cadê os controles
+	do Sistema do Extintor
+	de Incêndio?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Found it!"
+	"... Achei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Darn!!
-	It's protected!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Hang on,Mick!
-	I'll save you,no
-	matter what!!
+	Droga!!
+	Tão bloqueados!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Waaaaah!!
-	Fire Extinguisher
-	System activated!!
+	Aguenta aí, Mick!
+	Eu vou te salvar,
+	custe o que custar!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Aaaaahhhh!!
+	Sistema do Extintor
+	de Incêndio, ativado!
 	"""
 	keyWait
 		any = false
@@ -269,7 +268,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are you OK!?"
+	"Cê tá legal?!"
 	keyWait
 		any = false
 	clearMsg
@@ -281,13 +280,13 @@ script 14 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Strangely enough,
-	I'm OK...
+	Não sei como,
+	mas eu tô bem...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You big dummy..."
+	"Seu bobão..."
 	keyWait
 		any = false
 	clearMsg
@@ -299,9 +298,9 @@ script 15 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	Hey,wait a sec!
-	You said that
-	like you meant it...
+	Ô, como é que é?!
+	Cê falou isso com
+	vontade, viu...
 	"""
 	keyWait
 		any = false
@@ -312,8 +311,8 @@ script 16 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,it's
-	up to you now!
+	MegaMan,
+	agora é com você!
 	"""
 	keyWait
 		any = false

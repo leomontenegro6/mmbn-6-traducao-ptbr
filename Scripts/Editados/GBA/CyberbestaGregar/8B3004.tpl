@@ -14,7 +14,7 @@ script 1 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = MegaMan
-	"... Oof."
+	"... Uff."
 	keyWait
 		any = false
 	end
@@ -22,9 +22,8 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	The Rainbow Power
-	washed the typhoon
-	away.
+	O Poder Arco-Íris
+	desfez o tufão.
 	"""
 	keyWait
 		any = false
@@ -35,16 +34,15 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The cloud has
-	disappeared! The
-	road's clear!
+	A nuvem desapareceu!
+	O caminho tá liberado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can go forward
-	now!
+	Agora a gente
+	pode seguir!
 	"""
 	keyWait
 		any = false
@@ -55,8 +53,7 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... The rain's
-	stopped!
+	... A chuva parou!
 	"""
 	keyWait
 		any = false
@@ -67,25 +64,24 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The Rainbow Data
-	is complete!
-	While on a cloud,
+	Completamos os Dados
+	Arco-Íris! Na nuvem,
+	segure o botão "A"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	press the A Button
-	to shoot out some
-	Rainbow Power!
+	pra disparar
+	Poder Arco-Íris.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use that Power to
-	make a ring around
-	the typhoon!
+	Use esse Poder pra
+	formar um círculo
+	ao redor do tufão!
 	"""
 	keyWait
 		any = false
@@ -95,7 +91,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Uwaaaaah!!"
+	"Aaaaagh!!"
 	keyWait
 		any = false
 	end

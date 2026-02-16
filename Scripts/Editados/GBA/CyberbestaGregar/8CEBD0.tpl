@@ -4,24 +4,23 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	After MegaMan drank
-	the Healing Water,
-	Lan never left
+	A partir do momento
+	em que MegaMan tomou
+	a Água da Cura,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	his side for even
-	a blink. That was
-	10 hours ago.
+	Lan não saiu de seu
+	lado, nem por um instante.
+	Isso foi há 10 horas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And,now,
-	it's sunrise...
+	E, agora, o sol nasceu...
 	"""
 	keyWait
 		any = false
@@ -35,7 +34,7 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	Lan...
-	How...is MegaMan?
+	Como está... o MegaMan?
 	"""
 	keyWait
 		any = false
@@ -45,7 +44,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"L_Lan..."
+	"L-Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -58,7 +57,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad"
+	"Pai"
 	waitSkip
 		frames = 30
 	"."
@@ -76,7 +75,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"... How is..."
+	"... Como tá o..."
 	keyWait
 		any = false
 	clearMsg
@@ -96,11 +95,11 @@ script 5 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	" He did it."
+	" Ele conseguiu."
 	keyWait
 		any = false
 	clearMsg
-	"He"
+	"Ele"
 	waitSkip
 		frames = 30
 	"."
@@ -110,29 +109,28 @@ script 5 mmbn6 {
 	waitSkip
 		frames = 30
 	"""
-	.beat the
-	Cybeast.
+	. venceu a
+	Cyberbesta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's finally
-	sleeping
-	peacefully...
+	Até que enfim, ele tá
+	dormindo em paz...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm kinda
-	sleepy now...
+	Eu também tô com
+	mó sono agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"*wobble*"
+	"Shof..."
 	keyWait
 		any = false
 	end
@@ -142,15 +140,14 @@ script 6 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	You both...
-	...did great.
+	Vocês dois... fizeram
+	um ótimo trabalho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,get some sleep,
-	son...
+	Durma um pouco, filhão...
 	"""
 	keyWait
 		any = false
@@ -168,8 +165,8 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Huh? When did I
-	get into bed?
+	Ué? Quando foi que
+	eu me deitei na cama?
 	"""
 	keyWait
 		any = false
@@ -186,7 +183,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... M_MegaMan!"
+	"... M-MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -197,32 +194,32 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Morning,Lan..."
+	"Bom dia, Lan..."
 	keyWait
 		any = false
 	clearMsg
-	"I could hear you..."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	When the Cybeast was
-	taking me over,
-	"""
+	"Eu ouvi a sua voz..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your voice brought
-	me back...
+	Enquanto a Cyberbesta
+	tava me possuindo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,thank you...
-	And... I'm sorry
-	I made you worry!
+	a sua voz me
+	trouxe de volta...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Então, obrigado...
+	E... desculpa por te
+	preocupar tanto!
 	"""
 	keyWait
 		any = false
@@ -235,13 +232,13 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're OK now,
-	though,right?
+	Mas você tá
+	bem agora, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... I'm so glad..."
+	"... Eu tô tão feliz..."
 	keyWait
 		any = false
 	clearMsg
@@ -253,20 +250,20 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The Cybeast will
-	probably try to
-	take control again,
+	A Cyberbesta
+	provavelmente vai tentar
+	me controlar de novo,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"but I won't lose!"
+	"mas eu não vou\nme render!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yeah!!"
+	"É!!"
 	keyWait
 		any = false
 	clearMsg
@@ -278,9 +275,9 @@ script 12 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Just when I think
-	everything's OK,my
-	stomach yells at me!
+	Justo quando eu acho
+	que tá tudo bem, o meu
+	estômago discorda!
 	"""
 	keyWait
 		any = false
@@ -288,23 +285,22 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Oh... You didn't
-	eat anything since
-	last night because
+	Ah... Você não comeu
+	nada desde ontem à
+	noite porque ficou de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you were watching
-	over me,did you...?
+	olho em mim, né...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And it's lunchtime
-	already...
+	E já tá na hora
+	do almoço...
 	"""
 	keyWait
 		any = false
@@ -312,8 +308,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah,I guess it
-	is...
+	É, tá mesmo...
 	"""
 	keyWait
 		any = false
@@ -328,7 +323,7 @@ script 13 mmbn6 {
 	controlLock
 	callPETEffect
 		effect = 2
-	"*beep beep!*"
+	"Bip Bip!"
 	wait
 		frames = 62
 	callPETEffect
@@ -343,61 +338,81 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,you've got mail!"
+	"Lan, chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
-	"... It's from Dad!"
+	"... É do papai!"
 	keyWait
 		any = false
 	clearMsg
-	"I'll read it!"
+	"Eu vou ler aqui!"
 	keyWait
 		any = false
 	clearMsg
-	"\"It looks like you\n were able to fight\n off the Cybeast."
+	"""
+	"Parece que vocês
+	conseguiram conter
+	a Cyberbesta.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" While you two were\n sleeping, I studied\n MegaMan's body a"
+	"""
+	Enquanto vocês dormiam,
+	eu analisei um pouco o
+	corpo do MegaMan.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" little. The Cybeast\n is somehow living\n in there."
+	"""
+	De alguma forma, a
+	Cyberbesta permanece
+	viva dentro dele.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" I've installed a\n function in Lan's\n PET and in MegaMan"
+	"""
+	Eu instalei uma função no
+	seu PET e no MegaMan
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" that will allow you\n to control the\n Cybeast. Whether"
+	"""
+	que irá lhe permitir
+	controlar a Cyberbesta.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" you can master that\n power depends on\n you!\""
+	"""
+	Mas só depende de vocês
+	dominar esse poder!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	... That's what it
-	says!
+	... Fim do e-mail!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,there's a battle
-	program attached!
+	Ah, tem um
+	programa anexado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's try it out!
-	Initiating program!
+	Vamos experimentar!
+	Iniciando programa!
 	"""
 	keyWait
 		any = false

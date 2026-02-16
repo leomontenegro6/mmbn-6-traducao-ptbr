@@ -4,16 +4,15 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	There are some
-	very old books on
-	top of this cabinet.
+	Há livros bem velhos
+	sobre essa escrivaninha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They look like lists
-	of past graduates.
+	Parecem ser listas
+	de ex-alunos.
 	"""
 	keyWait
 		any = false
@@ -22,16 +21,16 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The monitor on top
-	of this cabinet is
+	O monitor sobre
+	esta escrivaninha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	displaying a graph
-	about something or
-	another.
+	exibe um gráfico
+	acerca de alguma
+	coisa aí.
 	"""
 	keyWait
 		any = false
@@ -40,14 +39,14 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	Teachers' schedules
-	for this week are
-	on this blackboard.
+	No quadro-negro,
+	os cronogramas dos
+	professores da semana.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Monday: Teachers'\n Meeting\""
+	"\"Segunda-Feira: Reunião\n de Professores\""
 	keyWait
 		any = false
 	end
@@ -60,21 +59,21 @@ script 3 mmbn6 {
 		jumpIfOutOfRange = 17
 	msgOpen
 	"""
-	The blackboard's
-	control panel.
+	O painel de controle
+	do quadro-negro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can instantly
-	change what is
-	shown on_screen,
+	É possível usá-lo para
+	mudar o que aparece
+	nele imediatamente,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and even jack in!"
+	"e até se conectar!"
 	keyWait
 		any = false
 	end
@@ -82,17 +81,16 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	There are important_
-	looking papers
-	here...
+	Aqui você vê
+	papéis que parecem
+	ser importantes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looking at them
-	without permission
-	would be really bad.
+	Lê-los sem permissão
+	seria uma péssima ideia.
 	"""
 	keyWait
 		any = false
@@ -113,31 +111,30 @@ script 5 mmbn6 {
 		jumpIfTrue = 15
 		jumpIfFalse = continue
 	"""
-	A big computer that
-	controls all of the
+	Um enorme computador
+	que controla todos os
+	Robôs de Segurança
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	school's Security
-	Bots.
+	da escola.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It also controls
-	all security inside
-	the school.
+	Ele também controla toda
+	a segurança dentro dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is a port for
-	jacking in,but only
-	teachers can use it.
+	Possui uma entrada de
+	conexão, mas somente
+	professores podem usá-la.
 	"""
 	keyWait
 		any = false
@@ -146,14 +143,14 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	There are all sorts
-	of materials for
-	class in this
+	Esse armário de
+	professores armazena
+	todo o tipo de
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"teachers' cabinet."
+	"materiais de aula."
 	keyWait
 		any = false
 	end
@@ -161,23 +158,23 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	These are the
-	teachers' desks.
+	Essas são as mesas
+	dos professores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The computers in
-	these desks are a
-	bit more powerful
+	Os computadores
+	nelas são um pouco
+	mais avançados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	than the ones in
-	the student model.
+	do que os das
+	carteiras dos alunos.
 	"""
 	keyWait
 		any = false
@@ -191,23 +188,23 @@ script 8 mmbn6 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	These are the
-	teachers' desks.
+	Essas são as mesas
+	dos professores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The computers in
-	these desks are a
-	bit more powerful
+	Os computadores
+	nelas são um pouco
+	mais avançados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	than the ones in
-	the student model.
+	do que os das
+	carteiras dos alunos.
 	"""
 	keyWait
 		any = false
@@ -216,16 +213,17 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	Looking up,there
-	is a staircase sign.
+	Olhando para cima,
+	você vê uma placa
+	sobre a escadaria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can go to the
-	2nd floor this way
-	it seems.
+	Ao que parece, dá para
+	acessar o segundo andar
+	através dela.
 	"""
 	keyWait
 		any = false
@@ -250,23 +248,23 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	msgOpen
 	"""
-	These are the
-	teachers' desks.
+	Essas são as mesas
+	dos professores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The computers in
-	these desks are a
-	bit more powerful
+	Os computadores
+	nelas são um pouco
+	mais avançados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	than the ones in
-	the student model.
+	do que os das
+	carteiras dos alunos.
 	"""
 	keyWait
 		any = false
@@ -275,9 +273,9 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	msgOpen
 	"""
-	The sign above the
-	door says:
-	"ResearchLab2".
+	Na placa acima da
+	porta: "Laboratório
+	de Pesquisa 2".
 	"""
 	keyWait
 		any = false
@@ -286,9 +284,9 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	msgOpen
 	"""
-	The sign above the
-	door says:
-	"ResearchLab1".
+	Na placa acima da
+	porta: "Laboratório
+	de Pesquisa 1".
 	"""
 	keyWait
 		any = false
@@ -297,15 +295,15 @@ script 13 mmbn6 {
 script 14 mmbn6 {
 	msgOpen
 	"""
-	A big computer that
-	controls all of the
+	Um enorme computador
+	que controla todos os
+	Robôs de Segurança
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	school's Security
-	Bots.
+	da escola.
 	"""
 	keyWait
 		any = false
@@ -313,16 +311,17 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,send me into
-	this computer!
+	Lan, me manda
+	pra dentro desse
+	computador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll look for the
-	video data that
-	Security Bot took!
+	Eu vou procurar pelos
+	dados do vídeo que o
+	Robô de Segurança filmou!
 	"""
 	keyWait
 		any = false
@@ -331,28 +330,28 @@ script 14 mmbn6 {
 script 15 mmbn6 {
 	msgOpen
 	"""
-	A big computer that
-	controls all of the
+	Um enorme computador
+	que controla todos os
+	Robôs de Segurança
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	school's Security
-	Bots.
+	da escola.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It also controls
-	all security inside
-	the school.
+	Ele também controla
+	toda a segurança
+	dentro da escola.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You can jack in."
+	"Você pode se conectar."
 	keyWait
 		any = false
 	end
@@ -360,9 +359,9 @@ script 15 mmbn6 {
 script 16 mmbn6 {
 	msgOpen
 	"""
-	There are pamphlets
-	for something inside
-	the box.
+	Dentro da caixa
+	há panfletos de
+	alguma coisa.
 	"""
 	keyWait
 		any = false
@@ -371,17 +370,16 @@ script 16 mmbn6 {
 script 17 mmbn6 {
 	msgOpen
 	"""
-	It's the control
-	panel for the
-	blackboard.
+	O painel de controle
+	do quadro-negro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can change what
-	is shown on_screen
-	instantly.
+	É possível usá-lo para
+	mudar o que aparece
+	nele imediatamente.
 	"""
 	keyWait
 		any = false

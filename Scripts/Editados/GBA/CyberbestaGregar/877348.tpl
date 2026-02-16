@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	I told you not to
-	leave the classroom!
+	Eu falei pra você
+	não sair da sala!
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,8 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	AHHHH!!
-	It's too hot to keep
-	going!
+	É quente demais
+	pra chegar perto...!
 	"""
 	keyWait
 		any = false
@@ -31,8 +31,8 @@ script 10 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Hikari...
-	Fight me...
+	Lan...
+	Lute comigo...
 	"""
 	keyWait
 		any = false
@@ -48,7 +48,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -57,7 +57,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -72,15 +72,14 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Don't you want to
-	know...
+	Você não quer saber
+	quem é mais forte,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You...or I...
-	Who is stronger?
+	eu ou você?
 	"""
 	keyWait
 		any = false
@@ -91,8 +90,8 @@ script 11 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Let me show you
-	the real ProtoMan!
+	Mostrarei para você o
+	verdadeiro ProtoMan!
 	"""
 	keyWait
 		any = false
@@ -100,8 +99,8 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Alright!
-	Let's see it!
+	Beleza!
+	Quero só ver!
 	"""
 	keyWait
 		any = false
@@ -109,15 +108,15 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	You asked for it!!
-	Do it ProtoMan!!
+	Você que pediu!!
+	Vá, ProtoMan!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Yaaaaaaaahhhh!!"
+	"Iiiááááááárh!!"
 	keyWait
 		any = false
 	flagSet
@@ -131,9 +130,9 @@ script 12 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	You really proved
-	it... Your strength
-	that is...
+	Você a comprovou
+	com maestria...
+	A sua força...
 	"""
 	keyWait
 		any = false
@@ -144,9 +143,9 @@ script 13 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	You can't beat
-	ProtoMan with weak
-	attacks like that!!
+	Nunca irá vencer o
+	ProtoMan com ataques
+	fracos assim!!
 	"""
 	keyWait
 		any = false

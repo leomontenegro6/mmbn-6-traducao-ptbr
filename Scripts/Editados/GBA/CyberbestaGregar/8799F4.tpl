@@ -10,24 +10,24 @@ script 10 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I came down here to
-	get my brother,but
+	Eu vim buscar
+	o meu irmão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that kid is in
-	detention with
-	his teacher...
+	mas o moleque tá preso
+	no castigo com o
+	professor dele...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	which means that I'm
-	stuck waiting for
-	him for a while...
+	Logo, eu vou ter que
+	ficar plantada aqui
+	esperando um tempão...
 	"""
 	keyWait
 		any = false
@@ -42,9 +42,9 @@ script 11 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Good bye.
-	Be careful on your
-	way home.
+	Tchau.
+	Cuide-se bem na
+	volta pra casa.
 	"""
 	keyWait
 		any = false
@@ -55,16 +55,16 @@ script 15 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	The weather's gotten
-	really weird...
+	O tempo ficou
+	tão esquisito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've gotta wait for
-	Mom to come pick me
-	up...
+	Vou ter que esperar
+	a minha mãe vir me
+	buscar...
 	"""
 	keyWait
 		any = false
@@ -75,14 +75,14 @@ script 16 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The weather has
-	become very strange.
-	Please hurry home.
+	O tempo ficou bem
+	estranho. Por favor,
+	siga logo para casa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Go!"
+	"Agora!"
 	keyWait
 		any = false
 	end
@@ -96,24 +96,22 @@ script 30 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Looks like the
-	final round of
-	the Operator Navi
+	Parece que a última
+	rodada da Prova de
+	Seleção de Navi Operador
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Selection Test has
-	already begun!
+	já começou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good luck!
-	I'll be cheering
-	for you!
+	Boa sorte!
+	Tô torcendo por você!
 	"""
 	keyWait
 		any = false
@@ -124,9 +122,8 @@ script 31 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	What were the
-	final results?
-	How did you do?
+	Qual foi o resultado?
+	Como você se saiu?
 	"""
 	keyWait
 		any = false

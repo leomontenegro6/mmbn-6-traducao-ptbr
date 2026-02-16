@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Hm!?"
+	"... Hm?!"
 	keyWait
 		any = false
 	end
@@ -15,8 +15,9 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That girl...
-	Why is she here?
+	Aquela menina...
+	Ela tá fazendo
+	o quê aqui?
 	"""
 	keyWait
 		any = false
@@ -27,8 +28,8 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? Wha_?
-	She was just...here?
+	Hã? Ué...?
+	Mas ela tava bem... aqui...
 	"""
 	keyWait
 		any = false
@@ -39,8 +40,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey!!
-	Wait up,you!!
+	Ei!!
+	Ô, espera!!
 	"""
 	keyWait
 		any = false

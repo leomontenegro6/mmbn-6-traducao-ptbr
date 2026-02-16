@@ -6,16 +6,15 @@ script 0 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Y_You're
+	V-você...?
 	Lan Hikari...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like the day
-	you get to operate
-	me has finally come.
+	Parece que enfim chegou
+	o dia de você me operar.
 	"""
 	keyWait
 		any = false
@@ -28,9 +27,9 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And it looks like
-	you've been staying
-	out of trouble!
+	Tô vendo que você
+	não andou aprontando
+	muita coisa, né?
 	"""
 	keyWait
 		any = false
@@ -43,17 +42,17 @@ script 2 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Don't say that kind
-	of stuff in front of
-	Ms.Zap!
+	Shh! Não fale esse
+	tipo de coisa na
+	frente da Srta. Zap!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ms.Zap and I are
-	working hard to flip
-	things around.
+	Ela e eu estamos
+	dando muito duro para
+	apagar esse passado.
 	"""
 	keyWait
 		any = false
@@ -66,23 +65,22 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmm... Ms.Zap does
-	sound like a good
-	person...
+	Hmm... A Srta. Zap
+	parece ser gente boa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I guess I'll
-	believe you!
+	então acho que vou
+	acreditar em você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's nice to work
-	with you,ElecMan!
+	É um prazer trabalhar
+	com você, ElecMan!
 	"""
 	keyWait
 		any = false
@@ -94,7 +92,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"Hmph!"
+	"Hmpf!"
 	keyWait
 		any = false
 	clearMsg
@@ -105,22 +103,22 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = AnnZap
 	msgOpen
-	"Let's get started!"
+	"Comecemos!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You will operate
-	ElecMan,and direct
-	him to Sky Area1.
+	Você irá operar o
+	ElecMan e guiá-lo
+	até a Área Céu 1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is a NetCafe
-	there. Please find
-	the NetCafe owner.
+	Há um NetCafé lá.
+	Por favor, fale com o
+	dono do estabelecimento.
 	"""
 	keyWait
 		any = false
@@ -133,14 +131,14 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's it? That's
-	so easy! I'll be
-	done in a snap!
+	Só isso? Vai ser mamão
+	com açúcar! Eu vou
+	resolver isso rapidinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,ElecMan!"
+	"Bora lá, ElecMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -152,9 +150,9 @@ script 7 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Hmph,guess I have to
-	go along...
-	Alright,let's go.
+	Hmpf, acho que terei
+	de seguir suas ordens...
+	Pois bem, vamos.
 	"""
 	keyWait
 		any = false

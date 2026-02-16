@@ -9,17 +9,17 @@ script 0 mmbn6 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	It's a copy of
-	Mr.Weather. It looks
-	really well_made...
+	É uma réplica
+	do Seu Cleema.
+	É muito bem feita...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can jack in,but
-	there's no need to
-	right now...
+	Dá para se conectar,
+	mas o Lan não precisa
+	fazer isso agora.
 	"""
 	keyWait
 		any = false
@@ -37,16 +37,15 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	The voice coming
-	from the monitor
-	is explaining the
+	A voz saindo do monitor
+	está explicando os efeitos
+	do tempo e do clima
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	effect of weather
-	on everyday life.
+	sobre o nosso dia-a-dia.
 	"""
 	keyWait
 		any = false
@@ -61,8 +60,9 @@ script 3 mmbn6 {
 		flag = 3685
 	msgOpen
 	"""
-	Lan stamped his
-	Stamp Rally Card!!
+	Lan carimbou seu
+	Cartão da Corrida
+	de Carimbos!!
 	"""
 	keyWait
 		any = false
@@ -74,9 +74,8 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Alright! I got the
-	Sky Pavilion
-	stamp!
+	Beleza! Peguei o carimbo
+	do Pavilhão Céu!
 	"""
 	keyWait
 		any = false
@@ -85,16 +84,16 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	A stamp for the
-	Stamp Rally.
+	Um carimbo da
+	Corrida de Carimbos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The mark on this
-	stamp is the Sky
-	Town seal.
+	O símbolo nesse
+	carimbo é o selo
+	do Distrito Céu.
 	"""
 	keyWait
 		any = false
@@ -103,14 +102,14 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	It's a copy of
-	Mr.Weather. It looks
-	really well_made...
+	É uma réplica
+	do Seu Cleema.
+	É muito bem feita...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You can jack in."
+	"Dá para se conectar nela."
 	keyWait
 		any = false
 	end

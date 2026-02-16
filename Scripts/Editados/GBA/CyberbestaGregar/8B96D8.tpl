@@ -4,24 +4,24 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	The word,"TRUTH" is
-	carved into this
-	tablet.
+	A palavra "VERDADE"
+	está talhada nesta
+	tabuleta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can feel this
-	courthouse's dignity
-	through this word...
+	A palavra realmente
+	transmite a dignidade
+	deste tribunal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is a port for
-	jacking in!
+	E há uma entrada
+	para conexão!
 	"""
 	keyWait
 		any = false
@@ -30,17 +30,17 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	These are law books
-	filled with all the
-	laws of this land...
+	Esses são livros de
+	direito, recheados das
+	leis desta área...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But who in the world
-	could read books of
-	this size!?
+	Mas quem seria capaz
+	de ler livros dessa
+	grossura?!
 	"""
 	keyWait
 		any = false
@@ -49,32 +49,31 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	This gate is
-	outfitted with
-	sensors.
+	Esse acesso é
+	repleto de sensores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It checks for
-	dangerous items to
+	Servem para escanear
+	objetos perigosos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	stop them from being
-	carried into the
-	courtroom.
+	impedindo-os de serem
+	levados para dentro do
+	tribunal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So it's like the
-	law protector's
-	protector.
+	O protetor daqueles
+	que protegem as
+	leis, pode-se dizer.
 	"""
 	keyWait
 		any = false
@@ -83,17 +82,17 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	The control panel
-	for the door to the
-	courtroom.
+	É o painel de controle
+	da porta para a sala
+	de audiências.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's up high so no
-	one can play around
-	with the controls.
+	Fica bem alto, para
+	impedir que qualquer
+	um possa mexer nele.
 	"""
 	keyWait
 		any = false
@@ -102,9 +101,9 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	The gray of the
-	courthouse is lifted
-	by the green plants.
+	O cinza do tribunal
+	é alegrado pelas
+	plantas verdes.
 	"""
 	keyWait
 		any = false
@@ -113,27 +112,23 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	A line of photos of
-	all the past judges.
+	Uma fileira de fotos
+	de antigos juízes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like the
-	first and second
-	judges were
+	Parece que o primeiro
+	e segundo juízes eram
+	pai e filho,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"father and son,but"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	it's rare for judges
-	to be related.
+	mas é raro juízes
+	serem parentes.
 	"""
 	keyWait
 		any = false
@@ -142,17 +137,16 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	The sweet fragrance
-	of flowers fills the
-	air...
+	O doce aroma das
+	flores preenche o ar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One whiff and it
-	can calm anyone's
-	nerves.
+	Uma única aspirada
+	acalma os nervos
+	de qualquer um.
 	"""
 	keyWait
 		any = false
@@ -162,9 +156,9 @@ script 6 mmbn6 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	It looks like some_
-	thing fell into the
-	flower bed...
+	Parece que caiu
+	alguma coisa no
+	canteiro de flores...
 	"""
 	keyWait
 		any = false
@@ -176,7 +170,7 @@ script 6 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -189,8 +183,8 @@ script 6 mmbn6 {
 	playerResetScene
 	clearMsg
 	"""
-	Regular memory
-	increased by
+	Memória padrão
+	aumentada em
 	2 MB!!!
 	"""
 	keyWait
@@ -202,24 +196,23 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	These chairs are for
-	observers who can't
-	get inside...
+	Esse assento é para
+	os curiosos que não
+	podem entrar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are numbers
-	carved in here.
+	Há números talhados nele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe someone
-	waiting for a
-	verdict did it...
+	Talvez tenha sido obra
+	de alguém que aguardava
+	um veredito...
 	"""
 	keyWait
 		any = false

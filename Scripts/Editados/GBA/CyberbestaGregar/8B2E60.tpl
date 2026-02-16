@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	You've gotta cut up
-	the veggie before it
-	goes bad,OK!?
+	Você tem que fatiar a
+	verdura antes que ela
+	estrague, viu?!
 	"""
 	keyWait
 		any = false
@@ -21,13 +21,13 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = PatFahran
 	msgOpen
-	"Ready..."
+	"Preparar..."
 	wait
 		frames = 60
 	"\n"
 	textSpeed
 		delay = 0
-	"Cut!!"
+	"Cortar!!"
 	wait
 		frames = 60
 	end
@@ -36,7 +36,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = PatFahran
 	msgOpen
-	"Ok! That was great!"
+	"OK! Muito bem!"
 	keyWait
 		any = false
 	end
@@ -45,14 +45,14 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = PatFahran
 	msgOpen
-	"Great job!"
+	"Bom trabalho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's keep going
-	and find another
-	veggie,OK!?
+	Vamos seguir em
+	frente e achar
+	outra verdura, tá?
 	"""
 	keyWait
 		any = false
@@ -63,15 +63,14 @@ script 12 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	We still need more
-	sliced veggies!
+	Ainda precisamos de
+	mais verduras fatiadas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go find more
-	veggies!!
+	Vamos atrás de mais!!
 	"""
 	keyWait
 		any = false
@@ -82,17 +81,17 @@ script 15 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	No,no! Your cutting
-	posture is wrong,and
-	you're too slow!
+	Não, não! Sua postura tá
+	toda errada pra fatiar,
+	e você foi lento demais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,well. Better go
-	find another veggie
-	to cut.
+	Bom, bola pra frente.
+	Encontre outra verdura
+	para fatiar.
 	"""
 	keyWait
 		any = false

@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's a dead_end!"
+	"É um beco sem saída!"
 	keyWait
 		any = false
 	end
@@ -13,9 +13,8 @@ script 0 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	The cloud seems to
-	be undergoing
-	maintenance.
+	A nuvem parece estar
+	sendo consertada.
 	"""
 	keyWait
 		any = false

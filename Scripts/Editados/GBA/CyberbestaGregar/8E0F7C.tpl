@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan's late.
-	What's he doing
-	anyway!?
+	O Lan tá atrasado.
+	O que é que ele tá
+	fazendo, hein?!
 	"""
 	keyWait
 		any = false
@@ -21,9 +21,9 @@ script 1 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	... Looks like his
-	trademark lateness
-	hasn't changed.
+	... Parece que nem uma
+	mudança tira o atraso
+	do atrasado.
 	"""
 	keyWait
 		any = false
@@ -36,16 +36,16 @@ script 2 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Well,he can't help
-	it. It's really far
-	between ACDC Town
+	Ah, não é culpa dele
+	dessa vez. O Bairro ACDC
+	e a Cidade Saibher
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and Cyber City.
-	He'll be here.
+	ficam bem longe um do
+	outro. Ele chega já.
 	"""
 	keyWait
 		any = false
@@ -61,7 +61,7 @@ script 3 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 3
-	"H_Hey,everyone..."
+	"O-oi, pessoal..."
 	textSpeed
 		delay = 2
 	keyWait
@@ -73,8 +73,8 @@ script 4 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Whoooooa!
-	L_Laaaaan!
+	Aaaêêêêêêê!
+	L-Laaaaan!
 	"""
 	keyWait
 		any = false
@@ -86,7 +86,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Hey,Lan!"
+	"Oi, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -97,7 +97,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Welcome back,Lan!"
+	"Bem-vindo de volta!"
 	keyWait
 		any = false
 	clearMsg
@@ -109,22 +109,21 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dex,Yai,
-	...Mayl...
+	Dex, Yai...
+	... Mayl...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's good to
-	be back!
+	É bom estar de volta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Ehehehe,it's
-	kinda embarrassing.
+	... He he he,
+	tô meio sem jeito.
 	"""
 	keyWait
 		any = false
@@ -133,39 +132,40 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	We talked about all
-	sorts of things
-	after that __ about
+	A gente papeou sobre
+	todo o tipo de coisa
+	depois disso:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyber City,my new
-	school and friends,
+	a Cidade Saibher,
+	a minha nova escola,
+	meus novos amigos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	things that happened
-	after I left,and of
-	course,ACDC school.
+	o que rolou depois que
+	eu fui embora e, claro,
+	sobre a Escola ACDC.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We had so much to
-	talk about that
+	A gente tinha tanta
+	conversa pra pôr em dia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	time just flew by
-	without us realizing
-	it.
+	que, sem que a gente
+	se desse conta, o tempo
+	passou voando.
 	"""
 	keyWait
 		any = false
@@ -178,9 +178,9 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... And this guy,
-	Mick,he's just like
-	Dex!
+	... E tem esse cara
+	lá, o Mick, que é
+	que nem o Dex!
 	"""
 	keyWait
 		any = false
@@ -193,8 +193,8 @@ script 10 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Then he's gotta be
-	a strong NetBattler!
+	Ah, então ele deve ser
+	mó fera nas NetLutas!
 	"""
 	keyWait
 		any = false
@@ -207,8 +207,8 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ummmm...
-	... Well,not really.
+	Huuummm...
+	... Bom, na real, não.
 	"""
 	keyWait
 		any = false
@@ -232,9 +232,8 @@ script 13 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Hahaha,there are
-	people like Dex no
-	matter where you go!
+	Ha ha ha, o mundo é
+	mesmo cheio de "Dexs"!
 	"""
 	keyWait
 		any = false
@@ -247,17 +246,16 @@ script 14 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Hey,Lan,why don't
-	you take a walk
-	around town?
+	Ei, Lan, por que não dá
+	uma voltinha pelo bairro?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure people
-	would love to say
-	hi to you!
+	Com certeza tá todo
+	mundo querendo te dar
+	um "oi"!
 	"""
 	keyWait
 		any = false
@@ -269,7 +267,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,yeah! OK!"
+	"Ah, verdade! Beleza!"
 	keyWait
 		any = false
 	end
@@ -277,14 +275,14 @@ script 15 mmbn6 {
 script 16 mmbn6 {
 	msgOpen
 	"""
-	Lan rode the LevBus
-	to ACDC Town.
-	A few hours later,
+	Lan pegou o Ônibus
+	Magnético até o
+	Bairro ACDC.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"in ACDC Town..."
+	"Algumas horas depois..."
 	keyWait
 		any = false
 	end

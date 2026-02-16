@@ -6,8 +6,7 @@ script 0 mmbn6 {
 		mugshot = PatFahran
 	msgOpen
 	"""
-	Where are you
-	going!?
+	Aonde é que você vai?!
 	"""
 	keyWait
 		any = false
@@ -18,8 +17,7 @@ script 5 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Where are you
-	headed!?
+	Aonde pretende ir?!
 	"""
 	keyWait
 		any = false
@@ -29,13 +27,13 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"NO,I'M NOT BROKEN!"
+	"NÃO, EU NÃO\nESTOU QUEBRADO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I ALWAYS LOOK THIS
-	WAY!!
+	ESTA É MINHA
+	APARÊNCIA DE SEMPRE!!
 	"""
 	keyWait
 		any = false
@@ -46,23 +44,23 @@ script 8 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Wait a sec!! Wait!
-	You took a look at
-	me then laughed!?
+	Espera aí!! Espera!
+	Você me viu de relance
+	e riu, não foi?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure you
-	laughed!!
+	Eu SEI que você riu!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Laugh when I sue
-	you for slander!
+	Quero ver se vai rir
+	quando eu te processar
+	por calúnia!
 	"""
 	keyWait
 		any = false
@@ -77,15 +75,15 @@ script 10 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	I'm a SubChip
-	merchant!
+	Sou um mercador
+	de SubChips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I got lots of
-	great things!
+	Meu acervo é
+	show de bola!
 	
 	"""
 	positionOptionHorizontal
@@ -98,7 +96,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Look "
+	" Ver "
 	option
 		brackets = 0
 		left = 0
@@ -107,7 +105,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't look "
+	" Não ver "
 	select
 		default = 0
 		BSeparate = false
@@ -124,8 +122,7 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	clearMsg
 	"""
-	Come back again
-	sometime!
+	Volte sempre!
 	"""
 	keyWait
 		any = false
@@ -136,15 +133,16 @@ script 12 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	I'm a SubChip
-	merchant!
+	Sou um mercador
+	de SubChips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But right now I'm
-	sold out!! Sorry!
+	Mas estou sem nada
+	para oferecer agora!
+	Sinto muito!
 	"""
 	keyWait
 		any = false
@@ -155,16 +153,14 @@ script 15 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	...You can't throw
-	away your trash in
-	the street!!
+	... Não pode jogar
+	lixo na rua!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That is a crime
-	you know...
+	É crime, não sabia?
 	"""
 	keyWait
 		any = false
@@ -175,17 +171,17 @@ script 16 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS GREEN AREA.
-	AN AREA THAT LOVES
-	THE RULE OF LAW.
+	ESTA É A ÁREA VERDE,
+	UMA ÁREA QUE AMA O
+	ESTADO DE DIREITO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NO ONE DOES BAD
-	THINGS,BECAUSE WE
-	ARE ALWAYS WATCHING!
+	NINGUÉM COMETE MALDADES
+	PORQUE ESTAMOS SEMPRE
+	OBSERVANDO!
 	"""
 	keyWait
 		any = false
@@ -199,36 +195,30 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Hehehehe..."
+	"He he he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't you think that
-	there have been
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	a lot of scary
-	rumors lately?
+	Cê não acha que tem
+	rodado muitos boatos
+	sinistros estes dias?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When it's dark,or
-	scary,I just laugh
-	it all away!
+	Mas, quando o mundo tá
+	medonho ou sombrio, eu
+	rio e espanto os males!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How about you buy
-	a program to make
-	you laugh for 3000Z?
+	Que tal um programinha
+	pra te fazer rir, só
+	3000Z na minha mão?
 	"""
 	keyWait
 		any = false
@@ -244,7 +234,7 @@ script 20 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -253,7 +243,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -268,9 +258,9 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Fine then...
-	Enjoy living in
-	your dark world.
+	Tá bom, então...
+	Divirta-se aí com esse
+	seu mundo sombrio.
 	"""
 	keyWait
 		any = false
@@ -287,13 +277,12 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Ahh,you'll buy it!?"
+	"Ahh, vai comprar?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You just made a
-	great choice!
+	Ótima escolha, meu grande!
 	"""
 	keyWait
 		any = false
@@ -307,7 +296,7 @@ script 21 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printNaviCustProgram
@@ -322,9 +311,9 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	From now on,you're
-	gonna be one funny
-	guy!
+	De agora em diante,
+	cê vai ser o riso
+	em pessoa! He he!
 	"""
 	keyWait
 		any = false
@@ -335,9 +324,9 @@ script 22 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Sorry to say this...
-	But you don't have
-	enough money!
+	Desculpa falar...
+	mas cê não tem
+	dinheiro o bastante!
 	"""
 	keyWait
 		any = false
@@ -348,8 +337,8 @@ script 23 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Hey! It's the new
-	laugh general!!
+	Opa, olha aí! É o novo
+	general da comédia!!
 	"""
 	keyWait
 		any = false
@@ -363,35 +352,33 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"What?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Quit studying
-	viruses?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	There's no reason
-	for me to do that!
+	"Parar de estudar vírus"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go over there!
-	If I catch you
-	bothering me again,
+	Mas não tem por que eu
+	fazer uma coisa dessas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll send a virus
-	after you!!
+	Sai fora!
+	Se me incomodar de novo,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	eu mando um vírus
+	pra te dar uma lição!
 	"""
 	keyWait
 		any = false
@@ -407,7 +394,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Try me! "
+	" Quero só ver! "
 	option
 		brackets = 0
 		left = 0
@@ -416,7 +403,7 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Wait!"
+	" Espera!"
 	select
 		default = 0
 		BSeparate = false
@@ -430,8 +417,8 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	If you only
-	understood...
+	Bom, se estamos
+	entendidos...
 	"""
 	keyWait
 		any = false
@@ -442,16 +429,16 @@ script 26 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You just don't give
-	up,do you...?
+	Você não desiste
+	mesmo, hein...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nothing I can do
-	now except introduce
-	you to some viruses!
+	Bom, o jeito vai
+	ser te apresentar
+	pra uns vírus aqui!
 	"""
 	keyWait
 		any = false
@@ -465,20 +452,20 @@ script 27 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Waaahhh..."
+	"Aaaagh..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
-	"W_Wait a second!"
+	"E-espera aí!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who thinks they
-	can just halt my
-	research!?
+	Quem esse aí pensa que
+	é pra cancelar a minha
+	pesquisa assim?!
 	"""
 	keyWait
 		any = false
@@ -486,91 +473,89 @@ script 27 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Are you her big
-	brother...?
+	Você que é o irmão
+	mais velho dela...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,really,I'm
-	blah blah blah...
+	Bom, é que, na real...
+	Blá, blá, blá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
-	"Hmm... Is that so..."
+	"Hmm... Entendi..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm actually a
-	university virus
-	researcher.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Not too long from
-	now I will have to
-	present my research.
+	Na verdade, eu sou
+	um pesquisador de
+	vírus pela universidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I don't go home,
-	instead I stay here
-	and work...
+	Muito em breve, vou
+	ter que apresentar
+	a minha tese.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to make a
-	world without
-	viruses!
+	Daí, não tenho ido pra
+	casa. Em vez disso, fico
+	aqui pra trabalhar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,I didn't
-	realize my sister
-	was that worried.
+	O meu sonho é fazer
+	um mundo sem vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will talk to her,
-	but since you're
+	Mas não tinha percebido
+	que estava preocupando
+	tanto a minha irmã.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the same age,you
-	should try talking
-	to her too.
+	Eu vou falar com ela,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry to bother you
-	with that...
+	mas, como você e ela têm
+	a mesma idade, devia
+	falar com ela também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I'll make sure
-	to go home from now
-	on...
+	Desculpa a
+	dor de cabeça...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E eu juro que vou pra
+	casa com mais frequência
+	de agora em diante...
 	"""
 	keyWait
 		any = false
@@ -583,9 +568,9 @@ script 28 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I caused the
-	problems in this
-	misunderstanding...
+	Desculpa pelos problemas
+	que causei com este
+	mal-entendido...
 	"""
 	keyWait
 		any = false
@@ -600,8 +585,8 @@ script 30 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I sell programs.
-	Look at my stock?
+	Eu vendo programas.
+	Quer ver meu acervo?
 	
 	"""
 	positionOptionHorizontal
@@ -614,7 +599,7 @@ script 30 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Look  "
+	" Ver  "
 	option
 		brackets = 0
 		left = 0
@@ -623,7 +608,7 @@ script 30 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't look"
+	" Não ver"
 	select
 		default = 0
 		BSeparate = false
@@ -639,7 +624,7 @@ script 30 mmbn6 {
 }
 script 31 mmbn6 {
 	clearMsg
-	"Come back again."
+	"Volte sempre."
 	keyWait
 		any = false
 	end
@@ -649,8 +634,8 @@ script 32 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Sorry,but I'm
-	all sold out...
+	Desculpe, mas está
+	tudo esgotado...
 	"""
 	keyWait
 		any = false
@@ -661,9 +646,9 @@ script 35 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Hey! Where you goin?
-	You got nothin' to
-	do over there!
+	Ei! Aonde é que cê vai?
+	Não tem nada pra fazer
+	aí, não!
 	"""
 	keyWait
 		any = false

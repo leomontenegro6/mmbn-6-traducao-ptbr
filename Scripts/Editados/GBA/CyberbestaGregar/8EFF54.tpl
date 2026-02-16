@@ -6,9 +6,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? This book is
-	the only one that's
-	really worn out...
+	Ué? Esse é o único livro
+	que tá bem surrado...
 	"""
 	keyWait
 		any = false
@@ -20,8 +19,7 @@ script 1 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan pulled on
-	the book!!
+	Lan puxou o livro!
 	"""
 	keyWait
 		any = false
@@ -38,7 +36,7 @@ script 2 mmbn6 {
 	storeTimer
 		timer = 0
 		value = 128
-	"*creak!!*"
+	"Nhééééé!!"
 	wait
 		frames = 40
 	waitOWVar
@@ -59,14 +57,14 @@ script 3 mmbn6 {
 	storeTimer
 		timer = 0
 		value = 1
-	"Waaa!!"
+	"Aaah!!"
 	waitOWVar
 		variable = 0
 		value = 2
 	keyWait
 		any = false
 	clearMsg
-	"What was that!?"
+	"O que foi isso?!"
 	keyWait
 		any = false
 	end
@@ -85,9 +83,9 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is the hidden
-	passageway Mr.Mach
-	was talking about...
+	É a passagem secreta
+	de que o Sr. Mach
+	tava falando...
 	"""
 	keyWait
 		any = false
@@ -100,13 +98,13 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This leads to the
-	Expo Site...
+	Então ela dá na
+	Área da Exposição...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,let's go!!"
+	"Beleza, vamos lá!!"
 	keyWait
 		any = false
 	end

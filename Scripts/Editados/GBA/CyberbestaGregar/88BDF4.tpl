@@ -10,13 +10,13 @@ script 0 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm going to offload
-	my SubChips soon...
+	Quero me desfazer
+	dos meus SubChips...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Want to look?\n"
+	"Interessado?\n"
 	positionOptionHorizontal
 		width = 11
 	option
@@ -27,7 +27,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Look  "
+	" Ver  "
 	option
 		brackets = 0
 		left = 0
@@ -36,7 +36,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't look"
+	" Não ver"
 	select
 		default = 0
 		BSeparate = false
@@ -53,15 +53,16 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	clearMsg
 	"""
-	They say,"Giving is
-	its own reward"...
+	Dizem que "é dando
+	que se recebe"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad you don't
-	want anything...
+	Mas, se você não der
+	Zennys, não recebe
+	SubChips...
 	"""
 	keyWait
 		any = false
@@ -72,9 +73,9 @@ script 2 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Ahhh... Now that I
-	think about it...
-	I don't have that.
+	Ahhh...
+	Lembrei agora...
+	Estou sem nenhum.
 	"""
 	keyWait
 		any = false
@@ -83,8 +84,8 @@ script 2 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	It won't open...
-	It's locked.
+	Não abre...
+	Está trancada.
 	"""
 	keyWait
 		any = false
@@ -105,70 +106,67 @@ script 10 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	Hello! Thanks
-	for answering my
-	request.
+	Olá! Obrigado por
+	atender o meu pedido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me explain my
-	request!
+	Deixa eu explicar ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Listen closely,OK!?"
+	"Escuta com atenção, viu?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm just not strong
-	enough to defeat
-	other Navis...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It kinda hurts to
-	always lose in
-	battle...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"So I had an idea!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If I fight with lots
-	of Support Chips,
-	even if I get hurt,
+	Eu simplesmente não
+	tenho a força pra vencer
+	outros Navis...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll still have a
-	chance to win.
+	E meio que dói sempre
+	perder as lutas.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Daí, eu tive uma ideia!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se eu lutar com um monte
+	de Chips de Apoio, mesmo
+	se eu me machucar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I want you to
-	gather me a set of
-	Support Chips!
+	ainda vou ter a
+	chance de vencer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...I'd like these
-	chips in the set_
+	Por isso, quero que me
+	arranje um conjunto de
+	Chips de Apoio!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Faço questão de ter
+	esses chips nele:
 	"""
 	keyWait
 		any = false
@@ -231,20 +229,20 @@ script 10 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	With these 5 chips,
-	I could put up
-	quite a fight!
+	Com esses cinco chips,
+	eu ia conseguir lutar
+	bem bonito!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So help me out!"
+	"Vai, me ajuda!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get these 5 chips
-	for me!!
+	Me arranja esses
+	cinco chips!
 	"""
 	keyWait
 		any = false
@@ -291,9 +289,9 @@ script 11 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	I want you to gather
-	me a set of Support
-	Chips so I can win!
+	Quero que me arranje
+	um conjunto de Chips
+	de Apoio pra eu vencer!
 	"""
 	keyWait
 		any = false
@@ -356,17 +354,16 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	With these 5 chips,
-	I could put up
-	quite a fight!
+	Com esses cinco, eu
+	vou poder lutar bonito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So help me out!
-	Get these 5 chips
-	for me!!
+	Vai, me ajuda!
+	Arranja esses cinco
+	chips pra mim!!
 	"""
 	keyWait
 		any = false
@@ -399,30 +396,28 @@ script 12 mmbn6 {
 		code = S
 		amount = 1
 	"""
-	How'd it go...
-	Did you get the
-	chip set?
+	E aí, como foi?
+	Conseguiu os chips?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yay!! You did it!!
-	You got them all!!
+	Viva!! Você trouxe!!
+	Agora eu tenho todos!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I won't lose to
-	a soul!
+	Derrota, nunca mais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you!!
-	Here's your reward!
+	Obrigada!!
+	Toma aqui sua recompensa!
 	"""
 	keyWait
 		any = false
@@ -434,7 +429,7 @@ script 12 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -449,22 +444,22 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviYellow
 	"""
-	From now on they
-	are going to call
-	me SuperBattleGirl!
+	De agora em diante, eu
+	vou ser conhecida como
+	a SuperBatalhadora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -476,9 +471,9 @@ script 13 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	From now on they
-	are going to call
-	me SuperBattleGirl!
+	De agora em diante, eu
+	vou ser conhecida como
+	a SuperBatalhadora!
 	"""
 	keyWait
 		any = false
@@ -510,27 +505,28 @@ script 14 mmbn6 {
 		chip = 147
 		code = S
 		amount = 1
-	"Huh? You got 'em?"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Yay!! You did it!!
-	You got them all!!
+	Hã? Você trouxe eles?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I won't lose to
-	a soul!
+	Viva!! Você trouxe!!
+	Agora eu tenho todos!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you!!
-	Here's your reward!
+	Derrota, nunca mais!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Obrigada!!
+	Toma aqui sua recompensa!
 	"""
 	keyWait
 		any = false
@@ -542,7 +538,7 @@ script 14 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -557,22 +553,22 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviYellow
 	"""
-	From now on they
-	are going to call
-	me SuperBattleGirl!
+	De agora em diante, eu
+	vou ser conhecida como
+	a SuperBatalhadora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -648,43 +644,15 @@ script 20 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Ahh,you're the
-	one who took my
-	request!
+	Ah, foi você quem
+	aceitou o meu pedido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yep...you'll suit
-	me just fine...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"""
-	Suit you?
-	What do you plan
-	on having me do?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = SciLabMan
-	"""
-	I want you to meet
-	the kidnapper Navi
-	in MrWeathrComp1,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	then find out where
-	the hostage is!
+	É...
+	Você vai servir, sim...
 	"""
 	keyWait
 		any = false
@@ -692,8 +660,9 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Find out where the
-	hostage is...?
+	"Servir"?
+	Que é que cê vai
+	me fazer fazer...?
 	"""
 	keyWait
 		any = false
@@ -701,24 +670,16 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	There's nothing to
-	worry about. Listen
-	to his demands,
+	Quero que vá até o Navi
+	sequestrador no Computa-
+	dor do Seu Cleema 1
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and then get him to
-	open up to you...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Then you'll find out
-	where the hostage
-	is being held...
+	e descubra onde
+	o refém está!
 	"""
 	keyWait
 		any = false
@@ -726,15 +687,48 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK! I'll do my
-	best...
+	Descobrir onde
+	o refém tá...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
-	"Good luck!"
+	"""
+	Não há com o que se
+	preocupar. É só ouvir
+	as demandas dele
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e fazer ele se
+	abrir pra você...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Daí, descobrir onde ele
+	tá mantendo o refém.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"""
+	Beleza!
+	Vou dar o meu melhor.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = SciLabMan
+	"Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -744,31 +738,30 @@ script 21 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Don't do anything
-	to irritate the
-	criminal!
+	Não faça nada que
+	irrite o criminoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The fool is staying
-	in MrWeathrComp1!
+	O paspalho está
+	no Computador do
+	Seu Cleema 1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is nowhere
-	he can run...
+	Não há para onde
+	ele fugir...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now all we need to
-	know is where the
-	hostage is...
+	Agora, só precisamos
+	saber onde está o refém.
 	"""
 	keyWait
 		any = false
@@ -779,17 +772,16 @@ script 22 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Don't do anything
-	to irritate the
-	criminal!
+	Não faça nada que
+	irrite o criminoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Listen to his
-	demands and get him
-	to open up to you!
+	Escute às demandas
+	dele e faça ele se
+	abrir com você!
 	"""
 	keyWait
 		any = false
@@ -800,21 +792,22 @@ script 23 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The criminal ran off
-	to MrWeathrComp3!
+	O climinoso fugiu
+	pro Computador do
+	Seu Cleema 3!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The only one who can
-	get close without
-	spooking him is you!
+	O único que pode se
+	aproximar dele sem
+	espantá-lo é você!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck..."
+	"Boa sorte..."
 	keyWait
 		any = false
 	end
@@ -825,29 +818,28 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Thank you!!"
+	"Obrigado!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We rescued the
-	hostage and arrested
-	the criminals!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	When you grow up,
-	we'll make you a
-	NetPolice member!
+	Resgatamos o refém e
+	prendemos os criminosos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is your
-	reward! Enjoy!
+	Algo me diz que você
+	dará um ótimo NetPolicial
+	quando crescer!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Aqui sua recompensa!
+	Aproveite!
 	"""
 	keyWait
 		any = false
@@ -859,7 +851,7 @@ script 24 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -873,33 +865,33 @@ script 24 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
-	"You were great!"
+	"Você se saiu ótimo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If the criminal Navi
-	brothers get out of
+	Se os irmãos Navis
+	criminosos fugirem
+	da prisão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	prison,I'll take
-	care of things.
+	eu cuido disso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -911,9 +903,9 @@ script 25 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	When you grow up,
-	we'll make you a
-	NetPolice member!
+	Algo me diz que você
+	dará um ótimo NetPolicial
+	quando crescer!
 	"""
 	keyWait
 		any = false
@@ -928,15 +920,15 @@ script 30 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,where ya
-	going!? We don't
+	Lan, aonde é
+	que você vai?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	have time to go
-	down there!
+	A gente não tem
+	tempo de descer aí!
 	"""
 	keyWait
 		any = false
@@ -947,8 +939,8 @@ script 31 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We don't have time
-	to go down there!
+	A gente não tem
+	tempo de descer aí!
 	"""
 	keyWait
 		any = false

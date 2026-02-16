@@ -6,17 +6,16 @@ script 0 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I thought it'd be
-	crazier around
-	here...
+	Eu achei que as coisas
+	estariam mais fora de
+	controle aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's good to know
-	my assumption was
-	wrong.
+	Bom saber que eu
+	achei errado.
 	"""
 	keyWait
 		any = false
@@ -27,16 +26,15 @@ script 1 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I haven't told
-	grandma anything
-	about the incident
+	Eu ainda não falei
+	nada pra minha velha
+	sobre o incidente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that happened at
-	the Aquarium.
+	que teve no Aquário.
 	"""
 	keyWait
 		any = false
@@ -52,15 +50,15 @@ script 2 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	Fishies! Fishies!
-	Teehehehehe!
+	Peixinhos! Peixinhos!
+	Hi hi hi hi hi!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fishies! Fishies!
-	Everywhere I see!
+	Peixiiinhoooos!
+	Plup-plup-plup!!
 	"""
 	keyWait
 		any = false
@@ -80,21 +78,20 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"You're Mr.Hikari!"
+	"Ah, é o Sr. Hikari!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't have to
-	pay the admission
-	fee!
+	Você não precisa
+	comprar ingresso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're face is
-	your pass!!
+	O nosso herói tem
+	passe livre vitalício!!
 	"""
 	keyWait
 		any = false
@@ -105,22 +102,20 @@ script 5 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Huh?
-	They're closing?
+	Hã? Já vai fechar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
-	"I apologize..."
+	"Mil perdões..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...We have a
-	situation that
-	needs resolving.
+	... Ocorreu um imprevisto
+	que temos que resolver.
 	"""
 	keyWait
 		any = false
@@ -131,16 +126,15 @@ script 6 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I wonder if they
-	had another
-	incident...?
+	Será que é outro
+	incidente...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe it's
-	dangerous...
+	Talvez seja perigoso
+	demais ficar vindo aqui...
 	"""
 	keyWait
 		any = false
@@ -151,15 +145,15 @@ script 7 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	Fishies! Fishies!
-	Teehehehehe!
+	Peixinhos! Peixinhos!
+	Hi hi hi hi hi!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fishies! Fishies!
-	Three for me!!
+	Peixiiinhoooos!
+	Glub-glub-glub!!
 	"""
 	keyWait
 		any = false
@@ -169,31 +163,31 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"I apologize..."
+	"Pedimos perdão..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got a
-	situation that
+	Surgiu um imprevisto
+	que exige que nós
+	fechemos o Aquário
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	requires we close
-	the Aquarium...
+	temporariamente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldWoman
-	"Huh? Really?"
+	"Hã? Ah, é?"
 	keyWait
 		any = false
 	clearMsg
-	"That's a shame..."
+	"Que pena..."
 	keyWait
 		any = false
 	end
@@ -203,9 +197,9 @@ script 9 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I wonder if they
-	are running this
-	Aquarium properly?
+	Será que a administração
+	do Aquário tá trabalhando
+	direito?
 	"""
 	keyWait
 		any = false
@@ -221,17 +215,16 @@ script 10 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	No matter how
-	often the Aquarium
-	is closed,
+	Não importa quantas
+	vezes a gente tenha
+	que fechar o Aquário,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we can't forget
-	to take care of
-	the fish!
+	não podemos deixar de
+	cuidar bem dos peixes!
 	"""
 	keyWait
 		any = false
@@ -242,15 +235,15 @@ script 11 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Closed tomorrow
-	as well...
+	Vai ficar fechado
+	amanhã também...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if I'll
-	get paid this month!
+	Será que eu vou ser
+	paga este mês?
 	"""
 	keyWait
 		any = false
@@ -261,16 +254,17 @@ script 15 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	...Hmph!
-	I'd like to give
-	those criminals
+	... Hmpf!
+	O que eu mais queria
+	era fazer aqueles
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a taste of their
-	own medicine...
+	bandidos pagarem por
+	isso que estão fazendo,
+	com juros...
 	"""
 	keyWait
 		any = false
@@ -281,24 +275,22 @@ script 40 mmbn6 {
 		mugshot = Woman
 	msgOpen
 	"""
-	They're all
-	angels...
+	Eles são todos anjos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When I was little
-	they called me an
-	angel too!
+	Quando eu era mais nova,
+	todo mundo me chamava
+	de "anjinha" também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...What? It's true!
-	Don't look at me
-	with that face!!
+	... Que é? É sério!
+	Não me olha assim, não!!
 	"""
 	keyWait
 		any = false
@@ -309,17 +301,17 @@ script 41 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	Hmm...?
-	Where can you look
-	at shark fins...?
+	Hmm...? Onde será que
+	servem essas barbatanas
+	de tubarão...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? They're not
-	sharks? Can I
-	eat them anyways!?
+	Hã? São de tubarões
+	vivos? ... Mas eu posso
+	comer mesmo assim?!
 	"""
 	keyWait
 		any = false
@@ -330,17 +322,17 @@ script 50 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The right jellyfish
-	is Leeroy. The left
-	one is Jenkins.
+	A água-viva da direita
+	se chama Montenegro.
+	A da esquerda, Torres.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? You can't tell
-	the difference!?
-	Look harder!!
+	Hã? Você não vê
+	nenhuma diferença?!
+	Pois olhe de novo!!
 	"""
 	keyWait
 		any = false
@@ -350,19 +342,22 @@ script 51 mmbn6 {
 	mugshotShow
 		mugshot = YoungGirl
 	msgOpen
-	"Hey! Hey!"
+	"Ei! Ei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is it true that
-	saving a turtle is
-	a ticket to royalty?
+	É verdade que, se eu
+	salvar uma tartaruga, ela
+	me leva pra um castelo?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Well? Is it?"
+	"""
+	Foi uma história que a
+	minha mamãe me contou!
+	"""
 	keyWait
 		any = false
 	end

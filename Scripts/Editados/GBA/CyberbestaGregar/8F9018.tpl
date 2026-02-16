@@ -7,27 +7,25 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	Nnngh...!!
-	Ngwaaaaaah!!
+	Nguaaaaaah!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I give...
-	I give!!
+	Eu... cedo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I won't be
-	deleted that
-	easily!!
+	Mas não serei deletado
+	tão facilmente!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ngwaaaaaaaah!!"
+	"Nguaaaaaaaah!!"
 	keyWait
 		any = false
 	end
@@ -37,16 +35,16 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We won somehow,
-	but...
+	A gente deu um
+	jeito de vencer, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	well,Bass is Bass...
-	I'm sure he's still
-	alive somewhere...
+	Bom, conhecendo o Bass...
+	Certeza que ele ainda tá
+	vivo em algum lugar...
 	"""
 	keyWait
 		any = false
@@ -70,14 +68,14 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	If Bass shows up
-	again,I'm sure we'll
-	beat him again!
+	Se ele aparecer de novo,
+	a gente vence ele de
+	novo, pode apostar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,Lan?"
+	"Né, Lan?"
 	keyWait
 		any = false
 	clearMsg
@@ -88,14 +86,14 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"Whatever!"
+	"Que seja!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm ready to toast
-	him if he shows up
-	again!
+	Eu tô pronto pra
+	torrar ele de novo
+	se ele voltar!
 	"""
 	keyWait
 		any = false
@@ -108,14 +106,14 @@ script 4 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	No matter how many
-	times he comes back,
-	we'll put him down.
+	Não importa quantas
+	vezes ele volte,
+	nós iremos abatê-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We can do it,right?"
+	"Nós somos capazes.\nNão é?"
 	keyWait
 		any = false
 	clearMsg
@@ -127,31 +125,29 @@ script 5 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	I can just see
-	it now...
+	Consigo imaginar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But no matter how
-	many times he comes
-	back__
+	Mas, não importa quantas
+	vezes ele volte,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the result will
-	always be the same.
+	o resultado será
+	sempre o mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that's why I
-	need you to operate,
-	Lan.
+	E é por isso que eu
+	preciso de você para
+	me operar, Lan.
 	"""
 	keyWait
 		any = false
@@ -163,14 +159,14 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Hyahaha!"
+	"Hya ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't be beaten
-	by someone we've
-	beaten,right?
+	Nunca que a gente ia
+	perder pra alguém que
+	a gente já venceu, né?
 	"""
 	keyWait
 		any = false
@@ -182,19 +178,19 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Choo,choo!!"
+	"Tchú-tchúú!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He can keep trying,
-	but he's the little
-	engine that can't!!
+	Ele pode tentar,
+	mas é uma locomotiva
+	sem nenhum vapor!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,Lan!?"
+	"Não é, Lan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -205,22 +201,22 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Drip,drip!"
+	"Xuá, xuá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really don't want
-	to see him again,but
-	if I do,
+	Eu realmente queria
+	não ter que ver ele
+	nunca mais, mas, se vir,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll fight with
-	all I've got,if
-	you're with me,Lan!
+	eu vou lutar com
+	tudo, com você
+	ao meu lado, Lan!
 	"""
 	keyWait
 		any = false
@@ -233,22 +229,22 @@ script 9 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Heh!
-	You nervous!?
-	COME ON!
+	He he!
+	Tá nervoso?!
+	MANDA VER!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're the unbeatable
-	combo! We'll trounce
-	anyone,even Bass!
+	Somos uma dupla imbatível!
+	A gente acaba com
+	qualquer um, até o Bass!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,Lan!?"
+	"Né, Lan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -260,22 +256,22 @@ script 10 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Ha,ha,ha. If one
-	fights with a true
-	friend,
+	Ha ha ha. Quando
+	se luta ao lado de
+	um amigo de verdade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	even someone like
-	Bass becomes a small
-	mouse.
+	até um adversário
+	como o Bass se
+	mostra inofensivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Is that not true?"
+	"Não concorda?"
 	keyWait
 		any = false
 	clearMsg
@@ -287,17 +283,17 @@ script 11 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Whiiiir...
-	He's welcome to come
-	get some any time!
+	Tchhhrrrrrr...
+	Ele que fique à vontade
+	pra levar outra surra!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Guys like Bass are
-	no match for our
-	combined power!
+	Sujeitos como o Bass
+	não são páreo pra
+	nossa força combinada!
 	"""
 	keyWait
 		any = false
@@ -309,29 +305,29 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	msgOpen
-	"Gahahaha!"
+	"Ga ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bass was nothing!
-	We beat him with our
-	combined power!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If we stick together
-	we don't have to be
-	afraid of anyone!
+	O Bass não era de nada!
+	Nós vencemos ele com a
+	nossa união!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Right!?
-	Gahahahahahahaha!!
+	É só ficarmos juntos
+	que não temos o que
+	temer de ninguém!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Né?!
+	Ga ha ha ha ha ha ha!!
 	"""
 	keyWait
 		any = false
@@ -343,14 +339,14 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It doesn't matter
-	who our enemy is,
-	we'll always win!!
+	Não importa quem seja o
+	nosso inimigo, a gente
+	sempre vai vencer!!
 	"""
 	keyWait
 		any = false

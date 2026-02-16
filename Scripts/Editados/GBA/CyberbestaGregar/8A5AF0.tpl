@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	CHECK INSIDE THE
-	MAILBOX?
+	CONFERIR A CAIXA
+	DE E-MAILS?
 	"""
 	keyWait
 		any = false
@@ -23,7 +23,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -32,7 +32,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false

@@ -10,30 +10,28 @@ script 10 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	Ah... I'm really
-	hungry!
+	Ah... Que fome!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My stomach and my
-	back are both
-	killing me!
+	A minha barriga
+	e a minha coluna
+	tão me matando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... You can't tell
-	at all?
+	... "Nem dá pra notar"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's always a big
-	problem for me!!
+	Eu tô sempre passando
+	esse sufoco, cara!!
 	"""
 	keyWait
 		any = false
@@ -44,16 +42,14 @@ script 15 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	I want to go home
-	fast,but if I go
-	outside...
+	Eu quero ir logo pra
+	casa, mas, se eu sair...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,it's a little
-	scary...
+	Bom, dá medo, sabe...?
 	"""
 	keyWait
 		any = false
@@ -64,23 +60,23 @@ script 40 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	I'm in charge of
-	clean_up today.
+	Eu fiquei encarregado
+	da limpeza hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	*sigh*...
-	What a bummer.
+	Afe...
+	Saco, isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That means I'm
-	going to miss my
-	favorite cartoon.
+	Eu vou perder o novo
+	episódio do meu desenho
+	favorito.
 	"""
 	keyWait
 		any = false

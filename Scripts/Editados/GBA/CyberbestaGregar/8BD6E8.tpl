@@ -4,15 +4,15 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	Green Area1 on it.
+	Nele, há um mapa
+	da Área Verde 1.
 	"""
 	keyWait
 		any = false
@@ -31,45 +31,39 @@ script 1 mmbn6 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	TO PASS THROUGH
-	HERE,
+	PARA PASSAR,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU MUST HAVE A
-	KNOWLEDGE OF THE
-	LAWS.
+	É NECESSÁRIO POSSUIR
+	CONHECIMENTO ACERCA
+	DAS LEIS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WILL NOW TEST YOUR
-	"LAW KNOWLEDGE".
+	IREI AGORA TESTAR
+	O SEU "CONHECIMENTO
+	SOBRE LEIS".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOUR QUESTION IS
-	FROM GREEN TOWN
-	ORDINANCE 182.
+	A PERGUNTA SE REFERE
+	AO DECRETO 182 DO
+	DISTRITO VERDE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT IS THE
-	PUNISHMENT
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	FOR HITTING MR.PROG
-	ON THE HEAD?
+	QUAL É A PUNIÇÃO
+	POR BATER NA CABEÇA
+	DE UM PROG?
 	"""
 	keyWait
 		any = false
@@ -77,16 +71,14 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	The punishment for
-	hitting Mr.Prog on
-	the head??
+	A punição por bater
+	na cabeça de um Prog?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's actually a
-	law about that!?...
+	Tem lei pra isso?!
 	"""
 	keyWait
 		any = false
@@ -94,34 +86,34 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Do you know the
-	answer,MegaMan?
+	Você não sabe a
+	resposta, MegaMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Nope,not a clue."
+	"Não, nem faço ideia."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it looks like
-	Green Area2 is just
-	beyond this door...
+	Mas parece que a Área
+	Verde 2 fica passando
+	essa porta...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So what now...?"
+	"E agora...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess we should
-	go look for the
-	answer...
+	Acho que a gente vai
+	ter que ir atrás da
+	resposta...
 	"""
 	keyWait
 		any = false
@@ -132,30 +124,25 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	I WILL NOW TEST YOUR
-	"LAW KNOWLEDGE".
+	IREI AGORA TESTAR
+	O SEU "CONHECIMENTO
+	SOBRE LEIS".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOUR QUESTION IS
-	FROM GREEN TOWN
-	ORDINANCE 182.
+	A PERGUNTA SE REFERE
+	AO DECRETO 182 DO
+	DISTRITO VERDE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT IS THE
-	PUNISHMENT
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	FOR HITTING MR.PROG
-	ON THE HEAD?
+	QUAL É A PUNIÇÃO
+	POR BATER NA CABEÇA
+	DE UM PROG?
 	"""
 	keyWait
 		any = false
@@ -163,26 +150,26 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Do you know the
-	answer,MegaMan?
+	Você não sabe a
+	resposta, MegaMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Nope,not a clue."
+	"Não, nem faço ideia."
 	keyWait
 		any = false
 	clearMsg
-	"So what now...?"
+	"E agora...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess we should
-	go look for the
-	answer...
+	Acho que a gente vai
+	ter que ir atrás da
+	resposta...
 	"""
 	keyWait
 		any = false
@@ -193,51 +180,44 @@ script 3 mmbn6 {
 		flag = 2150
 	msgOpen
 	"""
-	TO PASS THROUGH
-	HERE,
+	PARA PASSAR,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I MUST TEST YOUR
-	"LAW KNOWLEDGE".
+	DEVO, PRIMEIRO, TESTAR
+	SEU "CONHECIMENTO
+	SOBRE LEIS".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOUR QUESTION IS
-	FROM GREEN TOWN
-	ORDINANCE 182.
+	A PERGUNTA SE REFERE
+	AO DECRETO 182 DO
+	DISTRITO VERDE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT IS THE
-	PUNISHMENT
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	FOR HITTING MR.PROG
-	ON THE HEAD?
+	QUAL É A PUNIÇÃO
+	POR BATER NA CABEÇA
+	DE UM PROG?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Um..."
+	"Hum..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The punishment is
-	something that is
-	infuriating!
+	A punição é uma
+	coisa enfurecedora!
 	"""
 	keyWait
 		any = false
@@ -251,18 +231,18 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	mugshotAnimation
 		animation = 1
-	"たI got that wrong,\n didn't I...?ち"
+	"たErrei, não foi...?ち"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	mugshotHide
-	"THAT IS CORRECT!"
+	"CORRETO!"
 	keyWait
 		any = false
 	clearMsg
-	"YOU MAY PASS."
+	"PASSAGEM CONCEDIDA."
 	keyWait
 		any = false
 	clearMsg
@@ -297,9 +277,9 @@ script 4 mmbn6 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	A strong_looking
-	cybertree is
-	blocking the way...
+	Uma cyberárvore
+	bem grossa está
+	barrando o caminho...
 	"""
 	keyWait
 		any = false
@@ -309,13 +289,13 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"This tree is toast!"
+	"A árvore já era!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Burn,baby,burn!
-	Yeah!
+	Queima!
+	Queima bonito!
 	"""
 	keyWait
 		any = false
@@ -326,9 +306,9 @@ script 5 mmbn6 {
 	wait
 		frames = 30
 	"""
-	HeatMan's raging
-	flames burned the
-	cybertree to ashes!!
+	As chamas intensas do
+	HeatMan reduziram a
+	cyberárvore a cinzas!!
 	"""
 	keyWait
 		any = false
@@ -340,11 +320,11 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Slice and dice!"
+	"Fatiar!"
 	keyWait
 		any = false
 	clearMsg
-	"Slaaaaaaaash!!"
+	"Shuiiiiin!!"
 	keyWait
 		any = false
 	clearMsg
@@ -354,9 +334,9 @@ script 6 mmbn6 {
 	wait
 		frames = 30
 	"""
-	SlashMan's powerful
-	attack cut the
-	cybertree down!!
+	O ataque poderoso
+	do SlashMan partiu a
+	cyberárvore ao meio!!
 	"""
 	keyWait
 		any = false
@@ -369,14 +349,13 @@ script 7 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Heh,this tree will
-	fall in no time
-	flat!
+	He, eu derrubo essa
+	árvore rapidinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Tomahawk Swing!!"
+	"Corte de Machadinha!!"
 	keyWait
 		any = false
 	clearMsg
@@ -386,8 +365,8 @@ script 7 mmbn6 {
 	wait
 		frames = 30
 	"""
-	The cybertree was
-	split into two!!
+	A cyberárvore se
+	partiu em duas!!
 	"""
 	keyWait
 		any = false
@@ -399,19 +378,19 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whiiiiiir!!"
+	"Tchrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll uproot this
-	tree from the bottom
-	up!
+	Eu vou escavar as
+	raízes dessa árvore
+	e derrubá-la!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Whiiiiiir!!"
+	"Tchrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
@@ -421,9 +400,9 @@ script 8 mmbn6 {
 	wait
 		frames = 30
 	"""
-	GroundMan's charge
-	dug the cybertree
-	out,roots and all!!
+	A ação do GroundMan
+	arrancou a cyberárvore,
+	com raiz e tudo!!
 	"""
 	keyWait
 		any = false
@@ -439,22 +418,18 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	A strong_looking
-	cybertree is
-	blocking the way...
+	Uma cyberárvore
+	bem grossa está
+	barrando o caminho...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and the "
+	"e o "
 	printItem
 		buffer = 0
 		item = 66
-	"""
-	
-	is too weak to cut
-	it down.
-	"""
+	"\né fraco demais\npara cortá-la."
 	keyWait
 		any = false
 	end

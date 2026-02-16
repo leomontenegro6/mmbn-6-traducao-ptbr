@@ -6,24 +6,24 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I AM THE WATER
-	PIPE PROGRAM.
+	EU SOU O PROG
+	DO ENCANAMENTO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CYBER CITY'S CLEAN
-	WATER PROCESSING IS
-	VERY EFFECTIVE.
+	O PROCESSAMENTO DE
+	ÁGUA LIMPA DA CIDADE
+	SAIBHER É SUPER EFICAZ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO FEEL AT EASE
-	WHEN DRINKING OUR
-	TASTY WATER!
+	ENTÃO PODE FICAR
+	TRANQUILO NA HORA DE
+	BEBER DA NOSSA ÁGUA!
 	"""
 	keyWait
 		any = false

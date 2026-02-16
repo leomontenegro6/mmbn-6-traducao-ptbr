@@ -8,15 +8,15 @@ script 0 mmbn6 {
 		palette = 6
 	msgOpen
 	"""
-	OUCH,OUCH,OUCH,
-	OUCH,OUCH,OUCH!!
+	AI, AI, AI,
+	AI, AI, AAAII!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE ARE AT CRITICAL!
-	OH,WHY,OH,WHY!?
+	SITUAÇÃO CRÍTICA!
+	Ó CÉUS, Ó VIDA!
 	"""
 	keyWait
 		any = false
@@ -29,8 +29,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hold on!
-	I'll save you!
+	Aguenta aí!
+	Eu vou te salvar!
 	"""
 	keyWait
 		any = false
@@ -41,35 +41,38 @@ script 2 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	... PHEW! I'M STILL
-	ALMOST GOOD AS NEW!
+	... UFA! EU CONTINUO
+	NOVINHO EM FOLHA,
+	MAIS OU MENOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PLEASE,YOU HAVE TO
-	GO SAVE MY FRIENDS!
+	POR FAVOR, SALVE
+	OS MEUS AMIGOS!
+	EU IMPLORO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I WOULD LIKE TO
-	HELP,BUT
+	... EU ADORARIA
+	AJUDAR, MAS TÁ TUDO
+	MUITO PERIGOSO AQUI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S GOTTEN SO
-	DANGEROUS. EXCUSE ME
-	WHILE I FIND COVER!
+	SE ME DER LICENÇA,
+	VOU ATRÁS DE UM
+	LUGAR PRA ME ABRIGAR!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"AND WITH THAT..."
+	"RESOLVIDO ISSO..."
 	keyWait
 		any = false
 	end

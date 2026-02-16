@@ -10,31 +10,30 @@ script 0 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	Hey bro,
-	have you heard of
-	virus busting?
+	Aí, cara, já ouviu falar
+	de deleção de vírus?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If viruses get in
-	electronics they
-	damage them,so
+	Quando os vírus entram
+	em aparelhos, eles
+	causam estragos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navis are sent in
-	to delete viruses!
+	então, a gente manda
+	Navis pra deletar os
+	danados!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm pretty smart,
-	huh?
+	Inteligente, né?
 	"""
 	keyWait
 		any = false
@@ -47,9 +46,8 @@ script 1 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	Today,I'm gonna give
-	virus busting my
-	all!
+	Hoje, eu vou deletar
+	vírus sem piedade!
 	"""
 	keyWait
 		any = false
@@ -64,54 +62,54 @@ script 2 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Whew...
-	Job's done...
+	Ufa...
+	Terminei o
+	trabalho do dia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's all thanks to
-	my PET and my
-	Navi!
+	E tudo graças ao meu
+	PET e ao meu Navi!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's used for work
-	data,receiving mail,
+	Com eles, eu administro
+	dados do trabalho e
+	recebo e-mails,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	or for students to
-	upload their
-	textbook data.
+	e os alunos podem
+	transferir dados de
+	seus livros didáticos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For such a small
-	object,it has a
+	Para um objeto tão
+	pequeno, tem um número
+	absurdo de funções.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	large number of
-	functions. Even
-	bothersome tasks
+	Dá até para delegar
+	tarefas tediosas para
+	o seu Navi fazer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can be handed off
-	to your Navi.
-	It's a great tool!
+	Que ferramenta divina!
 	"""
 	keyWait
 		any = false
@@ -124,9 +122,9 @@ script 3 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	A PET is great,
-	but it's only as
-	great as it's user.
+	Os PETs são incríveis,
+	mas só tão incríveis
+	quanto o usuário.
 	"""
 	keyWait
 		any = false
@@ -141,16 +139,16 @@ script 4 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Let me tell ya
-	something cool!
+	Ah, vou te contar
+	uma coisa bem legal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can hold the
-	B Button to dash!
-	Try it out!
+	Dá para correr
+	segurando o botão "B"!
+	Experimenta!
 	"""
 	keyWait
 		any = false
@@ -163,15 +161,15 @@ script 5 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	You can hold the
-	B Button to dash!
+	Dá para correr
+	segurando o botão "B"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the basic
-	of the basic!
+	Esse é um fundamento da
+	vida!
 	"""
 	keyWait
 		any = false
@@ -186,31 +184,31 @@ script 6 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Sending the NetNavi
-	in your PET into
-	the Cyberworld is
+	Enviar o NetNavi no
+	seu PET para o mundo
+	cibernético é o que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	called "Jacking In"!
-	When you want to
-	jack in,stand in
+	chamamos de "conectar"!
+	Quando quiser se
+	conectar a algo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	front of a device
-	and press the
+	é só ficar na frente
+	do aparelho e apertar
+	o botão "R"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	R Button! Don't
-	forget it!
+	Não vá esquecer!
 	"""
 	keyWait
 		any = false
@@ -223,16 +221,16 @@ script 7 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	You jacking in,
-	whippersnapper?
+	Vai se conectar,
+	rapazinho?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press the R Button
-	in front of a device
-	and you can jack in!
+	Então aperte "R" na
+	frente de um aparelho
+	pra fazer isso!
 	"""
 	keyWait
 		any = false
@@ -247,66 +245,67 @@ script 8 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	I've never seen you
-	around here before!
+	Eu nunca te vi por
+	estas bandas antes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh yeah... You just
-	moved here!
+	Ah, é...
+	Você é o recém-mudado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Central Town is the
-	heart of Cyber City!
+	O Bairro Central
+	é o coração da
+	Cidade Saibher!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We are going to have
-	an Expo here later
-	this year!
+	Daqui uns meses, vai ter
+	aquela Exposição aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's the Expo Site
-	over there...
+	A área da Exposição
+	é bem ali...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,actually they
-	are still making it!
+	Bom, na verdade,
+	ainda tão construindo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next to that is my
-	school...
-	Cyber Academy!!
+	Do lado dela fica
+	a minha escola...
+	a Escola Saibher!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you going to
-	transfer there?
+	Cê vai ser transferido
+	pra lá?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope you get used
-	to things here fast!
+	Bom, espero que
+	cê se acostume
+	logo à vida aqui!
 	"""
 	keyWait
 		any = false
@@ -319,8 +318,9 @@ script 9 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	I hope you get used
-	to things quick!
+	Espero que cê
+	se acostume logo
+	à vida aqui!
 	"""
 	keyWait
 		any = false
@@ -331,9 +331,9 @@ script 15 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Alright!!
-	Today I'm gonna
-	give it my all!
+	OK!!
+	Hoje, eu vou encarar
+	o mundo com tudo!
 	"""
 	keyWait
 		any = false
@@ -343,20 +343,19 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"This is a chip shop;"
+	"Essa é uma loja de chips,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	however,it's closed
-	for renovations now.
+	mas está fechada
+	para reformas agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope they open
-	again soon...
+	Tomara que abram logo...
 	"""
 	keyWait
 		any = false
@@ -372,9 +371,9 @@ script 17 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Hey whippersnapper!
-	Hurry up or you're
-	gonna be late!!
+	Ei, rapazinho!
+	Acelera aí,
+	ou vai se atrasar!
 	"""
 	keyWait
 		any = false
@@ -385,17 +384,17 @@ script 20 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	I heard one of the
-	6th graders solved
-	that thing that
+	Ouvi dizer que um dos
+	alunos do sexto ano
+	resolveu aquilo lá que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	happened today!
-	The upperclassmen
-	here are amazing!
+	rolou hoje!
+	Os veteranos daqui
+	são show de bola!
 	"""
 	keyWait
 		any = false
@@ -406,9 +405,9 @@ script 21 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Whew! I worked
-	really hard today!
-	Time for a soda!
+	Ufa! Trabalhei pesado
+	hoje! Hora de uma
+	bebida pra relaxar!
 	"""
 	keyWait
 		any = false
@@ -419,34 +418,36 @@ script 22 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I was just on the
-	Net,
+	Eu tava na Rede
+	ainda agora
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and it seems like
-	someone hid the key
+	e, pelo que eu ouvi,
+	parece que alguém
+	escondeu a chave
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for the security
-	door in Central
+	da porta de segurança
+	na Área Central 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Area2! Now I can't
-	get to CentralArea3!
+	Agora não dá mais
+	pra eu acessar a
+	Área Central 3!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHAT A PAIN!!"
+	"SACO!!"
 	keyWait
 		any = false
 	end
@@ -456,9 +457,9 @@ script 23 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	There was quite a
-	racket at school!!
-	Was it a festival?
+	Teve uma bela
+	baderna na escola!
+	É dia de festival?
 	"""
 	keyWait
 		any = false
@@ -469,30 +470,30 @@ script 24 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	I want to buy a
-	strong chip in case
+	Eu quero muito comprar
+	um chip bem forte
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	something bad
-	happens again,but
+	pra caso role alguma
+	coisa dessas de novo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AsterLand is closed
-	for renovations...
+	mas o Mundo Aster tá
+	fechado pra reforma...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I gotta tell Tab to
-	hurry up and open
-	his store...
+	Eu tenho que falar
+	pro Tab abrir logo
+	a loja dele...
 	"""
 	keyWait
 		any = false
@@ -518,7 +519,7 @@ script 50 mmbn6 {
 		mugshot = OldMan
 	"""
 	Aggggghhhh...
-	This is no good...
+	Essa não...
 	"""
 	keyWait
 		any = false
@@ -526,8 +527,7 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's the matter
-	mister?
+	Que foi, moço?
 	"""
 	keyWait
 		any = false
@@ -535,46 +535,45 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	My grandkid told
-	me to bring some
-	fish that I caught
+	O meu neto me falou
+	pra trazer uns peixes
+	que eu pesquei aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	here,but the
-	IceBox I use for the
-	fish is broken.
+	mas a caixa térmica
+	que eu uso pra eles
+	quebrou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't open the
-	lid!
+	Não consigo mais
+	fechar a tampa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Fish huh..."
+	"Peixes..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This has to be the
-	man that I heard
-	about... Alright!
+	Deve ser o avô
+	daquele menino...
+	Beleza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mister! Could you
-	please show me this
-	IceBox?
+	Moço! Eu posso ver
+	essa caixa, por favor?
 	"""
 	keyWait
 		any = false
@@ -585,12 +584,12 @@ script 50 mmbn6 {
 	"."
 	wait
 		frames = 30
-	"."
+	". "
 	wait
 		frames = 30
 	"""
 	MegaMan,
-	This has gotta be...
+	só pode ser...
 	"""
 	keyWait
 		any = false
@@ -598,28 +597,28 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yep... It's probably
-	a virus' fault!
+	Aham... Obra de
+	um vírus, certeza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Lan!
-	If we delete the
-	virus,
+	Se a gente
+	deletar o vírus,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that IceBox will go
-	back to normal!
+	a caixa térmica deve
+	voltar ao normal!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ready to battle?"
+	"Pronto pra luta?"
 	keyWait
 		any = false
 	clearMsg
@@ -643,7 +642,7 @@ script 50 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Wait!"
+	" Espera!"
 	select
 		default = 0
 		BSeparate = false
@@ -656,13 +655,13 @@ script 50 mmbn6 {
 		]
 	mugshotShow
 		mugshot = Lan
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -675,7 +674,7 @@ script 51 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = OldMan
-	"Shucks!"
+	"Eita!"
 	keyWait
 		any = false
 	clearMsg
@@ -683,20 +682,20 @@ script 51 mmbn6 {
 		mugshot = MegaMan
 	"""
 	Lan!
-	If we delete the
-	virus,
+	Se a gente
+	deletar o vírus,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that IceBox will go
-	back to normal!
+	a caixa térmica deve
+	voltar ao normal!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ready to battle?"
+	"Pronto pra luta?"
 	keyWait
 		any = false
 	clearMsg
@@ -720,7 +719,7 @@ script 51 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Wait!"
+	" Espera!"
 	select
 		default = 0
 		BSeparate = false
@@ -733,13 +732,13 @@ script 51 mmbn6 {
 		]
 	mugshotShow
 		mugshot = Lan
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -752,19 +751,19 @@ script 52 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = OldMan
-	"Ahhh,thank you!"
+	"Ahhh, obrigado, rapaz!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks to you,
-	the IceBox is back
-	to normal!
+	Graças a você, a
+	minha caixa térmica
+	voltou ao normal!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But...you..."
+	"Mas... você..."
 	keyWait
 		any = false
 	clearMsg
@@ -774,28 +773,28 @@ script 52 mmbn6 {
 	"."
 	wait
 		frames = 30
-	"."
+	". "
 	wait
 		frames = 30
-	"I see,I see..."
+	"Entendi, entendi..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you the youngin'
-	looking for fish?
+	Você é o rapazinho que
+	tá atrás dos peixes?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I've heard of you."
+	"O meu neto falou de você."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Since you helped
-	with the IceBox,I'll
-	give you a fish!
+	Bom, como você me
+	ajudou com a caixa,
+	eu te dou um!
 	"""
 	keyWait
 		any = false
@@ -807,7 +806,7 @@ script 52 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -821,7 +820,7 @@ script 52 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Thanks,mister!!"
+	"Valeu, moço!!"
 	keyWait
 		any = false
 	flagSet
@@ -833,9 +832,8 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	So what are you
-	going to use the
-	fish for?
+	Mas, e então, para que
+	você queria o peixe?
 	"""
 	keyWait
 		any = false
@@ -846,16 +844,16 @@ script 54 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	This is harder than
-	I thought!
+	Isso é mais difícil
+	do que eu pensava!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,let's get
-	ready and try
-	again!
+	MegaMan, bora se
+	preparar e tentar
+	de novo!
 	"""
 	keyWait
 		any = false
@@ -866,9 +864,8 @@ script 55 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	"""
-	Too much has
-	happened today...
-	I'm tired...
+	Rolou tanta coisa
+	hoje... Canseira...
 	"""
 	keyWait
 		any = false
@@ -879,8 +876,7 @@ script 56 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Was the fish
-	useful?
+	O peixe serviu?
 	"""
 	keyWait
 		any = false
@@ -892,8 +888,8 @@ script 57 mmbn6 {
 		mugshot = Lan
 	"""
 	MegaMan!
-	Let's get ready and
-	fight later!
+	Bora se preparar
+	pra lutar depois!
 	"""
 	keyWait
 		any = false
@@ -904,16 +900,15 @@ script 60 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Man! That kid is
-	late! He promised to
-	go back with me...
+	Ai! Aquele garoto tá
+	atrasado! Ele prometeu
+	que voltaria comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess he stood me
-	up...
+	Acho que levei bolo...
 	"""
 	keyWait
 		any = false
@@ -924,16 +919,16 @@ script 61 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	The chip shop is
-	closed,huh?
+	A loja de chips
+	tá fechada, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wanted to buy
-	a chip as a present
-	for my son...
+	Ah, eu tava querando
+	comprar um chip de
+	presente pro meu filho...
 	"""
 	keyWait
 		any = false
@@ -944,25 +939,24 @@ script 62 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	This is 
-	Central Town's
-	Residential Area...
+	Esta é a Área
+	Residencial do
+	Bairro Central...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take a good look...
-	There are lots of
-	high_class houses!
+	Dá só uma olhada...
+	É cheia de casas chiques!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So there are lots
-	of people who'd
-	love to live here!
+	Por isso, muita gente
+	se morde de vontade
+	de morar aqui.
 	"""
 	keyWait
 		any = false
@@ -977,23 +971,22 @@ script 65 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I heard some strange
-	cry while I was at
-	home yesterday!
+	Eu ouvi um barulho
+	esquisito enquanto tava
+	em casa ontem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sounded like...
-	"SQUAWK! SQUAAWWKK!"
+	Era tipo...
+	"QUÉN! QUÉN!"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what that
-	was?
+	O que será que era?
 	"""
 	keyWait
 		any = false
@@ -1008,23 +1001,23 @@ script 66 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Have you ever been
-	to Seaside Town?
+	Você já foi ao
+	Distrito Beira-Mar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The water there is
-	incredibly tasty!
+	A água de lá é
+	gostosa demais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I drink it everyday!
-	That is why I am so
-	active!!
+	Eu bebo todo dia!
+	Por isso sou a
+	saúde em pessoa!
 	"""
 	keyWait
 		any = false
@@ -1039,16 +1032,15 @@ script 67 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Are you using the
-	LevBus?
+	Já aprendeu a usar
+	o Ônibus Magnético?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today's a holiday,so
-	lots of people are
-	riding the LevBus!
+	Como é fim de semana,
+	ele tá bem requisitado!
 	"""
 	keyWait
 		any = false
@@ -1059,17 +1051,17 @@ script 68 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	That strange cry I
-	heard last night
-	was an escaped
+	O barulho estranho que
+	eu ouvi ontem à noite
+	era um pinguim que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	penguin from the
-	Aquarium! I hope he
-	got back there OK!
+	fugiu do Aquário!
+	Tomara que ele tenha
+	voltado são e salvo!
 	"""
 	keyWait
 		any = false
@@ -1080,16 +1072,16 @@ script 69 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Hey! You went
-	to Seaside Town,huh?
+	Ei! Você foi ao
+	Distrito Beira-Mar
+	ontem, não foi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you like the
-	water there? I drink
-	it everyday!!
+	E aí, gostou da água de
+	lá? Eu bebo todo dia!
 	"""
 	keyWait
 		any = false
@@ -1100,17 +1092,16 @@ script 70 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	How was it?
-	Did you enjoy the
-	weekend?
+	Como vai?
+	Curtiu o fim de semana?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to spread
-	your wings and enjoy
-	the weekends!!
+	Os fins de semana são
+	pra abrir as asas e voar!
+	Se é que me entende.
 	"""
 	keyWait
 		any = false

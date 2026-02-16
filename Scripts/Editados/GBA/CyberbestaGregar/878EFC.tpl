@@ -11,9 +11,9 @@ script 0 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Got it!?
-	No more graffiti
-	on the walls!!
+	Ouviu?!
+	Não pode desenhar
+	na parede!!
 	"""
 	keyWait
 		any = false
@@ -21,9 +21,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	I'm..ss....sss...
-	ssoooorrryyy....
-	*sniffle sniffle*
+	De... desss...
+	deeescuuulpaaa...
+	Snif! Snif...
 	"""
 	keyWait
 		any = false
@@ -38,23 +38,23 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	msgOpen
-	"*sniffle sniffle*"
+	"Snif... Snif..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	Alright... Quit
-	crying... You can
-	go home now...
+	Ai, tá bom... Para
+	de chorar... Já pode
+	ir pra casa, tá...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungBoyHair
-	"*sniffle sniffle*"
+	"Snif... Chuif!"
 	keyWait
 		any = false
 	end
@@ -64,15 +64,15 @@ script 5 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Enough crying...
-	Run on home now...
+	Já deu de chorar...
+	Vamos, vai pra casa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungBoyHair
-	"*sniffle sniffle*"
+	"S-snif...!"
 	keyWait
 		any = false
 	end
@@ -81,15 +81,15 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	msgOpen
-	"*sniffle sniffle*"
+	"Snif! Chuif!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	Now you are making
-	me want to cry...!!
+	Assim você vai é
+	ME fazer chorar...!!
 	"""
 	keyWait
 		any = false

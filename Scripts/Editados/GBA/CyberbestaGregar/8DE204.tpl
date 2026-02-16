@@ -6,13 +6,13 @@ script 0 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	We got all the
-	cyberbatteries...
+	Reunimos todas as
+	cyberbaterias...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Time to jack out."
+	"Hora de desconectar."
 	keyWait
 		any = false
 	clearMsg
@@ -24,9 +24,9 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Eh? Jack out?
-	I thought we were
-	charging them here.
+	Ué? Desconectar?
+	Achei que a gente ia
+	carregar elas aqui.
 	"""
 	keyWait
 		any = false
@@ -38,44 +38,45 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"Don't be stupid."
+	"Não seja ridículo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These batteries
-	power the Net's
-	lighting system!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I can't fully charge
-	them! The amount of
-	power I'm putting
+	Estas baterias energizam
+	o sistema de iluminação
+	da Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	out right now is
-	pushing my limit.
+	Eu não sou capaz de
+	carregá-las 100%. O
+	volume de energia que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To charge all these
-	cyberbatteries all
-	the way,
+	estou produzindo agora
+	já é o meu limite.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I need a super_
-	enhanced recharger!
+	Para carregar todas
+	as cyberbaterias por
+	completo,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	eu preciso de
+	um carregador
+	ultra-aprimorado!
 	"""
 	keyWait
 		any = false
@@ -87,7 +88,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,yeah..."
+	"Ah ,saquei..."
 	keyWait
 		any = false
 	clearMsg
@@ -99,8 +100,8 @@ script 4 mmbn6 {
 		mugshot = AnnZap
 	msgOpen
 	"""
-	Your name is
-	Lan Hikari,is it?
+	O seu nome é
+	Lan Hikari, não é?
 	"""
 	keyWait
 		any = false
@@ -112,7 +113,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Y_Yes..."
+	"I-isso..."
 	keyWait
 		any = false
 	clearMsg
@@ -124,30 +125,30 @@ script 6 mmbn6 {
 		mugshot = AnnZap
 	msgOpen
 	"""
-	I've been watching
-	you operate.
+	Estive observando
+	você operando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When you're done
-	recharging the
-	cyberbatteries,
+	Quando terminar
+	de recarregar as
+	cyberbaterias,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have one final
-	test for you.
+	tenho uma última
+	prova para você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When you are ready,
-	come and meet me.
+	Assim que estiver
+	pronto, fale comigo.
 	"""
 	keyWait
 		any = false
@@ -159,25 +160,25 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Y_Yes,Ms.Zap!"
+	"S-sim, senhora,\nSrta. Zap!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright! I'm gonna
-	pass that final!...
+	Beleza! Eu vou passar
+	nessa prova final!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But first,
-	the batteries.
+	Mas, primeiro,
+	as baterias.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ElecMan,jack out!"
+	"ElecMan, desconectar!"
 	keyWait
 		any = false
 	clearMsg
@@ -188,7 +189,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"OK."
+	"Certo."
 	keyWait
 		any = false
 	end
@@ -196,24 +197,22 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	And a little while
-	later...
+	Pouco tempo depois...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	after all the
-	cyberbatteries were
-	recharged,
+	todas as cyberbaterias
+	foram recarregadas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sky Area was back
-	to its usual
-	brightness...
+	e a Área Céu voltou
+	à sua iluminação
+	virante de sempre...
 	"""
 	keyWait
 		any = false

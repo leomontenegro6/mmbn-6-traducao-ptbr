@@ -6,9 +6,9 @@ script 40 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	There isn't a
-	school newspaper...
-	What's going on?
+	Não teve jornal
+	da escola...?!
+	Como assim?
 	"""
 	keyWait
 		any = false
@@ -16,9 +16,9 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = Boy
 	"""
-	Yeah... I really
-	wanted to read a
-	big scoop today...
+	Pois é... Eu queria
+	tanto ler um furo de
+	reportagem hoje...
 	"""
 	keyWait
 		any = false

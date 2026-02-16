@@ -16,23 +16,23 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	SEASIDEAREA3!
+	BEM-VINDO À
+	ÁREA BEIRA-MAR 3!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HUH? THIS AREA IS
-	LESS DEPRESSING THAN
-	OTHERS?
+	HÃ? "ESTA ÁREA ESTÁ
+	MENOS DEPRÊ QUE AS
+	OUTRAS"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT'S BECAUSE I'M
-	AN OPTIMIST!
+	ISSO É PORQUE
+	EU SOU OTIMISTA!
 	"""
 	keyWait
 		any = false
@@ -53,23 +53,16 @@ script 1 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I heard this story
-	that if you wash
-	your face with this
+	Ouvi falar que é só lavar
+	o rosto com essa água,
+	que você fica linda...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	water,then you'll
-	become beautiful...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I wonder if it's
-	true...?
+	Será que é
+	verdade mesmo...?
 	"""
 	keyWait
 		any = false
@@ -80,16 +73,16 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	SEASIDEAREA3!
+	BEM-VINDO À
+	ÁREA BEIRA-MAR 3!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EVEN WHEN THE WORLD
-	IS DARK,LET'S LIVE
-	BRIGHT LIVES!
+	MESMO QUANDO O MUNDO
+	ESTÁ SOMBRIO, VAMOS
+	TER VIDAS ENSOLARADAS!
 	"""
 	keyWait
 		any = false
@@ -100,29 +93,28 @@ script 6 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	If you overwash your
-	face,it will start
-	to sting...
+	Quando se lava demais
+	o rosto, ele começa a
+	arder...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,through that
-	pain,you will become
-	a beauty...
+	Mas é através dessa dor
+	que a gente fica linda...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Or so they say..."
+	"Pelo menos,\né o que dizem."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,my pain is proof
-	that I'm becoming
-	beautiful,right?
+	Então a minha dor é
+	prova de que eu estou
+	ficando linda, né?
 	"""
 	keyWait
 		any = false
@@ -133,16 +125,16 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE REAL WORLD HAS
-	BEEN IN A BIT OF A
-	JAM,HUH?
+	O MUNDO REAL TEM
+	ANDADO BEM "TRETADO",
+	HEIN?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT IT'S GOT NOTHING
-	TO DO WITH US!
+	MAS ISSO NÃO TEM NADA
+	A VER COM A GENTE!
 	"""
 	keyWait
 		any = false
@@ -152,14 +144,14 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	msgOpen
-	"I have been reborn!"
+	"Eu renasci!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel PRETTY!
-	Oh so PRETTY!
-	... Well,am I?
+	Eu me sinto LINDA!
+	Tão, tão LINDA!
+	... E aí, eu tô?
 	"""
 	keyWait
 		any = false
@@ -170,9 +162,9 @@ script 40 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hey there,sweetie!
-	How about a date
-	with yours truly!?
+	Fala aí, gatinha?
+	Que tal um "date" com
+	o garanhão aqui?!
 	"""
 	keyWait
 		any = false
@@ -186,8 +178,8 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Come on,baby!
-	It's alright!
+	Vai, novinha!
+	Tá tudo bem!
 	"""
 	keyWait
 		any = false
@@ -198,23 +190,22 @@ script 41 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	It sounds like the
-	finals for the
+	Parece que as finais
+	da Prova de Seleção
+	de Navi Operador
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Operator Navi
-	Selection Test are
-	going on right now!
+	tão rolando agora mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder who will
-	win the title...?
+	Quem será que vai levar
+	o título pra casa...?
 	"""
 	keyWait
 		any = false
@@ -225,9 +216,9 @@ script 45 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hey there,sweetie!
-	You got some time,so
-	let's go on a date!
+	Fala aí, gatinha!
+	Tá livre agora?
+	Bora dar um rolê!
 	"""
 	keyWait
 		any = false
@@ -235,32 +226,32 @@ script 45 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviYellow
 	"""
-	... Thanks but no.
-	I'm very picky about
-	my guys!
+	... Obrigada, mas não.
+	Sou bastante seletiva
+	com homem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I already know I
-	have nothing more to
-	say to you.
+	E eu já sei que não
+	tenho mais nada pra
+	dizer pra você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I only want someone
-	as wonderful as
-	Mayor Cain.
+	Só aceito alguém tão
+	maravilhoso quanto
+	o Prefeito Cain.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you really think
-	YOU can compare!?
+	Você acha mesmo
+	que se COMPARA?!
 	"""
 	keyWait
 		any = false
@@ -289,32 +280,31 @@ script 46 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I'm sure I've seen
-	you somewhere...
-	Maybe on TV...?
+	Eu posso jurar que já
+	te vi em algum lugar...
+	Na TV, talvez...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah! You were on
-	a historical drama
-	show!
+	É! Você apareceu em
+	uma novela de época, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You were the soldier
-	on my favorite war
-	drama!
+	Fez o papel do soldado
+	da minha favorita, que
+	se passa na guerra!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm? Am I wrong?
-	That's strange...
+	Hmm? Eu errei?
+	Ué...
 	"""
 	keyWait
 		any = false
@@ -325,24 +315,24 @@ script 50 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Since the commercial
-	started,
+	Desde que lançaram
+	o comercial,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	everyone's been in
-	an Expo sort of
-	mood.
+	todo mundo entrou
+	forte no clima de
+	Exposição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you can't get an
-	old man like me into
-	it that easily...
+	Mas não dá para esperar
+	que um velho como eu se
+	anime assim, tão fácil...
 	"""
 	keyWait
 		any = false
@@ -353,17 +343,17 @@ script 55 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Something appeared
-	in Seaside Town,or
-	so it seems.
+	Parece que apareceu
+	alguma coisa aí no
+	Distrito Beira-Mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But an old person
-	like me can't be
-	bothered...
+	Mas um velho como eu
+	não se incomoda com
+	essas coisas...
 	"""
 	keyWait
 		any = false
@@ -374,17 +364,17 @@ script 60 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Something appeared
-	in Seaside Town,or
-	so it seems.
+	Parece que apareceu
+	alguma coisa no
+	Distrito Beira-Mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's been way too
-	many bad things
-	happening lately,ya?
+	Tantos problemas
+	aparecendo estes
+	dias, né, rapaz?
 	"""
 	keyWait
 		any = false

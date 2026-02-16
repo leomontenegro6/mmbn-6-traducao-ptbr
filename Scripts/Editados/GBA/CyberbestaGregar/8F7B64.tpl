@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I_I wonder if "God
-	of Destruction" is
-	written on that...
+	S-será que tem
+	"Deus da Destruição"
+	escrito aí...?
 	"""
 	keyWait
 		any = false
@@ -34,8 +34,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... There's nothing
-	written here,Lan...
+	... Não tem nada
+	escrito, Lan...
 	"""
 	keyWait
 		any = false
@@ -47,7 +47,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"Hmm? Nothing here!"
+	"Hmm? Aqui, nada!"
 	keyWait
 		any = false
 	clearMsg
@@ -59,8 +59,7 @@ script 3 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	... There is nothing
-	written here.
+	... Não tem nada escrito.
 	"""
 	keyWait
 		any = false
@@ -73,8 +72,8 @@ script 4 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	... I don't see
-	anything!
+	... Eu não estou
+	vendo nada!
 	"""
 	keyWait
 		any = false
@@ -87,8 +86,8 @@ script 5 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Huh? There isn't
-	anything here!
+	Ué? Não tem nada
+	escrito aqui!
 	"""
 	keyWait
 		any = false
@@ -101,9 +100,9 @@ script 6 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Choo...
-	I don't see
-	anything... Do ya?
+	Tchúú...
+	Eu não vejo nada...
+	E você?
 	"""
 	keyWait
 		any = false
@@ -116,8 +115,8 @@ script 7 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Nngh... There's
-	nothing here,drip.
+	Nngh... Não tem
+	nada aqui, xuá.
 	"""
 	keyWait
 		any = false
@@ -130,9 +129,9 @@ script 8 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	... I looked all
-	over,but there's
-	nothing,nada!
+	... Eu olhei por todo
+	lado, mas não tem
+	nadica de nada!
 	"""
 	keyWait
 		any = false
@@ -145,9 +144,8 @@ script 9 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Hmm... It appears
-	that there is no
-	writing here.
+	Hmm... Parece não
+	haver nada escrito.
 	"""
 	keyWait
 		any = false
@@ -160,8 +158,8 @@ script 10 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Whiiir...
-	I don't see nothin'!
+	Tchhrrrrr...
+	Eu não vejo nada!
 	"""
 	keyWait
 		any = false
@@ -174,9 +172,9 @@ script 11 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	... If there was
-	anything,I'd have
-	seen it...
+	... Se tivesse alguma
+	coisa escrita, eu já
+	teria visto...
 	"""
 	keyWait
 		any = false
@@ -188,9 +186,8 @@ script 12 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	That gravestone is
-	blank.
-	Want to know why?
+	A lápide está vazia.
+	Quer saber por quê?
 	"""
 	keyWait
 		any = false
@@ -201,8 +198,8 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Th_That voice...
-	This feeling...!
+	E-essa voz...
+	Essa sensação...!
 	"""
 	keyWait
 		any = false
@@ -224,14 +221,13 @@ script 15 mmbn6 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Because the name
-	that's going on
-	it...
+	Porque o nome que
+	será talhado nela...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"is YOURS!!"
+	"será o SEU!!"
 	keyWait
 		any = false
 	clearMsg
@@ -243,8 +239,9 @@ script 16 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Here he comes!!
-	Battle routine,set!!
+	Lá vem ele!!
+	Rotina de batalha,
+	preparar!!
 	"""
 	keyWait
 		any = false
@@ -269,7 +266,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -280,7 +277,7 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -291,7 +288,7 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -302,7 +299,7 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -313,7 +310,7 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -324,7 +321,7 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -335,7 +332,7 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -346,7 +343,7 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -357,7 +354,7 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = TenguMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -368,7 +365,7 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -379,7 +376,7 @@ script 27 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -391,9 +388,9 @@ script 28 mmbn6 {
 		mugshot = Bass
 	msgOpen
 	"""
-	I'll send you to the
-	depths of the
-	deepest cyberpit!
+	Vou te mandar para
+	as profundezas mais
+	escuras do inferno!
 	"""
 	keyWait
 		any = false

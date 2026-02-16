@@ -6,17 +6,15 @@ script 0 mmbn6 {
 		mugshot = Count
 	msgOpen
 	"""
-	In this world of
-	darkness where no
-	light reaches...
+	Neste mundo de trevas,
+	isolado de toda a luz...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How did you think you
-	were going to defeat me,
-	hm?!
+	Como você esperava
+	me vencer, hm?!
 	"""
 	keyWait
 		any = false
@@ -30,8 +28,8 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	Argh!
-	Was Master Otenko's
-	power not enough!?
+	O poder do Mestre
+	Otenko não bastou?!
 	"""
 	keyWait
 		any = false
@@ -43,13 +41,14 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Otenko
 	msgOpen
-	"No!"
+	"Não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't start the
-	Pile Driver like this!
+	Não vai dar para
+	ligarmos o Bate-Estacas
+	desse jeito!
 	"""
 	keyWait
 		any = false
@@ -62,16 +61,17 @@ script 3 mmbn6 {
 		mugshot = Count
 	msgOpen
 	"""
-	Gwahahah!
-	This area is brimming
-	with dark energy!
+	Gua ha ha ha! Esta
+	área está transbordando
+	energia sombria!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your power is utterly
-	meaningless to me!
+	O seu poder é
+	completamente
+	insignificante contra mim!
 	"""
 	keyWait
 		any = false
@@ -83,7 +83,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wait!"
+	"Espera!"
 	keyWait
 		any = false
 	clearMsg
@@ -94,7 +94,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Count
 	msgOpen
-	"What?"
+	"O quê?"
 	keyWait
 		any = false
 	end
@@ -104,9 +104,9 @@ script 6 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Count! I'm not going
-	to let you get away
-	with your plan!
+	Conde! Eu não vou
+	deixar você se safar
+	com esse seu plano!
 	"""
 	keyWait
 		any = false
@@ -119,30 +119,29 @@ script 7 mmbn6 {
 		mugshot = Count
 	msgOpen
 	"""
-	It's the pest
-	from before...
+	É aquele vermezinho
+	irritante de antes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You are just one more
-	body...
+	Você é só mais
+	um cadáver...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I suppose that
-	means one more
-	course for dinner.
+	Ou melhor. só mais
+	uma guarnição para
+	o meu jantar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Have at you,
-	you brats!
+	Preparem-se, fedelhos!
 	"""
 	keyWait
 		any = false
@@ -156,7 +155,7 @@ script 8 mmbn6 {
 	msgOpen
 	"""
 	MegaMan,
-	I have an idea...
+	eu tive uma ideia...
 	"""
 	keyWait
 		any = false
@@ -168,7 +167,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What is it...?"
+	"Qual...?"
 	keyWait
 		any = false
 	clearMsg
@@ -180,22 +179,20 @@ script 10 mmbn6 {
 		mugshot = Django
 	msgOpen
 	"""
-	While Master Otenko
-	and I are keeping off
-	the Count,
+	Enquanto o Mestre Otenko
+	e eu seguramos o Conde,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can attack
-	him when his
-	guard is down!
+	você pode atacá-lo quando
+	ele baixar a guarda!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Master Otenko!"
+	"Mestre Otenko!"
 	keyWait
 		any = false
 	clearMsg
@@ -206,13 +203,13 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Otenko
 	msgOpen
-	"Alright..."
+	"Certo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,it's up
-	to you now!
+	MegaMan, agora
+	é com você agora!
 	"""
 	keyWait
 		any = false
@@ -225,9 +222,9 @@ script 12 mmbn6 {
 		mugshot = Count
 	msgOpen
 	"""
-	What are you
-	blathering about?
-	Admit your defeat!
+	O que vocês estão
+	cochichando aí?
+	Admitam a derrota!
 	"""
 	keyWait
 		any = false
@@ -239,11 +236,11 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Django
 	msgOpen
-	"Now,Master Otenko!"
+	"Agora, Mestre Otenko!"
 	keyWait
 		any = false
 	clearMsg
-	"Pile Trap!!"
+	"Estaca-Armadilha!!"
 	keyWait
 		any = false
 	clearMsg
@@ -264,16 +261,17 @@ script 15 mmbn6 {
 		mugshot = Count
 	msgOpen
 	"""
-	Noooo!
-	My dark aura is gone!?
+	Nããããão!
+	A minha aura sombria
+	desapareceu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Meddlesome pests!
-	How could you still have
-	that kind of power?
+	Pestes insolentes!
+	Como é possível ainda
+	terem esse tipo de poder?
 	"""
 	keyWait
 		any = false
@@ -286,8 +284,8 @@ script 16 mmbn6 {
 		mugshot = Django
 	msgOpen
 	"""
-	Now,MegaMan!
-	Take down the Count!
+	Agora, MegaMan!
+	Abata o Conde!
 	"""
 	keyWait
 		any = false
@@ -299,7 +297,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Got it!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	clearMsg
@@ -315,8 +313,9 @@ script 18 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -328,7 +327,7 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
@@ -339,14 +338,14 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Count
 	msgOpen
-	"Ugghwaa!"
+	"Ugghuaa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You fools bit off more
-	than you can chew...
-	This will be your ruin!
+	Tolos! Não estamos nem
+	perto do mesmo patamar...
+	Preparem-se para ruir!
 	"""
 	keyWait
 		any = false

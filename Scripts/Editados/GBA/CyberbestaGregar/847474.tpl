@@ -2,171 +2,171 @@
 @size 48
 
 script 0 mmbn6s {
-	"Hello!         SunnyBoy"
+	"Oi!            Solzinho"
 	end
 }
 script 1 mmbn6s {
-	"I Love Summer! SummrGuy"
+	"Amo o Verão!   Veraneio"
 	end
 }
 script 2 mmbn6s {
-	"By The Way...  KingHide"
+	"Por sinal...   ReiHide "
 	end
 }
 script 3 mmbn6s {
-	"RE:By The Way. SunnyBoy"
+	"RE:Por sinal   Solzinho"
 	end
 }
 script 4 mmbn6s {
-	"I'M SO BUSY!   RepairMn"
+	"TÃO OCUPADO!   Técnico "
 	end
 }
 script 5 mmbn6s {
-	"Waiting 4 Info Director"
+	"Informações    Diretor "
 	end
 }
 script 6 mmbn6s {
-	"RE:Waiting 4 I SummrGuy"
+	"RE:Informações Veraneio"
 	end
 }
 script 7 mmbn6s {
-	"To All SummrPp Yuko    "
+	"Pra todos aqui Yuko    "
 	end
 }
 script 8 mmbn6s {
-	"NetSurfin!     Johnny  "
+	"Surfando!      Johnny  "
 	end
 }
 script 9 mmbn6s {
-	"RE:NetSurfin!  SunnyBoy"
+	"RE:Surfando!   Solzinho"
 	end
 }
 script 10 mmbn6s {
-	"A Report       Director"
+	"Relatório      Diretor "
 	end
 }
 script 11 mmbn6s {
-	"RE:A Report    SummrGuy"
+	"RE:Relatóri    Veraneio"
 	end
 }
 script 12 mmbn6s {
-	"Evildoer!      KingHide"
+	"Malfeitor!     ReiHide "
 	end
 }
 script 13 mmbn6s {
-	"RE:Evildoer!   RepairMn"
+	"RE:Malfeitor!  Técnico "
 	end
 }
 script 14 mmbn6s {
-	"RE:Evildoer!   Johnny  "
+	"RE:Malfeitor!  Johnny  "
 	end
 }
 script 15 mmbn6s {
-	"EvilSpirit!    KingHide"
+	"Espírito Mlg!  ReiHide "
 	end
 }
 script 16 mmbn6s {
-	"RE:EvilSpirit  Maria   "
+	"RE:EspíritoMl  Maria   "
 	end
 }
 script 17 mmbn6s {
-	"RE:EvilSpirit  Copy    "
+	"RE:EspíritoMl  Cópia   "
 	end
 }
 script 18 mmbn6s {
-	"RE:EvilSpirit  Foxtail "
+	"RE:EspíritoMl  Raposo  "
 	end
 }
 script 19 mmbn6s {
-	"Operator Navi  SunnyBoy"
+	"Navi Operador  Solzinho"
 	end
 }
 script 20 mmbn6s {
-	"Re:Operator Na Coby    "
+	"Re:Navi Operad Coby    "
 	end
 }
 script 21 mmbn6s {
-	"Director Diary Director"
+	"Diário Diretor Diretor "
 	end
 }
 script 22 mmbn6s {
-	"Results...     Coby    "
+	"Resultados     Coby    "
 	end
 }
 script 23 mmbn6s {
-	"RE:Results...  RepairMn"
+	"RE:Resultados  Técnico "
 	end
 }
 script 24 mmbn6s {
-	"RE:Results...  Yuko    "
+	"RE:Resultados  Yuko    "
 	end
 }
 script 25 mmbn6s {
-	"Read this!     Footnote"
+	"Leia!          Rodapé  "
 	end
 }
 script 26 mmbn6s {
-	"RE:Read this!  KingHide"
+	"RE:Leia!       ReiHide "
 	end
 }
 script 27 mmbn6s {
-	"RE:Read this!  Footnote"
+	"RE:Leia!       Rodapé  "
 	end
 }
 script 28 mmbn6s {
-	"DirectorDiary2 Director"
+	"DiárioDretor2  Diretor "
 	end
 }
 script 29 mmbn6s {
-	"To TheDirector BiolgyTA"
+	"Pro Diretor    AsBlogia"
 	end
 }
 script 30 mmbn6s {
-	"RE:To The Dire Director"
+	"RE:Pro Diretr  Diretor "
 	end
 }
 script 31 mmbn6s {
-	"2nd Navi Test  Yuko    "
+	"2ª Prova Navi  Yuko    "
 	end
 }
 script 32 mmbn6s {
-	"RE:2nd Navi Te SunnyBoy"
+	"RE:2ª Prova N  Solzinho"
 	end
 }
 script 33 mmbn6s {
-	"Love TheMayor! Mika    "
+	"Amo prefeita!  Mika    "
 	end
 }
 script 34 mmbn6s {
-	"RE:Love The Ma HeroHiro"
+	"RE:Amo prefei  HróiHiro"
 	end
 }
 script 35 mmbn6s {
-	"RE:Love The Ma Johnny  "
+	"RE:Amo prefei  Johnny  "
 	end
 }
 script 36 mmbn6s {
-	"DirectorDiary3 Director"
+	"DiárioDretor3  Diretor "
 	end
 }
 script 37 mmbn6s {
-	"RE:DirectorDi3 Andy    "
+	"RE:DiárioDret  Andy    "
 	end
 }
 script 38 mmbn6s {
-	"Arrest Mayor   KingHide"
+	"Prefeita prsa  ReiHide "
 	end
 }
 script 39 mmbn6s {
-	"RE:Arrest Mayo Mika    "
+	"RE:Prefeita p  Mika    "
 	end
 }
 script 40 mmbn6s {
-	"NO_TITLE       Mick    "
+	"SEM TÍTULO     Mick    "
 	end
 }
 script 41 mmbn6s {
-	"RE:NO_TITLE    Director"
+	"RE:SEM TÍTULO  Diretor "
 	end
 }
 script 42 mmbn6s {

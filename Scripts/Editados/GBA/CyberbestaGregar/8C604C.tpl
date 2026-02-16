@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"The next day..."
+	"No dia seguinte..."
 	keyWait
 		any = false
 	end
@@ -13,8 +13,8 @@ script 1 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	... Alright,I'm
-	taking attendance!
+	... Certo,
+	hora da chamada!
 	"""
 	keyWait
 		any = false
@@ -30,7 +30,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Heeere!!"
+	"Preseeente!!"
 	keyWait
 		any = false
 	clearMsg
@@ -52,7 +52,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"Here!"
+	"Presente!"
 	keyWait
 		any = false
 	clearMsg
@@ -81,9 +81,9 @@ script 5 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Late again...
-	He'll never learn to
-	wake up on time...
+	Atrasado de novo...
+	Ele nunca vai aprender
+	a acordar na hora, né?
 	"""
 	keyWait
 		any = false
@@ -98,7 +98,7 @@ script 6 mmbn6 {
 	controlLock
 	soundPlay
 		track = 395
-	"*thud,thud,thud*"
+	"Tomp, Tomp, Tomp..."
 	wait
 		frames = 72
 	soundEnableTextSFX
@@ -112,20 +112,20 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	mugshotHide
 	msgOpen
-	"I'm here,I'm here!"
+	"Presente, presente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm blazing down
-	the hallway!
+	Eu tô cruzando o
+	corredor feito um raio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only 15 more feet
-	and I'll be there!
+	Só mais quatro
+	metros e eu chego!
 	"""
 	keyWait
 		any = false
@@ -134,7 +134,7 @@ script 7 mmbn6 {
 	controlLock
 	soundPlay
 		track = 395
-	"*thud,thud,thud*"
+	"Tomp, Tomp, Tomp..."
 	wait
 		frames = 72
 	soundEnableTextSFX
@@ -142,7 +142,7 @@ script 7 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"... 6 more feet!"
+	"... Dois metros!"
 	keyWait
 		any = false
 	end
@@ -152,9 +152,9 @@ script 8 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	No running in the
-	halls! ... Honestly,
-	you'll never change.
+	Não pode correr no
+	corredor! ... Ai, ai,
+	ele não muda nunca...
 	"""
 	keyWait
 		any = false
@@ -168,11 +168,11 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"*huff,huff...*"
+	"Uff... Arf..."
 	keyWait
 		any = false
 	clearMsg
-	"Whoo,just made it!!"
+	"Ufa, deu tempo!!"
 	keyWait
 		any = false
 	clearMsg
@@ -183,7 +183,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Huh!?"
+	"Hã?!"
 	keyWait
 		any = false
 	clearMsg
@@ -194,7 +194,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"W_Wha...!?"
+	"U-ué...?!"
 	keyWait
 		any = false
 	clearMsg
@@ -205,7 +205,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wh_What the!?"
+	"M-mas o quê?!"
 	keyWait
 		any = false
 	end
@@ -215,9 +215,8 @@ script 13 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	... W_What!? What's
-	everyone so
-	surprised at?
+	... Q-que é?! Por que
+	esse espanto todo?
 	"""
 	keyWait
 		any = false
@@ -230,9 +229,8 @@ script 14 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	... Mick,what is
-	that thing behind
-	you?
+	... Mick, o que é essa
+	coisa atrás de você?
 	"""
 	keyWait
 		any = false
@@ -244,7 +242,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"... Behind me?"
+	"... Atrás de mim?"
 	keyWait
 		any = false
 	end
@@ -254,8 +252,8 @@ script 16 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	... Ack!! What is
-	this thing!?
+	... Ack!!
+	Que coisa é esta?!
 	"""
 	keyWait
 		any = false
@@ -268,8 +266,8 @@ script 17 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	You brought it here,
-	didn't you?
+	Você que trouxe
+	ele aqui, não foi?!
 	"""
 	keyWait
 		any = false
@@ -282,15 +280,15 @@ script 18 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	I don't know nothing
-	about this bird!
+	Eu não sei nada desse
+	pássaro aí, não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Get away!
-	Shoo,shoo!
+	... Sai daqui!
+	Xô, xô!
 	"""
 	keyWait
 		any = false
@@ -310,8 +308,8 @@ script 20 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Argh!! What's with
-	you!?
+	Argh!!
+	Qual é a tua, hein?!
 	"""
 	keyWait
 		any = false
@@ -324,14 +322,17 @@ script 21 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Looks like it's
-	attached itself
-	to you...
+	Parece que
+	ele se afeiçoou
+	bastante a você...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Any idea why?"
+	"""
+	Consegue imaginar
+	por quê?
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -342,7 +343,7 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Why?"
+	"Por quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -356,16 +357,16 @@ script 22 mmbn6 {
 	wait
 		frames = 20
 	"""
-	 Oh! now I
-	remember!
+	 Ah!
+	Lembrei agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I gave it some food
-	yesterday. What a
-	strange pigeon!
+	Eu dei uma comida pra
+	ele ontem. Que pombo
+	esquisito, esse!
 	"""
 	keyWait
 		any = false
@@ -377,14 +378,13 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"... Uh,Mick,"
+	"... Er, Mick,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that's not a
-	pigeon __ it's a
-	penguin!
+	isso não é um pombo.
+	É um pinguim!
 	"""
 	keyWait
 		any = false
@@ -405,13 +405,13 @@ script 24 mmbn6 {
 	"."
 	wait
 		frames = 15
-	" Ooooh..."
+	" Aaaaah..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So this is a
-	pelican...
+	Então isso que
+	é um pelicano...
 	"""
 	keyWait
 		any = false
@@ -433,24 +433,22 @@ script 25 mmbn6 {
 	wait
 		frames = 15
 	"""
-	 Uh,
-	that's enough
-	for now...
+	 Er,
+	depois eu corrijo isso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That penguin seems
-	to really like you.
+	Parece que esse pinguim
+	gosta muito de você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So for now,try to
-	take good care
-	of it!
+	Então, por enquanto,
+	cuida bem dele, viu?
 	"""
 	keyWait
 		any = false
@@ -460,7 +458,7 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"What!? Why!?"
+	"O quê?! Por quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -472,8 +470,9 @@ script 27 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Well,you can't just
-	ditch the bird!
+	Bom, você não pode só
+	abandonar o pássaro
+	assim, né?!
 	"""
 	keyWait
 		any = false
@@ -485,11 +484,11 @@ script 28 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Y_Yeah,but..."
+	"É-é, mas..."
 	keyWait
 		any = false
 	clearMsg
-	"Hmph! Why me!?"
+	"Hmpf! Por que eu?!"
 	keyWait
 		any = false
 	end
@@ -499,9 +498,9 @@ script 29 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There's something
-	strange about that
-	penguin,Lan!
+	Tem alguma coisa
+	estranha nesse
+	pinguim, Lan!
 	"""
 	keyWait
 		any = false
@@ -527,8 +526,8 @@ script 30 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Maybe it IS
-	a pelican...
+	Talvez ele seja
+	mesmo um pelicano...
 	"""
 	keyWait
 		any = false
@@ -540,7 +539,7 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"L_Lan!!?"
+	"L-Lan?!"
 	keyWait
 		any = false
 	soundFadeOut
@@ -552,7 +551,7 @@ script 31 mmbn6 {
 }
 script 32 mmbn6 {
 	msgOpen
-	"After school..."
+	"Depois da aula..."
 	keyWait
 		any = false
 	clearMsg
@@ -560,16 +559,16 @@ script 32 mmbn6 {
 	controlLock
 	soundPlay
 		track = 375
-	"*ding,"
+	"Bim "
 	wait
 		frames = 42
-	"dong,"
+	"Bom "
 	wait
 		frames = 40
-	"ding,"
+	"Bim "
 	wait
 		frames = 40
-	"dong*"
+	"Bom"
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -587,8 +586,8 @@ script 33 mmbn6 {
 	msgOpen
 	"""
 	... Ahhhh!
-	School's finally
-	over!
+	Finalmente,
+	chega de escola!
 	"""
 	keyWait
 		any = false
@@ -601,7 +600,7 @@ script 33 mmbn6 {
 script 34 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squawk! Squawk!*"
+	"Quén! Quén!"
 	keyWait
 		any = false
 	end
@@ -609,7 +608,7 @@ script 34 mmbn6 {
 script 35 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squawk! Squawk!*"
+	"Quén! Quén!"
 	keyWait
 		any = false
 	clearMsg
@@ -620,13 +619,13 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"What's with you__"
+	"Qual é a sua, hein?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	making a racket all
-	of a sudden!?
+	Pra que essa barulheira
+	toda, do nada?!
 	"""
 	keyWait
 		any = false
@@ -641,15 +640,15 @@ script 37 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's some noise
-	it's making.
+	Ele tá berrando
+	alto mesmo, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Maybe it's
-	hungry?
+	... Será que
+	tá com fome?
 	"""
 	keyWait
 		any = false
@@ -662,16 +661,15 @@ script 38 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	You think
-	it's hungry?
+	Cê acha que ele
+	tá com fome?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't have
-	any more of that
-	pigeon food!
+	Mas eu não tenho mais
+	comida de pombo!
 	"""
 	keyWait
 		any = false
@@ -684,33 +682,31 @@ script 39 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Speaking of
-	which,what do
-	penguins eat?
+	Falando nisso, o que é
+	que os pinguins comem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Hmm,maybe we
-	should ask the
-	Biology teacher...
+	... Hmm, acho melhor
+	a gente perguntar pro
+	professor de Biologia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tell you what,Mick,
-	I'll find some bird
-	food for you!
+	Beleza, Mick, eu
+	vou te arranjar
+	comida pra ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You just hang tight
-	here and watch the
-	penguin,OK?
+	Aguenta aí e fica de
+	olho no pinguim, tá bom?
 	"""
 	keyWait
 		any = false
@@ -723,31 +719,31 @@ script 40 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	... I don't really
-	wanna owe you...
+	... Eu não quero ficar
+	te devendo favor...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I don't wanna
-	leave this penguin
-	alone,either.
+	mas também não
+	quero largar este
+	pinguim assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gotta choose...
-	Gotta choose...
+	O que eu faço...?
+	O que eu faço...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,you'd better
-	find me some
-	bird food or else!
+	Beleza. É bom cê
+	arranjar comida boa pra
+	ele, ou cê vai ver só!
 	"""
 	keyWait
 		any = false

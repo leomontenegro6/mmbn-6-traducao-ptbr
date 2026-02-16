@@ -6,32 +6,32 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I AM THE PROGRAM
-	IN THIS COMPUTER.
+	EU SOU O PROG
+	DESTE COMPUTADOR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS COMPUTER IS
-	PACKED WITH
-	RESEARCH DATA!
+	ESTE SISTEMA ESTÁ
+	REPLETO DE DADOS
+	DE PESQUISA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THANKS TO THAT,
-	I TOO HAVE BECOME
-	QUITE INTELLIGENT!
+	GRAÇAS A ELES, EU
+	TAMBÉM FIQUEI UM
+	TANTO INTELIGENTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE IS ABSOLUTELY
-	NOTHING THAT I CAN'T
-	FIGURE OUT MYSELF!!
+	NÃO HÁ ABSOLUTAMENTE
+	NADA QUE EU NÃO POSSA
+	DESCOBRIR SOZINHO!!
 	"""
 	keyWait
 		any = false

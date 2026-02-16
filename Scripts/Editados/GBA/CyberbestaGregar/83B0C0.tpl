@@ -24,7 +24,8 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	Ahh!
-	The LevBus is here!
+	O Ônibus Magnético
+	chegou!
 	"""
 	keyWait
 		any = false
@@ -52,8 +53,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ahh!
-	The train is here!
+	Ah!
+	Chegou o trem!
 	"""
 	keyWait
 		any = false
@@ -95,8 +96,8 @@ script 10 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Want to go to
-	Seaside Town?
+	Ir pro Distrito
+	Beira-Mar?
 	
 	"""
 	positionOptionHorizontal
@@ -109,7 +110,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -118,7 +119,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -138,7 +139,7 @@ script 11 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -147,7 +148,7 @@ script 11 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Seaside  "
+	" BeiraMr  "
 	option
 		brackets = 0
 		left = 0
@@ -156,7 +157,7 @@ script 11 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Green\n"
+	" Verde\n"
 	select
 		default = 0
 		BSeparate = true
@@ -176,7 +177,7 @@ script 12 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -185,7 +186,7 @@ script 12 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Seaside  "
+	" BeiraMr  "
 	option
 		brackets = 0
 		left = 0
@@ -194,7 +195,7 @@ script 12 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Green\n"
+	" Verde\n"
 	option
 		brackets = 0
 		left = 2
@@ -203,7 +204,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sky"
+	" Céu"
 	select
 		default = 0
 		BSeparate = true
@@ -224,7 +225,7 @@ script 13 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -233,7 +234,7 @@ script 13 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Seaside  "
+	" BeiraMr  "
 	option
 		brackets = 0
 		left = 0
@@ -242,7 +243,7 @@ script 13 mmbn6 {
 		down = 3
 	space
 		count = 1
-	" Green\n"
+	" Verde\n"
 	option
 		brackets = 0
 		left = 3
@@ -251,7 +252,7 @@ script 13 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sky     "
+	" Céu     "
 	spacePx
 		count = 5
 	option
@@ -344,8 +345,7 @@ script 20 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Want to go to
-	Central Town?
+	Ir pro Bairro Central?
 	
 	"""
 	positionOptionHorizontal
@@ -358,7 +358,7 @@ script 20 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -367,7 +367,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -387,7 +387,7 @@ script 21 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -405,7 +405,7 @@ script 21 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Green\n"
+	" Verde\n"
 	select
 		default = 0
 		BSeparate = true
@@ -425,7 +425,7 @@ script 22 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -443,7 +443,7 @@ script 22 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Green\n"
+	" Verde\n"
 	option
 		brackets = 0
 		left = 2
@@ -452,7 +452,7 @@ script 22 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sky"
+	" Céu"
 	select
 		default = 0
 		BSeparate = true
@@ -473,7 +473,7 @@ script 23 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -491,7 +491,7 @@ script 23 mmbn6 {
 		down = 3
 	space
 		count = 1
-	" Green\n"
+	" Verde\n"
 	option
 		brackets = 0
 		left = 3
@@ -500,7 +500,7 @@ script 23 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sky     "
+	" Céu     "
 	spacePx
 		count = 5
 	option
@@ -593,8 +593,7 @@ script 30 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Want to go to
-	Central Town?
+	Ir pro Bairro Central?
 	
 	"""
 	positionOptionHorizontal
@@ -607,7 +606,7 @@ script 30 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -616,7 +615,7 @@ script 30 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -636,7 +635,7 @@ script 31 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -654,7 +653,7 @@ script 31 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	select
 		default = 0
 		BSeparate = true
@@ -674,7 +673,7 @@ script 32 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -692,7 +691,7 @@ script 32 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	option
 		brackets = 0
 		left = 2
@@ -701,7 +700,7 @@ script 32 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sky"
+	" Céu"
 	select
 		default = 0
 		BSeparate = true
@@ -722,7 +721,7 @@ script 33 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -740,7 +739,7 @@ script 33 mmbn6 {
 		down = 3
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	option
 		brackets = 0
 		left = 3
@@ -749,7 +748,7 @@ script 33 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sky     "
+	" Céu     "
 	spacePx
 		count = 5
 	option
@@ -842,8 +841,7 @@ script 40 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Want to go to
-	Central Town?
+	Ir pro Bairro Central?
 	
 	"""
 	positionOptionHorizontal
@@ -856,7 +854,7 @@ script 40 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -865,7 +863,7 @@ script 40 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -885,7 +883,7 @@ script 41 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -903,7 +901,7 @@ script 41 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	select
 		default = 0
 		BSeparate = true
@@ -923,7 +921,7 @@ script 42 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -941,7 +939,7 @@ script 42 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	option
 		brackets = 0
 		left = 2
@@ -950,7 +948,7 @@ script 42 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Green"
+	" Verde"
 	select
 		default = 0
 		BSeparate = true
@@ -971,7 +969,7 @@ script 43 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -989,7 +987,7 @@ script 43 mmbn6 {
 		down = 3
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	option
 		brackets = 0
 		left = 3
@@ -998,7 +996,7 @@ script 43 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Green   "
+	" Verde   "
 	spacePx
 		count = 5
 	option
@@ -1091,8 +1089,7 @@ script 50 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Want to go to
-	Central Town?
+	Ir pro Bairro Central?
 	
 	"""
 	positionOptionHorizontal
@@ -1105,7 +1102,7 @@ script 50 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1114,7 +1111,7 @@ script 50 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1134,7 +1131,7 @@ script 51 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -1152,7 +1149,7 @@ script 51 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	select
 		default = 0
 		BSeparate = true
@@ -1172,7 +1169,7 @@ script 52 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -1190,7 +1187,7 @@ script 52 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	option
 		brackets = 0
 		left = 2
@@ -1199,7 +1196,7 @@ script 52 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Green"
+	" Verde"
 	select
 		default = 0
 		BSeparate = true
@@ -1220,7 +1217,7 @@ script 53 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -1238,7 +1235,7 @@ script 53 mmbn6 {
 		down = 3
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	option
 		brackets = 0
 		left = 3
@@ -1247,7 +1244,7 @@ script 53 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Green   "
+	" Verde   "
 	spacePx
 		count = 5
 	option
@@ -1258,7 +1255,7 @@ script 53 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Sky"
+	" Céu"
 	select
 		default = 0
 		BSeparate = true
@@ -1309,8 +1306,8 @@ script 60 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh. The LevBus is
-	here!
+	Ah. O Ônibus
+	Magnético chegou!
 	"""
 	keyWait
 		any = false
@@ -1321,8 +1318,7 @@ script 61 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh. The train is
-	here!
+	Ah. O trem chegou!
 	"""
 	keyWait
 		any = false
@@ -1347,8 +1343,8 @@ script 70 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Wanna go to
-	Seaside Town?
+	Bora lá pro
+	Distrito Beira-Mar?
 	
 	"""
 	positionOptionHorizontal
@@ -1361,7 +1357,7 @@ script 70 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1370,7 +1366,7 @@ script 70 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1390,7 +1386,7 @@ script 71 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -1399,7 +1395,7 @@ script 71 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Seaside  "
+	" BeiraMr  "
 	option
 		brackets = 0
 		left = 0
@@ -1408,7 +1404,7 @@ script 71 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Green\n"
+	" Verde\n"
 	select
 		default = 0
 		BSeparate = true
@@ -1428,7 +1424,7 @@ script 72 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -1437,7 +1433,7 @@ script 72 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Seaside  "
+	" BeiraMr  "
 	option
 		brackets = 0
 		left = 0
@@ -1446,7 +1442,7 @@ script 72 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Green\n"
+	" Verde\n"
 	option
 		brackets = 0
 		left = 2
@@ -1455,7 +1451,7 @@ script 72 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sky"
+	" Céu"
 	select
 		default = 0
 		BSeparate = true
@@ -1476,7 +1472,7 @@ script 73 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -1485,7 +1481,7 @@ script 73 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Seaside  "
+	" BeiraMr  "
 	option
 		brackets = 0
 		left = 0
@@ -1494,7 +1490,7 @@ script 73 mmbn6 {
 		down = 3
 	space
 		count = 1
-	" Green\n"
+	" Verde\n"
 	option
 		brackets = 0
 		left = 3
@@ -1503,7 +1499,7 @@ script 73 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sky     "
+	" Céu     "
 	spacePx
 		count = 5
 	option
@@ -1579,8 +1575,8 @@ script 80 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Wanna go to
-	Central Town?
+	Bora lá pro
+	Bairro Central?
 	
 	"""
 	positionOptionHorizontal
@@ -1593,7 +1589,7 @@ script 80 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1602,7 +1598,7 @@ script 80 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1622,7 +1618,7 @@ script 81 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -1640,7 +1636,7 @@ script 81 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Green\n"
+	" Verde\n"
 	select
 		default = 0
 		BSeparate = true
@@ -1660,7 +1656,7 @@ script 82 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -1678,7 +1674,7 @@ script 82 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Green\n"
+	" Verde\n"
 	option
 		brackets = 0
 		left = 2
@@ -1687,7 +1683,7 @@ script 82 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sky"
+	" Céu"
 	select
 		default = 0
 		BSeparate = true
@@ -1708,7 +1704,7 @@ script 83 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -1726,7 +1722,7 @@ script 83 mmbn6 {
 		down = 3
 	space
 		count = 1
-	" Green\n"
+	" Verde\n"
 	option
 		brackets = 0
 		left = 3
@@ -1735,7 +1731,7 @@ script 83 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sky     "
+	" Céu     "
 	spacePx
 		count = 5
 	option
@@ -1811,8 +1807,8 @@ script 90 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Wanna go to
-	Central Town?
+	Bora lá pro
+	Bairro Central?
 	
 	"""
 	positionOptionHorizontal
@@ -1825,7 +1821,7 @@ script 90 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1834,7 +1830,7 @@ script 90 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1854,7 +1850,7 @@ script 91 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -1872,7 +1868,7 @@ script 91 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	select
 		default = 0
 		BSeparate = true
@@ -1892,7 +1888,7 @@ script 92 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -1910,7 +1906,7 @@ script 92 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	option
 		brackets = 0
 		left = 2
@@ -1919,7 +1915,7 @@ script 92 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sky"
+	" Céu"
 	select
 		default = 0
 		BSeparate = true
@@ -1940,7 +1936,7 @@ script 93 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -1958,7 +1954,7 @@ script 93 mmbn6 {
 		down = 3
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	option
 		brackets = 0
 		left = 3
@@ -1967,7 +1963,7 @@ script 93 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sky     "
+	" Céu     "
 	spacePx
 		count = 5
 	option
@@ -2043,8 +2039,8 @@ script 100 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Wanna go to
-	Central Town?
+	Bora lá pro
+	Bairro Central?
 	
 	"""
 	positionOptionHorizontal
@@ -2057,7 +2053,7 @@ script 100 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2066,7 +2062,7 @@ script 100 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2086,7 +2082,7 @@ script 101 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -2104,7 +2100,7 @@ script 101 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	select
 		default = 0
 		BSeparate = true
@@ -2124,7 +2120,7 @@ script 102 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -2142,7 +2138,7 @@ script 102 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	option
 		brackets = 0
 		left = 2
@@ -2151,7 +2147,7 @@ script 102 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Green"
+	" Verde"
 	select
 		default = 0
 		BSeparate = true
@@ -2172,7 +2168,7 @@ script 103 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -2190,7 +2186,7 @@ script 103 mmbn6 {
 		down = 3
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	option
 		brackets = 0
 		left = 3
@@ -2199,7 +2195,7 @@ script 103 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Green   "
+	" Verde   "
 	spacePx
 		count = 5
 	option
@@ -2275,8 +2271,8 @@ script 110 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Wanna go to
-	Central Town?
+	Bora lá pro
+	Bairro Central?
 	
 	"""
 	positionOptionHorizontal
@@ -2289,7 +2285,7 @@ script 110 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2298,7 +2294,7 @@ script 110 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2318,7 +2314,7 @@ script 111 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -2336,7 +2332,7 @@ script 111 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	select
 		default = 0
 		BSeparate = true
@@ -2356,7 +2352,7 @@ script 112 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -2374,7 +2370,7 @@ script 112 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	option
 		brackets = 0
 		left = 2
@@ -2383,7 +2379,7 @@ script 112 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Green"
+	" Verde"
 	select
 		default = 0
 		BSeparate = true
@@ -2404,7 +2400,7 @@ script 113 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Where to?\n"
+	"Destino?\n"
 	option
 		brackets = 0
 		left = 1
@@ -2422,7 +2418,7 @@ script 113 mmbn6 {
 		down = 3
 	space
 		count = 1
-	" Seaside\n"
+	" BeiraMr\n"
 	option
 		brackets = 0
 		left = 3
@@ -2431,7 +2427,7 @@ script 113 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Green   "
+	" Verde   "
 	spacePx
 		count = 5
 	option
@@ -2442,7 +2438,7 @@ script 113 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Sky"
+	" Céu"
 	select
 		default = 0
 		BSeparate = true

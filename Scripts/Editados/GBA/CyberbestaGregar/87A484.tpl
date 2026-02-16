@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Gotta find something
-	to put out the
-	Security Bot's fire!
+	Tenho que achar alguma
+	coisa pra apagar o
+	fogo daqueles robôs!
 	"""
 	keyWait
 		any = false
@@ -19,16 +19,14 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,this is the
-	back door to the
-	classroom.
+	Lan, essa é a entrada
+	dos fundos da sala.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use the front door
-	to get in!
+	Entra pela da frente!
 	"""
 	keyWait
 		any = false
@@ -39,8 +37,8 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,this isn't
-	Class 6_1!!
+	Lan, essa não
+	é a Sala 6-1!
 	"""
 	keyWait
 		any = false
@@ -61,61 +59,58 @@ script 5 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Who called Mr.Quiz!!
-	Who called Mr.Quiz!!
+	O Questionário chegou!!
+	O Questionário chegou!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's OK to say!!
-	It's OK to play!!
+	Podem gritar!
+	Podem jogar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey Hey! Ho Ho!
-	Quiz Power!!
-	It's time to go!!
+	Yeah, Yeah! Yo, Yo!
+	Questione TUDO!!
+	E só vamos!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you know who
-	I am?
+	Você sabe quem eu sou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am the ace of
-	the Cyber Academy
-	Quiz Team...
+	Sou o craque do Time
+	de Questionários da
+	Escola Saibher...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The oft_rumored
-	Mr.Quiz!!
+	O famigerado
+	"Questionário"!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is no one
-	who can rival me
-	at this school!
+	Ninguém se compara
+	a mim nesta escola!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Care to try a
-	Quiz Battle with
-	me?
+	Que tal uma Batalha de
+	Questionários comigo?
 	"""
 	keyWait
 		any = false
@@ -131,7 +126,7 @@ script 5 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Try it!\n"
+	" Vamos!\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -142,7 +137,7 @@ script 5 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Not interested"
+	" Não quero"
 	select
 		default = 0
 		BSeparate = false
@@ -157,13 +152,13 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	DING!!
-	Not interested!?!?
+	DIIIMM!!
+	Não quer?!?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Trivia is my life!!"
+	"Que curioso...\nE de curiosidades,\neu entendo!!"
 	keyWait
 		any = false
 	end
@@ -173,60 +168,58 @@ script 6 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Who called Mr.Quiz!!
-	Who called Mr.Quiz!!
+	O Questionário chegou!!
+	O Questionário chegou!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's OK to say!!
-	It's OK to play!!
+	Podem gritar!
+	Podem jogar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey Hey! Ho Ho!
-	Quiz Power!!
-	It's time to go!!
+	Yeah, Yeah! Yo, Yo!
+	Questione TUDO!!
+	E só vamos!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you know who
-	I am?
+	Você sabe quem eu sou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am the ace of
-	the Cyber Academy
-	Quiz Team...
+	Sou o craque do Time
+	de Questionários da
+	Escola Saibher...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The oft_rumored
-	Mr.Quiz!!
+	O famigerado
+	"Questionário"!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is no one
-	who can rival me
-	at this school!
+	Ninguém se compara
+	a mim nesta escola!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Want to try a
-	Quiz Battle with me?
+	Que tal uma Batalha de
+	Questionários comigo?
 	"""
 	keyWait
 		any = false
@@ -242,7 +235,7 @@ script 6 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Enter Quiz Battle\n"
+	" Aceitar\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -253,7 +246,7 @@ script 6 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Not interested"
+	" Não quero"
 	select
 		default = 0
 		BSeparate = false
@@ -268,13 +261,13 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	DING!!
-	Not interested!?!?
+	DIIIMM!!
+	Não quer?!?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Trivia is my life!!"
+	"Que curioso...\nE de curiosidades,\neu entendo!!"
 	keyWait
 		any = false
 	end
@@ -284,15 +277,15 @@ script 7 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Alright...
-	Time for question 1!
+	Pois bem...
+	Hora da pergunta 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What can't you grab
-	with your left hand?
+	O que não dá para pegar
+	com a mão esquerda?
 	"""
 	keyWait
 		any = false
@@ -310,7 +303,7 @@ script 7 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Left leg\n"
+	" Perna esquerda\n"
 	positionOptionHorizontal
 		width = 9
 	option
@@ -321,7 +314,7 @@ script 7 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Left hand\n"
+	" Mão esquerda\n"
 	positionOptionHorizontal
 		width = 9
 	option
@@ -332,7 +325,7 @@ script 7 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Right handed buddy"
+	" Amigo destro"
 	select
 		default = 0
 		BSeparate = false
@@ -354,16 +347,16 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	CORRECT!!
-	Next up is
-	question number 2!
+	CERTA A RESPOSTA!!
+	Agora, a pergunta
+	número 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What does a Mettaur
-	always have?
+	O que um Mettaur
+	sempre tem consigo?
 	"""
 	keyWait
 		any = false
@@ -381,7 +374,7 @@ script 7 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Scoop\n"
+	" Pá\n"
 	positionOptionHorizontal
 		width = 6
 	option
@@ -392,7 +385,7 @@ script 7 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Shovel\n"
+	" Enxada\n"
 	positionOptionHorizontal
 		width = 6
 	option
@@ -403,7 +396,7 @@ script 7 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Pickaxe"
+	" Picareta"
 	select
 		default = 0
 		BSeparate = false
@@ -425,21 +418,20 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	CORRECT!!
-	Alright,this one's
-	a bit harder!
+	CERTA A RESPOSTA!!
+	Tá, a próxima é um
+	pouquinho mais difícil!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Question 3."
+	"Pergunta 3."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Which one of these
-	fish might chase a
-	mouse?
+	Qual destes peixes é
+	o favorito dos caubóis?
 	"""
 	keyWait
 		any = false
@@ -457,7 +449,7 @@ script 7 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"Angelfish\n"
+	"Tilápia\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -468,7 +460,7 @@ script 7 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"Swordfish\n"
+	"Salmão\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -479,7 +471,7 @@ script 7 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Catfish"
+	"Cavalinha"
 	select
 		default = 0
 		BSeparate = false
@@ -501,17 +493,17 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	CORRECT!!
-	Good job! Time
-	for question 4.
+	CERTA A RESPOSTA!!
+	Bom trabalho! Agora,
+	vamos à pergunta 4.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What walks on 4
-	legs,then 2 legs,
-	then 3 legs?
+	O que anda sobre quatro
+	patas de dia, duas de
+	tarde e três de noite?
 	"""
 	keyWait
 		any = false
@@ -529,7 +521,7 @@ script 7 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" A human\n"
+	" O ser humano\n"
 	positionOptionHorizontal
 		width = 3
 	option
@@ -540,7 +532,7 @@ script 7 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" A gorilla\n"
+	" O gorila\n"
 	positionOptionHorizontal
 		width = 3
 	option
@@ -551,7 +543,7 @@ script 7 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" A dog"
+	" O cão"
 	select
 		default = 0
 		BSeparate = false
@@ -573,22 +565,23 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	CORRECT!!
-	Final question!
+	CERTA A RESPOSTA!!
+	Pergunta final!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is the color
-	of the tulips in
+	Qual é a cor das
+	tulipas que se
+	encontram na
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyber Academy Class
-	1_2.
+	Sala 1-2 da
+	Escola Saibher?
 	"""
 	keyWait
 		any = false
@@ -606,7 +599,7 @@ script 7 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Pink\n"
+	" Cor-de-rosa\n"
 	positionOptionHorizontal
 		width = 5
 	option
@@ -617,7 +610,7 @@ script 7 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Yellow\n"
+	" Amarelo\n"
 	positionOptionHorizontal
 		width = 5
 	option
@@ -628,7 +621,7 @@ script 7 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Purple"
+	" Roxo"
 	select
 		default = 0
 		BSeparate = false
@@ -649,36 +642,35 @@ script 7 mmbn6 {
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = YoungBoyHair
-	"Ding! Ding! Ding!"
+	"Dim! Dim! Dim!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I...lost...
-	The ace of the
-	Quiz Team...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Oh well...
-	Time to hand over
-	the crown...
+	Eu... perdi...
+	Eu, o craque do Time
+	de Questionários...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh! You don't want
-	it?
+	Bom, vida que segue.
+	Hora de ceder a coroa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Well,then take
-	this instead...
+	Hã?!
+	Você não quer ela?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... Bom, então leva
+	isto aqui no lugar...
 	"""
 	keyWait
 		any = false
@@ -690,7 +682,7 @@ script 7 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -705,9 +697,9 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	You've got talent!
-	You should join the
-	Quiz Team!
+	Cê tem talento!
+	Devia entrar pro Time
+	dos Questionários!
 	"""
 	keyWait
 		any = false
@@ -726,15 +718,16 @@ script 8 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	Too bad!!
-	Wrong answer!!
+	Bzzt!!
+	Errou!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really am the
-	Quiz King!!
+	É, você não
+	é mesmo páreo
+	pro craque aqui!!
 	"""
 	keyWait
 		any = false
@@ -744,14 +737,14 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	msgOpen
-	"You've got talent!"
+	"Cê tem talento!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Unimaginable talent!
-	You should join the
-	Quiz Team!
+	Talento pra dar e
+	vender! Devia entrar pro
+	Time dos Questionários!
 	"""
 	keyWait
 		any = false

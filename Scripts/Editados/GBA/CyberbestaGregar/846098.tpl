@@ -18,7 +18,7 @@ script 3 mmbn6s {
 	end
 }
 script 4 mmbn6s {
-	"EraseMan"
+	"KillerMan"
 	end
 }
 script 5 mmbn6s {
@@ -76,8 +76,8 @@ script 14 mmbn6 {
 		mugshot = MegaMan
 	msgOpenMenu
 	"""
-	Please enter
-	folder name!
+	Por favor, insira
+	o nome da pasta!
 	"""
 	keyWait
 		any = false

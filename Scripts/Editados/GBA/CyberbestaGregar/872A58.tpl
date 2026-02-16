@@ -24,15 +24,16 @@ script 0 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	The 3 bad guys who
-	are with that girl
+	Os três bandidos
+	que estavam com
+	aquela menina
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just headed for the
-	station.
+	acabaram de ir
+	rumo à estação.
 	"""
 	keyWait
 		any = false
@@ -47,15 +48,14 @@ script 1 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	The 3 people with
-	the girl?
+	Três adultos
+	e uma menina?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,I haven't
-	seen them.
+	Lamento, não vi, não.
 	"""
 	keyWait
 		any = false
@@ -70,15 +70,14 @@ script 2 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	3 people with a
-	girl in tow?
+	Três adultos acompanhados
+	de uma menina?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry,but I
-	haven't seen them.
+	Desculpa, não vi...
 	"""
 	keyWait
 		any = false
@@ -96,14 +95,13 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
 	msgOpen
-	"I want a new chip!"
+	"Eu quero um chip novo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why the long face?
-	What's the matter,
-	big guy?
+	Por que essa cara triste?
+	Qual é o problema, cara?
 	"""
 	keyWait
 		any = false
@@ -113,20 +111,22 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"Hohohoho..."
+	"Ho ho ho ho..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm excited for
-	the Expo to open!
+	Estou tão animado
+	para a inauguração
+	da Exposição!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So excited the
-	ground is shaking!
+	Tão animado, que
+	parece até que o
+	chão tá tremendo!
 	"""
 	keyWait
 		any = false
@@ -137,31 +137,29 @@ script 6 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	The Expo is opening
-	on schedule...
+	A Exposição vai abrir,
+	conforme agendado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lately there have
-	been a lot of
-	incidents,
+	Tem havido vários
+	incidentes esses dias,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I was worried
-	they might delay the
-	opening..
+	então eu tava preocupado
+	que pudessem atrasar
+	a inauguração.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So this is great
-	news!
+	Ótima notícia, essa!
 	"""
 	keyWait
 		any = false
@@ -171,14 +169,14 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"The Expo!!"
+	"A Exposição!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lots of people are
-	going to come here!
-	I can't wait!!
+	Um monte de gente
+	vai vir pra cá!
+	Mal posso esperar!!
 	"""
 	keyWait
 		any = false
@@ -189,9 +187,8 @@ script 8 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	There's tons of
-	Navis!!
-	How cool!!
+	Tem tantos Navis!!
+	Que irado!!
 	"""
 	keyWait
 		any = false
@@ -202,16 +199,15 @@ script 10 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I wonder if we
-	shouldn't clean up
-	before the opening
+	Será que é melhor
+	limparmos o bairro
+	antes da abertura da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of the "Expo that's
-	not to be missed?"
+	"Exposição imperdível"?
 	"""
 	keyWait
 		any = false
@@ -222,16 +218,16 @@ script 11 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I'm happy that there
-	is an Expo,
+	Estou muito feliz
+	com a Exposição,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I'm so busy with
-	work,I'm worried
-	that I can't go!!
+	mas ando tão ocupado
+	com o trabalho, que
+	talvez não possa ir!!
 	"""
 	keyWait
 		any = false
@@ -242,22 +238,15 @@ script 12 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	You aren't looking
-	for someone to go
+	Você não tá atrás
+	de companhia pra
+	Exposição, tá?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to the Expo with,
-	are you?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If you are,
-	I volunteer!
+	Se tiver, eu me candidato!
 	"""
 	keyWait
 		any = false
@@ -268,15 +257,15 @@ script 16 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hurry up!
-	Let's go!!
+	Rápido!
+	Bora logo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You invited me,
-	so you go first!
+	Foi cê que me convidou,
+	então vai na frente!
 	"""
 	keyWait
 		any = false
@@ -287,8 +276,8 @@ script 17 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Alright! Let's go!
-	I'm excited!
+	Legal! Vamos lá!
+	Tô tão animada!
 	"""
 	keyWait
 		any = false
@@ -299,9 +288,9 @@ script 18 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	This is the first
-	time I've been to an
-	Expo... I'm nervous.
+	Esta é a primeira vez
+	que eu vou em uma
+	Exposição... Que nervoso.
 	"""
 	keyWait
 		any = false
@@ -312,9 +301,9 @@ script 19 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Lan,let's go!!
-	I can't wait
-	anymore!
+	Lan, bora logo!!
+	Eu não aguento mais
+	esperar!
 	"""
 	keyWait
 		any = false
@@ -325,9 +314,9 @@ script 20 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	Ahh! I'm so excited!
-	I can't wait to get
-	inside!!
+	Ahh! Tô tão animado!
+	Mal posso esperar
+	pra entrar!!
 	"""
 	keyWait
 		any = false
@@ -344,14 +333,14 @@ script 21 mmbn6 {
 }
 script 25 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -367,7 +356,7 @@ script 26 mmbn6 {
 	msgOpen
 	"""
 	Lan Hikari...
-	I found you!!
+	Te achei!!
 	"""
 	keyWait
 		any = false
@@ -386,8 +375,7 @@ script 27 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	The real world is
-	ours!!
+	O mundo real é nosso!!
 	"""
 	keyWait
 		any = false
@@ -406,8 +394,8 @@ script 28 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You're Lan Hikari!
-	Time for your end!
+	Você é Lan Hikari!
+	Prepara pra morrer!
 	"""
 	keyWait
 		any = false
@@ -426,9 +414,9 @@ script 29 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Found you!
-	A perfect present
-	for Dr.Wily!!
+	Te achei!
+	Um presente perfeito
+	pro Dr. Wily!!
 	"""
 	keyWait
 		any = false
@@ -448,7 +436,7 @@ script 30 mmbn6 {
 	msgOpen
 	"""
 	Lan Hikari!!!!!
-	YAAAAAHHHHHHHH!!!
+	IÁÁÁÁÁÁÁÁÁÁRHHH!!!
 	"""
 	keyWait
 		any = false
@@ -463,17 +451,16 @@ script 35 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Lately,all I've
-	heard is terrifying
-	talk...
+	Eu só tenho ouvido
+	notícias de tragédia
+	esses dias...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really want to
-	talk about something
-	happy...
+	Queria muito falar de
+	alguma coisa alegre...
 	"""
 	keyWait
 		any = false
@@ -484,14 +471,13 @@ script 36 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Alright,today there
-	are only 3 more
-	customers to visit.
+	Tá, hoje só tem mais
+	três clientes pra visitar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm so tired..."
+	"Eita, canseira..."
 	keyWait
 		any = false
 	end
@@ -501,9 +487,8 @@ script 37 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I wonder if the
-	Expo is really going
-	to open...
+	Será que a Exposição
+	vai mesmo rolar...?
 	"""
 	keyWait
 		any = false
@@ -513,7 +498,7 @@ script 38 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
 	msgOpen
-	"I want a new chip!"
+	"Eu quero um chip novo!"
 	keyWait
 		any = false
 	end

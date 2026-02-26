@@ -432,7 +432,7 @@ script 156 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Quatro totems,
+	Quatro totens,
 	quatro provas...
 	Bora mandar ver!
 	"""

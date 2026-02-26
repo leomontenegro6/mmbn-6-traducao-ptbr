@@ -123,7 +123,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ler o e-mail?"
+	"Não é melhor ler o e-mail?"
 	keyWait
 		any = false
 	end
@@ -132,7 +132,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ler o e-mail?"
+	"Não é melhor ler o e-mail?"
 	keyWait
 		any = false
 	end
@@ -164,9 +164,8 @@ script 40 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Um vírus invadiu a
-	minha fritadeira de
-	Palitos de Peixe,
+	Um vírus invadiu a minha
+	fritadeira de taiyaki,
 	"""
 	keyWait
 		any = false
@@ -255,9 +254,8 @@ script 41 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Um vírus invadiu a
-	minha fritadeira de
-	Palitos de Peixe.
+	Um vírus invadiu a minha
+	fritadeira de taiyaki.
 	"""
 	keyWait
 		any = false
@@ -374,7 +372,7 @@ script 42 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd

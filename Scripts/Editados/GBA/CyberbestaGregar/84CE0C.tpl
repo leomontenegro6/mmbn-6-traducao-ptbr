@@ -13,12 +13,12 @@ script 0 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Este UnderFórum..."
+	"Este Fórum da Under..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	É pra postar coisas
+	é pra postar coisas
 	perigosas que não dá
 	pra postar nos outros...
 	"""
@@ -82,7 +82,7 @@ script 2 mmbn6 {
 	"""
 	Vou te contar o meu
 	macete... Dá pra deletar
-	ele num gulpe só
+	ele num golpe só
 	"""
 	keyWait
 		any = false
@@ -166,7 +166,7 @@ script 4 mmbn6 {
 		top = 108
 	"""
 	Parece que alguma
-	coisa tomou o Aquário...
+	coisa rolou no Aquário...
 	"""
 	keyWait
 		any = false
@@ -276,7 +276,7 @@ script 6 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eer, não que eu
+	Err, não que eu
 	ligue pra isso...
 	"""
 	keyWait
@@ -362,7 +362,7 @@ script 8 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Se usar essa comida
+	Usando essa comida
 	na frente de uma
 	dessas marcas,
 	"""
@@ -370,8 +370,8 @@ script 8 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	dá pra pegar um atalho
-	em uma passagem.
+	dá pra criar um
+	atalho no caminho.
 	"""
 	keyWait
 		any = false
@@ -379,7 +379,7 @@ script 8 mmbn6 {
 	"""
 	Qual será que é a
 	ligação entre a
-	comida e o atalho...?
+	comida e os atalhos...?
 	"""
 	keyWait
 		any = false
@@ -420,7 +420,7 @@ script 9 mmbn6 {
 	clearMsg
 	"""
 	Dá pra comprar ele
-	em algum ponto do
+	em um certo ponto do
 	mundo cibernético.
 	"""
 	keyWait
@@ -504,9 +504,8 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Até a idiota da
-	NetPolícia foi
-	vencida rapidinho!
+	Até a idiota da NetPolícia
+	foi vencida rapidinho!
 	"""
 	keyWait
 		any = false
@@ -563,7 +562,7 @@ script 12 mmbn6 {
 	"""
 	O mundo será infestado
 	por espectros
-	desconnhecidos,
+	desconhecidos,
 	"""
 	keyWait
 		any = false
@@ -610,7 +609,7 @@ script 13 mmbn6 {
 	"""
 	Os vírus que ficaram
 	enlouquecidos parecem
-	estar voltando ao normal?
+	estar voltando ao normal.
 	"""
 	keyWait
 		any = false
@@ -635,9 +634,8 @@ script 13 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Só pode ter sido
-	alguém extremamente
-	forte...
+	Só pode ter sido alguém
+	extremamente forte...
 	"""
 	keyWait
 		any = false
@@ -827,7 +825,7 @@ script 17 mmbn6 {
 	clearMsg
 	"""
 	cabe a vocês
-	encontrar eles!
+	resolver o assunto!
 	"""
 	keyWait
 		any = false
@@ -908,7 +906,7 @@ script 19 mmbn6 {
 	clearMsg
 	"""
 	NÓS IREMOS NOS ERGUER
-	POR AQUELES QUE
+	POR AQUELAS QUE
 	VENERAMOS!!
 	"""
 	keyWait
@@ -1140,8 +1138,8 @@ script 24 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu instalei o programa
-	do Customizador...
+	Eu instalei um programa
+	no Customizador...
 	Se chama Escudo.
 	"""
 	keyWait

@@ -34,7 +34,7 @@ script 2 mmbn6 {
 	"""
 	Parece que tem algum tipo
 	de poder que tá causando
-	essa distorção.
+	ela.
 	"""
 	keyWait
 		any = false
@@ -103,7 +103,7 @@ script 7 mmbn6 {
 	"""
 	Eu nem faço ideia
 	de como fizeram para
-	chegar aqui, mas...
+	vir a este lugar, mas...
 	"""
 	keyWait
 		any = false
@@ -162,7 +162,7 @@ script 12 mmbn6 {
 	msgOpen
 	"""
 	Hora de drenar toda
-	a a vida dessa sua
+	a vida dessa sua
 	carcaça patética...
 	"""
 	keyWait

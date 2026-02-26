@@ -213,14 +213,14 @@ script 1 mmbn6 {
 	clearMsg
 	"""
 	Poxa, por que não falou
-	nada antes, MegaMan!?
+	nada antes, MegaMan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	O Chaud tá vindo lá
-	da Netopia pra esse
+	da Ameropa pra esse
 	simpósio hoje!
 	"""
 	keyWait
@@ -389,7 +389,7 @@ script 3 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	o futuro que o meu pai,
+	o futuro que meu pai,
 	meu avô e o Dr. Wily
 	imaginaram...
 	"""

@@ -36,7 +36,7 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	Você parece extremamente
-	nervosa...
+	nervoso...
 	"""
 	keyWait
 		any = false

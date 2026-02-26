@@ -39,7 +39,7 @@ script 2 mmbn6 {
 	clearMsg
 	"""
 	E, agora, tudo o que
-	eu quero é o Maverick.
+	eu quero é o rebelde.
 	"""
 	keyWait
 		any = false
@@ -51,7 +51,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Maverick...?"
+	"Rebelde...?"
 	keyWait
 		any = false
 	clearMsg
@@ -67,9 +67,8 @@ script 4 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	a única coisa que
-	eu não previ foi
-	a sua traição.
+	a única coisa que eu não
+	previ foi a sua traição.
 	"""
 	keyWait
 		any = false
@@ -269,7 +268,7 @@ script 9 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Foi então que eu
+	Foi então que
 	aprendi que aquele
 	homem não mais vivia.
 	"""
@@ -315,9 +314,9 @@ script 9 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu fiz todo o possível
-	para pagar minha dívida
-	com o pai do Baryl
+	Fiz todo o possível para
+	pagar minha dívida com o
+	pai do Baryl,
 	"""
 	keyWait
 		any = false
@@ -515,8 +514,7 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Iris! Eu vim
-	aqui de salvar!!
+	Iris! Eu vim te salvar!!
 	"""
 	keyWait
 		any = false
@@ -603,7 +601,7 @@ script 18 mmbn6 {
 	"""
 	além da habilidade de
 	controlar dispositivos
-	eletrônicos
+	eletrônicos...
 	"""
 	keyWait
 		any = false
@@ -813,7 +811,7 @@ script 27 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	".."
 	waitSkip
 		frames = 30
 	"\nAh!"
@@ -1009,8 +1007,7 @@ script 38 mmbn6 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Eu vou cuidar
-	da Cyberbesta...
+	Eu cuido da Cyberbesta...
 	"""
 	keyWait
 		any = false
@@ -1388,9 +1385,8 @@ script 60 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Iris, mostre a
-	ele o poder de
-	uma Cyberbesta!!
+	Iris, mostre a ele o 
+	poder de uma Cyberbesta!!
 	"""
 	keyWait
 		any = false
@@ -1468,9 +1464,9 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	"""
-	Lan, depressa... Não vou
-	conseguir segurar a
-	Cyberbesta muito mais...
+	Lan, depressa...
+	Não vou conseguir segurar
+	a fera muito mais...
 	"""
 	keyWait
 		any = false
@@ -1529,8 +1525,9 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	"""
-	Hmpf! Não queria que ele
-	machucasse os outros?!
+	Hmpf!
+	"Não queria que ele
+	machucasse os outros"?!
 	"""
 	keyWait
 		any = false
@@ -1538,7 +1535,7 @@ script 60 mmbn6 {
 	"""
 	Isso é cômico,
 	vindo de uma Navi
-	que controle armas!
+	que controla armas!
 	"""
 	keyWait
 		any = false
@@ -1546,14 +1543,14 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	"""
-	Eu vi as pessoas
+	Eu via as pessoas
 	de dentro das armas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Vi seus ferimentos,
+	Vi a dor delas,
 	vi como se machucavam...
 	"""
 	keyWait
@@ -1567,9 +1564,8 @@ script 60 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	mas, depois que
-	eu escapei do
-	seu laboratório,
+	mas, depois que escapei
+	do seu laboratório,
 	"""
 	keyWait
 		any = false
@@ -1605,7 +1601,7 @@ script 60 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu assisti a aulas
+	Assisti a aulas
 	com meus colegas...
 	"""
 	keyWait
@@ -1635,9 +1631,9 @@ script 60 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	... Eu concluí que eu
-	tinha que impedir o
-	meu irmão,
+	... Eu concluí que
+	tinha que impedir
+	o meu irmão,
 	"""
 	keyWait
 		any = false
@@ -1668,7 +1664,7 @@ script 60 mmbn6 {
 	clearMsg
 	"""
 	Arriscava a própria vida
-	para salvar aqueles ao
+	para salvar todos ao
 	seu redor...
 	"""
 	keyWait

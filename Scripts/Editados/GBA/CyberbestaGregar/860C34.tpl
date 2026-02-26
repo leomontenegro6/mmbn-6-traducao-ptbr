@@ -44,7 +44,7 @@ script 27 mmbn6 {
 	msgOpen
 	"""
 	A gente tem que consertar
-	o Seu Cleema,MegaMan!
+	o Seu Cleema, MegaMan!
 	"""
 	keyWait
 		any = false

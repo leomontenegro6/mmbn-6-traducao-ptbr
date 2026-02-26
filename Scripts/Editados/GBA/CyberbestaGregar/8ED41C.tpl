@@ -37,7 +37,7 @@ script 2 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Com a WWw causando
+	Com a WWW causando
 	todos esses incidentes
 	esses dias,
 	"""

@@ -56,7 +56,7 @@ script 4 mmbn6 {
 	msgOpen
 	"""
 	Quer explorar a área
-	por cima, MegaMan!?
+	por cima, MegaMan?!
 	
 	"""
 	positionOptionHorizontal

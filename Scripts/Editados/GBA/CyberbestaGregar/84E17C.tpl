@@ -228,7 +228,7 @@ script 4 mmbn6 {
 	clearMsg
 	"""
 	Se puder, estarei
-	esperando perto do
+	esperando no
 	CPUCtrlRobô...
 	"""
 	keyWait
@@ -517,7 +517,7 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	O meu condiável machado
+	O meu confiável machado
 	tem ficado cada vez
 	menos confiável...
 	"""
@@ -767,8 +767,8 @@ script 17 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Eu vendo palitos de peixe
-	no Distrito Beira-Mar,
+	Eu vendo taiyaki no
+	Distrito Beira-Mar,
 	mas o computador da
 	"""
 	keyWait
@@ -994,9 +994,8 @@ script 23 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Então eu pensei em
-	arranjar uns Chips
-	de Apoio!
+	Então pensei em descolar
+	uns Chips de Apoio!
 	"""
 	keyWait
 		any = false

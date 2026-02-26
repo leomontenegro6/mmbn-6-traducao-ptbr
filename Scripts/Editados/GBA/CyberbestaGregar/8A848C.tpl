@@ -140,7 +140,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Você tem é meio
+	Você é meio
 	mal-encarado, mas...
 	"""
 	keyWait
@@ -350,7 +350,7 @@ script 2 mmbn6 {
 	"""
 	Agora, tá bem claro
 	pra mim a coisa certa
-	a se fazer agora.
+	a se fazer.
 	"""
 	keyWait
 		any = false
@@ -537,7 +537,7 @@ script 4 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -663,8 +663,8 @@ script 20 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	A SUA PÁGINA E A
-	PÁGINA SKY HP!
+	A SUA PÁGINA
+	E A PÁGINA CÉU!
 	"""
 	keyWait
 		any = false

@@ -456,7 +456,7 @@ script 11 mmbn6 {
 	msgOpen
 	"""
 	Ô! As câmeras já
-	estão filmando!!
+	estão rodando!!
 	"""
 	keyWait
 		any = false
@@ -477,7 +477,7 @@ script 12 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	... Corte! Lindo de ver!
+	... Que cinema, amigos!
 	O filme vai ficar
 	magnífico!!
 	"""
@@ -537,7 +537,7 @@ script 12 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -627,7 +627,7 @@ script 15 mmbn6 {
 		animation = 1
 	mugshotShow
 		mugshot = MegaMan
-	"た... Hmm...ち"
+	"()... Hmm...)"
 	keyWait
 		any = false
 	clearMsg
@@ -897,7 +897,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	".... Uggghhhh"
+	".... Uggghhhh!"
 	keyWait
 		any = false
 	clearMsg
@@ -1127,7 +1127,7 @@ script 16 mmbn6 {
 	"."
 	wait
 		frames = 60
-	"."
+	". "
 	wait
 		frames = 60
 	"CORTA!!"

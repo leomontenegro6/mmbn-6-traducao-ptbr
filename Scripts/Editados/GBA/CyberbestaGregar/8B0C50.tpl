@@ -332,7 +332,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Você tá legal, MegaMan?!"
+	"Cê tá legal, MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -3507,7 +3507,7 @@ script 212 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Ah! Olha só aquilo!
+	Ah! Olha só isso!
 	"""
 	keyWait
 		any = false

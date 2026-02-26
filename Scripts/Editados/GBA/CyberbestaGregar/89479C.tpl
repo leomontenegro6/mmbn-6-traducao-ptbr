@@ -153,9 +153,8 @@ script 9 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	GRAÇAS A ESTES
-	TRENS, É FÁCIL
-	SE LOCOMOVER!!
+	GRAÇAS AOS TRENS, É
+	FÁCIL SE LOCOMOVER!!
 	"""
 	keyWait
 		any = false

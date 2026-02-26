@@ -62,7 +62,7 @@ script 2 mmbn6 {
 		minLength = 0
 		padZeros = false
 		padLeft = true
-	" vezたesち!!"
+	" vez(es)!!"
 	keyWait
 		any = false
 	clearMsg
@@ -116,7 +116,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Você tá legal, MegaMan?!"
+	"Cê tá legal, MegaMan?!"
 	keyWait
 		any = false
 	clearMsg

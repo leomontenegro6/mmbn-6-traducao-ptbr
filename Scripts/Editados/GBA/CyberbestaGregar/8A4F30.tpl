@@ -25,8 +25,7 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu tenho muita
-	coisa a dizer.
+	Tenho muita coisa a dizer.
 	Gostaria de ouvir?
 	"""
 	keyWait

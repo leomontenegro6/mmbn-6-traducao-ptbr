@@ -689,7 +689,7 @@ script 21 mmbn6 {
 		count = 1
 	"""
 	OK
-	たEてD: Cursor CてB: Númち
+	(EてD: Cursor CてB: Núm)
 	"""
 	menuSelectPassword
 		password = 0
@@ -1082,7 +1082,7 @@ script 32 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -1181,7 +1181,7 @@ script 35 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	que vão lançar vírus
+	que lançam vírus
 	em você quando você
 	tenta abri-las!
 	"""
@@ -1396,7 +1396,7 @@ script 37 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -2004,7 +2004,7 @@ script 110 mmbn6 {
 	clearMsg
 	"""
 	Eu não trabalhava
-	aqui 10 atrás...
+	aqui 10 anos atrás...
 	"""
 	keyWait
 		any = false

@@ -145,8 +145,7 @@ script 8 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	POR ENTRE AS PEÇAS
-	DE XADRES.
+	ALI PELA PEÇA DE SHOGI.
 	"""
 	keyWait
 		any = false
@@ -169,7 +168,7 @@ script 9 mmbn6 {
 	clearMsg
 	"""
 	O DEX MANDA MUITO
-	BEM NO XADREZ!
+	BEM NO SHOGI!
 	"""
 	keyWait
 		any = false

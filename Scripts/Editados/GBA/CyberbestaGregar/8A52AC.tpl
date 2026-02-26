@@ -20,7 +20,7 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YAHHH!
+	AAAUGHHH!
 	QUE TEMPESTADE FORTE!
 	"""
 	keyWait

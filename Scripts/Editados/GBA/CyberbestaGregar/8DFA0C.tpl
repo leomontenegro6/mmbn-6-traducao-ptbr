@@ -484,15 +484,15 @@ script 28 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	... Você tá bem?
+	... Você está bem?
 	Se machucou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tem uns Navis mó
-	cretinos por aqui...
+	Tem uns Navis bem
+	baderneiros por aqui...
 	É bom tomar cuidado.
 	"""
 	keyWait
@@ -525,8 +525,8 @@ script 30 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	E este Navi aqui
-	é o ChargeMan.
+	E este Navi é
+	o ChargeMan.
 	"""
 	keyWait
 		any = false
@@ -557,24 +557,24 @@ script 32 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	... Você tá aqui atrás
-	da Pedra da Lua também,
-	né?
+	... Você também está
+	aqui atrás da Pedra
+	da Lua, não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Desculpa, mas eu
-	não posso te ajudar.
+	Desculpe, mas não
+	posso lhe ajudar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sem ofensa, mas vou
-	fazer o que for preciso
-	pra vencer.
+	Sem ofensa, mas farei
+	o que for preciso para
+	vencer.
 	"""
 	keyWait
 		any = false

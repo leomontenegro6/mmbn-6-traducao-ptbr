@@ -118,8 +118,8 @@ script 6 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	na base do pódio
-	desse CópiRoide.
+	na base desse pódio,
+	para o CópiRoide.
 	"""
 	keyWait
 		any = false

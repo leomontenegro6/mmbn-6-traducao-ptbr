@@ -50,13 +50,13 @@ script 3 mmbn6 {
 	"""
 	Como você é irritante.
 	Eu pretendia ficar com
-	o difarce até o fim
+	o disfarce até o fim
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	e, no fim, botar a culpa
+	e, depois, botar a culpa
 	toda naquele tiozinho lá.
 	"""
 	keyWait
@@ -86,7 +86,7 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Finalmente vai
+	Finalmente resolveu
 	mostrar quem é?
 	"""
 	keyWait
@@ -115,7 +115,7 @@ script 5 mmbn6 {
 	clearMsg
 	"""
 	Nós precisamos de
-	muita energia para
+	muita energia pra
 	realizar o nosso plano.
 	"""
 	keyWait
@@ -146,7 +146,7 @@ script 5 mmbn6 {
 	clearMsg
 	"""
 	que o Distrito Céu
-	precisa para se mover!
+	precisa pra se mover!
 	"""
 	keyWait
 		any = false
@@ -213,22 +213,22 @@ script 8 mmbn6 {
 	"""
 	KIPIRIRI
 	PIRIKIRAPIRA...
-	たEstou tentando, mas...ち
+	(Estou tentando, mas...)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	PIPIKIRIIRA KIRAPIRA
-	たa segurança é bem
-	rígida!!ち
+	(a segurança é bem
+	rígida!!)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	PIRIRAAAAAAA!!
-	たDroooogaaaa!!ち
+	(Droooogaaaa!!)
 	"""
 	keyWait
 		any = false

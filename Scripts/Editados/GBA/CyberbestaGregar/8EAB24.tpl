@@ -68,7 +68,7 @@ script 2 mmbn6 {
 	"""
 	... Bom, por favor,
 	utilize a máquina de
-	bebidas...
+	bebidas aqui atrás...
 	"""
 	keyWait
 		any = false

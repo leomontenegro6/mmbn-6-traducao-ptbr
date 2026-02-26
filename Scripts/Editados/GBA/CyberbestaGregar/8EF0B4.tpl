@@ -76,7 +76,7 @@ script 3 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"É um choque pra mim."
+	"Tô chocado."
 	keyWait
 		any = false
 	clearMsg
@@ -178,7 +178,7 @@ script 10 mmbn6 {
 	clearMsg
 	"""
 	por poderem ver o fim
-	do mundo deste pavilhão!
+	do mundo daqui!
 	"""
 	keyWait
 		any = false
@@ -259,7 +259,7 @@ script 15 mmbn6 {
 	clearMsg
 	"""
 	E-então, a pessoa que
-	aquele e-mail foi...
+	mandou aquele e-mail foi...
 	"""
 	keyWait
 		any = false
@@ -727,7 +727,7 @@ script 47 mmbn6 {
 	msgOpen
 	"""
 	Lan, temos que bater
-	em retirada agora!
+	em retirada, agora!
 	"""
 	keyWait
 		any = false

@@ -36,7 +36,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Tá escrito::"
+	"Tá escrito:"
 	keyWait
 		any = false
 	clearMsg

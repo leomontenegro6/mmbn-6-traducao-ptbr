@@ -1171,8 +1171,7 @@ script 72 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Parece que um Navi
-	em um CópiRoide
+	Um Navi em um CópiRoide
 	ficou violento...
 	"""
 	keyWait
@@ -1235,8 +1234,8 @@ script 75 mmbn6 {
 	clearMsg
 	"""
 	Com esse tipo de coisa
-	acontecendo, será que
-	mesmo fazer a Exposição?
+	acontecendo, será que vai
+	mesmo ter a Exposição?
 	"""
 	keyWait
 		any = false

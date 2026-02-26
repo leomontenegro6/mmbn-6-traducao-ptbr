@@ -278,7 +278,7 @@ script 13 mmbn6 {
 	"BIP"
 	soundPlay
 		track = 205
-	"!!*"
+	"!!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -309,7 +309,7 @@ script 13 mmbn6 {
 	"BIP"
 	soundPlay
 		track = 205
-	"!!*"
+	"!!"
 	wait
 		frames = 40
 	soundEnableTextSFX

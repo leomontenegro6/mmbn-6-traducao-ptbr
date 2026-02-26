@@ -198,7 +198,7 @@ script 9 mmbn6s {
 	end
 }
 script 10 mmbn6s {
-	"UnderFórum  "
+	"Fórum Under "
 	end
 }
 script 11 mmbn6 {

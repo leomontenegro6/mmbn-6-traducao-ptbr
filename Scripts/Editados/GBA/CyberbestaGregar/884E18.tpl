@@ -1095,8 +1095,8 @@ script 10 mmbn6 {
 	clearMsg
 	"""
 	Usei o Computador do
-	Cano e, depois, o meu
-	Navi e os amigos dele
+	Encanamento e, depois,
+	meu Navi e os amigos dele
 	"""
 	keyWait
 		any = false
@@ -1128,8 +1128,8 @@ script 11 mmbn6 {
 	clearMsg
 	"""
 	Usei o Computador do
-	Cano e, depois, o meu
-	Navi e os amigos dele
+	Encanamento e, depois,
+	meu Navi e os amigos dele
 	"""
 	keyWait
 		any = false
@@ -1167,7 +1167,7 @@ script 12 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	E já pegaram o sujeito
+	E já prendemos o sujeito
 	por trás da coisa toda.
 	"""
 	keyWait
@@ -1260,7 +1260,7 @@ script 12 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd

@@ -49,7 +49,7 @@ script 2 mmbn6 {
 	"."
 	wait
 		frames = 30
-	" Ah, é você"
+	" Ah, é você."
 	keyWait
 		any = false
 	clearMsg
@@ -108,7 +108,7 @@ script 2 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	... Eu fui claro?
+	... Fui claro?
 	"""
 	keyWait
 		any = false

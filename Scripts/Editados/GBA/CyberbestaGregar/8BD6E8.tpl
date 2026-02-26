@@ -231,7 +231,7 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	mugshotAnimation
 		animation = 1
-	"たErrei, não foi...?ち"
+	"(Errei, não foi...?)"
 	keyWait
 		any = false
 	clearMsg

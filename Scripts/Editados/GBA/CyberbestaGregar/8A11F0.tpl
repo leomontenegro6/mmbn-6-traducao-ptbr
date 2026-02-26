@@ -555,7 +555,7 @@ script 53 mmbn6 {
 	msgOpen
 	"""
 	Então cê quer comprar
-	ações da Toyosan, a
+	ações da SpaceY, a
 	das peças espaciais?
 	"""
 	keyWait
@@ -679,7 +679,7 @@ script 55 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Bom, obrigada por
+	Bom, valeu por
 	me trazer isto!
 	"""
 	keyWait

@@ -40,8 +40,8 @@ script 1 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	O Lan voltou pro
-	Bairro ACDC, né?
+	Oi, Lan. De volta
+	ao Bairro ACDC?
 	"""
 	keyWait
 		any = false

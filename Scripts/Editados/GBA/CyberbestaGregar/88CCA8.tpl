@@ -173,7 +173,7 @@ script 41 mmbn6 {
 	msgOpen
 	"""
 	O Seu Cleema acabou
-	se quebrando...
+	sendo quebrado...
 	"""
 	keyWait
 		any = false

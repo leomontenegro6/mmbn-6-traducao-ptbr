@@ -4,7 +4,7 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	Há uma nuvem quente
+	Há uma enorme nuvem
 	barrando o caminho!!
 	"""
 	keyWait

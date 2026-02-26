@@ -309,7 +309,7 @@ script 20 mmbn6 {
 	"""
 	Tem o CópiRoide
 	daquele homem na
-	Sala do Operador.
+	Sala de Operação.
 	"""
 	keyWait
 		any = false

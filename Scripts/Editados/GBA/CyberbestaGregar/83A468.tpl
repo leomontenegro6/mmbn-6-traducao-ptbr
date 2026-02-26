@@ -54,7 +54,7 @@ script 2 mmbn6 {
 	msgOpen
 	"""
 	Parece que não dá
-	pra fazer conexão do
+	pra fazer conexão no
 	CópiRoide, por ora!
 	"""
 	keyWait

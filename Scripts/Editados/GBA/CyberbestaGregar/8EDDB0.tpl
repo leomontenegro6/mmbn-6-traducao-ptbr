@@ -166,9 +166,9 @@ script 8 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	E, se encontrar o
-	Chaud por aí, eu
-	convido ele também!
+	E, se encontrarmos
+	o Chaud por aí,
+	convidamos ele também!
 	"""
 	keyWait
 		any = false

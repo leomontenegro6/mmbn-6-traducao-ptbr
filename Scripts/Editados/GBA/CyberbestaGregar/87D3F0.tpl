@@ -118,7 +118,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Tá! Obrigada,
+	Tá! Obrigado,
 	Professora Shuko!
 	"""
 	keyWait
@@ -338,7 +338,7 @@ script 54 mmbn6 {
 	msgOpen
 	"""
 	Vamos acender uns
-	fogos de artifício,l
+	fogos de artifício,
 	HeatMan!!
 	"""
 	keyWait
@@ -358,7 +358,7 @@ script 54 mmbn6 {
 	"""
 	Você vai ver por que
 	me chamam de "risco
-	de incêncio"!
+	de incêndio"!
 	"""
 	keyWait
 		any = false

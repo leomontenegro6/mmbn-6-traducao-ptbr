@@ -38,7 +38,7 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Ufa, nunca ia achar
+	... Ufa! Nunca ia achar
 	que a gente ia esbarrar
 	com o Bass aqui...
 	"""

@@ -346,7 +346,7 @@ script 21 mmbn6 {
 	clearMsg
 	"""
 	... De repente,
-	trombas d'águas
+	trombas d'água
 	surgem do monumento!!
 	"""
 	keyWait

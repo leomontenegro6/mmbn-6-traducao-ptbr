@@ -480,7 +480,7 @@ script 24 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Eu sempre foi o mais
+	Eu sempre fui o mais
 	forte de todos nós!
 	"""
 	keyWait
@@ -527,7 +527,7 @@ script 27 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Diz isso pra esses dois.
+	Diz isso pra estes dois.
 	"""
 	keyWait
 		any = false
@@ -717,15 +717,15 @@ script 33 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	"""
-	... Sim, e, enquanto
-	que lecionava na
-	Escola Saibher,
+	... Sim. E, enquanto
+	eu lecionava na Escola
+	Saibher,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	eu espionei o Cain e
+	espionei o Cain e
 	relatei tudo ao Dr. Wily.
 	"""
 	keyWait
@@ -773,7 +773,7 @@ script 33 mmbn6 {
 	"""
 	Aconteceu porque eu
 	estava tentando hackear
-	o computador do Cain.
+	o computador do homem.
 	"""
 	keyWait
 		any = false

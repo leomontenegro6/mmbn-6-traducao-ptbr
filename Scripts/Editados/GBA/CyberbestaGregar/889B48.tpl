@@ -369,7 +369,7 @@ script 12 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" C e A\n"
+	" E e C\n"
 	positionOptionHorizontal
 		width = 4
 	option
@@ -1444,7 +1444,7 @@ script 14 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Isso é possível
+	Isto é possível
 	graças ao uso da
 	tecnologia CópiRoide!
 	"""

@@ -154,7 +154,7 @@ script 8 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu sou Yai Ayanokoji.
+	Eu sou Yai Ayano.
 	Muito prazer.
 	"""
 	keyWait
@@ -186,9 +186,9 @@ script 10 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	Ah! Ayanokoji...
+	Ah! Ayano...
 	Quer dizer, AQUELES
-	Ayanokoji? Os ricaços?!
+	Ayano? Os ricaços?!
 	"""
 	keyWait
 		any = false
@@ -385,7 +385,7 @@ script 21 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu sou o NetLutador mais
+	Sou o NetLutador mais
 	forte do Bairro ACDC!
 	"""
 	keyWait
@@ -407,7 +407,7 @@ script 22 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu sou Yai Ayanokoji,
+	Eu sou Yai Ayano,
 	mas pode me chamar
 	só de "Yai".
 	"""

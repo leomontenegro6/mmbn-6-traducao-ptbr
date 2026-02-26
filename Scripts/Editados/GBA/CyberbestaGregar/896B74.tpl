@@ -390,7 +390,7 @@ script 60 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"たIIIIIIHHH!!ち"
+	"(IIIIIIHHH!!)"
 	keyWait
 		any = false
 	end

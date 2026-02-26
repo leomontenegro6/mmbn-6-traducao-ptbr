@@ -314,7 +314,7 @@ script 12 mmbn6 {
 		count = 9
 	"""
 	OK
-	たEてD:Cursor CてB:Númち
+	(EてD:Cursor CてB:Núm)
 	"""
 	flagSet
 		flag = 5925
@@ -767,8 +767,8 @@ script 34 mmbn6 {
 	msgOpenQuick
 	"""
 	Insira um ChipNavi.
-	たAperte "B" para
-	cancelarち
+	(Aperte "B" para
+	cancelar)
 	"""
 	waitHold
 }

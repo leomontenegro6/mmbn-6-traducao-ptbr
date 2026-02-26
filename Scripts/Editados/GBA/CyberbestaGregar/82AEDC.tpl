@@ -933,15 +933,15 @@ script 235 mmbn6s {
 	end
 }
 script 236 mmbn6s {
-	"EraseMan"
+	"KilerMan"
 	end
 }
 script 237 mmbn6s {
-	"EraseMn[EX]"
+	"KilerMn[EX]"
 	end
 }
 script 238 mmbn6s {
-	"EraseMn[SP]"
+	"KilerMn[SP]"
 	end
 }
 script 239 mmbn6s {

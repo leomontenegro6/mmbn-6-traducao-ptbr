@@ -348,7 +348,7 @@ script 102 mmbn6 {
 	"""
 	Mas parece que essa
 	pessoa tá ocupada agora
-	com uma punição...
+	cumprindo pena...
 	"""
 	keyWait
 		any = false

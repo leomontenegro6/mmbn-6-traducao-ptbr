@@ -88,7 +88,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah ,saquei..."
+	"Ah, saquei..."
 	keyWait
 		any = false
 	clearMsg
@@ -212,7 +212,7 @@ script 9 mmbn6 {
 	"""
 	e a Área Céu voltou
 	à sua iluminação
-	virante de sempre...
+	vibrante de sempre...
 	"""
 	keyWait
 		any = false

@@ -47,7 +47,7 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hum, porque parece que
+	Hum, por que parece que
 	só tem a gente aqui...?
 	"""
 	keyWait

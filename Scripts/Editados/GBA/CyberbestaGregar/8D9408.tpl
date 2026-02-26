@@ -137,8 +137,8 @@ script 6 mmbn6 {
 	msgOpen
 	"""
 	É, esse dia vem, sim...
-	たMas não vai ser graças
-	ao Colonel, não!ち
+	(Mas não vai ser graças
+	ao Colonel, não!)
 	"""
 	keyWait
 		any = false

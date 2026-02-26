@@ -89,8 +89,7 @@ script 10 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Quando tiver um
-	vírus,
+	Quando tiver um vírus,
 	"""
 	keyWait
 		any = false

@@ -800,7 +800,7 @@ script 31 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	e eu quero que você
+	e quero que você
 	complete as partes
 	que eu não terminei.
 	"""
@@ -1110,7 +1110,7 @@ script 31 mmbn6 {
 		delay = 5
 	wait
 		frames = 30
-	"Depois que te encontrei"
+	"Depois que te conheci"
 	wait
 		frames = 30
 	"\nEu encontrei aquilo"
@@ -1404,7 +1404,7 @@ script 31 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -1974,7 +1974,7 @@ script 52 mmbn6 {
 	clearMsg
 	"""
 	Então a sua parcela
-	do dinherio é 1000Z.
+	do dinheiro é 1000Z.
 	"""
 	keyWait
 		any = false
@@ -2028,7 +2028,7 @@ script 52 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -2112,7 +2112,7 @@ script 53 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -2200,7 +2200,7 @@ script 54 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -2350,7 +2350,7 @@ script 61 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Agora a menina e o pai
+	Agora a garota e o pai
 	dela vão ficar a salvo!
 	"""
 	keyWait

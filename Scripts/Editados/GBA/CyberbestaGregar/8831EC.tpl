@@ -524,7 +524,7 @@ script 30 mmbn6 {
 	msgOpen
 	"""
 	Você deve estar aqui
-	pra minha aula, né?
+	para a minha aula, né?
 	"""
 	keyWait
 		any = false
@@ -732,7 +732,7 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	A gente tambén não
+	A gente também não
 	vai ficar pra trás!!
 	"""
 	keyWait
@@ -1501,7 +1501,7 @@ script 65 mmbn6 {
 		mugshot = DustMan
 	"""
 	HA HA HA HAH!!
-	O meu Quebra-Pó é um
+	O meu Quebra-Lixo é um
 	nível elevado de dor!
 	"""
 	keyWait
@@ -2047,7 +2047,7 @@ script 84 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd

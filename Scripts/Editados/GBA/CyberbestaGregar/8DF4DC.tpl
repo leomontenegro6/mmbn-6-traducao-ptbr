@@ -45,8 +45,7 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Até que enfim
-	vai começar!
+	Até que enfim!
 	"""
 	keyWait
 		any = false

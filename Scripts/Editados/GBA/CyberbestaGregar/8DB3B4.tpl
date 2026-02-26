@@ -162,7 +162,7 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Agh! Agora é o vento!
+	Agh! Agora é vento!
 	"""
 	keyWait
 		any = false

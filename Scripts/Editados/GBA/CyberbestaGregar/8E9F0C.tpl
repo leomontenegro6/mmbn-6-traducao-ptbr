@@ -56,7 +56,7 @@ script 2 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Nas Undernets 1 e 2
+	Nas Undernets 1 e 2,
 	estão os Navis de uma
 	certa gangue.
 	"""
@@ -64,8 +64,8 @@ script 2 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Nossos alvos são os
-	membros da gangue.
+	E os nossos alvos
+	são os membros dela.
 	Todos eles.
 	"""
 	keyWait

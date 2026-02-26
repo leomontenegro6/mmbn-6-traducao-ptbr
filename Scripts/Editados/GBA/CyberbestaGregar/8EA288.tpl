@@ -50,7 +50,7 @@ script 1 mmbn6 {
 	clearMsg
 	"""
 	Vamos fazer uma prova
-	prova final. Bem pequena,
+	final. Bem pequena,
 	bem indolor.
 	"""
 	keyWait

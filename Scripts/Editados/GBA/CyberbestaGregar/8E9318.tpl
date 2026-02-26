@@ -107,7 +107,7 @@ script 7 mmbn6 {
 	msgOpen
 	"""
 	... O que você
-	quer que eu digo?
+	quer que eu diga?
 	"""
 	keyWait
 		any = false
@@ -211,9 +211,8 @@ script 10 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu queria perguntar
-	se vocês entraram
-	mesmo pra WWW
+	Eu perguntei se vocês
+	entraram mesmo pra WWW
 	"""
 	keyWait
 		any = false
@@ -227,7 +226,7 @@ script 10 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Foi isso que eu
+	Foi isso o que eu
 	perguntei! Mas o que
 	você me respondeu foi
 	"""
@@ -266,7 +265,7 @@ script 11 mmbn6 {
 		mugshot = Baryl
 	textSpeed
 		delay = 3
-	"\"Minhas vontade\", é...?"
+	"\"Minha vontade\", é...?"
 	keyWait
 		any = false
 	clearMsg
@@ -372,7 +371,7 @@ script 13 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Levante-se, Colonel..."
+	"Recue, Colonel..."
 	keyWait
 		any = false
 	clearMsg
@@ -459,7 +458,7 @@ script 18 mmbn6 {
 	clearMsg
 	"""
 	Mesmo quando tudo parecia
-	pedido, a minha vontade
+	perdido, a minha vontade
 	me fez continuar...
 	"""
 	keyWait

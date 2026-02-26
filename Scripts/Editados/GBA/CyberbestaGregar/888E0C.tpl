@@ -16,8 +16,8 @@ script 0 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Esta Árvore Juíza irá
-	julgar o Prefeito.
+	Esta Árvore Juíza
+	julgou o Prefeito.
 	"""
 	keyWait
 		any = false

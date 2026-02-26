@@ -187,7 +187,7 @@ script 8 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	Tem tantos Navis!!
+	Eram tantos Navis!!
 	Que irado!!
 	"""
 	keyWait
@@ -199,7 +199,7 @@ script 10 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Será que é melhor
+	Será que não é melhor
 	limparmos o bairro
 	antes da abertura da
 	"""

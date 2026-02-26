@@ -696,7 +696,7 @@ script 16 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -715,7 +715,7 @@ script 17 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Pegue os 1000Z que
+	Pegue os 10000Z que
 	eu te dei e compre
 	"""
 	keyWait
@@ -953,7 +953,7 @@ script 26 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -1428,7 +1428,7 @@ script 36 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd

@@ -131,9 +131,9 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Beleza, Lan!
-	Hora de deletar
-	uns vírus!
+	Boa, Lan!
+	Mas tem mais vírus
+	pra deletar!
 	"""
 	keyWait
 		any = false
@@ -144,8 +144,8 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	QUE TAL LANCHAR UNS
-	PALITOS DE PEIXE?!
+	QUE TAL LANCHAR
+	UNS TAIYAKI?!
 	"""
 	keyWait
 		any = false
@@ -169,8 +169,8 @@ script 6 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	CYBER-PALITOS DE
-	PEIXE!! INTERESSADO?!
+	CYBER-TAIYAKI!!
+	INTERESSADO?!
 	"""
 	keyWait
 		any = false
@@ -230,7 +230,7 @@ script 7 mmbn6 {
 	printCurrentNavi
 	"""
 	 comeu
-	cyber-palitos de peixe.
+	cyber-taiyaki.
 	"""
 	keyWait
 		any = false

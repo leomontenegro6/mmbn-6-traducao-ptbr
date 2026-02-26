@@ -18,8 +18,8 @@ script 10 mmbn6 {
 	clearMsg
 	"""
 	mas o moleque tá preso
-	no castigo com o
-	professor dele...
+	no castigo com a
+	professora dele...
 	"""
 	keyWait
 		any = false
@@ -63,8 +63,8 @@ script 15 mmbn6 {
 	clearMsg
 	"""
 	Vou ter que esperar
-	a minha mãe vir me
-	buscar...
+	a minha mãe vir
+	buscar a gente...
 	"""
 	keyWait
 		any = false

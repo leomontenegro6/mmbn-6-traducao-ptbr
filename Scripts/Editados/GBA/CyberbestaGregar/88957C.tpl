@@ -77,7 +77,7 @@ script 20 mmbn6 {
 	"""
 	trabalhando de
 	meio-período à
-	beira do mar agora.
+	beira do mar.
 	"""
 	keyWait
 		any = false
@@ -127,7 +127,7 @@ script 21 mmbn6 {
 	"""
 	trabalhando de
 	meio-período à
-	beira do mar agora.
+	beira do mar.
 	"""
 	keyWait
 		any = false

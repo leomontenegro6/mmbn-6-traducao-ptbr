@@ -115,35 +115,35 @@ script 17 mmbn6s {
 	end
 }
 script 18 mmbn6s {
-	"MegFld+"
+	"MegPst+"
 	printModBuffer
 		length = 0
 		buffer = 1
 	end
 }
 script 19 mmbn6s {
-	"MegFld_"
+	"MegPst_"
 	printModBuffer
 		length = 0
 		buffer = 1
 	end
 }
 script 20 mmbn6s {
-	"GigFld+"
+	"GigPst+"
 	printModBuffer
 		length = 0
 		buffer = 1
 	end
 }
 script 21 mmbn6s {
-	"GigFld_"
+	"GigPst_"
 	printModBuffer
 		length = 0
 		buffer = 1
 	end
 }
 script 22 mmbn6s {
-	"SprArmr"
+	"SprArmd"
 	end
 }
 script 23 mmbn6s {
@@ -151,15 +151,15 @@ script 23 mmbn6s {
 	end
 }
 script 24 mmbn6s {
-	"FlotShoe"
+	"SptFlutu"
 	end
 }
 script 25 mmbn6s {
-	"AirShoe"
+	"BotasAr"
 	end
 }
 script 26 mmbn6s {
-	"Undersht"
+	"PorUm"
 	end
 }
 script 27 mmbn6s {

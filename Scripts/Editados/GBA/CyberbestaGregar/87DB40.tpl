@@ -863,7 +863,7 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = DarkScyth
 	msgOpen
-	"O quê?1"
+	"O quê?"
 	keyWait
 		any = false
 	clearMsg

@@ -57,8 +57,7 @@ script 2 mmbn6 {
 	clearMsg
 	"""
 	impregnando o ar ao
-	redor da Loja de
-	Palitos de Peixe.
+	redor da Loja de Taiyaki.
 	"""
 	keyWait
 		any = false
@@ -66,7 +65,7 @@ script 2 mmbn6 {
 	"""
 	Parece que dá para se
 	conectar à fritadeira
-	de palitos de peixe.
+	de taiyaki.
 	"""
 	keyWait
 		any = false
@@ -133,8 +132,7 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	É a loja de palitos
-	de peixe.
+	É a loja de taiyaki.
 	"""
 	keyWait
 		any = false
@@ -169,8 +167,7 @@ script 8 mmbn6 {
 	clearMsg
 	"""
 	impregnando o ar ao
-	redor da Loja de
-	Palitos de Peixe.
+	redor da Loja de Taiyaki.
 	"""
 	keyWait
 		any = false
@@ -178,7 +175,7 @@ script 8 mmbn6 {
 	"""
 	Parece que dá para se
 	conectar à fritadeira
-	de palitos de peixe.
+	de taiyaki.
 	"""
 	keyWait
 		any = false

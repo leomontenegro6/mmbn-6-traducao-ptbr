@@ -154,11 +154,11 @@ script 37 mmbn6s {
 	end
 }
 script 38 mmbn6s {
-	"Prefeita prsa  ReiHide "
+	"Prefeito prso  ReiHide "
 	end
 }
 script 39 mmbn6s {
-	"RE:Prefeita p  Mika    "
+	"RE:Prefeito p  Mika    "
 	end
 }
 script 40 mmbn6s {

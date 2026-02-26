@@ -20,7 +20,7 @@ script 1 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Pegamos sim, né, Mick?!
+	Pegamos, sim! Né, Mick?!
 	"""
 	keyWait
 		any = false

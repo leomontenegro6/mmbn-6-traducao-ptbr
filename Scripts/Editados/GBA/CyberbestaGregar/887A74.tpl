@@ -67,7 +67,7 @@ script 5 mmbn6 {
 	clearMsg
 	"""
 	fazer nada a respeito
-	do que aconteceu na
+	do que acontece na
 	Undernet.
 	"""
 	keyWait

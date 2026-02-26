@@ -20,8 +20,8 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Você veio resolver
-	o meu pedido, né?!
+	Veio atender o
+	meu pedido, né?!
 	"""
 	keyWait
 		any = false
@@ -290,7 +290,7 @@ script 6 mmbn6 {
 		count = 1
 	"""
 	OK
-	たDてE:Cursor CてDB:Númち
+	(DてE:Cursor CてDB:Núm)
 	"""
 	menuSelectPassword
 		password = 1
@@ -384,7 +384,7 @@ script 7 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -527,7 +527,7 @@ script 15 mmbn6 {
 	clearMsg
 	"""
 	O PROG DA LOJA DE
-	PALITOS DE PEIXE...
+	TAIYAKI...
 	"""
 	keyWait
 		any = false
@@ -543,7 +543,7 @@ script 15 mmbn6 {
 	"""
 	TODO MUNDO SABE QUE
 	PIPOCA É MUITO MELHOR
-	QUE PALITO DE PEIXE!
+	QUE TAIYAKI!
 	"""
 	keyWait
 		any = false

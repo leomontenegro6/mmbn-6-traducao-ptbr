@@ -46,8 +46,8 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O ataque...
-	Não funcionou...
+	Os meus ataques...
+	Não atingem ele...
 	"""
 	keyWait
 		any = false
@@ -61,8 +61,8 @@ script 12 mmbn6 {
 	msgOpen
 	"""
 	Você jamais conseguirá
-	me ferir com ataques
-	tão pífios!
+	me ferir com golpes tão
+	pífios!
 	"""
 	keyWait
 		any = false
@@ -80,7 +80,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Iáááááááá!!"
+	"Aaaaaahhhh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -249,7 +249,7 @@ script 32 mmbn6 {
 script 40 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Lutar com essa lei?\n"
+	"Lutar assim?\n"
 	positionOptionHorizontal
 		width = 8
 	option

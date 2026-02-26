@@ -272,8 +272,8 @@ script 16 mmbn6 {
 	msgOpen
 	"""
 	Sussurro, sussurro...
-	たRelaxa, eu não tô
-	 aprontando nada!ち
+	(Relaxa, eu não tô
+	 aprontando nada!)
 	"""
 	keyWait
 		any = false

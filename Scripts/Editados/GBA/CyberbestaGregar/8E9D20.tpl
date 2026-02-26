@@ -59,7 +59,7 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Então você é que nem
+	Você é que nem
 	o Dark Miyagi...?
 	"""
 	keyWait
@@ -116,7 +116,7 @@ script 3 mmbn6 {
 	msgOpen
 	"""
 	T-tá bom...
-	た"Matar uma criança"?!ち
+	("Matar uma criança"?!)
 	"""
 	keyWait
 		any = false

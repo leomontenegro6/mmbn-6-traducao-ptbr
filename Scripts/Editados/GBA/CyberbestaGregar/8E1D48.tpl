@@ -80,7 +80,7 @@ script 5 mmbn6 {
 	"""
 	E nem venha xoramingar
 	pra gente que isso é
-	"injusto"
+	"injusto".
 	"""
 	keyWait
 		any = false
@@ -182,7 +182,7 @@ script 10 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	... O quê?!
+	... Que é?!
 	Não vai responder?
 	Seu esquisito...
 	"""

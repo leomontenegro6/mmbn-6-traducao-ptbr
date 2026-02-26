@@ -34,7 +34,7 @@ script 7 mmbn6s {
 	end
 }
 script 8 mmbn6s {
-	"Filha preocupd."
+	"Preocupç. filha"
 	end
 }
 script 9 mmbn6s {

@@ -636,7 +636,7 @@ script 22 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Os Hikari têm
+	"Os Hikari têm
 	Uma varanda, só que
 	Uma sem porta
 	"""
@@ -646,7 +646,7 @@ script 22 mmbn6 {
 	"""
 	E é por isso que
 	O jeito lá é sair
-	Pela janela
+	Pela janela"
 	"""
 	keyWait
 		any = false
@@ -697,7 +697,7 @@ script 23 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Não precisa\nficar chateado!"
+	"Ah, isso faz tempo!\nSupera, cara!"
 	keyWait
 		any = false
 	end
@@ -714,7 +714,7 @@ script 24 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	É tão estranho
+	"É tão estranho
 	Correr pelos céus assim
 	"""
 	keyWait
@@ -920,7 +920,7 @@ script 32 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Branco, amarelo\"...\nAck!"
+	"Branco e amarelo\"...\nAck!"
 	keyWait
 		any = false
 	clearMsg
@@ -938,8 +938,8 @@ script 32 mmbn6 {
 		mugshot = MegaMan
 	"""
 	É-é, né...?
-	たQue bom que ele não
-	notou o meu deslize!ち
+	(Que bom que ele não
+	notou o meu deslize!)
 	"""
 	keyWait
 		any = false
@@ -957,7 +957,7 @@ script 33 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	A câmera vê
+	"A câmera vê
 	Alunos dorminhocos
 	"""
 	keyWait
@@ -1213,7 +1213,7 @@ script 42 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Rendeu m poema!"
+	"Rendeu um poema!"
 	keyWait
 		any = false
 	clearMsg
@@ -1243,8 +1243,9 @@ script 42 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Mas não tem nada a ver
-	com a brisa salgada!
+	Mas isso não tem nada a
+	ver com a brisa salgada,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -1441,7 +1442,7 @@ script 50 mmbn6 {
 	clearMsg
 	"""
 	Mas é engraçado que um
-	haikai inspirado por ar
+	haikai inspirado no ar
 	fresco das árvores
 	"""
 	keyWait
@@ -1459,14 +1460,14 @@ script 51 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Os Íons Negativos
+	Os íons negativos
 	inspiraram um poema!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah, voltei pra cá...
+	"Ah, voltei pra cá...
 	Na Área Verde, é tão
 	"""
 	keyWait
@@ -1595,7 +1596,7 @@ script 54 mmbn6 {
 	"BIP"
 	soundPlay
 		track = 205
-	"!!*"
+	"!!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -1635,7 +1636,7 @@ script 55 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	O "tratamento de choque'
+	O "tratamento de choque"
 	é sinistro mesmo!!
 	"""
 	keyWait
@@ -1676,7 +1677,7 @@ script 60 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	O ar daqui é
+	"O ar daqui é
 	Rarefeito até demais...
 	"""
 	keyWait
@@ -2006,7 +2007,7 @@ script 71 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"... Verdade, né?."
+	"... Verdade, né?"
 	keyWait
 		any = false
 	end

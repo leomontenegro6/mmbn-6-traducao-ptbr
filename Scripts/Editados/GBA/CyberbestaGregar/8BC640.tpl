@@ -90,7 +90,7 @@ script 5 mmbn6 {
 	clearMsg
 	"""
 	mas, na verdade,
-	é papel machê.
+	é só um totem.
 	"""
 	keyWait
 		any = false

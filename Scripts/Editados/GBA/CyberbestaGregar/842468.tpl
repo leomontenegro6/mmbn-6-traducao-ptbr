@@ -924,7 +924,7 @@ script 17 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Ataque adicional!
+	Ataque adicionais!
 	E se os PV do seu
 	oponente incluírem
 	"""
@@ -1003,9 +1003,8 @@ script 18 mmbn6 {
 		animation = 0
 	msgOpenEmail
 	"""
-	Vou explicar
-	como guiar esse
-	ChargeCruz!
+	Vou explicar como se
+	conduz o ChargeCruz!
 	"""
 	keyWait
 		any = false
@@ -1019,17 +1018,15 @@ script 18 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	na Tela de
-	Customização...
+	na Tela de Customização...
 	Em todos os turnos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	E, se carregar o
-	ataque com um chip
-	de Fogo,
+	E, se carregar o ataque
+	com um chip de Fogo,
 	"""
 	keyWait
 		any = false
@@ -1057,9 +1054,9 @@ script 18 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	ChargeCruz! Exploda
-	com potência! Use-o
-	à todo o vapor!!
+	ChargeCruz!
+	Exploda com potência!
+	Use-o a todo vapor!!
 	"""
 	keyWait
 		any = false
@@ -1608,7 +1605,7 @@ script 30 mmbn6 {
 	clearMsg
 	"""
 	NOME DO PEDIDO:
-	Estocar!
+	Reabastecer!
 	"""
 	keyWait
 		any = false
@@ -1634,8 +1631,7 @@ script 31 mmbn6 {
 	clearMsg
 	"""
 	NOME DO PEDIDO:
-	Recrutamento de
-	substituto
+	Recruta-se dublê
 	"""
 	keyWait
 		any = false
@@ -1688,7 +1684,7 @@ script 33 mmbn6 {
 	clearMsg
 	"""
 	NOME DO PEDIDO:
-	Detenha-o!
+	Impeça-o!
 	"""
 	keyWait
 		any = false
@@ -1793,7 +1789,7 @@ script 37 mmbn6 {
 	clearMsg
 	"""
 	NOME DO PEDIDO:
-	Tenho um problema
+	Tô com um problema
 	"""
 	keyWait
 		any = false
@@ -1845,7 +1841,7 @@ script 39 mmbn6 {
 	clearMsg
 	"""
 	NOME DO PEDIDO:
-	O que comprar?
+	Que ação comprar?
 	"""
 	keyWait
 		any = false
@@ -1871,15 +1867,14 @@ script 40 mmbn6 {
 	clearMsg
 	"""
 	NOME DO PEDIDO:
-	Não consigo abrir o
-	cofre
+	O cofre não abre!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	LOCAL DE ENCONTRO:
-	CPU da Loja de Pipoca
+	CPU da Pipocaria
 	do Aquário
 	"""
 	keyWait
@@ -1905,8 +1900,8 @@ script 41 mmbn6 {
 	clearMsg
 	"""
 	LOCAL DE ENCONTRO:
-	Loja de Palitos de Peixe
-	do Distrito Beira-Mar
+	Loja de Taiyaki do
+	Distrito Beira-Mar
 	"""
 	keyWait
 		any = false
@@ -2304,8 +2299,8 @@ script 56 mmbn6 {
 	clearMsg
 	"""
 	CPU Observação de
-	Sala do Operador
-	do Distrito Céu (REVISE ISTO)
+	Sala de Operação
+	do Distrito Céu
 	"""
 	keyWait
 		any = false
@@ -3031,17 +3026,16 @@ script 79 mmbn6 {
 script 80 mmbn6 {
 	msgOpenEmail
 	"""
-	No Laboratório de
-	Pesquisa 2 na Sala dos
-	Profs. da Escola Saibher,
+	No Laboratório de Pesquisa
+	2, na Sala dos Professores
+	da Escola Saibher,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	o Sr. Dark Kirisaki
-	abriu uma Escola de
-	NetLuta.
+	o Sr. Dark Kirisaki abriu
+	uma Escola de NetLuta.
 	"""
 	keyWait
 		any = false
@@ -3067,7 +3061,8 @@ script 81 mmbn6 {
 	clearMsg
 	"""
 	o Sr. Al Ferry abriu uma
-	Escola de Operadores.
+	Escola de Operadores com
+	seu Navi, o ChargeMan.
 	"""
 	keyWait
 		any = false
@@ -3136,9 +3131,9 @@ script 83 mmbn6 {
 script 84 mmbn6 {
 	msgOpenEmail
 	"""
-	No Laboratório de
-	Pesquisa 2, na Sala dos
-	Professores da Escola,
+	No Laboratório de Pesquisa
+	2, na Sala dos Professores
+	da Escola Saibher,
 	"""
 	keyWait
 		any = false
@@ -4006,9 +4001,8 @@ script 100 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Inclusive, hoje eu
-	vou pra pescar no rio
-	da cidade!
+	Inclusive, hoje eu vou
+	pescar no rio da cidade!
 	"""
 	keyWait
 		any = false

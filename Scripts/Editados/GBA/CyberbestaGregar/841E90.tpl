@@ -98,7 +98,7 @@ script 15 mmbn6 {
 	end
 }
 script 16 mmbn6 {
-	"Sr.Match"
+	"Sr. Mach"
 	keyWait
 		any = false
 	end
@@ -332,7 +332,7 @@ script 54 mmbn6 {
 	end
 }
 script 55 mmbn6 {
-	"Pra vencer"
+	"Até vencer"
 	keyWait
 		any = false
 	end
@@ -368,7 +368,7 @@ script 60 mmbn6 {
 	end
 }
 script 61 mmbn6 {
-	"Estocar!"
+	"Reabastcer"
 	keyWait
 		any = false
 	end
@@ -380,7 +380,7 @@ script 62 mmbn6 {
 	end
 }
 script 63 mmbn6 {
-	"RecrtSubsti"
+	"RecrtDublê"
 	keyWait
 		any = false
 	end
@@ -404,7 +404,7 @@ script 66 mmbn6 {
 	end
 }
 script 67 mmbn6 {
-	"Detenha-o!"
+	"Impeça-o!"
 	keyWait
 		any = false
 	end
@@ -416,7 +416,7 @@ script 68 mmbn6 {
 	end
 }
 script 69 mmbn6 {
-	"CobrnçEmpr"
+	"Empréstimo"
 	keyWait
 		any = false
 	end
@@ -452,7 +452,7 @@ script 74 mmbn6 {
 	end
 }
 script 75 mmbn6 {
-	"TenhoPrblm"
+	"TôComPrblm"
 	keyWait
 		any = false
 	end
@@ -476,7 +476,7 @@ script 78 mmbn6 {
 	end
 }
 script 79 mmbn6 {
-	"OQueCmprar?"
+	"QAçãoCpra?"
 	keyWait
 		any = false
 	end
@@ -488,7 +488,7 @@ script 80 mmbn6 {
 	end
 }
 script 81 mmbn6 {
-	"AbrirCofre"
+	"CofreNAbre"
 	keyWait
 		any = false
 	end
@@ -596,7 +596,7 @@ script 98 mmbn6 {
 	end
 }
 script 99 mmbn6 {
-	"JuvenileDiv"
+	"CrmsJuvenis"
 	keyWait
 		any = false
 	end
@@ -896,7 +896,7 @@ script 148 mmbn6 {
 	end
 }
 script 149 mmbn6 {
-	"Tééédio!"
+	"Saaaco!"
 	keyWait
 		any = false
 	end
@@ -968,7 +968,7 @@ script 160 mmbn6 {
 	end
 }
 script 161 mmbn6 {
-	"Aula Kirisaki"
+	"Aula Krsaki"
 	keyWait
 		any = false
 	end

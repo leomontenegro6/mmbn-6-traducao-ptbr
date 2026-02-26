@@ -210,7 +210,7 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Digo, aqueles Adoradores
+	Digo, aqueles Devotos
 	das Cyberbestas lá
 	"""
 	keyWait
@@ -525,7 +525,7 @@ script 29 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Não desiste, MegaMan
+	Não desiste, MegaMan!
 	Você pode controlar
 	a Cyberbesta!
 	"""
@@ -740,7 +740,8 @@ script 37 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Ô, bora logo achar ele!
+	Ô, bora logo
+	achar o infeliz!
 	"""
 	keyWait
 		any = false
@@ -806,7 +807,7 @@ script 41 mmbn6 {
 	msgOpen
 	"""
 	As coisas vão ficar
-	bem sob estas
+	bem sob essas
 	circunstâncias...?
 	"""
 	keyWait
@@ -815,8 +816,8 @@ script 41 mmbn6 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	Esta área não
-	é mais segura...
+	Não dá mais pra contar
+	com esta área...
 	"""
 	keyWait
 		any = false
@@ -830,7 +831,7 @@ script 41 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Com a segurança assim,
+	Com as coisas assim,
 	será que a Exposição
 	ainda vai acontecer...?
 	"""
@@ -935,7 +936,7 @@ script 46 mmbn6 {
 	clearMsg
 	"""
 	Foi graças àquele monstro
-	ue você venceu a Prova
+	que você venceu a Prova
 	de Seleção.
 	"""
 	keyWait
@@ -1025,7 +1026,7 @@ script 51 mmbn6 {
 	"""
 	Receio que eu não possa
 	permitir que MegaMan
-	seja o Navi Operador!
+	cumpra a função!
 	"""
 	keyWait
 		any = false

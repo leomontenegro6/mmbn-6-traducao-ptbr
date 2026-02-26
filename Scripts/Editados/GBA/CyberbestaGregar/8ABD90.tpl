@@ -157,7 +157,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Se usar ele nos cantos
+	Se usar isso nos cantos
 	mais sombrios do mundo
 	cibernético,
 	"""
@@ -188,8 +188,8 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Dá pra usar até
-	9 desses...
+	Dá pra portar
+	até 9 dela...
 	"""
 	keyWait
 		any = false

@@ -46,7 +46,7 @@ script 2 mmbn6 {
 	controlLock
 	soundPlay
 		track = 211
-	"Blam!!"
+	"Bam!!"
 	wait
 		frames = 45
 	soundEnableTextSFX
@@ -113,7 +113,7 @@ script 7 mmbn6 {
 	controlLock
 	soundPlay
 		track = 211
-	"Blam!!"
+	"Bam!!"
 	wait
 		frames = 45
 	soundEnableTextSFX
@@ -289,7 +289,7 @@ script 18 mmbn6 {
 	controlLock
 	soundPlay
 		track = 438
-	"Blam!"
+	"Bam!"
 	wait
 		frames = 45
 	soundEnableTextSFX
@@ -386,7 +386,7 @@ script 24 mmbn6 {
 	clearMsg
 	"""
 	Por favor,
-	faça ele parar,
+	faça ele parar...
 	"""
 	keyWait
 		any = false
@@ -484,14 +484,14 @@ script 30 mmbn6 {
 	clearMsg
 	"""
 	Dá pra perceber só de
-	olhar para ele que ele
+	olhar pra ele que ele
 	é duro de matar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Vamos.  Temos que
+	Vamos. Temos que
 	ir pra Diretoria.
 	"""
 	keyWait

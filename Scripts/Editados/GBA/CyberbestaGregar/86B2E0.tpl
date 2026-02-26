@@ -84,7 +84,7 @@ script 5 mmbn6 {
 	msgOpen
 	"""
 	Bora pro Distrito Céu!
-	Dá pra chegar lá com o
+	Dá pra chegar lá de
 	Ônibus Magnético, né?!
 	"""
 	keyWait
@@ -454,7 +454,7 @@ script 103 mmbn6 {
 	msgOpen
 	"""
 	Parece que a pessoa
-	é um ex-criminoso...
+	é uma ex-criminosa...
 	"""
 	keyWait
 		any = false
@@ -504,8 +504,8 @@ script 106 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora pegar a Pedra da
-	Lua e dar o fora daqui!
+	Agora que a gente pegou
+	a Pedra da Lua, simbora!
 	"""
 	keyWait
 		any = false
@@ -564,7 +564,7 @@ script 115 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta, MegaMan e
+	Desconecta, MegaMan, e
 	bora pro Bairro ACDC!
 	"""
 	keyWait
@@ -625,7 +625,7 @@ script 121 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora levar o pacote da
+	Bora levar o negócio da
 	Roll de volta pra ela!
 	"""
 	keyWait
@@ -657,7 +657,7 @@ script 123 mmbn6 {
 	clearMsg
 	"""
 	A gente tem que salvar
-	a Roll e os outroso!
+	a Roll e os outros!
 	"""
 	keyWait
 		any = false

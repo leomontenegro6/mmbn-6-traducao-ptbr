@@ -1075,7 +1075,7 @@ script 24 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	No mundo cibernético, um
+	No mundo cibernético, só
 	mudar o programa de um
 	Navi já torna ele capaz
 	"""
@@ -1151,7 +1151,7 @@ script 25 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	VOCÊ também, tipo
+	VOCÊ também? Tipo
 	num jogo, sei lá?
 	"""
 	keyWait
@@ -1344,7 +1344,7 @@ script 32 mmbn6 {
 	"."
 	wait
 		frames = 30
-	"."
+	". "
 	wait
 		frames = 30
 	"Ahhhhh!!"
@@ -1546,7 +1546,7 @@ script 34 mmbn6 {
 	clearMsg
 	"""
 	O inimigo que eu mais
-	tempo é o ScarCrow.
+	temo é o ScarCrow.
 	E sabe por quê?
 	"""
 	keyWait
@@ -1907,14 +1907,14 @@ script 43 mmbn6 {
 	clearMsg
 	"""
 	Eles deviam botar
-	um vírus peixe num
+	um vírus-peixe num
 	CópiRoide e soltar lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	certeza que atraía
+	Certeza que atraía
 	mais público!
 	"""
 	keyWait
@@ -2013,8 +2013,8 @@ script 45 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu tava experimento a
-	versão Nordeste do
+	Eu tava experimentando
+	a versão Nordeste do
 	Programa de Fala!
 	"""
 	keyWait
@@ -2600,13 +2600,13 @@ script 63 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Primeiro vem o \"S\"!"
+	"Primeiro vem o \"C\"!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"-S-anto distrito irado!"
+	"-C-ara, distrito irado!"
 	keyWait
 		any = false
 	clearMsg
@@ -2691,7 +2691,7 @@ script 65 mmbn6 {
 	clearMsg
 	"""
 	EU SOU O PROG QUE
-	MONITORA AS FUÇÕES
+	MONITORA AS FUNÇÕES
 	DO APARELHO.
 	"""
 	keyWait
@@ -2720,7 +2720,7 @@ script 65 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"ESTE É QUE É O MEU\nVERDADEIRO \"EU\"!"
+	"ESTE É O MEU\nVERDADEIRO \"EU\"!"
 	keyWait
 		any = false
 	end
@@ -3086,4 +3086,5 @@ script 80 mmbn6 {
 	"""
 	keyWait
 		any = false
+	end
 }

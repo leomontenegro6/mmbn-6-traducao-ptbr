@@ -24,7 +24,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	... Cuidado, MegaMan!!
+	... MegaMan, cuidado!!
 	"""
 	keyWait
 		any = false
@@ -201,7 +201,7 @@ script 9 mmbn6 {
 	clearMsg
 	"""
 	Não se perde!
-	Volte ao normal!
+	Volta ao normal!
 	"""
 	keyWait
 		any = false
@@ -226,7 +226,7 @@ script 10 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	nesssa última luta!
+	nessa última luta!
 	Não pode resistir à
 	Cyberbesta agora!
 	"""
@@ -462,9 +462,9 @@ script 20 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Dr. Wily... Nada de
-	bom vem da violência
-	e do ódio.
+	Dr. Wily...
+	Nada de bom vem da
+	violência e do ódio.
 	"""
 	keyWait
 		any = false

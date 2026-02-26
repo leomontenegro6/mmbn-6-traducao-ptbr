@@ -17,7 +17,7 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Hã? A gente pode
+	Hã? Se a gente quer
 	ir pra Exposição?
 	"""
 	keyWait

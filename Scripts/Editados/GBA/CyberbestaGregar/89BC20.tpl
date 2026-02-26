@@ -455,7 +455,7 @@ script 31 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Confiramndo os
+	Confirmando os
 	detalhes, é?
 	"""
 	keyWait
@@ -592,7 +592,7 @@ script 32 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -672,7 +672,7 @@ script 45 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"Que imbecil!"
@@ -770,7 +770,7 @@ script 50 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"É uma Cápsula do Tempo!"
@@ -831,7 +831,7 @@ script 51 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"É uma Cápsula do Tempo!"
@@ -893,7 +893,7 @@ script 52 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"É uma Cápsula do Tempo!"
@@ -955,7 +955,7 @@ script 53 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"É uma Cápsula do Tempo!"
@@ -1017,7 +1017,7 @@ script 54 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"É uma Cápsula do Tempo!"
@@ -1079,7 +1079,7 @@ script 55 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"É uma Cápsula do Tempo!"

@@ -191,8 +191,7 @@ script 10 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	eles vêm flutuando
-	da Undernet!
+	eles vêm flutuando de lá!
 	"""
 	keyWait
 		any = false

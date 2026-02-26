@@ -122,7 +122,7 @@ script 6 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	soundDisableTextSFX
@@ -362,7 +362,7 @@ script 13 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Vírus danados...
+	Vírus patéticos...
 	Desta vez, eu mesmo
 	vou te enfrentar!!!
 	"""
@@ -374,7 +374,7 @@ script 13 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Como prometido, eu vou te
+	Como prometido, vou te
 	contar uma coisa legal!
 	"""
 	keyWait
@@ -468,7 +468,7 @@ script 20 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Aham!"
+	"Hm? Ah, sim!"
 	keyWait
 		any = false
 	clearMsg
@@ -959,7 +959,7 @@ script 38 mmbn6 {
 	clearMsg
 	"""
 	Você é o único que
-	se equipada às minhas
+	se equipara às minhas
 	habilidades...
 	"""
 	keyWait
@@ -979,8 +979,9 @@ script 39 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Não posso ser vencido
-	por operadores assim...
+	Um operador assim
+	nunca seria capaz
+	de me vencer...
 	"""
 	keyWait
 		any = false

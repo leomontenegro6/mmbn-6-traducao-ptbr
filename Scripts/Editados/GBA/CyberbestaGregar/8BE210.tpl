@@ -84,9 +84,8 @@ script 3 mmbn6 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	Há um brasão de
-	morcego apagado
-	na porta...
+	Há um brasão de morcego
+	apagado na porta...
 	"""
 	keyWait
 		any = false
@@ -221,7 +220,7 @@ script 9 mmbn6 {
 }
 script 10 mmbn6 {
 	msgOpen
-	"O "
+	"A "
 	printItem
 		buffer = 0
 		item = 51

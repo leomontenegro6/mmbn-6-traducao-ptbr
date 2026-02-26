@@ -95,8 +95,7 @@ script 6 mmbn6 {
 	msgOpen
 	"""
 	Bom, como você pediu
-	com jeitinho... eu vou
-	deixar nesse canal!
+	com jeitinho... Não!
 	"""
 	keyWait
 		any = false
@@ -169,7 +168,7 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	mugshotHide
 	msgOpen
-	"... Hi, hi, hi.\n"
+	"... Hi hi hi.\n"
 	keyWait
 		any = false
 	clearMsg
@@ -215,7 +214,7 @@ script 15 mmbn6 {
 	"""
 	Oi! Como você tá?!
 	Nossa, que surpresa!
-	Tudo bem?
+	Tá tudo bem aí?
 	"""
 	keyWait
 		any = false

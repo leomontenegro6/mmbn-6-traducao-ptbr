@@ -147,7 +147,7 @@ script 7 mmbn6 {
 	mugshotAnimation
 		animation = 1
 	"""
-	たEla parou os Robôs...?ち
+	(Ela parou os Robôs...?)
 	"""
 	keyWait
 		any = false
@@ -348,7 +348,7 @@ script 18 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I... e...
+	Eu... m...
 	........ meiro...
 	"""
 	keyWait

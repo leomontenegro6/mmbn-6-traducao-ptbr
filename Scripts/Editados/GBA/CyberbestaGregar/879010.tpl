@@ -39,8 +39,9 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Não esqueça de fazer a
-	lição daqui pra frente.
+	Não esqueça de fazer
+	as atividades daqui
+	pra frente.
 	"""
 	keyWait
 		any = false

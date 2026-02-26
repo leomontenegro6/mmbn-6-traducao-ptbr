@@ -185,9 +185,8 @@ script 3 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Olha, que habilidades
-	de investigação afiadas,
-	Ruta!
+	Olha, que habilidades de
+	investigação afiadas, Ruta!
 	"""
 	keyWait
 		any = false
@@ -195,7 +194,7 @@ script 3 mmbn6 {
 	"""
 	Eu acho que o próximo
 	alvo vai ser a Rede da
-	Área Céu.
+	Área Céu, sim.
 	"""
 	keyWait
 		any = false
@@ -216,7 +215,7 @@ script 3 mmbn6 {
 	clearMsg
 	"""
 	os habitantes da Undernet
-	se irritam e vêm
+	se irritam e saem
 	correndo de lá...
 	"""
 	keyWait
@@ -230,9 +229,8 @@ script 3 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Para vocês na
-	prova de seleção,
-	lembrem-se...
+	Para vocês na prova
+	de seleção, lembrem-se...
 	"""
 	keyWait
 		any = false
@@ -349,9 +347,8 @@ script 5 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	A sua postagem deu
-	uma boa animada no
-	clima, sim,
+	A sua postagem deu uma
+	boa animada no clima, sim,
 	"""
 	keyWait
 		any = false
@@ -486,9 +483,8 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Ainda mais porque
-	a Área Céu é repleta
-	de vírus,
+	Ainda mais porque a Área
+	Céu é repleta de vírus,
 	"""
 	keyWait
 		any = false
@@ -523,7 +519,7 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	O Sr. Famous está sempre
+	O Sr. Famoso está sempre
 	torcendo por vocês!
 	"""
 	keyWait
@@ -610,7 +606,7 @@ script 9 mmbn6 {
 	"""
 	mas há provas que
 	apontam que o criminoso
-	rouybou o núcleo do
+	roubou o núcleo do
 	"""
 	keyWait
 		any = false
@@ -917,7 +913,7 @@ script 14 mmbn6 {
 	clearMsg
 	"""
 	Essa lista de letras é
-	o comando de Compressão!
+	um comando de Compressão!
 	"""
 	keyWait
 		any = false
@@ -1139,7 +1135,7 @@ script 19 mmbn6 {
 		top = 108
 	"""
 	Mas que papo é
-	esse, Mami!?
+	esse, Mami?!
 	"""
 	keyWait
 		any = false
@@ -1160,9 +1156,9 @@ script 19 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Bom, se não me dão
-	licença, eu vou na frente
-	pra abrir o caminho!
+	Bom, se me dão licença,
+	eu vou na frente pra
+	livrar o caminho!
 	"""
 	keyWait
 		any = false

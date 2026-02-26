@@ -1194,7 +1194,7 @@ script 50 mmbn6 {
 	msgOpen
 	"""
 	AI, EU QUERIA TANTO
-	LEMBRA O QUE EU ERA...
+	LEMBRAR O QUE EU ERA...
 	"""
 	keyWait
 		any = false

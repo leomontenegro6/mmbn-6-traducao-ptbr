@@ -125,15 +125,15 @@ script 5 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	Você é um tanto
-	estranho...
+	Ele é um tanto estranho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Por que se importa
-	tanto com o Baryl...?
+	Por que será que
+	se importa tanto
+	com o Baryl...?
 	"""
 	keyWait
 		any = false
@@ -144,7 +144,7 @@ script 6 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	... Hmpf, basta!
+	... Hmpf, esquece!
 	"""
 	keyWait
 		any = false
@@ -155,17 +155,17 @@ script 7 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Estou certo de que todos
-	estamos curiosos quanto a
-	por que você voltaria,
+	É meio complicado pensar
+	por que ele quer tanto
+	voltar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	e acho que PODÍAMOS
-	deixar você fazer o
-	que bem quiser...
+	mas acho que a gente
+	PODE deixar ele fazer
+	o que bem quer...
 	"""
 	keyWait
 		any = false
@@ -173,7 +173,7 @@ script 7 mmbn6 {
 	"""
 	Mas, em troca, NÓS
 	vamos fazer o que
-	bem quisermos.
+	bem quisermos também.
 	"""
 	keyWait
 		any = false
@@ -233,8 +233,8 @@ script 10 mmbn6 {
 	clearMsg
 	"""
 	Se vamos nos rebelar
-	contra o Baryl, então
-	tínhamos que avisar ele.
+	contra o Baryl, tínhamos
+	que avisar ele.
 	"""
 	keyWait
 		any = false
@@ -271,7 +271,7 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Ele teve o que merecia!
+	Bem feito pra ele!
 	"""
 	keyWait
 		any = false
@@ -333,16 +333,16 @@ script 15 mmbn6 {
 	clearMsg
 	"""
 	Ao que parece, tem
-	esses "Adoradores das
+	esses "Devotos das
 	Cyberbestas" na Undernet
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	que sabem como despertar
-	o poder máximo da
-	Cyberbesta.
+	que sabem como
+	despertar o poder
+	máximo da fera.
 	"""
 	keyWait
 		any = false
@@ -355,7 +355,7 @@ script 16 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Adoradores das
+	Devotos das
 	Cyberbestas,
 	na Undernet?
 	"""

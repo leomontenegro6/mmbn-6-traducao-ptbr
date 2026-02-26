@@ -118,7 +118,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = AnnZap
 	msgOpen
-	"Eu sou a\nProfessora Ann Zap."
+	"Sou a Professora\nAnn Zap."
 	keyWait
 		any = false
 	clearMsg

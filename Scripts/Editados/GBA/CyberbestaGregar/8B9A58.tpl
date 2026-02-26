@@ -21,8 +21,8 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	É o palaque da
-	testemunha...
+	É o palanque
+	da testemunha...
 	"""
 	keyWait
 		any = false

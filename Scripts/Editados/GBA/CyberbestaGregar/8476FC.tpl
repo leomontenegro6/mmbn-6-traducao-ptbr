@@ -1229,8 +1229,7 @@ script 22 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	O meu Navi
-	reprovou...
+	O meu Navi reprovou...
 	"""
 	keyWait
 		any = false
@@ -1811,7 +1810,7 @@ script 32 mmbn6 {
 	clearMsg
 	"""
 	Eu desisti no desafio
-	dos palitos de peixe!
+	dos taiyaki!
 	"""
 	keyWait
 		any = false

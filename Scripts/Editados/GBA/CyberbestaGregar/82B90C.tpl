@@ -78,15 +78,15 @@ script 18 mmbn6s {
 	end
 }
 script 19 mmbn6s {
-	"Count"
+	"Conde"
 	end
 }
 script 20 mmbn6s {
-	"Count[EX]"
+	"Conde[EX]"
 	end
 }
 script 21 mmbn6s {
-	"Count[SP]"
+	"Conde[SP]"
 	end
 }
 script 22 mmbn6s {

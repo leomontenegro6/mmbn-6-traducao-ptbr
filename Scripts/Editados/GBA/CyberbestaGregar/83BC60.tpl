@@ -461,7 +461,7 @@ script 112 mmbn6s {
 	end
 }
 script 113 mmbn6s {
-	"Count"
+	"Conde"
 	end
 }
 script 114 mmbn6s {
@@ -504,10 +504,10 @@ script 119 mmbn6s {
 	end
 }
 script 121 mmbn6s {
-	"た"
+	"("
 	printModBuffer
 		length = 0
 		buffer = 1
-	"MBち"
+	"MB)"
 	end
 }

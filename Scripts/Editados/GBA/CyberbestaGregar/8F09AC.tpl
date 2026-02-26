@@ -201,7 +201,7 @@ script 10 mmbn6 {
 	msgOpen
 	"""
 	PIKIRARAPIKIRA...
-	たEntendido...ち
+	(Entendido...)
 	"""
 	keyWait
 		any = false
@@ -339,7 +339,7 @@ script 19 mmbn6 {
 		mugshot = ElementMan
 	"""
 	PIKIRARAPIKIRA
-	たEntendido.ち
+	(Entendido.)
 	"""
 	keyWait
 		any = false

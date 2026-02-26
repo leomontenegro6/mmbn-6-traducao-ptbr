@@ -69,7 +69,7 @@ script 2 mmbn6 {
 	clearMsg
 	"""
 	Eu espero nunca receber
-	uma ordem de eliminar
+	uma ordem para eliminar
 	o SEU Navi...
 	"""
 	keyWait
@@ -84,7 +84,7 @@ script 2 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Se você precisar operar
+	Se precisar operar
 	o KillerMan, ele
 	estará aqui...
 	"""

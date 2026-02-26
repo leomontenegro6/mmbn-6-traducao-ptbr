@@ -65,7 +65,7 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Você passou todo esse
+	Passou todo esse
 	tempo ajudando a WWW,
 	"""
 	keyWait
@@ -245,7 +245,7 @@ script 8 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Tanto faz. Enfim, eu
+	... Tanto faz. Enfim, eu
 	vou remover a barreira.
 	"""
 	keyWait
@@ -514,7 +514,7 @@ script 22 mmbn6 {
 	"""
 	vou lhe explicar a
 	história toda desde
-	o começo...
+	o princípio...
 	"""
 	keyWait
 		any = false
@@ -585,7 +585,7 @@ script 25 mmbn6 {
 	msgOpen
 	"""
 	De repente, eles todos
-	formara uma única,
+	formaram uma única,
 	grande massa.
 	"""
 	keyWait
@@ -684,8 +684,8 @@ script 29 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	os humanos bolaram
-	e tentaram vários
+	os humanos elaboraram
+	e aplicaram vários
 	planos diferentes...
 	"""
 	keyWait
@@ -900,7 +900,7 @@ script 36 mmbn6 {
 	clearMsg
 	"""
 	Ele decaiu tanto aos
-	olhos da sociedade
+	olhos da sociedade,
 	que nunca mais pôde
 	"""
 	keyWait
@@ -928,7 +928,7 @@ script 36 mmbn6 {
 	clearMsg
 	"""
 	que apagá-lo da história
-	foi um erro gravíssimo.
+	é um erro gravíssimo.
 	"""
 	keyWait
 		any = false
@@ -1045,7 +1045,7 @@ script 39 mmbn6 {
 	"""
 	aquele cientista
 	"demônio" era...
-	o meu avô...
+	o meu avô.
 	"""
 	keyWait
 		any = false
@@ -1109,9 +1109,8 @@ script 42 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	Bom, mas chega de
-	falar do passado,
-	por ora.
+	Bom, mas chega de falar
+	do passado, por ora.
 	"""
 	keyWait
 		any = false
@@ -1119,7 +1118,7 @@ script 42 mmbn6 {
 	"""
 	Vamos, não dê trabalho.
 	Você sabe que não há
-	como escapar...
+	escapatória...
 	"""
 	keyWait
 		any = false
@@ -1186,8 +1185,8 @@ script 45 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	conhece esse tal
-	pirata aqui.
+	conhece esse
+	tal pirata aí.
 	"""
 	keyWait
 		any = false
@@ -1201,7 +1200,7 @@ script 46 mmbn6 {
 	msgOpen
 	"""
 	Um guarda-costas não
-	precisa saber desse
+	precisa saber esse
 	tipo de informação.
 	"""
 	keyWait
@@ -1357,7 +1356,7 @@ script 53 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Você me enganhou!"
+	"Você me enganou!"
 	keyWait
 		any = false
 	clearMsg
@@ -1428,7 +1427,7 @@ script 57 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Sei que você tinha
+	Sei que cê tinha
 	que esconder que
 	tava nessa sua missão,
 	"""
@@ -1690,9 +1689,8 @@ script 68 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Originalmente,
-	o Prefeito estava
-	aliado à WWW,
+	Originalmente, o Cain
+	estava aliado à WWW,
 	"""
 	keyWait
 		any = false
@@ -1705,7 +1703,7 @@ script 68 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	O Prefeito Cain parece
+	E o Prefeito parece
 	ter achado um poder
 	próprio...
 	"""
@@ -1713,7 +1711,7 @@ script 68 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Por exemplo, os Adoradores
+	Por exemplo, os Devotos
 	das Cyberbestas,
 	da Undernet...
 	"""
@@ -1748,7 +1746,7 @@ script 70 mmbn6 {
 	clearMsg
 	"""
 	... Hmpf, os ensinamentos
-	desses Adoradores...
+	desses Devotos...
 	"""
 	keyWait
 		any = false
@@ -1864,7 +1862,7 @@ script 74 mmbn6 {
 	"""
 	Eu ainda tenho umas
 	coisas pra perguntar pro
-	prefeito, então não posso
+	Cain, então não posso
 	"""
 	keyWait
 		any = false

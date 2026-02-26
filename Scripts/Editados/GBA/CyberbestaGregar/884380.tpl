@@ -37,7 +37,7 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu fiquei tão comovido
+	Eu fiquei tão comovido,
 	que não consigo mexer
 	as pernas agora...
 	"""
@@ -62,7 +62,7 @@ script 1 mmbn6 {
 }
 script 2 mmbn6 {
 	msgOpen
-	"Aur, aur, aur, aur!"
+	"Ôur Ôur Ôur Ôur!"
 	keyWait
 		any = false
 	clearMsg

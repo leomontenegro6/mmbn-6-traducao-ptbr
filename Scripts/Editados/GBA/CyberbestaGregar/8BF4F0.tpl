@@ -53,7 +53,7 @@ script 2 mmbn6 {
 		jumpIfLess = 33
 	msgOpen
 	"""
-	MegaMan adquiriu:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -837,9 +837,8 @@ script 32 mmbn6 {
 script 33 mmbn6 {
 	msgOpen
 	"""
-	Essa porta foi
-	lacrada com uma
-	grande maldade...
+	Essa porta foi selada
+	com um grande mal...
 	"""
 	keyWait
 		any = false

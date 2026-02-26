@@ -161,7 +161,7 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	No canto dele estão
+	No canto dele, estão
 	escritas as palavras:
 	"Você pode se conectar".
 	"""

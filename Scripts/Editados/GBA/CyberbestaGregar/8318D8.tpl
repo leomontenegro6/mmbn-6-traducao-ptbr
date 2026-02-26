@@ -434,7 +434,7 @@ script 22 mmbn6 {
 	flagSet
 		flag = 5940
 	"""
-	Tá, vou cancelar a luta!
+	Tá, vou fechar a luta!
 	Não esqueça de salvar!
 	"""
 	keyWait

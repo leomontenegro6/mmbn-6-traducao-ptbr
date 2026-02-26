@@ -181,7 +181,7 @@ script 16 mmbn6 {
 	"""
 	NINGUÉM COMETE MALDADES
 	PORQUE ESTAMOS SEMPRE
-	OBSERVANDO!
+	DE OLHO!
 	"""
 	keyWait
 		any = false

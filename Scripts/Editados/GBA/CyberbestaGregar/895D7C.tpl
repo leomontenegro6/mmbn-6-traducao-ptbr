@@ -120,9 +120,9 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	たSerá que ele também
+	(Será que ele também
 	foi contratado pra fazer
-	papel de bandido?ち
+	papel de bandido?)
 	"""
 	keyWait
 		any = false
@@ -301,7 +301,7 @@ script 6 mmbn6 {
 	"Se manda, cretino!!\n"
 	textSpeed
 		delay = 3
-	"たMe ajuda...ち"
+	"(Socorro...)"
 	textSpeed
 		delay = 2
 	controlUnlock
@@ -593,7 +593,7 @@ script 13 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Saindo Um ouriço-do-mar!
+	Saindo um ouriço-do-mar!
 	"""
 	keyWait
 		any = false

@@ -975,7 +975,7 @@ script 51 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"e... HeatMan."
+	"E... HeatMan."
 	keyWait
 		any = false
 	clearMsg
@@ -986,7 +986,7 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"e... SpoutMan."
+	"E... SpoutMan."
 	keyWait
 		any = false
 	clearMsg
@@ -997,7 +997,7 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"e... SlashMan."
+	"E... SlashMan."
 	keyWait
 		any = false
 	clearMsg
@@ -1008,7 +1008,7 @@ script 54 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"e... TenguMan."
+	"E... TenguMan."
 	keyWait
 		any = false
 	clearMsg
@@ -1019,7 +1019,7 @@ script 55 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"e... ElecMan."
+	"E... ElecMan."
 	keyWait
 		any = false
 	clearMsg
@@ -1030,7 +1030,7 @@ script 56 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"e... TomahawkMan."
+	"E... TomahawkMan."
 	keyWait
 		any = false
 	clearMsg
@@ -1041,7 +1041,7 @@ script 57 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"e... GroundMan."
+	"E... GroundMan."
 	keyWait
 		any = false
 	clearMsg
@@ -1052,7 +1052,7 @@ script 58 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"e... DustMan."
+	"E... DustMan."
 	keyWait
 		any = false
 	clearMsg
@@ -1063,7 +1063,7 @@ script 59 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"e... ChargeMan."
+	"E... ChargeMan."
 	keyWait
 		any = false
 	clearMsg
@@ -1074,7 +1074,7 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"e... KillerMan."
+	"E... KillerMan."
 	keyWait
 		any = false
 	clearMsg
@@ -2045,7 +2045,7 @@ script 106 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu sou apenar um
+	Eu sou apenas um
 	membro da WWW. Nada
 	menos, nada mais!
 	"""
@@ -2115,7 +2115,7 @@ script 110 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Eu não sou bondoso
+	Não sou bondoso
 	como você...
 	"""
 	keyWait

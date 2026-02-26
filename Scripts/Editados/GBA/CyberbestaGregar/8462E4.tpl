@@ -387,8 +387,8 @@ script 23 mmbn6 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	As coisas parecem agita-
-	das lá fora, mas isso não
+	As coisas parecem agitadas
+	lá fora, mas isso não
 	incomoda o Sr. Famoso!
 	"""
 	keyWait

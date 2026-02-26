@@ -1227,7 +1227,7 @@ script 51 mmbn6 {
 		char = 1
 	"""
 	0
-	たCてB:Mudar pontosち
+	(CてB:Mudar pontos)
 	"""
 	flagSet
 		flag = 5925

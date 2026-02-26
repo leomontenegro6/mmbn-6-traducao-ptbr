@@ -419,7 +419,7 @@ script 151 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"que tão por aqui..."
+	"que tão pela Undernet..."
 	keyWait
 		any = false
 	end

@@ -401,7 +401,7 @@ script 46 mmbn6 {
 	msgOpen
 	"""
 	É tão confuso...
-	A expressão do
+	A expressão no
 	seu rosto...
 	"""
 	keyWait
@@ -416,9 +416,9 @@ script 46 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	E também pensei que
-	estivesse caçoando
-	de mim...
+	Juro que pensei que
+	estava tirando
+	onda comigo...
 	"""
 	keyWait
 		any = false
@@ -436,7 +436,7 @@ script 46 mmbn6 {
 	msgOpen
 	"""
 	AGORA É VOCÊ QUEM
-	TÁ CAÇOANDO DE MIM!
+	TÁ TIRANDO ONDA!
 	"""
 	keyWait
 		any = false

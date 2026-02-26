@@ -99,7 +99,7 @@ script 6 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Programas são criador
+	Programas são criados
 	por humanos...
 	"""
 	keyWait
@@ -291,7 +291,7 @@ script 47 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	o promotor que eu tô
+	O promotor que eu tô
 	enfrentando é afiado
 	feito uma espada!
 	"""

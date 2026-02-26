@@ -24,13 +24,13 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like you
-	got it.
+	Tô vendo que
+	cê pegou ela.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How do you feel?"
+	"Como tá se sentindo?"
 	keyWait
 		any = false
 	clearMsg
@@ -41,14 +41,14 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I'm OK."
+	"Eu tô bem."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This CopyBot's
-	battery is almost
-	out though...
+	Mas a bateria deste
+	CópiRoide tá quase
+	acabando...
 	"""
 	keyWait
 		any = false
@@ -61,9 +61,8 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Gotcha. Transfer
-	back to the PET,
-	then.
+	Beleza.
+	Volta pro PET, então.
 	"""
 	keyWait
 		any = false
@@ -74,16 +73,15 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright! Now,with
-	the ball MegaMan
-	got,
+	OK! Agora que o
+	MegaMan pegou a bola,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll move that seal
-	out of the way!
+	eu vou usar ela pra fazer
+	aquela foca sair dali!
 	"""
 	keyWait
 		any = false

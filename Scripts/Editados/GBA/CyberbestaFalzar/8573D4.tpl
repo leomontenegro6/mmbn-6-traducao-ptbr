@@ -9,32 +9,30 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"Very good,Lan!!"
+	"E aí, Lan!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm your homeroom
-	teacher,Joe Mach!
+	Eu sou o seu professor
+	de sala: Joe Mach!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Call me Mr.Mach!!"
+	"Pode me chamar\nde Sr. Mach!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now you are a
-	member of Cyber
-	Academy!
+	Agora, você é parte
+	da Escola Saibher!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here,let me give
-	you this!
+	Tome, fique com isto!
 	"""
 	keyWait
 		any = false
@@ -46,7 +44,7 @@ script 0 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -61,36 +59,35 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	"""
-	Now you can enter
-	the classroom.
+	Agora você pode entrar
+	na sua sala de aula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your classroom is
-	Class 6_1 on the
-	second floor.
+	A sua classe é a 6-1,
+	no segundo andar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be there in a
-	minute,but you go
-	on ahead!
+	Já já, eu vou pra
+	lá também, mas pode
+	ir na frente!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Nervous?"
+	"Tá nervoso?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hahaha! No need to
-	be nervous. You'll
-	be fine!!
+	Ha ha ha!
+	Não precisa, rapaz!
+	Vai ficar tudo bem!
 	"""
 	keyWait
 		any = false
@@ -103,17 +100,17 @@ script 1 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	To get to the 2nd
-	floor,go back to the
-	lobby,take the right
+	Pra ir pro segundo
+	andar, volte pro saguão,
+	passe pelo portão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	gate,then use the
-	stairs at the end of
-	the hall.
+	da direita e suba
+	as escadas no fim
+	do corredor.
 	"""
 	keyWait
 		any = false
@@ -124,9 +121,9 @@ script 2 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Hey! You!
-	If you don't hurry
-	you'll be late!!
+	Ei! Rapazinho!
+	Se não correr, vai
+	se atrasar pra aula!
 	"""
 	keyWait
 		any = false
@@ -137,9 +134,9 @@ script 3 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Alright,time to get
-	ready for my next
-	class...
+	OK, hora de me
+	preparar pra minha
+	próxima aula...
 	"""
 	keyWait
 		any = false
@@ -150,9 +147,8 @@ script 4 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Excuse me! We're
-	grading tests! You
-	can't be in here!!
+	Epa! Estou avaliando
+	provas aqui! Saia já!
 	"""
 	keyWait
 		any = false
@@ -176,8 +172,8 @@ script 16 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Yikes! So things
-	are like this...
+	Credo! Então é assim
+	que são as coisas...
 	"""
 	keyWait
 		any = false
@@ -191,23 +187,23 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,Mick!"
+	"Aí, Mick!"
 	keyWait
 		any = false
 	clearMsg
-	"Where's your Navi!?"
+	"Cadê o seu Navi?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mick
-	"No clue..."
+	"Sei lá..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He just went off
-	on his own...
+	Ele resolveu sair
+	sozinho do nada...
 	"""
 	keyWait
 		any = false
@@ -224,24 +220,23 @@ script 20 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So you're an
-	operator,huh!?
+	Mas você é um
+	operador, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you've been
-	with your Navi
-	for a long time...
+	Se você e o seu Navi
+	tão juntos já tem tempo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should know
-	each others patterns
-	in and out...
+	então deviam saber os
+	comportamentos um do
+	outro de cor...
 	"""
 	keyWait
 		any = false
@@ -271,23 +266,24 @@ script 21 mmbn6 {
 		mugshot = Mick
 	"""
 	.........
-	He's probably near
-	the electronics...
+	Ele deve tá em um
+	eletrônico perto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't see it,
-	but he's a worrier!
+	Ele não deixa parecer,
+	mas é todo preocupado
+	com tudo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I bet he is
-	watching from a
-	monitor somewhere.
+	Então aposto que ele
+	tá vendo tudo de
+	algum monitor.
 	"""
 	keyWait
 		any = false
@@ -295,13 +291,13 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	A monitor,huh?
-	Makes sense!
+	Um monitor, é?
+	Faz sentido!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go!"
+	"Eu vou ver!"
 	keyWait
 		any = false
 	flagSet
@@ -313,15 +309,15 @@ script 22 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	I can't believe
-	my Navi did that
-	for me...
+	Eu não acredito que
+	o meu Navi fez isso
+	por mim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,get rid of
+	Lan, acaba com o
 	BlastMan!
 	"""
 	keyWait
@@ -333,17 +329,17 @@ script 23 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	My Navi doesn't look
-	like it,but he's a
-	worrier.
+	Ele não deixa parecer,
+	mas o meu Navi é todo
+	preocupado com tudo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if he's
-	inside the monitors
-	nearby...
+	Talvez ele teja
+	dentro de algum
+	monitor por aqui...
 	"""
 	keyWait
 		any = false
@@ -355,7 +351,7 @@ script 25 mmbn6 {
 		jumpIfTrue = 26
 		jumpIfFalse = continue
 	msgOpen
-	"*Rumble Rumble!!*"
+	"Trrrrm Trrrrm!!"
 	keyWait
 		any = false
 	end
@@ -365,17 +361,16 @@ script 26 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,there's no
-	more fire coming
-	out...
+	Bom, parou de
+	pegar fogo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't think I
-	am strong enough
-	to push this thing!
+	Mas não acho que sou
+	forte o bastante pra
+	empurrar essas coisas!
 	"""
 	keyWait
 		any = false
@@ -386,31 +381,30 @@ script 35 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	All of the teachers
-	have gone home.
+	Todos os professores
+	foram para casa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Mach is OK.
-	We just got word
-	from the hospital
+	O Mach está bem.
+	Acabamos de ser
+	informados pelo hospital
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that his injury
-	was minor...
+	que os ferimentos
+	dele eram leves...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright. You hurry
-	up and get home
-	too.
+	Certo. Vá logo para
+	casa você também.
 	"""
 	keyWait
 		any = false
@@ -427,8 +421,8 @@ script 50 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I have something
-	I'd like to ask...
+	Tem uma coisa que
+	eu queria perguntar...
 	"""
 	keyWait
 		any = false
@@ -436,89 +430,85 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Yes,Yes...
-	What is it?
+	Claro, rapaz.
+	O que é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmmm... What does
-	a penguin eat?
+	Hmmm... O que os
+	pinguins comem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me see... They
-	would eat fish,I
-	suppose.
+	Bom... Peixes, imagino.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I see... Fish..."
+	"Entendi... Peixe..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Scientist
 	"""
-	What makes you ask
-	such a strange
-	question?
+	Por que essa pergunta
+	tão inusitada?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Well,the truth is..."
+	"Bom, na verdade..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Scientist
 	"""
-	You've got to feed
-	a hungry penguin?
+	Você tem que alimentar
+	um pinguim faminto?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hmmmm...."
+	"Hmmmm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I don't have
-	any fish you could
-	use as food...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If anyone around
-	here would have
-	some,it would be
+	Bom, eu não tenho aqui
+	nenhum peixe para você
+	oferecer a ele...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Biology
-	teacher's aide.
+	Se tem alguém
+	aqui que pode ter,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He feeds the animals
-	here everyday,so you
-	should go ask him.
+	com certeza é o
+	meu assistente.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ele alimenta os animais
+	daqui todos os dias.
+	Devia ver com ele.
 	"""
 	keyWait
 		any = false
@@ -526,15 +516,15 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	The Biology
-	teacher's aide...
+	O assistente do
+	professor de Biologia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gotcha...
-	Thanks!!
+	Entendi...
+	Obrigado!!
 	"""
 	keyWait
 		any = false
@@ -545,17 +535,16 @@ script 51 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You should talk to
-	the Biology
-	teacher's aide.
+	Você devia consultar
+	o meu assistente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He feeds the animals
-	here everyday,so you
-	should go ask him.
+	Ele alimenta os animais
+	daqui todos os dias.
+	Veja com ele.
 	"""
 	keyWait
 		any = false
@@ -566,22 +555,22 @@ script 52 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Huh?
-	There is a student
-	we've been watching
+	Hã?
+	Estamos de olho
+	em um certo aluno
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	who makes weird
-	faces at the
-	security camera in
+	que vive fazendo
+	caretas para a
+	câmera de segurança
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"the hallway."
+	"do corredor."
 	keyWait
 		any = false
 	end
@@ -591,15 +580,16 @@ script 53 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Ahh,I have to get
-	ready for my class!
+	Ah, eu tenho que
+	me preparar para
+	a minha aula!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess it's
-	overtime for me...
+	Ai, lá vou eu
+	fazer hora extra...
 	"""
 	keyWait
 		any = false
@@ -610,16 +600,16 @@ script 56 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I gave up my holiday
-	to make handouts for
-	class...
+	Eu abri mão da minha
+	folga para fazer
+	apostilas para a aula...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not easy being
-	a teacher...
+	Vida de professor
+	não é mole, não...
 	"""
 	keyWait
 		any = false

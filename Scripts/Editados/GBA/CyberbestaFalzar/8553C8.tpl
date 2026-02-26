@@ -10,15 +10,9 @@ script 0 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	Grownups,like,took
-	some girl,and like,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	ran out towards
-	the foyer!
+	Uns adultos levaram
+	uma menina aí e foram
+	correndo pra entrada!
 	"""
 	keyWait
 		any = false
@@ -29,8 +23,8 @@ script 1 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	Hmmm...should I go
-	home soon...?
+	Hmmm... Será que eu
+	vou logo pra casa...?
 	"""
 	keyWait
 		any = false
@@ -41,8 +35,8 @@ script 5 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	It isn't safe here.
-	You must hurry...
+	Não é seguro aqui.
+	Depressa...
 	"""
 	keyWait
 		any = false

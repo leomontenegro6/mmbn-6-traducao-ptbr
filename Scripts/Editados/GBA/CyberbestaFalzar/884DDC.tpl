@@ -10,8 +10,8 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you doing
-	here!?
+	Ei! Tá fazendo
+	o quê aqui?!
 	"""
 	keyWait
 		any = false
@@ -19,33 +19,32 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	I'm sick of all
-	this dog's crying
-	and yelping.
+	Eu tô de saco cheio
+	de todo o "au, au, au"
+	deste cachorro idiota!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It grates on my
-	ears! I'm going to
-	make sure it stops!
+	Tô pra arrancar os
+	ouvidos! Então, vim
+	fazer parar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,you yelping
-	mutt!
-	Can you hear me!?
+	Ô, vira-lata chato!
+	Tá me ouvindo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna beat up
-	your blue friend
-	now... Watch this!
+	Eu vou dar uma surra
+	no teu amiguinho azul
+	agora... Fica olhando!
 	"""
 	keyWait
 		any = false
@@ -53,8 +52,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	What! That's a bit
-	rude!!
+	O quê?!
+	Mas que grosseria!
 	"""
 	keyWait
 		any = false
@@ -62,121 +61,120 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Rude?
-	That'd be you
-	tough guy!
+	Grosseria?
+	Grosso é tu, mané!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The security on
-	this RoboDog is too
-	weak!
+	A segurança deste
+	RobôCão tava fraca
+	demais, mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It must be worried
-	about something,huh?
-	For instance...
+	Vai ver ele tava
+	preocupado com alguma
+	coisa. Tipo, sei lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone not wanting
-	to go to school...
+	Um certo alguém
+	não ir pra escola...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungBoyHair
-	"It's my fault...?"
+	"... A culpa é minha...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	If you've got
-	any NetBattling
-	skills...
+	Se cê tem uma gota de
+	habilidade na NetLuta
+	que seja...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should be able
-	to defeat me and
-	save this dog!
+	deve conseguir me
+	vencer pra salvar
+	este sarnento aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Don't you agree?"
+	"Não concorda?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungBoyHair
-	"...Ummm..."
+	"... Hummm..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Sorry to interrupt,
-	but you're...
+	Desculpa interromper,
+	mas você tá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"たHa! It's your turn\n soon! Let's try the\n kid again!ち"
+	"たHa! Daqui a pouco vai\n ser a sua vez! Bora\n pro menino de novo!ち"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"たI'm gonna have to\n do this for him...ち"
+	"たEu vou ter que fazer\n isso por ele...ち"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"たYeah... From now\n on this is up to\n you.ち"
+	"たÉ... Daqui em\n diante, é com você.ち"
 	keyWait
 		any = false
 	clearMsg
-	"たTime to scatter\n some real viruses!ち"
+	"たHora de espalhar\n uns vírus de verdade!ち"
 	keyWait
 		any = false
 	clearMsg
-	"たIf you delete them,\n the kid should\n figure things out.ち"
+	"たSe você deletar eles,\n o garoto deve cair\n na real.ち"
 	keyWait
 		any = false
 	clearMsg
-	"たHe's gotta get\n stronger...ち"
+	"たEle tem que ficar\n mais forte...ち"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"た...Gotcha!ち"
+	"た... Te peguei!ち"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Alright! Time to
-	introduce this dog
-	to my virus friends!
+	Beleza! Hora de
+	apresentar este vira-lata
+	aos meus viruzinhos!
 	"""
 	keyWait
 		any = false
@@ -184,8 +182,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	AHHHHH! STOP IT!
-	PLEASE STOP IT!
+	AHHHHH! PARA!
+	POR FAVOR, PARA!
 	"""
 	keyWait
 		any = false
@@ -193,55 +191,55 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Just leave this
-	one to me...
+	Pode deixar
+	essa comigo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll show you how
-	to protect this
-	dog!
+	Vou te mostrar
+	como fazer pra
+	proteger o cachorro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if I do this,
-	you have to
-	remember!
+	Mas, depois que eu
+	fizer isso, cê não
+	pode esquecer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When it cries,just
-	ignoring it won't
-	make it stop.
+	Quando ele chora, só
+	ignorar o problema não
+	vai resolver ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungBoyHair
-	"OK..."
+	"Tá..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Alright! Let's go!"
+	"Beleza! Vamos lá!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -254,7 +252,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Ahhh! You got me..."
+	"Ahhh! Cê me pegou..."
 	keyWait
 		any = false
 	clearMsg
@@ -262,8 +260,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Alright! Take this
-	RoboDog back now.
+	Tá bom! Pode ficar
+	com o RobôCão.
 	"""
 	keyWait
 		any = false
@@ -271,48 +269,48 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	Really!?
-	Thank you!!
+	É mesmo?!
+	Obrigado!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"You're welcome!"
+	"Não tem de quê!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This time I was
-	here to help you...
+	Desta vez, eu tava
+	aqui pra te ajudar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if this happens
-	again,then...
+	Mas, se rolar
+	de novo, aí...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungBoyHair
-	"...it's up to me."
+	"... Só eu vou poder\nresolver."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going to
-	practice
+	Eu vou treinar
+	NetLuta pesado
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetBattling so I
-	can defend Pooch!
+	pra poder defender
+	o Totó!
 	"""
 	keyWait
 		any = false
@@ -320,15 +318,14 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Alright! That sounds
-	like a plan!
+	Show! Gostei de ver!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungBoyHair
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -337,7 +334,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Ahhh! You got me..."
+	"Ahhh! Cê me pegou..."
 	keyWait
 		any = false
 	end
@@ -346,31 +343,30 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Found it!"
+	"Achei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Lan!
-	Let's delete it
-	fast!
+	Bora deletar ele, rápido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Leave it to me!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -404,9 +400,8 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We did it,Lan!
-	We deleted all of
-	the viruses!!
+	A gente conseguiu, Lan!
+	Deletamos todos os vírus!
 	"""
 	keyWait
 		any = false
@@ -414,9 +409,9 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yep!
-	This computer
-	is safe now!
+	É!
+	Agora este sistema
+	vai ficar bem!
 	"""
 	keyWait
 		any = false
@@ -426,16 +421,18 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it,Lan!"
+	"""
+	A gente conseguiu, Lan!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yep!
-	This computer
-	is safe now!
+	É!
+	Agora este sistema
+	vai ficar bem!
 	"""
 	keyWait
 		any = false
@@ -449,46 +446,17 @@ script 30 mmbn6 {
 	controlLock
 	soundPlay
 		track = 372
-	"BOW!"
+	"RÁU!"
 	wait
 		frames = 8
 	soundPlay
 		track = 372
-	" WOW!"
+	" AU!"
 	wait
 		frames = 8
 	soundPlay
 		track = 372
-	" WOW!"
-	wait
-		frames = 8
-	soundEnableTextSFX
-	controlUnlock
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'M THE ROBODOG
-	PROGRAM!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	soundDisableTextSFX
-	controlLock
-	soundPlay
-		track = 372
-	"BOW!"
-	wait
-		frames = 8
-	soundPlay
-		track = 372
-	" WOW!"
-	wait
-		frames = 8
-	soundPlay
-		track = 372
-	" WOW!"
+	" AU!"
 	wait
 		frames = 8
 	soundEnableTextSFX
@@ -497,8 +465,8 @@ script 30 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I'M SUPPOSED TO BE
-	A WATCHDOG!
+	EU SOU O PROGRAMA
+	ROBÔCÃO!
 	"""
 	keyWait
 		any = false
@@ -507,17 +475,46 @@ script 30 mmbn6 {
 	controlLock
 	soundPlay
 		track = 372
-	"BOW!"
+	"RÁU!"
 	wait
 		frames = 8
 	soundPlay
 		track = 372
-	" WOW!"
+	" AU!"
 	wait
 		frames = 8
 	soundPlay
 		track = 372
-	" WOW!"
+	" AU!"
+	wait
+		frames = 8
+	soundEnableTextSFX
+	controlUnlock
+	keyWait
+		any = false
+	clearMsg
+	"""
+	NASCI PRA SER
+	CÃO DE GUARDA!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	soundDisableTextSFX
+	controlLock
+	soundPlay
+		track = 372
+	"RÁU!"
+	wait
+		frames = 8
+	soundPlay
+		track = 372
+	" AU!"
+	wait
+		frames = 8
+	soundPlay
+		track = 372
+	" AU!"
 	wait
 		frames = 8
 	soundEnableTextSFX
@@ -531,23 +528,23 @@ script 50 mmbn6 {
 		mugshot = MrProgRed
 	msgOpen
 	"""
-	...I'M THE VIRUS
-	BATTLE MACHINE V1...
+	... EU SOU A MÁQUINA
+	DE LUTA ANTIVÍRUS V1...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'VE BEEN WAITING
-	FOR YOU TO COME...
+	VENHO ESPERANDO
+	A SUA CHEGADA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	ENTER 3 CONSECUTIVE
-	VIRUS BATTLES?
+	GOSTARIA DE ENCARAR 3
+	BATALHAS CONSECUTIVAS
+	CONTRA VÍRUS?
 	"""
 	keyWait
 		any = false
@@ -565,7 +562,7 @@ script 50 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Yes\n"
+	" Sim\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -576,7 +573,7 @@ script 50 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -587,7 +584,7 @@ script 50 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Hear Explanation"
+	" Explicação"
 	select
 		default = 0
 		BSeparate = true
@@ -604,7 +601,7 @@ script 50 mmbn6 {
 		delay = 2
 	mugshotShow
 		mugshot = MrProgRed
-	"COME BACK SOON!"
+	"FIQUE À VONTADE PARA\nVOLTAR AQUI!"
 	keyWait
 		any = false
 	end
@@ -616,13 +613,13 @@ script 51 mmbn6 {
 		mugshot = MrProgRed
 	msgOpen
 	"""
-	LAUNCHING VIRUS
-	BATTLE...
+	EXECUTANDO BATALHA
+	CONTRA VÍRUS...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BATTLE... START!!"
+	"BATALHA... INICIAR!!"
 	keyWait
 		any = false
 	flagSet
@@ -646,9 +643,9 @@ script 53 mmbn6 {
 		mugshot = MrProgRed
 	msgOpen
 	"""
-	THAT WAS CLOSE...
-	COME BACK AGAIN
-	SOON!
+	ESSA FOI QUASE...
+	ESPERO VÊ-LO TENTAR
+	DE NOVO EM BREVE!
 	"""
 	keyWait
 		any = false
@@ -663,16 +660,16 @@ script 54 mmbn6 {
 		mugshot = MrProgRed
 	msgOpen
 	"""
-	AMAZING!!
-	WELL DONE!!
+	INCRÍVEL!!
+	EXCELENTE TRABALHO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TO COMMEMORATE YOUR
-	GREAT VIRUS BUSTING
-	SKILL,HERE'S A GIFT!
+	PARA CELEBRAR SUAS
+	HABILIDADES NOTÁVEIS,
+	EIS AQUI UM PRESENTE!
 	"""
 	keyWait
 		any = false
@@ -686,7 +683,7 @@ script 54 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip
@@ -704,33 +701,36 @@ script 54 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgRed
-	"CONGRATULATIONS!"
+	"MEUS PARABÉNS!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE ARE OTHER
-	MR.PROGS THAT ARE
-	DIFFERENT COLORS...
+	HÁ OUTROS PROGS DE
+	CORES DIFERENTES
+	ALÉM DE MIM...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU SHOULD TRY
-	LOOKING FOR THEM.
+	VOCÊ DEVIA TENTAR
+	ENCONTRÁ-LOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHERE ARE THEY?"
+	"""
+	"ONDE ELES ESTÃO",
+	VOCÊ PERGUNTA?
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MAYBE ONE IS IN
-	A COMP RELATED TO
-	WATER...
+	UM DELES PODE ESTAR
+	EM UM CIBERESPAÇO
+	RELACIONADO À ÁGUA...
 	"""
 	keyWait
 		any = false
@@ -752,16 +752,16 @@ script 55 mmbn6 {
 		mugshot = MrProgRed
 	msgOpen
 	"""
-	AMAZING!!
-	WELL DONE!!
+	INCRÍVEL!!
+	EXCELENTE TRABALHO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TO COMMEMORATE YOUR
-	GREAT VIRUS BUSTING
-	SKILL,HERE'S A GIFT!
+	PARA CELEBRAR SUAS
+	HABILIDADES NOTÁVEIS,
+	EIS AQUI UM PRESENTE!
 	"""
 	keyWait
 		any = false
@@ -776,7 +776,7 @@ script 55 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"500 Zennys"!!
 	"""
 	keyWait
@@ -786,33 +786,36 @@ script 55 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgRed
-	"CONGRATULATIONS!"
+	"MEUS PARABÉNS!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE ARE OTHER
-	MR.PROGS THAT ARE
-	DIFFERENT COLORS...
+	HÁ OUTROS PROGS DE
+	CORES DIFERENTES
+	ALÉM DE MIM...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU SHOULD TRY
-	LOOKING FOR THEM.
+	VOCÊ DEVIA TENTAR
+	ENCONTRÁ-LOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHERE ARE THEY?"
+	"""
+	"ONDE ELES ESTÃO",
+	VOCÊ PERGUNTA?
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MAYBE ONE IS IN
-	A COMP RELATED TO
-	WATER...
+	UM DELES PODE ESTAR
+	EM UM CIBERESPAÇO
+	RELACIONADO À ÁGUA...
 	"""
 	keyWait
 		any = false
@@ -823,16 +826,16 @@ script 56 mmbn6 {
 		mugshot = MrProgRed
 	msgOpen
 	"""
-	AMAZING!!
-	WELL DONE!!
+	INCRÍVEL!!
+	EXCELENTE TRABALHO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TO COMMEMORATE YOUR
-	GREAT VIRUS BUSTING
-	SKILL,HERE'S A GIFT!
+	PARA CELEBRAR SUAS
+	HABILIDADES NOTÁVEIS,
+	EIS AQUI UM PRESENTE!
 	"""
 	keyWait
 		any = false
@@ -847,8 +850,8 @@ script 56 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
-	"2 BugFrags"!!
+	 adquiriu:
+	"2 FragBugs"!!
 	"""
 	keyWait
 		any = false
@@ -857,33 +860,36 @@ script 56 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgRed
-	"CONGRATULATIONS!"
+	"MEUS PARABÉNS!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE ARE OTHER
-	MR.PROGS THAT ARE
-	DIFFERENT COLORS...
+	HÁ OUTROS PROGS DE
+	CORES DIFERENTES
+	ALÉM DE MIM...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU SHOULD TRY
-	LOOKING FOR THEM.
+	VOCÊ DEVIA TENTAR
+	ENCONTRÁ-LOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHERE ARE THEY?"
+	"""
+	"ONDE ELES ESTÃO",
+	VOCÊ PERGUNTA?
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MAYBE ONE IS IN
-	A COMP RELATED TO
-	WATER...
+	UM DELES PODE ESTAR
+	EM UM CIBERESPAÇO
+	RELACIONADO À ÁGUA...
 	"""
 	keyWait
 		any = false
@@ -896,82 +902,82 @@ script 57 mmbn6 {
 		mugshot = MrProgRed
 	msgOpen
 	"""
-	LET ME EXPLAIN THE
-	RULES.
+	PERMITA-ME EXPLICAR
+	AS REGRAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN FIGHT
-	AGAINST 2 VIRUSES
+	VOCÊ PODERÁ LUTAR
+	CONTRA DOIS VÍRUS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT YOU HAVE THE
-	DATA FOR...
+	CUJOS DADOS POSSUA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU MUST REDUCE AN
-	ENEMY VIRUS'
+	PARA VENCER, DEVE
+	REDUZIR A ENERGIA
+	DOS VÍRUS INIMIGOS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ENERGY TO ZERO
-	WITHIN THE TIME
-	LIMIT.
+	A ZERO DENTRO DO
+	LIMITE DE TEMPO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE IS ONE THING
-	TO REMEMBER WHEN
-	SETTING UP A BATTLE.
+	MAS LEMBRE-SE DE
+	UMA COISA ANTES DE
+	INICIAR UMA LUTA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE TOTAL SIZE OF
-	THE TWO VIRUSES YOU
+	O TAMANHO TOTAL DOS
+	DOIS VÍRUS QUE VOCÊ
+	ESCOLHER
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CHOOSE MUST NOT BE
-	MORE THAN 50 MB.
+	NÃO PODE PASSAR
+	DE 50 MB.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF IT IS OVER,YOU
-	WILL NOT BE ABLE TO
-	SET THE BATTLE.
+	SE PASSAR, VOCÊ
+	NÃO PODERÁ EXECUTAR
+	A ROTINA DE BATALHA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU CAN DELETE
-	ALL THE VIRUSES
-	WITH STYLE,
+	SE CONSEGUIR DELETAR
+	OS VÍRUS COM ESTILO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU WILL GET AN
-	AMAZING REWARD!
+	RECEBERÁ UMA
+	RECOMPENSA
+	MARAVILHOSA!
 	"""
 	keyWait
 		any = false

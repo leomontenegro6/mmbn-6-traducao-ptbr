@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,read your mail!"
+	"Lan, lê o e-mail!"
 	keyWait
 		any = false
 	end

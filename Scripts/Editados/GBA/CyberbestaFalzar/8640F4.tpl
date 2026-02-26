@@ -16,61 +16,59 @@ script 0 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Ahh,on a field
-	trip to the
-	courthouse I see.
+	Ahh, está fazendo uma
+	excursão pelo tribunal?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Look at the
-	tree inside this
-	courtroom.
+	Veja a árvore dentro
+	desta sala de audiências.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is called the
-	"JudgeTree".
+	Ela é a chamada
+	"Árvore Juíza".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course,it isn't
-	just a normal tree.
+	E, claro, não é
+	uma árvore normal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll automatically
-	make prudent,just
-	court decisions.
+	Ela automaticamente
+	chega a vereditos
+	justos e prudentes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is a milestone
-	of a machine.
+	É um verdadeiro
+	marco da tecnologia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In summary,here
-	there's no need
-	for a judge!
+	Em suma, não há por
+	que ter juízes aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We let the JudgeTree
-	handle everything!
+	Deixamos tudo nas
+	mãos... er, nos galhos
+	da Árvore Juíza!
 	"""
 	keyWait
 		any = false
@@ -81,53 +79,53 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Take a good look
-	at the tree inside
-	this courtroom.
+	Dê uma boa olhada na
+	árvore que há nesta
+	sala de audiências.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is called the
-	"JudgeTree".
+	Ela é a chamada
+	"Árvore Juíza".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course,it isn't
-	just a normal tree.
+	E, claro, não é
+	uma árvore normal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll automatically
-	make prudent,just
-	court decisions.
+	Ela automaticamente
+	chega a vereditos
+	justos e prudentes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is a milestone
-	of a machine.
+	É um verdadeiro
+	marco da tecnologia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In summary,here
-	there's no need
-	for a judge!
+	Em suma, não há por
+	que ter juízes aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We let the JudgeTree
-	handle everything!
+	Deixamos tudo nas
+	mãos... er, nos galhos
+	da Árvore Juíza!
 	"""
 	keyWait
 		any = false
@@ -144,84 +142,84 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Normal people are
-	prone to mistakes.
+	Pessoas normais
+	são propícias a
+	cometer erros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter how
-	experienced the
-	judge,
+	Por mais experiente
+	que o juiz seja,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there are times
-	when they may make
-	an unjust decision.
+	há momentos em que
+	ele precisa tomar
+	decisões injustas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Taking that into
-	consideration,
+	Levando isso
+	em consideração,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with the goal of
-	getting justice
-	every single time,
+	o objetivo de fazer com
+	que a justiça seja feita
+	100% das vezes
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we thought of how
-	we could improve
-	the system.
+	nos fez pensar no que
+	poderíamos fazer para
+	melhorar esse sistema.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our answer was very
-	simple.
+	E a resposta a que
+	chegamos foi bem simples:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If people are prone
-	to making mistakes,
+	se o ser humano é
+	propício a cometer erros,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then why not use
-	something other than
-	a human as a judge?
+	então por que não usar
+	de juiz uma coisa que
+	não seja humana?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The fruit of this
-	debate was the
+	E o "fruto" desse
+	debate foi o sistema
+	de justiça botânico,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	botanical justice
-	system,also known
-	as the "JudgeTree".
+	também conhecido como
+	a "Árvore Juíza".
 	"""
 	keyWait
 		any = false
@@ -232,84 +230,84 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Normal people are
-	prone to mistakes.
+	Pessoas normais
+	são propícias a
+	cometer erros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter how
-	experienced the
-	judge,
+	Por mais experiente
+	que o juiz seja,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there are times
-	when they may make
-	an unjust decision.
+	há momentos em que
+	ele precisa tomar
+	decisões injustas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Taking that into
-	consideration,
+	Levando isso
+	em consideração,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with the goal of
-	getting justice
-	every single time,
+	o objetivo de fazer com
+	que a justiça seja feita
+	100% das vezes
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we thought of how
-	we could improve
-	the system.
+	nos fez pensar no que
+	poderíamos fazer para
+	melhorar esse sistema.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our answer was very
-	simple.
+	E a resposta a que
+	chegamos foi bem simples:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If people are prone
-	to making mistakes,
+	se o ser humano é
+	propício a cometer erros,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then why not use
-	something other than
-	a human as a judge?
+	então por que não usar
+	de juiz uma coisa que
+	não seja humana?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The fruit of this
-	debate was the
+	E o "fruto" desse
+	debate foi o sistema
+	de justiça botânico,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	botanical justice
-	system,also known
-	as the "JudgeTree".
+	também conhecido como
+	a "Árvore Juíza".
 	"""
 	keyWait
 		any = false
@@ -326,47 +324,46 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	This JudgeTree is
-	actually a giant
-	tree which has been
+	A Árvore Juíza,
+	na verdade, é uma
+	árvore gigantesca
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	living in this exact
-	spot for hundreds of
-	years.
+	que cresce neste exato
+	lugar há séculos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We added some
-	cybernetics to make
+	Adicionamos a ela
+	alguns componentes
+	cibernéticos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it capable of
-	hearing a human's
-	voice.
+	para torná-la capaz de
+	ouvir a fala humana.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That made it the
-	perfect system of
-	justice.
+	Isso a transformou
+	no sistema judiciário
+	perfeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that is how the
-	JudgeTree was born.
+	E foi assim que nasceu
+	a Árvore Juíza.
 	"""
 	keyWait
 		any = false
@@ -377,47 +374,46 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	This JudgeTree is
-	actually a giant
-	tree which has been
+	A Árvore Juíza,
+	na verdade, é uma
+	árvore gigantesca
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	living in this exact
-	spot for hundreds of
-	years.
+	que cresce neste exato
+	lugar há séculos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We added some
-	cybernetics to make
+	Adicionamos a ela
+	alguns componentes
+	cibernéticos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it capable of
-	hearing a human's
-	voice.
+	para torná-la capaz de
+	ouvir a fala humana.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That made it the
-	perfect system of
-	justice.
+	Isso a transformou
+	no sistema judiciário
+	perfeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that is how the
-	JudgeTree was born.
+	E foi assim que nasceu
+	a Árvore Juíza.
 	"""
 	keyWait
 		any = false
@@ -434,47 +430,40 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Man
 	"""
-	This JudgeTree is
-	basically still a
-	simple plant.
+	A Árvore Juíza, em
+	sua essência, é uma
+	simples planta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We must still give
-	it water and
-	fertilizer.
+	Logo, requer água
+	e fertilizante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Actually,I am
-	in charge of making
+	... Na verdade, eu sou
+	o encarregado de manter
+	ela saudável.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sure the JudgeTree
-	stays healthy.
+	E hoje é o dia de
+	eu dar a ela a água
+	e o fertilizante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today I have to
-	give it water
-	and fertilizer.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'm so busy I
-	don't have any
-	free time at all!
+	Fico tão ocupado, que
+	não tenho nenhum tempo
+	livre!
 	"""
 	keyWait
 		any = false
@@ -484,8 +473,8 @@ script 6 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I've gotta run
-	to the basement!
+	Tenho que ir
+	correndo pro porão!
 	"""
 	keyWait
 		any = false
@@ -496,47 +485,40 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Man
 	"""
-	This JudgeTree is
-	basically still a
-	simple plant.
+	A Árvore Juíza, em
+	sua essência, é uma
+	simples planta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We must still give
-	it water and
-	fertilizer.
+	Logo, requer água
+	e fertilizante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Actually,I am
-	in charge of making
+	... Na verdade, eu sou
+	o encarregado de manter
+	ela saudável.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sure the JudgeTree
-	stays healthy.
+	E hoje é o dia de
+	eu dar a ela a água
+	e o fertilizante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today I have to
-	give it water
-	and fertilizer.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'm so busy I
-	don't have any
-	free time at all!
+	Fico tão ocupado, que
+	não tenho nenhum tempo
+	livre!
 	"""
 	keyWait
 		any = false
@@ -546,8 +528,8 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I've gotta run
-	to the basement!
+	Tenho que ir
+	correndo pro porão!
 	"""
 	keyWait
 		any = false
@@ -558,16 +540,16 @@ script 8 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I was watching the
-	trial!
+	Eu estava assistindo
+	ao julgamento!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nice testimony!
-	You did great for
-	being a young kid!
+	Mandou bem no depoimento!
+	Especialmente pra um
+	menino tão novo!
 	"""
 	keyWait
 		any = false
@@ -586,27 +568,27 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	msgOpen
-	"Ahhh,Lan..."
+	"Ahhh, Lan..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Mr.Prosecutor!!"
+	"Sr. Promotor!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Dad had no
-	reason to hack
-	anything!
+	O meu pai não tinha
+	motivo nenhum pra
+	hackear nada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's no Net
-	criminal...!
+	Ele não é um
+	netcriminoso...!
 	"""
 	keyWait
 		any = false
@@ -615,15 +597,14 @@ script 20 mmbn6 {
 		mugshot = ProsecutorIto
 	"""
 	Lan,
-	I know that you
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	don't want to
-	believe these
-	things...
+	sei que você não
+	quer acreditar em
+	uma coisa dessas...
 	"""
 	keyWait
 		any = false
@@ -631,9 +612,9 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Do you have any
-	proof my Dad did
-	it,sir?
+	O senhor tem alguma
+	prova de que o nosso
+	pai fez mesmo isso?
 	"""
 	keyWait
 		any = false
@@ -641,32 +622,31 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	"""
-	The JudgeTree is
-	proof enough.
+	A Árvore Juíza é prova
+	mais que suficiente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It said it was
-	hacked by Yuichiro
-	Hikari.
+	Ela disse ter
+	sido hackeada por
+	Yuichiro Hikari.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I see..."
+	"Hm..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProsecutorIto
 	"""
-	This is the
-	evidence we have on
-	this incident.
+	Eis as provas que
+	temos do incidente.
 	"""
 	keyWait
 		any = false
@@ -678,7 +658,7 @@ script 20 mmbn6 {
 		item = 12
 		amount = 1
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -691,17 +671,16 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	"""
-	The time of the
-	offense was
-	yesterday at 4 P.M.
+	O horário do ocorrido
+	foi ontem, às 16:00.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Hikari has no
-	alibi for that
-	time yesterday.
+	O Sr. Hikari não tem
+	nenhum álibi pra esse
+	período do dia.
 	"""
 	keyWait
 		any = false
@@ -710,7 +689,7 @@ script 20 mmbn6 {
 		mugshot = Lan
 	"""
 	MegaMan...
-	What's an alibi...?
+	O que é que é "álibi"...?
 	"""
 	keyWait
 		any = false
@@ -718,54 +697,54 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	An alibi is proof
-	you didn't commit
-	the crime...
+	Um álibi é uma
+	comprovação de que o
+	crime não foi cometido...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Like...if we could
-	prove that Dad was
-	doing something
+	Tipo... se a gente puder
+	provar que o papai tava
+	fazendo uma coisa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	totally different
-	at that time,we can
-	prove he's innocent.
+	completamente diferente
+	na hora, podemos provar
+	a inocência dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we can't prove
-	what Dad was doing
-	at 4 P.M. yesterday.
+	Mas como provar o que
+	ele tava fazendo ontem
+	às 16:00...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Wait,hold on."
+	"... Pera aí."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We saw Dad last
-	evening,MegaMan!
+	A gente VIU o papai
+	ontem à tarde, MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We talked to him
-	in front of the
-	station,remember!?
+	Falamos com ele na
+	frente da estação,
+	lembra?!
 	"""
 	keyWait
 		any = false
@@ -773,9 +752,8 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah! Good job
-	remembering that
-	one Lan!!
+	Verdade!
+	Bem lembrado, Lan!!
 	"""
 	keyWait
 		any = false
@@ -783,9 +761,9 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	That's proof my Dad
-	isn't a criminal,
-	right,Mr.Prosecutor?
+	Isso vale de prova que
+	ele não é criminoso, né,
+	Sr. Promotor?
 	"""
 	keyWait
 		any = false
@@ -793,25 +771,25 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	"""
-	Unfortunately,
-	your testimony is
-	too vague...
+	Infelizmente, o seu
+	depoimento não é
+	concreto o bastante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to have
-	a concrete,air_tight
-	alibi as proof.
+	Ele precisa de um
+	álibi forte e inegável
+	como prova.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to prove
-	what EXACTLY he was
-	doing at 4 P.M.
+	Você tem que provar
+	o que, EXATAMENTE,
+	ele fez às 16:00.
 	"""
 	keyWait
 		any = false
@@ -819,68 +797,66 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Can we really
-	prove his alibi?
+	Droga... Não dá pra
+	provar o álibi dele?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is there anything
-	we can use to
-	prove it?
+	Será que não tem nada
+	que a gente possa usar...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is no time
-	to doubt myself!
+	... Não, não é hora
+	de ficar com dúvida!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Mr.Prosecutor!"
+	"Sr. Promotor!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're going to go
-	find something to
-	prove Dad's alibi!
+	A gente vai achar
+	uma coisa pra provar
+	o álibi do papai!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We have to!"
+	"Custe o que custar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProsecutorIto
-	"I see..."
+	"Entendo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I'll see if
-	we can't delay
-	his punishment...
+	Bem, verei se consigo
+	atrasar a sentença dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Please do that!"
+	"Por favor!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan... I was just
-	thinking...
+	Lan... Eu tava
+	aqui pensando...
 	"""
 	keyWait
 		any = false
@@ -888,8 +864,7 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What is it
-	MegaMan?
+	Que foi, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -897,85 +872,75 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	So I was thinking
-	we should do
-	something like...
+	Tipo: se a gente
+	conseguisse achar o
+	verdadeiro criminoso
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we find where the
-	real criminal is,
+	e obrigasse ele a
+	provar que o papai
+	é mesmo inocente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and get him to
-	prove Dad's really
-	innocent...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	For instance,
-	that guy in the
-	parka yesterday...
+	Como aquele cara
+	no tribunal ontem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yeah,that guy!"
+	"Ah, verdade!\nAquele cara!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That guy did say
-	something weird
-	about the JudgeTree!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I mean,what is that
-	guy's problem!?
+	O que falou um negócio
+	esquisito aí sobre a
+	Árvore Juíza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyways,we have to
-	prove Dad's alibi
-	quick...
+	Qual será que era
+	a dele, hein?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then after that,
-	we'll go snag
-	that guy!!
+	Enfim, a gente tem
+	que provar logo o
+	álibi do papai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright! Let's go
-	find evidence that
-	proves Dad's alibi!
+	Depois disso, a gente
+	pega aquele sujeito!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go to Central
-	Town since we saw
-	him there yesterday!
+	Beleza! Bora achar
+	uma prova do álibi!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Como a gente viu ele
+	no Bairro Central
+	ontem, vamos pra lá!
 	"""
 	soundFadeInBGM
 		track = 11
@@ -989,16 +954,15 @@ script 21 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	I'll ask them
-	to delay the
-	punishment!
+	Tentarei pedir que
+	adiem a sentença!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry and prove
-	his alibi,Lan!
+	Rápido, prove o álibi
+	dele sem demora, Lan!
 	"""
 	keyWait
 		any = false
@@ -1007,8 +971,9 @@ script 21 mmbn6 {
 script 22 mmbn6 {
 	msgOpen
 	"""
-	NO UNAUTHORIZED
-	PERSONNEL!
+	PROIBIDA A ENTRADA
+	DE PESSOAL
+	NÃO-AUTORIZADO!
 	"""
 	keyWait
 		any = false

@@ -6,32 +6,30 @@ script 0 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	OK,looks like
-	EVERYBODY'S here!
+	OK, parece que tá
+	TODO MUNDO aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's GET this
-	VIRUS BUSTING class
-	STARTED!
+	Boa COMEÇAR esta AULA
+	de DELEÇÃO DE VÍRUS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In this BOX are
-	VIRUSES that are
-	AROUND your LEVEL.
+	Nesta CAIXA aqui, tem
+	VÍRUS mais ou menos
+	do NÍVEL de VOCÊS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,WHO'S got the
-	GUTS to give THESE
-	a GO?
+	E aí, QUEM tem CORAGEM
+	pra ENCARAR ELES?
 	"""
 	keyWait
 		any = false
@@ -43,7 +41,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviMick
 	msgOpen
-	"Hey,Teeeeeach!"
+	"Ei, professoooor!"
 	keyWait
 		any = false
 	clearMsg
@@ -55,16 +53,15 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Oh,Mick's NAVI! You
-	RAISING your HAND!?
-	THAT'S a RARE sight!
+	Ah, o NAVI do MICK!
+	Você LEVANTOU a MÃO?!
+	Mas que RARO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,you WANT to
-	give IT a TRY?
+	Então, vai ENCARAR?
 	"""
 	keyWait
 		any = false
@@ -77,16 +74,15 @@ script 3 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	Nah! What I was
-	going to say is
+	Não, não! Eu só ia
+	sugerir pro novato
+	mostrar pra gente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	why don't we let the
-	new guy show us what
-	he's made of!
+	do que ele é capaz!
 	"""
 	keyWait
 		any = false
@@ -97,15 +93,15 @@ script 4 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	You're good at
-	NetBattling,right?
+	Cê se garante
+	na NetLuta, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,show us your
-	real power!
+	Então mostra pra
+	gente o seu poder!
 	"""
 	keyWait
 		any = false
@@ -118,13 +114,13 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	T_This is kinda
-	sudden...
+	N-nossa,
+	é tão repentino...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Well,Lan...?"
+	"Bom, Lan...?"
 	keyWait
 		any = false
 	clearMsg
@@ -136,17 +132,17 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Fine! If he wants to
-	see so badly,let's
-	show him!
+	Beleza! Já que ele
+	quer tanto ver, bora
+	mostrar pra ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Besides,we're in
-	class. The virus
-	won't be that hard.
+	Além disso, é uma
+	aula. Os vírus nem
+	devem ser tão fortes.
 	"""
 	keyWait
 		any = false
@@ -160,7 +156,7 @@ script 7 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"*grin*"
+	"He he..."
 	keyWait
 		any = false
 	clearMsg
@@ -174,8 +170,8 @@ script 8 mmbn6 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Alright,I'll give it
-	a shot,sir!
+	Certo, eu quero
+	tentar, senhor!
 	"""
 	keyWait
 		any = false
@@ -188,16 +184,17 @@ script 9 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Now we're going to
-	SEE some SKILLS!
+	Agora, sim, nós
+	vamos VER habilidades
+	de VERDADE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BACK UP,everyone.
-	It's gonna get
-	DANGEROUS!
+	PRA TRÁS, crianças.
+	O negócio vai ficar
+	PERIGOSO!
 	"""
 	keyWait
 		any = false
@@ -210,7 +207,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Are you READY!?"
+	"Você tá PRONTO?!"
 	keyWait
 		any = false
 	clearMsg
@@ -221,7 +218,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yes!"
+	"Tô!"
 	keyWait
 		any = false
 	clearMsg
@@ -233,7 +230,7 @@ script 12 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Here we GO!
+	Então VAMOS LÁ!
 	Mettaur!!
 	"""
 	keyWait
@@ -246,20 +243,20 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"W_WHAT the!?"
+	"M-mas o QUÊ?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm SURE I called
-	a METTAUR!!
+	Eu tenho CERTEZA de que
+	trouxe um METTAUR!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not GOOD. I've gotta
-	STOP this...
+	Essa NÃO!
+	Tenho que PARAR isso...
 	"""
 	keyWait
 		any = false
@@ -272,16 +269,15 @@ script 14 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	What's wrong?
-	Hurry up and show us
-	what you're made of.
+	Que foi?
+	Vai lá, mostra pra
+	gente essa força aí.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Or are you
-	chickening out?
+	Ou cê vai ser amarelão?
 	"""
 	keyWait
 		any = false
@@ -294,15 +290,15 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Who's chickening
-	out!?
+	"Amarelão" é o teu olho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's do it,MegaMan!
-	Battle routine,set!
+	Vamos nessa, MegaMan!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -314,7 +310,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end

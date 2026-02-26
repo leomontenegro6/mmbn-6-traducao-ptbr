@@ -16,86 +16,84 @@ script 0 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Lalalala!
-	Lalalalalala!
+	Lá lá lá lá!
+	Lá lá lá lá lá lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hello!! You came
-	to take care of
-	my request,right?
+	Olá!! Veio ouvir o
+	meu pedido, não foi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm the President
-	of the Cyber Academy
-	Cyber Jazz Band!!
+	Eu sou o presidente da
+	Cyber Banda de Jazz
+	da Escola Saibher!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lalalalala!"
+	"Lá lá lá lá lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Jazz Band is
-	going to be in a
-	recital soon!
+	A Banda de Jazz vai
+	fazer um recital
+	muito em breve!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lalalalalala!"
+	"Lá lá lá lá lá lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,we have a
-	little problem...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	There is only one
-	member of the Jazz
-	Band!!
+	Porém, temos um
+	probleminha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's just me...
-	OONNNLLLYYY MEEEEEE!
+	A Banda de Jazz
+	só tem um membro!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I was thinking...
-	Instead of Navis,
-	why not use viruses!
+	Sou só eu...
+	SÓÓÓÓÓÓÓ EEEEEEEUUU!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then Lalalala to the
-	top with virus Jazz
-	Band members!
+	Então, eu pensei aqui...
+	Em vez de Navis, por
+	que não usar vírus?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I want you to get
-	some chips with real
-	musical talent!
+	E, aí, seguir lá lá lá lá
+	pro topo com membros
+	vírus na Banda de Jazz!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Logo, eu quero que você
+	me arranje uns chips com
+	genuíno talento musical!
 	"""
 	keyWait
 		any = false
@@ -120,7 +118,7 @@ script 0 mmbn6 {
 		buffer = 0
 		code = S
 	"""
-	"
+	" e
 	"
 	"""
 	printChip
@@ -130,22 +128,22 @@ script 0 mmbn6 {
 	printCode
 		buffer = 0
 		code = T
-	"\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I can get those
-	3 chips,I can make
-	beautiful music!
+	Com esses três chips,
+	eu vou poder fazer
+	melodias maravilhosas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please get them!
-	For the Jazz Band!
-	Lalalalala!
+	Por favor, traga-os!
+	Pela Banda de Jazz!
+	Lá lá lá lá lá!
 	"""
 	keyWait
 		any = false
@@ -156,45 +154,43 @@ script 1 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Lalalalala!
-	Here to check your
-	notes?
+	Lá lá lá lá lá!
+	Veio revisar os detalhes?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Jazz Band is
-	going to be in a
-	recital soon,but
+	A Banda de Jazz
+	fará um recital
+	muito em breve,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Jazz Band only
-	has one member...
-	ME!
+	mas a banda só tem
+	um membro... EU!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lalalalala!"
+	"Lá lá lá lá lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I was thinking...
-	I'll use viruses
-	instead of Navis!
+	Então, eu pensei aqui...
+	Em vez de Navis, por
+	que não usar vírus?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I want you to get
-	some chips with real
-	musical talent!
+	Logo, quero que você me
+	arranje uns chips com
+	genuíno talento musical!
 	"""
 	keyWait
 		any = false
@@ -219,7 +215,7 @@ script 1 mmbn6 {
 		buffer = 0
 		code = S
 	"""
-	"
+	" e
 	"
 	"""
 	printChip
@@ -229,22 +225,22 @@ script 1 mmbn6 {
 	printCode
 		buffer = 0
 		code = T
-	"\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I can get those
-	3 chips,I can make
-	beautiful music!
+	Com esses três chips,
+	eu vou poder fazer
+	melodias maravilhosas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please get them!
-	For the Jazz Band!
-	Lalalalala!
+	Por favor, traga-os!
+	Pela Banda de Jazz!
+	Lá lá lá lá lá!
 	"""
 	keyWait
 		any = false
@@ -269,29 +265,29 @@ script 2 mmbn6 {
 		code = T
 		amount = 1
 	"""
-	Lalalala!!
-	Find them yet?
+	Lá lá lá lá!!
+	Já os encontrou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lalalal...a!?
-	Let's set up!
+	Lá lá l... á?!
+	Bora montar tudo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Woohoo! We've got
-	an ensemble! Lalala!
+	Urrú! Isso sim é um
+	conjunto! Lá lá lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Here is your
-	reward!
+	... Aqui sua
+	recompensa!
 	"""
 	keyWait
 		any = false
@@ -304,7 +300,7 @@ script 2 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -317,8 +313,8 @@ script 2 mmbn6 {
 	playerResetObject
 	clearMsg
 	"""
-	Regular memory
-	increased by
+	Memória padrão
+	aumentada em
 	2 MB!!!
 	"""
 	keyWait
@@ -327,29 +323,29 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Now time to win
-	top prize at the
+	Agora, hora de levar
+	a medalha de ouro no
 	recital!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lalalalala!
-	Lalalalalala!
+	Lá lá lá lá lá!
+	Lá lá lá lá lá lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -361,16 +357,16 @@ script 3 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Now time to win
-	top prize at the
+	Agora, hora de levar
+	a medalha de ouro no
 	recital!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lalalalala!
-	Lalalalalala!
+	Lá lá lá lá lá!
+	Lá lá lá lá lá lá!
 	"""
 	keyWait
 		any = false
@@ -409,31 +405,30 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE CLASS
-	6_2 COMP.
+	ESTE É O COMPUTADOR
+	DA SALA 6-2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT IS USED FOR
-	VIRUS BUSTING
-	CLASS.
+	ELE É USADO NA AULA
+	DE DELEÇÃO DE VÍRUS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU ASK ME,THE
-	STUDENTS IN 6_2 ARE
-	A HAIR MORE
+	NA MINHA OPINIÃO
+	PESSOAL, OS ALUNOS
+	DA 6-2 SÃO UM
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	INCREDIBLE THAN THE
-	6_1'S...
+	POUQUINHO MAIS CAPAZES
+	QUE OS DA 6-1...
 	"""
 	keyWait
 		any = false
@@ -443,11 +438,11 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"This is the virus!"
+	"É o vírus!"
 	keyWait
 		any = false
 	clearMsg
-	"Lan,let's go!!"
+	"Lan, vamos lá!!"
 	keyWait
 		any = false
 	clearMsg
@@ -455,14 +450,15 @@ script 20 mmbn6 {
 		mugshot = Lan
 	"""
 	OK!
-	Battle routine,set!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -475,7 +471,7 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,let's do it!"
+	"Lan, vamos nessa!"
 	keyWait
 		any = false
 	clearMsg
@@ -483,14 +479,15 @@ script 21 mmbn6 {
 		mugshot = Lan
 	"""
 	OK!
-	Battle routine,set!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -503,22 +500,23 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,let's do it!"
+	"Lan, vamos nessa!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -531,22 +529,23 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,let's do it!"
+	"Lan, vamos nessa!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah!
-	Battle rountine,set!
+	É!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -575,20 +574,19 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it!"
+	"Conseguimos!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We deleted all
-	the viruses!
+	Deletamos todos os vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get back to
-	the requestor!
+	Vamos contar lá
+	pra solicitante!
 	"""
 	keyWait
 		any = false
@@ -599,9 +597,8 @@ script 25 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go take out
-	the rest of the
-	viruses!
+	Vamos eliminar o
+	resto dos vírus!
 	"""
 	keyWait
 		any = false

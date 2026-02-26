@@ -5,11 +5,11 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Go!"
+	"Vai!"
 	keyWait
 		any = false
 	clearMsg
-	"There!"
+	"Ali!"
 	keyWait
 		any = false
 	clearMsg
@@ -21,9 +21,9 @@ script 1 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Look!
-	Right there!
-	What are you doing!?
+	Olha!
+	Tá bem ali!
+	O que tá fazendo?!
 	"""
 	keyWait
 		any = false
@@ -35,7 +35,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Guts Punch!!"
+	"GutsPunch!!"
 	keyWait
 		any = false
 	clearMsg
@@ -47,13 +47,13 @@ script 3 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Back at you!
+	Toma de volta!
 	Rflectr!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"No! I missed!"
+	"Droga! Errei o tempo!"
 	keyWait
 		any = false
 	clearMsg
@@ -64,13 +64,13 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"OK,that's enough!"
+	"Tá bom, já chega!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The winner is...
-	Well,it's a draw!
+	O vencedor foi...
+	Bom, empatou!
 	"""
 	keyWait
 		any = false
@@ -83,24 +83,24 @@ script 5 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	A draw...?
-	Heh,not bad!
+	Empate...?
+	Rê, nada mal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The only person in
-	ACDC Town that could
-	beat GutsMan was Lan
+	O único no Bairro ACDC
+	que conseguia vencer o
+	GutsMan era o Lan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so it's been a while
-	since I've fought a
-	guy with guts!
+	então faz tempo que
+	eu não luto com um
+	cara com garra!
 	"""
 	keyWait
 		any = false
@@ -112,13 +112,13 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Yeah,me too!"
+	"É, eu também!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The name's Mick!
-	Nice to meet you.
+	Eu sou o Mick!
+	Prazer, cara.
 	"""
 	keyWait
 		any = false
@@ -131,9 +131,9 @@ script 7 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'm Dex!
-	Nice to meet you,
-	Mick!
+	E eu, o Dex!
+	Muito prazer em te
+	conhecer, Mick!
 	"""
 	keyWait
 		any = false
@@ -146,16 +146,16 @@ script 8 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Well,now that the
-	NetBattlers have
-	finished,
+	Bom, agora que os
+	"grandes NetLutadores"
+	já se apresentaram...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm Yai Ayanokoji.
-	Nice to meet you.
+	Eu sou Yai Ayanokoji.
+	Muito prazer.
 	"""
 	keyWait
 		any = false
@@ -167,14 +167,13 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"I'm Mayl."
+	"Mayl Sakurai."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a pleasure to
-	finally meet the
-	both of you.
+	É muito legal finalmente
+	conhecer vocês dois.
 	"""
 	keyWait
 		any = false
@@ -188,8 +187,8 @@ script 10 mmbn6 {
 	msgOpen
 	"""
 	Ah! Ayanokoji...
-	You mean the really
-	rich Ayanokoji's?
+	Quer dizer, AQUELES
+	Ayanokoji? Os ricaços?!
 	"""
 	keyWait
 		any = false
@@ -202,14 +201,14 @@ script 11 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You've heard of my
-	family? You know a
-	lot of things,then.
+	Ah, já ouviu falar da
+	minha família? Você é
+	bem entendido.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's your name?"
+	"Qual é o seu nome?"
 	keyWait
 		any = false
 	clearMsg
@@ -220,32 +219,32 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"I'm...I'm Tab!"
+	"T-Tab... Tab Aster!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wow,Lan sure has
-	some neat friends...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Strong NetBattlers,
-	cute girls...
+	Nossa, o Lan tem uns
+	amigos incríveis...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and even famous rich
-	people!
+	Um NetLutador forte,
+	uma garota linda...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What a variety!"
+	"""
+	e até uma menina
+	rica e famosa!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Que variedade!"
 	keyWait
 		any = false
 	clearMsg
@@ -257,8 +256,9 @@ script 13 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Strong NetBattler...
-	I like you already!
+	"NetLutador forte"...
+	Olha, gostei MUITO de
+	você!
 	"""
 	keyWait
 		any = false
@@ -271,9 +271,9 @@ script 14 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Cute girls...?
-	We're just good
-	friends...
+	"Garota linda"...?
+	E-eu e ele somos
+	só amigos...
 	"""
 	keyWait
 		any = false
@@ -286,15 +286,15 @@ script 15 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Hey,what's with Lan?
-	He's still not here?
+	Aliás, o que há com ele,
+	hein?! Ainda não chegou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Without him,we can't
-	get in,right?
+	Sem ele, não dá pra
+	gente entrar, né?
 	"""
 	keyWait
 		any = false
@@ -305,7 +305,7 @@ script 15 mmbn6 {
 script 16 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Sorry,everyone!!"
+	"Foi mal, gente!!"
 	keyWait
 		any = false
 	end
@@ -315,17 +315,16 @@ script 17 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sorry I'm late!
-	I bumped into Iris
-	on the way here.
+	Desculpa o atraso!
+	Eu esbarrei na Iris
+	no caminho pra cá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,did you guys
-	introduce yourselves
-	already?
+	Ah, vocês já se
+	apresentaram?
 	"""
 	keyWait
 		any = false
@@ -338,13 +337,13 @@ script 18 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Yeah. Um,Mick and
-	Tab,right?
+	Aham.
+	Er, Mick e Tab, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...and...um..."
+	"... E... hum..."
 	keyWait
 		any = false
 	clearMsg
@@ -355,7 +354,7 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	msgOpen
-	"My name's Iris..."
+	"O meu nome é Iris..."
 	keyWait
 		any = false
 	clearMsg
@@ -367,8 +366,8 @@ script 20 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I'm Mayl,nice to
-	meet you!
+	Eu sou a Mayl.
+	Muito prazer!
 	"""
 	keyWait
 		any = false
@@ -379,16 +378,15 @@ script 21 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'm Dex! Nice to
-	meet you!
+	E eu sou o Dex!
+	Prazer aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm the strongest
-	NetBattler in ACDC
-	Town!
+	Eu sou o NetLutador mais
+	forte do Bairro ACDC!
 	"""
 	keyWait
 		any = false
@@ -401,17 +399,17 @@ script 22 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You're really
-	pretty...and your
-	hair clips are cute!
+	Nossa, você é tão linda...
+	Essas presilhas são um
+	amor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm Yai Ayanokoji,
-	but you can call me
-	Yai.
+	Eu sou Yai Ayanokoji,
+	mas pode me chamar
+	só de "Yai".
 	"""
 	keyWait
 		any = false
@@ -424,8 +422,8 @@ script 23 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	N_Nice to meet
-	you all...
+	É-é um prazer conhecer
+	vocês todos...
 	"""
 	keyWait
 		any = false
@@ -438,9 +436,8 @@ script 24 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright,so now
-	everyone knows each
-	other!
+	Legal. Então, agora,
+	todo mundo se conhece!
 	"""
 	keyWait
 		any = false
@@ -451,8 +448,7 @@ script 25 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to
-	the Expo!
+	Bora lá pra Exposição!
 	"""
 	keyWait
 		any = false
@@ -463,7 +459,7 @@ script 25 mmbn6 {
 script 26 mmbn6 {
 	mugshotHide
 	msgOpen
-	"OK!!"
+	"É!!"
 	keyWait
 		any = false
 	end

@@ -6,16 +6,15 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright!
-	The Aquarium's back
-	to normal!
+	Beleza!
+	O Aquário voltou
+	ao normal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you see that,
-	Blackbeard!?
+	Viu só, Barba-Negra?!
 	"""
 	keyWait
 		any = false
@@ -36,7 +35,7 @@ script 2 mmbn6 {
 	msgOpen
 	soundPlayBGM
 		track = 12
-	"He... He's gone!"
+	"Ele... Ele sumiu!"
 	keyWait
 		any = false
 	end
@@ -45,7 +44,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Where did he...?"
+	"Pra onde ele...?"
 	keyWait
 		any = false
 	clearMsg
@@ -56,13 +55,12 @@ script 4 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	Wh_What the heck
-	do you want!?
+	Q-que é que cê quer?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Waaah!!"
+	"Aaaugh!!"
 	keyWait
 		any = false
 	end
@@ -71,13 +69,13 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That was Mick!"
+	"É a voz do Mick!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't tell me...
-	N_No!!
+	Não vai me dizer que...
+	N-não!!
 	"""
 	keyWait
 		any = false

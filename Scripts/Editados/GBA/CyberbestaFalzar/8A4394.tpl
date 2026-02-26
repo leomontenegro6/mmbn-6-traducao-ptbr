@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What was with that?
-	Where'd that virus
-	come from...?
+	Mas o que foi isso?
+	De onde que saíram
+	esses vírus...?
 	"""
 	keyWait
 		any = false
@@ -21,25 +21,24 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Nothing was strange
-	at first...
-	but when I started
+	Tava tudo normal
+	de início... mas aí,
+	quando eu comecei a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	looking for the
-	recorded data from
-	4 o'clock yesterday,
+	procurar pelos dados
+	de gravação das 16:00
+	de ontem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that virus popped
-	out and started
-	to attack me!
+	esses vírus surgiram
+	do nada e me atacaram!
 	"""
 	keyWait
 		any = false
@@ -52,8 +51,8 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What does
-	that mean...?
+	Mas o que isso
+	quer dizer...?
 	"""
 	keyWait
 		any = false
@@ -66,15 +65,15 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... It was probably
-	a trap.
+	... Que, provavelmente,
+	era uma armadilha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But anyway,about
-	that evidence...
+	Mas, enfim,
+	sobre a prova...
 	"""
 	keyWait
 		any = false
@@ -85,9 +84,8 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The data from around
-	4 o'clock yesterday
-	is gone...
+	Os dados de ontem por
+	volta das 16:00 sumiram...
 	"""
 	keyWait
 		any = false
@@ -99,20 +97,18 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Gone!?"
+	"Sumiram?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's that supposed
-	to mean!?
+	Mas como assim?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Who in the
-	world!?
+	... Quem apagou eles?!
 	"""
 	keyWait
 		any = false
@@ -125,54 +121,53 @@ script 6 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... It was probably
-	the real culprit.
+	... Provavelmente,
+	o verdadeiro culpado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The real criminal is
-	probably trying to
-	frame Dad!
+	O verdadeiro criminoso
+	deve estar tentando
+	incriminar o papai!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... That's gotta
-	be it!
+	Só pode ser!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If there was data of
-	Dad in this class_
-	room at the time of
+	Se tinham dados do papai
+	nesta sala de aula no
+	horário do crime,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the crime,then he
-	couldn't be the real
-	culprit.
+	então não haveria
+	como ele ser o
+	verdadeiro culpado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why the
-	data is missing!
+	É por isso que os
+	dados não estão aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that virus was
-	to get rid of anyone
-	who realized this!
+	E aqueles vírus eram
+	pra se livrar de quem
+	descobrisse isso!
 	"""
 	keyWait
 		any = false
@@ -185,16 +180,16 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... I think you're
-	right!
+	... Acho que você
+	tem toda a razão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you think the guy
-	in court yesterday
-	is the real culprit?
+	Cê acha que o cara no
+	tribunal de ontem é o
+	verdadeiro culpado?
 	"""
 	keyWait
 		any = false
@@ -207,17 +202,16 @@ script 8 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,we shouldn't
-	jump to conclusions,
-	but the one piece of
+	Bom, não devemos tirar
+	conclusões precipitadas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	evidence that can
-	back up Dad's alibi
-	is gone...
+	Mas a única prova que
+	poderia embasar o álibi
+	do papai se foi...
 	"""
 	keyWait
 		any = false
@@ -230,15 +224,14 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... We're back
-	to square one,
+	... A gente tá de
+	volta à estaca zero.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and we're almost
-	out of time!
+	E quase sem tempo!
 	"""
 	keyWait
 		any = false
@@ -248,7 +241,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... Huh?"
+	"... Hã?"
 	keyWait
 		any = false
 	end
@@ -258,16 +251,14 @@ script 11 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IS SOMETHING THE
-	MATTER?
+	ALGUM PROBLEMA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I AM THE PROGRAM OF
-	THIS SECURITY
-	CAMERA.
+	EU SOU O PROG DESTA
+	CÂMERA DE SEGURANÇA.
 	"""
 	keyWait
 		any = false
@@ -280,9 +271,9 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The data from around
-	4 o'clock yesterday
-	has vanished.
+	Os dados de ontem,
+	de por volta das 16:00,
+	desapareceram.
 	"""
 	keyWait
 		any = false
@@ -295,8 +286,8 @@ script 13 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT!?
-	ARE YOU SERIOUS!?
+	O QUÊ?!
+	ESTÁ FALANDO SÉRIO?!
 	"""
 	keyWait
 		any = false
@@ -309,17 +300,17 @@ script 14 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We think whoever
-	stole the data is
-	the real culprit.
+	Acreditamos que quem
+	tiver roubado os dados
+	seja o verdadeiro culpado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You wouldn't know
-	anything about this,
-	would you?
+	Você não saberia
+	alguma coisa sobre
+	isso, saberia?
 	"""
 	keyWait
 		any = false
@@ -331,26 +322,25 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"... MAYBE..."
+	"... TALVEZ..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AT AROUND 10 P.M.
-	LAST NIGHT...
+	POR VOLTA DAS
+	22:00 DE ONTEM...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE WAS A STRANGE
-	NAVI THAT WAS
-	POKING AROUND...
+	UM NAVI ESTRANHO
+	XERETOU POR AQUI...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"MAYBE THAT NAVI..."
+	"TALVEZ ELE..."
 	keyWait
 		any = false
 	clearMsg
@@ -362,8 +352,7 @@ script 16 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What did that Navi
-	look like!?
+	Como era o Navi?!
 	"""
 	keyWait
 		any = false
@@ -376,15 +365,15 @@ script 17 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	... UM,WELL,HE WAS
-	PRETTY TALL...
+	... HUM, BEM, ELE
+	ERA BEM ALTO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DON'T REMEMBER
-	ANYTHING ELSE...
+	MAS NÃO ME LEMBRO
+	DE MAIS NADA...
 	"""
 	keyWait
 		any = false
@@ -396,13 +385,12 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Pretty tall..."
+	"Bem alto..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That doesn't tell us
-	very much.
+	Isso não diz muita coisa.
 	"""
 	keyWait
 		any = false
@@ -416,22 +404,16 @@ script 19 mmbn6 {
 	msgOpen
 	"""
 	MegaMan!
-	If that Navi was
-	here,
+	Se esse Navi
+	esteve aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then maybe that
-	Navi's operator
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	was caught on film
-	by this camera.
+	então talvez o operador
+	dele tenha sido filmado
+	por esta câmera!
 	"""
 	keyWait
 		any = false
@@ -443,44 +425,40 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... No good,Lan."
+	"... Não, Lan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everything after 4
-	P.M. yesterday has
-	been erased.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	According to
-	Mr.Prog,
+	Tudo depois das 16:00
+	de ontem foi apagado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the culprit came to
-	jack into the camera
-	at night.
+	De acordo com o Prog,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And then erased all
-	traces that they
-	were ever here.
+	o culpado se conectou
+	na câmera à noite.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This person is one
-	sneaky rascal...
+	Daí, apagou todas
+	as suas "pegadas",
+	por assim dizer.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Sujeito sorrateiro, ele...
 	"""
 	keyWait
 		any = false
@@ -492,7 +470,7 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... I see."
+	"... Sei."
 	keyWait
 		any = false
 	clearMsg
@@ -503,22 +481,21 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"... UM,EXCUSE ME..."
+	"... ER, COM LICENÇA..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DON'T KNOW WHY YOU
-	NEED DATA FROM
-	YESTERDAY,BUT...
+	EU NÃO SEI POR QUE
+	VOCÊ PRECISA DOS DADOS
+	DE ONTEM, MAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE DATA
-	FROM THE DAY BEFORE
-	YESTERDAY?
+	ACEITARIA DADOS DO
+	DIA ANTES DE ONTEM?
 	"""
 	keyWait
 		any = false
@@ -531,17 +508,17 @@ script 23 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm sorry,but we
-	don't need data from
-	the day before.
+	Desculpa, mas os dados
+	do dia anterior não
+	ajudariam em nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We really need to
-	see data from
-	yesterday.
+	A gente precisa
+	muito mesmo dos
+	dados de ontem.
 	"""
 	keyWait
 		any = false
@@ -553,14 +530,14 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"OH,I SEE..."
+	"AH, ENTENDO..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT IS OLD DATA,BUT
-	THERE WAS SOMETHING
-	UNUSUAL IN IT.
+	É QUE, APESAR DE SEREM
+	DADOS VELHOS, HAVIA
+	ALGO INCOMUM NELES.
 	"""
 	keyWait
 		any = false
@@ -573,8 +550,7 @@ script 25 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Something
-	unusual...?
+	Algo incomum...?
 	"""
 	keyWait
 		any = false

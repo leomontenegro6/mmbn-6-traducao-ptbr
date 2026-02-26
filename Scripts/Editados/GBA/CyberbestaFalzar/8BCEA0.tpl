@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Where am I?"
+	"... Onde é que eu tô?"
 	keyWait
 		any = false
 	end
@@ -14,7 +14,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Waaa!!"
+	"Aaaah!!"
 	keyWait
 		any = false
 	clearMsg
@@ -25,8 +25,8 @@ script 2 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	Someone's here!
-	Hurry up!!
+	Tem alguém ali!
+	Depressa!!
 	"""
 	keyWait
 		any = false
@@ -36,7 +36,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah! You guys!"
+	"Ah! Vocês!"
 	keyWait
 		any = false
 	end
@@ -45,7 +45,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Yuika
 	msgOpen
-	"Eek! Lan Hikari!"
+	"Ain! Lan Hikari!"
 	keyWait
 		any = false
 	end
@@ -55,9 +55,8 @@ script 5 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Hurry up,Ito!!
-	We're going to go
-	on ahead!!
+	Rápido, Ito!!
+	A gente vai sem você!!
 	"""
 	keyWait
 		any = false
@@ -68,14 +67,13 @@ script 6 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	Please wait a
-	second! I'll be
-	right there!
+	Por favor, esperem!
+	Já chego aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... OK!"
+	"... Pronto!"
 	keyWait
 		any = false
 	end
@@ -85,16 +83,15 @@ script 7 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	*huff,huff...*
-	Ah,I'm worn out...
+	Uff, uff...
+	Ah, estou exausto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	*sigh*
-	OK,everything is
-	set. Let's go.
+	Arh...
+	OK, tudo pronto. Vamos.
 	"""
 	keyWait
 		any = false
@@ -104,7 +101,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wait!!"
+	"Esperem!!"
 	keyWait
 		any = false
 	end
@@ -114,8 +111,8 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can walk on these,
-	right...?
+	Dá pra eu andar
+	nisso, né...?
 	"""
 	keyWait
 		any = false
@@ -125,7 +122,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	msgOpen
-	"Sorry,not any more!"
+	"Não mais!"
 	keyWait
 		any = false
 	end
@@ -134,7 +131,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	msgOpen
-	"Switch on!!"
+	"Ligar!!"
 	keyWait
 		any = false
 	end
@@ -145,7 +142,7 @@ script 12 mmbn6 {
 	controlLock
 	soundPlay
 		track = 337
-	"*beep!*"
+	"Bip!"
 	wait
 		frames = 20
 	soundEnableTextSFX
@@ -158,7 +155,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Waaa!!"
+	"Aaugh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -170,9 +167,9 @@ script 14 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	Tee,hee.
-	Looks like we
-	get first dibs!
+	Hi hi.
+	Lamento, mas a
+	gente viu primeiro!
 	"""
 	keyWait
 		any = false
@@ -182,11 +179,11 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wait!!"
+	"Espera!!"
 	keyWait
 		any = false
 	clearMsg
-	"What should I do!?"
+	"O que eu faço?!"
 	keyWait
 		any = false
 	clearMsg
@@ -206,13 +203,13 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,over there!"
+	"Lan, ali!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think Ito did
-	something to that!
+	Eu acho que o Ito fez
+	alguma coisa naquilo!
 	"""
 	keyWait
 		any = false
@@ -223,9 +220,9 @@ script 18 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... It looks like
-	the control panel
-	for this pavilion.
+	... Acho que é o
+	painel de controle
+	deste pavilhão.
 	"""
 	keyWait
 		any = false
@@ -237,11 +234,11 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,jack me in!"
+	"Lan, me conecta!"
 	keyWait
 		any = false
 	clearMsg
-	"I'll fix the system!"
+	"Eu conserto o sistema!"
 	keyWait
 		any = false
 	clearMsg
@@ -252,20 +249,20 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Alright,let's do it!"
+	"Beleza, vamos nessa!"
 	keyWait
 		any = false
 	clearMsg
 	controlLock
 	textSpeed
 		delay = 1
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock

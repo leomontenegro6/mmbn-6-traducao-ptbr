@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Oh,thank you,
-	thank you!!
+	Ah, obrigado,
+	obrigado demais!!
 	"""
 	keyWait
 		any = false
@@ -20,15 +20,15 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Here,this is the
+	Toma, é o
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 8
 	"""
-	"you're
-	looking for,right?
+	" de que
+	você tava atrás, né?
 	"""
 	keyWait
 		any = false
@@ -37,7 +37,7 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	MegaMan gives:
+	MegaMan entrega:
 	"
 	"""
 	printItem
@@ -52,22 +52,22 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"Yes,yes,this is it!"
+	"Sim, sim, é ele mesmo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,if I lost this,I
-	wouldn't be able to
-	get any work done!
+	Ah, se eu não achasse,
+	nunca mais ia conseguir
+	trabalhar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Finally,I can
-	get to work fixing
-	these leaky pipes!
+	... Finalmente,
+	posso consertar
+	esses canos vazando!
 	"""
 	keyWait
 		any = false
@@ -77,32 +77,32 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"Take this!\n"
+	"Toma isso!\n"
 	controlLock
 	soundPlay
 		track = 398
-	"*bloop!"
+	"Blup!"
 	wait
 		frames = 28
 	soundPlay
 		track = 398
-	" bloop!*"
+	" Blup!"
 	wait
 		frames = 28
 	controlUnlock
 	keyWait
 		any = false
 	clearMsg
-	"Once more!\n"
+	"E isso!\n"
 	controlLock
 	soundPlay
 		track = 398
-	"*bloop!"
+	"Blup!"
 	wait
 		frames = 28
 	soundPlay
 		track = 398
-	" bloop!*"
+	" Blup!"
 	wait
 		frames = 28
 	controlUnlock
@@ -111,8 +111,8 @@ script 4 mmbn6 {
 	clearMsg
 	"""
 	... OK!
-	Finish,finito,
-	the end!
+	Terminado, concluído,
+	fim de papo!
 	"""
 	keyWait
 		any = false
@@ -123,21 +123,20 @@ script 5 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Now this street is
-	safe for all once
-	again!
+	Agora, a rua volta a
+	ser segura para todos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I'm off to my
-	next job!
+	Bom, hora de ir pro
+	meu próximo trabalho!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Huh?"
+	"... Hã?"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -147,7 +146,7 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*rumble,rumble!!*"
+	"Trrr Trrr!!"
 	keyWait
 		any = false
 	clearMsg
@@ -158,7 +157,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"W_What's going on!?"
+	"O-o que tá acontecendo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -170,8 +169,7 @@ script 8 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	It'll stop soon,
-	I think.
+	Acho que, já, já, para.
 	"""
 	keyWait
 		any = false
@@ -185,8 +183,7 @@ script 9 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... Wow,it really
-	stopped!
+	... Caramba, parou mesmo!
 	"""
 	keyWait
 		any = false
@@ -199,40 +196,39 @@ script 10 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	There's been a lot
-	of these quakes on
-	the Net recently.
+	Tem acontecido muitos
+	desses tremores na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're really very
-	troublesome,
-	really...
+	São uma dor de
+	cabeça das grandes,
+	na verdade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Those quakes are
-	breaking pipes here,
-	there __ everywhere!
+	Quebram canos aqui,
+	quebram canos ali...
+	Não para!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems the center
-	of these quakes is
-	here,so be careful!
+	O centro dos tremores
+	parece ser bem aqui,
+	então, cuidado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,I'm really going
-	to my next job now!
+	Enfim, vou lá pro
+	meu próximo trabalho!
 	"""
 	keyWait
 		any = false
@@ -242,13 +238,13 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Net quakes?"
+	"Tremores na Rede?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what's
-	causing them...?
+	O que será que tá
+	causando eles...?
 	"""
 	keyWait
 		any = false
@@ -261,16 +257,16 @@ script 12 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I wanna know,too,but
-	first,the mystery of
-	the penguin!
+	Queria saber também...
+	mas o mistério do
+	pinguim vem primeiro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,head for
-	SeasideArea1!
+	MegaMan, pra
+	Área Beira-Mar 1!
 	"""
 	keyWait
 		any = false
@@ -282,7 +278,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"OK!"
 	keyWait
 		any = false
 	end

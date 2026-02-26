@@ -20,14 +20,14 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	Lan!
-	"
+	O "
 	"""
 	printItem
 		buffer = 0
 		item = 132
 	"""
 	"
-	just expired!
+	expirou!
 	"""
 	keyWait
 		any = false
@@ -52,14 +52,14 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	Lan!
-	"
+	O "
 	"""
 	printItem
 		buffer = 0
 		item = 130
 	"""
 	"
-	just expired!
+	expirou!
 	"""
 	keyWait
 		any = false
@@ -73,7 +73,7 @@ script 2 mmbn6 {
 		item = 132
 	"""
 	"
-	just expired!!
+	expirou!!
 	"""
 	keyWait
 		any = false
@@ -87,7 +87,7 @@ script 3 mmbn6 {
 		item = 130
 	"""
 	"
-	just expired!
+	expirou!
 	"""
 	keyWait
 		any = false
@@ -97,14 +97,13 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Communication error."
+	"Erro de comunicação."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Check Wireless
-	Adapter connection
-	and reset the GBA.
+	Confira o Adaptador
+	Wireless e reinicie o GBA.
 	"""
 	waitHold
 }
@@ -113,23 +112,21 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpenMenu
 	"""
-	Communication error.
-	Transmission failed.
+	Erro de comunicação.
+	Falha na transmissão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't put anything
-	between Wireless
-	Adapters.
+	Não deixe nada entre os
+	Adaptadores Wireless.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Move the GBAs closer
-	together.
+	Aproxime mais os GBAs.
 	"""
 	keyWait
 		any = false
@@ -140,8 +137,8 @@ script 15 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's practice,Lan!
-	Starting program!
+	Vamos treinar, Lan!
+	Iniciando programa!
 	"""
 	keyWait
 		any = false
@@ -187,8 +184,8 @@ script 21 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey Lan!
-	Check your mail!
+	Lan!
+	Vê os e-mails!
 	"""
 	keyWait
 		any = false
@@ -197,8 +194,7 @@ script 21 mmbn6 {
 script 22 mmbn6 {
 	msgOpen
 	"""
-	You've got some
-	mail...
+	Tem e-mail novo...
 	"""
 	keyWait
 		any = false
@@ -209,29 +205,28 @@ script 23 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You have mail,
-	Lan!
+	Chegou e-mail, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press START to
-	open the PET.
+	Aperte "START"
+	pra abrir o PET.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Select E_Mail from
-	the menu to
+	Daí, selecione
+	"E-Mail" no menu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	check and read
-	your mail!
+	pra ver a sua
+	caixa de e-mails!
 	"""
 	keyWait
 		any = false
@@ -250,8 +245,7 @@ script 25 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You have mail,
-	Lan!
+	Chegou e-mail, Lan!
 	"""
 	keyWait
 		any = false
@@ -262,8 +256,7 @@ script 26 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's check out
-	the e_mail!!
+	Bora ler!
 	"""
 	keyWait
 		any = false
@@ -286,7 +279,7 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"No Rush Coil!"
+	"Não tem Mola Rush!"
 	keyWait
 		any = false
 	end
@@ -296,30 +289,29 @@ script 31 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Hey! It's no time
-	to be doing that
-	sort of thing!
+	Aí! Não é hora de ficar
+	fazendo isso aí, não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You need to be
-	concentratin'!
+	Cê tem é que
+	concentrar!
 	"""
 	keyWait
 		any = false
 	end
 }
 script 40 mmbn6s {
-	"THANK YOU FOR PLAYING!!"
+	"OBRIGADO POR JOGAR!!"
 	end
 }
 script 45 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Transfer complete!!"
+	"Transferência concluída!!"
 	keyWait
 		any = false
 	end
@@ -329,8 +321,8 @@ script 46 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Transfer complete!!
-	Welcome back!
+	Transferência concluída!!
+	Bem-vindo de volta!
 	"""
 	keyWait
 		any = false
@@ -343,9 +335,9 @@ script 50 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Your Request Rank
-	has been increased
-	to "B Rank"!
+	O seu Ranque de
+	Pedidos foi aumentado
+	para "Ranque B"!
 	"""
 	keyWait
 		any = false
@@ -360,9 +352,9 @@ script 51 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Your Request Rank
-	has been increased
-	to "A Rank"!
+	O seu Ranque de
+	Pedidos foi aumentado
+	para "Ranque A"!
 	"""
 	keyWait
 		any = false
@@ -377,9 +369,9 @@ script 52 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Your Request Rank
-	has been increased
-	to "S Rank"!
+	O seu Ranque de
+	Pedidos foi aumentado
+	para "Ranque S"!
 	"""
 	keyWait
 		any = false
@@ -394,9 +386,9 @@ script 53 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Your Request Rank
-	has been increased
-	to "Master"!
+	O seu Ranque de
+	Pedidos foi aumentado
+	para "Mestre"!
 	"""
 	keyWait
 		any = false
@@ -408,82 +400,82 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's the \nautophone..."
+	"É o autofone..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Chaud
 	"""
-	I hear there is
-	someone who finished
-	every request!
+	Fui informado de que um
+	certo alguém concluiu
+	todos os pedidos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I should have known
-	that someone is you!
+	Eu já devia imaginar que
+	esse alguém era você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By completing all
-	of those requests,
+	Completar todos
+	aqueles pedidos
+	significa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your powers are now
-	more than even an
-	Official!
+	que os seus poderes
+	agora estão acima até
+	dos de um Oficial!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got something
-	I want to show you.
+	Tem uma coisa que eu
+	quero mostrar pra você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ProtoMan's true
-	form...
+	A verdadeira forma
+	do ProtoMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're waiting in
-	Cyber Academy
-	Class 6_1!
+	Estaremos esperando
+	na Sala 6-1 da
+	Escola Saibher!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"*click*..."
+	"Clic..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	ProtoMan's
-	true form...
+	A verdadeira forma
+	do ProtoMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright! Let's make
-	the most of this
-	challenge!
+	Beleza! Bora encarar
+	esse desafio com tudo!
 	"""
 	keyWait
 		any = false
@@ -492,7 +484,7 @@ script 60 mmbn6 {
 script 65 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
-	" has thrown\n"
+	" jogou\n"
 	callRushFoodBuffer
 	printBuffer
 		buffer = 1
@@ -500,8 +492,8 @@ script 65 mmbn6 {
 		padZeros = false
 		padLeft = false
 	"""
-	 pcs. of
-	Rush Food.
+	 pedaços
+	de Ração do Rush.
 	"""
 	keyWait
 		any = false

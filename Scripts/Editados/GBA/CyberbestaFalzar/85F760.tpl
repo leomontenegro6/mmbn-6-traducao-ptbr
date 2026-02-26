@@ -30,43 +30,40 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	Ah!
-	I can see a door
-	over there!!
+	Dá pra ver uma porta ali!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet that's the
-	entrance to the
-	Control Room!
+	Aposto que é a
+	entrada da Sala
+	de Controle!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...But that seal,"
+	"... Mas a foca..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It doesn't look
-	like it's going
-	to move.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	So we can't keep
-	going!
+	Não parece que ela
+	vai sair daí tão cedo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We don't have
-	time for this!
-	What should we do?
+	Não dá pra gente entrar!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Argh, a gente não
+	tem tempo pra isso!
+	O que a gente faz?
 	"""
 	keyWait
 		any = false
@@ -76,48 +73,56 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	Lan!
-	Remember the show!
+	Lembra do show?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That Trainer...
-	What did she say?
+	Aquela domadora...
+	O que foi mesmo
+	que ela disse?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Fanny the Elephant\n seal loves...\""
+	"""
+	"Lelê, a elefante-marinho,
+	gosta de..."
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"\"...playing with a\n ball more than\n food!\""
-	keyWait
-		any = false
-	clearMsg
 	"""
-	So we should try
-	to find a ball for
-	her to play with!
+	... "brincar com a
+	bola dela ainda mais
+	do que de comida!"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's hurry up and
-	find one!
+	Então a gente só
+	precisa arranjar uma
+	bola pra ela brincar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They used one in
-	the show. It must
-	be around here...
+	Rápido, bora
+	atrás de uma!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Teve uma que foi usada
+	na apresentação. Ela
+	deve tá por aqui...
 	"""
 	keyWait
 		any = false
@@ -128,24 +133,24 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We should try to
-	find a ball to
-	play with!
+	a gente devia era
+	tentar achar uma bola
+	pra Lelê brincar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's hurry up and
-	find one!
+	Rápido, bora
+	atrás de uma!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They use one for
-	the show. It must
-	be around here...
+	Teve uma que foi usada
+	na apresentação. Ela
+	deve tá por aqui...
 	"""
 	keyWait
 		any = false
@@ -159,7 +164,7 @@ script 2 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -182,7 +187,7 @@ script 3 mmbn6 {
 }
 script 4 mmbn6 {
 	msgOpen
-	"*waooo!* *waooo!*"
+	"Ôôôôuuur! Ôôôôuuur!"
 	keyWait
 		any = false
 	end
@@ -190,8 +195,8 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	The CopyBot's
-	batteries are dead.
+	O CópiRoide
+	está sem bateria.
 	"""
 	keyWait
 		any = false
@@ -200,8 +205,8 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	Fanny's favorite
-	toy...
+	É o brinquedo
+	favorito da Lelê...
 	"""
 	keyWait
 		any = false
@@ -212,8 +217,8 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's hurry and
-	get the toy!!
+	A gente tem que pegar
+	a bola dela, rápido!
 	"""
 	keyWait
 		any = false
@@ -224,8 +229,8 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	C'mon! Let's get
-	that toy quick!!
+	Rápido! Bora logo
+	achar a bola dela!!
 	"""
 	keyWait
 		any = false
@@ -236,8 +241,9 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	"""
-	If I say I'm goin'
-	home,I'm goin' home!
+	Se eu falei que a gente
+	vai embora, é porque a
+	gente vai embora!
 	"""
 	keyWait
 		any = false

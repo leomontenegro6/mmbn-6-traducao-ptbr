@@ -37,9 +37,8 @@ script 0 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	It looks like
-	there's a new
-	post!
+	Parece que tem
+	postagem nova!
 	"""
 	keyWait
 		any = false
@@ -81,9 +80,7 @@ script 1 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	There isn't
-	even a single
-	post.
+	Nenhuma postagem.
 	"""
 	keyWait
 		any = false
@@ -106,7 +103,7 @@ script 6 mmbn6 {
 		top = 108
 	textSpeed
 		delay = 0
-	"Point:"
+	"Pontos: "
 	printBuffer
 		buffer = 1
 		minLength = 2
@@ -118,7 +115,7 @@ script 6 mmbn6 {
 		minLength = 2
 		padZeros = false
 		padLeft = true
-	"\nNo Open Requests"
+	"\nNenhum pedido em aberto"
 	keyWait
 		any = false
 	waitHold
@@ -133,7 +130,7 @@ script 7 mmbn6 {
 		top = 108
 	textSpeed
 		delay = 0
-	"Point:"
+	"Pontos:"
 	printBuffer
 		buffer = 1
 		minLength = 2
@@ -147,7 +144,7 @@ script 7 mmbn6 {
 		padLeft = true
 	"""
 	
-	Current Request:
+	Pedido atual:
 	"
 	"""
 	printRequest
@@ -159,23 +156,23 @@ script 7 mmbn6 {
 	waitHold
 }
 script 8 mmbn6s {
-	"Rank:C Rank"
+	"Ranque: C"
 	end
 }
 script 9 mmbn6s {
-	"Rank:B Rank"
+	"Ranque: B"
 	end
 }
 script 10 mmbn6s {
-	"Rank:A Rank"
+	"Ranque: A"
 	end
 }
 script 11 mmbn6s {
-	"Rank:S Rank"
+	"Ranque: S"
 	end
 }
 script 12 mmbn6s {
-	"Rank:Master"
+	"Ranque: Mestre"
 	end
 }
 script 13 mmbn6 {
@@ -214,8 +211,7 @@ script 13 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	Let's take this
-	request!
+	Pedido aceito!
 	"""
 	keyWait
 		any = false
@@ -257,8 +253,8 @@ script 14 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	This request is
-	already finished!
+	Esse pedido
+	a gente já fez!
 	"""
 	keyWait
 		any = false
@@ -300,9 +296,8 @@ script 15 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	You can only pick
-	one request at a
-	time.
+	Só se pode aceitar um
+	pedido de cada vez.
 	"""
 	keyWait
 		any = false
@@ -344,9 +339,9 @@ script 16 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	You can't take that
-	request with your
-	current rank!
+	Não dá pra aceitar
+	esse pedido com o
+	seu ranque atual!
 	"""
 	keyWait
 		any = false
@@ -360,7 +355,7 @@ script 17 mmbn6 {
 	positionArrow
 		left = 202
 		top = 108
-	"Take this request?\n"
+	"Aceitar pedido?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -371,7 +366,7 @@ script 17 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -380,7 +375,7 @@ script 17 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -394,7 +389,7 @@ script 17 mmbn6 {
 	waitHold
 }
 script 18 mmbn6s {
-	"RqustBBS"
+	"FórmPedi"
 	end
 }
 script 20 mmbn6 {
@@ -416,9 +411,8 @@ script 20 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	Looks like
-	there's a
-	new post!
+	Parece que tem
+	postagem nova!
 	"""
 	keyWait
 		any = false
@@ -443,9 +437,8 @@ script 21 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	Awww... There's
-	not even a
-	single post.
+	Poxa...
+	Nenhuma postagem?
 	"""
 	keyWait
 		any = false
@@ -470,9 +463,8 @@ script 22 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	I can't take a
-	request when
-	MegaMan's not here!
+	Não dá pra eu pegar um
+	pedido sem o MegaMan!
 	"""
 	keyWait
 		any = false
@@ -497,8 +489,8 @@ script 23 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	This request is
-	already finished!
+	Esse pedido
+	a gente já fez!
 	"""
 	keyWait
 		any = false

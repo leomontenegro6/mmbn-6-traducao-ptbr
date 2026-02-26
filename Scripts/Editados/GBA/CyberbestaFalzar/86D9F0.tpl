@@ -16,24 +16,24 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	CENTRALAREA2!
+	BEM-VINDO À
+	ÁREA CENTRAL 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... HOW MANY TIMES
-	HAVE I SAID THOSE
-	WORDS......?
+	... QUANTAS VEZES
+	EU JÁ REPETI ESSAS
+	PALAVRAS...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF EVERY DAY IS THE
-	SAME,LIFE GETS
-	BORING,DOESN'T IT?
+	QUANDO TODO DIA É
+	IGUAL, A VIDA FICA
+	CHATA, NÉ?
 	"""
 	keyWait
 		any = false
@@ -54,17 +54,16 @@ script 1 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Looks like something
-	is going on in Sky
-	Area today.
+	Parece que tá rolando
+	alguma coisa na Área
+	Céu hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I might go take a
-	peek at what's going
-	on...
+	Talvez eu vá lá
+	dar uma olhada...
 	"""
 	keyWait
 		any = false
@@ -75,25 +74,25 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	GLAD YOU CAME! THIS
-	IS CENTRALAREA2! GO
-	ON,TAKE YOUR TIME!
+	SUA VINDA ME ALEGRA!
+	À ÁREA CENTRAL 2!
+	FIQUE À VONTADE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOW WAS THAT?
-	IT HAD MORE OF ME IN
-	IT,DON'T YOU THINK!?
+	O QUE ACHOU? BEM MAIS
+	"EU" QUE A ÚLTIMA
+	SAUDAÇÃO, NÃO ACHA?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE MR.PROGS HAVE TO
-	HAVE OUR OWN
-	IDENTITY TOO!
+	NÓS, OS PROGS, TEMOS
+	QUE TER IDENTIDADES
+	PRÓPRIAS TAMBÉM!
 	"""
 	keyWait
 		any = false
@@ -104,17 +103,16 @@ script 6 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	So,when I went to
-	take a look at Sky
-	Area,
+	Putz, eu fui lá dar uma
+	conferida na Área Céu,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it turned out that
-	the event was
-	already over...
+	mas, quando eu
+	cheguei, o evento
+	já tinha terminado...
 	"""
 	keyWait
 		any = false
@@ -125,34 +123,35 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	CENTRALAREA2!
+	BEM-VINDO À
+	ÁREA CENTRAL 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I AM A NEW AND
-	DIFFERENT MR.PROG...
+	SOU UM PROG NOVO
+	E DIFERENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE PREVIOUS MR.PROG
-	HAD DEVELOPED A
-	PERSONALITY,AND THUS
+	O PROG ANTERIOR HAVIA
+	DESENVOLVIDO UMA
+	PERSONALIDADE,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WAS DISMISSED."
+	"E, PORTANTO,\nFOI APOSENTADO."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE MR.PROGS DON'T
-	NEED PERSONALITIES.
+	NÓS, PROGS, NÃO
+	PRECISAMOS DE
+	PERSONALIDADES.
 	"""
 	keyWait
 		any = false
@@ -163,17 +162,16 @@ script 11 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	The source of this
-	strange weather is
-	probably in Sky
+	A fonte desse tempo
+	esquisito deve ser
+	o Distrito Céu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Town. That's what
-	they said on the
-	news anyway.
+	Pelo menos, foi o que
+	eu vi no noticiário.
 	"""
 	keyWait
 		any = false
@@ -183,19 +181,19 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Jump!! Jump!!"
+	"Pula!! Pula!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I reeeeeally want to
-	get to that upper
-	pathway!
+	Eu quero taaaaanto
+	chegar naquele caminho
+	ali em cima!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Jump!! Jump!!"
+	"Pula!! Pula!!"
 	keyWait
 		any = false
 	end
@@ -205,25 +203,25 @@ script 41 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I've been
-	getting better at
-	NetBattling lately.
+	Eu tenho ficado
+	melhor nas NetLutas
+	esses tempos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There just aren't
-	enough viruses in
-	CentralArea anymore.
+	Mas os vírus da Área
+	Central já não são mais
+	o bastante pra mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm,should I go to
-	a different area?
-	Got any suggestions?
+	Hmm, talvez eu devesse
+	ir pra outra área...
+	Alguma sugestão?
 	"""
 	keyWait
 		any = false
@@ -246,16 +244,15 @@ script 45 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Huh... I feel like
-	I've seen you some_
-	where before...
+	Ué... A sua cara
+	me é familiar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Were you in a
-	commercial?
+	Por acaso você
+	apareceu num comercial?
 	"""
 	keyWait
 		any = false
@@ -266,32 +263,31 @@ script 46 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I've been
-	getting better at
-	NetBattling lately.
+	Eu tenho ficado
+	melhor nas NetLutas
+	esses tempos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I kinda want to go
-	to the Undernet and
-	give it a try...
+	Tô um pouco a fim
+	de ir na Undernet,
+	ver como eu me saio...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... No,wait,what am
-	I talking about!? I
-	wouldn't get out
+	... Não, pera, do que é
+	que eu tô falando?! Eu
+	sairia de lá num caixão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with my life!
-	No,no,NO!!
+	Esquece!!
 	"""
 	keyWait
 		any = false
@@ -302,15 +298,16 @@ script 50 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Ah,I want to be a
-	famous Navi that can
+	Ah, eu queria ser uma
+	Navi famosa que chamassem
+	pra gravar comercial,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	be in a commercial
-	like the Expo one...
+	que nem aquele
+	lá da Exposição...
 	"""
 	keyWait
 		any = false
@@ -321,17 +318,17 @@ script 55 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Seems like there's
-	an incident in
-	Seaside Town now.
+	Parece que teve outro
+	incidente aí. Dessa vez,
+	no Distrito Beira-Mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's probably a good
-	idea to stay away
-	for a bit.
+	Pode ser uma boa
+	manter distância
+	de lá, por enquanto.
 	"""
 	keyWait
 		any = false
@@ -342,21 +339,20 @@ script 60 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Don't you sense the
-	weight of these
-	incidents on the Net
+	Você também não tá
+	sentindo o peso
+	desses incidentes,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and the real world?"
+	"tanto na Rede quanto\nno mundo real?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's gotten a bit
-	darker and more
-	depressing...
+	Os dois ficaram mais
+	sombrios e deprimentes...
 	"""
 	keyWait
 		any = false

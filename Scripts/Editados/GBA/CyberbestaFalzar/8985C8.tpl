@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"*huff,huff...*"
+	"Urf... Arf..."
 	keyWait
 		any = false
 	end
@@ -14,11 +14,11 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Not here..."
+	"Não tá aqui..."
 	keyWait
 		any = false
 	clearMsg
-	"Where did she go?"
+	"Pra onde que ela foi?"
 	keyWait
 		any = false
 	end
@@ -28,8 +28,8 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh,well. Better
-	go back...
+	Ah, esquece.
+	Eu tenho que voltar a...
 	"""
 	keyWait
 		any = false
@@ -49,16 +49,15 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wh_What is she
-	doing there...!?
+	C-como que ela foi
+	parar lá em cima...?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey!! You!!
-	What are you doing
-	up there!?
+	Ei!! Você!!
+	Tá fazendo o quê aí?!
 	"""
 	keyWait
 		any = false
@@ -68,21 +67,21 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh? What?"
+	"Hã? O quê?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is she...
-	pointing at
-	something!?
+	Ela tá...
+	apontando pra
+	alguma coisa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She's telling me
-	to go over there?...
+	Ela tá me dizendo
+	pra ir ali...?
 	"""
 	keyWait
 		any = false
@@ -97,7 +96,7 @@ script 6 mmbn6 {
 	controlLock
 	soundPlay
 		track = 225
-	"*chomp!!!*"
+	"Pluásh!"
 	wait
 		frames = 25
 	soundEnableTextSFX
@@ -113,7 +112,7 @@ script 7 mmbn6 {
 	controlLock
 	soundPlay
 		track = 225
-	"*chomp!!!*"
+	"Pluásh!!!"
 	wait
 		frames = 25
 	soundEnableTextSFX
@@ -126,17 +125,16 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh!?"
+	"Ué?!"
 	keyWait
 		any = false
 	clearMsg
-	"No way..."
+	"Não acredito..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She just...
-	disappeared...
+	Ela... sumiu...
 	"""
 	keyWait
 		any = false
@@ -147,8 +145,8 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Just who is
-	that girl...?
+	Mas quem é
+	aquela menina...?
 	"""
 	keyWait
 		any = false

@@ -13,20 +13,20 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"THANK YOU VERY MUCH!"
+	"MUITO OBRIGADO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I'D BETTER GET
-	GOING.
+	... É MELHOR
+	EU IR ANDANDO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF I DON'T GET THIS
-	PACKAGE TO ROLL...
+	SE EU NÃO LEVAR ESTA
+	ENCOMENDA PARA A ROLL...
 	"""
 	keyWait
 		any = false
@@ -34,9 +34,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Well,I'm going to
-	see Roll,so I can
-	give it to her!
+	Bom, eu tô indo me
+	encontrar com ela,
+	então posso entregar!
 	"""
 	keyWait
 		any = false
@@ -44,17 +44,16 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	YOU WOULD DO THAT
-	FOR ME?
+	FARIA ISSO POR MIM?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"THANK YOU SO MUCH!"
+	"MUITO OBRIGADO!"
 	keyWait
 		any = false
 	clearMsg
-	"HERE YOU GO..."
+	"AQUI ESTÁ..."
 	keyWait
 		any = false
 	clearMsg
@@ -66,7 +65,7 @@ script 0 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -82,7 +81,7 @@ script 0 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"THANKS AGAIN!"
+	"MAIS UMA VEZ, OBRIGADO!"
 	keyWait
 		any = false
 	end
@@ -91,7 +90,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"THANKS AGAIN!"
+	"MAIS UMA VEZ, OBRIGADO!"
 	keyWait
 		any = false
 	end
@@ -101,9 +100,9 @@ script 2 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE PACKAGE GOT TO
-	HER,RIGHT?
-	THANKS AGAIN!!
+	A ENCOMENDA CHEGOU
+	NELA, NÉ? MAIS UMA
+	VEZ, OBRIGADO!!
 	"""
 	keyWait
 		any = false
@@ -122,24 +121,23 @@ script 10 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Well,well,well!!
-	If it isn't MegaMan!
-	It's been a while!
+	Ora, ora, ora!!
+	Se não é o MegaMan!
+	Há quanto tempo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Oh yeah! I saw
-	your commercial!
+	... Ah, é mesmo!
+	Eu vi o seu comercial!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's so awesome!
-	I really felt it,
-	right here!
+	Que irado!
+	Eu SENTI ele bem aqui, ó!
 	"""
 	keyWait
 		any = false
@@ -158,29 +156,28 @@ script 11 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	You're Lan Hikari's
-	Navi,right? How long
-	has it been!?
+	Você é o Navi do
+	Lan Hikari, né?
+	Há quanto tempo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Oh,that's right!"
+	"Ah, verdade!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I saw you in that
-	commercial the
-	other day!
+	Eu te vi naquele
+	comercial outro dia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You were much cooler
-	in that than you
-	used to be!
+	Você tava muito mais
+	descolado nele do que
+	normalmente é!
 	"""
 	keyWait
 		any = false
@@ -191,17 +188,17 @@ script 15 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hey,what's wrong?
-	You don't look so
-	good...
+	Ei, o que foi?
+	Você não tá com uma
+	cara muito boa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What!? Roll and the
-	others were taken!?
-	... That's terrible!
+	O quê?! A Roll e os
+	outros foram levados?!
+	... Que horror!
 	"""
 	keyWait
 		any = false
@@ -212,9 +209,9 @@ script 16 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	What was that fuss
-	just now? Did some_
-	thing happen...?
+	Que algazarra foi
+	aquela ainda agora?
+	Aconteceu alguma coisa...?
 	"""
 	keyWait
 		any = false
@@ -225,16 +222,16 @@ script 20 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Roll and the others
-	made it back OK,but
+	A Roll e os outros
+	voltaram em segurança,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	now we don't know
-	where MegaMan is.
-	I'm worried for him.
+	mas, agora, a gente não
+	sabe onde o MegaMan tá.
+	Tô preocupado com ele.
 	"""
 	keyWait
 		any = false
@@ -245,15 +242,9 @@ script 21 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Is it true that no
-	one knows where
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Lan Hikari's Navi
-	is...?
+	É verdade mesmo que
+	ninguém sabe onde tá
+	o Navi do Lan Hikari...?
 	"""
 	keyWait
 		any = false

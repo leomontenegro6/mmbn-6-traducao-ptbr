@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"The toll is 50Z..."
+	"50Z pelo pedágio..."
 	keyWait
 		any = false
 	clearMsg
@@ -20,7 +20,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Pay  "
+	" Pagar  "
 	option
 		brackets = 0
 		left = 0
@@ -29,7 +29,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't pay"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -57,7 +57,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"You may proceed..."
+	"Prossiga..."
 	keyWait
 		any = false
 	flagSet
@@ -69,9 +69,8 @@ script 2 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Unfortunately,
-	you don't have
-	enough money...
+	Infelizmente, você
+	não tem o dinheiro...
 	"""
 	keyWait
 		any = false
@@ -96,71 +95,67 @@ script 10 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Ahhh... How would
-	you like some great
-	diet goods?
+	Ahhh... Aí, interessado
+	em uns dietéticos de
+	primeira?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't you want to
-	look your best by
-	using "Lean Mean"?
+	Não quer ficar bem
+	bonitão usando o
+	"Perde em Peso"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Huh?
-	...No effect?
+	... Hã?
+	... Não funciona?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Hey kid!
-	Quit making up
-	lies like that!
+	... Pô, garoto!
+	É feio inventar
+	mentira, sabia não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Where's your proof?
-	C'mon... Let's see
-	it!!
+	Cê tem prova disso aí?
+	Vai... Quero ver!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I haven't done a
-	single thing outside
-	the law!
+	Eu não fiz NADICA
+	DE NADA de ilegal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is just an
-	elaborate shakedown!
+	Isso aí é calúnia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So if you keep it
-	up,I'm going to sue
-	your pants off!
+	Então, se continuar com
+	isso, eu te processo!
+	Tribunal, mano!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't like
-	that idea,then get
-	out of here now!
+	Não quer isso?
+	Vaza daqui, então!
 	"""
 	keyWait
 		any = false
@@ -168,8 +163,8 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,he's gonna
-	sue us...
+	Lan, ele vai
+	processar a gente...
 	"""
 	keyWait
 		any = false
@@ -177,25 +172,24 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	He can if he wants,
-	but we've got the
-	power of the law!
+	Ele pode TENTAR.
+	A gente tem a força
+	da lei do nosso lado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's the one up to
-	something!
-	Not us!
+	É ele quem tá aprontando,
+	não a gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should find
-	someone who knows
-	more about fraud...
+	Bora atrás de alguém
+	que entenda dessas
+	coisas de fraude...
 	"""
 	keyWait
 		any = false
@@ -206,40 +200,37 @@ script 11 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	...Hey kid!
-	Quit making up
-	lies like that!
+	... Pô, garoto!
+	É feio inventar
+	mentira, sabia não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Where's your proof?
-	C'mon... Let's see
-	it!!
+	Cê tem prova disso aí?
+	Vai... Quero ver!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is just an
-	elaborate shakedown!
+	Isso aí é calúnia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So if you keep it
-	up,I'm going to sue
-	your pants off!
+	Então, se continuar com
+	isso, eu te processo!
+	Tribunal, mano!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't like
-	that idea,then get
-	out of here now!
+	Não quer isso?
+	Vaza daqui, então!
 	"""
 	keyWait
 		any = false
@@ -247,8 +238,8 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,he's gonna
-	sue us...
+	Lan, ele vai
+	processar a gente...
 	"""
 	keyWait
 		any = false
@@ -256,25 +247,24 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	He can if he wants,
-	but we've got the
-	power of the law!
+	Ele pode TENTAR.
+	A gente tem a força
+	da lei do nosso lado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's the one up to
-	something!
-	Not us!
+	É ele quem tá aprontando,
+	não a gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should find
-	someone who knows
-	more about fraud...
+	Bora atrás de alguém
+	que entenda dessas
+	coisas de fraude...
 	"""
 	keyWait
 		any = false
@@ -287,52 +277,54 @@ script 12 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	...What is with
-	these lawyers...
+	... Esses advogados,
+	cara, te contar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These guys are an
-	absolute pain!
+	São um pé no saco
+	de marca maior!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Forgive me already!
-	I've done wrong...
+	Vai, foi mal!
+	Eu pisei na bola...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it's just money,
-	I'll give it back
-	to all my customers.
+	Se o negócio é a grana,
+	eu devolvo pros meus
+	clientes, falou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll go to the bank
-	and send it all
-	back...
+	Eu vou lá no banco
+	transferir tudo de
+	volta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just get these
-	lawyers off my back!
+	Só tira esses
+	advogados malditos
+	da minha cola!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're annoying me
-	to death...
+	Eles vão fazer pior do
+	que me processar: vão
+	me encher até a morte.
 	"""
 	keyWait
 		any = false
@@ -343,30 +335,32 @@ script 13 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Forgive me already!
-	I've done wrong...
+	Vai, foi mal!
+	Eu pisei na bola...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it's just money,
-	I'll give it back
-	to all my customers.
+	Se o negócio é a grana,
+	eu devolvo pros meus
+	clientes, falou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just get these
-	lawyers off my back!
+	Só tira esses
+	advogados malditos
+	da minha cola!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're annoying me
-	to death...
+	Eles vão fazer pior do
+	que me processar: vão
+	me encher até a morte.
 	"""
 	keyWait
 		any = false
@@ -377,32 +371,32 @@ script 14 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Nowadays,they have
-	something called
-	chilling out...
+	Você já ouviu falar
+	de "ser uma pessoa
+	decente"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But since there are
-	creeps like you,
+	Graças a existência
+	de crápulas como você,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	people's suffering
-	has increased!
+	todo mundo só tem
+	sofrido mais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	controlLock
-	"Nag!"
+	"Babaca!"
 	wait
 		frames = 40
-	" Nag!"
+	" Babaca!"
 	wait
 		frames = 40
 	controlUnlock
@@ -410,10 +404,10 @@ script 14 mmbn6 {
 		any = false
 	clearMsg
 	controlLock
-	"Nag!"
+	"Babaca!"
 	wait
 		frames = 40
-	" Nag!"
+	" Babaca!"
 	wait
 		frames = 40
 	controlUnlock
@@ -426,18 +420,18 @@ script 15 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Did you ever think
-	of the feelings of
-	your victims!?
+	Você nunca pasou pra
+	pensar nos sentimentos
+	das suas vítimas?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	controlLock
-	"Nag!"
+	"Babaca!"
 	wait
 		frames = 40
-	" Nag!"
+	" Babaca!"
 	wait
 		frames = 40
 	controlUnlock
@@ -445,10 +439,10 @@ script 15 mmbn6 {
 		any = false
 	clearMsg
 	controlLock
-	"Nag!"
+	"Babaca!"
 	wait
 		frames = 40
-	" Nag!"
+	" Babaca!"
 	wait
 		frames = 40
 	controlUnlock
@@ -461,24 +455,24 @@ script 16 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	We've got rules
-	in this world!!
+	Este mundo tem leis!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're goin' down
-	for fraud buddy!
+	Prepara pra ir pro
+	xadrez por causa de
+	fraude, otário!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	controlLock
-	"Nag!"
+	"Babaca!"
 	wait
 		frames = 40
-	" Nag!"
+	" Babaca!"
 	wait
 		frames = 40
 	controlUnlock
@@ -486,10 +480,10 @@ script 16 mmbn6 {
 		any = false
 	clearMsg
 	controlLock
-	"Nag!"
+	"Babaca!"
 	wait
 		frames = 40
-	" Nag!"
+	" Babaca!"
 	wait
 		frames = 40
 	controlUnlock
@@ -502,17 +496,16 @@ script 20 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	How do I look?
-	Do I seem like a
-	suspicious Navi?
+	E aí, como é que eu tô?
+	Pareço um Navi suspeito?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? Not at all!?
-	No way! Take another
-	look!!
+	Hã? "Nem de longe"?!
+	Mentira! Olha de novo,
+	vai!
 	"""
 	keyWait
 		any = false
@@ -523,13 +516,13 @@ script 21 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You have to start
-	with one step...
+	Tudo começa com
+	um passo só...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...I'm nervous..."
+	"... Que nervoso..."
 	keyWait
 		any = false
 	end
@@ -539,9 +532,9 @@ script 25 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Hey! Where you goin?
-	You got nothin' to
-	do over there!
+	Aí! Aonde é que cê vai?
+	Tem nada pra ver aí,
+	não!
 	"""
 	keyWait
 		any = false
@@ -552,24 +545,24 @@ script 30 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO SEASIDE
-	AREA2!
+	BEM-VINDO À
+	ÁREA BEIRA-MAR 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS AREA WAS MADE
-	TO RESEMBLE THE
-	BEACH!
+	ESTA ÁREA FOI
+	PROJETADA PARA
+	PARECER UMA PRAIA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...HOW IS IT?
-	SMELLS LIKE THE
-	BEACH,DOESN'T IT?
+	... QUE TAL?
+	TEM UM CHEIRINHO
+	DE PRAIA, HEIN?
 	"""
 	keyWait
 		any = false
@@ -580,22 +573,22 @@ script 31 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Darn!
-	Flooded again!
+	Droga!
+	Arrastado de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's hard to keep
-	going in this area!
+	É tão difícil avançar
+	nesta bendita área!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't you think
-	so? Don'tcha?
+	Né? Cê também
+	não acha, não?
 	"""
 	keyWait
 		any = false
@@ -622,22 +615,22 @@ script 33 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	You're a hottie!
-	I like hotties!
+	Você é muito gatinho!
+	Eu amo gatinhos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll get skinnier
-	just by standing
+	Nossa, você me ensina
+	a cair em pé... quando
+	eu desmaiar com a sua
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	next to your
-	hotness!!
+	beleza?!
 	"""
 	keyWait
 		any = false
@@ -647,20 +640,20 @@ script 34 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	msgOpen
-	"Woooo!"
+	"Fiu-fiiiuuu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey! You!
-	You're burning up!
+	Pspspspsp!
+	Aqui, gatinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't turn down
-	that voltage,baby!
+	Quer tirar uma soneca
+	no meu colinho?
 	"""
 	keyWait
 		any = false
@@ -670,28 +663,28 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	msgOpen
-	"Hey,SlashMan!"
+	"Ah, SlashMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you!
-	You're Ms.Fahran's
-	Navi,right?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You're good at
-	cooking too,huh?
+	Eu te conheço!
+	Você é o Navi da
+	Srta. Fahran, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I like guys who
-	can cook...
+	Você também é
+	bom na cozinha?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Adoro um cara
+	que cozinha...
 	"""
 	keyWait
 		any = false
@@ -701,13 +694,13 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	msgOpen
-	"...Wh,What?..."
+	"... O-o quê? ..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't look at me!
-	I'll scream!!
+	Não olha pra mim, não!
+	Eu grito, viu?!
 	"""
 	keyWait
 		any = false
@@ -718,14 +711,14 @@ script 37 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Ahhh,I'm tired of
-	walking. Can I have
-	a piggyback ride.
+	Ai, não aguento
+	mais andar...
+	me leva no colo?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Haha! Just kidding!"
+	"Ha ha! Brincadeirinha!"
 	keyWait
 		any = false
 	end
@@ -735,22 +728,21 @@ script 38 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Awwwwwwww!!
-	It's sooooo cute!
+	Aaaahh!!
+	Que fofiiiinhoo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can I take it
-	home with me!?
+	Posso levar pra casa?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...No?
-	That's too bad!
+	... Não?
+	Ah, que pena!
 	"""
 	keyWait
 		any = false
@@ -761,9 +753,9 @@ script 39 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	If I went around
-	carrying a tomahawk,
-	I'd be arrested!!
+	Se eu saísse por aí
+	com uma machadinha,
+	seria presa rapidinho!!
 	"""
 	keyWait
 		any = false
@@ -774,15 +766,15 @@ script 40 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Wow! What a
-	beautiful nose!
+	Nossa! Que nariz
+	mais lindo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Sorry,am I
-	embarrassing you?
+	... Desculpa,
+	eu te constrangi?
 	"""
 	keyWait
 		any = false
@@ -793,17 +785,16 @@ script 41 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Is there
-	construction here
-	too?
+	Ei, também estão
+	fazendo obras aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...You don't know?
-	Aren't you a
-	construction Navi?
+	... Você não sabe?
+	Você não é um
+	Navi pedreiro?
 	"""
 	keyWait
 		any = false
@@ -814,9 +805,9 @@ script 42 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	I may have a scary
-	face,but someone
-	somewhere likes it!
+	Você tem uma cara de dar
+	medo, mas, com certeza,
+	tem quem goste!
 	"""
 	keyWait
 		any = false

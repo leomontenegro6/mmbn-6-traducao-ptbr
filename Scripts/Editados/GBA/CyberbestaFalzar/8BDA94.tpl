@@ -7,15 +7,15 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	PIRIRIKAPURIKA...
-	たPlease let me...ち
+	たPermita-me...ち
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	PIKIRI PIKIRAKIRA...
-	たerase my grudge
-	 from that day...ち
+	た... apagar o meu
+	rancor daquele dia...ち
 	"""
 	keyWait
 		any = false
@@ -27,7 +27,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"He's attacking,Lan!"
+	"Ele vai atacar, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -39,8 +39,9 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Go for it!
-	Battle routine,set!
+	Manda ver!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -52,7 +53,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -65,8 +66,8 @@ script 4 mmbn6 {
 	msgOpen
 	"""
 	KIPIPIRI PIKARIPIRA!
-	たClear out like
-	 clouds!ち
+	たFaça como uma nuvem
+	 e desapareça!ち
 	"""
 	keyWait
 		any = false

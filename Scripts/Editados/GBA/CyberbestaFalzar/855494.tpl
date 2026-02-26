@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,this isn't
-	Class 6_1!
+	Lan, essa não
+	é a Sala 6-1!
 	"""
 	keyWait
 		any = false
@@ -32,119 +32,119 @@ script 10 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	You took my
-	request?
+	Você que aceitou
+	o meu pedido?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm the requestor.
-	Thank you.
+	Sim, era meu. Obrigado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just started a
-	new diet recently...
+	Eu comecei uma nova
+	dieta estes dias...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd like to lose
-	about 20 pounds.
+	Tô querendo perder
+	uns 10 quilos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I saved up my
-	allowance and bought
-	diet supplies.
+	Então economizei minha
+	mesada e comprei
+	suplementos dietéticos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I got a supplement
-	called "Lean Mean"!
+	Um deles se chama
+	"Perde em Peso"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it didn't make
-	me lean at all!
+	Mas eu não perdi
+	foi nada com ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I actually gained
-	5 pounds!!
+	Aliás, GANHEI
+	dois quilos!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It was a fraud!"
+	"Fui tapeado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It crushed my
-	fragile little
-	heart!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	So I tried to
-	go and get my
-	money back!
+	Promessas falsas que
+	dilaceraram o meu
+	frágil coraçãozinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But they wouldn't
-	even listen to me!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"It was awful!!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	So I want you to
-	go and get my
-	money back!!
+	Então eu tentei
+	exigir o meu dinheiro
+	de volta, claro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The person selling
-	the diet supplies
+	mas eles me
+	ignoraram total!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Foi horrível!!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Então quero que cê
+	faça eles devolverem
+	o meu dinheiro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is probably in
-	SeasideArea...
+	A pessoa que vende
+	os suplementos
+	dietéticos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really want my
-	allowance money
-	back! Please help!
+	deve estar na
+	Área Beira-Mar...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu quero muito
+	recuperar a minha
+	mesada! Ajuda, vai!
 	"""
 	keyWait
 		any = false
@@ -155,64 +155,114 @@ script 11 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	Want to know the
-	details of the
-	request? Here goes:
+	Você quer revisar os
+	detalhes do pedido?
+	Tá, lá vai:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just started a
-	new diet recently...
+	Eu comecei uma nova
+	dieta estes dias...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I saved up my
-	allowance and bought
-	diet supplies.
+	Tô querendo perder
+	uns 10 quilos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I got a supplement
-	called "Lean Mean"!
+	Então economizei minha
+	mesada e comprei
+	suplementos dietéticos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it didn't make
-	me lean at all!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"It was a fraud!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The person selling
-	the diet supplies
+	Um deles se chama
+	"Perde em Peso"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is probably in
-	SeasideArea...
+	Mas eu não perdi
+	foi nada com ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really want my
-	allowance money
-	back! Please help!
+	Aliás, GANHEI
+	dois quilos!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Fui tapeado!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Promessas falsas que
+	dilaceraram o meu
+	frágil coraçãozinho!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Então eu tentei
+	exigir o meu dinheiro
+	de volta, claro...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	mas eles me
+	ignoraram total!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Foi horrível!!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Então quero que cê
+	faça eles devolverem
+	o meu dinheiro!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A pessoa que vende
+	os suplementos
+	dietéticos
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	deve estar na
+	Área Beira-Mar...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu quero muito
+	recuperar a minha
+	mesada! Ajuda, vai!
 	"""
 	keyWait
 		any = false
@@ -224,26 +274,25 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = FriesBoy
 	msgOpen
-	"Ahhh! You're back!"
+	"Ahhh! Você voltou!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just checked my
-	bank account and the
-	money is back!!
+	Eu acabei de ver que
+	o dinheiro voltou pra
+	minha conta!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thank you!!"
+	"Muito obrigado!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll give you your
-	reward in one
-	payment.
+	Aqui, o pagamento
+	da sua recompensa.
 	"""
 	keyWait
 		any = false
@@ -257,7 +306,7 @@ script 12 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	5000 Zennys!!
 	"""
 	keyWait
@@ -268,9 +317,9 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = FriesBoy
 	"""
-	I'm going to use
-	my allowance to
-	buy diet supplies!
+	Vou usar a mesada
+	pra comprar outros
+	suplementos dietéticos!
 	"""
 	keyWait
 		any = false
@@ -278,32 +327,32 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	...You mind if I
-	say something?
+	... Posso falar
+	uma coisa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = FriesBoy
-	"What is it?"
+	"O quê?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	You say you're
-	fat...
-	But I think...
+	Você diz que quer
+	perder peso...
+	Mas, sei lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's all due to
-	those fries you're
-	holding!
+	Será que cê não tá
+	gordo por causa dessas
+	batatas fritas aí?
 	"""
 	keyWait
 		any = false
@@ -316,7 +365,7 @@ script 12 mmbn6 {
 	"."
 	wait
 		frames = 30
-	"."
+	". "
 	wait
 		frames = 30
 	"Hmmm!"
@@ -324,21 +373,21 @@ script 12 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Never thought about
-	that...
+	Eu nunca tinha
+	pensado nisso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Points\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -350,9 +399,9 @@ script 13 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	I'm going to use
-	my allowance to
-	buy diet supplies!
+	Vou usar a mesada
+	pra comprar outros
+	suplementos dietéticos!
 	"""
 	keyWait
 		any = false
@@ -360,32 +409,32 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	...You mind if I
-	say something?
+	... Posso falar
+	uma coisa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = FriesBoy
-	"What is it?"
+	"O quê?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	You say you're
-	fat...
-	But I think...
+	Você diz que quer
+	perder peso...
+	Mas, sei lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's all due to
-	those fries you're
-	holding!
+	Será que cê não tá
+	gordo por causa dessas
+	batatas fritas aí?
 	"""
 	keyWait
 		any = false

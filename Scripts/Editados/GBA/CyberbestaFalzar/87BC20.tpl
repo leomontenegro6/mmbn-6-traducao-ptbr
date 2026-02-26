@@ -5,20 +5,20 @@ script 0 mmbn6 {
 	msgOpen
 	soundDisableTextSFX
 	controlLock
-	"*BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP"
+	"BIP"
 	soundPlay
 		track = 205
-	"!!*"
+	"!!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -27,16 +27,15 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Now approaching
-	the Undernet.
+	Estamos nos aproximando
+	da Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Due to the danger,
-	entry is
-	prohibited!
+	Devido ao perigo,
+	entrada proibido!
 	"""
 	keyWait
 		any = false
@@ -44,14 +43,13 @@ script 0 mmbn6 {
 }
 script 5 mmbn6 {
 	msgOpen
-	"A broken Mr.Prog..."
+	"Um Prog quebrado..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It keeps repeating
-	the same thing over
-	and over...
+	Ele só fica repetindo a
+	mesma coisa, sem parar...
 	"""
 	keyWait
 		any = false
@@ -59,7 +57,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	GRUMBLE...GRUMBLE...
+	MMHRM... RHUMMM...
 	ALARBRARLB...
 	"""
 	keyWait
@@ -71,16 +69,14 @@ script 10 mmbn6 {
 		mugshot = AnnZap
 	msgOpen
 	"""
-	Where are you
-	going?
+	Aonde você vai?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You aren't,perhaps,
-	running away are
-	you?
+	Não estaria pensando
+	em fugir, estaria?
 	"""
 	keyWait
 		any = false
@@ -91,15 +87,15 @@ script 11 mmbn6 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	HEY! Where do you
-	think you're going!
+	Ô! Aonde é que cê
+	pensa que tá indo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The test isn't over
-	yet!
+	A prova ainda
+	não acabou, não!
 	"""
 	keyWait
 		any = false
@@ -114,9 +110,9 @@ script 20 mmbn6 {
 		flag = 2689
 	msgOpen
 	"""
-	You...
-	Shall you take
-	our test?
+	Você...
+	Aceita encarar
+	nossa provação?
 	"""
 	keyWait
 		any = false
@@ -131,7 +127,7 @@ script 20 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -140,7 +136,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -153,9 +149,9 @@ script 20 mmbn6 {
 		]
 	clearMsg
 	"""
-	Without passing the
-	test,you cannot
-	continue on...
+	Não poderá prosseguir
+	a menos que passe pela
+	prova...
 	"""
 	keyWait
 		any = false
@@ -164,9 +160,9 @@ script 20 mmbn6 {
 script 21 mmbn6 {
 	msgOpen
 	"""
-	You...
-	Shall you take
-	our test?
+	Você...
+	Aceita encarar
+	nossa provação?
 	"""
 	keyWait
 		any = false
@@ -181,7 +177,7 @@ script 21 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -190,7 +186,7 @@ script 21 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -203,9 +199,9 @@ script 21 mmbn6 {
 		]
 	clearMsg
 	"""
-	Without passing the
-	test,you cannot
-	continue on...
+	Não poderá prosseguir
+	a menos que passe pela
+	prova...
 	"""
 	keyWait
 		any = false
@@ -213,66 +209,64 @@ script 21 mmbn6 {
 }
 script 22 mmbn6 {
 	msgOpen
-	"Begin the test!!"
+	"Começando a prova!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press the B Button
-	to take up the
-	tomahawk,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	and destroy 30 of
-	us!
+	Aperte "B" para
+	usar a machadinha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have 3 stages
-	of growth.If you
-	do not destroy us
+	e destruir 30 de nós!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	before our last
-	stage of growth,a
+	Nós temos três estágios
+	de crescimento. Se não
+	nos destruir antes do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	thunderous attack
-	will befall you!
+	chegarmos em nosso
+	último, um ataque
+	trovejante cairá sobre
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	During the test,
-	beings with wings
-	will help you...
+	você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use the L Button and
-	R Button to slash
-	left and right...
+	Durante a prova,
+	seres alados virão
+	ao seu auxílio...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,let the test
-	begin...
+	Aperte "L" e "R"
+	para cortar na
+	esquerda e na direita...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Certo. Que comece
+	a prova...
 	"""
 	keyWait
 		any = false
@@ -283,9 +277,9 @@ script 22 mmbn6 {
 script 23 mmbn6 {
 	msgOpen
 	"""
-	Those who have
-	passed the test
-	may proceed...
+	É permitida a passagem
+	a todos que passaram
+	na prova...
 	"""
 	keyWait
 		any = false
@@ -300,9 +294,9 @@ script 25 mmbn6 {
 		flag = 2690
 	msgOpen
 	"""
-	You...
-	Shall you take
-	our test?
+	Você...
+	Aceita encarar
+	nossa provação?
 	"""
 	keyWait
 		any = false
@@ -317,7 +311,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -326,7 +320,7 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -339,9 +333,9 @@ script 25 mmbn6 {
 		]
 	clearMsg
 	"""
-	Without passing the
-	test,you cannot
-	continue on...
+	Não poderá prosseguir
+	a menos que passe pela
+	prova...
 	"""
 	keyWait
 		any = false
@@ -350,9 +344,9 @@ script 25 mmbn6 {
 script 26 mmbn6 {
 	msgOpen
 	"""
-	You...
-	Shall you take
-	our test?
+	Você...
+	Aceita encarar
+	nossa provação?
 	"""
 	keyWait
 		any = false
@@ -367,7 +361,7 @@ script 26 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -376,7 +370,7 @@ script 26 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -389,9 +383,9 @@ script 26 mmbn6 {
 		]
 	clearMsg
 	"""
-	Without passing the
-	test,you cannot
-	continue on...
+	Não poderá prosseguir
+	a menos que passe pela
+	prova...
 	"""
 	keyWait
 		any = false
@@ -399,66 +393,64 @@ script 26 mmbn6 {
 }
 script 27 mmbn6 {
 	msgOpen
-	"Time for the test!!"
+	"Hora da prova!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press the B Button
-	to take up the
-	tomahawk,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	and destroy 50 of
-	us!
+	Aperte "B" para
+	usar a machadinha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have 3 stages
-	of growth.If you
-	do not destroy us
+	e destruir 50 de nós!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	before our last
-	stage of growth,a
+	Nós temos três estágios
+	de crescimento. Se não
+	nos destruir antes do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	thunderous attack
-	will befall you!
+	chegarmos em nosso
+	último, um ataque
+	trovejante cairá sobre
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	During the test,
-	beings with wings
-	will help you...
+	você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use the L Button and
-	R Button to slash
-	left and right...
+	Durante a prova,
+	seres alados virão
+	ao seu auxílio...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,let the test
-	begin...
+	Aperte "L" e "R"
+	para cortar na
+	esquerda e na direita...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Certo. Que comece
+	a prova...
 	"""
 	keyWait
 		any = false
@@ -469,9 +461,9 @@ script 27 mmbn6 {
 script 28 mmbn6 {
 	msgOpen
 	"""
-	Those who have
-	passed the test
-	may proceed...
+	É permitida a passagem
+	a todos que passaram
+	na prova...
 	"""
 	keyWait
 		any = false
@@ -482,15 +474,14 @@ script 30 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	SKY AREA2!
+	BEM-VINDO À ÁREA CÉU 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ENJOY YOUR TIME
-	HERE!
+	ESPERO QUE SE
+	DIVIRTA AQUI!
 	"""
 	keyWait
 		any = false
@@ -501,15 +492,14 @@ script 31 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Over there is the
-	Undernet...
+	Por ali fica a Undernet...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's scary...
-	...*shiver*
+	Dá medo...
+	... Brrrr!
 	"""
 	keyWait
 		any = false
@@ -520,16 +510,16 @@ script 32 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	This beautiful area
-	and the Undernet are
-	next to each other.
+	Esta linda área e a
+	Undernet ficam uma
+	do lado da outra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Kind of
-	unbelievable,huh?
+	... A dualidade
+	das coisas, né?
 	"""
 	keyWait
 		any = false
@@ -541,15 +531,14 @@ script 40 mmbn6 {
 	msgOpen
 	"""
 	Arrrgggghhh!!
-	I don't get this
-	at all!!
+	Eu não ENTENDO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How can I get
-	over there!
+	Como eu faço
+	pra chegar ali?!
 	"""
 	keyWait
 		any = false
@@ -560,31 +549,30 @@ script 41 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Ummm... This is a
-	strange question,
+	Hmmm... Sei que é uma
+	pergunta estranha,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but if you could
-	be something else,
-	what would you be?
+	mas, se você pudesse ser
+	outra coisa, o que seria?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I would totally be
-	a bird!! Then I
-	could fly all over!!
+	Eu com certeza seria
+	um pássaro!! Aí, ia
+	poder voar por aí!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...I wish someone
-	would give me wings.
+	... Queria tanto que
+	alguém me desse asas...
 	"""
 	keyWait
 		any = false
@@ -595,16 +583,14 @@ script 42 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I LOVE RIDING ON
-	TRAINS!
+	EU ADORO ANDAR DE TREM!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE VIEW OF THE
-	WORLD KEEPS RUNNING
-	BY THE WINDOW!!
+	O MUNDO PASSA SUPER
+	RÁPIDO PELA JANELA!!
 	"""
 	keyWait
 		any = false
@@ -615,17 +601,16 @@ script 43 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AHHH! GOTTA HURRY!
-	GOTTA HURRY UP NOW!
-	I'M LATE FOR WORK!
+	AHHH! TENHO QUE CORRER!
+	ME APRESSAR! ESTOU
+	ATRASADO PRO TRABALHO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WISH THE TRAIN
-	WOULD JUST HURRY
-	UP!!
+	QUERIA QUE O TREM
+	VIESSE LOGO!!
 	"""
 	keyWait
 		any = false
@@ -636,13 +621,13 @@ script 44 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TODAY I'M GOING
-	FAR AWAY!!
+	HOJE EU VOU
+	PARA BEM LONGE!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"IT'S SO EXCITING!!"
+	"É TÃO EMOCIONANTE!!"
 	keyWait
 		any = false
 	end

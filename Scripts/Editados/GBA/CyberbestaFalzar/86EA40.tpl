@@ -6,17 +6,16 @@ script 0 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You didn't see
-	the suspicious
-	Navi?
+	Você viu o
+	Navi suspeito?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmph... Didn't see
-	it,huh?
-	I guess that's good.
+	Hmpf...
+	Então você não viu...
+	Bom, é melhor assim.
 	"""
 	keyWait
 		any = false
@@ -27,25 +26,25 @@ script 1 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Did you already see
-	the stone monument
-	to the Cybeasts?
+	Você já viu o
+	monumento de pedra
+	das Cyberbestas?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If those monsters
-	really existed,it'd
-	be awful!!
+	Se aqueles monstros
+	existissem mesmo,
+	seria uma catástrofe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you haven't seen
-	it yet,it's behind
-	this area...
+	Se ainda não tiver
+	visto, fica no fundo
+	desta área...
 	"""
 	keyWait
 		any = false
@@ -55,14 +54,14 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"*Huff* *Huff*..."
+	"Urf... Uff..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This area is nice
-	and wide... Perfect
-	for training!
+	Esta área é vasta e
+	ampla... Perfeita
+	pra treinar!
 	"""
 	keyWait
 		any = false
@@ -73,15 +72,16 @@ script 3 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO CENTRAL
-	AREA3,CENTRALAREA'S
+	BEM-VINDO À
+	ÁREA CENTRAL 3,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BEST SIGHTSEEING
-	SPOT!
+	O MELHOR PONTO
+	TURÍSTICO DA
+	ÁREA CENTRAL!
 	"""
 	keyWait
 		any = false
@@ -92,24 +92,23 @@ script 20 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	We came from far
-	away to check things
-	out.
+	A gente veio de bem
+	longe pra ver as
+	coisas aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course we came to
-	see this huge hole!
+	Claro, incluindo
+	este buracão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It really leaves
-	quite a mark! It's
-	truly incredible!!
+	Ele marca bastante!
+	É incrível!
 	"""
 	keyWait
 		any = false
@@ -121,24 +120,23 @@ script 21 mmbn6 {
 	msgOpen
 	"""
 	Arghh!
-	I can't see the
-	bottom at all!!
+	Não dá mesmo
+	pra ver o fundo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you fell in,
-	there's no way you
-	could come back!!
+	Se alguém cai aí, nunca
+	que consegue voltar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just thinking about
-	it gives me the
-	chills... Wahhhh...
+	Só de pensar nisso,
+	já me dá um arrepio...
+	Aaaahhh...
 	"""
 	keyWait
 		any = false
@@ -149,30 +147,32 @@ script 22 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ABOUT THOSE ATTACKS
-	ON NAVIS...
+	QUANTO ÀQUELES
+	ATAQUES A NAVIS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SOME NAVI THAT
-	RESEMBLES A CLOWN...
+	TEM ESSE NAVI COM
+	A APARÊNCIA DE
+	UM PALHAÇO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HE HAS A STRANGE
-	SMILE ON HIS FACE,
-	THEN HE ATTACKS...
+	ELE ESBOÇA UM SORRISO
+	ESTRANHO NO ROSTO,
+	DAÍ ATACA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SORRY FOR THE
-	UNSETTLING TALK...
+	... DESCULPE POR
+	ESSA CONVERSA
+	PERTURBADORA...
 	"""
 	keyWait
 		any = false
@@ -183,17 +183,17 @@ script 25 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Looking at that
-	giant hole makes you
-	realize how small
+	Ver esse buraco gigante
+	me faz perceber o quão
+	pequenas são as nossas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your own worries
-	really are...
-	Don't you think?
+	preocupações
+	cotidianas...
+	Não concorda?
 	"""
 	keyWait
 		any = false
@@ -204,16 +204,15 @@ script 26 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	You need to have
-	a special passport
-	for that path...
+	É preciso um passaporte
+	especial para entrar ali...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How do you get one
-	I wonder...
+	Como será que
+	se tira um?
 	"""
 	keyWait
 		any = false
@@ -224,26 +223,27 @@ script 27 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The legend of the
-	Cybeasts...
+	A lenda das
+	Cyberbestas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's gotta be
-	made up,right?
+	Só pode ser
+	invenção, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"If it's true..."
+	"Se for verdade..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yahhhh!! Too scary!
-	*trembles*
+	Aaaigh!!
+	Dá medo demais!
+	Brrr...
 	"""
 	keyWait
 		any = false
@@ -260,70 +260,67 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	"""
-	Ahh,you've got
-	something to do in
-	SeasideArea too?
+	Ah, você também tem
+	um compromisso na
+	Área Beira-Mar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the road
-	that heads to
-	SeasideArea.
+	Esta é a estrada
+	que leva pra ela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,there is a
-	leak that is
-	blocking the road.
+	Só que, infelizmente,
+	esse vazamento tá
+	impedindo a passagem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"That's no good..."
+	"Poxa..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviPink
 	"""
-	Yeah,I know.
-	A repairman was
-	just called...
+	Né?
+	Já chamaram alguém
+	pra consertar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He said he'd be here
-	right away,but there
-	is no sign of him!
+	que disse que viria
+	imediatamente, mas
+	nem sinal dele ainda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"No sign of him..."
+	"Nem sinal..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet he is
-	somewhere close
-	by...
+	Aposto que ele deve
+	estar por perto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shall we try and
-	find him,Lan?
+	Vamos procurar, Lan?
 	"""
 	keyWait
 		any = false
@@ -334,8 +331,8 @@ script 51 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	"""
-	The repairman is
-	really late...
+	O encanador tá
+	tão atrasado...
 	"""
 	keyWait
 		any = false
@@ -350,8 +347,8 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	"""
-	It looks like the
-	repairman came!
+	Parece que o encanador
+	deu as caras!
 	"""
 	keyWait
 		any = false
@@ -362,15 +359,15 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	"""
-	It looks like the
-	leak is fixed!
+	Parece que o vazamento
+	foi consertado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now you can go to
-	SeasideArea!
+	Agora dá pra ir
+	pra Área Beira-Mar!
 	"""
 	keyWait
 		any = false

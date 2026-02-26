@@ -6,20 +6,19 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M THE PUNISHMENT
-	CHAIR PROGRAM...
+	SOU O PROG DA
+	CADEIRA DE PUNIÇÃO...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WRONGDOERS..."
+	"MALFEITORES..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WILL REGRET THEIR
-	WRONGS IN THIS
-	CHAIR...
+	SE ARREPENDEM DE SEUS
+	CRIMES NESTA CADEIRA...
 	"""
 	keyWait
 		any = false
@@ -30,16 +29,16 @@ script 10 mmbn6 {
 		mugshot = MrProgBrown
 	msgOpen
 	"""
-	...I'M THE VIRUS
-	BATTLE MACHINE V3...
+	... SOU A MÁQUINA DE
+	LUTA ANTIVÍRUS V3...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	ENTER 5 CONSECUTIVE
-	VIRUS BATTLES?
+	GOSTARIA DE ENCARAR
+	5 LUTAS SEGUIDAS
+	CONTRA VÍRUS?
 	"""
 	keyWait
 		any = false
@@ -58,7 +57,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Yes\n"
+	" Sim\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -69,7 +68,7 @@ script 10 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -80,7 +79,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Hear Explanation"
+	" Explicação"
 	select
 		default = 0
 		BSeparate = true
@@ -97,7 +96,7 @@ script 10 mmbn6 {
 		delay = 2
 	mugshotShow
 		mugshot = MrProgBrown
-	"COME BACK SOON!"
+	"FIQUE À VONTADE PARA\nVOLTAR AQUI!"
 	keyWait
 		any = false
 	end
@@ -109,13 +108,13 @@ script 11 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	LAUNCHING VIRUS
-	BATTLE...
+	EXECUTANDO BATALHA
+	CONTRA VÍRUS...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BATTLE... START!!"
+	"BATALHA... INICIAR!!"
 	keyWait
 		any = false
 	flagSet
@@ -139,9 +138,9 @@ script 13 mmbn6 {
 		mugshot = MrProgBrown
 	msgOpen
 	"""
-	THAT WAS CLOSE...
-	COME BACK AGAIN
-	SOON!
+	ESSA FOI QUASE...
+	ESPERO VÊ-LO TENTAR
+	DE NOVO EM BREVE!
 	"""
 	keyWait
 		any = false
@@ -156,16 +155,16 @@ script 14 mmbn6 {
 		mugshot = MrProgBrown
 	msgOpen
 	"""
-	AMAZING!!
-	WELL DONE!!
+	INCRÍVEL!!
+	EXCELENTE TRABALHO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TO COMMEMORATE YOUR
-	GREAT VIRUS BUSTING
-	SKILL,HERE'S A GIFT!
+	PARA CELEBRAR SUAS
+	HABILIDADES NOTÁVEIS,
+	EIS AQUI UM PRESENTE!
 	"""
 	keyWait
 		any = false
@@ -179,7 +178,7 @@ script 14 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip
@@ -197,33 +196,36 @@ script 14 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgBrown
-	"CONGRATULATIONS!"
+	"MEUS PARABÉNS!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE ARE OTHER
-	MR.PROGS THAT ARE
-	DIFFERENT COLORS...
+	HÁ OUTROS PROGS DE
+	CORES DIFERENTES
+	ALÉM DE MIM...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU SHOULD TRY
-	LOOKING FOR THEM.
+	VOCÊ DEVIA TENTAR
+	ENCONTRÁ-LOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHERE ARE THEY?"
+	"""
+	"ONDE ELES ESTÃO",
+	VOCÊ PERGUNTA?
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IN SOME COMP CALLED
-	GASCAN OR SOMETHING
-	OR ANOTHER...
+	EM UM COMPUTADOR
+	CHAMADO "BOTIJÃO
+	DE GÁS", SEI LÁ...
 	"""
 	keyWait
 		any = false
@@ -245,16 +247,16 @@ script 15 mmbn6 {
 		mugshot = MrProgBrown
 	msgOpen
 	"""
-	AMAZING!!
-	WELL DONE!!
+	INCRÍVEL!!
+	EXCELENTE TRABALHO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TO COMMEMORATE YOUR
-	GREAT VIRUS BUSTING
-	SKILL,HERE'S A GIFT!
+	PARA CELEBRAR SUAS
+	HABILIDADES NOTÁVEIS,
+	EIS AQUI UM PRESENTE!
 	"""
 	keyWait
 		any = false
@@ -269,7 +271,7 @@ script 15 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"1500 Zennys"!!
 	"""
 	keyWait
@@ -279,33 +281,36 @@ script 15 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgBrown
-	"CONGRATULATIONS!"
+	"MEUS PARABÉNS!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE ARE OTHER
-	MR.PROGS THAT ARE
-	DIFFERENT COLORS...
+	HÁ OUTROS PROGS DE
+	CORES DIFERENTES
+	ALÉM DE MIM...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU SHOULD TRY
-	LOOKING FOR THEM.
+	VOCÊ DEVIA TENTAR
+	ENCONTRÁ-LOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHERE ARE THEY?"
+	"""
+	"ONDE ELES ESTÃO",
+	VOCÊ PERGUNTA?
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IN SOME COMP CALLED
-	GASCAN OR SOMETHING
-	OR ANOTHER...
+	EM UM COMPUTADOR
+	CHAMADO "BOTIJÃO
+	DE GÁS", SEI LÁ...
 	"""
 	keyWait
 		any = false
@@ -316,16 +321,16 @@ script 16 mmbn6 {
 		mugshot = MrProgBrown
 	msgOpen
 	"""
-	AMAZING!!
-	WELL DONE!!
+	INCRÍVEL!!
+	EXCELENTE TRABALHO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TO COMMEMORATE YOUR
-	GREAT VIRUS BUSTING
-	SKILL,HERE'S A GIFT!
+	PARA CELEBRAR SUAS
+	HABILIDADES NOTÁVEIS,
+	EIS AQUI UM PRESENTE!
 	"""
 	keyWait
 		any = false
@@ -340,8 +345,8 @@ script 16 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
-	"6 BugFrags"!!
+	 adquiriu:
+	"6 FragBugs"!!
 	"""
 	keyWait
 		any = false
@@ -350,33 +355,36 @@ script 16 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgBrown
-	"CONGRATULATIONS!"
+	"MEUS PARABÉNS!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE ARE OTHER
-	MR.PROGS THAT ARE
-	DIFFERENT COLORS...
+	HÁ OUTROS PROGS DE
+	CORES DIFERENTES
+	ALÉM DE MIM...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU SHOULD TRY
-	LOOKING FOR THEM.
+	VOCÊ DEVIA TENTAR
+	ENCONTRÁ-LOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHERE ARE THEY?"
+	"""
+	"ONDE ELES ESTÃO",
+	VOCÊ PERGUNTA?
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IN SOME COMP CALLED
-	GASCAN OR SOMETHING
-	OR ANOTHER...
+	EM UM COMPUTADOR
+	CHAMADO "BOTIJÃO
+	DE GÁS", SEI LÁ...
 	"""
 	keyWait
 		any = false
@@ -389,82 +397,82 @@ script 17 mmbn6 {
 		mugshot = MrProgBrown
 	msgOpen
 	"""
-	LET ME EXPLAIN THE
-	RULES.
+	PERMITA-ME EXPLICAR
+	AS REGRAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN FIGHT
-	AGAINST 2 VIRUSES
+	VOCÊ PODERÁ LUTAR
+	CONTRA DOIS VÍRUS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT YOU HAVE THE
-	DATA FOR...
+	CUJOS DADOS POSSUA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU MUST REDUCE AN
-	ENEMY VIRUS'
+	PARA VENCER, DEVE
+	REDUZIR A ENERGIA
+	DOS VÍRUS INIMIGOS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ENERGY TO ZERO
-	WITHIN THE TIME
-	LIMIT.
+	A ZERO DENTRO DO
+	LIMITE DE TEMPO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE IS ONE THING
-	TO REMEMBER WHEN
-	SETTING UP A BATTLE.
+	MAS LEMBRE-SE DE
+	UMA COISA ANTES DE
+	INICIAR UMA LUTA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE TOTAL SIZE OF
-	THE TWO VIRUSES YOU
+	O TAMANHO TOTAL DOS
+	DOIS VÍRUS QUE VOCÊ
+	ESCOLHER
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CHOOSE MUST NOT BE
-	MORE THAN 50 MB.
+	NÃO PODE PASSAR
+	DE 50 MB.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF IT IS OVER,YOU
-	WILL NOT BE ABLE TO
-	SET THE BATTLE.
+	SE PASSAR, VOCÊ
+	NÃO PODERÁ EXECUTAR
+	A ROTINA DE BATALHA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU CAN DELETE
-	ALL THE VIRUSES
-	WITH STYLE,
+	SE CONSEGUIR DELETAR
+	OS VÍRUS COM ESTILO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU WILL GET AN
-	AMAZING REWARD!
+	RECEBERÁ UMA
+	RECOMPENSA
+	MARAVILHOSA!
 	"""
 	keyWait
 		any = false

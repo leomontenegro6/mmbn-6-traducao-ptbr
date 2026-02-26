@@ -6,31 +6,31 @@ script 0 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	... We must be
-	careful.
+	... Precisamos
+	ser cautelosos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought I told you
-	we couldn't meet in
-	person.
+	Pensei ter lhe dito
+	que não podíamos nos
+	encontrar pessoalmente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I must maintain my
-	"clean" image.
+	Eu tenho que manter
+	a minha imagem "limpa".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't be seen
-	associating with
-	people like you.
+	Não posso ser visto
+	me associando com
+	gente da laia de vocês.
 	"""
 	keyWait
 		any = false
@@ -43,50 +43,50 @@ script 1 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Don't worry,I came
-	by meself!
+	Calma, calma.
+	Eu vim sozinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't attract
-	any attention.
+	E não atraí
+	nenhuma atenção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Heh,besides,yer
-	not really a "clean"
-	person,are ye?
+	He, além disso,
+	você não é realmente
+	"limpo", né não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ye were helping WWW
-	until a little while
-	ago,
+	Você passou todo esse
+	tempo ajudando a WWW,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and now yer our
-	sponsor!
+	e, agora, é o
+	nosso patrocinador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yer heart's blacker
-	than Ito's hair!
+	A sua alma é mais
+	distorcida que a
+	cabecinha da Yuika!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Gahahahaha!!"
+	"Ga ha ha ha ha!!"
 	keyWait
 		any = false
 	clearMsg
@@ -98,8 +98,7 @@ script 2 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	Hurry up and tell
-	me what you want.
+	Fale logo o que você quer.
 	"""
 	keyWait
 		any = false
@@ -111,22 +110,22 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Blackbeard
 	msgOpen
-	"Oh,that's right!"
+	"Ah, é mesmo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're all lookin'
-	real hard for that
-	rat,MegaMan,but
+	A tripulação está
+	revirando cada pedra
+	atrás do MegaMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	he's hidin' out in
-	a certain place,and
-	we need yer help.
+	mas ele se escondeu
+	num certo lugar, e nós
+	precisamos da sua ajuda.
 	"""
 	keyWait
 		any = false
@@ -139,17 +138,17 @@ script 4 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	I was just thinking
-	of contacting you
-	about that.
+	É, eu já pensava em
+	contatar vocês para
+	tratar disso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You need the barrier
-	to the Underground
-	removed,correct?
+	Precisam que a barreira
+	para o SubSolo seja
+	removida, não?
 	"""
 	keyWait
 		any = false
@@ -161,7 +160,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Blackbeard
 	msgOpen
-	"Heh,yer pretty good."
+	"He, você é bom mesmo."
 	keyWait
 		any = false
 	clearMsg
@@ -173,22 +172,17 @@ script 6 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	Before that,would
-	you care to explain
+	Antes disso, se
+	importaria de explicar
+	COMO o MegaMan escapou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just how is it that
-	MegaMan escaped?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Did you not use the
-	CopyBot I sent...?
+	Vocês não usaram
+	o CópiRoide que
+	eu mandei...?
 	"""
 	keyWait
 		any = false
@@ -201,25 +195,24 @@ script 7 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Aye,that's somethin'
-	of an interestin'
-	tale.
+	Ah, então... é uma
+	história interessante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan was causin'
-	all sorts of trouble
-	'till a strange lass
+	O MegaMan estava
+	causando a maior
+	confusão, até que uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	showed up,and
-	suddenly,the Cybeast
-	gets quiet...
+	mocinha apareceu 
+	e, de repente, a
+	Cyberbesta se acalmou...
 	"""
 	keyWait
 		any = false
@@ -231,7 +224,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	msgOpen
-	"Suddenly...?"
+	"De repente...?"
 	keyWait
 		any = false
 	clearMsg
@@ -245,23 +238,23 @@ script 8 mmbn6 {
 	wait
 		frames = 30
 	"""
-	 No,
-	it's not possible!
+	 Não,
+	não é possível!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whatever. Anyway,I
-	will remove the
-	barrier.
+	Tanto faz. Enfim, eu
+	vou remover a barreira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't care how,but
-	I want MegaMan back!
+	Não importa como -
+	eu quero o MegaMan
+	de volta!
 	"""
 	keyWait
 		any = false
@@ -273,7 +266,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Huh?"
+	"... Hã?"
 	keyWait
 		any = false
 	end
@@ -283,8 +276,8 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	W_Why is
-	Blackbeard here...?
+	O-o que o Barba-Negra
+	tá fazendo aqui...?
 	"""
 	keyWait
 		any = false
@@ -296,14 +289,13 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	msgOpen
-	"Tsk!"
+	"Tsc!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You see! This is
-	what I was talking
-	about.
+	Viu só?! Era disso
+	que eu estava falando.
 	"""
 	keyWait
 		any = false
@@ -316,8 +308,8 @@ script 12 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Why's this kid
-	here!?
+	Por que esse pirralho
+	está aqui?!
 	"""
 	keyWait
 		any = false
@@ -330,16 +322,16 @@ script 13 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	Hmph,it's too bad
-	you found me out,
+	Hmpf, é mesmo uma pena
+	você ter me descoberto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but you're not going
-	to go anywhere for a
-	very long time.
+	mas ficará um bom tempo
+	sem poder ir a lugar
+	nenhum agora.
 	"""
 	keyWait
 		any = false
@@ -350,9 +342,9 @@ script 14 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You... You're
-	working with
-	Blackbeard...?
+	O senhor... O senhor
+	tá trabalhando com
+	o Barba-Negra...?
 	"""
 	keyWait
 		any = false
@@ -365,17 +357,15 @@ script 15 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	Yes,what you just
-	realized is
-	absolutely correct.
+	Sim, o que você concluiu
+	está 100% certo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am "cooperating"
-	with Blackbeard
-	here.
+	Eu estou "cooperando"
+	com o Barba-Negra aqui.
 	"""
 	soundPlayBGM
 		track = 2
@@ -387,14 +377,13 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... No!"
+	"... Não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then you've been
-	tricking everyone
-	all this time?
+	Então você enganou todo
+	mundo esse tempo todo?
 	"""
 	keyWait
 		any = false
@@ -407,9 +396,7 @@ script 17 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	Yes,and I plan to
-	keep on tricking
-	them.
+	Sim, e planejo continuar.
 	"""
 	keyWait
 		any = false
@@ -422,9 +409,9 @@ script 18 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	B_But why?
-	Why are you lying
-	to everyone!?
+	M-mas por quê?
+	Por que mentir pra
+	todos os cidadãos?!
 	"""
 	keyWait
 		any = false
@@ -437,32 +424,32 @@ script 19 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	I'll guess the
-	reason is I wanted
-	political power.
+	Acho que o motivo
+	é porque eu queria
+	poder político.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To get to the top,
-	I've cooperated with
-	many dirty people.
+	Para chegar no topo,
+	cooperei com vários
+	indivíduos "sujos".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And,as for the
-	Cybeasts...
+	E quanto às
+	Cyberbestas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I would do anything
-	to get my hands on
-	them.
+	Eu faria o que fosse
+	preciso para pôr as
+	mãos nelas.
 	"""
 	keyWait
 		any = false
@@ -472,28 +459,28 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	msgOpen
-	"Yes..."
+	"Sim..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the destructive and
-	fearsome Cybeasts...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	They belong in my
-	hands!
+	as destrutivas e
+	temíveis Cyberbestas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That was written
-	into my fate from
-	the day I was born!
+	O lugar delas é
+	nas minhas mãos!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Isso já havia sido
+	predestinado desde o
+	dia em que eu nasci!
 	"""
 	keyWait
 		any = false
@@ -506,9 +493,9 @@ script 21 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... What are you
-	trying to say? I
-	don't get it at all!
+	... O que é que você
+	tá falando? Eu não tô
+	entendendo nada!
 	"""
 	keyWait
 		any = false
@@ -520,21 +507,21 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	msgOpen
-	"... Alright,"
+	"... Pois bem,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will tell you the
-	story from the
-	beginning...
+	vou lhe explicar a
+	história toda desde
+	o começo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This started a long
-	time ago...
+	Tudo começou há
+	muito, muito tempo...
 	"""
 	keyWait
 		any = false
@@ -548,24 +535,25 @@ script 23 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	A long time ago,when
-	the Cyberworld was
-	in its infancy,
+	Muito tempo atrás, quando
+	o mundo cibernético ainda
+	engatinhava,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	humans were met with
-	an unusual incident
-	that they couldn't
+	nós, humanos, nos
+	deparamos com um
+	incidente incomum
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	find the root of.
-	What had happened...
+	cuja raiz ninguém
+	conseguia descobrir.
+	O que aconteceu...
 	"""
 	keyWait
 		any = false
@@ -576,17 +564,16 @@ script 24 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	...was that large
-	numbers of bugs had
-	gathered in one area
+	... foi que um enorme
+	número de bugs se reuniu
+	em uma só área do mundo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of the Cyberworld,
-	and had gained a
-	will of their own...
+	cibernético e adquiriu
+	consciência própria...
 	"""
 	keyWait
 		any = false
@@ -597,9 +584,9 @@ script 25 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	All of a sudden,they
-	formed one giant
-	lump.
+	De repente, eles todos
+	formara uma única,
+	grande massa.
 	"""
 	keyWait
 		any = false
@@ -610,48 +597,45 @@ script 26 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	The thing that
-	surprised people the
-	most was that...
+	E o que mais surpreendeu
+	as pessoas foi que esses
+	bugs, por algum motivo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	those bugs for some
-	reason,formed into
-	a beast_like shape.
+	tomaram a forma de algo
+	que parecia uma fera.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was like a
-	previous phenomenon
-	when this country
+	Foi como um fenômeno
+	observado anteriormente,
+	quando este país
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	had fused some bugs
-	together,and Gospel
-	was born.
+	fundiu certos bugs,
+	criando a criatura Gospel.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And then,these bugs
-	became violent,much
-	like a beast,
+	Daí, esses bugs ficaram
+	violentos, como uma fera,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and started to
-	destroy the Net.
+	e começaram a
+	destruir a Rede.
 	"""
 	keyWait
 		any = false
@@ -664,8 +648,9 @@ script 27 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No way... Was that
-	how the Cybeasts...?
+	Não pode ser...
+	Então foi assim
+	que as Cyberbestas...?
 	"""
 	keyWait
 		any = false
@@ -677,13 +662,14 @@ script 28 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	msgOpen
-	"You are half right."
+	"Quase."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only Gregar evolved
-	naturally from bugs.
+	Somente o Gregar
+	evoluiu naturalmente
+	a partir dos bugs.
 	"""
 	keyWait
 		any = false
@@ -693,14 +679,14 @@ script 29 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	msgOpen
-	"To delete Gregar,"
+	"Para deletar o Gregar,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	humans came up with
-	and tried many
-	different plans...
+	os humanos bolaram
+	e tentaram vários
+	planos diferentes...
 	"""
 	keyWait
 		any = false
@@ -711,8 +697,8 @@ script 30 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	But nothing they
-	tried worked.
+	Mas nada do que
+	tentaram funcionou.
 	"""
 	keyWait
 		any = false
@@ -723,16 +709,15 @@ script 31 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	Just as they were
-	losing hope,
+	E, justo quando iam
+	perdendo as esperanças,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	one brilliant
-	scientist rose to
-	the occasion.
+	um cientista brilhante
+	tomou a dianteira.
 	"""
 	keyWait
 		any = false
@@ -743,87 +728,86 @@ script 32 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	That scientist was
-	trying to make a
-	program that could
+	Esse cientista estava
+	tentando criar um
+	programa capaz de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	take down Gregar.
-	People started to
-	count on this man
+	derrubar o Gregar.
+	As pessoas começaram a
+	contar com esse homem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and he came to be
-	known as a
-	"savior".
+	e ele passou a ser
+	conhecido como um
+	"salvador".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Long months went by,
-	and the program was
-	finally completed.
+	Vários meses se passaram
+	e o programa finalmente
+	foi concluído.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The scientist's
-	skill was real,
-	and his program
+	As habilidades do
+	cientista eram claras,
+	e o programa dele
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	seemed to have the
-	power to defeat
-	Gregar...
+	parecia, de fato, ter
+	o poder para derrotar
+	o Gregar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But then,something
-	terrible happened.
+	Mas, então, uma coisa
+	terrível aconteceu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	During the violent
-	fight with Gregar,
+	Durante a violenta
+	luta contra o Gregar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the scientist lost
-	control of the
-	program,and
+	o cientista perdeu
+	o controle sobre o
+	programa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it started to wildly
-	destroy everything
-	as well.
+	que começou a
+	destruir tudo
+	também, selvagemente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It might have been
-	because it was too
-	powerful...
+	Talvez porque ele
+	fosse poderoso demais...
 	"""
 	keyWait
 		any = false
@@ -836,8 +820,8 @@ script 33 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... So that means
-	that program...
+	... Então quer dizer
+	que esse programa...
 	"""
 	keyWait
 		any = false
@@ -850,14 +834,13 @@ script 34 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	Yes. That program
-	was in the shape of
-	a bird,
+	Sim. O programa tinha
+	a forma de uma ave,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and its codename..."
+	"e seu codinome era..."
 	keyWait
 		any = false
 	clearMsg
@@ -870,30 +853,30 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	msgOpen
-	"Because of Falzar,"
+	"Devido ao Falzar,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the damage on the
-	Net was even worse
-	than before...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	And that scientist
-	became the focus of
-	everyone's anger.
+	os estragos à Rede
+	ficaram ainda piores
+	do que já estavam...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"It's because you
-	 made that monster!"
-	is what people said.
+	e aquele cientista se
+	tornou o foco para o
+	ódio de todos.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eles diziam:
+	"Isso é tudo porque você
+	criou aquele monstro!"
 	"""
 	keyWait
 		any = false
@@ -904,49 +887,48 @@ script 36 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	In the end,instead
-	of being a "savior",
-	that scientist...
+	No final, em vez de
+	ser um "salvador",
+	aquele cientista...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"he became a \"devil\"."
+	"virou o \"demônio\"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He fell so far down
-	in society's eyes
-	that he could never
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	show his face in
-	public again.
-	... However!
+	Ele decaiu tanto aos
+	olhos da sociedade
+	que nunca mais pôde
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I believe this
-	scientist who was
-	called a devil,
+	mostrar seu rosto
+	em público.
+	... Porém!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and what he did..."
+	"""
+	Quanto a esse cientista
+	que foi rotulado de
+	demônio pelo que fez,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"eu acredito..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For him to be erased
-	from history is a
-	grave mistake.
+	que apagá-lo da história
+	foi um erro gravíssimo.
 	"""
 	keyWait
 		any = false
@@ -957,67 +939,69 @@ script 37 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	Anyway,even though
-	Falzar became wild,
+	Enfim, mesmo após o
+	Falzar sair do controle,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	he couldn't forget
-	his base program to
-	defeat Gregar.
+	a criatura não esqueceu
+	sua diretriz-base:
+	derrotar o Gregar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The two beasts
-	fought violently
-	many times.
+	As duas bestas lutaram
+	violentamente diversas
+	vezes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And then,one day,
-	they fought each
-	other into a corner.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"\"Whoever moved first\n would lose\""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	was what it had
-	become,according
-	to witnesses.
+	Foi então que, um dia,
+	elas encurralaram uma
+	à outra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's when the
-	people saw their
-	chance.
+	De acordo com
+	testemunhas, a situação
+	se resumia a...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They thought to bury
-	Gregar and Falzar
-	where they were __
+	"A fera que se movesse
+	primeiro, perderia."
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in the depths of the
-	Cyberworld...
+	Foi então que as pessoas
+	viram sua chance.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Elas decidiram enterrar
+	Gregar e Falzar
+	justamente onde estavam:
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	nas profundezas do
+	mundo cibernético...
 	"""
 	keyWait
 		any = false
@@ -1028,17 +1012,16 @@ script 38 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	They were successful
-	and peace returned
-	to the Net.
+	Elas conseguiram fazê-lo,
+	e a paz voltou à Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the
-	truth behind the
-	Cybeast legend.
+	E essa é a verdade
+	por trás da lenda
+	das Cyberbestas.
 	"""
 	keyWait
 		any = false
@@ -1048,21 +1031,21 @@ script 39 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	msgOpen
-	"... So you see,"
+	"... Entende agora?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I must have the
-	Cybeasts because...
+	Eu preciso me apossar
+	das Cyberbestas porque...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that "devil"
-	scientist was...
-	my grandfather...
+	aquele cientista
+	"demônio" era...
+	o meu avô...
 	"""
 	keyWait
 		any = false
@@ -1086,39 +1069,36 @@ script 41 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	My grandfather was
-	never able to master
-	the Cybeasts,
+	O meu avô nunca foi
+	capaz de dominar as
+	Cyberbestas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I will master
-	them!
+	mas eu serei diferente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With 2 Cybeasts,I
-	will control the
-	world,
+	Com duas Cyberbestas,
+	eu controlarei o mundo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and then the world
-	will see
+	e será então que o
+	mundo enfim entenderá
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just how brilliant
-	my grandfather
-	really was!
+	o quão brilhante o meu
+	avô era, na realidade!
 	"""
 	keyWait
 		any = false
@@ -1129,17 +1109,17 @@ script 42 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	Well,that's enough
-	talk about the past
-	for now.
+	Bom, mas chega de
+	falar do passado,
+	por ora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now be a good boy.
-	You know you have no
-	way to escape...
+	Vamos, não dê trabalho.
+	Você sabe que não há
+	como escapar...
 	"""
 	keyWait
 		any = false
@@ -1150,17 +1130,17 @@ script 43 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Gahahaha!
-	I'd tell ye not to
-	struggle,boy,but
+	Ga ha ha ha!
+	Eu te diria pra não
+	resistir, marujo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it doesn't matter
-	'cause I'll get ye
-	in the end anyway!
+	mas não importa, porque
+	eu vou te pegar no
+	final de qualquer jeito!
 	"""
 	keyWait
 		any = false
@@ -1170,21 +1150,22 @@ script 44 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	msgOpen
-	"Ah,perfect timing."
+	"Ah, bem na hora."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This boy just barged
-	into my room uninvited.
+	Esse menino invadiu
+	a minha sala sem ser
+	convidado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take him away and
-	see that he gets
-	what he deserves.
+	Leve-o daqui e faça
+	com que sofra as
+	devidas consequências.
 	"""
 	keyWait
 		any = false
@@ -1197,15 +1178,16 @@ script 45 mmbn6 {
 		mugshot = DisguiseChaud
 	msgOpen
 	"""
-	Actually,Mayor,I'd
-	like to know if
+	Na verdade, senhor
+	Prefeito, eu gostaria
+	de saber se o senhor
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you know Mr.Pirate
-	there.
+	conhece esse tal
+	pirata aqui.
 	"""
 	keyWait
 		any = false
@@ -1218,9 +1200,9 @@ script 46 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	A bodyguard doesn't
-	need to know that
-	sort of information.
+	Um guarda-costas não
+	precisa saber desse
+	tipo de informação.
 	"""
 	keyWait
 		any = false
@@ -1233,8 +1215,8 @@ script 47 mmbn6 {
 		mugshot = DisguiseChaud
 	msgOpen
 	"""
-	He is someone you
-	know,then?
+	Então ele É alguém
+	que o senhor conhece...
 	"""
 	keyWait
 		any = false
@@ -1245,16 +1227,16 @@ script 48 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	... You're acting
-	funny...
+	... Você está
+	agindo estranho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're just a pit_
-	bull whose job is
-	to protect me.
+	Ainda mais para um
+	cachorrinho cujo único
+	dever é me proteger.
 	"""
 	keyWait
 		any = false
@@ -1267,25 +1249,24 @@ script 49 mmbn6 {
 		mugshot = DisguiseChaud
 	msgOpen
 	"""
-	Actually,that's not
-	quite true.
+	Na verdade,
+	não é bem assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"My real job..."
+	"O meu verdadeiro dever..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is to find out about
-	your connection to
-	WWW!
+	é descobrir a sua
+	ligação com a WWW!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Enter."
+	"... Entrem."
 	keyWait
 		any = false
 	end
@@ -1295,8 +1276,7 @@ script 50 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	They're...
-	They're CopyBots!
+	São... CópiRoides!
 	"""
 	keyWait
 		any = false
@@ -1309,8 +1289,7 @@ script 51 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	What is the meaning
-	of this!?
+	O que significa isso?!
 	"""
 	keyWait
 		any = false
@@ -1322,29 +1301,28 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = DisguiseChaud
 	msgOpen
-	"The meaning?"
+	"O que significa?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm just doing what
-	I came here to do.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	To find evil people
-	like you,arrest
-	them,and
+	Eu só estou fazendo
+	o que vim aqui fazer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	reveal them to the
-	public no matter who
-	they are!
+	Encontrar pessoas
+	malignas como você,
+	prendê-las
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e expô-las ao público,
+	não importa quem sejam!
 	"""
 	keyWait
 		any = false
@@ -1358,13 +1336,13 @@ script 53 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Ch_"
+	"Ch-"
 	wait
 		frames = 30
-	"Ch_"
+	"Ch-"
 	wait
 		frames = 30
-	"Ch_"
+	"Ch-"
 	wait
 		frames = 30
 	"Chaud!!!"
@@ -1375,11 +1353,11 @@ script 53 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MayorCain
-	"Curses! An Official!"
+	"Droga! Um Oficial!"
 	keyWait
 		any = false
 	clearMsg
-	"You tricked me!"
+	"Você me enganhou!"
 	keyWait
 		any = false
 	clearMsg
@@ -1391,14 +1369,14 @@ script 54 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Mayor Cain,Captain
-	Blackbeard__you two
-	are under arrest.
+	Prefeito Cain, Capitão
+	Barba-Negra... Vocês
+	dois estão presos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Arrest them!!"
+	"Capturem-nos!!"
 	keyWait
 		any = false
 	end
@@ -1408,9 +1386,9 @@ script 55 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Let me go!
-	Let me go,ye yellow
-	scrap of junk!
+	Me solta!
+	Me solta, sua
+	lata-velha suja!
 	"""
 	keyWait
 		any = false
@@ -1422,13 +1400,13 @@ script 56 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	msgOpen
-	"N_No! Not now..."
+	"N-não! Justo agora..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Cybeasts are
-	mine!!
+	As Cyberbestas
+	são minhas!!
 	"""
 	keyWait
 		any = false
@@ -1442,24 +1420,24 @@ script 57 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can't believe that
-	weird guy was you
-	all along,Chaud...
+	Eu não acredito que
+	aquele esquisitão
+	era você, Chaud...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you had to
-	hide who you were on
-	this mission,but
+	Sei que você tinha
+	que esconder que
+	tava nessa sua missão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	couldn't you have at
-	least told me!?
+	mas podia, pelo menos,
+	ter contado pra mim, né?!
 	"""
 	keyWait
 		any = false
@@ -1472,16 +1450,16 @@ script 58 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	To fool your enemy,
-	first you must fool
-	your friend...
+	Pra enganar o inimigo,
+	comece enganando os
+	amigos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Didn't I say that
-	a long time ago?
+	Eu já te disse
+	isso antes, não?
 	"""
 	keyWait
 		any = false
@@ -1494,9 +1472,8 @@ script 59 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're just as
-	straight_laced as
-	ever!
+	Inflexível como sempre!
+	Credo!
 	"""
 	keyWait
 		any = false
@@ -1509,8 +1486,9 @@ script 60 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	And you're still
-	too nice.
+	E você continua
+	bonzinho demais,
+	como sempre.
 	"""
 	keyWait
 		any = false
@@ -1522,7 +1500,7 @@ script 61 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey!"
+	"Ei!"
 	keyWait
 		any = false
 	clearMsg
@@ -1534,46 +1512,45 @@ script 62 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	After the Cybeast
-	was sealed inside
-	MegaMan,you were
+	Depois que a Cyberbesta
+	foi selada dentro do
+	MegaMan, você passou a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	being followed
-	by many people on
-	Mayor Cain's orders
+	ser seguido por várias
+	pessoas sob ordens do
+	Prefeito Cain,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so that he could get
-	the Cybeast.
+	que queria obter
+	a Cyberbesta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... You probably had
-	no idea,I'd imagine.
+	... Imagino que você
+	nem suspeitasse.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I were to have
-	even tried to talk
-	to you,
+	Se eu tivesse tentado
+	falar com você,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my cover would've
-	been blown.
+	a minha identidade
+	seria exposta.
 	"""
 	keyWait
 		any = false
@@ -1585,7 +1562,7 @@ script 63 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I_I see..."
+	"E-entendi..."
 	keyWait
 		any = false
 	clearMsg
@@ -1597,9 +1574,9 @@ script 64 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Anyway,Lan,we don't
-	have time to stand
-	around and talk.
+	Enfim, Lan, não temos
+	tempo para ficar de
+	conversa aqui.
 	"""
 	keyWait
 		any = false
@@ -1612,8 +1589,8 @@ script 65 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah! I've got to
-	go after MegaMan!
+	É! Eu tenho que ir
+	atrás do MegaMan!
 	"""
 	keyWait
 		any = false
@@ -1626,31 +1603,24 @@ script 66 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I've already used
-	that computer to
+	Eu já usei aquele
+	computador pra remover
+	a barreira do SubSolo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	remove the barrier
-	to the Underground.
+	Havia segurança,
+	mas nada que me
+	desse trabalho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There was security,
-	but it wasn't
-	anything special.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You should be able
-	to get to the
-	Underground now.
+	Agora, você deve
+	conseguir chegar lá.
 	"""
 	keyWait
 		any = false
@@ -1662,14 +1632,13 @@ script 67 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thank you!"
+	"Valeu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going to find
-	and bring MegaMan
-	home!
+	Eu vou achar o MegaMan
+	e trazer ele de volta!
 	"""
 	keyWait
 		any = false
@@ -1681,72 +1650,72 @@ script 68 mmbn6 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Lan,be careful."
+	"Lan, tome cuidado."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The situation right
-	now is very complex.
+	A situação agora
+	é bem delicada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Listen carefully."
+	"Escute com atenção."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Right now,there are
-	2 groups after
-	MegaMan.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The first is a group
-	you know very
-	well... WWW.
+	No momento, existem
+	dois grupos que querem
+	o MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The second is a
-	group that was being
-	run by the Mayor.
+	O primeiro é um grupo
+	que você conhece bem...
+	A WWW.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Originally,the Mayor
-	was working hand in
-	hand with WWW,but
+	O segundo é um grupo
+	que estava sendo
+	chefiado pelo Prefeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	recently,they seem
-	to have parted ways.
+	Originalmente,
+	o Prefeito estava
+	aliado à WWW,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mayor Cain seemed to
-	have found his own
-	power...
+	mas eles parecem ter se
+	separado recentemente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For example,the
-	Cybeast Worshippers
-	of the Undernet...
+	O Prefeito Cain parece
+	ter achado um poder
+	próprio...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Por exemplo, os Adoradores
+	das Cyberbestas,
+	da Undernet...
 	"""
 	keyWait
 		any = false
@@ -1759,8 +1728,8 @@ script 69 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	They were working
-	for the Mayor!?
+	Eles trabalhavam
+	pro Prefeito?!
 	"""
 	keyWait
 		any = false
@@ -1771,54 +1740,53 @@ script 70 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	They only knew him
-	as the "priest".
+	Eles só o conheciam como
+	o "sumo sacerdote".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Hmph,those
-	Worshippers'
-	teachings...
+	... Hmpf, os ensinamentos
+	desses Adoradores...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They were all made
-	up by the Mayor.
+	foram todos inventados
+	pelo Prefeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But those guys are
-	not a big deal.
+	Mas eles são
+	peixe pequeno.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now that their
-	"priest" has been
-	arrested,
+	Agora que o "sumo
+	sacerdote" deles
+	foi preso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they should
-	naturally stop their
-	operations.
+	espera-se que eles,
+	naturalmente, cessem
+	suas operações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The real problem is
-	the other part of
-	the Mayor's group.
+	O real problema aqui
+	é a outra parte do
+	grupo do Prefeito.
 	"""
 	keyWait
 		any = false
@@ -1830,7 +1798,7 @@ script 71 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The other part?"
+	"Outra parte?"
 	keyWait
 		any = false
 	clearMsg
@@ -1843,33 +1811,33 @@ script 72 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	It seems the Mayor
-	was able to steal a
-	few people from WWW.
+	Parece que o Prefeito
+	conseguiu roubar algumas
+	pessoas da WWW.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	From the looks of it
-	earlier,I'd say
-	Blackbeard was one.
+	Pelo que vimos agora,
+	dá pra concluir que o
+	Barba-Negra era uma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,even with the
-	Mayor gone,they
-	probably won't stop.
+	Enfim, mesmo com o
+	Prefeito removido,
+	eles não devem parar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're almost
-	definitely still
-	after MegaMan.
+	Tenho quase certeza
+	de que ainda irão
+	atrás do MegaMan.
 	"""
 	keyWait
 		any = false
@@ -1882,8 +1850,8 @@ script 73 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I gotcha.
-	I'll be careful.
+	Beleza.
+	Eu vou me cuidar.
 	"""
 	keyWait
 		any = false
@@ -1894,17 +1862,17 @@ script 74 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I've still got a few
-	things I have to ask
-	the Mayor,so I can't
+	Eu ainda tenho umas
+	coisas pra perguntar pro
+	prefeito, então não posso
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	go with you to the
-	Underground. Will
-	you be OK alone?
+	ir com você pro
+	SubSolo. Você vai
+	ficar bem sozinho?
 	"""
 	keyWait
 		any = false
@@ -1917,9 +1885,9 @@ script 75 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'll be OK.
-	I'm not gonna do
-	anything stupid!
+	Claro que eu vou.
+	Não vou fazer nenhuma
+	idiotice, não!
 	"""
 	keyWait
 		any = false
@@ -1931,19 +1899,19 @@ script 76 mmbn6 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Hmm,alright."
+	"Hmm, certo, então."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I can make it,I
-	will send ProtoMan
-	to you later.
+	Se der tempo, eu
+	mando o ProtoMan
+	atrás de você depois.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Lan,stay alert."
+	"... Lan, fique alerta."
 	keyWait
 		any = false
 	clearMsg
@@ -1954,7 +1922,7 @@ script 77 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I will!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	end

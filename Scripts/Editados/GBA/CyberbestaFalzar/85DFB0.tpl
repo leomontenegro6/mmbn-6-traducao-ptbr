@@ -11,23 +11,22 @@ script 0 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	That's a huge
-	alligator...
+	Que jacarézões...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That thing got out
-	during the incident
-	a while back,right?
+	Eles escaparam durante
+	aquele incidente que
+	teve, não foi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just thinking about
-	it is scary...
+	Nossa, dá medo
+	só de pensar...
 	"""
 	keyWait
 		any = false
@@ -43,17 +42,17 @@ script 1 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	I have no idea
-	what goes on inside
-	a penguin's mind...
+	Eu não consigo mesmo
+	entender no que os
+	pinguins pensam...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They look interested
-	in something,but
-	what can it be?
+	Eles parecem tão
+	interessados em alguma
+	coisa... mas no quê?
 	"""
 	keyWait
 		any = false
@@ -79,23 +78,24 @@ script 2 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm researching
-	sharks here.
+	Estou estudando
+	os tubarões daqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When you get to
-	be like me,you
-	can tell a shark's
+	Quando se estuda
+	tanto quanto eu,
+	dá pra dizer o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	size just by seeing
-	its dorsal fin!
+	comprimento de um
+	tubarão só de olhar
+	a barbatana dorsal!
 	"""
 	keyWait
 		any = false
@@ -106,17 +106,16 @@ script 5 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I just heard an
-	announcement that
-	the Aquarium is
+	Acabei de ouvir um
+	anúncio de que o Aquário
+	já vai fechar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	closing already...
-	I wonder if
-	something happened?
+	Será que aconteceu
+	alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -127,16 +126,15 @@ script 6 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	HUH!?
-	Closed already!?
+	UÉ?!
+	Já vai fechar?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to see
-	the penguins some
-	more!!
+	Mas eu queria ver
+	mais dos pinguins!!
 	"""
 	keyWait
 		any = false
@@ -147,22 +145,22 @@ script 7 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Even when the
-	Aquarium is closed,
+	Mesmo quando o
+	Aquário fecha,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	researchers are
-	allowed to stay!
+	pesquisadores têm
+	permissão para ficar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I can stay and
-	observe the sharks!
+	Então posso ficar aqui
+	observando os tubarões.
 	"""
 	keyWait
 		any = false
@@ -173,9 +171,9 @@ script 10 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	It seems the sharks
-	don't have their
-	usual sense of calm.
+	Parece que os tubarões
+	não estão calmos como
+	de costume...
 	"""
 	keyWait
 		any = false
@@ -186,17 +184,15 @@ script 15 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The sharks are
-	making quite a
-	racket...
+	Os tubarões estão
+	tão agitados...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They have been
-	strange since
-	yesterday...
+	Eles têm andado
+	estranhos desde ontem...
 	"""
 	keyWait
 		any = false
@@ -207,9 +203,9 @@ script 40 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Hey Grandpa...
-	I want to be that
-	big someday!
+	Ei, vovô...
+	Um dia, eu quero
+	ficar grandão assim!
 	"""
 	keyWait
 		any = false
@@ -217,8 +213,7 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Don't say silly
-	things like that...
+	Você fala cada coisa...
 	"""
 	keyWait
 		any = false
@@ -229,27 +224,29 @@ script 41 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Ahh... A break from
-	work... What should
-	I drink?
+	Ahh...
+	Uma pausa no trabalho...
+	O que eu vou tomar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? That's a new
-	drink!
+	Hã? Essa bebida é nova!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"NEW AWESOME\n WATER EX\"?"
+	"""
+	"NOVA E RADICAL
+	ÁGUA EX"?
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmmm... I guess I'll
-	give it a try!
+	Hmmm... Bom, acho
+	que vou experimetnar!
 	"""
 	keyWait
 		any = false
@@ -260,9 +257,9 @@ script 50 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Hey Grandpa!
-	I wish I was born
-	as a dolphin!!
+	Vovô, vovô!
+	Eu queria ter nascido
+	um golfinho!!
 	"""
 	keyWait
 		any = false
@@ -270,8 +267,7 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Don't say silly
-	things like that...
+	Você fala cada coisa...
 	"""
 	keyWait
 		any = false
@@ -282,16 +278,16 @@ script 51 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Wax on... Wax off...
-	Cleaning the cages
-	is hard work!!
+	Bota a cera... tira a
+	cera... Dá um trabalhão,
+	limpar as gaiolas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the
-	alligator pen...
+	Agora, o cercadinho
+	do jacaré...
 	"""
 	keyWait
 		any = false
@@ -302,8 +298,9 @@ script 52 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	A dolphin's shape
-	is really amazing...
+	Os golfinhos têm
+	um formato tão
+	interessante...
 	"""
 	keyWait
 		any = false

@@ -16,30 +16,30 @@ script 0 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The recent arrest of
-	Mayor Cain was a
-	major blow.
+	A prisão recente do
+	Prefeito Cain foi um
+	baque bem forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The JudgeTree
-	hacked...!?
+	"O Árvore Juíza
+	foi hackeada...?!"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Mayor a
-	criminal...!?
+	"O Prefeito é um
+	criminoso...?!"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know what
-	to believe anymore!
+	Eu não sei mais
+	no que acreditar!
 	"""
 	keyWait
 		any = false
@@ -50,9 +50,9 @@ script 5 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I hope the Expo
-	brings back the
-	shine to Cyber City!
+	Espero que a Exposição
+	restaure a alegria da
+	Cidade Saibher!
 	"""
 	keyWait
 		any = false
@@ -63,9 +63,9 @@ script 10 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Yawwwnnn...
-	Another hard day at
-	work for me...
+	Uaaaahhh...
+	Mais um dia de trabalho
+	puxado pra mim...
 	"""
 	keyWait
 		any = false
@@ -73,14 +73,14 @@ script 10 mmbn6 {
 }
 script 15 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -96,8 +96,7 @@ script 16 mmbn6 {
 	msgOpen
 	"""
 	Lan Hikari!!
-	Time for your life
-	sentence!
+	Hora da sua condenação!
 	"""
 	keyWait
 		any = false

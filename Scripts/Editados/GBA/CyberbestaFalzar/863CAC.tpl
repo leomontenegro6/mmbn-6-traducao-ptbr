@@ -6,16 +6,15 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	If we keep going,
+	Lan, se a gente
+	der mais um passo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we might get trapped
-	again by Punishment
-	Robots!
+	vamos ser pegos de novo
+	pelos Robôs de Punição!
 	"""
 	keyWait
 		any = false
@@ -24,8 +23,9 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	NO UNAUTHORIZED
-	PERSONNEL!!
+	PROIBIDA A ENTRADA
+	DE PESSSOAL NÃO
+	AUTORIZADO!!
 	"""
 	keyWait
 		any = false
@@ -36,16 +36,15 @@ script 2 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	That door is
-	currently being
-	repaired.
+	A porta está sendo
+	consertada agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please wait a bit
-	longer!
+	Por favor,
+	pedimos paciência!
 	"""
 	keyWait
 		any = false
@@ -60,9 +59,8 @@ script 3 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	They won't have a
-	court session
-	today.
+	Não será aberta
+	uma sessão hoje.
 	"""
 	keyWait
 		any = false
@@ -89,9 +87,9 @@ script 4 mmbn6 {
 		jumpIfTrue = 9
 		jumpIfFalse = continue
 	"""
-	Lan,jack into the
-	tablet and let's go
-	to Green Area!
+	Lan, me conecta na
+	tabuleta e vamos
+	pra Área Verde!
 	"""
 	keyWait
 		any = false
@@ -101,7 +99,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,let's find Dad!"
+	"Lan, vamos\natrás do papai!"
 	keyWait
 		any = false
 	end
@@ -111,9 +109,8 @@ script 6 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go around
-	and ask questions
-	about Dad!
+	Lan, pergunta por
+	aí sobre o papai!
 	"""
 	keyWait
 		any = false
@@ -128,9 +125,9 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	There are tons of
-	Punishment Robots
-	in the courtroom!
+	Tem uma tonelada de
+	Robôs de Punição na
+	sala de audiências!
 	"""
 	keyWait
 		any = false
@@ -141,9 +138,8 @@ script 8 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's check out
-	the inside of the
-	courtroom!
+	Lan, vamos conferir a
+	sala de audiências!
 	"""
 	keyWait
 		any = false
@@ -154,9 +150,8 @@ script 9 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's check out
-	the area across from
-	the gate!
+	Lan, vamos conferir a
+	área além do portão!
 	"""
 	keyWait
 		any = false
@@ -177,15 +172,16 @@ script 50 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Ummm... Sorry to
-	spring this on you,
+	Hummm...
+	Desculpa perguntar
+	isso de repente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but do you have a
-	"
+	mas você teria um
+	chip "
 	"""
 	printChip
 		buffer = 0
@@ -194,13 +190,13 @@ script 50 mmbn6 {
 	printCode
 		buffer = 0
 		code = S
-	"\" chip?"
+	"\"?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you've got one,
-	care to trade for a
+	Se tiver, aceitaria
+	trocá-lo por um
 	"
 	"""
 	printChip
@@ -214,7 +210,7 @@ script 50 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"What do you think?"
+	"Que tal?"
 	keyWait
 		any = false
 	clearMsg
@@ -229,7 +225,7 @@ script 50 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -238,7 +234,7 @@ script 50 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -252,7 +248,7 @@ script 50 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Scientist
-	"I see..."
+	"Entendo..."
 	keyWait
 		any = false
 	end
@@ -262,15 +258,15 @@ script 51 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The reason you came
-	to talk to me is
-	because the chance
+	O motivo para você ter
+	vindo falar comigo é
+	porque as chances de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of you trading your
+	você trocar o seu
 	"
 	"""
 	printChip
@@ -281,8 +277,8 @@ script 51 mmbn6 {
 		buffer = 0
 		code = S
 	"""
-	" for
-	my "
+	" pelo
+	meu "
 	"""
 	printChip
 		buffer = 0
@@ -296,9 +292,9 @@ script 51 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	is about... Hmmm...
-	50%! Am I right?
-	Want to trade?
+	são de... Hmmm...
+	50%! Acertei?
+	Você quer trocar?
 	"""
 	keyWait
 		any = false
@@ -314,7 +310,7 @@ script 51 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -323,7 +319,7 @@ script 51 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -337,7 +333,7 @@ script 51 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Scientist
-	"Hmmph... I see..."
+	"Hmmpf... Entendo..."
 	keyWait
 		any = false
 	end
@@ -358,16 +354,15 @@ script 52 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm happy you
-	decided to trade
-	with me!!
+	Fico tão feliz que
+	decidiu trocar comigo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here is my part
-	of the deal...
+	Tome, a minha parte
+	do acordo...
 	"""
 	keyWait
 		any = false
@@ -380,7 +375,7 @@ script 52 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printChip
@@ -399,9 +394,9 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Having this chip
-	will surely speed up
-	my research...
+	Ter este chip com
+	certeza vai acelerar
+	a minha pesquisa...
 	"""
 	keyWait
 		any = false
@@ -414,8 +409,8 @@ script 53 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Really...?
-	You don't have
+	Ah...
+	Você não tem o
 	"
 	"""
 	printChip
@@ -425,28 +420,27 @@ script 53 mmbn6 {
 	printCode
 		buffer = 0
 		code = S
-	"\"!?"
+	"\"?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You sure you don't
-	have one in your
-	folder?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If you don't,we
-	can't trade!
+	Tem certeza que não
+	tem um na sua pasta?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come back when
-	you have a
+	Sem o chip, não
+	há como trocar!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Volte quando tiver
+	obtido um
 	"
 	"""
 	printChip
@@ -466,9 +460,9 @@ script 54 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Thanks to you,my
-	research is going
-	great!
+	Graças a você, a minha
+	pesquisa está avançando
+	maravilhosamente!
 	"""
 	keyWait
 		any = false

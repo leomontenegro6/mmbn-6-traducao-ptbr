@@ -6,16 +6,16 @@ script 0 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Umm... Ngh...
-	My vision's getting
-	blurry...
+	Hum... Ngh...
+	A minha visão tá
+	começando a borrar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The robots are
-	closing in...
+	Os robôs tão
+	chegando perto...
 	"""
 	keyWait
 		any = false
@@ -28,15 +28,15 @@ script 1 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	N_No,no more...
-	W_Water...
+	N-não aguento mais...
+	Á-água...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Tab
-	"We're doomed..."
+	"A gente já era..."
 	keyWait
 		any = false
 	clearMsg
@@ -47,7 +47,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"M_MegaMan..."
+	"M-MegaMan..."
 	keyWait
 		any = false
 	clearMsg
@@ -78,7 +78,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I'm here!!"
+	"Eu tô aqui!!"
 	keyWait
 		any = false
 	end
@@ -88,8 +88,8 @@ script 6 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Why don't you cool
-	down,you hotheads!!
+	Esfriem essa cuca aí,
+	seus esquentadinhos!!!
 	"""
 	keyWait
 		any = false
@@ -100,8 +100,8 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm sorry I took
-	so long,Lan.
+	Desculpa essa
+	demora toda, Lan.
 	"""
 	keyWait
 		any = false
@@ -114,15 +114,15 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No,you saved
-	us,MegaMan!
+	Que nada! Cê salvou
+	a gente, MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now we've
-	gotta stop Mick!!
+	Agora a gente tem
+	que deter o Mick!
 	"""
 	keyWait
 		any = false
@@ -135,15 +135,14 @@ script 9 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wait,the CopyBot's
-	almost out of power.
+	Opa, o CópiRoide tá
+	quase sem bateria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to
-	transfer out.
+	Vou ter que sair dele.
 	"""
 	keyWait
 		any = false
@@ -154,8 +153,9 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Welcome back. OK,
-	let's do it,MegaMan!
+	Bem-vindo de volta.
+	OK, vamos nessa,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -167,7 +167,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"OK!!"
+	"Vamos!!"
 	keyWait
 		any = false
 	end

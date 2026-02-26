@@ -4,17 +4,16 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	The theory of
-	CopyBots and the
-	future of man is
+	A teoria dos CópiRoides
+	e do futuro da
+	humanidade está exposta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	being shown on this
-	panel in an easy to
-	understand way.
+	de forma clara para
+	leigos neste painel.
 	"""
 	keyWait
 		any = false
@@ -23,32 +22,30 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	CopyBot abilities
-	are being explained
-	in an easy to
+	Neste monitor são
+	explicadas, em termos
+	simples, as habilidades
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	understand way on
-	this monitor.
+	dos CópiRoides.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems that if the
-	special limiter on a
-	CopyBot breaks,
+	Parece que, se um
+	limitador especial que
+	há neles se quebrasse,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the CopyBot could
-	become very
-	powerful.
+	os CópiRoides poderiam
+	ficar bem fortes.
 	"""
 	keyWait
 		any = false
@@ -61,13 +58,13 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	A control panel for
-	this pavilion.
+	Um painel de controle
+	deste pavilhão.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You can jack in."
+	"Você pode se conectar."
 	keyWait
 		any = false
 	end
@@ -75,9 +72,9 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	It's too dangerous
-	to go on! You'll get
-	shocked!!
+	É perigoso demais
+	seguir! Você levará
+	um choque!!
 	"""
 	keyWait
 		any = false
@@ -86,24 +83,23 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	CopyBot abilities
-	are being explained
-	in an easy to
+	Neste monitor são
+	explicadas, em termos
+	simples, as habilidades
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	understand way on
-	this monitor.
+	dos CópiRoides.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looking closely,you
-	see a port for
-	jacking in...
+	Olhando com mais
+	atenção, você vê uma
+	entrada de conexão...
 	"""
 	keyWait
 		any = false

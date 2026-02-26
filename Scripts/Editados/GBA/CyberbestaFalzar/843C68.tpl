@@ -4,9 +4,8 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	A very big fan...
-	It can create very
-	strong winds.
+	Um enorme ventilador...
+	Gera ventos fortíssimos.
 	"""
 	keyWait
 		any = false
@@ -17,16 +16,16 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	A very big air
-	conditioner...
+	Um gigantesco
+	ar condicionado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It can create very
-	cold,winter_like
-	conditions.
+	Capaz de criar condições
+	frias, praticamente um
+	inverno artificial.
 	"""
 	keyWait
 		any = false
@@ -37,14 +36,14 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	A very big heater...
-	It can create very
-	hot,summer_like
+	Um colossal aquecedor...
+	Capaz de criar condições
+	quentes,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"conditions."
+	"praticamente um\nverão artificial."
 	keyWait
 		any = false
 	clearMsg
@@ -54,9 +53,9 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	A very big shower...
-	It can create large
-	rainstorms.
+	Um chuveiro grandão...
+	Capaz de criar fortes
+	tempestades.
 	"""
 	keyWait
 		any = false
@@ -67,25 +66,24 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	Mr.Weather decides
-	the weather,but he
-	also
+	O Seu Cleema decide o
+	tempo, mas ele também
+	irradia energia de seu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	radiates energy from
-	his large sun_like
-	spherical body.
+	enorme corpo esférico
+	com aspecto de sol.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He really is the
-	center of weather
-	for Cyber City.
+	De fato, é o centro
+	climático da Cidade
+	Saibher.
 	"""
 	keyWait
 		any = false
@@ -94,17 +92,16 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	An antenna that was
-	used to broadcast
-	the weather report,
+	Uma antena outrora usada
+	para transmitir o
+	boletim do tempo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but it's not being
-	used now,so it's
-	just another object.
+	mas que, agora, é só
+	mais uma decoração.
 	"""
 	keyWait
 		any = false
@@ -113,9 +110,9 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	There is no way to
-	go past this strong
-	cyclone!!
+	Não há como passar
+	por esse ciclone
+	violento!!
 	"""
 	keyWait
 		any = false
@@ -124,9 +121,8 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	There is a giant
-	chunk of ice
-	blocking the way!!
+	Há um bloco gigante de
+	gelo barrando o caminho!!
 	"""
 	keyWait
 		any = false
@@ -135,9 +131,9 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	It's impossible to
-	go through the
-	burning hot air!!
+	É impossivel passar por
+	esse ar intensamente
+	quente!!
 	"""
 	keyWait
 		any = false
@@ -146,9 +142,8 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	The water downpour
-	is impossible to
-	pass through!!
+	É impossível passar
+	pelo fluxo de água!!
 	"""
 	keyWait
 		any = false
@@ -157,14 +152,14 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	An antenna that is
-	used to broadcast
-	the weather report,
+	Uma antena utilizada
+	para transmitir o
+	boletim do tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You can jack in..."
+	"Possui entrada\nde conexão..."
 	keyWait
 		any = false
 	end
@@ -172,9 +167,9 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	msgOpen
 	"""
-	A port for jacking
-	in was built in for
-	control purposes.
+	Uma entrada de conexão
+	foi instalada para
+	ajudar no controle.
 	"""
 	keyWait
 		any = false

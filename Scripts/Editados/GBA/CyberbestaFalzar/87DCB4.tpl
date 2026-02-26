@@ -10,8 +10,8 @@ script 0 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	... Things look
-	great from here!
+	... Daqui,
+	o negócio promete!
 	"""
 	keyWait
 		any = false
@@ -21,7 +21,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	msgOpen
-	"... No way!"
+	"... Não acredito!"
 	keyWait
 		any = false
 	end
@@ -35,9 +35,8 @@ script 2 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	... I don't know
-	why,but you amuse
-	me...
+	... Não sei por que,
+	mas você me diverte...
 	"""
 	keyWait
 		any = false
@@ -47,7 +46,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	msgOpen
-	"... Yeah,yeah..."
+	"... É, é..."
 	keyWait
 		any = false
 	end

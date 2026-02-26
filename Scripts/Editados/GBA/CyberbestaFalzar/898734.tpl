@@ -6,15 +6,15 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Why is there a
-	CopyBot here?
+	Por que é que tem
+	um CópiRoide aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And isn't this the
-	one from school...?
+	E esse não é o
+	lá da escola...?
 	"""
 	keyWait
 		any = false
@@ -26,7 +26,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! This is it!"
+	"Lan! É isso!"
 	keyWait
 		any = false
 	end
@@ -36,8 +36,7 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What do you
-	mean,MegaMan?
+	"É isso" o quê, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -50,25 +49,24 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	If you transfer me
-	into this CopyBot,
-	then it doesn't
+	Se você me transferir
+	pra esse CópiRoide, eu
+	vou poder nadar tranquio,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	matter if I get
-	stung,and I can
-	swim freely!
+	sem me preocupar
+	com queimadura!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can get the
-	seal's ball this
-	way!
+	Aí a gente pode
+	pegar a bola do
+	elefante-marinho!
 	"""
 	keyWait
 		any = false
@@ -81,8 +79,8 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're right!
-	This is the answer!
+	Verdade!
+	Essa é a resposta!
 	"""
 	keyWait
 		any = false
@@ -93,15 +91,15 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... That mysterious
-	girl...
+	... Aquela menina
+	misteriosa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did she come to
-	help us out...?
+	Ele apareceu aqui pra
+	ajudar a gente...?
 	"""
 	keyWait
 		any = false

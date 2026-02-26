@@ -9,25 +9,24 @@ script 0 mmbn6 {
 	positionArrow
 		left = 210
 		top = 108
-	"Hehehehe..."
+	"He he he he..."
 	keyWait
 		any = false
 	clearMsg
-	"This UnderBBS..."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It is for posting
-	dangerous things you
-	can't post in other
-	"""
+	"Este UnderFórum..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	places...
-	Hehehehe...
+	É pra postar coisas
+	perigosas que não dá
+	pra postar nos outros...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	He he he he...
 	"""
 	keyWait
 		any = false
@@ -42,24 +41,23 @@ script 1 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	What's up with
-	that Rock Virus!?
+	Qual é a daquele
+	vírus de pedra?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My surefire one_hit
-	delete didn't work
-	at all!
+	A minha técnica de
+	deleção de um turno
+	só não funcionou nele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Somebody tell me
-	how to delete that
-	thing!
+	Alguém aí fala como
+	deleta aquele troço!
 	"""
 	keyWait
 		any = false
@@ -74,31 +72,31 @@ script 2 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	It's hard to hurt
-	its armor with
-	normal attacks...
+	É difícil acertar a
+	armadura dele com
+	ataques normais...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's my trick...
-	You can delete it
-	in one shot by
+	Vou te contar o meu
+	macete... Dá pra deletar
+	ele num gulpe só
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hitting it with a
-	chip that has a
+	atingindo ele com
+	um chip que tenha a
+	habilidade especial
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	special ability to
-	break things...
+	de quebrar coisas...
 	"""
 	keyWait
 		any = false
@@ -113,46 +111,46 @@ script 3 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	If I install these
-	NaviCust parts,
+	Se eu instalar essas
+	peças no Customizador
+	de Navi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will be
-	unstoppable!!
+	vou ser invencível!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All of you install
-	them too,and relish
-	this great feeling!
+	Ó, vocês, instalem
+	elas também e sintam
+	essa sensação de poder!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What? The parts
-	are too big to
-	install!?
+	O quê? As peças
+	são grandes demais
+	pra instalar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmmphh!
+	Hmmpff!
 	ALAAALLABR!
-	Hmmphh! Amateurs!
+	Hmmpff! Amadores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's all you get
-	from me!!
+	É só isso que
+	eu vou dizer!!
 	"""
 	keyWait
 		any = false
@@ -167,24 +165,22 @@ script 4 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Seems like something
-	has taken over the
-	Aquarium...
+	Parece que alguma
+	coisa tomou o Aquário...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's none of my
-	business you know...
+	Não que seja da
+	minha conta, né...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I'll relax
-	and check stuff
-	out around here!
+	Eu vou só relaxar e dar
+	um rolê por aqui, mesmo!
 	"""
 	keyWait
 		any = false
@@ -199,46 +195,45 @@ script 5 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Something tells me
-	the culprit is
-	connected to the
+	Alguma coisa me diz
+	que o culpado tem uma
+	ligação com o Aquário...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Aquarium...
-	Hehehehehe...
+	He he he he he...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Exterior is
-	perfectly secure,so
+	O Exterior é
+	perfeitamente seguro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it must be an inside
-	job...
+	então só pode ter sido
+	um negócio interno...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hehehehe..."
+	"He he he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what
-	will happen next?
+	O que será que vai
+	rolar agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hehehehe...!!"
+	"He he he he...!!"
 	keyWait
 		any = false
 	waitHold
@@ -252,39 +247,37 @@ script 6 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Seems like someone
-	stopped the
-	disturbance before
+	Parece que alguém
+	parou o problema
+	antes dele se espalhar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it spread outward
-	from the Aquarium...
+	pra fora do Aquário...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hear it was some
-	little elementary
-	school kid...
+	Parece que foi um
+	pirralho do fundamental...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I dunno who it was
-	or where it was,but
-	someone find out!
+	Quem foi, eu não sei,
+	mas alguém aí devia
+	descobrir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ehhh,I don't really
-	care either way...
+	Eer, não que eu
+	ligue pra isso...
 	"""
 	keyWait
 		any = false
@@ -299,52 +292,51 @@ script 7 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I saw a strange
-	guy buying this
-	food... *woof*
+	Eu vi um cara mó
+	estranho comprando
+	uma comida aí... Au.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then something
-	I've never seen
-	before was there...
+	Aí, apareceu lá uma
+	coisa que eu nunca
+	tinha visto antes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And there was a
-	mysterious bone mark
-	like the one that's
+	E tinha uma marca
+	misteriosa de osso,
+	como a que tem circulado
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	been floating around
-	the Net...
+	pela Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is that!?
-	*woof*
+	O que será que era
+	aquilo?! Au!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Somebody help me!!
-	It's terrible!
-	I can't even sleep!
+	Alguém me ajuda!!
+	É horrível!
+	Eu nem consigo dormir!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*woof*"
+	"Au!"
 	keyWait
 		any = false
 	waitHold
@@ -357,55 +349,50 @@ script 8 mmbn6 {
 	positionArrow
 		left = 210
 		top = 108
-	"What's up everyone!"
+	"Fala, povo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll tell you some
-	stuff I found out!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If you use that
-	food in front of
-	one of those marks,
+	Eu vou contar pra
+	vocês umas coisas
+	que eu descobri!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can take a
-	shortcut through
-	a passage.
+	Se usar essa comida
+	na frente de uma
+	dessas marcas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what the
-	connection is with
+	dá pra pegar um atalho
+	em uma passagem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the food and the
-	shortcut...?
+	Qual será que é a
+	ligação entre a
+	comida e o atalho...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter what,you
-	gotta try it once!
+	Bom, todo mundo devia
+	experimentar fazer,
+	pelo menos uma vez!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Later!!"
+	"Falou!!"
 	keyWait
 		any = false
 	waitHold
@@ -419,58 +406,49 @@ script 9 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I got an awesome
-	special item!!
+	Eu consegui um item
+	super especial!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think it will
-	end up like that
-	thing...
+	É o seguinte...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They sell it
-	somewhere in the
-	Cyberworld.
+	Dá pra comprar ele
+	em algum ponto do
+	mundo cibernético.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here's a hint:Rain."
+	"Aí vai uma pista: chuva."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should go
-	look for it for
-	yourselves!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If you get the item,
-	check it out in
+	Cês deviam procurar
+	por ele também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	front of a bone
-	mark!
+	Se conseguir comprar,
+	confere ele na frente
+	de uma marca de osso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hahaha...
-	I think you'll get
-	addicted...
+	Ha ha ha...
+	Acho que vão se
+	viciar, viu...?
 	"""
 	keyWait
 		any = false
@@ -485,23 +463,22 @@ script 10 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Hey! Hey!
-	This is no joke!
+	Epa! Opa!
+	O bagulho é sério!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something has been
-	revived...!
+	Alguma coisa
+	foi revivida...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going to go hide
-	out! You guys be
-	careful too!!
+	Eu vou me esconder!
+	Cuidado vocês, também!!
 	"""
 	keyWait
 		any = false
@@ -516,41 +493,40 @@ script 11 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I went to check out
-	the other side...
+	Eu fui conferir
+	o outro lado...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's really crazy!"
+	"É muito louco!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even the silly Net
-	Police were defeated
-	in an instant!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	So I took my chance
-	and got outta
-	there!
+	Até a idiota da
+	NetPolícia foi
+	vencida rapidinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's been a while
-	since I've been
-	ready to delete!
+	Aí eu aproveitei a chance
+	e dei o fora de lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Muhahahaha!!"
+	"""
+	Faz um tempo que eu
+	não fico pronto pra
+	deletar!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Mua ha ha ha!!"
 	keyWait
 		any = false
 	waitHold
@@ -564,61 +540,61 @@ script 12 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	The end of the
-	world is at hand...
+	O fim do mundo
+	se aproxima...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The normally quiet
-	viruses have boiled
+	Os vírus normalmente
+	tranquilos se encheram
+	de fúria devido às
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	into a rage due to
-	the Cybeasts...
+	Cyberbestas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The world will be
-	overrun like never
+	O mundo será infestado
+	por espectros
+	desconnhecidos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	before with
-	unknown spectres!!
+	a uma escala
+	nunca antes vista!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Undernet will
-	soon be the only
-	Net!
+	Em breve, a Undernet
+	será a ÚNICA Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Muhahahahaha!"
+	"Mua ha ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
-	"Muhahahahaha!"
+	"Mua ha ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
-	"Muhahahahaha!"
+	"Mua ha ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
-	"Muha...*cough*"
+	"Mua... Cof!"
 	keyWait
 		any = false
 	waitHold
@@ -632,42 +608,36 @@ script 13 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	The viruses that
-	were whipped into a
+	Os vírus que ficaram
+	enlouquecidos parecem
+	estar voltando ao normal?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	rage seem to be
-	returning to normal?
+	E os espíritos das
+	Cyberbestas estão
+	desaparecendo...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Nããããooo...!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Alguém deletou
+	as Cyberbestas?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the Cybeasts
-	spirits are
-	disappearing...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Nooo...!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Did someone delete
-	the Cybeasts!?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It must have been
-	someone incredibly
-	strong...
+	Só pode ter sido
+	alguém extremamente
+	forte...
 	"""
 	keyWait
 		any = false
@@ -682,53 +652,45 @@ script 14 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	The trial in the
-	case of the Aquarium
+	O julgamento do caso
+	da ocupação do Aquário
+	está pra começar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	occupation incident
-	starts soon!
+	Se o cara for declarado
+	culpado, a gente vai ter
+	que se preocupar com
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If they find him
-	guilty,then we have
-	to worry about other
+	outros tipos de
+	punições horríveis!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	kinds of awful
-	punishments!!
+	"Proibido jogar
+	videogames por um ano"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No video games for
-	a year...
+	"Esperar 100 horas
+	pra usar o banheiro"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wait 100 hours
-	to go to the
-	bathroom...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Having to eat
-	brussel sprouts
-	with every meal...
+	"Ter que comer brócolis
+	três vezes por dia"...
 	"""
 	keyWait
 		any = false
@@ -738,9 +700,7 @@ script 14 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I get goosebumps
-	just thinking about
-	it!
+	Dá arrepios só de pensar!
 	"""
 	keyWait
 		any = false
@@ -755,24 +715,24 @@ script 15 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Everyone listen up!
-	It seems Dr.Hikari
-	got arrested!
+	Escuta aqui, gente!
+	Parece que o Dr. Hikari
+	foi preso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I dunno what he did,
-	but for him to go
-	crazy like that is
+	Eu não sei o que ele
+	fez, mas o fato dele
+	ter enlouquecido assim
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just a sign of the
-	times.
+	só mostra como o
+	mundo tá agora...
 	"""
 	keyWait
 		any = false
@@ -787,38 +747,36 @@ script 16 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Someone do something
-	about those stupid
+	Alguém pode dar um jeito
+	naqueles vírus malditos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sunglass wearin'
-	viruses!!
+	aqueles de
+	óculos escuros?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The flash bomb
-	that thing throws
-	explodes,and
+	Eles jogam aquela
+	bombinha lá que explode
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then it numbs the
-	body and you ain't
-	movin' no more!
+	e paralisa o seu corpo,
+	e aí cê fica atolado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Darn... I'm still
-	tingling all over!
+	Urgh... Meu corpo
+	tá todo penicando!
 	"""
 	keyWait
 		any = false
@@ -833,50 +791,43 @@ script 17 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I'm gonna tell you
-	all about the weak
+	Eu te conto sobre
+	os pontos fracos dos
+	vírus de óculos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	points of colored
-	glasses!
+	Tirem a cera do ouvido e
+	escutem bem aí, pessoal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone open your
-	ears and listen!
+	Sabe os óculos?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Those colored
-	glasses...
+	Vento arranca
+	eles na hora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wind will knock
-	them right off!
+	E, depois que eles
+	saem voando...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After they get
-	blown away...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	it's up to you
-	to find 'em!
+	cabe a vocês
+	encontrar eles!
 	"""
 	keyWait
 		any = false
@@ -891,40 +842,38 @@ script 18 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	You know,lately
-	the weather has been
-	really unstable...
+	Sabe, o clima anda
+	tão instável...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just when you think
-	it'll rain,the sun
-	comes out...
+	Bem quando cê acha
+	que vai chover, o
+	sol aparece...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And now when I think
-	sun... IT SNOWS!!
-	SNOWS... YES. SNOWS.
+	E agora, quando eu
+	espero sol... NEVA!!
+	NEVA... AHAM. NEVA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What in the world
-	is going on!?
+	O que é que tá
+	acontecendo, cara?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This isn't the
-	season for long
-	sleeve shirts!!
+	Não tamos na época
+	de usar casaco!!
 	"""
 	keyWait
 		any = false
@@ -943,25 +892,24 @@ script 19 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	THE WORLD IS ON THE
-	ROAD TO DESTRUCTION
-	AND DECAY...
+	O MUNDO RUMA À
+	DESTRUIÇÃO E
+	DECOMPOSIÇÃO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS IS THE FULL
-	POWER OF THE
-	CYBEASTS...
+	ESSE É O PODER TOTAL
+	DAS CYBERBESTAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE SHALL RISE UP
-	FOR THE ONES WE
-	WORSHIP!!
+	NÓS IREMOS NOS ERGUER
+	POR AQUELES QUE
+	VENERAMOS!!
 	"""
 	keyWait
 		any = false
@@ -982,48 +930,46 @@ script 20 mmbn6 {
 	positionArrow
 		left = 210
 		top = 108
-	"Yeeoooowww..."
+	"Aaaaargh..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's up with that
-	candle virus?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Just when you think
-	it's laughing,all
-	of a sudden,
+	Qual é a daquele
+	vírus vela?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fire comes shooting
-	out of its feet!
+	Bem quando cê acha que
+	ele tá rindo, do nada,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks to that,you
-	can count on getting
-	burned!
+	começa a sair fogo
+	dos pés dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yeeoooowww..."
+	"""
+	Por causa disso,
+	cê se queima, sempre!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Aaaaaii..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will someone do
-	something about
-	those things!!
+	Alguém faz alguma
+	coisa com aqueles
+	canalhas!!
 	"""
 	keyWait
 		any = false
@@ -1038,59 +984,48 @@ script 21 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	You just got to
-	knock some wind into
-	those wick burners!
+	É só dar uma soprada
+	na vela, ora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can nail that
-	fire on top of their
+	Dá pra apagar o fogo
+	da cabeça deles com
+	um ataque de vento!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	heads with a wind
-	attack!
+	Fácil assim!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do that and you can
-	put that fire right
-	out!!
+	Uma vela sem fogo é
+	uma vela sem força!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A candle without
-	fire is a candle
-	without power!
+	Com o fogo apagado,
+	cê pode deletar ele
+	à vontade...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	Without its flame
-	you can take your
-	time deleting...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Hahahahaha..."
+	"Ha ha ha ha ha..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Make sure to use
-	wind against
-	candles!
+	Repetindo:
+	usa vento nas velas!
 	"""
 	keyWait
 		any = false
@@ -1109,31 +1044,30 @@ script 22 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	OUR BELOVED CYBEASTS
-	HAVE BEEN REVIVED...
+	NOSSAS AMADAS
+	CYBERBESTAS FORAM
+	REVIVIDAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE WORLD IS NOW ON
-	THE PATHWAY TO RUIN
-	AND DESTRUCTION...
+	O MUNDO AGORA RUMA À
+	RUÍNA E A DESTRUIÇÃO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE WORLD OF FOOLS
-	WILL SOON FALL TO
-	THE CYBEASTS...
+	LOGO O MUNDO CAIRÁ
+	ANTE AS CYBERBESTAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE DAY OF PROPHECY
-	IS AT LAST AT HAND!
+	O DIA DA PROFECIA,
+	POR FIM, SE APROXIMA!
 	"""
 	keyWait
 		any = false
@@ -1148,47 +1082,46 @@ script 23 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I wonder if this
-	post refers to that
-	warning from before?
+	Será que essa postagem
+	é sobre aquele aviso
+	de antes?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What was it called?
-	That one that warned
-	us of the crime...
+	Qual que era o nome
+	mesmo? Aquele que avisou
+	a gente do crime...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that post is for
-	real...
+	Se a postagem for
+	séria mesmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet even the Net
-	Police don't know...
+	Aposto que nem a
+	NetPolícia sabe...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if the part
-	about Cybeasts is
-	really true...?
+	Será que o negócio
+	sobre as Cyberbestas
+	é verdade mesmo...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It could be just
-	some Navi playing
-	around...
+	Pode ser só um Navi
+	trollando também...
 	"""
 	keyWait
 		any = false
@@ -1202,48 +1135,48 @@ script 24 mmbn6 {
 	positionArrow
 		left = 210
 		top = 108
-	"Hahahaha!"
+	"Ha ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I installed that
-	NaviCust program...
-	It's called Shield.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	There is no one who
-	can face me now!!
+	Eu instalei o programa
+	do Customizador...
+	Se chama Escudo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter what comes
-	my way,I can block
+	Agora, ninguém
+	me derruba!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it by pressing Left
-	on the +Control Pad
-	and the B Button!
+	Não importa o que joguem
+	em mim, eu posso defender
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hahahaha!"
+	"""
+	apertando o direcional
+	esquerdo junto com o
+	botão "B"!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Ha ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm feeling generous
-	today so here is a
-	present...
+	Como eu tô me sentindo
+	generoso hoje, aqui vai
+	um presente...
 	"""
 	keyWait
 		any = false
@@ -1252,26 +1185,22 @@ script 24 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Hahahaha!!"
+	"Ha ha ha ha!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You too can be
-	invincible!!
-	Hahahaha!!
+	Vocês podem ser
+	invencíveis também!
+	Ha ha ha ha!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even Cybeasts don't
-	scare me!!
+	Nem as Cyberbestas
+	me assustam mais!!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"..."
 	keyWait
 		any = false
 	clearMsg
@@ -1279,17 +1208,20 @@ script 24 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
+	"..."
+	keyWait
+		any = false
+	clearMsg
 	"""
-	Alright... Cybeasts
-	still scare me.
+	OK, mentira... Elas
+	ainda me assustam, sim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Somebody do
-	something about
-	them already!!
+	Alguém dá logo um
+	jeito nelas aí!!
 	"""
 	keyWait
 		any = false
@@ -1588,25 +1520,25 @@ script 47 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	It seems WWW
-	is behind a
-	disturbance at
+	Parece que a WWW está
+	por trás da comoção
+	na Escola Saibher.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyber Academy.
-	Now they are at the
-	Sky Town Admin Bldg.
+	E, agora, estão na
+	Administração do
+	Distrito Céu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know what
-	they are after,but
-	they make me sick...
+	Eu não sei do que eles
+	tão atrás, mas aqueles
+	sujeitos me enojam...
 	"""
 	keyWait
 		any = false

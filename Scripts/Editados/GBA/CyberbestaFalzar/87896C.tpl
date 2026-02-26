@@ -6,15 +6,13 @@ script 0 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	This is the...
-	Underground...
+	Este é o... SubSolo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It feels really
-	oppressive...
+	É tão opressor...
 	"""
 	keyWait
 		any = false
@@ -25,16 +23,15 @@ script 1 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You're just a
-	regular Navi,huh?
+	Você é um Navi
+	comum, não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You shouldn't be
-	in a place like
-	this!
+	Não devia estar em
+	um lugar destes!
 	"""
 	keyWait
 		any = false
@@ -45,8 +42,8 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	It's too scary...
-	I can't keep going!
+	Que medo isso dá...
+	Eu não consigo avançar!
 	"""
 	keyWait
 		any = false
@@ -57,9 +54,9 @@ script 5 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The area where the
-	Cybeasts are sealed
-	is coming up...
+	A área em que as
+	Cyberbestas estão
+	seladas está perto...
 	"""
 	keyWait
 		any = false
@@ -70,17 +67,15 @@ script 6 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The viruses are
-	really strong around
-	here...
+	Os vírus aqui
+	são bem fortes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up and get
-	back to Central
-	Area!
+	Volte logo para a
+	Área Central, rapaz!
 	"""
 	keyWait
 		any = false
@@ -91,16 +86,15 @@ script 7 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I've gotten this
-	far...
+	Eu já cheguei até aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'm scared...
-	I have no idea what
-	will happen next...
+	Mas estou com medo...
+	Nem faço ideia do que
+	vem pela frente...
 	"""
 	keyWait
 		any = false
@@ -111,8 +105,8 @@ script 10 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	A virus...
-	It...got me...
+	Um vírus...
+	Ele... me pegou...
 	"""
 	keyWait
 		any = false

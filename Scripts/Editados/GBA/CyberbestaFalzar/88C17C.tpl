@@ -7,18 +7,18 @@ script 0 mmbn6 {
 	mugshotPalette
 		palette = 6
 	msgOpen
-	"*HUFF,HUFF...*"
+	"UFF... URF..."
 	keyWait
 		any = false
 	clearMsg
-	"I_IT'S NO GOOD..."
+	"ESSA NÃO..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE MEMORY OF THAT
-	TIME IS COMING BACK
-	LIKE A BAD DREAM...
+	AS LEMBRANÇAS DAQUELES
+	DIAS ESTÃO VOLTANDO,
+	COMO UM PESADELO...
 	"""
 	keyWait
 		any = false
@@ -31,9 +31,9 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You mustn't give up!
-	I can still help
-	you!
+	Não desiste!
+	Eu ainda posso
+	te salvar!
 	"""
 	keyWait
 		any = false
@@ -44,32 +44,32 @@ script 2 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	... WHOA. THOUGHT I
-	SAW THE AFTERLIFE
-	FOR A SECOND THERE.
+	... CARAMBA. POR UM
+	INSTANTE, EU PENSEI
+	TER VISTO O ALÉM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TALK ABOUT A
-	CLOSE ONE...
+	ESSA FOI POR
+	MUITO POUCO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M GOING TO GO FIND
-	SHELTER. WHAT A BAD
-	EXPERIENCE!
+	VOU PARA UM LOCAL
+	SEGURO. ESSA EXPERIÊN-
+	CIA FOI TERRÍVEL!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'D BEST BE ON
-	GUARD,TOO! WOULDN'T
-	WANT YOU TO BURN UP!
+	FIQUE ESPERTO VOCÊ
+	TAMBÉM! NÃO É LEGAL
+	PEGAR FOGO, VIU?!
 	"""
 	keyWait
 		any = false

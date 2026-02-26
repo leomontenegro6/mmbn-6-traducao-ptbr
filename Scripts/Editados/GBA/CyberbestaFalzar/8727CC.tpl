@@ -6,14 +6,14 @@ script 0 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	One step forward,
-	and I'll launch
-	to the other side!
+	Um passo a mais,
+	e você é lançado
+	lá pro outro lado!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's so exciting!"
+	"Que adrenalina!"
 	keyWait
 		any = false
 	end
@@ -23,23 +23,24 @@ script 1 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO SEASIDE
-	AREA2!
+	BEM-VINDO À
+	ÁREA BEIRA-MAR 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT WAS MADE TO
-	RESEMBLE A BEACH!!
+	ELA FOI PROJETADA
+	PARA PARECER UMA
+	PRAIA!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT DO YOU THINK?
-	YOU CAN SMELL THE
-	SEABREEZE,CAN'T YOU?
+	O QUE ACHOU? DÁ ATÉ
+	PARA SENTIR O CHEIRINHO
+	DA BRISA DO MAR, NÉ?
 	"""
 	keyWait
 		any = false
@@ -50,9 +51,8 @@ script 2 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	What is this
-	whirlwind? I can't
-	keep going forward!
+	Que redemoinho é esse?
+	Não dá pra eu passar!
 	"""
 	keyWait
 		any = false
@@ -63,22 +63,22 @@ script 10 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	We came here on a
-	date!
+	A gente veio aqui
+	num encontro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Since this area is
-	like the beach,
+	Como esta área
+	parece uma praia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's perfect for a
-	date!!
+	é perfeita
+	pra um "date"!
 	"""
 	keyWait
 		any = false
@@ -89,25 +89,24 @@ script 11 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	This place is
-	supposed to be
-	a famous date spot!
+	Disseram que este
+	lugar era um "point"
+	perfeito pra encontros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even though it's
-	the Net,it's just
-	like the beach!
+	Estamos na Rede, mas
+	ele é, tipo, uma praia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it had sunsets
-	it would be
-	absolutely perfect!
+	Se tivesse um pôr
+	do sol bonitão, seria
+	simplesmente perfeito!
 	"""
 	keyWait
 		any = false
@@ -118,15 +117,14 @@ script 12 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I just got washed
-	away by a big wave!
+	Eu acabei de ser levado
+	por uma onda enorme!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it was kinda
-	nice!!
+	... Até que foi divertido!!
 	"""
 	keyWait
 		any = false

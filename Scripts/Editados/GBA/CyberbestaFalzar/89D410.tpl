@@ -7,7 +7,7 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	MegaMan...
-	Please wake up...
+	Por favor, acorda...
 	"""
 	keyWait
 		any = false
@@ -23,7 +23,7 @@ script 1 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"A_Aaah!!"
+	"A-aaaah!!"
 	keyWait
 		any = false
 	end
@@ -39,7 +39,7 @@ script 2 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Kwaaaaaaaaaah!!"
+	"Grraaaaaaaaaaah!!"
 	keyWait
 		any = false
 	end
@@ -63,25 +63,24 @@ script 4 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	The Cybeast is
-	reacting violently
-	within his body.
+	A Cyberbesta está
+	reagindo violentamente
+	dentro do corpo dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even though he's
-	held on for
-	this long,
+	Mesmo ele tendo
+	aguentado tanto já,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if things continue
-	like this,I'm afraid
-	that soon...
+	se as coisas continuarem
+	assim, sinto que não vai
+	demorar pra ele...
 	"""
 	keyWait
 		any = false
@@ -93,7 +92,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad..."
+	"Pai..."
 	keyWait
 		any = false
 	clearMsg
@@ -105,9 +104,9 @@ script 6 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	I never thought you
-	two would listen in
-	on my conversations.
+	Eu não achava que vocês
+	dois escutariam uma das
+	minhas conversas.
 	"""
 	keyWait
 		any = false
@@ -120,9 +119,9 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad,punish me all
-	you want later,but
-	please save MegaMan!
+	Olha, pode me castigar o
+	quanto quiser depois...
+	Só salva o MegaMan!
 	"""
 	keyWait
 		any = false
@@ -135,25 +134,25 @@ script 8 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	... I'm sorry,but
-	there's nothing I
-	can do right now...
+	... Desculpa, mas não
+	tem nada que eu possa
+	fazer agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Cybeast's power
-	is too strong...
-	If I make a mistake
+	Os poderes da Cyberbesta
+	são fortes demais...
+	Se eu acabar cometendo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	while analyzing his
-	program,he might...
-	be deleted...
+	um erro durante minha
+	análise do programa dele,
+	ele pode... ser deletado...
 	"""
 	keyWait
 		any = false
@@ -165,14 +164,14 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"N_No..."
+	"N-não..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if we don't do
-	anything,
-	MegaMan will...
+	Mas, se a gente
+	não fizer nada,
+	o MegaMan vai...
 	"""
 	keyWait
 		any = false
@@ -184,7 +183,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"I'm sorry,Lan..."
+	"Eu sinto muito, filho..."
 	keyWait
 		any = false
 	clearMsg
@@ -193,7 +192,7 @@ script 10 mmbn6 {
 	controlLock
 	callPETEffect
 		effect = 2
-	"*beep beep!*"
+	"Bip Bip!"
 	wait
 		frames = 62
 	callPETEffect
@@ -204,29 +203,35 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Mail...?
-	It's from Iris.
+	Um e-mail...?
+	É da Iris.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"In SeasideArea3 on\n the Net,\""
+	"""
+	"Na Área Beira-Mar 3
+	da Rede, '
+	"""
 	printItem
 		buffer = 0
 		item = 10
-	"\",\n a kind of"
+	"""
+	',
+	um tipo de cyberágua
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" cyberwater that\n rejuvenates a Navi,\n gushes forth..."
+	"capaz de rejuvenescer\nNavis, corre..."
 	keyWait
 		any = false
 	clearMsg
-	" If you use it,maybe\n you can weaken the\n Cybeast...\""
+	"Se usá-la, talvez você\nconsiga enfraquecer a\nCyberbesta...\""
 	keyWait
 		any = false
 	clearMsg
-	"\"Healing Water\"!?"
+	"\"Água da Cura\"?!"
 	keyWait
 		any = false
 	clearMsg
@@ -241,15 +246,15 @@ script 10 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	" But how\n did Iris...?ち"
+	" Mas como a Iris...?ち"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	"""
-	Argh,right now,that
-	doesn't matter...!
+	Argh, isso não
+	importa agora!
 	"""
 	keyWait
 		any = false
@@ -262,15 +267,15 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad,maybe there
-	is a way!!
+	Pai, pode ser que
+	tenha um jeito!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going to go to
-	SeasideArea3!!
+	Eu vou pra
+	Área Beira-Mar 3!!
 	"""
 	keyWait
 		any = false
@@ -283,33 +288,32 @@ script 12 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Wait,Lan!
-	A dark atmosphere,
-	born from the
+	Espera aí, Lan!
+	A atmosfera sombria
+	gerada pelo renascimento
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cybeasts' rebirth is
-	spreading throughout
-	the Net,
+	das Cyberbestas está se
+	espalhando pela Rede,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and evil,spiteful
-	programs are causing
-	chaos!
+	e programas malignos
+	e rancorosos estão
+	tocando o caos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,how will you
-	get to SeasideArea3
-	without a Navi?
+	Além disso, como você
+	pretende chegar na Área
+	Beira-Mar 3 sem um Navi?
 	"""
 	keyWait
 		any = false
@@ -322,26 +326,26 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... It's OK,I have
-	an idea.
+	... Tá tudo bem,
+	eu tive uma ideia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please take care of
-	MegaMan for me,Dad!!
+	Por favor, pai, cuida
+	do MegaMan pra mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... OK,I'm going!"
+	"... Beleza, eu vou lá!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"たHang on,MegaMan!ち"
+	"たAguenta firme, MegaMan!ち"
 	keyWait
 		any = false
 	end

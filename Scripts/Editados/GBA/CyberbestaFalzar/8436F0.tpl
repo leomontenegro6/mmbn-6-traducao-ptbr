@@ -4,16 +4,15 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	The observers'
-	seats...
+	Os assentos dos
+	espectadores...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Many people watch
-	the trials from
-	these seats.
+	Muitas pessoas assistem
+	aos julgamentos deles.
 	"""
 	keyWait
 		any = false
@@ -22,23 +21,23 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	It's the witness
-	stand...
+	É o palaque da
+	testemunha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Standing right in
-	front of the
-	JudgeTree...
+	Ficar de pé diante
+	da Árvore Juíza...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it would make anyone
-	scared to lie.
+	com certeza deixaria
+	qualquer um morrendo
+	de medo de mentir.
 	"""
 	keyWait
 		any = false
@@ -47,16 +46,15 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	The prosecutor's
-	bench...
+	O palanque do réu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The prosecutor lays
-	out the facts of the
-	case from here.
+	É daqui que o promotor
+	expõe os fatos acerca
+	do caso.
 	"""
 	keyWait
 		any = false
@@ -65,16 +63,15 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	The defendant's
-	bench...
+	O palanque do réu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The defense lawyers
-	fight hard for the
-	accused from here.
+	É daqui que o promotor
+	expõe os fatos acerca
+	do caso.
 	"""
 	keyWait
 		any = false
@@ -83,15 +80,15 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	The control panel
-	for the JudgeTree.
+	É o painel de controle
+	da Árvore Juíza.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like you
-	can jack in...
+	Parece ser possível
+	se conectar...
 	"""
 	keyWait
 		any = false
@@ -100,9 +97,9 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	This wooden gavel's
-	loud "crack" sounds
-	the accused's fate.
+	O alto "pam" desse
+	martelo de madeira sela
+	o destino do acusado.
 	"""
 	keyWait
 		any = false

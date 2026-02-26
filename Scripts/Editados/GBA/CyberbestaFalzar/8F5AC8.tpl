@@ -10,8 +10,8 @@ script 0 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I'm a NetMerchant.
-	Look at my wares?
+	Sou um NetVendedor.
+	Quer ver o que eu tenho?
 	
 	"""
 	positionOptionHorizontal
@@ -24,7 +24,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Look "
+	" Ver "
 	option
 		brackets = 0
 		left = 0
@@ -33,7 +33,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't look "
+	" Não ver "
 	select
 		default = 0
 		BSeparate = false
@@ -49,7 +49,7 @@ script 0 mmbn6 {
 }
 script 1 mmbn6 {
 	clearMsg
-	"Come again..."
+	"Volte sempre..."
 	keyWait
 		any = false
 	end
@@ -59,9 +59,8 @@ script 2 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Too bad for you...
-	We're all out of
-	stock...
+	Que peninha...
+	Acabou tudo...
 	"""
 	keyWait
 		any = false

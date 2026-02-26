@@ -16,17 +16,16 @@ script 0 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Mayor Cain was here
-	until just a little
-	while ago...
+	O Prefeito Cain tava
+	aqui até ainda agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet the NetPolice
-	are investigating
-	this one seriously...
+	Aposto que a NetPolícia tá
+	levando essa investigação
+	bem a sério...
 	"""
 	keyWait
 		any = false
@@ -37,16 +36,16 @@ script 5 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	So the Expo is going
-	to open...
+	Então a Exposição
+	vai ser inaugurada...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When it starts,I'm
-	going to take a day
-	off and visit it!
+	Quando ela começar,
+	eu vou tirar um dia de
+	folga pra ir lá ver!
 	"""
 	keyWait
 		any = false
@@ -57,17 +56,16 @@ script 10 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Ahh... Cleaning up
-	around here is a real
-	pain...
+	Ahh... Limpar este lugar
+	é um pé no saco...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even though it's the
-	Punishment Room,it
-	still must be clean!
+	Mesmo sendo a Cela de
+	Punição, tem que ficar
+	limpinha!
 	"""
 	keyWait
 		any = false

@@ -6,20 +6,20 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NOT TOO HOT...
-	NOT TOO COLD...
+	NEM QUENTE DEMAIS
+	NEM FRIO DEMAIS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT IS THE BEST
-	KIND OF SHOWER.
+	ESSE É O MELHOR
+	TIPO DE DUCHA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"DON'T FORGET IT!"
+	"NUNCA ESQUEÇA DISSO!"
 	keyWait
 		any = false
 	end
@@ -35,29 +35,29 @@ script 10 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Hahahaha...
-	Hey you...
-	You like animals?
+	Ha ha ha ha...
+	Aí, guri...
+	Tu gosta de animais?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you had this
-	item I have,you
+	Se tu tivesse este item
+	aqui que eu tenho,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	could call very
-	rare animals...
+	ia poder atrair uns
+	animais mó raros...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They call it
+	É o famigerado
 	"
 	"""
 	printItem
@@ -68,8 +68,8 @@ script 10 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Wanna buy it for
-	3000 Zennys?
+	Tá a fim de comprar
+	ele por 3000 Zennys?
 	"""
 	keyWait
 		any = false
@@ -85,7 +85,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -94,7 +94,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -108,7 +108,7 @@ script 10 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Hmmm... I see..."
+	"Hmmm... Tendi..."
 	keyWait
 		any = false
 	end
@@ -130,7 +130,7 @@ script 11 mmbn6 {
 	msgOpen
 	flagSet
 		flag = 548
-	"Hehehe... Thanks..."
+	"He he he... Valeu aí..."
 	keyWait
 		any = false
 	clearMsg
@@ -142,7 +142,7 @@ script 11 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -157,46 +157,46 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	If you use that in
-	the dark corners
-	of the Cyberworld,
+	Se usar ele nos cantos
+	mais sombrios do mundo
+	cibernético,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you can call for
-	something...
+	tu vai poder chamar
+	uma certa coisa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't know the
-	dark corners,huh?
-	Here's a hint...
+	Não conhece esses
+	cantos sombrios?
+	Eu dou uma dica...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bones.
-	Figure the rest out
-	for yourself.
+	Ossos.
+	O resto, descobre tu
+	mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Up to 9 of those
-	can be used...
+	Dá pra usar até
+	9 desses...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you want more,
-	just come back...
+	Se quiser mais,
+	é só voltar aqui...
 	"""
 	keyWait
 		any = false
@@ -207,9 +207,9 @@ script 12 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Hahaha!
-	Not enough cash
-	this time!
+	Ha ha ha!
+	Tu não tem a grana
+	que precisa agora!
 	"""
 	keyWait
 		any = false
@@ -220,15 +220,15 @@ script 13 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Ya got a lot now
-	don't ya...?
+	Tu tá com o tanque
+	cheio agora, né...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's good,since
-	I'm not selling!
+	Ainda bem, porque eu
+	não quero vender nada!
 	"""
 	keyWait
 		any = false
@@ -239,15 +239,15 @@ script 14 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Hey you...
-	Wanna buy "
+	Ô, tu aí...
+	Quer comprar "
 	"""
 	printItem
 		buffer = 0
 		item = 44
 	"""
 	"
-	for 3000 Zennys?
+	por 3000 Zennys?
 	"""
 	keyWait
 		any = false
@@ -263,7 +263,7 @@ script 14 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -272,7 +272,7 @@ script 14 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -286,7 +286,7 @@ script 14 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Hmmm... I see..."
+	"Hmmm... Tendi..."
 	keyWait
 		any = false
 	end

@@ -5,14 +5,14 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"THIS IS SKY AREA2."
+	"ESTA É A ÁREA CÉU 2."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT IS CONNECTED TO
-	THE UNDERNET,SO
-	PLEASE USE CAUTION.
+	ESTÁ LIGADA À UNDERNET,
+	ENTÃO, POR FAVOR,
+	TENHA CAUTELA.
 	"""
 	keyWait
 		any = false
@@ -33,14 +33,14 @@ script 1 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I think something
-	strange might come
-	from the Undernet!
+	Eu acho que saiu
+	um negócio estranho
+	da Undernet!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...I'm worried..."
+	"... Tô preocupada..."
 	keyWait
 		any = false
 	end
@@ -60,17 +60,17 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Everything is OK
-	now,but you can't
-	be unprepared since
+	Está tudo bem agora,
+	mas não se deve baixar
+	a guarda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you never know when
-	something might
-	happen!
+	Nunca se sabe quando
+	alguma coisa pode
+	acontecer!
 	"""
 	keyWait
 		any = false
@@ -81,15 +81,9 @@ script 5 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I wonder if the
-	dwellers of the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Undernet will go to
-	the Expo...?
+	Será que os habitantes
+	da Undernet também vão
+	na Exposição...?
 	"""
 	keyWait
 		any = false
@@ -100,17 +94,16 @@ script 6 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The guards at the
-	entrance to the
-	Undernet are the
+	Os mais preocupados
+	são os guardas na
+	entrada da Undernet,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	most worried,so that
-	is why I'm under the
-	most stress...
+	e é por isso que eu
+	estou tão estressado...
 	"""
 	keyWait
 		any = false
@@ -121,14 +114,14 @@ script 10 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Yaaaawwnn...
-	I'm tired since I
-	stayed up all night!
+	Uaaaaaahh...
+	Nossa, fiquei acordada
+	a madrugada inteira!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Time to jack out..."
+	"Hora de desconectar..."
 	keyWait
 		any = false
 	end
@@ -138,16 +131,16 @@ script 11 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Well,it's time
-	to change shifts...
+	Bom, já tá chegando
+	o fim do meu turno...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope my
-	replacement comes
-	soon...
+	Tomara que o meu
+	substituto apareça
+	logo...
 	"""
 	keyWait
 		any = false
@@ -157,7 +150,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Waahhhhh..."
+	"Uaaaaahhh..."
 	keyWait
 		any = false
 	end
@@ -167,8 +160,7 @@ script 16 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	Ha! A bunch of
-	little wusses!
+	Ha! Bando de molengas!
 	"""
 	keyWait
 		any = false
@@ -179,9 +171,9 @@ script 17 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	We don't let things
-	that would ruin the
-	Undernet in! EVER!
+	A gente não deixa entrar
+	nada que vá aloprar a
+	Undernet! NUNCA!
 	"""
 	keyWait
 		any = false

@@ -4,8 +4,8 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	Raging flames block
-	the way.
+	Chamas intensas
+	barram o caminho.
 	"""
 	keyWait
 		any = false
@@ -13,14 +13,14 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	We have to stop the
-	fire inside the
-	computer to get rid
+	A gente tem que
+	apagar o fogo dos
+	Progs
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"of these flames!"
+	"pra se livrar\ndessas chamas!"
 	keyWait
 		any = false
 	end
@@ -40,9 +40,9 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	It's the main system
-	that controls all
-	the Security Bots.
+	É o sistema central
+	que controla todos os
+	Robôs de Segurança.
 	"""
 	keyWait
 		any = false
@@ -57,38 +57,37 @@ script 3 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	the video data that
-	Security Bot took
-	should be here.
+	os dados de vídeo que o
+	Robô de Segurança gravou
+	devem estar aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Well then,MegaMan,"
+	"Beleza, MegaMan,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's up to you to
-	find the data of
-	what that Security
+	conto com você pra
+	achar os dados do
+	que o Robô viu ontem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bot saw at 4 P.M.
-	yesterday from
-	inside that closet.
+	às 16:00 de dentro
+	do armário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	flagSet

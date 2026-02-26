@@ -5,11 +5,11 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... W_What's that?"
+	"... O-o que é isso?"
 	keyWait
 		any = false
 	clearMsg
-	"A submarine?"
+	"Um submarino?"
 	keyWait
 		any = false
 	clearMsg
@@ -20,17 +20,17 @@ script 1 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	... I've spotted the
-	enemy straight
-	ahead,Capt'n.
+	... Inimigo detectado
+	imediatamente à frente,
+	senhor Capitão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Starting emergency
-	ascent now.
-	Awooga!
+	Iniciando emersão
+	de emergência.
+	Bruuooooou!!
 	"""
 	keyWait
 		any = false
@@ -41,8 +41,8 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Whoa!
-	It's a Navi!
+	Eita!
+	É um Navi!
 	"""
 	keyWait
 		any = false
@@ -55,16 +55,16 @@ script 3 mmbn6 {
 		mugshot = DiveMan
 	msgOpen
 	"""
-	I am DiveMan.
-	Awooga!
+	Eu sou DiveMan.
+	Bruuoooou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I am Capt'n
-	Blackbeard's Navi.
-	Awooga!
+	Sou o Navi do
+	Capitão Barba-Negra.
+	Bruoooou!
 	"""
 	keyWait
 		any = false
@@ -77,17 +77,16 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So you're the one
-	causing problems
-	in this Comp!
+	Então é você quem
+	tá fazendo isso com
+	o computador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I'm here to
-	make things right
-	again!
+	Bom, eu tô aqui pra
+	consertar as coisas!
 	"""
 	keyWait
 		any = false
@@ -100,16 +99,16 @@ script 5 mmbn6 {
 		mugshot = DiveMan
 	msgOpen
 	"""
-	Request denied!
-	Awooga!
+	Pedido negado!
+	Bruoooou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't have the
-	proper clearance.
-	Awooga!
+	Você não tem a
+	permissão necessária.
+	Bruooooou!
 	"""
 	keyWait
 		any = false
@@ -126,9 +125,9 @@ script 6 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Don't let 'em ruin
-	me show! Show 'em
-	the ocean's fury!
+	Não deixa ele arruinar
+	o meu show! Mostra pra
+	ele a fúria dos mares!
 	"""
 	keyWait
 		any = false
@@ -141,8 +140,8 @@ script 7 mmbn6 {
 		mugshot = DiveMan
 	msgOpen
 	"""
-	Roger,Capt'n!
-	Awooga!
+	Sim, senhor, Capitão!
+	Bruoooou!
 	"""
 	keyWait
 		any = false
@@ -154,7 +153,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here he comes,Lan!!"
+	"Lá vem ele, Lan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -165,7 +164,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
@@ -176,7 +175,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
@@ -188,9 +187,9 @@ script 11 mmbn6 {
 		mugshot = DiveMan
 	msgOpen
 	"""
-	Target locked.
-	Engaging the enemy.
-	Awooga!
+	Alvo na mira.
+	Abordando o inimigo.
+	Bruooooou!
 	"""
 	keyWait
 		any = false

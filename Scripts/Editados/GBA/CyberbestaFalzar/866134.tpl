@@ -20,9 +20,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Um... I'm here to
-	take part in the
-	Selection Test...
+	Er... Eu vim fazer
+	a Prova de Seleção...
 	"""
 	keyWait
 		any = false
@@ -30,61 +29,55 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	Can you please show
-	me the E_mail you
-	got from us?
+	Poderia, por favor, me
+	mostrar o e-mail que
+	recebeu da gente?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Ah,yes!..."
+	"Ah, claro! ..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	... Ah,I see.
-	Thank you.
+	... Uhum, entendi.
+	Obrigado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well then,please
-	take the elevator on
-	up to Sky Town.
+	Bom, pegue o elevador
+	para chegar no Distrito
+	Céu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After you get up
-	there,please head
-	straight ahead
+	Após chegar lá, por
+	favor, siga em frente
+	rumo ao prédio alto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	towards the big
-	building.
+	Meu Navi estará
+	esperando por você
+	dentro dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Navi will be
-	waiting inside,so
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	please check in with
-	him.
+	É só confirmar os
+	detalhes com ele.
 	"""
 	keyWait
 		any = false
@@ -102,7 +95,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Good luck to you!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -112,9 +105,9 @@ script 2 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Ooh...
-	I'm so nervous!
-	Gotta concentrate!!
+	Aaah...
+	Tô tão nervoso! Eu tenho
+	que me concentrar!!
 	"""
 	keyWait
 		any = false
@@ -130,24 +123,24 @@ script 3 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Once you get in the
-	elevator,you'll be
-	taken straight up
+	Depois que você entra
+	no elevador, ele te
+	sobe 10 km inteiros
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	30,000 feet into
-	the air to Sky Town!
+	e te leva pro
+	Distrito Céu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'm scared of
-	heights,so I can't
-	ride it...
+	Mas eu tenho medo de
+	altura, então não
+	consigo entrar nele...
 	"""
 	keyWait
 		any = false
@@ -163,38 +156,37 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = AnnZap
 	msgOpen
-	"I am Ann Zap."
+	"Eu sou Ann Zap."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am holding Elec
-	Operating classes on
-	that helipad below.
+	Estou dando aulas de
+	Operação Elétrica no
+	heliporto ali em baixo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Elec Operating?"
+	"Operação Elétrica?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = AnnZap
 	"""
-	Yes. "How to use
-	electricity in
-	NetBattles".
+	Isso mesmo. "Como
+	usar eletricidade
+	nas NetLutas".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you have time,
-	why don't you come
-	on by?
+	Se tiver tempo, por
+	que não passa lá?
 	"""
 	keyWait
 		any = false
@@ -211,9 +203,8 @@ script 5 mmbn6 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Well if it isn't
-	Lan! It's been a
-	long time,buddy!
+	Olha, se não é o Lan!
+	Há quanto tempo, cara!
 	"""
 	keyWait
 		any = false
@@ -225,9 +216,8 @@ script 5 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	What are you doing
-	in a place like
-	this!?
+	Tá fazendo o quê
+	num lugar destes?!
 	"""
 	keyWait
 		any = false
@@ -235,38 +225,33 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Dingo
 	"""
-	I opened a NetBattle
-	class
+	Eu tô dando um
+	curso de NetLuta
+	bem ali, no heliporto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	right down there on
-	the helipad!
+	Quero ensinar as
+	pessoas a cortar
+	as coisas ao meio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to teach
-	people how to chop
+	com perfeição,
+	que nem como o
+	TomahawkMan faz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	things clean in
-	two,just like
-	TomahawkMan,so
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	if you want,come
-	check out my class,
-	alright!?
+	Então, se tiver
+	interesse, confere
+	lá a minha aula, tá?!
 	"""
 	keyWait
 		any = false
@@ -277,9 +262,9 @@ script 6 mmbn6 {
 		mugshot = AnnZap
 	msgOpen
 	"""
-	If you have time,
-	why don't you come
-	take my class?
+	Se tiver tempo, por
+	que não assiste à
+	minha aula?
 	"""
 	keyWait
 		any = false
@@ -290,8 +275,9 @@ script 7 mmbn6 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	If you want,come
-	take my class,OK!?
+	Se tiver interesse,
+	confere lá a minha
+	aula, tá?!
 	"""
 	keyWait
 		any = false
@@ -302,19 +288,18 @@ script 10 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Oh,are you finished
-	already?
+	Ah, você já terminou?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... No?"
+	"... Não?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry to bother you
-	then. Good luck!
+	Desculpe o incômodo,
+	então. Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -325,17 +310,16 @@ script 11 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	How was the elevator
-	ride? Were you
-	scared?
+	Como foi o elevador?
+	Você ficou com medo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sadly,I'm afraid of
-	heights,so I can't
-	ride it...
+	Infelizmente, eu tenho
+	medo de altura, então
+	não consigo entrar...
 	"""
 	keyWait
 		any = false
@@ -346,35 +330,34 @@ script 15 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	What!?
-	... The Undernet!?
+	O quê?!
+	... A Undernet?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's true that a
-	bunch of suspicious
-	guys have been
+	Bom, é verdade que um
+	monte de gente suspeita
+	tem aparecido na frente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	showing up from the
-	Undernet...
+	da Undernet...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But there's nothing
-	I can really do...
+	Mas não tem nada que
+	eu possa fazer...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*sigh...*"
+	"Uhnr..."
 	keyWait
 		any = false
 	end
@@ -384,32 +367,32 @@ script 20 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The cause of the
-	recent string of
-	strange weather is
+	A causa da onda
+	recente de fenômenos
+	climáticos estranhos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	most certainly on
-	the Sky Town
-	computer system.
+	com certeza está no
+	sistema de computadores
+	do Distrito Céu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The system admins
-	are doing repair
-	work up there now...
+	Os administradores estão
+	realizando reparos lá em
+	cima agora mesmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder how they're
-	doing?
+	Como será que
+	está o progresso?
 	"""
 	keyWait
 		any = false
@@ -420,47 +403,45 @@ script 40 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Because the Force
-	Program was stolen,
+	Devido ao roubo do
+	Programa de Força,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sky Town is
-	currently running on
-	back_up electricity.
+	o Distrito Céu está
+	operando com energia
+	elétrica de reserva.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not generating
-	enough power,so we
-	are bringing every_
+	Como não está gerando
+	energia o bastante,
+	estamos descendo tudo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	thing that is not
-	needed down to the
-	ground.
+	que não é essencial.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is what you get
-	when you build a
+	É o que acontece quando
+	se constrói um Distrito
+	com a tecnologia mais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Town on the latest
-	technology...
-	O_ho,ho...
+	moderna que há...
+	Ho ho...
 	"""
 	keyWait
 		any = false
@@ -471,23 +452,17 @@ script 45 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Sky Town is running
-	on its back_up
-	energy again.
+	O Distrito Céu está
+	operando com energia
+	reserva de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish they would
-	hurry up and get
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	things back to
-	normal!
+	Queria que fizessem
+	as coisas voltarem
+	logo ao normal!
 	"""
 	keyWait
 		any = false

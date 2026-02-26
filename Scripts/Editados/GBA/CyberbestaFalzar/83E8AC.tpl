@@ -11,22 +11,23 @@ script 1 mmbn6 {
 		jumpIfCybeastFalzar = 11
 	msgOpen
 	"""
-	A poster of
-	Solar Boy Django...
+	Um pôster de Django,
+	o Garoto Solar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He looks ready
-	to ride off to
+	Parece até que vai
+	sair da parede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	whereabouts unknown
-	on his motorcycle!
+	e viajar para terras
+	desconhecidas na
+	motocicleta dele!
 	"""
 	keyWait
 		any = false
@@ -35,9 +36,9 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	The window in Lan's
-	room lets in plenty
-	of healthy sunlight!
+	A janela do quarto do
+	Lan recebe uma dose
+	saudável de sol!
 	"""
 	keyWait
 		any = false
@@ -46,9 +47,9 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	You can almost hear
-	the dog on this
-	calendar howling.
+	Quase dá para ouvir
+	o cão nesse calendário
+	fazendo "báu-au".
 	"""
 	keyWait
 		any = false
@@ -60,17 +61,16 @@ script 4 mmbn6 {
 		jumpIfCybeastFalzar = 10
 	msgOpen
 	"""
-	There are still a
-	few things from the
-	move left at the
+	Ainda tem algumas
+	coisas da mudança
+	esquecidas na mala
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	bottom of Lan's blue
-	sports bag to sort
-	through.
+	azul do Lan, que ele
+	ficou de arrumar.
 	"""
 	keyWait
 		any = false
@@ -79,16 +79,15 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	It's Lan's new
-	closet.
+	É o novo armário do Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even though he
-	just moved in,it's
-	already a mess...
+	Já está uma bagunça,
+	e olha que ele acabou
+	de se mudar...
 	"""
 	keyWait
 		any = false
@@ -97,16 +96,16 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	Pajamas hanging
-	neatly on hangers...
+	Pijamas pendurados
+	com cuidado em cabides...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The pajamas have the
-	same mark as Lan's
-	beloved bandana.
+	Eles têm a mesma
+	estampa que a querida
+	bandana do Lan.
 	"""
 	keyWait
 		any = false
@@ -115,16 +114,15 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	Lan's personal
-	computer.
+	O computador do Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was moved very
-	carefully from his
-	old house.
+	Foi transportado com
+	todo o cuidado do mundo
+	da velha casa.
 	"""
 	keyWait
 		any = false
@@ -133,23 +131,23 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	Various memorabilia
-	Lan has collected.
+	Vários cacarecos que
+	o Lan foi juntando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When it was time to
-	move,Lan had to
-	throw some of it
+	Para a mudança, o Lan
+	teve que jogar alguns
+	deles fora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	away,so there isn't
-	very much left...
+	logo, não sobraram
+	muitos...
 	"""
 	keyWait
 		any = false
@@ -161,17 +159,16 @@ script 9 mmbn6 {
 		jumpIfCybeastFalzar = 12
 	msgOpen
 	"""
-	It's one of the
-	newest video game
-	machines out there.
+	É um dos consoles mais
+	modernos no mercado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With its touchpad
-	and dual screens,
-	it's one hot item!
+	Suas duas telas, uma
+	sendo de toque, o fazem
+	sumir das prateleiras!
 	"""
 	keyWait
 		any = false
@@ -180,17 +177,16 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	There are still a
-	few things from the
-	move left at the
+	Ainda restam algumas
+	coisas da mudança no
+	fundo da mala branca
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	bottom of Lan's
-	white sports bag
-	to sort through.
+	do Lan para serem
+	arrumadas.
 	"""
 	keyWait
 		any = false
@@ -199,16 +195,15 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	msgOpen
 	"""
-	A poster of
-	Solar Boy Django...
+	Um pôster de Django,
+	o Garoto Solar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The flames around
-	him burn bright like
-	the sun.
+	As chamas ao redor dele
+	brilham como o sol.
 	"""
 	keyWait
 		any = false
@@ -217,17 +212,16 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	msgOpen
 	"""
-	It's one of the
-	newest video game
-	machines out there.
+	É um dos consoles mais
+	modernos no mercado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Its small size and
-	slick design makes
-	it one hot item.
+	Sua portabilidade e
+	design estiloso o fazem
+	sumir das prateleiras.
 	"""
 	keyWait
 		any = false
@@ -239,7 +233,7 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Bedtime already?\n"
+	"Já vai dormir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -250,7 +244,7 @@ script 20 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -259,7 +253,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -279,8 +273,8 @@ script 21 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Do you want to save
-	what happened today?
+	Quer salvar o que
+	aconteceu hoje?
 	
 	"""
 	positionOptionHorizontal
@@ -293,7 +287,7 @@ script 21 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -302,7 +296,7 @@ script 21 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -324,8 +318,8 @@ script 22 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Can I overwrite the
-	previous data?
+	Posso sobrescrever os
+	dados pré-existentes?
 	
 	"""
 	positionOptionHorizontal
@@ -338,7 +332,7 @@ script 22 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -347,7 +341,7 @@ script 22 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -370,7 +364,7 @@ script 23 mmbn6 {
 		jumpUnused = 0
 	"""
 	OK!
-	... All saved!
+	... Salvo!
 	"""
 	keyWait
 		any = false
@@ -382,7 +376,7 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Good night,Lan!"
+	"Boa noite, Lan!"
 	keyWait
 		any = false
 	end
@@ -391,11 +385,11 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The save failed..."
+	"O salvamento falhou..."
 	keyWait
 		any = false
 	clearMsg
-	"I'll try again,OK?\n"
+	"Quer tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -406,7 +400,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -415,7 +409,7 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -437,8 +431,8 @@ script 27 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You don't have to
-	sleep yet,right,Lan?
+	Você não precisa dormir
+	agora, né, Lan?
 	"""
 	keyWait
 		any = false
@@ -447,8 +441,8 @@ script 27 mmbn6 {
 script 28 mmbn6 {
 	msgOpen
 	"""
-	It's a bit early to
-	be going to bed...
+	Ainda tá meio cedo
+	pra ir pra cama...
 	"""
 	keyWait
 		any = false

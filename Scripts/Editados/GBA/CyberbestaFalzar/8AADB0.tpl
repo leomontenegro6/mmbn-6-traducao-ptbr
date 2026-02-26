@@ -6,16 +6,15 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm pretty sure Iris
-	was around here
-	somewhere...
+	Eu posso jurar que a
+	Iris tava bem por aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe she went
-	further in...
+	Será que ela foi mais
+	lá pra dentro...?
 	"""
 	keyWait
 		any = false
@@ -26,13 +25,14 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Who's there!?"
+	"Quem tá aí?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure I stopped
-	the elevator!
+	Eu podia jurar
+	que tinha feito
+	o elevador parar!
 	"""
 	keyWait
 		any = false
@@ -44,7 +44,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Who are you!?"
+	"Quem é você?!"
 	keyWait
 		any = false
 	end
@@ -54,22 +54,21 @@ script 3 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Now where have I
-	seen your face
-	before...
+	Hm, onde foi mesmo que
+	eu já vi o seu rosto...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It doesn't matter.
-	You're not going to
-	ruin my plan!
+	Ah, não importa.
+	Você não vai estragar
+	o meu plano!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ha,ha!!"
+	"Ha ha!!"
 	keyWait
 		any = false
 	end
@@ -79,24 +78,23 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Isn't that person
-	from the Admin
-	Building!?
+	Esse cara não é do
+	Prédio da Administração?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You think maybe he's
-	the one causing this
-	mess in Sky Town?
+	Será que é ele quem
+	tá causando todo esse
+	caos no Distrito Céu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've gotta find
-	Iris quick...!!
+	A gente tem que achar
+	logo a Iris...!!
 	"""
 	keyWait
 		any = false
@@ -107,16 +105,16 @@ script 5 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	An unexpected pest
-	has turned up...
+	Um ratinho inesperado
+	apareceu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I don't finish my
-	work before "he"
-	gets here...
+	Se eu não terminar o
+	meu trabalho antes
+	"dele" chegar...
 	"""
 	keyWait
 		any = false

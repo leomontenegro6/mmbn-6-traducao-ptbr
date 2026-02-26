@@ -6,17 +6,16 @@ script 0 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	This is what you get
-	for hiding the
-	Security Bot!!
+	Aqui se faz, aqui se
+	paga! Isso é por esconder
+	o Robô de Segurança!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you get to do
-	this for the whole
-	day!!
+	Vai ficar aí o
+	resto do dia!!
 	"""
 	keyWait
 		any = false
@@ -28,7 +27,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"... Yes,Mr.Mach..."
+	"... Sim, Sr. Mach..."
 	keyWait
 		any = false
 	end

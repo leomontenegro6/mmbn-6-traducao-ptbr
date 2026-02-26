@@ -6,13 +6,13 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright,now we can
-	get through!
+	Beleza! Agora a gente
+	pode atravessar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Jack out,MegaMan!"
+	"Desconecta, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -23,7 +23,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!"
+	"Entendido!!"
 	keyWait
 		any = false
 	end

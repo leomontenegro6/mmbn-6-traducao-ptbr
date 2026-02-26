@@ -6,23 +6,24 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE CLASS
-	6_1 COMP,MAINLY
+	ESTE É O COMPUTADOR
+	DA SALA 6-1,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	USED FOR VIRUS
-	BUSTING CLASS!
+	USADO PRINCIPALMENTE
+	NA AULA DE DELEÇÃO
+	DE VÍRUS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE'VE NURTURED MANY
-	GREAT NETBATTLERS
-	HERE!
+	VÁRIOS NETLUTADORES
+	INCRÍVEIS NASCERAM
+	AQUI, VIU?!
 	"""
 	keyWait
 		any = false

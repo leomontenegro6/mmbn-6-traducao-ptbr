@@ -6,17 +6,16 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	*huff,huff...*
-	What's with these
-	never_ending stairs?
+	Urf... Arf...
+	Qual é a dessas
+	escadas?! Não acabam!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm getting so
-	tired...
-	*huff,huff...*
+	Eu tô morrendo aqui...
+	Urf... Arf...
 	"""
 	keyWait
 		any = false
@@ -32,7 +31,7 @@ script 1 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Look up there!"
+	"Olha ali em cima!"
 	keyWait
 		any = false
 	clearMsg
@@ -43,7 +42,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh!?"
+	"Hã?!"
 	keyWait
 		any = false
 	end
@@ -62,9 +61,8 @@ script 4 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	It's the brat again!
-	Don't you ever get
-	tired!?
+	É o moleque de novo!
+	Cê não cansa, não?!
 	"""
 	keyWait
 		any = false
@@ -75,9 +73,9 @@ script 5 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	If he's here,then
-	that means JudgeMan
-	is... *sniffle*
+	Se ele está aqui,
+	então o JudgeMan foi...
+	Ungh...
 	"""
 	keyWait
 		any = false
@@ -85,36 +83,35 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Yuika
 	"""
-	Don't be so down,
-	Ito...
+	Não fica tão pra
+	baixo, Ito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is how life
-	is...
+	A vida é assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've known since
-	the day you were
-	born,right?
+	E você sabe disso,
+	desde o dia em que
+	nasceu, não é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProsecutorIto
-	"I know..."
+	"Sim..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Yuika
-	"Hey,useless!"
+	"Ô, imprestável!"
 	keyWait
 		any = false
 	clearMsg
@@ -123,8 +120,8 @@ script 5 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Stop those two from
-	getting any further!
+	Impede esses dois
+	de avançarem mais!
 	"""
 	keyWait
 		any = false
@@ -135,8 +132,8 @@ script 6 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	What am I supposed
-	to do!?
+	O que cê espera
+	que eu faça?!
 	"""
 	keyWait
 		any = false
@@ -149,15 +146,15 @@ script 7 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	You want to be of
-	some use?
+	Não era você que
+	queria ser o bonzão?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then,YOU think of
-	something!
+	Então pensa em
+	alguma coisa você!
 	"""
 	keyWait
 		any = false
@@ -170,16 +167,16 @@ script 8 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Tsk! It's not that
-	easy to come up with
-	something by myself!
+	Tsc! Não é tão
+	fácil assim bolar
+	um plano sozinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Curses,guess I've
-	just gotta try it!
+	Droga... O jeito é
+	seguir o baile!
 	"""
 	keyWait
 		any = false
@@ -204,7 +201,7 @@ script 10 mmbn6 {
 	msgOpen
 	"""
 	PIKIRARAPIKIRA...
-	たRoger...ち
+	たEntendido...ち
 	"""
 	keyWait
 		any = false
@@ -215,8 +212,8 @@ script 11 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	See,Yuika!
-	I CAN do something!
+	Viu, Yuika!
+	Eu SOU bonzão!
 	"""
 	keyWait
 		any = false
@@ -229,16 +226,15 @@ script 12 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	Heh,very nice,Vic.
-	Tee,hee...
+	He, muito bem, Vic.
+	Hi hi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it looks like
-	little boy Lan's
-	going to get you!
+	Mas cuidado, parece que
+	o garotinho vai te pegar!
 	"""
 	keyWait
 		any = false
@@ -250,7 +246,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Vic
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -261,7 +257,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Stop!!"
+	"Para!!"
 	keyWait
 		any = false
 	end
@@ -270,7 +266,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Vic
 	msgOpen
-	"Urk!"
+	"Urck!"
 	keyWait
 		any = false
 	end
@@ -279,7 +275,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I've got you now!"
+	"Agora eu te peguei!"
 	keyWait
 		any = false
 	clearMsg
@@ -291,9 +287,9 @@ script 17 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Hmph,playtime's
-	over! You think you
-	can catch me? Ha!
+	Hmpf, chega de
+	brincadeira! Cê acha
+	que me pega? Rá!
 	"""
 	keyWait
 		any = false
@@ -303,7 +299,7 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"How did he!?"
+	"Mas como ele...?!"
 	keyWait
 		any = false
 	clearMsg
@@ -314,27 +310,27 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Vic
 	msgOpen
-	"Later,brat!"
+	"Falou, guri!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After we get
-	Dr.Wily's Cybeast,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	you can bet we'll be
-	after yours!
+	Depois que a gente
+	pegar a Cyberbesta
+	do Dr. Wily,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stop them,
-	ElementMan!
+	pode apostar que a gente
+	volta pra arrancar a sua!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Segura eles, ElementMan!
 	"""
 	keyWait
 		any = false
@@ -343,7 +339,7 @@ script 19 mmbn6 {
 		mugshot = ElementMan
 	"""
 	PIKIRARAPIKIRA
-	たRoger.ち
+	たEntendido.ち
 	"""
 	keyWait
 		any = false
@@ -353,7 +349,7 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,jack me in!"
+	"Lan, me conecta!"
 	keyWait
 		any = false
 	clearMsg
@@ -365,8 +361,8 @@ script 21 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right!
-	Let's do it,MegaMan!
+	Beleza!
+	Vamos lá, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -374,13 +370,13 @@ script 21 mmbn6 {
 	controlLock
 	textSpeed
 		delay = 1
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock

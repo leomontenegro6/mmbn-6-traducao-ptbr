@@ -8,15 +8,15 @@ script 0 mmbn6 {
 		palette = 6
 	msgOpen
 	"""
-	UWAAAAAN!
-	UWAAAAAN!
+	AAAAAAAHH!
+	AAAAAAAHH!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BURNIIIIING!!
-	SOMEOOOOONE!!
+	FOOOGOOOOO!!
+	SOCOOORROOO!!
 	"""
 	keyWait
 		any = false
@@ -29,9 +29,9 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Calm down!
-	I'm going to put
-	the fire out now!
+	Calma!
+	Eu vou apagar
+	o fogo agora!
 	"""
 	keyWait
 		any = false
@@ -42,20 +42,20 @@ script 2 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	... PHEW!
-	THAT WAS BAAAAD!
+	... UFA!
+	O NEGÓCIO FOI SÉÉÉRIO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE ARE
-	MANY DANGERS AHEAD!
+	VÁRIOS PERIGOS TE
+	AGUARDAM PELA FRENTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"PLEASE BE CAREFUL!"
+	"POR FAVOR,\nTOME CUIDADO!"
 	keyWait
 		any = false
 	end

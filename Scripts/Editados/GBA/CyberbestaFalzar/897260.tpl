@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So this is the
-	Aquarium...
+	Então este que
+	é o Aquário...
 	"""
 	keyWait
 		any = false
@@ -16,7 +16,7 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squawk!!*"
+	"Quén!!"
 	keyWait
 		any = false
 	end
@@ -25,11 +25,11 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Oh!!"
+	"Ah!!"
 	keyWait
 		any = false
 	clearMsg
-	"P_Plata?"
+	"P-Plata?"
 	keyWait
 		any = false
 	clearMsg
@@ -39,7 +39,7 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squawk!!*"
+	"Quén!!"
 	keyWait
 		any = false
 	end
@@ -49,16 +49,16 @@ script 4 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Oh! It IS you!
+	Ah! É você mesmo!
 	Plata!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've been so worried
-	about you! Where
-	have you been!?
+	Estava tão preocupado
+	com você! Por onde
+	você andou?!
 	"""
 	keyWait
 		any = false
@@ -69,7 +69,7 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squawk! Squawk!*"
+	"Quén! Quén!"
 	keyWait
 		any = false
 	clearMsg
@@ -81,16 +81,16 @@ script 6 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	It's OK! You don't
-	have to be scared
-	anymore!
+	Tá tudo bem!
+	Não precisa
+	mais ter medo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've already fired
-	that scary trainer!
+	Eu já demiti aquele
+	domador que te assustou!
 	"""
 	keyWait
 		any = false
@@ -100,7 +100,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"... And you two are?"
+	"... E vocês são quem?"
 	keyWait
 		any = false
 	clearMsg
@@ -112,9 +112,9 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We,uh...
-	Well,we found this
-	penguin,sir.
+	A gente, er...
+	Bom, a gente achou
+	esse pinguim, moço.
 	"""
 	keyWait
 		any = false
@@ -125,8 +125,8 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And he kinda
-	latched onto Mick.
+	E ele meio que se
+	fissurou no Mick.
 	"""
 	keyWait
 		any = false
@@ -148,9 +148,9 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And then we saw
-	that post on the
-	SeasideArea BBS.
+	Aí a gente viu
+	aquela postagem no
+	Fórum Beira-Mar.
 	"""
 	keyWait
 		any = false
@@ -163,48 +163,47 @@ script 12 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Is that right?
-	Well,thank you
-	very much,boys!
+	Ah, é mesmo?
+	Bom, muito obrigado,
+	rapazes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Hmm,how odd.
-	Plata here,well,he's
-	not fond of people.
+	... Hmm, que estranho.
+	É que, sabe, o Plata não
+	gosta muito de gente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He usually doesn't
-	take a liking to
-	strangers...
+	Normalmente, ele
+	nunca se afeiçoa
+	a estranhos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I guess he
-	really likes you
-	two!
+	Mas acho que ele
+	gostou mesmo de
+	vocês dois!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Allow me to show you
-	my appreciation!
+	Permitam-me demonstrar
+	minha gratidão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You two can enjoy
-	this aquarium free
-	of charge today!
+	Vocês podem desfrutar do
+	Aquário de graça hoje!
 	"""
 	keyWait
 		any = false
@@ -216,7 +215,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Really!?"
+	"É sério?!"
 	keyWait
 		any = false
 	clearMsg
@@ -227,49 +226,48 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Yes,of course!"
+	"Muito sério!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope you two will
-	enjoy yourselves!
+	Espero que os dois
+	se divirtam muito!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Well,then,"
+	"... Bom, resolvido isso,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think it's time
-	you went back to
-	your pen,Plata.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	When you boys are
-	ready to go home,
-	let me know,OK?
+	acho que já passou
+	da hora de você voltar
+	pro cercadinho, Plata.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure Plata would
-	like to see you off
-	as well!
+	Quando estiverem prontos
+	pra ir pra casa, é só
+	me avisar, tá bom?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll see you
-	later,boys.
-	OK,Plata,let's go...
+	Estou certo de que
+	o Plata também vai
+	querer se despedir!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Bom, até mais, rapazes.
+	Certo, Plata, vamos...
 	"""
 	keyWait
 		any = false
@@ -280,8 +278,8 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Awesome! We're gonna
-	have loads of fun!
+	Que demais! A gente
+	vai curtir pra valer!!
 	"""
 	keyWait
 		any = false
@@ -300,8 +298,8 @@ script 16 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	... His name was
-	Plata,huh...
+	... O nome dele
+	era Plata, é...?
 	"""
 	keyWait
 		any = false
@@ -320,9 +318,9 @@ script 17 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	Hey,while we're
-	here,we should check
-	everything out!
+	Aí, já que a gente tá
+	aqui, bora aproveitar
+	e ver tudo que tem!
 	"""
 	keyWait
 		any = false
@@ -334,7 +332,7 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"... Yeah..."
+	"... É..."
 	keyWait
 		any = false
 	end

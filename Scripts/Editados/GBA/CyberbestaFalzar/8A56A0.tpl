@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad!"
+	"Pai!"
 	keyWait
 		any = false
 	end
@@ -14,7 +14,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad!"
+	"Pai!"
 	keyWait
 		any = false
 	clearMsg
@@ -26,8 +26,8 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... Looks like we
-	made it.
+	... Parece que a
+	gente chegou a tempo.
 	"""
 	keyWait
 		any = false
@@ -40,16 +40,14 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad,can you
-	hear me!?
+	Pai, tá me ouvindo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're gonna get you
-	out of there right
-	now!
+	A gente já vai
+	te tirar daí!
 	"""
 	keyWait
 		any = false
@@ -61,14 +59,14 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"... Is that you,Lan?"
+	"... Lan, é você?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm OK,so don't
-	do anything rash,
-	OK...?
+	Eu tô bem, filho.
+	Então não faça nenhuma
+	loucura, tá...?
 	"""
 	keyWait
 		any = false
@@ -81,15 +79,14 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you
-	talking about!?
+	Mas do que você
+	tá falando?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What about
-	the zapping...?
+	E os choques...?
 	"""
 	keyWait
 		any = false
@@ -103,13 +100,13 @@ script 6 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	THE PUNISHMENT WILL
-	BEGIN IN 20 MINUTES.
+	A PUNIÇÃO SERÁ INICIADA
+	EM 20 MINUTOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BEGIN PREPARATIONS."
+	"INICIANDO PREPARATIVOS."
 	keyWait
 		any = false
 	clearMsg
@@ -120,11 +117,11 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"20 minutes!?"
+	"20 minutos?!"
 	keyWait
 		any = false
 	clearMsg
-	"We've gotta hurry!"
+	"A gente tem que correr!"
 	keyWait
 		any = false
 	clearMsg
@@ -136,16 +133,14 @@ script 8 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Hey!
-	Quiet!
+	Ô! Quieto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Silence is golden
-	in the Punishment
-	Room!
+	O silêncio vale ouro
+	na Cela de Punição!
 	"""
 	keyWait
 		any = false
@@ -156,16 +151,16 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,mister!
-	Please listen!
+	Moço!
+	Por favor, me escuta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dad's punishment...
-	Real culprit...!
-	So...!!
+	A punição do papai...
+	Verdadeiro culpado...
+	Protesto...!!
 	"""
 	keyWait
 		any = false
@@ -178,13 +173,13 @@ script 10 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Hey,hey!
-	Calm down,kid!
+	Opa, opa!
+	Calma, garoto!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now what's wrong?"
+	"Respira fundo e\nexplica isso."
 	keyWait
 		any = false
 	clearMsg
@@ -196,23 +191,23 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	My Dad...!
-	I've found evidence
+	O meu pai...!
+	Eu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that supports
-	Yuichiro Hikari's
-	alibi!
+	Eu achei provas que
+	embasam o álibi de
+	Yuichiro Hikari!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can prove he's
-	innocent!
+	Posso provar que
+	ele é inocente!
 	"""
 	keyWait
 		any = false
@@ -224,26 +219,26 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"I wonder..."
+	"Será que..."
 	keyWait
 		any = false
 	clearMsg
-	"... But,no!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If you really did,
-	then that means we
-	found an innocent
-	"""
+	"... N-não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	person guilty! He
-	would be the first
-	in Green Town!!
+	Mesmo se você tiver
+	achado, isso significaria
+	que declaramos uma
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	pessoa inocente, culpada!
+	Seria o primeiro caso
+	disso no Distrito Verde!!
 	"""
 	keyWait
 		any = false
@@ -256,9 +251,8 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You've gotta stop
-	the punishment
-	NOW!!
+	Você tem que parar
+	a punição! JÁ!!
 	"""
 	keyWait
 		any = false
@@ -271,16 +265,15 @@ script 14 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Well,you can't do
-	that from here!
+	Bom, não dá pra
+	fazer isso daqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to get
-	permission from the
-	JudgeTree...
+	É preciso obter permissão
+	da Árvore Juíza...
 	"""
 	keyWait
 		any = false
@@ -293,16 +286,15 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Alright.
-	I'll show the
-	JudgeTree the proof,
+	... Beleza.
+	Então eu vou mostrar as
+	provas pra Árvore Juíza
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and stop the
-	punishment!
+	e parar a sentença!
 	"""
 	keyWait
 		any = false

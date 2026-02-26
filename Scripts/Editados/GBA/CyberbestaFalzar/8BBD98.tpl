@@ -6,23 +6,23 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So this is the
-	Central Pavilion...
+	Então este que é o
+	Pavilhão Central...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wow...
-	It's all just
-	CopyBots...
+	Caramba...
+	Tem CópiRoide pra
+	tudo que é lado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,let's take a
-	look around!
+	Bom, bora dar uma
+	explorada por aí!
 	"""
 	keyWait
 		any = false
@@ -33,16 +33,15 @@ script 1 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	So this is a
-	CopyBot?
+	Isso que é um
+	CópiRoide, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You put your Navi in
-	it and it looks like
-	him?
+	Cê bota o seu Navi nele,
+	e ele fica igual?
 	"""
 	keyWait
 		any = false
@@ -55,9 +54,9 @@ script 2 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Yeah,but this is the
-	first time I've seen
-	so many!
+	Aham. Mas é a primeira
+	vez que eu vejo tantos
+	assim num lugar só!
 	"""
 	keyWait
 		any = false
@@ -70,14 +69,14 @@ script 3 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	I didn't know there
-	were so many
-	CopyBots being made!
+	Eu nem sabia que havia
+	tantos CópiRoides assim
+	sendo produzidos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's surprising!"
+	"É um choque pra mim."
 	keyWait
 		any = false
 	clearMsg
@@ -89,9 +88,9 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	To me,it's kinda
-	scary to see this
-	many all lined up...
+	Na real, eu acho meio
+	sinistro ver tantos assim
+	alinhados desse jeito...
 	"""
 	keyWait
 		any = false
@@ -102,9 +101,8 @@ script 5 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Are you OK,Iris?
-	You're looking a
-	little pale...
+	Você tá bem, Iris?
+	Tá meio pálida...
 	"""
 	keyWait
 		any = false
@@ -116,7 +114,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"What's wrong?"
+	"O que foi?"
 	keyWait
 		any = false
 	clearMsg
@@ -139,8 +137,8 @@ script 8 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	You're shaking...
-	Do you feel sick...?
+	Você tá tremendo...
+	Tá passando mal...?
 	"""
 	keyWait
 		any = false
@@ -152,8 +150,8 @@ script 9 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	Welcome to the
-	Central Pavilion!
+	Bem-vindos ao
+	Pavilhão Central!
 	"""
 	keyWait
 		any = false
@@ -164,24 +162,23 @@ script 10 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Isn't this pavilion
-	wonderful? So many
-	CopyBots in a row...
+	Este pavilhão não é
+	maravilhoso? Tantos
+	CópiRoides em fila...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll be so happy...
+	Vocês ficarão felizes...
 	......
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	because you can see
-	the end of the world
-	from this pavilion!!
+	por poderem ver o fim
+	do mundo deste pavilhão!
 	"""
 	keyWait
 		any = false
@@ -195,7 +192,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W_What the!?"
+	"O-o quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -205,13 +202,13 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Wahahaha..."
+	"Uá ha ha ha..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's been a while,
-	... Lan Hikari.
+	Há quanto tempo...
+	Lan Hikari.
 	"""
 	keyWait
 		any = false
@@ -221,7 +218,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dr.Wily!?"
+	"Dr. Wily?!"
 	keyWait
 		any = false
 	clearMsg
@@ -233,15 +230,16 @@ script 14 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Welcome to the
-	Central Pavilion...
+	Bem-vindo ao
+	Pavilhão Central...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	or rather,WWW
-	Headquarters!!
+	ou melhor...
+	ao Quartal-General
+	da WWW!!
 	"""
 	keyWait
 		any = false
@@ -255,14 +253,13 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"WHAT!?"
+	"O QUÊ?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then_then the person
-	that sent that mail
-	was...
+	E-então, a pessoa que
+	aquele e-mail foi...
 	"""
 	keyWait
 		any = false
@@ -274,65 +271,65 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Yes,it was me!"
+	"Exatamente. Fui eu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But that isn't all!
-	It was I that made
-	this Expo!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Hahaha. Mayor Cain
-	did an excellent job
-	in building it.
+	Mas isso não é tudo!
+	Também fui eu quem
+	montou esta Exposição!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The money to build
-	the Expo actually
-	went into building
+	Ha ha ha... O Prefeito
+	Cain fez um ótimo
+	trabalhando construindo-a.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my secret laboratory
-	and funding our
-	criminal activities.
+	O dinheiro investido
+	na construção dela, na
+	verdade, era usado para
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,and I am so close
-	to completing my
-	goal.
+	construir meu laboratório
+	secreto e financiar nossas
+	atividades criminosas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just need two
-	more things...
+	Ahhh... e eu estou tão
+	perto de conquistar o
+	meu objetivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One is the Cybeast
-	inside MegaMan...
+	Só preciso de mais
+	duas coisinhas...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"The other is..."
+	"""
+	Uma é a Cyberbesta
+	dentro do MegaMan...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"E a outra..."
 	keyWait
 		any = false
 	clearMsg
@@ -343,7 +340,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The other is...?"
+	"A outra...?"
 	keyWait
 		any = false
 	clearMsg
@@ -371,8 +368,8 @@ script 18 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	You've come back to
-	me,my dear!
+	Você voltou para
+	mim, minha querida!
 	"""
 	keyWait
 		any = false
@@ -383,16 +380,16 @@ script 19 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Ah,but then,you
-	only have one place
-	you can return to.
+	He. Se bem que você só
+	tinha mesmo um lugar
+	para o qual retornar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come!
-	Come back to me!
+	Venha!
+	Volte para mim!
 	"""
 	keyWait
 		any = false
@@ -416,8 +413,8 @@ script 21 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I_Iris...
-	What does he mean?
+	I-Iris...
+	Do que ele tá falando?
 	"""
 	keyWait
 		any = false
@@ -441,9 +438,9 @@ script 23 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Just accept it,Iris.
-	You have no place to
-	go!
+	Aceite logo, Iris.
+	Você não tem
+	para onde ir!
 	"""
 	keyWait
 		any = false
@@ -453,7 +450,7 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Now!"
+	"Agora!"
 	keyWait
 		any = false
 	end
@@ -463,8 +460,8 @@ script 25 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	Waaaah!!
-	Wh_What's going on!?
+	A-aaaaahhh!!
+	O-o que tá acontecendo?!
 	"""
 	keyWait
 		any = false
@@ -476,7 +473,7 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Th_There's too many!"
+	"T-todos eles...?!"
 	keyWait
 		any = false
 	clearMsg
@@ -487,7 +484,7 @@ script 27 mmbn6 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Not good...!"
+	"Droga...!"
 	keyWait
 		any = false
 	clearMsg
@@ -498,7 +495,7 @@ script 28 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"You can not escape!"
+	"Não há como fugirem!"
 	keyWait
 		any = false
 	end
@@ -507,7 +504,7 @@ script 29 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Eeeeeeek!!"
+	"Aaaaaaaaugh!!"
 	keyWait
 		any = false
 	end
@@ -516,7 +513,7 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Get them!!"
+	"Peguem-nos!!"
 	keyWait
 		any = false
 	clearMsg
@@ -527,7 +524,7 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Yes,sir!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -536,7 +533,7 @@ script 32 mmbn6 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Stop! Nooo!!"
+	"P-para! Nãããããoo!!"
 	keyWait
 		any = false
 	clearMsg
@@ -548,8 +545,8 @@ script 33 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Can't we talk about
-	this!?
+	Não podemos resolver
+	isso na dialética?!
 	"""
 	keyWait
 		any = false
@@ -561,7 +558,7 @@ script 34 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Darn it! Darn it!!"
+	"Argh! Drooogaaa!!"
 	keyWait
 		any = false
 	clearMsg
@@ -583,7 +580,7 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Eeeeeeeek!!"
+	"Aaaaaaugh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -594,7 +591,7 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Everyone!!"
+	"Pessoal!!"
 	keyWait
 		any = false
 	end
@@ -604,22 +601,21 @@ script 38 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Splendid,Lan. But
-	I think it's time to
-	give up!
+	Esplêndido, Lan.
+	Mas creio que já seja
+	hora de desistir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You fought well,but
-	resistance is
-	futile!
+	Você lutou bem, mas
+	resistir é inútil agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Seize him!!"
+	"Capturem-no!!"
 	keyWait
 		any = false
 	clearMsg
@@ -639,7 +635,7 @@ script 39 mmbn6 {
 }
 script 40 mmbn6 {
 	msgOpen
-	"Hyaaaaaaa!!"
+	"Iiiááááá!!"
 	keyWait
 		any = false
 	end
@@ -659,8 +655,8 @@ script 42 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	Looks like I'm a tad
-	late...
+	Parece que cheguei
+	meio atrasado...
 	"""
 	keyWait
 		any = false
@@ -682,8 +678,7 @@ script 44 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Where are the
-	others?
+	Onde estão os outros?
 	"""
 	keyWait
 		any = false
@@ -696,8 +691,7 @@ script 45 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	They're being held
-	by Dr.Wily...
+	O Dr. Wily capturou eles...
 	"""
 	keyWait
 		any = false
@@ -710,16 +704,16 @@ script 46 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	You! You're that
-	Official brat!
+	Você! É aquele
+	fedelho Oficial!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go,my Navis!
-	Get those two
-	annoying brats!!
+	Vão, meus Navis!
+	Peguem esses dois
+	pirralhos impertinentes!!
 	"""
 	keyWait
 		any = false
@@ -732,15 +726,15 @@ script 47 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,we must retreat
-	for now!
+	Lan, temos que bater
+	em retirada agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have to come up
-	with another plan!
+	Vamos ter que bolar
+	um novo plano.
 	"""
 	keyWait
 		any = false
@@ -754,7 +748,7 @@ script 48 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"... *nod*"
+	"... Uhum!"
 	keyWait
 		any = false
 	clearMsg
@@ -767,7 +761,7 @@ script 49 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 2
-	"ProtoMan,let's go!"
+	"ProtoMan, vamos!"
 	keyWait
 		any = false
 	clearMsg
@@ -778,7 +772,7 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Roger!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -788,9 +782,8 @@ script 51 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Get them,get them!
-	Don't let them get
-	away!!
+	Peguem-nos! Peguem-nos!
+	Não deixem que fujam!!
 	"""
 	keyWait
 		any = false

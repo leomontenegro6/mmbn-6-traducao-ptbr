@@ -9,27 +9,27 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Ahhh,welcome!!"
+	"Ahhh, bem-vindo!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh,you're inviting
-	me to the Expo too?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Thank you!!
-	I'm so happy!!
+	Hã? Tá me convidando pra
+	ir na pré-inauguração da
+	Exposição?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will go with you
-	for sure!!
+	Obrigado!!
+	Isso me deixa tão feliz!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu vou sim, sem falta!!
 	"""
 	keyWait
 		any = false
@@ -42,9 +42,9 @@ script 1 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	Lan's great!
-	He even invited me
-	to the Expo!!
+	Esse Lan é demais!
+	Até me convidou
+	pra ir na Exposição!!
 	"""
 	keyWait
 		any = false
@@ -55,15 +55,15 @@ script 5 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	I really like this
-	chip magazine.
+	Eu gosto muito desta
+	revista de chips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The comic in the
-	back is the best!
+	E a melhor parte dela
+	é o gibi no final!
 	"""
 	keyWait
 		any = false
@@ -74,16 +74,16 @@ script 6 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Buy the best chip
-	you can afford...
+	Comprar o melhor chip
+	que for possível...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is important
-	for every great
-	NetBattler to know!
+	Isso é importante para
+	todo grande NetLutador
+	saber!
 	"""
 	keyWait
 		any = false
@@ -94,25 +94,25 @@ script 10 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	The Net here
-	has always been
-	dangerous,so if you
+	A Rede daqui sempre
+	foi perigosa, então,
+	se não preparar chips
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	don't prepare chips
-	properly,your navi
-	could be defeated!
+	devidamente, o seu
+	Navi pode acabar
+	sendo vencido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even if the chip's
-	expensive,you need
-	to buy good chips!
+	Mesmo se o for caro,
+	você PRECISA comprar
+	bons chips!
 	"""
 	keyWait
 		any = false
@@ -123,14 +123,14 @@ script 11 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	It was a hard number
-	to get,but all I got
-	was a MiniEnrg!
+	Poxa, eu ralei tanto pra
+	achar esse número, e ele
+	só deu uma MiniEnrg!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Cheeeapppp..."
+	"Poooooxaa..."
 	keyWait
 		any = false
 	end

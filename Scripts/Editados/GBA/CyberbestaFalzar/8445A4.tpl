@@ -4,17 +4,17 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	The two Expo
-	mascots,CopyBoy
-	and CopyGirl...
+	Os dois mascotes da
+	Exposição, CopyBoy
+	e CopyGirl...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not much thought
-	went into the
-	design,it seems...
+	Claramente não passaram
+	muito tempo pensando
+	no visual deles...
 	"""
 	keyWait
 		any = false
@@ -23,14 +23,17 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The Seaside Pavilion
-	summary... It looks
-	like their theme is
+	Ficha do Pavilhão
+	Beira-Mar... Parece
+	que o tema dele é
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The Harmony of Man\n and Water\"..."
+	"""
+	"Harmonia entre
+	Homem e Água"!
+	"""
 	keyWait
 		any = false
 	end
@@ -38,18 +41,25 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	The Green Pavilion
-	summary... It looks
-	like their theme is
+	Ficha do Pavilhão
+	Verde... Parece
+	que o tema dele é
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The Benefits of\n Nature to Man,and"
+	"""
+	"As Dádivas da
+	Natureza ao Homem
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" the Effects of\n Environmental\n Destruction\"."
+	"""
+	e os Efeitos da
+	Destruição do
+	Meio Ambiente".
+	"""
 	keyWait
 		any = false
 	end
@@ -57,14 +67,18 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	The Central Pavilion
-	summary... It looks
-	like their theme is
+	Ficha do Pavilhão
+	Central... Parece
+	que o tema dele é
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Next_Gen Net\n Society:Man and\n CopyBots,Together\"."
+	"""
+	"A Rede da Próxima
+	Geração: Humanos e
+	CópiRoides, Juntos".
+	"""
 	keyWait
 		any = false
 	end
@@ -72,14 +86,17 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	The Sky Pavilion
-	summary... It looks
-	like their theme is
+	Ficha do Pavilhão Céu...
+	Parece que o tema dele é
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Improving Man's\n Life Through\n Weather Control\"."
+	"""
+	"Melhorar a Vida do
+	Homem Através do
+	Controle do Clima".
+	"""
 	keyWait
 		any = false
 	end
@@ -87,16 +104,16 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	The Sky Pavilion's
-	mascots,SunnyMan and
-	RainyMan...
+	Os mascotes do
+	Pavilhão Céu,
+	Solaro e Chuvisco...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Their design is kind
-	of boring too...
+	Eles também têm um
+	visual meio sem graça...
 	"""
 	keyWait
 		any = false
@@ -105,23 +122,22 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	Once the Expo opens,
-	you can eat foods
-	from all over the
+	Depois que a Exposição
+	for inaugurada, essas
+	barracas oferecerão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	world under these
-	tents.
+	pratos de todo o mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But no one is here
-	right now.
+	Mas não há ninguém
+	nelas agora.
 	"""
 	keyWait
 		any = false
@@ -130,24 +146,24 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	There is a short
-	movie about various
-	sights at the Expo
+	No monitor está sendo
+	reproduzido um curto vídeo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	playing on the
-	monitor.
+	mostrando as várias
+	coisas oferecidas
+	na Exposição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"You may jack in" is
-	written on the edge
-	of the monitor.
+	No canto dele estão
+	escritas as palavras:
+	"Você pode se conectar".
 	"""
 	keyWait
 		any = false

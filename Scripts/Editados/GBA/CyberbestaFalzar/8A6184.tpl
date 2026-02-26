@@ -5,13 +5,13 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"*huff,huff...*"
+	"Urf... Urf..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Are they
-	following us?
+	... Não tão
+	seguindo a gente?
 	"""
 	keyWait
 		any = false
@@ -21,40 +21,38 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's going on?"
+	"O que tá acontecendo?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	They're probably
-	barricading them_
-	selves in there.
+	Eles devem estar
+	mantendo a porta
+	barrada por dentro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As long as they have
-	the JudgeTree,the
-	Prosecutor can do
+	Enquanto eles tiverem a
+	Árvore Juíza, o Promotor
+	pode fazer o que bem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	whatever he wants! I
-	don't think he wants
-	anyone else near that
+	entender! Acho que ele
+	não quer que ninguém
+	chegue perto da árvore...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tree!
-	He really planned
-	this well!
+	O Ito pensou em tudo!
 	"""
 	keyWait
 		any = false
@@ -62,16 +60,15 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What should we do...
-	and what's going to
-	happen to Dad!?
+	O que a gente faz...?
+	E o que vai acontecer
+	com o papai?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And...
-	everyone else!?
+	E com todo mundo?!
 	"""
 	keyWait
 		any = false
@@ -84,41 +81,39 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,it looks like
-	the Prosecutor is
-	manipulating the
+	Bom, parece que o
+	Promotor tá manipulando
+	a Árvore Juíza,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JudgeTree,and that
-	tree commands the
-	Punishment Robots...
+	e ela controla os
+	Robôs de Punição...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd say there's
-	only one thing
-	we can do.
+	Eu diria que só
+	tem uma coisa que
+	a gente pode fazer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've gotta pull the
-	plug on the
-	JudgeTree! If we do
+	A gente tem que desligar
+	a Árvore Juíza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that,we can save Dad
-	and stop the
-	Punishment Robots!
+	Assim, vamos poder
+	salvar o papai e parar
+	os Robôs de Punição!
 	"""
 	keyWait
 		any = false
@@ -131,9 +126,9 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah. We've gotta
-	find a way to get
-	close to the tree!
+	É. A gente tem que
+	achar um jeito de fazer
+	aquela árvore dormir!
 	"""
 	keyWait
 		any = false
@@ -146,17 +141,17 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hmm,we can't just
-	go in through
-	the front door...
+	Hmm, entrar pela
+	porta da frente tá
+	fora de questão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And trying to slip
-	by the Punishment
-	Robots is too risky.
+	e tentar driblar os
+	Robôs de Punição é
+	arriscado demais.
 	"""
 	keyWait
 		any = false
@@ -169,15 +164,15 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But if we don't get
-	in there now,
+	Mas, se a gente
+	não entrar logo lá,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they might start
-	Dad's punishment!
+	eles podem começar
+	a sentença do papai!
 	"""
 	keyWait
 		any = false
@@ -190,16 +185,16 @@ script 6 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's look for
-	another way in!
+	Vamos ver se a gente
+	encontra outro acesso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've gotta find
-	a way to get near
-	the JudgeTree!
+	A gente tem que achar
+	uma forma de chegar
+	perto da Árvore Juíza!
 	"""
 	keyWait
 		any = false

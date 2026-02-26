@@ -6,30 +6,29 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You've gotta
-	normalize this main
-	computer,MegaMan!
+	Cê tem que normalizar
+	esse computador central,
+	MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can do that,
-	we should be able
-	to use this computer
+	Se fizer isso, a gente
+	vai poder usar ele pra
+	transmitir aquela tal
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to broadcast the
-	"Feeding Time"
-	chime.
+	melodia de
+	"Hora de Comer"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's do this!"
+	"Vamos nessa!"
 	keyWait
 		any = false
 	clearMsg
@@ -40,7 +39,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!"
+	"Positivo!!"
 	keyWait
 		any = false
 	end

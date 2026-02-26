@@ -4,8 +4,8 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	It's a Chip Trader.
-	Insert 3 BtlChips?
+	É um Troca-Chips.
+	Inserir 3 chips?
 	
 	"""
 	positionOptionHorizontal
@@ -18,7 +18,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -27,7 +27,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -67,9 +67,8 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,you have less
-	than 3 chips in your
-	Pack.
+	Lan, você tem menos
+	de 3 chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -98,7 +97,7 @@ script 2 mmbn6 {
 		delay = 0
 	mugshotShow
 		mugshot = MegaMan
-	"Add these 3?\n"
+	"Usar estes 3?\n"
 	positionOptionFromCenter
 		width = 7
 	option
@@ -109,7 +108,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -118,7 +117,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -137,7 +136,7 @@ script 3 mmbn6 {
 	soundDisableTextSFX
 	soundPlay
 		track = 213
-	"Click_k_k_k...THUNK!"
+	"Clique-que... PLÉC!"
 	soundEnableTextSFX
 	keyWait
 		any = false
@@ -156,7 +155,7 @@ script 3 mmbn6 {
 		left = 226
 		top = 141
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printChip
@@ -180,7 +179,7 @@ script 3 mmbn6 {
 		left = 51
 		top = 108
 		arrowDistance = 3
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -191,7 +190,7 @@ script 3 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -200,7 +199,7 @@ script 3 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -241,9 +240,9 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad,Lan. You
-	have less than 3
-	chips in your Pack!
+	Que pena, Lan.
+	Você tá com menos de
+	3 chips na Mochila!
 	"""
 	keyWait
 		any = false
@@ -255,8 +254,8 @@ script 5 mmbn6s {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	Chip Trader Special!
-	Insert 10 BtlChips?
+	Troca-Chips especial!
+	Usar 10 chips?
 	
 	"""
 	positionOptionHorizontal
@@ -269,7 +268,7 @@ script 6 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -278,7 +277,7 @@ script 6 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -318,9 +317,8 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you have less
-	than 10 chips
-	in your Pack.
+	Lan, você tem menos de
+	10 chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -349,7 +347,7 @@ script 8 mmbn6 {
 		delay = 0
 	mugshotShow
 		mugshot = MegaMan
-	"Add these 10?\n"
+	"Usar estes 10?\n"
 	positionOptionFromCenter
 		width = 7
 	option
@@ -360,7 +358,7 @@ script 8 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -369,7 +367,7 @@ script 8 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -389,7 +387,7 @@ script 9 mmbn6 {
 	soundDisableTextSFX
 	soundPlay
 		track = 213
-	"Click_k_k_k...THUNK!"
+	"Clique-que... PLÉNC!"
 	soundEnableTextSFX
 	keyWait
 		any = false
@@ -408,7 +406,7 @@ script 9 mmbn6 {
 		left = 226
 		top = 141
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printChip
@@ -432,7 +430,7 @@ script 9 mmbn6 {
 		left = 51
 		top = 108
 		arrowDistance = 3
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -443,7 +441,7 @@ script 9 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -452,7 +450,7 @@ script 9 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -493,9 +491,9 @@ script 10 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad,Lan. You
-	have less than 10
-	chips in your Pack!
+	Que pena. Lan. Você
+	tá com menos de 10
+	chips na Mochila!
 	"""
 	keyWait
 		any = false
@@ -506,11 +504,11 @@ script 11 mmbn6s {
 }
 script 12 mmbn6 {
 	msgOpen
-	"A BugFrag Trader."
+	"Um Troca-FragBugs."
 	keyWait
 		any = false
 	clearMsg
-	"Insert 10 BugFrags?\n"
+	"Inserir 10 FragBugs?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -521,7 +519,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -530,7 +528,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -567,8 +565,8 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you don't have
-	10 BugFrags!
+	Lan, você não
+	tem 10 FragBugs!
 	"""
 	keyWait
 		any = false
@@ -578,8 +576,8 @@ script 15 mmbn6 {
 	msgOpenQuick
 	printCurrentNaviOW
 	"""
-	 handed over
-	the BugFrags!
+	 abriu mão
+	dos FragBugs!
 	"""
 	keyWait
 		any = false
@@ -589,9 +587,9 @@ script 15 mmbn6 {
 	wait
 		frames = 60
 	"""
-	With a powerful howl
-	the ChipData is
-	revealed!
+	Com um poderoso rugido,
+	os dados de chip se
+	revelam!
 	"""
 	keyWait
 		any = false
@@ -611,7 +609,7 @@ script 15 mmbn6 {
 		top = 141
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip
@@ -635,7 +633,7 @@ script 15 mmbn6 {
 		left = 51
 		top = 108
 		arrowDistance = 3
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -646,7 +644,7 @@ script 15 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -655,7 +653,7 @@ script 15 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -693,9 +691,9 @@ script 16 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad,Lan. We
-	don't have 10
-	BugFrags!
+	Que pena, Lan.
+	A gente tá com menos
+	de 10 FragBugs!
 	"""
 	keyWait
 		any = false
@@ -709,8 +707,8 @@ script 17 mmbn6 {
 script 20 mmbn6 {
 	msgOpen
 	"""
-	You don't have 3
-	chips in your Pack.
+	Você tem menos de
+	três chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -720,8 +718,8 @@ script 21 mmbn6 {
 	clearMsg
 	msgOpen
 	"""
-	You don't have 3
-	chips in your Pack.
+	Você tem menos de
+	três chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -730,8 +728,8 @@ script 21 mmbn6 {
 script 22 mmbn6 {
 	msgOpen
 	"""
-	You don't have 10
-	chips in your Pack.
+	Você tem menos de
+	10 chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -741,8 +739,8 @@ script 23 mmbn6 {
 	clearMsg
 	msgOpen
 	"""
-	You don't have 10
-	chips in your Pack.
+	Você tem menos de
+	10 chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -751,8 +749,8 @@ script 23 mmbn6 {
 script 24 mmbn6 {
 	msgOpen
 	"""
-	We don't have 10
-	BugFrags!
+	Nós não temos
+	10 FragBugs!
 	"""
 	keyWait
 		any = false
@@ -762,8 +760,8 @@ script 25 mmbn6 {
 	clearMsg
 	msgOpen
 	"""
-	We don't have 10
-	BugFrags!
+	Nós não temos
+	10 FragBugs!
 	"""
 	keyWait
 		any = false
@@ -772,8 +770,8 @@ script 25 mmbn6 {
 script 26 mmbn6 {
 	msgOpen
 	"""
-	You don't have 3
-	chips in your Pack.
+	Você tem menos de
+	três chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -782,8 +780,8 @@ script 26 mmbn6 {
 script 27 mmbn6 {
 	msgOpen
 	"""
-	You don't have 3
-	chips in your Pack.
+	Você tem menos de
+	três chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -792,8 +790,8 @@ script 27 mmbn6 {
 script 28 mmbn6 {
 	msgOpen
 	"""
-	We don't have 10
-	BugFrags!
+	Nós não temos
+	10 FragBugs!
 	"""
 	keyWait
 		any = false
@@ -803,8 +801,8 @@ script 29 mmbn6 {
 	clearMsg
 	msgOpen
 	"""
-	We don't have 10
-	BugFrags!
+	Nós não temos
+	10 FragBugs!
 	"""
 	keyWait
 		any = false
@@ -814,7 +812,7 @@ script 30 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Add these 3?\n"
+	"Usar estes 3?\n"
 	positionOptionFromCenter
 		width = 7
 	option
@@ -825,7 +823,7 @@ script 30 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -834,7 +832,7 @@ script 30 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -852,7 +850,7 @@ script 31 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Add these 10?\n"
+	"Usar estes 10?\n"
 	positionOptionFromCenter
 		width = 7
 	option
@@ -863,7 +861,7 @@ script 31 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -872,7 +870,7 @@ script 31 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -890,7 +888,7 @@ script 32 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Add these 3?\n"
+	"Usar estes 3?\n"
 	positionOptionFromCenter
 		width = 7
 	option
@@ -901,7 +899,7 @@ script 32 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -910,7 +908,7 @@ script 32 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -928,7 +926,7 @@ script 33 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Add these 3?\n"
+	"Usar estes 3?\n"
 	positionOptionFromCenter
 		width = 7
 	option
@@ -939,7 +937,7 @@ script 33 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -948,7 +946,7 @@ script 33 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -966,9 +964,9 @@ script 34 mmbn6 {
 	clearMsg
 	msgOpen
 	"""
-	Too bad,Lan. You
-	don't have 3
-	chips in your Pack.
+	Que pena. Lan. Você
+	tá com menos de 3
+	chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -978,9 +976,9 @@ script 35 mmbn6 {
 	clearMsg
 	msgOpen
 	"""
-	Too bad,Lan. You
-	don't have 3
-	chips in your Pack.
+	Que pena. Lan. Você
+	tá com menos de 3
+	chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -990,7 +988,7 @@ script 36 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Add these 10?\n"
+	"Usar estes 10?\n"
 	positionOptionFromCenter
 		width = 7
 	option
@@ -1001,7 +999,7 @@ script 36 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1010,7 +1008,7 @@ script 36 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1028,7 +1026,7 @@ script 37 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Add these 10?\n"
+	"Usar estes 10?\n"
 	positionOptionFromCenter
 		width = 7
 	option
@@ -1039,7 +1037,7 @@ script 37 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1048,7 +1046,7 @@ script 37 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1066,9 +1064,9 @@ script 38 mmbn6 {
 	clearMsg
 	msgOpen
 	"""
-	Too bad,Lan. You
-	don't have 10
-	chips in your Pack.
+	Que pena. Lan. Você
+	tá com menos de 10
+	chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -1078,9 +1076,9 @@ script 39 mmbn6 {
 	clearMsg
 	msgOpen
 	"""
-	Too bad,Lan. You
-	don't have 10
-	chips in your Pack.
+	Que pena. Lan. Você
+	tá com menos de 10
+	chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -1089,8 +1087,8 @@ script 39 mmbn6 {
 script 40 mmbn6 {
 	msgOpen
 	"""
-	We don't have 10
-	BugFrags!
+	Nós não temos
+	10 FragBugs!
 	"""
 	keyWait
 		any = false
@@ -1099,8 +1097,8 @@ script 40 mmbn6 {
 script 41 mmbn6 {
 	msgOpen
 	"""
-	We don't have 10
-	BugFrags!
+	Nós não temos
+	10 FragBugs!
 	"""
 	keyWait
 		any = false
@@ -1110,8 +1108,8 @@ script 42 mmbn6 {
 	clearMsg
 	msgOpen
 	"""
-	We don't have 10
-	BugFrags!
+	Nós não temos
+	10 FragBugs!
 	"""
 	keyWait
 		any = false
@@ -1121,8 +1119,8 @@ script 43 mmbn6 {
 	clearMsg
 	msgOpen
 	"""
-	We don't have 10
-	BugFrags!
+	Nós não temos
+	10 FragBugs!
 	"""
 	keyWait
 		any = false
@@ -1131,8 +1129,8 @@ script 43 mmbn6 {
 script 44 mmbn6 {
 	msgOpen
 	"""
-	You don't have 10
-	chips in your Pack.
+	Você tem menos de
+	10 chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -1141,8 +1139,8 @@ script 44 mmbn6 {
 script 45 mmbn6 {
 	msgOpen
 	"""
-	You don't have 10
-	chips in your Pack.
+	Você tem menos de
+	10 chips na Mochila.
 	"""
 	keyWait
 		any = false
@@ -1152,26 +1150,26 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = Otenko
 	msgOpen
-	"I am Otenko."
+	"Eu sou Otenko."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have traveled the
-	depths of space.
+	Viajei através dos
+	confins do espaço...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have arrived to
-	exchange your
-	Crossover Points!
+	e cheguei para trocar
+	os seus Pontos de
+	Travessia!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Add your points?\n"
+	"Fornecer pontos?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -1182,7 +1180,7 @@ script 50 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1191,7 +1189,7 @@ script 50 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1209,7 +1207,7 @@ script 51 mmbn6 {
 	mugshotShow
 		mugshot = Otenko
 	msgOpenQuick
-	"Add your points?\n"
+	"Fornecer pontos?\n"
 	space
 		count = 8
 	option
@@ -1229,7 +1227,7 @@ script 51 mmbn6 {
 		char = 1
 	"""
 	0
-	たUてD:Change pointsち
+	たCてB:Mudar pontosち
 	"""
 	flagSet
 		flag = 5925
@@ -1242,15 +1240,15 @@ script 52 mmbn6 {
 		mugshot = Otenko
 	msgOpenQuick
 	"""
-	Very well.
-	Come again!
+	Pois bem.
+	Volte sempre!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Sun will rise
-	tomorrow!
+	O Sol nascerá
+	de novo amanhã!
 	"""
 	keyWait
 		any = false
@@ -1266,7 +1264,7 @@ script 53 mmbn6 {
 		minLength = 2
 		padZeros = false
 		padLeft = true
-	" points?\n"
+	" pontos?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -1277,7 +1275,7 @@ script 53 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1286,7 +1284,7 @@ script 53 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1305,8 +1303,8 @@ script 54 mmbn6 {
 		mugshot = Otenko
 	msgOpenQuick
 	"""
-	You don't have
-	enough points!
+	Você não tem
+	pontos o bastante!
 	"""
 	keyWait
 		any = false
@@ -1335,7 +1333,7 @@ script 55 mmbn6 {
 		top = 141
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip
@@ -1361,7 +1359,7 @@ script 55 mmbn6 {
 		arrowDistance = 3
 	mugshotShow
 		mugshot = Otenko
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1372,7 +1370,7 @@ script 55 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1381,7 +1379,7 @@ script 55 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1406,7 +1404,7 @@ script 56 mmbn6 {
 		track = 115
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip
@@ -1428,7 +1426,7 @@ script 56 mmbn6 {
 		arrowDistance = 3
 	mugshotShow
 		mugshot = Otenko
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1439,7 +1437,7 @@ script 56 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1448,7 +1446,7 @@ script 56 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1472,13 +1470,13 @@ script 57 mmbn6 {
 	soundPlay
 		track = 115
 	printCurrentNaviOW
-	" got:\n"
+	" adquiriu:\n"
 	printBuffer
 		buffer = 3
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	" BugFrags!!"
+	" FragBug(s)!!"
 	keyWait
 		any = false
 	playerFinish
@@ -1490,7 +1488,7 @@ script 57 mmbn6 {
 		arrowDistance = 3
 	mugshotShow
 		mugshot = Otenko
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1501,7 +1499,7 @@ script 57 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1510,7 +1508,7 @@ script 57 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1545,7 +1543,7 @@ script 58 mmbn6 {
 		left = 226
 		top = 141
 	"""
-	ProtoMan got:
+	ProtoMan adquiriu:
 	"
 	"""
 	printChip
@@ -1571,7 +1569,7 @@ script 58 mmbn6 {
 		arrowDistance = 3
 	mugshotShow
 		mugshot = Otenko
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1582,7 +1580,7 @@ script 58 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1591,7 +1589,7 @@ script 58 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1615,8 +1613,8 @@ script 59 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	ProtoMan got a
-	SubChip:
+	ProtoMan adquiriu
+	um SubChip:
 	"
 	"""
 	printItem
@@ -1634,7 +1632,7 @@ script 59 mmbn6 {
 		arrowDistance = 3
 	mugshotShow
 		mugshot = Otenko
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1645,7 +1643,7 @@ script 59 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1654,7 +1652,7 @@ script 59 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1677,13 +1675,13 @@ script 60 mmbn6 {
 		animation = 24
 	soundPlay
 		track = 115
-	"ProtoMan got:\n"
+	"ProtoMan adquiriu:\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" BugFrags!!"
+	" FragBugs!!"
 	keyWait
 		any = false
 	playerFinish
@@ -1695,7 +1693,7 @@ script 60 mmbn6 {
 		arrowDistance = 3
 	mugshotShow
 		mugshot = Otenko
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1706,7 +1704,7 @@ script 60 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1715,7 +1713,7 @@ script 60 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1750,7 +1748,7 @@ script 61 mmbn6 {
 		left = 226
 		top = 141
 	"""
-	Colonel got:
+	Colonel adquiriu:
 	"
 	"""
 	printChip
@@ -1776,7 +1774,7 @@ script 61 mmbn6 {
 		arrowDistance = 3
 	mugshotShow
 		mugshot = Otenko
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1787,7 +1785,7 @@ script 61 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1796,7 +1794,7 @@ script 61 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1820,8 +1818,8 @@ script 62 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Colonel got a
-	SubChip:
+	Colonel adquiriu
+	um SubChip:
 	"
 	"""
 	printItem
@@ -1839,7 +1837,7 @@ script 62 mmbn6 {
 		arrowDistance = 3
 	mugshotShow
 		mugshot = Otenko
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1850,7 +1848,7 @@ script 62 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1859,7 +1857,7 @@ script 62 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1882,13 +1880,13 @@ script 63 mmbn6 {
 		animation = 24
 	soundPlay
 		track = 115
-	"Colonel got:\n"
+	"Colonel adquiriu:\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" BugFrags!!"
+	" FragBugs!!"
 	keyWait
 		any = false
 	playerFinish
@@ -1900,7 +1898,7 @@ script 63 mmbn6 {
 		arrowDistance = 3
 	mugshotShow
 		mugshot = Otenko
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1911,7 +1909,7 @@ script 63 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1920,7 +1918,7 @@ script 63 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false

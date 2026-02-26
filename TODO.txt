@@ -1,2 +1,3 @@
 - Editar menu exibido ao apertar Start
 - Corrigir bug onde os nomes das pastas estão com caracteres japoneses aleatórios
+- Corrigir bug na área "Verde", onde ao acessar o CPU Livro, os pontos de teleport no chão tão invisíveis

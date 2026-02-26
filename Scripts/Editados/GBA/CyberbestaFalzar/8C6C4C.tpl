@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Master Otenko!"
+	"Mestre Otenko!"
 	keyWait
 		any = false
 	clearMsg
@@ -18,29 +18,28 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	MegaMan!
-	You have to hurry and
-	beat the Count now!
+	Você tem que ir vencer
+	o Conde agora, rápido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He plans to
-	wreck this world up!
+	Ele pretende
+	arruinar o mundo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll head back
-	to Django!
+	Eu vou voltar
+	lá pro Django!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Until next time,
-	MegaMan!
+	Até a próxima, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -51,8 +50,8 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's head
-	back to the Count!
+	Lan, vamos voltar
+	lá pro Conde!
 	"""
 	keyWait
 		any = false
@@ -64,7 +63,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right!"
+	"Tá!"
 	keyWait
 		any = false
 	end

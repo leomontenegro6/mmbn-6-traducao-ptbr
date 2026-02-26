@@ -11,14 +11,13 @@ script 0 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	BooooOOOooo!
-	They aren't having
-	the show today!!
+	Aaaaaffeeeee!
+	Não vai ter o show hoje!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Boooooorrrriiinnng!"
+	"Uuuuuuuuuuuurghhh!"
 	keyWait
 		any = false
 	end
@@ -28,14 +27,14 @@ script 3 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	Awww...
-	They really aren't
-	having a show.
+	Poxa...
+	Não vai mesmo
+	ter show hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go home!"
+	"Eu vou pra casa, então!"
 	keyWait
 		any = false
 	end
@@ -50,9 +49,9 @@ script 5 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	There are no guests!
-	This isn't where the
-	show is held...
+	Nenhum visitante!
+	Não que vá ter
+	um show hoje...
 	"""
 	keyWait
 		any = false
@@ -63,8 +62,8 @@ script 8 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Yahhhhhh...
-	Boooorrriiinnnggg!
+	Arrrh...
+	Que chaaaatooooo!
 	"""
 	keyWait
 		any = false
@@ -75,14 +74,14 @@ script 10 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Huh?
-	Today's show is
-	already over!?
+	Hã?
+	Já teve a apresentação
+	de hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm sorry..."
+	"Desculpa..."
 	keyWait
 		any = false
 	end

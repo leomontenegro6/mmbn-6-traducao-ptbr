@@ -16,7 +16,7 @@ script 8 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	Hey,do you have the
+	Ei, você tem um chip
 	"
 	"""
 	printChip
@@ -26,13 +26,13 @@ script 8 mmbn6 {
 	printCode
 		buffer = 0
 		code = K
-	"\" chip?"
+	"\" aí?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you've got it,
-	want to trade for my
+	Se tiver, topa
+	trocar pelo meu 
 	"""
 	keyWait
 		any = false
@@ -50,9 +50,9 @@ script 8 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I want to show it
-	off in class...
-	Please...!
+	Eu quero exibir ele
+	na minha sala...
+	Por favor...!
 	"""
 	keyWait
 		any = false
@@ -68,7 +68,7 @@ script 8 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure  "
+	" Tá  "
 	option
 		brackets = 0
 		left = 0
@@ -77,7 +77,7 @@ script 8 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No Way"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -91,7 +91,7 @@ script 8 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = YoungGirl
-	"Huh!? Cheapskate!!"
+	"O quê?! Mão de vaca!!"
 	keyWait
 		any = false
 	end
@@ -101,7 +101,7 @@ script 9 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	Hey,want to trade my
+	Ei, troca o meu
 	"
 	"""
 	printChip
@@ -116,7 +116,7 @@ script 9 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	for your
+	por um 
 	"
 	"""
 	printChip
@@ -126,7 +126,7 @@ script 9 mmbn6 {
 	printCode
 		buffer = 0
 		code = K
-	"\"?"
+	"\" seu?"
 	keyWait
 		any = false
 	clearMsg
@@ -141,7 +141,7 @@ script 9 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure  "
+	" Claro  "
 	option
 		brackets = 0
 		left = 0
@@ -150,7 +150,7 @@ script 9 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No Way"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -164,7 +164,7 @@ script 9 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = YoungGirl
-	"Huh!? Cheapskate!!"
+	"O quê?! Mão de vaca!!"
 	keyWait
 		any = false
 	end
@@ -181,8 +181,8 @@ script 10 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	Awesome! Thanks!
-	I'm so happy!!
+	Que legal! Obrigada!
+	Tô tão feliz!!
 	"""
 	keyWait
 		any = false
@@ -199,7 +199,7 @@ script 10 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printChip
@@ -218,9 +218,9 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = YoungGirl
 	"""
-	Now I have something
-	to show everyone in
-	class!
+	Agora eu tenho uma
+	coisa pra exibir pra
+	todo mundo na sala!
 	"""
 	keyWait
 		any = false
@@ -233,8 +233,8 @@ script 11 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	Really!?
-	You don't have it!?
+	Ué?!
+	Você não tem?!
 	"""
 	keyWait
 		any = false
@@ -244,14 +244,14 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = YoungGirl
 	msgOpen
-	"Thanks for the Chip!"
+	"Obrigada pelo chip!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I have something
-	to show everyone in
-	class!
+	Agora eu tenho uma
+	coisa pra exibir pra
+	todo mundo na sala!
 	"""
 	keyWait
 		any = false

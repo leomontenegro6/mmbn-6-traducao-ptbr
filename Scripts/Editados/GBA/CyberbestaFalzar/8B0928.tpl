@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Everyone!"
+	"Pessoal!"
 	keyWait
 		any = false
 	end
@@ -26,8 +26,8 @@ script 2 mmbn6 {
 		mugshot = BlastMan
 	msgOpen
 	"""
-	Kwohohohoho!
-	You came after all,
+	Quo ho ho ho!
+	Você veio mesmo,
 	MegaMan!
 	"""
 	keyWait
@@ -42,7 +42,7 @@ script 3 mmbn6 {
 	msgOpen
 	"""
 	BlastMan! DiveMan!
-	Let my friends go!!
+	Soltem os meus amigos!!
 	"""
 	keyWait
 		any = false
@@ -55,17 +55,17 @@ script 4 mmbn6 {
 		mugshot = DiveMan
 	msgOpen
 	"""
-	Do you really think
-	we'll release them
-	because you say so?
+	Acha mesmo que a gente
+	vai libertar eles só
+	porque você mandou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Show us some guts if
-	you want us to let
-	them go! Awooga!
+	Se quiser a liberdade
+	deles, mostre coragem,
+	rapaz! Uóóóóón!
 	"""
 	keyWait
 		any = false
@@ -78,16 +78,17 @@ script 5 mmbn6 {
 		mugshot = BlastMan
 	msgOpen
 	"""
-	Don't cry to us
-	about unfair,either.
+	E nem venha xoramingar
+	pra gente que isso é
+	"injusto"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're not nice guys,
-	so you should thank
-	us it's not 10 on 1!
+	Nós não somos santos,
+	então devia é agradecer
+	a gente por dar chance!
 	"""
 	keyWait
 		any = false
@@ -100,9 +101,9 @@ script 6 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Gahahaha,that's
-	right,ya rat! We're
-	the bad guys,ar'!
+	Ga ha ha ha, é isso aí,
+	filho de escorbuto! Nós
+	somos os vilões! Arr!
 	"""
 	keyWait
 		any = false
@@ -114,7 +115,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Argh!!..."
+	"Argh!! ..."
 	keyWait
 		any = false
 	clearMsg
@@ -126,41 +127,39 @@ script 8 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Gahahaha!
-	What a fun show this
-	is goin' to be!
+	Ga ha ha ha!
+	Este vai ser um
+	showzinho bem divertido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get this here
-	boat out on the
-	waves!
+	Hora de fazer este
+	navio zarpar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BlastMan,yer up
-	first!
-	Unnnn...
+	BlastMan, você primeiro!
+	... Hãn...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Where did BlastMan's
-	operator go,the
-	scurvy crab...?
+	Pra onde foi o operador
+	do BlastMan, aquele
+	cabeça-de-bagre...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,there ye are...
-	What's yer name
-	again...?
+	Ah, aí tá você...
+	Qual era o seu
+	nome mesmo...?
 	"""
 	keyWait
 		any = false
@@ -183,22 +182,22 @@ script 10 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	...What!?
-	Yer not answerin'?
-	Strange guy...
+	... O quê?!
+	Não vai responder?
+	Seu esquisito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But then,I've got a
-	pretty strange name,
-	haven't I!?
+	... Se bem que eu
+	também tenho um nome
+	meio esquisito, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Gahahaha!"
+	"Ga ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
@@ -210,18 +209,18 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's 2 of them,
-	so you've gotta stay
-	focused,MegaMan!
+	São dois inimigos,
+	então não pode perder
+	o foco, MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm counting on you!"
+	"Tô contando com você!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
@@ -232,7 +231,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -244,8 +243,8 @@ script 13 mmbn6 {
 		mugshot = BlastMan
 	msgOpen
 	"""
-	Kwohohoho!
-	Time for a barbeque!
+	Quo ho ho ho!
+	Hora do churrasco!
 	"""
 	keyWait
 		any = false
@@ -256,8 +255,8 @@ script 14 mmbn6 {
 		mugshot = DiveMan
 	msgOpen
 	"""
-	Commencing attack!
-	Awooga!
+	Abrir fogo!
+	Uóóóóón!
 	"""
 	keyWait
 		any = false

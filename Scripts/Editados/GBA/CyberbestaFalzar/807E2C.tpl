@@ -5,8 +5,8 @@ script 0 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 accessed
-	the mystery data.
+	 acessou os
+	dados misteriosos.
 	.
 	"""
 	wait
@@ -47,15 +47,15 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	It's locked!
-	You need "
+	Estão bloqueados!
+	É necessário "
 	"""
 	printItem
 		buffer = 0
 		item = 133
 	"""
 	"
-	to open it!
+	para abri-los!
 	"""
 	keyWait
 		any = false
@@ -67,7 +67,7 @@ script 5 mmbn6 {
 		jumpIfGreater = continue
 		jumpIfLess = 9
 	"""
-	You want to use
+	Você quer usar
 	"
 	"""
 	printItem
@@ -84,7 +84,7 @@ script 5 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -93,7 +93,7 @@ script 5 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -121,7 +121,7 @@ script 7 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip
@@ -141,7 +141,7 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -149,7 +149,7 @@ script 8 mmbn6 {
 		item = 133
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -163,8 +163,8 @@ script 10 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 accessed
-	the mystery data.
+	 acessou os
+	dados misteriosos.
 	.
 	"""
 	wait
@@ -208,13 +208,13 @@ script 15 mmbn6 {
 }
 script 16 mmbn6 {
 	msgOpen
-	"Too many \""
+	"Possui \""
 	printItem
 		buffer = 3
 		item = 0
 	"""
-	."
-	Can't take any more.
+	" demais.
+	É impossível levar mais.
 	"""
 	keyWait
 		any = false
@@ -233,8 +233,8 @@ script 17 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got a
-	SubChip:
+	 adquiriu
+	um SubChip:
 	"
 	"""
 	printItem
@@ -258,8 +258,8 @@ script 20 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 accessed
-	the mystery data.
+	 acessou os
+	dados misteriosos.
 	.
 	"""
 	wait
@@ -313,7 +313,7 @@ script 27 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printBuffer
@@ -339,8 +339,8 @@ script 30 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 accessed
-	the mystery data.
+	 acessou os
+	dados misteriosos.
 	.
 	"""
 	wait
@@ -392,7 +392,7 @@ script 37 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -416,8 +416,8 @@ script 40 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 accessed
-	the mystery data.
+	 acessou os
+	dados misteriosos.
 	.
 	"""
 	wait
@@ -470,13 +470,13 @@ script 47 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	printCurrentNaviOW
-	" got:\n"
+	" adquiriu:\n"
 	printBuffer
 		buffer = 3
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	" BugFrags!!"
+	" FragBug(s)!!"
 	keyWait
 		any = false
 	playerFinish
@@ -510,8 +510,8 @@ script 54 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 accessed
-	the mystery data.
+	 acessou os
+	dados misteriosos.
 	.
 	"""
 	wait
@@ -530,7 +530,7 @@ script 54 mmbn6 {
 		jumpIfTrue = continue
 		jumpIfFalse = 57
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -538,15 +538,15 @@ script 54 mmbn6 {
 		item = 131
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	Os vírus escondidos
+	nos dados misteriosos
+	foram deletados!
 	"""
 	keyWait
 		any = false
@@ -562,8 +562,8 @@ script 57 mmbn6 {
 	flagSetBuffered
 		buffer = 0
 	"""
-	The mystery data was
-	a virus!
+	Os dados misteriosos
+	eram vírus!
 	"""
 	keyWait
 		any = false
@@ -597,8 +597,8 @@ script 64 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 accessed
-	the mystery data.
+	 acessou os
+	dados misteriosos.
 	.
 	"""
 	wait
@@ -617,7 +617,7 @@ script 64 mmbn6 {
 		jumpIfTrue = continue
 		jumpIfFalse = 67
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -625,15 +625,15 @@ script 64 mmbn6 {
 		item = 131
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	Os vírus escondidos
+	nos dados misteriosos
+	foram deletados!
 	"""
 	keyWait
 		any = false
@@ -649,8 +649,8 @@ script 67 mmbn6 {
 	flagSetBuffered
 		buffer = 0
 	"""
-	The mystery data was
-	a virus!
+	Os dados misteriosos
+	eram vírus!
 	"""
 	keyWait
 		any = false
@@ -668,8 +668,8 @@ script 70 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 accessed
-	the mystery data.
+	 acessou os
+	dados misteriosos.
 	.
 	"""
 	wait
@@ -721,7 +721,7 @@ script 77 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -745,8 +745,8 @@ script 80 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 accessed
-	the mystery data.
+	 acessou os
+	dados misteriosos.
 	.
 	"""
 	wait
@@ -799,7 +799,7 @@ script 87 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printNaviCustProgram
@@ -823,8 +823,8 @@ script 90 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 accessed
-	the mystery data.
+	 acessou os
+	dados misteriosos.
 	.
 	"""
 	wait
@@ -876,7 +876,7 @@ script 97 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -889,8 +889,8 @@ script 97 mmbn6 {
 	playerResetObject
 	clearMsg
 	"""
-	Regular memory
-	increased by
+	Memória padrão
+	aumentada em
 	
 	"""
 	printBuffer
@@ -914,8 +914,8 @@ script 100 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 accessed
-	the mystery data.
+	 acessou os
+	dados misteriosos.
 	.
 	"""
 	wait
@@ -967,7 +967,7 @@ script 107 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -980,9 +980,8 @@ script 107 mmbn6 {
 	playerResetObject
 	clearMsg
 	"""
-	Number of SubChips
-	you can carry has
-	been increased.
+	Você pode portar
+	mais SubChips.
 	"""
 	keyWait
 		any = false
@@ -999,8 +998,8 @@ script 110 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 accessed
-	the mystery data.
+	 acessou os
+	dados misteriosos.
 	.
 	"""
 	wait
@@ -1052,7 +1051,7 @@ script 117 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -1065,9 +1064,8 @@ script 117 mmbn6 {
 	playerResetObject
 	clearMsg
 	"""
-	The NaviCust
-	Memory Map has
-	become wider!
+	O Mapa de Memória do
+	CustNavi foi expandido!
 	"""
 	keyWait
 		any = false
@@ -1097,8 +1095,8 @@ script 120 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 has no use
-	for this item...
+	 não tem por
+	que usar esse item...
 	"""
 	keyWait
 		any = false
@@ -1109,9 +1107,9 @@ script 121 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	ProtoMan doesn't
-	need this, so I'll
-	take care of it.
+	O ProtoMan não precisa
+	disso, então eu mesmo
+	vou levar.
 	"""
 	keyWait
 		any = false

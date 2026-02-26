@@ -8,16 +8,16 @@ script 0 mmbn6 {
 		palette = 6
 	msgOpen
 	"""
-	IT REALLY IS MIND
-	OVER MATTER...
+	REALMENTE, A MENTE
+	DOMINA O TODO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU THINK THE
-	FIRE'S COLD,AND
-	REALLY THINK THAT,
+	SE VOCÊ PENSAR QUE O
+	FOGO É FRIO, PENSAR
+	COM MUITA VONTADE...
 	"""
 	keyWait
 		any = false
@@ -32,14 +32,14 @@ script 0 mmbn6 {
 	wait
 		frames = 10
 	"""
-	 NO,ACTUALLY,
-	IT REALLY IS
+	 NÃO, BALELA.
+	NA VERDADE, TÁ
 	
 	"""
 	storeTimer
 		timer = 0
 		value = 128
-	"HOOOOOOT!!!!!"
+	"QUEEEEENTEEEE!!!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -51,8 +51,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hold on!
-	I'll save you!
+	Aguenta aí!
+	Eu vou te salvar!
 	"""
 	keyWait
 		any = false
@@ -63,31 +63,33 @@ script 2 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	*SIGH* THAT SAYING
-	IS JUST A SAYING
-	AFTER ALL...
+	AI... REALMENTE,
+	AQUILO ERA SÓ
+	PAPO FURADO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOT IS HOT,NO MATTER
-	WHAT YOU THINK!
+	QUENTE É QUENTE,
+	NÃO IMPORTA O QUE
+	VOCÊ PENSE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WON'T BE THAT
-	NAIVE AGAIN!
+	NUNCA MAIS VOU ME
+	DEIXAR SER INGÊNUO
+	ASSIM!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND YOU,TOO! DON'T
-	BE FOOLED,JUST BE
-	CAREFUL!
+	VOCÊ TAMBÉM, HEIN?
+	NÃO SEJA ENGANADO!
+	TOME CUIDADO!!
 	"""
 	keyWait
 		any = false

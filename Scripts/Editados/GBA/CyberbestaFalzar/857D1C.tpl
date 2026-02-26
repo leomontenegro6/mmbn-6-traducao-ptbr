@@ -7,29 +7,30 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	Hmm...
-	Grading tests on a
-	day off...
+	Corrigindo provas
+	em dia de folga...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's not a good
-	sign,is it?
-	Busy,busy...
+	Isso não é nada bom, né?
+	Eu ando tão ocupado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,wait! You can't
-	just come into the
-	Teachers' Room when
+	Ah, espera aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"there's no school!"
+	"""
+	Você não pode entrar
+	na Sala dos Professores
+	quando não tem aula!
+	"""
 	keyWait
 		any = false
 	end
@@ -43,16 +44,15 @@ script 10 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	*yawn*
-	It's time
-	to go home!
+	Uaaaahh...
+	Hora de ir pra casa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today's been another
-	tiring day!
+	Este foi mais um
+	dia cansativo!
 	"""
 	keyWait
 		any = false
@@ -67,23 +67,16 @@ script 11 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	My boyfriend and I
-	are gonna see a
+	O meu namorado e eu
+	vamos assistir a um jogo
+	de beisebol hoje à noite!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	professional
-	baseball game
-	tonight!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	... Oops! Forget I
-	said anything!
+	... Opa! Esquece
+	o que eu falei!
 	"""
 	keyWait
 		any = false
@@ -94,23 +87,23 @@ script 15 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	I have to call all
-	the parents and
+	Tenho que ligar para
+	todos os pais e confirmar
+	que todos os alunos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	check that every
-	student made it home
-	safely or else...!
+	voltaram para casa em
+	segurança, senão...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You better hurry up
-	and get on home,too!
+	Ah, e é bom você ir
+	logo pra casa também!
 	"""
 	keyWait
 		any = false
@@ -121,23 +114,23 @@ script 16 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Aww,because of the
-	crazy weather,
+	Aaah. Por causa
+	desse tempo maluco,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my date tonight has
-	been canceled!
+	o meu encontro de
+	hoje foi cancelado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is terrible!
-	I'll have to work
-	all evening now!
+	Que droga! Agora eu
+	vou ter que trabalhar
+	a noite toda!
 	"""
 	keyWait
 		any = false
@@ -148,17 +141,16 @@ script 40 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	The Principal of
-	this school is Mayor
-	Cain.
+	O Diretor desta escola
+	é o Prefeito Cain.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's so busy that
-	he's always here
-	until late.
+	Ele fica tão ocupado
+	que só sai daqui bem
+	tarde da noite.
 	"""
 	keyWait
 		any = false
@@ -177,16 +169,16 @@ script 45 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Mayor Cain... He's
-	hard at work,even
-	on his day off...
+	O Prefeito Cain... Ele
+	está trabalhando duro,
+	mesmo no dia de folga...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if he's
-	staying healthy?
+	Será que ele tá
+	cuidando da saúde?
 	"""
 	keyWait
 		any = false
@@ -197,8 +189,8 @@ script 46 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Wh_What was that
-	ruckus just now?
+	Q-que tumulto
+	foi esse agora?
 	"""
 	keyWait
 		any = false
@@ -209,9 +201,9 @@ script 47 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Th_That looked like
-	Mayor Cain being
-	led away...?
+	S-sou só eu, ou o
+	Prefeito Cain tava
+	sendo levado...?
 	"""
 	keyWait
 		any = false

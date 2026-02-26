@@ -194,7 +194,7 @@ script 48 mmbn6s {
 	end
 }
 script 49 mmbn6s {
-	"EraseMan"
+	"KilerMan"
 	end
 }
 script 50 mmbn6s {
@@ -438,16 +438,17 @@ script 108 mmbn6s {
 }
 script 109 mmbn6s {
 	"""
-	Soul
-	Battlr's
 	Custom
+	do Alma
+	Lutador
 	"""
 	end
 }
 script 110 mmbn6s {
 	"""
-	Famous'
 	Custom
+	do
+	Famoso
 	"""
 	end
 }
@@ -472,14 +473,14 @@ script 114 mmbn6s {
 }
 script 115 mmbn6s {
 	"""
-	Cybeast
+	CybBsta
 	Gregar
 	"""
 	end
 }
 script 116 mmbn6s {
 	"""
-	Cybeast
+	CybBsta
 	Falzar
 	"""
 	end
@@ -493,7 +494,7 @@ script 117 mmbn6s {
 	end
 }
 script 118 mmbn6s {
-	"Attack  \nSpeed   \nCharge  \nCustom  \nMegFld  \nGigFld  "
+	"Ataque  \nRapdz   \nCarga   \nCustom  \nMegPst  \nGigPst  "
 	end
 }
 script 119 mmbn6s {

@@ -20,24 +20,24 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AHHH! I'VE BEEN
-	WAITING!!
+	AHHH!
+	EU ESPEREI TANTO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE UPDTDATA RIGHT?
-	I'VE BEEN WAITING
-	FOR IT!
+	SÃO OS DADOS DE
+	ATUALIZAÇÃO, NÉ?
+	EU TAVA ESPERANDO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan gave:
-	"UpdtData"!!
+	MegaMan deu:
+	"DadoAtlz"!!
 	"""
 	keyWait
 		any = false
@@ -59,24 +59,25 @@ script 10 mmbn6 {
 	"."
 	wait
 		frames = 15
-	"."
+	". "
 	wait
 		frames = 15
-	"COMPLETED!"
+	"CONCLUÍDA!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MY,MY... I FEEL SO
-	REFRESHED!!
+	PUXA VIDA...
+	ME SINTO TÃO
+	REFRESCADO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'LL DEFINITELY BE
-	ABLE TO WORK HARD
-	NOW!
+	COM CERTEZA VOU
+	CONSEGUIR TRABALHAR
+	DURO AGORA!
 	"""
 	keyWait
 		any = false
@@ -87,16 +88,17 @@ script 11 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MY,MY... I FEEL SO
-	REFRESHED!!
+	PUXA VIDA...
+	ME SINTO TÃO
+	REFRESCADO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'LL DEFINITELY BE
-	ABLE TO WORK HARD
-	NOW!
+	COM CERTEZA VOU
+	CONSEGUIR TRABALHAR
+	DURO AGORA!
 	"""
 	keyWait
 		any = false
@@ -109,8 +111,9 @@ script 12 mmbn6 {
 		palette = 6
 	msgOpen
 	"""
-	YAHHH!! I'M BURNING!!
-	FIRE! HOT!! HOT!!
+	AAAAAHHH!! EU TÔ
+	QUEIMANDO!! FOGO!
+	QUENTE!! QUENTE!!
 	"""
 	keyWait
 		any = false
@@ -118,16 +121,16 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Hold on!
-	I'll fix you up!!
+	Aguenta aí!
+	Eu já resolvo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan updated
-	the UpdtData.
+	MegaMan atualizou os
+	Dados de Atualização.
 	
 	"""
 	flagSet
@@ -141,16 +144,16 @@ script 13 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	PHEW! YOU REALLY
-	BAILED ME OUT!
+	UFA! CÊ SALVOU
+	A MINHA VIDA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M NOT HURT AT ALL!
-	YOU DON'T HAVE TO
-	WORRY... I'M OK!
+	TUDO BEM, NÃO ESTOU
+	FERIDO! NÃO PRECISA
+	SE PREOCUPAR... TÔ BEM!
 	"""
 	keyWait
 		any = false

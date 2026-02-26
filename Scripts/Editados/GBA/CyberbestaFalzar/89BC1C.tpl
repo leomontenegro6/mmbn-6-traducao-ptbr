@@ -6,9 +6,8 @@ script 0 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	Looks like
-	something's about
-	to start!
+	Parece que tem alguma
+	coisa começando!
 	"""
 	keyWait
 		any = false
@@ -20,13 +19,13 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Yuika
 	msgOpen
-	"Welcome,everyone!!"
+	"Bem-vindos, pessoal!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	CircusMan,
-	start dancing!
+	hora da dança!
 	"""
 	keyWait
 		any = false
@@ -39,8 +38,8 @@ script 2 mmbn6 {
 		mugshot = CircusMan
 	msgOpen
 	"""
-	Ahoo,hoo,hoo!
-	Let's d_d_d_dance!
+	Iurrú, airrú, ueirrú!
+	Vamos d-d-d-dançar!
 	"""
 	keyWait
 		any = false
@@ -51,9 +50,9 @@ script 3 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Whoo!
-	That dance looks
-	like fun!
+	Urrú!
+	Essa dança parece
+	mó divertida!
 	"""
 	keyWait
 		any = false
@@ -66,9 +65,9 @@ script 4 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	That dance is so
-	strange,but it's
-	pulling me along!
+	É uma dança tão
+	estranha... mas tá
+	me puxando junto!
 	"""
 	keyWait
 		any = false
@@ -81,9 +80,9 @@ script 5 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	It's wonderful... I
-	feel like my heart's
-	being sucked in!
+	Que maravilhosa...
+	É como se o meu coração
+	estivesse sendo puxado!
 	"""
 	keyWait
 		any = false
@@ -96,9 +95,9 @@ script 6 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	Wow... It's like
-	I don't even have
-	to use any energy!
+	Caramba... Parece até
+	que eu nem tô fazendo
+	nenhum esforço!
 	"""
 	keyWait
 		any = false
@@ -111,31 +110,31 @@ script 7 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Ha,ha. Don't have
-	to use energy?
+	Ha ha. "Não tá
+	fazendo esforço",
+	uma ova!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're just faking.
-	Do you even know
-	how to dance!?
+	Certeza que cê tá
+	fingindo. Cê nem
+	SABE dançar, cara!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,hear that,Lan?
-	Hurry up! There's a
-	Navi dance going on!
+	Enfim, ouviu, Lan?
+	Vem logo! Os Navis
+	tão tudo dançando!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You two are missing
-	all the fun!
+	Cês dois vão perder!
 	"""
 	keyWait
 		any = false
@@ -148,9 +147,8 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Really? Now that's
-	something I'd like
-	to see!
+	Caramba, essa
+	eu quero ver!
 	"""
 	keyWait
 		any = false
@@ -163,27 +161,26 @@ script 9 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	You won't make
-	it if you don't
-	hurry...
+	Se cê não andar logo,
+	vai acabar perd...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Hm!?"
+	"... Hm?!"
 	keyWait
 		any = false
 	clearMsg
 	soundFadeOut
 		slot = 31
 		length = 5
-	"What in the!?"
+	"Ué?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why is your HP
-	dropping!?
+	Por que é que os
+	seus PV tão caindo?!
 	"""
 	keyWait
 		any = false
@@ -196,8 +193,8 @@ script 10 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	M_Mick...
-	My...strength...
+	M-Mick...
+	As minhas... forças...
 	"""
 	keyWait
 		any = false
@@ -207,7 +204,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"Ahoo,hoo,hoo!!"
+	"Ahu hu hu hu!!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -219,8 +216,8 @@ script 12 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	W_What's going on!?
-	Hey,answer me!!
+	O-o que tá rolando?!
+	Ô, fala comigo!!
 	"""
 	keyWait
 		any = false
@@ -233,8 +230,8 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's wrong,Mick!?
-	What happened...?
+	Que foi, Mick?!
+	O que aconteceu?!
 	"""
 	keyWait
 		any = false
@@ -244,7 +241,7 @@ script 13 mmbn6 {
 	controlLock
 	soundPlay
 		track = 204
-	"*zssssss...hssss*"
+	"Zssssss... Hssss..."
 	wait
 		frames = 138
 	soundEnableTextSFX
@@ -260,24 +257,24 @@ script 14 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	CircusMan,begin
-	the operation!
+	CircusMan, inicie
+	a operação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The seal is only
-	going to be down for
-	a little while.
+	O selo só vai ficar
+	inativo por uns
+	poucos instantes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give "them" those
-	energy balls,and
-	"they" will arise!
+	Dê as esferas de
+	energia pra "elas",
+	e "elas" despertarão!
 	"""
 	keyWait
 		any = false
@@ -289,7 +286,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"Ahoo,hoo,hoo!!"
+	"Ahu hu hu hu!!"
 	keyWait
 		any = false
 	end
@@ -298,7 +295,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"Ahoo,hoo,hoo!!"
+	"Ahu hu hu hu!!"
 	keyWait
 		any = false
 	end
@@ -307,7 +304,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"Ahoo,hoo,hoo!!"
+	"Ahu hu hu hu!!"
 	keyWait
 		any = false
 	end
@@ -317,8 +314,7 @@ script 18 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	Th...They're
-	rising!!
+	Ah... Estão emergindo!!
 	"""
 	keyWait
 		any = false
@@ -331,8 +327,8 @@ script 19 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	W_What's
-	rising...!?
+	O-o que é que tá
+	"emergindo"...?!
 	"""
 	keyWait
 		any = false
@@ -343,8 +339,8 @@ script 20 mmbn6 {
 		mugshot = CircusMan
 	msgOpen
 	"""
-	Wake up!!
-	Cybeasts!!
+	Despertem!!
+	Cyberbestas!!
 	"""
 	keyWait
 		any = false
@@ -356,13 +352,13 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Yuika
 	msgOpen
-	"They're here..."
+	"Aqui estão elas..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cybeast Gregar...
-	Cybeast Falzar...
+	Cyberbesta Gregar...
+	Cyberbesta Falzar...
 	"""
 	keyWait
 		any = false
@@ -370,17 +366,17 @@ script 21 mmbn6 {
 	soundPlayBGM
 		track = 33
 	"""
-	Tee,hee! Can't move
-	very well when you
-	just get up,can you?
+	Hi hi! O corpo fica bem
+	travado depois de tanto
+	tempo dormindo, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm... If we want to
-	capture these two,it
-	has to be now.
+	Hmm... Se for pra
+	gente capturar as duas,
+	tem que ser agora.
 	"""
 	keyWait
 		any = false
@@ -390,9 +386,9 @@ script 21 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Activate the program
-	and show me just how
-	much you can carry!
+	Ative o programa e me
+	mostre o quanto você
+	é capaz de carregar!
 	"""
 	keyWait
 		any = false
@@ -404,7 +400,7 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"Ahoo,hoo,hoo!!"
+	"Ahu hu hu hu!!"
 	keyWait
 		any = false
 	end
@@ -417,15 +413,14 @@ script 23 mmbn6 {
 		mugshot = CircusMan
 	msgOpen
 	"""
-	Mmph...!!
-	What power...!
+	Mmpf...!!
+	Quanto poder...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm getting
-	sucked in...!
+	Eu tô sendo puxado...!
 	"""
 	keyWait
 		any = false
@@ -433,17 +428,17 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = Yuika
 	"""
-	What are you doing!?
-	Put some back into
-	it!
+	O que é que você tá
+	fazendo?! Bota força
+	nisso aí, homem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dealing with wild
-	animals is your
-	speciality!!
+	Lidar com animais
+	selvagens é a sua
+	especialidade, não é?!
 	"""
 	keyWait
 		any = false
@@ -452,7 +447,7 @@ script 23 mmbn6 {
 		mugshot = CircusMan
 	"""
 	Nnnngh...
-	Ahoo,hoo,hoooooo!!
+	Ahu hu hu huuuooo!!
 	"""
 	keyWait
 		any = false
@@ -465,7 +460,7 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"FULL POWER!!"
+	"FORÇA MÁXIMA!!"
 	keyWait
 		any = false
 	end
@@ -475,15 +470,14 @@ script 25 mmbn6 {
 		mugshot = CircusMan
 	msgOpen
 	"""
-	Mmph...!!
-	What power...!
+	Mmpf...!!
+	Quanto poder...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm getting
-	sucked in...!
+	Eu tô sendo puxado...!
 	"""
 	keyWait
 		any = false
@@ -491,17 +485,17 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = Yuika
 	"""
-	What are you doing!?
-	Put some back into
-	it!
+	O que é que você tá
+	fazendo?! Bota força
+	nisso aí, homem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dealing with wild
-	animals is your
-	speciality!!
+	Lidar com animais
+	selvagens é a sua
+	especialidade, não é?!
 	"""
 	keyWait
 		any = false
@@ -510,7 +504,7 @@ script 25 mmbn6 {
 		mugshot = CircusMan
 	"""
 	Nnnngh...
-	Ahoo,hoo,hoooooo!!
+	Ahu hu hu huuuooo!!
 	"""
 	keyWait
 		any = false
@@ -520,7 +514,7 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"FULL POWER!!"
+	"FORÇA MÁXIMA!!"
 	keyWait
 		any = false
 	end
@@ -530,13 +524,13 @@ script 27 mmbn6 {
 		mugshot = CircusMan
 	msgOpen
 	"""
-	... *huff,huff,
-	huff,huff...*
+	... Uff... Uff...
+	Uff... Uff...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"O_One more..."
+	"D-de novo..."
 	keyWait
 		any = false
 	clearMsg
@@ -546,7 +540,7 @@ script 27 mmbn6 {
 script 28 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Freeze!!"
+	"Parado aí!!"
 	keyWait
 		any = false
 	end
@@ -556,9 +550,9 @@ script 29 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	We thought you might
-	realize it wasn't
-	just a legend,but...
+	Bem que pensamos que
+	vocês descobririam que
+	não era só uma lenda...
 	"""
 	keyWait
 		any = false
@@ -570,25 +564,25 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"*huff,huff...*"
+	"Uff... Uff..."
 	keyWait
 		any = false
 	clearMsg
-	"NetPolice..."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Patrolling around
-	the Net...battle
-	specialists,huh...?
-	"""
+	"NetPolícia..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Annoying pests
-	showed up after all.
+	Especialistas de
+	NetLuta... que
+	patrulham a Rede, é...?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	As pragas irritantes
+	apareceram mesmo.
 	"""
 	keyWait
 		any = false
@@ -599,9 +593,9 @@ script 31 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Sir,we've managed to
-	jack out all the
-	Navis who fainted.
+	Senhor, conseguimos
+	desconectar todos os
+	Navis que desmaiaram.
 	"""
 	keyWait
 		any = false
@@ -612,9 +606,9 @@ script 32 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	What do you intend
-	to do with the
-	Cybeasts,scum!?
+	O que pretende fazer
+	com as Cyberbestas,
+	seu crápula?!
 	"""
 	keyWait
 		any = false
@@ -627,31 +621,31 @@ script 33 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	Hmph,what lousy
-	timing...
+	Hmpf,
+	tão inconvenientes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CircusMan's strength
-	is limited...
+	As forças do CircusMan
+	estão debilitadas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we escape now,
-	we'll lose the other
-	Cybeast...
+	Mas, se fugirmos agora,
+	vamos perder a outra
+	Cyberbesta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And fighting this
-	many NetPolice would
-	be really bad...
+	E lutar contra esse
+	tanto de NetPoliciais
+	não seria fácil...
 	"""
 	keyWait
 		any = false
@@ -670,7 +664,7 @@ script 34 mmbn6 {
 	controlLock
 	soundPlay
 		track = 402
-	"*grrrrrrrrr...*"
+	"Grrrrrrrrr..."
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -691,7 +685,7 @@ script 35 mmbn6 {
 	controlLock
 	soundPlay
 		track = 404
-	"*screeeeech...*"
+	"Kyaaaaarhh..."
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -706,7 +700,7 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = Yuika
 	msgOpen
-	"Not good!!"
+	"Essa não!!"
 	keyWait
 		any = false
 	end
@@ -715,7 +709,7 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"Eek!!"
+	"Aah!!"
 	keyWait
 		any = false
 	end

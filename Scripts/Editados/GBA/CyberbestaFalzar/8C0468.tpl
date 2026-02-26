@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We did it!!"
+	"A gente conseguiu!!"
 	keyWait
 		any = false
 	end
@@ -15,8 +15,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... It looks like
-	they won,too...
+	... E parece que eles
+	venceram também...
 	"""
 	keyWait
 		any = false
@@ -24,8 +24,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	... Watch out,
-	MegaMan!!
+	... Cuidado, MegaMan!!
 	"""
 	keyWait
 		any = false
@@ -44,7 +43,7 @@ script 2 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*roooooooooar!!*"
+	"Raaaaaaaaarr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -67,7 +66,7 @@ script 3 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeeeeech!!*"
+	"Kyaaaaaarhh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -84,7 +83,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Waaaaah!!"
+	"Aaaaaaghh!!"
 	keyWait
 		any = false
 	end
@@ -93,7 +92,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"M_MegaMan...!?"
+	"M-MegaMan...?!"
 	keyWait
 		any = false
 	end
@@ -109,7 +108,7 @@ script 6 mmbn6 {
 	controlLock
 	soundPlay
 		track = 402
-	"*grrrr...*"
+	"Grrrr..."
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -128,7 +127,7 @@ script 7 mmbn6 {
 	controlLock
 	soundPlay
 		track = 404
-	"*screech...*"
+	"Kyaarhh..."
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -144,48 +143,47 @@ script 8 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	The Cybeast has gone
-	back into MegaMan!!
+	A Cyberbesta voltou
+	para o MegaMan!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As long as it's
-	still alive,my plan
-	can still succeed!
+	Enquanto ela viver,
+	o meu plano ainda
+	pode se realizar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wahahahahaha!!!"
+	"Uaa ha ha ha ha!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The sweet irony of
-	Net society being
-	destroyed by the
+	A doce ironia da
+	sociedade da Rede
+	ser destruída pelo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	grandson of the man
-	who built it to
-	begin with!
+	neto do homem
+	que a criou!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Go,Cybeast!"
+	"Vá, Cyberbesta!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I mean,MegaMan!
-	Destroy everything
-	as you like!
+	... Não... MegaMan.EXE!
+	Destrua tudo a
+	seu belprazer!
 	"""
 	keyWait
 		any = false
@@ -202,8 +200,8 @@ script 9 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Get a hold of
-	yourself!
+	Não se perde!
+	Volte ao normal!
 	"""
 	keyWait
 		any = false
@@ -220,17 +218,17 @@ script 10 mmbn6 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	You're wasting your
-	breath! MegaMan is
-	too weak from that
+	Está desperdiçando
+	saliva! O MegaMan foi
+	enfraquecido demais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	last battle!
-	He can't fight off
-	the Cybeast now!
+	nesssa última luta!
+	Não pode resistir à
+	Cyberbesta agora!
 	"""
 	keyWait
 		any = false
@@ -250,7 +248,7 @@ script 11 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*grrrrrr!!*"
+	"Grrrrrr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -274,7 +272,7 @@ script 12 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeech!!*"
+	"Kyaaaarh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -293,22 +291,22 @@ script 13 mmbn6 {
 	msgOpen
 	"""
 	MegaMan!!
-	Don't!!
+	Não!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Iris and Colonel are
-	hurt from the last
-	battle!
+	A Iris e o Colonel
+	saíram feridos da
+	última batalha...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Iris,Colonel!
-	Run!!
+	Iris, Colonel!
+	Fujam!!
 	"""
 	keyWait
 		any = false
@@ -321,8 +319,8 @@ script 14 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	... Lan,we will take
-	care of MegaMan...
+	... Lan, nós vamos
+	cuidar do MegaMan...
 	"""
 	keyWait
 		any = false
@@ -335,22 +333,21 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you talking
-	about!?
+	Do que você tá falando?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't operate him
-	right now,
+	Eu não tô conseguindo
+	operar ele agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and you two are
-	hurt...
+	e vocês dois
+	tão machucados...
 	"""
 	keyWait
 		any = false
@@ -363,15 +360,15 @@ script 16 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Yes,we are wounded,
-	however,
+	Sim, estamos feridos.
+	Porém...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there is a way to
-	save MegaMan...
+	há um jeito de
+	salvar o MegaMan...
 	"""
 	keyWait
 		any = false
@@ -386,8 +383,8 @@ script 17 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What way...
-	No!!
+	Que jeit...
+	Não!!
 	"""
 	keyWait
 		any = false
@@ -400,16 +397,16 @@ script 18 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	If my brother and I
-	become one again,
+	Se o meu irmão e eu
+	voltarmos a ser um só,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we might be able
-	to pull the Cybeast
-	out of MegaMan...
+	talvez consigamos
+	extrair a Cyberbesta
+	de dentro do MegaMan...
 	"""
 	keyWait
 		any = false
@@ -421,21 +418,22 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Don't be stupid!"
+	"Não sejam absurdos!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you unite,my
-	program will blow
-	us all up!
+	Se os dois se unirem,
+	o meu programa explodirá
+	a todos nós!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why do something
-	so meaningless!?
+	Por que fazer uma
+	coisa tão desprovida
+	de propósito?!
 	"""
 	keyWait
 		any = false
@@ -450,25 +448,23 @@ script 20 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	You're wrong.
-	It's not
-	meaningless.
+	O senhor está errado.
+	Ela tem um propósito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We want Lan to have
-	a beautiful
-	future...
+	Nós queremos que o Lan
+	tenha um lindo futuro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dr.Wily... Nothing
-	good can come from
-	violence and hatred.
+	Dr. Wily... Nada de
+	bom vem da violência
+	e do ódio.
 	"""
 	keyWait
 		any = false
@@ -485,44 +481,50 @@ script 21 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	For a Navi like me
-	who has only thought
-	of fighting...
+	Para um Navi como eu,
+	que viveu a vida só
+	pensando em lutar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and deleting..."
+	"Em deletar..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For me to end up
-	saving the world...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I would have never
-	thought that I could
-	rise to this...
+	Para alguém como eu
+	acabar salvando o mundo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,please tell
-	Baryl,
+	Eu nunca pensei que
+	teria esse privilégio...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"I was deleted along\n with the Cybeast."
+	"""
+	Lan, por favor,
+	diga ao Baryl:
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" But,it's not\n \"fate\". It's of my\n own \"will\".\""
+	"""
+	"Eu fui deletado
+	junto à Cyberbesta.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Porém, isso não foi
+	'destino'. Foi minha
+	própria 'vontade'."
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -533,7 +535,7 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"W_Wait!!"
+	"E-espera!!"
 	keyWait
 		any = false
 	clearMsg
@@ -562,7 +564,7 @@ script 24 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*grrrrr!!*"
+	"Grrrrr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -581,7 +583,7 @@ script 25 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screech!!*"
+	"Kyaarh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -608,9 +610,9 @@ script 27 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	What is it,Iris?
-	Do you have some_
-	thing left to say?
+	O que foi, Iris?
+	Ainda tem alguma
+	coisa a dizer?
 	"""
 	keyWait
 		any = false
@@ -620,7 +622,7 @@ script 28 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	msgOpen
-	"Lan... I..."
+	"Lan... Eu..."
 	keyWait
 		any = false
 	end
@@ -646,18 +648,18 @@ script 30 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
-	 No,it's nothing.
-	I'm just a NetNavi,
-	after all...
+	Não, não é nada.
+	Eu sou só uma NetNavi,
+	afinal...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's start,brother."
+	"Vamos começar, irmão."
 	keyWait
 		any = false
 	clearMsg
@@ -668,7 +670,7 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Um!"
+	"Uhum!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -695,7 +697,7 @@ script 33 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*grrrrr!!*"
+	"Grrrrr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -714,7 +716,7 @@ script 34 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screech!!*"
+	"Kyaarh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -740,7 +742,7 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Let's go,Iris!!"
+	"Vamos lá, Iris!!"
 	keyWait
 		any = false
 	clearMsg
@@ -751,7 +753,7 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	msgOpen
-	"Alright."
+	"Vamos."
 	keyWait
 		any = false
 	clearMsg
@@ -772,22 +774,22 @@ script 39 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	So this is the heart
-	of a Cybeast...
+	Então esse é o coração
+	de uma Cyberbesta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Lan!!
-	Jack MegaMan out!
+	Desconecte o MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should be able
-	to now!
+	Agora, você
+	deve ser capaz!
 	"""
 	keyWait
 		any = false
@@ -799,7 +801,7 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"O_OK!!"
+	"T-tá!!"
 	keyWait
 		any = false
 	end
@@ -809,8 +811,8 @@ script 41 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You two should jack
-	out soon,too...
+	Vocês dois têm que
+	desconectar também...
 	"""
 	keyWait
 		any = false
@@ -822,14 +824,14 @@ script 42 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"They won't do it..."
+	"Eles não irão..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They plan to blow
-	themselves up to
-	delete the Cybeast.
+	Os dois pretendem se
+	explodir para deletar
+	a Cyberbesta.
 	"""
 	keyWait
 		any = false
@@ -842,13 +844,13 @@ script 43 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	N_No...
+	N-não...
 	Colonel!! Iris!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"NOOOOOOOOOOO!!"
+	"NÃÃÃÃÃÃÃÃOOO!!"
 	keyWait
 		any = false
 	clearMsg
@@ -859,11 +861,11 @@ script 44 mmbn6 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Lan,Baryl,Dr.Wily..."
+	"Lan, Baryl, Dr. Wily..."
 	keyWait
 		any = false
 	clearMsg
-	"Farewell."
+	"Adeus."
 	keyWait
 		any = false
 	end

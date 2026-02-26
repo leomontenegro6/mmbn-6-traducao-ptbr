@@ -6,25 +6,23 @@ script 0 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Ladies and
-	gentlemen!
-	We will now begin
+	Senhoras e senhores!
+	Agora, daremos início
+	à segunda rodada da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	round 2 of the Expo
-	Operator Navi
-	Selection Test!
+	Proxa de Seleção
+	de Navi Operador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This time,we will
-	test your strength
-	in battle!!
+	Dessa vez, testaremos
+	sua proeza em combate!!
 	"""
 	keyWait
 		any = false
@@ -37,9 +35,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright!!
-	That's our
-	specialty!
+	Aêê!!
+	A nossa especialidade!
 	"""
 	keyWait
 		any = false
@@ -52,9 +49,9 @@ script 2 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Heh! Get too cocky
-	and you'll fall
-	flat on your face!
+	He! Se ficar se achando
+	demais, vai acabar
+	passando vexame!
 	"""
 	keyWait
 		any = false
@@ -67,9 +64,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'll pass! Just you
-	wait and see! I lose
-	to no one!
+	Até parece! Espera só!
+	Ninguém me derruba!
 	"""
 	keyWait
 		any = false
@@ -82,8 +78,8 @@ script 4 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	And no way I'm
-	losing to you!
+	Nunca que eu vou
+	perder pra você!
 	"""
 	keyWait
 		any = false
@@ -96,25 +92,24 @@ script 5 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	The playing field
-	will be the Net area,
-	Sky Area.
+	A arena da competição
+	será a Área Céu da Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sky Area has two
-	parts,and two
-	judges in each part.
+	A Área Céu é composta
+	por duas partes, e
+	haverá um juiz em cada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Find and talk with a
-	judge to begin the
-	test.
+	Encontre e fale com o
+	juiz em questão para
+	iniciar o desafio.
 	"""
 	keyWait
 		any = false
@@ -127,8 +122,8 @@ script 6 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Uh,so by test,you
-	mean battle,right?
+	Er, com "desafio", você
+	quer dizer "luta", né?
 	"""
 	keyWait
 		any = false
@@ -140,22 +135,22 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"That is correct!"
+	"Correto!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Before I explain
-	how to jack in to
-	the Net,I'd like
+	Antes de eu explicar
+	como se conectar à
+	Rede, eu gostaria de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to ask that everyone
-	go to Mr.Weather and
-	register.
+	pedir a todos para
+	irem ao Seu Cleema
+	se cadastrarem.
 	"""
 	keyWait
 		any = false
@@ -168,21 +163,21 @@ script 8 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	What!?
-	We get to meet
-	Mr.Weather!?
+	O quê?!
+	A gente vai conhecer
+	o Seu Cleema?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I watch his weather
-	forecast every day!
+	Eu assisto à previsão
+	do tempo dele todo dia!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ah,I'm so happy!"
+	"Ai, tô tão feliz!"
 	keyWait
 		any = false
 	clearMsg
@@ -194,9 +189,9 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mr.Weather...
-	that's that robot
-	on TV,right?
+	Seu Cleema...
+	Esse é aquele
+	robô da TV, né?
 	"""
 	keyWait
 		any = false
@@ -209,25 +204,25 @@ script 10 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	That is correct!
-	Mr.Weather is the
-	famous weather idol
+	Correto!
+	O Seu Cleema é uma
+	famosa celebridade
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of Cyber City,but
-	he's also Sky Town's
-	mainframe system!
+	da Cidade Saibher, mas
+	também é o sistema
+	central deste distrito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyber City's weather
-	is all decided and
-	controlled by him!
+	O tempo da Cidade
+	Saibher é 100% decidido
+	e controlado por ele!
 	"""
 	keyWait
 		any = false
@@ -240,9 +235,9 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wow,Mr.Weather is
-	really something...
-	That's really neat!
+	Nossa, o Seu Cleema
+	é demais...
+	Que da hora!
 	"""
 	keyWait
 		any = false
@@ -255,8 +250,9 @@ script 12 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Now,please head to
-	where Mr.Weather is!
+	Bom, tendo explicado
+	isso, peço que sigam
+	até o Seu Cleema!
 	"""
 	keyWait
 		any = false
@@ -267,16 +263,16 @@ script 13 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Please take this
-	elevator down.
+	Por favor, desçam
+	neste elevador.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When you stop,please
-	go down the small
-	set of stairs there.
+	E, quando ele parar,
+	descam a pequena
+	escadaria que verão.
 	"""
 	keyWait
 		any = false
@@ -286,7 +282,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Alright,let's go!"
+	"Beleza, bora lá!"
 	keyWait
 		any = false
 	clearMsg
@@ -297,7 +293,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end

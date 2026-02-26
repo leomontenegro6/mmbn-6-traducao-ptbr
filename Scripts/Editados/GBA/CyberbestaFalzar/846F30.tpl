@@ -4,15 +4,15 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	SeasideArea2 on it.
+	Nele, há um mapa
+	da Área Beira-Mar 2.
 	"""
 	keyWait
 		any = false
@@ -40,9 +40,8 @@ script 2 mmbn6 {
 		jumpIfProtoMan = continue
 	msgOpen
 	"""
-	There is a violent
-	cyclone blocking
-	the way!!
+	Um ciclone violento
+	impede a passagem!!
 	"""
 	keyWait
 		any = false
@@ -51,17 +50,17 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	The darkness won't
-	budge,even with your
-	strongest attacks.
+	As trevas não
+	diminuem, nem com os
+	seus ataques mais fortes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe the
-	EvilSpirits are
-	related somehow...
+	Talvez isso tenha
+	alguma relação com
+	os Espíritos Malignos...
 	"""
 	keyWait
 		any = false
@@ -70,22 +69,20 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	IF YOU WISH TO
-	PROCEED,YOU WILL
-	NEED STRENGTH.
+	SE DESEJA PROSSEGUIR,
+	PRECISARÁ DE FORÇA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WILL NOW PUT YOUR
-	STRENGTH TO THE
-	TEST.
+	IREI AGORA TESTAR
+	A FORÇA QUE POSSUI.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ARE YOU READY?"
+	"ESTÁ PRONTO?"
 	keyWait
 		any = false
 	clearMsg
@@ -99,7 +96,7 @@ script 4 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -108,7 +105,7 @@ script 4 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -123,7 +120,7 @@ script 4 mmbn6 {
 }
 script 5 mmbn6 {
 	msgOpen
-	"BATTLE START!"
+	"INICIAR BATALHA!"
 	keyWait
 		any = false
 	flagSet
@@ -133,8 +130,7 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	PLEASE,PASS ON
-	THROUGH.
+	POR FAVOR, PROSSIGA.
 	"""
 	keyWait
 		any = false
@@ -144,16 +140,16 @@ script 6 mmbn6 {
 }
 script 7 mmbn6 {
 	"""
-	A Security Cube that
-	protects the
-	Aquarium...
+	Um Cubo de Segurança
+	que protege o Aquário...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It can't be unlocked
-	without its P_Code!
+	Não pode ser
+	desbloqueado sem
+	o Código-P dele!
 	"""
 	keyWait
 		any = false
@@ -162,8 +158,8 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	TOLL TO GO THROUGH:
-	100 ZENNY
+	PEDÁGIO:
+	100 ZENNYS
 	"""
 	keyWait
 		any = false
@@ -179,7 +175,7 @@ script 8 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Pay  "
+	" Pagar  "
 	option
 		brackets = 0
 		left = 0
@@ -188,7 +184,7 @@ script 8 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't pay"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -200,7 +196,7 @@ script 8 mmbn6 {
 			jump = continue
 		]
 	clearMsg
-	"PLEASE COME AGAIN!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -213,8 +209,7 @@ script 9 mmbn6 {
 		jumpIfSome = 10
 	msgOpen
 	"""
-	THANK YOU FOR
-	YOUR PAYMENT.
+	OBRIGADO.
 	"""
 	keyWait
 		any = false
@@ -225,8 +220,8 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	NOT ENOUGH ZENNY...
-	PLEASE COME AGAIN...
+	FALTAM-LHE ZENNYS...
+	VOLTE MAIS TARDE...
 	"""
 	keyWait
 		any = false
@@ -237,8 +232,8 @@ script 11 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	This cyclone has
-	nothing on me!!
+	Esse ciclone é
+	fichinha pra mim!!
 	"""
 	keyWait
 		any = false
@@ -249,9 +244,9 @@ script 11 mmbn6 {
 	wait
 		frames = 30
 	"""
-	SlashMan's super
-	spin attack wiped
-	the cyclone out!!
+	O super ataque giratório
+	do SlashMan acaba com o
+	ciclone!!
 	"""
 	keyWait
 		any = false
@@ -263,14 +258,13 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Choo,chooooo!!"
+	"Tchú-tchúúúúú!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going to charge
-	through this
-	cyclone!!
+	Hora de atropelar
+	esse ciclone!!
 	"""
 	keyWait
 		any = false
@@ -281,9 +275,9 @@ script 12 mmbn6 {
 	wait
 		frames = 30
 	"""
-	ChargeMan erased the
-	cyclone with his
-	super charge attack!
+	ChargeMan apaga o
+	ciclone com seu super
+	ataque motor!
 	"""
 	keyWait
 		any = false
@@ -296,14 +290,14 @@ script 13 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	A cyclone like this
-	is nothing for a
-	wind master...
+	Um ciclone desses é
+	trivial para um mestre
+	do vento...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hmmmph!!"
+	"Hmmmpf!!"
 	keyWait
 		any = false
 	clearMsg
@@ -313,9 +307,9 @@ script 13 mmbn6 {
 	wait
 		frames = 30
 	"""
-	TenguMan erased the
-	cyclone with one
-	wave of his fan!!
+	Com um único abanar
+	de seu leque, TenguMan
+	apaga o ciclone!!
 	"""
 	keyWait
 		any = false
@@ -327,19 +321,19 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	msgOpen
-	"Gahahaha!!"
+	"Gaa ha ha ha!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if this
-	cyclone can stand up
-	to my vacuum power!?
+	Será que esse ciclone
+	tem alguma chance contra
+	o meu poder aspirador?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*vroooooom!!*"
+	"Vuuuuuush!!"
 	keyWait
 		any = false
 	clearMsg
@@ -349,8 +343,8 @@ script 14 mmbn6 {
 	wait
 		frames = 30
 	"""
-	DustMan sucked up
-	the cyclone!!
+	DustMan aspirou
+	o ciclone!!
 	"""
 	keyWait
 		any = false

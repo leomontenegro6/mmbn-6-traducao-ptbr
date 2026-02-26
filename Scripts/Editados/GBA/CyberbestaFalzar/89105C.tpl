@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	..n...
-	La...n...
+	... n...
+	La... n...
 	"""
 	keyWait
 		any = false
@@ -20,8 +20,9 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Nngh... Just
-	5 more minutes...
+	Nngh...
+	Só mais cinco
+	minutinhos...
 	"""
 	keyWait
 		any = false
@@ -34,8 +35,8 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No excuses if
-	you're late!
+	Se você se atrasar,
+	não vá me culpar depois!
 	"""
 	keyWait
 		any = false
@@ -48,8 +49,9 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I get it...
-	I'm up,I'm up...
+	Tá, já entendi...
+	Tô acordado,
+	tô acordado...
 	"""
 	keyWait
 		any = false
@@ -60,8 +62,8 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	See!
-	I got up!
+	Viu?!
+	De pé e pronto!
 	"""
 	keyWait
 		any = false
@@ -73,21 +75,22 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Don't \"See!\" me!"
+	"Não vem com\nessa de \"Viu?!\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I didn't wake you
-	up,you'd be so late!
+	Se eu não te
+	acordasse, você ia se
+	atrasar pra caramba!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't think I
-	should trust you
-	to manage yourself!
+	Acho que não confio em
+	você pra se virar sozinho,
+	"cara responsável"!
 	"""
 	keyWait
 		any = false
@@ -99,21 +102,22 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aww,come on!"
+	"Ah, vai!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,today's my
-	first day at
-	Cyber Academy,
+	Enfim, hoje é o meu
+	primeiro dia na
+	Escola Saibher,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so,let's cut the
-	chatter and go!
+	então bora abreviar
+	esta discussão e
+	ir logo pra lá!
 	"""
 	keyWait
 		any = false
@@ -125,7 +129,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end

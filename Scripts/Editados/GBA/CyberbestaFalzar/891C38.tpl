@@ -10,15 +10,15 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I've talked to
-	everyone,but
+	Eu falei com todo mundo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm new,so I just
-	don't fit in yet.
+	mas, como típico
+	novato, eu ainda
+	não me encaixei.
 	"""
 	keyWait
 		any = false
@@ -31,9 +31,9 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That's how it is.
-	Just take it
-	slowly,I guess.
+	É assim mesmo.
+	O jeito é ir um
+	passo de cada vez.
 	"""
 	keyWait
 		any = false
@@ -44,7 +44,7 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Hey,Lan!"
+	"Aí, Lan!"
 	keyWait
 		any = false
 	soundFadeOut
@@ -57,8 +57,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,um...
-	Mick...right?
+	Ah, er...
+	Mick... né?
 	"""
 	keyWait
 		any = false
@@ -71,22 +71,22 @@ script 4 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	You're good at
-	NetBattling,right?
+	Cê é bom de
+	NetLuta, não é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The next class is
-	Virus Busting.
+	A próxima aula vai
+	ser Deleção de Vírus.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Show me what you've
-	got then,hmph!
+	Quero ver do que
+	cê é capaz! Hmpf!
 	"""
 	keyWait
 		any = false
@@ -97,20 +97,21 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's with his
-	attitude...?
+	Qual é a desse
+	cara, hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did I make him mad
-	at me?
+	Eu fiz alguma
+	coisa pra deixar
+	ele fulo comigo?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What did I do?"
+	"Se sim, o quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -121,7 +122,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Who knows..."
+	"Vai saber..."
 	keyWait
 		any = false
 	clearMsg
@@ -135,16 +136,16 @@ script 7 mmbn6 {
 	controlLock
 	soundPlay
 		track = 375
-	"*ding,"
+	"Bim "
 	wait
 		frames = 42
-	"dong,"
+	"Bom "
 	wait
 		frames = 40
-	"ding,"
+	"Bim "
 	wait
 		frames = 40
-	"dong*"
+	"Bom"
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -159,7 +160,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah,the bell!"
+	"Ah, o sinal!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -171,16 +172,17 @@ script 9 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Alright,now like I
-	said earlier,it's
-	Virus Busting time!
+	OK, como eu falei
+	antes, hora de
+	Deleção de Vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So jack in to your
-	desks,everyone!
+	Então, conectem-se
+	às suas carteiras,
+	rapaziada!
 	"""
 	keyWait
 		any = false
@@ -193,8 +195,8 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright,MegaMan!
-	Let's do this!
+	Beleza, MegaMan!
+	Vamos nessa!
 	"""
 	keyWait
 		any = false
@@ -206,7 +208,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!"
+	"Pode crer!!"
 	keyWait
 		any = false
 	clearMsg
@@ -220,13 +222,13 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock

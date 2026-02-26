@@ -24,8 +24,8 @@ script 1 mmbn6 {
 		mugshot = Otenko
 	msgOpen
 	"""
-	I have to hurry
-	and find Django...
+	Eu tenho que achar
+	logo o Django...
 	"""
 	keyWait
 		any = false
@@ -35,13 +35,13 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"WoooooOOOOoooo..."
+	"ÚúúúÚÚÚÚÚúúúú..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	ABLL...
-	...AALRBA
+	... AALRBA
 	"""
 	keyWait
 		any = false
@@ -52,23 +52,23 @@ script 5 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I research this
-	area for the sake
-	of research...
+	Eu pesquiso esta área
+	para saciar minha
+	curiosidade científica...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I made a folder
-	designed to
-	eliminate crime...
+	E fiz uma pasta
+	projetada para
+	eliminar o crime...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's called...
+	Ela se chama...
 	"
 	"""
 	printFolderName
@@ -78,27 +78,26 @@ script 5 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Want to try it!?"
+	"Quer usá-la?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't mind
-	replacing your
-	current Extra
+	Se não se importar
+	de substituir sua
+	Pasta extra atual,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	folder,I can send
-	it to you right
-	away.
+	posso enviá-la
+	agora mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What do you think?"
+	"Que tal?"
 	keyWait
 		any = false
 	clearMsg
@@ -113,7 +112,7 @@ script 5 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure! "
+	" Sim! "
 	option
 		brackets = 0
 		left = 0
@@ -122,7 +121,7 @@ script 5 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No,Thanks"
+	" Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -137,9 +136,9 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	I see...
-	It really is a
-	good folder...
+	Entendo...
+	Mas é uma
+	pasta tão boa...
 	"""
 	keyWait
 		any = false
@@ -150,17 +149,17 @@ script 6 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Alright...
-	Here we go!
+	Certo...
+	Vamos lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Soul Injection!!"
+	"Injeção de Alma!!"
 	keyWait
 		any = false
 	clearMsg
-	"WAAAAAAAAAHHHHH!!"
+	"AAAAAAAAAHHHHH!!"
 	keyWait
 		any = false
 	clearMsg
@@ -188,13 +187,13 @@ script 6 mmbn6 {
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = OfficialNavi
-	"Great! Done sending!"
+	"Pronto! O envio\nfoi um sucesso!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your Extra Folder
-	changed into the
+	A sua Pasta Extra
+	agora é a
 	"
 	"""
 	printFolderName
@@ -205,9 +204,9 @@ script 6 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	From now on,you
-	are a true
-	SoulBattler!!
+	De agora em diante,
+	você é um genuíno
+	AlmaLutador!!
 	"""
 	keyWait
 		any = false
@@ -224,22 +223,22 @@ script 10 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	I'm kinda a well
-	known hacker in the
-	Underworld.
+	Eu sou um hacker
+	mais ou menos famosinho
+	no submundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've come to talk
-	business...
+	E vim tratar
+	de negócios...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This item's called
+	Este item se chama
 	"
 	"""
 	printItem
@@ -247,20 +246,20 @@ script 10 mmbn6 {
 		item = 68
 	"""
 	"...
-	Only 3000 Zennys...
+	Só 3000 Zennys...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I got it by hacking
-	some weird computer
-	I found...
+	Eu obtive ele hackeando
+	um computador esquisito
+	que eu achei...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna buy it?"
+	"Quer comprar?"
 	keyWait
 		any = false
 	clearMsg
@@ -275,7 +274,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure  "
+	" Claro  "
 	option
 		brackets = 0
 		left = 0
@@ -284,7 +283,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No Way"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -299,8 +298,8 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	Hmmmph...
-	Whatever...
+	Hmmmpf...
+	Tá, né...
 	"""
 	keyWait
 		any = false
@@ -316,8 +315,8 @@ script 11 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	Hahahaha...
-	Thanks!!
+	Ha ha ha ha...
+	Valeu!!
 	"""
 	keyWait
 		any = false
@@ -330,7 +329,7 @@ script 11 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -345,15 +344,15 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	That's extremely
-	dangerous...
+	Isso aí é extremamente
+	perigoso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And extremely rare!
-	A nice purchase!
+	E extremamente raro!
+	Compra sábia, rapaz!
 	"""
 	keyWait
 		any = false
@@ -364,9 +363,9 @@ script 12 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	Too bad...
-	You don't have
-	enough money...
+	Que pena...
+	Você não tem dinheiro
+	o bastante...
 	"""
 	keyWait
 		any = false
@@ -377,8 +376,9 @@ script 13 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	Nice doin' business
-	with ya! Hahaha!!
+	Foi um prazer fazer
+	negócios contigo!
+	Ha ha ha!!
 	"""
 	keyWait
 		any = false
@@ -388,13 +388,13 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Ahhhh...Ahhhh..."
+	"Ahhhh... Ahhhh..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	ARAAB...
-	...ARRBA
+	... ARRBA...
 	"""
 	keyWait
 		any = false
@@ -404,13 +404,13 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"WooooOOOOoo..."
+	"ÚúúúÚÚÚÚÚúúúú..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	BRBBB...
-	...BBARR
+	... BBARR
 	"""
 	keyWait
 		any = false
@@ -425,8 +425,8 @@ script 19 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I'm a NetMerchant.
-	Look at my wares?
+	Sou um NetVendedor.
+	Quer ver o que eu tenho?
 	
 	"""
 	positionOptionHorizontal
@@ -439,7 +439,7 @@ script 19 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Look "
+	" Ver "
 	option
 		brackets = 0
 		left = 0
@@ -448,7 +448,7 @@ script 19 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't look "
+	" Não ver "
 	select
 		default = 0
 		BSeparate = false
@@ -464,7 +464,7 @@ script 19 mmbn6 {
 }
 script 20 mmbn6 {
 	clearMsg
-	"Come again..."
+	"Volte sempre..."
 	keyWait
 		any = false
 	end
@@ -474,9 +474,8 @@ script 21 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Too bad for you...
-	We're all out of
-	stock...
+	Que peninha...
+	Acabou tudo...
 	"""
 	keyWait
 		any = false

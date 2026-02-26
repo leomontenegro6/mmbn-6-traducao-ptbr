@@ -6,9 +6,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Time to head out to
-	that CompuDancing
-	Festival!
+	Hora da gente ir pra
+	"Fesdança CompuTança"!
 	"""
 	keyWait
 		any = false
@@ -16,9 +15,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Uh,don't you mean
-	the CompuDancing
-	Jamboree,Lan?
+	Er, "Festança
+	CompuDança", não, Lan?
 	"""
 	keyWait
 		any = false
@@ -26,9 +24,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Oh,yeah.
-	OK,let's get going
-	to the Jamboree!!
+	Ah, é.
+	Enfim, bora lá
+	pra esse negócio!!
 	"""
 	keyWait
 		any = false
@@ -41,7 +39,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
 	"\nMegaMan,"
@@ -66,7 +64,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it,Mom!?"
+	"Que foi, mãe?"
 	keyWait
 		any = false
 	clearMsg
@@ -78,9 +76,8 @@ script 3 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You have a guest!
-	Hurry up and come
-	downstairs!
+	Tem visita pra você!
+	Desce logo aqui!
 	"""
 	keyWait
 		any = false
@@ -93,8 +90,8 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A guest...?
-	Who could it be...?
+	Visita...?
+	Quem será...?
 	"""
 	keyWait
 		any = false

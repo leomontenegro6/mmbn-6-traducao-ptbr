@@ -6,9 +6,8 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,the temperature
-	in this area is
-	going down.
+	Lan, a temperatura
+	da área tá caindo.
 	"""
 	keyWait
 		any = false
@@ -19,39 +18,39 @@ script 1 mmbn6 {
 		mugshot = BlastMan
 	msgOpen
 	"""
-	As I thought,you are
-	skilled. However,
+	Você é bem habilidoso...
+	como eu imaginava.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a raging inferno
-	awaits you in the
-	next area!
+	Porém, um forno
+	escaldante te espera
+	na próxima área!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you're feeling
-	faint,maybe you
-	should jack out!
+	Se já estiver
+	ficando tonto, melhor
+	desconectar, viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oopsies,but even if
-	you do,the inferno
-	will still be here!
+	Ah, esqueci: mesmo se
+	você desconectar, o
+	fogo vai continuar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good luck,MegaMan!
-	Gyahahahaha!!
+	Boa sorte, MegaMan!
+	Gah ha ha ha ha!!
 	"""
 	keyWait
 		any = false
@@ -63,7 +62,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Darn it..."
+	"Droga..."
 	keyWait
 		any = false
 	clearMsg
@@ -74,7 +73,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You OK,Lan?"
+	"Você tá legal, Lan?"
 	keyWait
 		any = false
 	clearMsg
@@ -85,18 +84,18 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah,yeah..."
+	"T-tô..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the teachers are
-	still in danger.
+	Mas os professores
+	ainda tão em perigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We've gotta hurry!!"
+	"A gente tem que correr!!"
 	keyWait
 		any = false
 	clearMsg
@@ -107,7 +106,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!!"
+	"É!!"
 	keyWait
 		any = false
 	end

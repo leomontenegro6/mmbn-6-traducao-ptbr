@@ -6,8 +6,7 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're not getting
-	away!
+	Você não vai fugir!
 	"""
 	keyWait
 		any = false
@@ -20,9 +19,9 @@ script 1 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Tsk,I thought you
-	were just a kid. I
-	underestimated you!!
+	Tsc, e eu aqui, achando
+	que você era só um
+	moleque. Te subestimei!!
 	"""
 	keyWait
 		any = false
@@ -35,8 +34,8 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Now turn yourself
-	in to the police!
+	Vai, se entrega
+	logo pra polícia!
 	"""
 	keyWait
 		any = false
@@ -48,7 +47,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Vic
 	msgOpen
-	"Sorry,but..."
+	"Desculpa, mas..."
 	keyWait
 		any = false
 	end
@@ -58,9 +57,8 @@ script 4 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	no way am I going
-	to the Punishment
-	Room!
+	nunca que eu vou
+	pra Cela de Punição!
 	"""
 	keyWait
 		any = false
@@ -72,11 +70,11 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Waaah!!"
+	"Aaaah!!"
 	keyWait
 		any = false
 	clearMsg
-	"M_My eyes!!"
+	"M-meus olhos!!"
 	keyWait
 		any = false
 	clearMsg
@@ -88,9 +86,8 @@ script 6 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Phwahahaha,
-	see you later,
-	you little pest!!
+	Fua ha ha ha!
+	Falou, peste!!
 	"""
 	keyWait
 		any = false
@@ -101,8 +98,8 @@ script 6 mmbn6 {
 	soundPlay
 		track = 284
 	"""
-	Urk! H_Hey!
-	Let me go!!
+	Urck! E-ei!
+	Me solta!!
 	"""
 	wait
 		frames = 40
@@ -116,8 +113,8 @@ script 7 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Let go!
-	Darn this stupid...!
+	Solta!
+	Lata-velha imunda...!
 	"""
 	keyWait
 		any = false
@@ -128,14 +125,14 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	mugshotHide
 	msgOpen
-	"I will not let go!"
+	"Não vou soltar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will not let you
-	take the Force
-	Program!!
+	Eu não vou deixar
+	que leve o Programa
+	de Força!
 	"""
 	keyWait
 		any = false
@@ -148,8 +145,8 @@ script 9 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Curses...
-	This stinks...
+	Droga...
+	Saco...!!
 	"""
 	keyWait
 		any = false
@@ -160,8 +157,8 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Awesome job,
-	Mr.Weather!!
+	Mandou muito,
+	Seu Cleema!!
 	"""
 	keyWait
 		any = false
@@ -174,8 +171,8 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh,that's right,I
-	have to find Iris!
+	Ah, é mesmo, eu tenho
+	que achar a Iris!
 	"""
 	keyWait
 		any = false
@@ -184,7 +181,7 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Screen Divide!!"
+	"Investida Visor!!"
 	keyWait
 		any = false
 	clearMsg
@@ -200,7 +197,7 @@ script 12 mmbn6 {
 	controlLock
 	soundPlay
 		track = 195
-	"*booooom!!*"
+	"Buuuumm!!"
 	wait
 		frames = 93
 	soundEnableTextSFX
@@ -210,7 +207,7 @@ script 12 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"W_What's that!?"
+	"O-o que foi isso?!"
 	keyWait
 		any = false
 	end
@@ -219,7 +216,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mr.Weather!!"
+	"Seu Cleema!!"
 	keyWait
 		any = false
 	clearMsg
@@ -234,9 +231,9 @@ script 14 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Somehow,it seems
-	we are fated to
-	fight one another...
+	Parece que é nosso
+	destino lutar um
+	contra o outro...
 	"""
 	keyWait
 		any = false
@@ -248,7 +245,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"T_That voice...!"
+	"E-essa voz...!"
 	keyWait
 		any = false
 	end
@@ -257,16 +254,16 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"C_Colonel!!"
+	"C-Colonel!!"
 	keyWait
 		any = false
 	clearMsg
 	soundPlayBGM
 		track = 28
 	"""
-	The CopyBot
-	MegaMan used
-	earlier...you...!
+	O CópiRoide que o
+	MegaMan usou ainda
+	agora... Você...!
 	"""
 	keyWait
 		any = false
@@ -279,9 +276,9 @@ script 17 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Vic... Take the
-	Force Program and
-	return to base...
+	Vic... Pegue o
+	Programa de Força e
+	returne à base...
 	"""
 	keyWait
 		any = false
@@ -293,7 +290,7 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = Vic
 	msgOpen
-	"... Darn it!!"
+	"... Droga!!"
 	keyWait
 		any = false
 	end
@@ -314,9 +311,9 @@ script 20 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Don't look away when
-	your opponent is in
-	front of you!
+	Não desvie o olhar
+	com o adversário bem
+	diante de você!
 	"""
 	keyWait
 		any = false
@@ -328,8 +325,8 @@ script 21 mmbn6 {
 	msgOpen
 	"""
 	Colonel!
-	Stop this!
-	Please wake up!
+	Para com isso!
+	Por favor, abre os olhos!
 	"""
 	keyWait
 		any = false
@@ -342,24 +339,25 @@ script 22 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	You're the one that
-	needs to wake up,
+	É você quem precisa
+	abrir os olhos,
 	Lan Hikari...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The one you see now,
-	is the real me...
+	O homem que você
+	está vendo agora é
+	o verdadeiro "eu"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We,the WWW,will
-	delete anyone that
-	stands in our way!!
+	Nós, a WWW, deletaremos
+	todos que se puserem
+	em nosso caminho!!
 	"""
 	keyWait
 		any = false
@@ -370,8 +368,8 @@ script 23 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	This time,
-	I won't miss...
+	Desta vez, eu
+	não vou errar...
 	"""
 	keyWait
 		any = false
@@ -383,7 +381,7 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"N_Noooo!!"
+	"N-nãããããoo!!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -395,8 +393,7 @@ script 25 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Huh? I don't
-	feel any pain...
+	... Hã? Não tá doendo...
 	"""
 	keyWait
 		any = false
@@ -406,7 +403,7 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I_Iris..."
+	"I-Iris..."
 	keyWait
 		any = false
 	clearMsg
@@ -429,8 +426,8 @@ script 28 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	W_Why...are you...
-	here...?
+	M-mas por que... você...
+	está aqui...?
 	"""
 	keyWait
 		any = false
@@ -463,17 +460,16 @@ script 31 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Your life has been
-	spared for now,
-	Lan Hikari...
+	A sua vida foi poupada
+	por ora, Lan Hikari...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the next time we
-	meet,you won't be so
-	lucky.
+	Mas, da próxima vez que
+	nos encontrarmos, não
+	terá a mesma sorte.
 	"""
 	keyWait
 		any = false
@@ -484,17 +480,16 @@ script 32 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like I owe
-	you another one,
-	Iris.
+	Parece que eu tô te
+	devendo mais uma, Iris.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Heh,I can't tell
-	who's trying to
-	save who anymore!
+	He, acho que, no fim
+	das contas, é você
+	quem tá ME salvando!
 	"""
 	keyWait
 		any = false
@@ -507,8 +502,8 @@ script 33 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	... I'm glad you're
-	not hurt,Lan...
+	... Fico feliz que não
+	se machucou, Lan...
 	"""
 	keyWait
 		any = false
@@ -522,7 +517,7 @@ script 34 mmbn6 {
 	msgOpen
 	"""
 	Iris...
-	Just who are you...?
+	Quem É você...?
 	"""
 	keyWait
 		any = false
@@ -532,7 +527,7 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Waaaaaah!!"
+	"Aaaaaaahhh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -544,8 +539,8 @@ script 36 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Sky Town's
-	falling!
+	Lan! O Distrito Céu
+	tá caindo!
 	"""
 	keyWait
 		any = false
@@ -558,17 +553,17 @@ script 37 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	With the main energy
-	source created by
-	the Force Program,
+	Agora que não tem mais a
+	fonte principal de energia
+	criada pelo Programa de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and Sky Town's main
-	computer,Mr.Weather,
-	gone...
+	Força nem o computador
+	central do Distrito Céu,
+	o Seu Cleema...!
 	"""
 	keyWait
 		any = false
@@ -579,9 +574,9 @@ script 38 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We're gonna end up
-	as fish food at the
-	bottom of the ocean!
+	A gente vai cair no
+	oceano e virar isca
+	de tubarão!
 	"""
 	keyWait
 		any = false
@@ -605,19 +600,19 @@ script 40 mmbn6 {
 	controlLock
 	soundPlay
 		track = 434
-	"*click,clack,click*"
+	"Clic Clac Clic"
 	wait
 		frames = 113
 	"\n"
 	soundPlay
 		track = 434
-	"*tap,tap,click...*"
+	"Tec Tec Clic...*"
 	wait
 		frames = 113
 	clearMsg
 	soundPlay
 		track = 337
-	"... *beep!*"
+	"... Bip"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -626,9 +621,9 @@ script 40 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	SKY TOWN BACKUP
-	ELECTRICITY SYSTEM
-	ONLINE.
+	SISTEMA ELÉTRICO
+	RESERVA DO DISTRITO
+	CÉU, ATIVADO.
 	"""
 	keyWait
 		any = false
@@ -639,13 +634,13 @@ script 41 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	W_Wow...
-	You fixed it!
+	C-caramba...
+	Cê consertou ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Iris... What..."
+	"Iris... O que..."
 	keyWait
 		any = false
 	clearMsg
@@ -670,7 +665,7 @@ script 43 mmbn6 {
 	controlLock
 	soundPlay
 		track = 211
-	"*click!!*"
+	"Clic!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -684,9 +679,8 @@ script 44 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sounds like the
-	elevator's working
-	again!
+	Parece que o elevador
+	voltou a funcionar!
 	"""
 	keyWait
 		any = false
@@ -701,16 +695,15 @@ script 45 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	She disappeared
-	again...
-	*sigh*
+	Ela sumiu de novo...
+	Hmf...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	... Iris...
-	Who are you...?
+	Quem é você...?
 	"""
 	keyWait
 		any = false

@@ -6,15 +6,15 @@ script 0 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	*huff* *huff*...
-	I can't breathe...
+	Urf... Arf...
+	Não consigo... respirar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This...is...way...
-	too...high...up...
+	Este... lugar... é...
+	alto... demais...
 	"""
 	keyWait
 		any = false
@@ -25,27 +25,27 @@ script 5 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	*huff* *huff*...
-	The SkyTown HP...
+	Urf... Arf...
+	A página do Distrito Céu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	have...to...do...
-	...maintenance...
+	tenho... que.. fazer...
+	manutenção...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I won't...be able"
+	"Em breve... eu não vou..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to...breathe...
-	soon...so...can't
-	move...foward...
+	mais... conseguir...
+	respirar... então...
+	não posso... avançar...
 	"""
 	keyWait
 		any = false
@@ -56,9 +56,9 @@ script 10 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	*huff* *huff*...
-	Today...finish...
-	...maintenance...
+	Urf... Arf...
+	Hoje... terminar...
+	manutenção...
 	"""
 	keyWait
 		any = false
@@ -66,14 +66,14 @@ script 10 mmbn6 {
 }
 script 15 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -87,7 +87,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"There's Lan Hikari!!"
+	"Olha aí o Lan Hikari!!"
 	keyWait
 		any = false
 	flagSet
@@ -105,8 +105,8 @@ script 17 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Gwaaahhh...
-	YYYAAAAHHHHH!!
+	Guaaarhhhh...
+	Iiiiááááááááá!!
 	"""
 	keyWait
 		any = false
@@ -125,9 +125,9 @@ script 18 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Deleting you will
-	do wonders for my
-	career... Haha!
+	Deletar você vai ser
+	ótimo pra minha carreira...
+	Ha ha!
 	"""
 	keyWait
 		any = false

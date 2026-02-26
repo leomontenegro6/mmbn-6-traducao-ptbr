@@ -4,24 +4,24 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	... And today,rain
-	will fall starting
-	in the afternoon.
+	... E, hoje, teremos
+	pancadas de chuva no
+	decorrer da tarde.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's it for the
-	weather today. I'm
-	Mr.Weather,saying
+	Essa foi a previsão do
+	tempo de hoje. Aqui é o
+	Seu Cleema,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	good bye from
-	Sky Town!
+	se despedindo de vocês
+	do Distrito Céu!
 	"""
 	keyWait
 		any = false
@@ -32,17 +32,17 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You know,I hadn't
-	really noticed since
-	moving here,but the
+	Sabe, eu não me toquei
+	disso desde que a gente
+	se mudou pra cá,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	weather forecasts
-	in Cyber City are
-	more like notices!
+	mas as previsões do
+	tempo da Cidade Saibher
+	parecem, tipo, avisos!
 	"""
 	keyWait
 		any = false
@@ -55,17 +55,17 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah. They control
-	all of Cyber City's
-	weather in Sky Town!
+	É. Eles controlam o
+	tempo e o clima da
+	cidade no Distrito Céu,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So the forecasts are
-	right 100 percent of
-	the time!
+	então as previsões
+	tão sempre certas,
+	100% das vezes!
 	"""
 	keyWait
 		any = false
@@ -78,16 +78,15 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wow,they can control
-	the weather!? That's
-	cool!
+	Caramba, eles controlam
+	o tempo?! Irado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know all sorts
-	of things,MegaMan!
+	Você sabe de tudo
+	mesmo, né, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -100,17 +99,16 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't know that
-	much. Besides,
-	Mr.Mach told us
+	Nem sei tanto assim.
+	Além disso, o Sr. Mach
+	ensinou isso na aula...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that in class...
-	Which means you were
-	sleeping again!!
+	Ou seja: você
+	dormiu de novo!!
 	"""
 	keyWait
 		any = false
@@ -127,9 +125,9 @@ script 5 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Um,he really told us
-	in class?... Are you
-	sure...? Ahaha...
+	Er, nossa, ele ensinou
+	mesmo? ... Certeza...?
+	Ah ha ha...
 	"""
 	keyWait
 		any = false
@@ -141,7 +139,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"L_a_n!!"
+	"Laaaan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -155,7 +153,7 @@ script 7 mmbn6 {
 	controlLock
 	callPETEffect
 		effect = 2
-	"*beep beep!*"
+	"Bip Bip!"
 	wait
 		frames = 62
 	callPETEffect
@@ -170,13 +168,14 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah! I got mail!"
+	"Ah! Chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,hurry up and
-	read it,OK,MegaMan!?
+	Vai, lê ele logo
+	aí, MegaMan!
+	Tem que ler, né?
 	"""
 	keyWait
 		any = false
@@ -190,44 +189,58 @@ script 9 mmbn6 {
 	msgOpen
 	"""
 	... Aaargh!!
-	Hopeless!!
+	Impossível, você!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,I'll read
-	the mail. It's about
-	round 2 of
+	Tá, eu leio o e-mail.
+	É sobre a segunda rodada
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Expo Pavilion
-	Operator Navi
-	Selection Test.
+	da Prova de Seleção
+	de Navi Operador do
+	Pavilhão.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Round 2 of the Expo\n Pavilion Operator\n Navi Selection Test"
+	"""
+	"A Segunda Rodada da
+	Prova de Seleção de
+	Navi Operador do
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" will take place in\n Sky Town."
+	"""
+	Pavilhão da Exposição
+	será realizada no
+	Distrito Céu.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Round 2 Selection\n Test participants"
+	"""
+	Participantes da
+	Segunda Rodada da
+	Prova de Seleção,
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" should gather there\n prior to the test.\""
+	"""
+	por favor, reúnam-se
+	lá antes da provação."
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's what it says!"
+	"Fim do e-mail!"
 	keyWait
 		any = false
 	clearMsg
@@ -238,22 +251,21 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,Sky Town!"
+	"Ah, Distrito Céu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Perfect timing! Just
-	what I wanted to
-	know more about!
+	Olha que coincidência!
+	Justo quando eu tava
+	querendo aprender mais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come on,MegaMan!
-	Let's go check it
-	out!
+	Simbora, MegaMan!
+	Vamos lá ver!
 	"""
 	keyWait
 		any = false
@@ -265,7 +277,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Alright!!"
+	"Certo!!"
 	keyWait
 		any = false
 	end

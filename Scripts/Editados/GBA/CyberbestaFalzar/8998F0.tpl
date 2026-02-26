@@ -4,55 +4,55 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	After that,we turned
-	Captain Blackbeard
-	in to the NetPolice.
+	Depois disso, a gente
+	entregou o Barba-Negra
+	pra NetPolícia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What he had said
-	about an
-	"organization"
+	Aquilo que ele falou
+	de uma "organização"
+	parecia bem suspeito,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sounded suspicious,
-	but we'll let the
-	NetPolice handle it.
+	mas a gente vai
+	deixar as autoridades
+	cuidarem disso.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"As for us,"
+	"Já aqui,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we helped clean up
-	the huge mess at
-	the Aquarium.
+	a gente ajudou a limpar
+	a bagunça colossal que
+	ficou no Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that
-	whole time...
+	E, durante todo
+	o processo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Plata..."
+	"O Plata..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He never left
-	Mick's side.
+	Ele nunca saiu
+	do lado do Mick.
 	"""
 	keyWait
 		any = false
@@ -63,70 +63,68 @@ script 1 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I really want to
-	thank you boys again
-	for everything.
+	Muito obrigado mesmo a
+	vocês por tudo, rapazes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure you know
-	by now,but...
+	Estou certo de que já
+	ficaram sabendo, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That Captain
-	Blackbeard fellow
+	aquele tal Capitão
+	Barba-Negra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	was once the animal
-	trainer for the show
-	here.
+	já trabalhou para
+	nós como o domador de
+	animais do nosso show.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But he wasn't
-	very good to
-	the animals...
+	Mas ele não era nada
+	gentil com as criaturas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Plata here probably
-	ran away because he
-	was afraid of him.
+	O Plata, inclusive,
+	provavelmente fugiu
+	por medo dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that's why
-	I fired him.
+	E foi por isso
+	que eu o demiti.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I never thought
-	that he would seek
-	revenge like this.
+	Mas nunca pensei
+	que ele tentaria
+	se vingar assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry I dragged
-	you boys into this
-	mess.
+	Desculpe por ter
+	envolvido vocês
+	dois nisso.
 	"""
 	keyWait
 		any = false
@@ -139,17 +137,16 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,no one was
-	badly hurt,so I'd
-	say it's OK now.
+	Bom, ninguém saiu
+	super ferido no final,
+	então, tá de boa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Alright,we
-	should get going
-	now.
+	... Beleza, melhor a
+	gente ir andando.
 	"""
 	keyWait
 		any = false
@@ -160,15 +157,15 @@ script 3 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	The boys are going
-	home now,Plata.
+	Os meninos vão pra
+	casa agora, Plata.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Be a good penguin
-	and let go of Mick!
+	Vamos, seja bonzinho
+	e solte o Mick!
 	"""
 	keyWait
 		any = false
@@ -179,7 +176,7 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squawk!!*"
+	"Quén!!"
 	keyWait
 		any = false
 	clearMsg
@@ -191,9 +188,8 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Uh... He's never
-	gonna let go,
-	is he...?
+	Er... Ele não vai
+	soltar, né...?
 	"""
 	keyWait
 		any = false
@@ -206,8 +202,7 @@ script 6 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	That's a bit of a
-	problem,isn't it...?
+	Hum. É um probleminha...
 	"""
 	keyWait
 		any = false
@@ -219,7 +214,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"... Hey,Lan."
+	"... Aí, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -230,7 +225,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?"
+	"Que foi?"
 	keyWait
 		any = false
 	clearMsg
@@ -241,7 +236,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Get ready to run."
+	"Prepara pra correr."
 	keyWait
 		any = false
 	clearMsg
@@ -252,7 +247,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wha_?"
+	"O qu..."
 	keyWait
 		any = false
 	end
@@ -261,21 +256,19 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"What the!?"
+	"Ah, não!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's Captain
-	Blackbeard over
-	there!
+	Olha ali!
+	É o Capitão Barba-Negra!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's escaped
-	already!!?
+	Ele fugiu?!!
 	"""
 	soundPlayBGM
 		track = 12
@@ -286,7 +279,7 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squawk!!?*"
+	"Quén?!!"
 	keyWait
 		any = false
 	end
@@ -294,7 +287,7 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squaaaaawk!!*"
+	"Quééééééén!!"
 	wait
 		frames = 60
 	end
@@ -307,7 +300,7 @@ script 14 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"What's going on?"
+	"Que foi?"
 	soundFadeOut
 		slot = 31
 		length = 20
@@ -318,7 +311,7 @@ script 14 mmbn6 {
 script 15 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squawk?*"
+	"Quén?"
 	keyWait
 		any = false
 	end
@@ -326,7 +319,7 @@ script 15 mmbn6 {
 script 16 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squawk? Squawk?*"
+	"Quén? Quén?"
 	keyWait
 		any = false
 	clearMsg
@@ -338,8 +331,8 @@ script 17 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	They've gone home,
-	Plata.
+	Eles foram pra
+	casa, Plata.
 	"""
 	keyWait
 		any = false
@@ -350,7 +343,7 @@ script 17 mmbn6 {
 script 18 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squaaaawk!?*"
+	"Quéééééén?!"
 	keyWait
 		any = false
 	clearMsg
@@ -366,15 +359,15 @@ script 19 mmbn6 {
 		delay = 3
 	mugshotHide
 	msgOpen
-	"*Squaawk! Squaawk!*"
+	"Quéén! Quéén!"
 	wait
 		frames = 30
 	clearMsg
-	"*Squaawk! Squaawk!*"
+	"Quéén! Quéén!"
 	wait
 		frames = 30
 	clearMsg
-	"*Squaawk! Squaawk!*"
+	"Quéén! Quéén!"
 	wait
 		frames = 30
 	waitHold

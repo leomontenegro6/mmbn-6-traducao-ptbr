@@ -15,30 +15,32 @@ script 1 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm a nature
-	scientist working
+	Sou um cientista
+	ambiental,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on breeding many
-	kinds of flowers.
+	e pesquiso a reprodução
+	de diversos tipos de
+	flores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why? I want to
-	improve a flower's
-	scent until it
+	"Por quê?" Porque quero
+	aprimorar o aroma de
+	determinada flor
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	makes people's souls
-	warm with delight.
+	até ela deixar as almas
+	das pessoas quentinhas
+	de tanto agrado.
 	"""
 	keyWait
 		any = false
@@ -59,17 +61,17 @@ script 2 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	How about some
-	flowers grown in
-	Green Town?
+	Que tal comprar umas
+	flores criadas no
+	Distrito Verde?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Enjoy not only
-	their beauty,but
-	also their scent!
+	Aprecie não só a
+	beleza delas, como
+	também seu aroma!
 	"""
 	keyWait
 		any = false
@@ -81,21 +83,20 @@ script 3 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Just take a
-	deep breath...
-	*Ahhhhh...*
+	Inspira bem fundo...
+	Ahhhhh...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Nice huh?"
+	"Gostoso, né?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The air in Green
-	Town has a smell
-	second to none!!
+	O ar do Distrito
+	Verde tem um aroma
+	incomparável!!
 	"""
 	keyWait
 		any = false
@@ -106,9 +107,9 @@ script 4 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I hear some sort of
-	special lecture
-	is going to start...
+	Ouvi dizer que logo vão
+	fazer algum tipo de
+	palestra especial aqui...
 	"""
 	keyWait
 		any = false
@@ -119,16 +120,16 @@ script 10 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	The wood used in
-	this flooring is
-	really first_class!
+	A madeira usada
+	neste piso realmente
+	é de primeira!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's got an amazing
-	smell too!
+	E, ainda por cima,
+	cheira tão bem!
 	"""
 	keyWait
 		any = false
@@ -139,24 +140,24 @@ script 11 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	That tree over
-	there is a cedar...
+	Aquela árvore ali
+	é um cedro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Through breeding,
-	we made it pollen
-	free!
+	Através da reprodução
+	seletiva, fizemos ela
+	não soltar pólem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're working toward
-	a day when hayfever
-	is gone forever!
+	Estamos nos empenhando
+	para, um dia, acabar com
+	alergias para sempre!
 	"""
 	keyWait
 		any = false
@@ -167,17 +168,16 @@ script 12 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	We've just gotten
-	a new batch of
-	flowers!
+	Acabamos de receber uma
+	nova leva de flores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They make a perfect
-	gift or decoration!
-	Would you like one?
+	Dão um presente
+	perfeito! Ou decoração!
+	E aí, vai levar uma?
 	"""
 	keyWait
 		any = false
@@ -188,24 +188,16 @@ script 13 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	This is the
-	courthouse where
-	all of Cyber City's
+	Este é o tribunal no qual
+	todos os casos da Cidade
+	Saibher são julgados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	court cases are
-	tried.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	That means there
-	are a lot cases
-	every single day.
+	Logo, tem muitos casos
+	aqui todos os dias.
 	"""
 	keyWait
 		any = false
@@ -216,16 +208,14 @@ script 16 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Something happened
-	at the courthouse...
+	Aconteceu alguma coisa
+	no tribunal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if
-	everything's
-	alright...
+	Será que tá tudo bem...?
 	"""
 	keyWait
 		any = false
@@ -236,16 +226,16 @@ script 17 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	What... WHAT?
-	The JudgeTree has
-	gone crazy!?
+	O quê...? O QUÊ?
+	A Árvore Juíza
+	enlouqueceu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will you quit
-	playing around...
+	O-ora, vamos, essa
+	piada é de mau gosto...
 	"""
 	keyWait
 		any = false
@@ -256,9 +246,8 @@ script 18 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	This is no time
-	for me to be
-	selling flowers...
+	Não é hora de ficar
+	vendendo flores...
 	"""
 	keyWait
 		any = false
@@ -269,8 +258,8 @@ script 19 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	What happened?
-	I'm scared...
+	O que aconteceu?
+	Que medo...
 	"""
 	keyWait
 		any = false

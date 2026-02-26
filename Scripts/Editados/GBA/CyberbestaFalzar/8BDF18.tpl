@@ -6,20 +6,20 @@ script 0 mmbn6 {
 		mugshot = CircusMan
 	msgOpen
 	"""
-	Hey,ho,it's MegaMan!
-	I won't let you get
-	in Yuika's way!
+	Upa, opa, é o MegaMan!
+	Não vou te deixar
+	atrapalhar a Yuika!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ahoo,hoo,hoo!!"
+	"Ahu hu hu huuu!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get ready to be
-	deleted!
+	Prepara pra
+	ser deletado!
 	"""
 	keyWait
 		any = false
@@ -43,13 +43,13 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We can't let them
-	get away with this!
+	A gente não pode deixar
+	eles se safarem!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
@@ -60,7 +60,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -71,7 +71,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"Ahoo,hoo,hoo!!"
+	"Ahu hu hu huuu!!"
 	keyWait
 		any = false
 	end

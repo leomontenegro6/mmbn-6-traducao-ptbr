@@ -7,7 +7,7 @@ script 0 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 3
-	"Prosecutor Ito..."
+	"Promotor Ito..."
 	textSpeed
 		delay = 2
 	keyWait
@@ -18,22 +18,22 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	msgOpen
-	"... Ah,Lan!"
+	"... Ah, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you find some_
-	thing to support
-	your Dad's alibi?
+	Encontrou alguma
+	coisa que embase
+	o álibi do seu pai?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you didn't,it
-	may turn pretty bad
-	for him soon.
+	Se não tiver, as coisas
+	vão ficar bem feias para
+	ele já, já...
 	"""
 	keyWait
 		any = false
@@ -45,14 +45,13 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I've found some..."
+	"Eu achei, sim..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a recording
-	of the real
-	culprit...
+	Uma filmagem do
+	verdadeiro culpado...
 	"""
 	keyWait
 		any = false
@@ -76,8 +75,7 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... What's wrong,
-	Mr.Prosecutor?
+	... Sr. Promotor?
 	"""
 	keyWait
 		any = false
@@ -90,8 +88,8 @@ script 5 mmbn6 {
 	textSpeed
 		delay = 3
 	"""
-	... I see.
-	I've been unmasked.
+	... Entendo.
+	Então, fui desmascardo.
 	"""
 	keyWait
 		any = false
@@ -105,7 +103,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"So,you really did..."
+	"Então você realmente..."
 	keyWait
 		any = false
 	clearMsg
@@ -116,52 +114,50 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	msgOpen
-	"... Yes."
+	"... Sim."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The story about
-	your Dad hacking was
-	a lie... But you
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	didn't fall for it,
-	not even the trap in
-	the security camera.
+	As atividades de
+	hacker do seu pai
+	eram uma mentira...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And come to think
-	of it,why did the
-	Punishment Robots
+	mas você não caiu
+	nela nem na armadilha
+	na câmera de segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	suddenly stop that
-	time?
+	Aliás, parando para
+	pensar, por que os Robôs
+	de Punição pararam de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've underestimated
-	you...
+	repente?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Or was it that my
-	traps were too
-	easy...?
+	Eu te subestimei...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ou foram as minhas
+	armadilhas que foram
+	fracas demais...?
 	"""
 	keyWait
 		any = false
@@ -174,19 +170,19 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So all this time,
-	it was you...
+	Então, esse tempo
+	todo, era você...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Prosecutor Ito,"
+	"... Promotor Ito,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	why did you frame
-	my Dad!?
+	por que você incriminou
+	o meu pai?!
 	"""
 	keyWait
 		any = false
@@ -199,8 +195,8 @@ script 9 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	Because I have my
-	orders......
+	Porque eu tenho
+	minhas ordens...
 	"""
 	keyWait
 		any = false
@@ -211,33 +207,32 @@ script 10 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	People in high
-	places make easy
-	targets.
+	Pessoas em posições
+	altas são alvos fáceis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The same with your
-	Navi... Your Navi's
-	skills,your Dad and
+	O mesmo vale para o seu
+	Navi... As habilidades
+	dele e o conhecimento do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	his brains __ you
-	stand to lose a lot
-	when you have a lot.
+	seu pai. Quanto mais
+	coisas se tem, mais
+	se tem a perder.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you're going to
-	lose it all to "us",
-	the "organization".
+	E você vai perder
+	todas elas para
+	nós... a organização.
 	"""
 	soundPlayBGM
 		track = 2
@@ -252,8 +247,8 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The "organization"!?
-	You can't...!
+	Organização?!
+	Tá dizendo que...!
 	"""
 	keyWait
 		any = false
@@ -266,9 +261,9 @@ script 12 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	Yes,the organization
-	that has caused you
-	so much trouble.
+	Sim, a organização
+	que já lhe causou
+	tanta dor de cabeça.
 	"""
 	keyWait
 		any = false
@@ -280,14 +275,14 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"N_No..."
+	"N-não..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then why did you
-	sentence Captain
-	Blackbeard...?
+	Mas, então, por que
+	você sentenciou o
+	Capitão Barba-Negra...?
 	"""
 	keyWait
 		any = false
@@ -300,25 +295,23 @@ script 14 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	Ah,that was because
-	he failed in
-	his mission.
+	Ah, porque ele
+	falhou na missão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Failure is not
-	tolerated in our
-	organization.
+	A nossa organização
+	não tolera fracassos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyone who fails,is
-	removed. That is
-	our rule.
+	Todos que falham
+	são removidos.
+	Essa é a nossa lei.
 	"""
 	keyWait
 		any = false
@@ -330,7 +323,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Then,you really..."
+	"Então você..."
 	keyWait
 		any = false
 	clearMsg
@@ -341,64 +334,65 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	msgOpen
-	"... Yes,"
+	"... Sim,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my role in the
-	organization is to
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"\"remove nuisances\n to us in a lawful\n way\"."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	That's why I can not
-	take back your Dad's
-	sentence!
+	o meu papel na
+	organização é...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I think our chat
-	is over.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"... Do it,JudgeTree!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If we do this,we
-	won't have to hide
-	anymore!
+	"remover empecilhos
+	para nós formalmente,
+	dentro da lei."
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pronounce that every
-	person in Cyber City
-	is guilty,
+	E é por isso que não
+	posso deixar você anular
+	a sentença do seu pai!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and then convict this
-	troublesome boy as
+	... Acho que esta
+	conversa acabou.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"a felon!"
+	"... Agora, Árvore Juíza!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se fizermos isto,
+	não precisaremos mais
+	nos esconder!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Declare todos os
+	habitantes da Cidade
+	Saibher culpados
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e condene esse fedelho
+	encrenqueiro como
+	criminoso!
+	"""
 	soundPlayBGM
 		track = 99
 	keyWait
@@ -416,12 +410,12 @@ script 17 mmbn6 {
 		frames = 10
 	soundPlay
 		track = 416
-	"*crack! "
+	"Tloc! "
 	wait
 		frames = 32
 	soundPlay
 		track = 416
-	"crack!*"
+	"Tloc!"
 	wait
 		frames = 32
 	waitOWVar
@@ -437,8 +431,8 @@ script 18 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	I WILL NOW PASS
-	JUDGMENT.
+	... IREI AGORA
+	APLICAR JULGAMENTO.
 	"""
 	keyWait
 		any = false
@@ -453,9 +447,8 @@ script 18 mmbn6 {
 	wait
 		frames = 20
 	"""
-	 I PRONOUNCE
-	EVERYONE,
-	GUILTY!
+	 DECLARO TODOS
+	CULPADOS!
 	"""
 	soundPlayBGM
 		track = 12
@@ -468,20 +461,20 @@ script 19 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it's too
-	dangerous! You'll
-	get zapped!!
+	Lan, é perigoso demais
+	aqui! Você vai ser
+	eletrocutado!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"For now,I think..."
+	"Por enquanto..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we'd better get
-	outta here!
+	é melhor a gente
+	dar o fora!
 	"""
 	keyWait
 		any = false
@@ -493,7 +486,7 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yipes! You're right!"
+	"Credo! Cê tem razão!"
 	keyWait
 		any = false
 	end

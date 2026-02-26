@@ -6,8 +6,7 @@ script 0 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	It feels kinda
-	safe here...
+	Parece meio seguro aqui...
 	"""
 	keyWait
 		any = false
@@ -18,16 +17,14 @@ script 1 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	This kid with the
-	big forehead brought
-	me here...
+	Aquela menina da testa
+	gigante me trouxe aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She really helped
-	me out.
+	Ela realmente me salvou.
 	"""
 	keyWait
 		any = false
@@ -38,9 +35,9 @@ script 2 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Why is that Navi
-	just wandering
-	around?
+	Por que aquele
+	Navi tá zanzando
+	pra lá e pra cá?
 	"""
 	keyWait
 		any = false

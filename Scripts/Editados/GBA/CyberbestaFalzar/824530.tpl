@@ -2,143 +2,143 @@
 @size 48
 
 script 0 mmbn6s {
-	"Virus Deletion"
+	"Deleção vírus  "
 	end
 }
 script 1 mmbn6s {
-	"Find Keepsake  "
+	"Ache recordação"
 	end
 }
 script 2 mmbn6s {
-	"Errand Request "
+	"Pedido favor   "
 	end
 }
 script 3 mmbn6s {
-	"For Victory!   "
+	"Até vencer!    "
 	end
 }
 script 4 mmbn6s {
-	"Somebody Help! "
+	"Alguém, ajuda! "
 	end
 }
 script 5 mmbn6s {
-	"Get The Chip!  "
+	"Pega o chip!   "
 	end
 }
 script 6 mmbn6s {
-	"Stock Up!      "
+	"Reabastecer!   "
 	end
 }
 script 7 mmbn6s {
-	"StandIn Recruit"
+	"Recruta Dublê  "
 	end
 }
 script 8 mmbn6s {
-	"Daughter Worry"
+	"Filha preocupd."
 	end
 }
 script 9 mmbn6s {
-	"Stop Him!      "
+	"Impeça-o!      "
 	end
 }
 script 10 mmbn6s {
-	"Loan Collection"
+	"Empréstimo     "
 	end
 }
 script 11 mmbn6s {
-	"Lumber Merchant"
+	"Mercador lenha "
 	end
 }
 script 12 mmbn6s {
-	"TimeCpsl       "
+	"Cápsl. do tempo"
 	end
 }
 script 13 mmbn6s {
-	"Got A Problem. "
+	"Tô com problema"
 	end
 }
 script 14 mmbn6s {
-	"Songwriter     "
+	"Compositor     "
 	end
 }
 script 15 mmbn6s {
-	"Buy Whch Stock?"
+	"Q ação comprar?"
 	end
 }
 script 16 mmbn6s {
-	"Can't Open Safe"
+	"Cofre não abre "
 	end
 }
 script 17 mmbn6s {
-	"Do Something!  "
+	"Faz algma coisa"
 	end
 }
 script 18 mmbn6s {
-	"Want Meet Dghtr"
+	"Quero ver filha"
 	end
 }
 script 19 mmbn6s {
-	"Not Engh Member"
+	"Faltam membros "
 	end
 }
 script 20 mmbn6s {
-	"Track The Crmnl"
+	"Ache criminoso"
 	end
 }
 script 21 mmbn6s {
-	"Where's My Navi"
+	"Cadê o meu Navi"
 	end
 }
 script 22 mmbn6s {
-	"One More Time. "
+	"Mais uma vez   "
 	end
 }
 script 23 mmbn6s {
-	"SupportChip Pls"
+	"ChipApoio pfv  "
 	end
 }
 script 24 mmbn6s {
-	"Negotiate!     "
+	"Negociar!      "
 	end
 }
 script 25 mmbn6s {
-	"JuvenileDiv    "
+	"DivisãoJuvenil "
 	end
 }
 script 26 mmbn6s {
-	"Get The Bad Guy"
+	"Pegue o bandido"
 	end
 }
 script 27 mmbn6s {
-	"Find The Virus!"
+	"Ache o vírus   "
 	end
 }
 script 28 mmbn6s {
-	"PenguinsRanAway"
+	"Pnguins em fuga"
 	end
 }
 script 29 mmbn6s {
-	"Update Help    "
+	"Ajuda atualizç."
 	end
 }
 script 30 mmbn6s {
-	"DietGoods Money"
+	"Dinheiro diet  "
 	end
 }
 script 31 mmbn6s {
-	"Self Research  "
+	"Psquisa pessoal"
 	end
 }
 script 32 mmbn6s {
-	"OfficialRequest"
+	"Pedido Oficial "
 	end
 }
 script 33 mmbn6s {
-	"An Experiment!"
+	"Experimento!   "
 	end
 }
 script 34 mmbn6s {
-	"RoadToSoulBtlr!"
+	"Caminho da luta"
 	end
 }
 script 35 mmbn6s {

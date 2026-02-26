@@ -16,31 +16,30 @@ script 0 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Hey,Lan!
-	Thanks for the other
-	day!
+	Oi, Lan!
+	Obrigado pelo outro dia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The JudgeTree is
-	back to normal!
+	A Árvore Juíza
+	voltou ao normal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But right now,it's a
-	little inconvenient,
+	Mas, agora, tá tudo
+	meio inconveniente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	since it's been shut
-	down so it can be
-	checked for errors.
+	já que ela foi
+	desligada para
+	escanearem erros.
 	"""
 	keyWait
 		any = false
@@ -51,32 +50,32 @@ script 5 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	... What!?... That
-	happened in the
-	Undernet...!?
+	... O quê?!
+	... Isso aconteceu
+	na Undernet...?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you know,even
-	with all its power,
-	the JudgeTree
+	Sabe, mesmo com todo
+	o poder que ela tem,
+	a Árvore Juíza não pode
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can't do anything
-	about what happened
-	in the Undernet.
+	fazer nada a respeito
+	do que aconteceu na
+	Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry we can't
-	be of help...
+	Sinto muito não
+	podermos ajudar...
 	"""
 	keyWait
 		any = false
@@ -87,17 +86,16 @@ script 10 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	What is with the
-	strange weather
-	outside?
+	O que há com esse
+	clima estranho?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are the people
-	up in Sky Town
-	doing!?
+	O que os encarregados
+	no Distrito Céu estão
+	fazendo?!
 	"""
 	keyWait
 		any = false
@@ -108,14 +106,14 @@ script 40 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Starting today,I'll
-	be taking charge of
-	my own lawsuit.
+	A partir de hoje, vou
+	ficar encarregado do
+	meu próprio processo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I won't lose!"
+	"E eu não vou perder!"
 	keyWait
 		any = false
 	end
@@ -124,26 +122,26 @@ script 45 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"... *sigh*"
+	"... Arf..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,the court
-	date for my suit was
-	yesterday...
+	Na verdade, a data do
+	julgamento do meu
+	processo era hoje...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I lost because I
-	didn't show up...
+	E eu perdi porque
+	não apareci...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... How sad..."
+	"... Triste..."
 	keyWait
 		any = false
 	end

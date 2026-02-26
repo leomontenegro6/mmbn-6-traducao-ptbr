@@ -14,9 +14,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Do you want to use
-	a cable or Wireless
-	Adapter?
+	Quer usar um cabo ou
+	um Adaptador Wireless?
 	"""
 	waitHold
 }
@@ -27,8 +26,8 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'll save first,
-	okay?
+	Primeiro, vou salvar
+	o jogo, certo?
 	
 	"""
 	positionOptionHorizontal
@@ -41,7 +40,7 @@ script 1 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -50,7 +49,7 @@ script 1 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -70,8 +69,8 @@ script 2 mmbn6 {
 		jumpIfFalse = 3
 	clearMsg
 	"""
-	OK to erase
-	old save data?
+	Apagar antigos
+	dados?
 	
 	"""
 	positionOptionHorizontal
@@ -84,7 +83,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -93,7 +92,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -113,13 +112,13 @@ script 3 mmbn6 {
 		jumpUnused = 0
 	clearMsg
 	"""
-	Looks like I failed
-	to save the data.
+	Parece que não consegui
+	salvar os dados.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll try again. OK?\n"
+	"Vou tentar de novo. OK?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -130,7 +129,7 @@ script 3 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -139,7 +138,7 @@ script 3 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -155,8 +154,7 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	clearMsg
 	"""
-	Okay! I made
-	the save!
+	OK! Salvamento concluído!
 	"""
 	keyWait
 		any = false
@@ -170,8 +168,8 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You can't pick this
-	mode yet!
+	Não pode escolher esse
+	modo por enquanto!
 	"""
 	waitHold
 }
@@ -182,7 +180,7 @@ script 6 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Let's NetBattle!"
+	"Vamos NetLutar!"
 	waitHold
 }
 script 7 mmbn6 {
@@ -192,7 +190,7 @@ script 7 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Let's compare!"
+	"Vamos comparar!"
 	waitHold
 }
 script 8 mmbn6 {
@@ -202,7 +200,7 @@ script 8 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Let's trade!"
+	"Vamos trocar!"
 	waitHold
 }
 script 9 mmbn6 {
@@ -213,9 +211,8 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Victory or defeat
-	will be decided
-	by a single battle.
+	A vitória é decidida
+	em uma única luta.
 	"""
 	waitHold
 }
@@ -227,9 +224,8 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Whoever wins
-	two out of three
-	will be the champ!
+	A vitória é decidida
+	em uma melhor de três!
 	"""
 	waitHold
 }
@@ -241,9 +237,9 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Use a randomly made
-	folder and learn to
-	master every chip!
+	Use uma pasta aleatória
+	e aprenda a dominar
+	todos os chips!
 	"""
 	waitHold
 }
@@ -255,9 +251,9 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Compare Data Library
-	files and trade data
-	with each other.
+	Compare Coleções de
+	Chips e troque dados
+	com os amigos.
 	"""
 	waitHold
 }
@@ -269,9 +265,9 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lets you compare
-	top deletion times
-	with your friends.
+	Compare seus melhores
+	tempos de deleção com
+	os seus amigos.
 	"""
 	waitHold
 }
@@ -283,8 +279,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lets you trade
-	BattleChips.
+	Troque BattleChips.
 	"""
 	waitHold
 }
@@ -296,8 +291,8 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lets you trade
-	NaviCust Programs.
+	Troque Programas
+	de CustNavi.
 	"""
 	waitHold
 }
@@ -309,9 +304,8 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You can trade
-	folders with your
-	buddy!
+	Troque pastas
+	com um amigo!
 	"""
 	waitHold
 }
@@ -323,8 +317,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's a practice
-	battle!
+	Uma luta de treino!
 	"""
 	waitHold
 }
@@ -336,46 +329,46 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You will forfeit a
-	chip from your
-	Pack if you lose.
+	Se perder, você
+	cede um chip da
+	sua Mochila.
 	"""
 	waitHold
 }
 script 19 mmbn6s {
-	"NetBattle"
+	"NetLuta"
 	end
 }
 script 20 mmbn6s {
-	"Compare"
+	"Comparar"
 	end
 }
 script 21 mmbn6s {
-	"Trade"
+	"Trocar"
 	end
 }
 script 22 mmbn6s {
-	"SnglBattl"
+	"LutaÚnica"
 	end
 }
 script 23 mmbn6s {
-	"TrplBattl"
+	"LutaTrpla"
 	end
 }
 script 24 mmbn6s {
-	"RandBattl"
+	"LutaAleat"
 	end
 }
 script 25 mmbn6s {
-	"Practice"
+	"Treino"
 	end
 }
 script 26 mmbn6s {
-	"Battle"
+	"Luta"
 	end
 }
 script 27 mmbn6s {
-	"CompLibry"
+	"CompColeç"
 	end
 }
 script 28 mmbn6s {
@@ -387,15 +380,15 @@ script 29 mmbn6s {
 	end
 }
 script 30 mmbn6s {
-	"Program"
+	"Programa"
 	end
 }
 script 31 mmbn6s {
-	"Folder"
+	"Pasta"
 	end
 }
 script 32 mmbn6s {
-	"NetBattle Results"
+	"Resultados"
 	end
 }
 script 33 mmbn6s {
@@ -405,13 +398,13 @@ script 33 mmbn6s {
 		minLength = 3
 		padZeros = false
 		padLeft = true
-	"B"
+	"L"
 	printBuffer
 		buffer = 1
 		minLength = 3
 		padZeros = false
 		padLeft = true
-	"W"
+	"V"
 	end
 }
 script 35 mmbn6 {
@@ -422,9 +415,9 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Your friend
-	isn't ready!
-	Hold on...
+	Seu amigo ainda não
+	está pronto! Só um
+	instante...
 	"""
 	waitHold
 }
@@ -436,8 +429,8 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	There seems to be a
-	communication error.
+	Parece ter havido um
+	erro de comuniucação.
 	"""
 	keyWait
 		any = false
@@ -451,8 +444,8 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Your friend is using
-	a different mode.
+	O seu amigo selecionou
+	um modo diferente.
 	"""
 	keyWait
 		any = false
@@ -466,9 +459,8 @@ script 38 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You have no chips
-	other than GigaChips
-	in your Pack!
+	A sua Mochila
+	só tem GigaChips!
 	"""
 	keyWait
 		any = false
@@ -482,17 +474,17 @@ script 39 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	The BeastLink Gate
-	doesn't seem to be
-	connected...
+	O BeastLink Gate
+	não parece estar
+	conectado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Check the BeastLink
-	Gate connection and
-	reset the system.
+	Confira a conexão
+	do BeastLink Gate
+	e reinicie o sistema.
 	"""
 	keyWait
 		any = false
@@ -505,7 +497,7 @@ script 40 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Begin connection?\n"
+	"Iniciar conexão?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -516,7 +508,7 @@ script 40 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -525,7 +517,7 @@ script 40 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -546,9 +538,8 @@ script 41 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It seems like your
-	friend stopped the
-	connection...
+	Parece que o seu amigo
+	abortou a conexão...
 	"""
 	keyWait
 		any = false
@@ -562,8 +553,7 @@ script 42 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Connection
-	cancelled.
+	Conexão cancelada.
 	"""
 	keyWait
 		any = false
@@ -576,7 +566,7 @@ script 43 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Wait a second..."
+	"Só um instante..."
 	waitHold
 }
 script 44 mmbn6 {
@@ -586,7 +576,7 @@ script 44 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Communication error."
+	"Erro de comunicação."
 	keyWait
 		any = false
 	waitHold
@@ -599,8 +589,8 @@ script 46 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Begin connection
-	with "
+	Iniciar conexão com
+	"
 	"""
 	printLinkBuffer
 		buffer = 26
@@ -615,7 +605,7 @@ script 46 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -624,7 +614,7 @@ script 46 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -645,23 +635,23 @@ script 47 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Communication error.
-	Disconnected.
+	Erro de comunicação.
+	Desconectado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't put anything
-	between the Wireless
-	Adapters.
+	Não deixe nada entre
+	os dois Adaptadores
+	Wireless.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Move the GBAs closer
-	together.
+	Aproxime mais
+	os dois GBAs.
 	"""
 	keyWait
 		any = false
@@ -671,19 +661,19 @@ script 48 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Communication error."
+	"Erro de comunicação."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Check the Wireless
-	Adapter and reset
-	the GBA.
+	Confira o Adaptador
+	Wireless e reinicie
+	o GBA.
 	"""
 	waitHold
 }
 script 49 mmbn6s {
-	"None"
+	"Nada"
 	end
 }
 script 50 mmbn6 {
@@ -694,7 +684,7 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	controlLock
-	"Comparing libraries!"
+	"Comparando coleções!"
 	controlUnlock
 	waitHold
 }
@@ -706,8 +696,8 @@ script 51 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	There is new data
-	in the Data Library!
+	Nenhum dado novo na
+	Coleção de Chips!
 	"""
 	keyWait
 		any = false
@@ -721,8 +711,8 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	There isn't any new
-	data in the library.
+	Nenhum dado novo
+	na coleção.
 	"""
 	keyWait
 		any = false
@@ -736,7 +726,7 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	controlLock
-	"Comparing records!"
+	"Comparando recordes!"
 	controlUnlock
 	waitHold
 }
@@ -747,7 +737,7 @@ script 54 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Records updated!"
+	"Recordes atualizados!"
 	keyWait
 		any = false
 	waitHold
@@ -760,8 +750,8 @@ script 55 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Records not
-	updated...
+	Recordes não
+	atualizados...
 	"""
 	keyWait
 		any = false
@@ -771,7 +761,7 @@ script 60 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Both chose \"None.\""
+	"Ambos escolheram \"Nada\"."
 	keyWait
 		any = false
 	waitHold
@@ -780,7 +770,7 @@ script 61 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Trade completed."
+	"Troca concluída."
 	keyWait
 		any = false
 	waitHold
@@ -790,9 +780,9 @@ script 62 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	This folder had
-	untradable chips.
-	Trade cancelled.
+	Pasta contém chips
+	não-trocáveis.
+	Troca cancelada.
 	"""
 	keyWait
 		any = false
@@ -803,9 +793,9 @@ script 63 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	This folder can't be
-	equipped.
-	Trade cancelled.
+	Pasta não pode
+	ser equipada.
+	Troca cancelada.
 	"""
 	keyWait
 		any = false
@@ -815,7 +805,7 @@ script 64 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Communication error."
+	"Erro de comunicação."
 	keyWait
 		any = false
 	waitHold
@@ -824,7 +814,7 @@ script 65 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Please wait..."
+	"Aguarde..."
 	waitHold
 }
 script 66 mmbn6 {
@@ -832,9 +822,9 @@ script 66 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Your partner could
-	not get this folder.
-	Trade cancelled.
+	Seu amigo não pôde
+	receber a pasta.
+	Troca cancelada.
 	"""
 	keyWait
 		any = false
@@ -854,8 +844,8 @@ script 80 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Great job,
-	Lan! We won!
+	Mandou muito,
+	Lan! Vencemos!
 	"""
 	keyWait
 		any = false
@@ -869,8 +859,8 @@ script 81 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Too bad,Lan!
-	We lost!
+	Que pena, Lan!
+	A gente perdeu!
 	"""
 	keyWait
 		any = false
@@ -884,9 +874,9 @@ script 82 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	That was close!
-	A tie! Let's win
-	next time!
+	Que luta acirrada!
+	Empatou! Na próxima,
+	a gente vence!
 	"""
 	keyWait
 		any = false
@@ -900,9 +890,9 @@ script 83 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	The battle was
-	interrupted due
-	to connection error.
+	A luta foi
+	interrompida devido
+	a um erro de conexão.
 	"""
 	keyWait
 		any = false
@@ -916,8 +906,8 @@ script 90 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Use a Game Link
-	cable and connect!
+	Use um Cabo Game Link
+	e conecte-se!
 	"""
 	waitHold
 }
@@ -929,8 +919,8 @@ script 91 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Use a Wireless
-	Adapter and connect!
+	Use um Adaptador
+	Wireless e conecte-se!
 	"""
 	waitHold
 }
@@ -941,7 +931,7 @@ script 92 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Changing name!"
+	"Trocando de nome!"
 	waitHold
 }
 script 93 mmbn6 {
@@ -952,9 +942,9 @@ script 93 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Select Host or
-	Client by pressing
-	Left or Right.
+	Selecione Hospedar
+	ou Cliente apertando
+	para os lados.
 	"""
 	waitHold
 }
@@ -966,17 +956,17 @@ script 94 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Wireless Adapter
-	initialization
-	failed.
+	Inicialização do
+	Adaptor Wireless
+	mal-sucedida.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please turn off the
-	GBA and insert the
-	Wireless Adapter.
+	Por favor, desligue
+	o GBA e insira o
+	Adaptador Wireless.
 	"""
 	keyWait
 		any = false
@@ -990,8 +980,8 @@ script 95 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Use a Game Link
-	cable and connect!
+	Use um Cabo Game Link
+	e conecte-se!
 	"""
 	waitHold
 }
@@ -1003,21 +993,21 @@ script 96 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Use a Wireless
-	Adapter and connect!
+	Use um Adaptador
+	Wireless e conecte-se!
 	"""
 	waitHold
 }
 script 100 mmbn6s {
-	"Rank 1"
+	"Ranque 1"
 	end
 }
 script 101 mmbn6s {
-	"Rank 2"
+	"Ranque 2"
 	end
 }
 script 102 mmbn6s {
-	"Rank 3"
+	"Ranque 3"
 	end
 }
 script 103 mmbn6 {
@@ -1028,8 +1018,8 @@ script 103 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	The ranks are
-	different!
+	Os ranques são
+	diferentes!
 	"""
 	keyWait
 		any = false
@@ -1042,7 +1032,7 @@ script 104 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Choose a rank!"
+	"Escolha um ranque!"
 	keyWait
 		any = false
 	waitHold
@@ -1055,8 +1045,8 @@ script 105 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Waiting for your
-	opponent...
+	Aguardando seu
+	oponente...
 	"""
 	waitHold
 }
@@ -1068,9 +1058,9 @@ script 107 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Easy to use chips
-	will be randomly
-	selected.
+	Chips fáceis de usar
+	serão selecionados
+	aleatoriamente.
 	"""
 	waitHold
 }
@@ -1082,9 +1072,9 @@ script 108 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	High_grade chips
-	will be randomly
-	selected.
+	Chips de alto nível
+	serão selecionados
+	aleatoriamente.
 	"""
 	waitHold
 }
@@ -1096,9 +1086,9 @@ script 109 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	True skill means
-	you can use any
-	random chip.
+	Habilidade genuína:
+	consegue usar qualquer
+	chip aleatório.
 	"""
 	waitHold
 }

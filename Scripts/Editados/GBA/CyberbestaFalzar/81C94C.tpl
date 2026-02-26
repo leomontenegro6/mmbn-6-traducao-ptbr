@@ -19,8 +19,9 @@ script 0 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	Hey Lan!!
-	Welcome to AsterLand!!
+	Oi, Lan!!
+	Bem-vindo ao
+	Mundo Aster!
 	"""
 	keyWait
 		any = false
@@ -35,52 +36,54 @@ script 1 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	Hey Lan!!
-	Welcome to AsterLand!!
+	Oi, Lan!!
+	Bem-vindo ao
+	Mundo Aster!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've started a new
-	ordering service!
+	A gente instalou
+	um novo serviço
+	de encomenda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So that means that
-	we are now taking
-	orders!!
+	E com isso eu quero
+	dizer que a GENTE tá
+	fazendo encomendas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If there is some
-	special chip you
+	Se tiver um chip
+	especial que você
+	quer muito mesmo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	have to get,just
-	tell me the name
+	é só me dar o nome
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and I can order it
-	through our special
-	secret supply chain!
+	que eu encomendo
+	do nosso fornecedor
+	secreto especial!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,what can I do
-	for you today?
+	E aí, como eu posso
+	te ajudar hoje?
 	"""
 	keyWait
 		any = false
@@ -98,7 +101,7 @@ script 1 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" In_Stock Chips\n"
+	" Chips da loja\n"
 	positionOptionVertical
 		width = 8
 	option
@@ -109,7 +112,7 @@ script 1 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Order Service\n"
+	" Encomendar\n"
 	positionOptionVertical
 		width = 8
 	option
@@ -120,7 +123,7 @@ script 1 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Quit"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -138,15 +141,16 @@ script 2 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	Hey Lan!!
-	Welcome to AsterLand!!
+	Oi, Lan!!
+	Bem-vindo ao
+	Mundo Aster!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What can I do for you
-	today?
+	Como eu posso
+	te ajudar hoje?
 	"""
 	keyWait
 		any = false
@@ -164,7 +168,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" In_Stock Chips\n"
+	" Chips da loja\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -175,7 +179,7 @@ script 2 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Order Service\n"
+	" Encomendar\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -186,7 +190,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Quit"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -206,8 +210,8 @@ script 3 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	Unfortunately,we are
-	sold out...
+	Desculpa, mas tá
+	tudo esgotado...
 	"""
 	keyWait
 		any = false
@@ -231,7 +235,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Come back soon!!"
+	"Volte sempre!!"
 	keyWait
 		any = false
 	end
@@ -241,14 +245,14 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You,you came here to
-	buy chips?
-	Weird penguin...
+	V-você veio aqui
+	comprar chips? Que
+	pinguim mais estranho...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Penguin capture!"
+	"Pinguim capturado!"
 	keyWait
 		any = false
 	flagSet
@@ -277,16 +281,15 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	We've got all
-	the penguins now!
+	Pronto, pegamos
+	todos os pinguins!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright! Let's get
-	back to the
-	requestor!!
+	Beleza! Bora voltar
+	lá pro solicitante!!
 	"""
 	keyWait
 		any = false
@@ -300,9 +303,9 @@ script 15 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	I'm a chip seller!
-	Right now,all I can
-	do is sell chips!
+	Eu sou um vendedor de
+	chips! No momento, só
+	tenho chips pra vender!
 	"""
 	keyWait
 		any = false
@@ -325,16 +328,16 @@ script 20 mmbn6 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Welcome to the
-	Famous Chip Shop!
+	Bem-vindo à Loja
+	Famosa de Chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We sell chips that
-	are great for versus
-	NetBattles!
+	Vendemos chips feitos
+	sob medida para
+	NetLutas "versus"!
 	"""
 	keyWait
 		any = false
@@ -346,17 +349,17 @@ script 20 mmbn6 {
 script 21 mmbn6 {
 	clearMsg
 	"""
-	For versus battles,a
-	surprising chip can
-	decide a battle!
+	Em lutas "versus",
+	um chip inesperado
+	pode ser decisivo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come by and look at
-	chips whenever you'd
-	like!
+	Venha conferir os
+	nossos chips quando
+	tiver vontade!
 	"""
 	keyWait
 		any = false
@@ -367,9 +370,9 @@ script 22 mmbn6 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Sorry...
-	We're out of stock
-	now...
+	Lamento...
+	No momento, estamos
+	sem estoque...
 	"""
 	keyWait
 		any = false
@@ -384,9 +387,9 @@ script 23 mmbn6 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	It sounds noisy out
-	there,but it doesn't
-	bother Mr.Famous!!
+	As coisas parecem agita-
+	das lá fora, mas isso não
+	incomoda o Sr. Famoso!
 	"""
 	keyWait
 		any = false
@@ -397,7 +400,7 @@ script 23 mmbn6 {
 }
 script 24 mmbn6 {
 	clearMsg
-	"Care to take a look?\n"
+	"Quer dar uma olhada?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -408,7 +411,7 @@ script 24 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Look "
+	" Ver "
 	option
 		brackets = 0
 		left = 0
@@ -417,7 +420,7 @@ script 24 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't look "
+	" Não ver "
 	select
 		default = 0
 		BSeparate = false
@@ -435,21 +438,20 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WELCOME TO ASTERLAND!"
+	"BEM-VINDO AO\nMUNDO ASTER!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I AM THE SHOP
-	INFORMATION PROGRAM.
+	EU SOU O PROG DE
+	INFORMAÇÕES DA LOJA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IS THERE SOMETHING
-	YOU WOULD LIKE TO
-	ASK?
+	ALGUMA COISA QUE
+	GOSTARIA DE PERGUNTAR?
 	"""
 	keyWait
 		any = false
@@ -467,7 +469,7 @@ script 30 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Trader\n"
+	" Máquinas de troca\n"
 	positionOptionHorizontal
 		width = 9
 	option
@@ -478,7 +480,7 @@ script 30 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" RequestBBS\n"
+	" Quadro de pedidos\n"
 	positionOptionHorizontal
 		width = 9
 	option
@@ -489,7 +491,7 @@ script 30 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Quit"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -507,8 +509,9 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	FEEL FREE TO ASK
-	ME ANYTHING,ANYTIME!
+	FIQUE À VONTADE PARA
+	ME PERGUNTAR O QUE
+	QUISER, QUANDO QUISER!
 	"""
 	keyWait
 		any = false
@@ -521,9 +524,8 @@ script 31 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHICH TRADER WOULD
-	YOU LIKE TO ASK
-	ABOUT?
+	SOBRE QUAL MÁQUINA DE
+	TROCAS VOCÊ QUER SABER?
 	"""
 	keyWait
 		any = false
@@ -541,7 +543,7 @@ script 31 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Chip Trader\n"
+	" Troca-Chips\n"
 	positionOptionHorizontal
 		width = 10
 	option
@@ -552,7 +554,7 @@ script 31 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Number Trader\n"
+	" Troca-Números\n"
 	positionOptionHorizontal
 		width = 10
 	option
@@ -563,7 +565,7 @@ script 31 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Quit"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -581,8 +583,9 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	FEEL FREE TO ASK
-	ME ANYTHING,ANYTIME!
+	FIQUE À VONTADE PARA
+	ME PERGUNTAR O QUE
+	QUISER, QUANDO QUISER!
 	"""
 	keyWait
 		any = false
@@ -595,39 +598,39 @@ script 32 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IF YOU GIVE THE
-	CHIP TRADER 3 CHIPS
-	YOU WILL GET 1 BACK.
+	SE VOCÊ INSERIR TRÊS
+	CHIPS NO TROCA-CHIPS,
+	RECEBERÁ UM EM TROCA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE IS A CHANCE
-	YOU WILL GET A RARE
-	CHIP,BUT THERE IS
+	É POSSÍVEL VOCÊ
+	RECEBER UM CHIP RARO,
+	MAS NÃO HÁ GARANTIA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NO GUARANTEE YOU'LL
-	GET A GOOD CHIP.
+	DE QUE SERÁ UM
+	BOM CHIP TAMBÉM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHEN YOU USE THE
-	CHIP TRADER,
+	SEMPRE QUE VOCÊ
+	USA O TROCA-CHIPS,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE GAME WILL
-	AUTOMATICALLY SAVE,
-	SO USE CAUTION.
+	O JOGO É SALVO
+	AUTOMATICAMENTE,
+	ENTÃO TOME CUIDADO.
 	"""
 	keyWait
 		any = false
@@ -640,31 +643,30 @@ script 33 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IF YOU ENTER 8
-	LOTTO NUMBERS INTO
-	THE NUMBER TRADER,
+	SE INSERIR OITO
+	NÚMEROS DE LOTERIA
+	NO TROCA-NÚMEROS,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU WILL RECEIVE
-	AN ITEM THAT MATCHES
-	THOSE NUMBERS.
+	RECEBERÁ UM ITEM
+	REGISTRADO NELES.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LOTTO NUMBERS ARE
-	WRITTEN HERE AND
+	HÁ NÚMEROS DE LOTERIA
+	EM VÁRIOS LUGARES,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE,SO MAKE SURE
-	TO LOOK AROUND!
+	ENTÃO FIQUE DE
+	OLHOS BEM ABERTOS!
 	"""
 	keyWait
 		any = false
@@ -677,146 +679,140 @@ script 34 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE SCREEN BEHIND ME
-	IS DISPLAYING THE
-	REQUEST BBS!
+	A TELA ATRÁS DE
+	MIM MOSTRA O QUADRO
+	DE PEDIDOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE BBS LISTS THE
-	REQUESTS OF THOSE IN
+	O QUADRO LISTA OS
+	PEDIDOS DE PESSOAS
+	NA CIDADE SAIBHER
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CYBERCITY WHO HAVE
-	PROBLEMS.
+	QUE PRECISAM DE AJUDA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU SOLVE THE
-	PROBLEMS ON THE
-	REQUEST BBS,
+	SE VOCÊ RESOLVER OS
+	PROBLEMAS DO QUADRO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU WILL RECEIVE A
-	REWARD FROM THE
-	REQUESTOR.
+	RECEBERÁ UMA
+	RECOMPENSA DO
+	SOLICITANTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT,YOU CANNOT
-	ACCEPT ANY REQUEST
-	WHENEVER YOU WANT.
+	MAS NÃO É POSSÍVEL
+	ACEITAR QUALQUER
+	PEDIDO QUE SE DESEJA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN ONLY TAKE
-	REQUESTS THAT MATCH
-	YOUR RANK.
+	SÓ SE PODE ENCARAR
+	PEDIDOS CONDIZENTES
+	COM O SEU RANQUE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE FIRST TIME YOU
-	TAKE A REQUEST,YOU
-	WILL BE "RANK C".
+	APÓS ACEITAR SEU
+	PRIMEIRO PEDIDO, VOCÊ
+	RECEBE O RANQUE "C".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"RANK C" ALLOWS YOU
-	TO ACCEPT ONLY ONE
-	STAR REQUESTS.
+	O "RANQUE C" SÓ LHE
+	PERMITE ACEITAR
+	PEDIDOS DE UMA ESTRELA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHEN YOU COMPLETE
-	A REQUEST,ALONG WITH
-	THE REWARD,YOU WILL
+	AO COMPLETAR UM PEDIDO,
+	ALÉM DA RECOMPENSA,
+	VOCÊ RECEBERÁ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	RECEIVE REQUEST
-	POINTS THAT WILL
-	RAISE YOUR RANK.
+	PONTOS DE PEDIDO,
+	OS QUAIS AUMENTARÃO
+	O SEU RANQUE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AS YOUR RANK RISES
-	YOU CAN ACCEPT
+	À MEDIDA QUE SEU
+	RANQUE AUMENTA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTS WITH MORE
-	STARS.
+	VOCÊ SE TORNA CAPAZ
+	DE ACEITAR PEDIDOS
+	DE MAIS ESTRELAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE ONE THING
-	YOU MUST PAY
-	ATTENTION TO IS
+	MAS É IMPORTANTE
+	QUE PRESTE ATENÇÃO
+	A UM DETALHE:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE FACT THAT YOU
-	CAN ONLY TAKE
+	VOCÊ SÓ PODE ENCARAR
+	PEDIDOS COM O SEU
+	PRÓPRIO NAVI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REQUESTS WITH YOUR
-	OWN NAVI.
+	ESSE, NO SEU CASO,
+	SENDO MEGAMAN.EXE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IN YOUR CASE,THAT
-	NAVI WOULD BE
-	MEGAMAN.
+	QUANDO ESTIVER USANDO
+	NAVISELO DE OUTRAS
+	PESSOAS,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHEN YOU USE NAVIS
-	OTHER THAN YOUR OWN,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	YOU WILL NOT BE
-	ABLE TO INTERACT
-	WITH REQUESTORS.
+	NÃO SERÁ CAPAZ DE
+	INTERAGIR COM OS
+	SOLICITANTES.
 	"""
 	keyWait
 		any = false

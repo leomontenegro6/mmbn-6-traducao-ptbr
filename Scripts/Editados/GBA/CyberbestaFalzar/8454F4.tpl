@@ -4,9 +4,9 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	If you don't hit the
-	release button,this
-	door will not open.
+	Se não apertar o botão
+	de liberação, esta
+	porta não se abrirá.
 	"""
 	keyWait
 		any = false

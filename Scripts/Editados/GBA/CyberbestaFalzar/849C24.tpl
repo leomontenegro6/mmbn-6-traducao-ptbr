@@ -10,21 +10,21 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	IF YOU WISH TO OPEN
-	THIS DOOR,
+	SE DESEJA ABRIR
+	ESTA PORTA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BRING PROOF THAT
-	YOU HAVE DEFEATED
-	THE HIDDEN ASSASSIN
+	TRAGA UMA PROVA DE
+	QUE VOCÊ VENCEU O
+	ASSASSINO OCULTO
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"DWELLING IN THIS AREA."
+	"QUE ESPREITA\nNESTA ÁREA."
 	keyWait
 		any = false
 	checkChip
@@ -40,7 +40,7 @@ script 1 mmbn6 {
 		chip = 86
 	"""
 	"
-	CONFIRMED...
+	CONFIRMADO...
 	"""
 	keyWait
 		any = false
@@ -53,15 +53,15 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	Undernet2 on it.
+	Nele, há um mapa
+	da Undernet 2.
 	"""
 	keyWait
 		any = false
@@ -105,9 +105,9 @@ script 4 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Choo,choo! We'll be
-	departing shortly.
-	Are you ready?
+	Tchú-tchúú!
+	A partida se aproxima.
+	Você está pronto?
 	"""
 	keyWait
 		any = false
@@ -123,7 +123,7 @@ script 4 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -132,7 +132,7 @@ script 4 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -152,16 +152,15 @@ script 5 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	We'll be departing
-	as soon as you're
-	ready!
+	Partiremos assim que
+	você estiver pronto!
 	"""
 	keyWait
 		any = false
 	end
 }
 script 6 mmbn6s {
-	" the schedule"
+	" o cronograma"
 	end
 }
 script 7 mmbn6 {
@@ -169,8 +168,8 @@ script 7 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	The next stop is
-	CentralArea3!
+	Próxima parada:
+	Área Central 3!
 	"""
 	keyWait
 		any = false
@@ -181,8 +180,8 @@ script 8 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	The next stop is
-	Sky Area2!
+	Próxima parada:
+	Área Céu 2!
 	"""
 	keyWait
 		any = false
@@ -194,14 +193,14 @@ script 9 mmbn6s {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	COUNT THE NUMBER OF
-	FLAMES OF HATRED IN
-	THIS AREA...
+	CONTE O NÚMERO DE
+	CHAMAS DE ÓDIO
+	NESTA ÁREA...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ENTER THE PASSWORD\n"
+	"INSIRA A SENHA\n"
 	option
 		brackets = 1
 		left = 3
@@ -245,7 +244,7 @@ script 10 mmbn6 {
 		count = 1
 	"""
 	OK
-	たLてR:Cursor UてD:Numち
+	たEてD: Cursor CてB: Númち
 	"""
 	menuSelectPassword
 		password = 2
@@ -257,7 +256,7 @@ script 10 mmbn6 {
 }
 script 11 mmbn6 {
 	msgOpen
-	"... YOU MAY PASS."
+	"... PASSAGEM CONCEDIDA."
 	keyWait
 		any = false
 	flagClear
@@ -266,21 +265,21 @@ script 11 mmbn6 {
 }
 script 12 mmbn6 {
 	msgOpen
-	"... TRY AGAIN!"
+	"... TENTE OUTRA VEZ!"
 	keyWait
 		any = false
 	end
 }
 script 13 mmbn6 {
 	msgOpen
-	"... COME AGAIN!"
+	"... VOLTE SEMPRE!"
 	keyWait
 		any = false
 	end
 }
 script 14 mmbn6 {
 	msgOpen
-	"It's a BBS..."
+	"É um fórum..."
 	keyWait
 		any = false
 	startBBS
@@ -310,20 +309,20 @@ script 16 mmbn6 {
 		jumpIfTrue = 14
 		jumpIfFalse = continue
 	msgOpen
-	"It's a BBS..."
+	"É um fórum..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's something
-	written here,
+	Tem alguma coisa
+	escrita aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but you can't read
-	what it says...
+	mas você não
+	consegue ler...
 	"""
 	keyWait
 		any = false

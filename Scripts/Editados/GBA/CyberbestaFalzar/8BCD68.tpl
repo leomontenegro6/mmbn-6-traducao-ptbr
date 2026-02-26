@@ -6,9 +6,8 @@ script 0 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I wonder where
-	they're keeping
-	Iris...
+	Onde será que eles
+	prenderem a Iris...?
 	"""
 	keyWait
 		any = false
@@ -21,9 +20,9 @@ script 1 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	But even if we knew,
-	we can't do anything
-	to help...
+	Bom, mesmo se a gente
+	soubesse, não íamos
+	ter como ajudar...
 	"""
 	keyWait
 		any = false
@@ -36,8 +35,8 @@ script 2 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Shaddup!
-	No talking!
+	Calem a boca!
+	É proibido falar!
 	"""
 	keyWait
 		any = false
@@ -49,7 +48,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Eek!"
+	"Ain!"
 	keyWait
 		any = false
 	clearMsg
@@ -60,7 +59,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Hey,Mick..."
+	"Psst, Mick..."
 	keyWait
 		any = false
 	clearMsg
@@ -71,7 +70,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"What...?"
+	"Que é...?"
 	keyWait
 		any = false
 	clearMsg
@@ -83,8 +82,8 @@ script 6 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Tell me how to use
-	a CopyBot...
+	Me explica como se
+	usa um CópiRoide...
 	"""
 	keyWait
 		any = false
@@ -97,9 +96,9 @@ script 7 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Why are you asking
-	me...
-	Oh,I get it.
+	Por que cê quer
+	saber como...
+	Ah, saquei.
 	"""
 	keyWait
 		any = false
@@ -109,7 +108,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"*whisper,whisper...*"
+	"Pss, pss, pss..."
 	keyWait
 		any = false
 	end

@@ -6,23 +6,23 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	VROOOM! VROOOM!
-	VROOOM! VROOOM!
+	FUUUUSH! FUUUUSH!
+	FUUUUSH! FUUUUSH!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE ROTATION OF THE
-	FAN IS PERFECT AGAIN
-	TODAY!
+	A ROTAÇÃO DO VENTILADOR
+	ESTÁ PERFEITA HOJE,
+	COMO SEMPRE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	VROOOM! VROOOM!
-	VROOOM! VROOOM!
+	FUUUUSH! FUUUUSH!
+	FUUUUSH! FUUUUSH!
 	"""
 	keyWait
 		any = false

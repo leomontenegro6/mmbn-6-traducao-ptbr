@@ -2,119 +2,119 @@
 @size 48
 
 script 0 mmbn6s {
-	"BBS Opening    WolfAtny"
+	"Abertura Fórum AdvgLobo"
 	end
 }
 script 1 mmbn6s {
-	"Stung By A Bee SoccrFan"
+	"Picado abelha  Ftblista"
 	end
 }
 script 2 mmbn6s {
-	"RE:Stung By A  Koetsu  "
+	"RE:Picado abel Koetsu  "
 	end
 }
 script 3 mmbn6s {
-	"RE:Stung By A  SoccrFan"
+	"RE:Picado abel Ftblista"
 	end
 }
 script 4 mmbn6s {
-	"Combo Attack   PondAtny"
+	"Ataque combo   AdvgPond"
 	end
 }
 script 5 mmbn6s {
-	"RE:Combo Attac HanzAtny"
+	"RE:Ataque comb AdvgHanz"
 	end
 }
 script 6 mmbn6s {
-	"RE:Combo Attac GalAtny "
+	"RE:Ataque comb AdvgMina"
 	end
 }
 script 7 mmbn6s {
-	"RE:Combo Attac Koetsu  "
+	"RE:Ataque comb Koetsu  "
 	end
 }
 script 8 mmbn6s {
-	"JudgeTree      WolfAtny"
+	"Árvore Juíza   AdvgLobo"
 	end
 }
 script 9 mmbn6s {
-	"RE:JudgeTree   Gungneal"
+	"RE:Árvore Juíz Gungneal"
 	end
 }
 script 10 mmbn6s {
-	"TagChip        WolfAtny"
+	"ChipPar        AdvgLobo"
 	end
 }
 script 11 mmbn6s {
-	"RE:TagChip     Koetsu  "
+	"RE:ChipPar     Koetsu  "
 	end
 }
 script 12 mmbn6s {
-	"ProgramAdvance Yukarin "
+	"ProgramAvançdo Yukarin "
 	end
 }
 script 13 mmbn6s {
-	"RE:ProgramAdv  Mach    "
+	"RE:ProgramAvan Mach    "
 	end
 }
 script 14 mmbn6s {
-	"RE:ProgramAdv  Yukarin "
+	"RE:ProgramAvan Yukarin "
 	end
 }
 script 15 mmbn6s {
-	"A Quiz!        QuizAtny"
+	"Questionário!  AdvQstná"
 	end
 }
 script 16 mmbn6s {
-	"RE:A Quiz!     Mick    "
+	"RE:Questionár  Mick    "
 	end
 }
 script 17 mmbn6s {
-	"RE:A Quiz!     MickNavi"
+	"RE:Questionár  MickNavi"
 	end
 }
 script 18 mmbn6s {
-	"Correct!       QuizAtny"
+	"Acertou!       AdvQstná"
 	end
 }
 script 19 mmbn6s {
-	"Breaker Chips  KittyCat"
+	"Chips quebra   Gatinha "
 	end
 }
 script 20 mmbn6s {
-	"Frozen Status  Kosuke  "
+	"Congelamento   Kosuke  "
 	end
 }
 script 21 mmbn6s {
-	"RE:Frozen Stat KittyCat"
+	"RE:Congelament Gatinha "
 	end
 }
 script 22 mmbn6s {
-	"Go Go Expo!    YngAtny "
+	"Exposição uhul AdvJovem"
 	end
 }
 script 23 mmbn6s {
-	"Rare Chip      Beeko   "
+	"Chip Raro      Beeko   "
 	end
 }
 script 24 mmbn6s {
-	"RE:Rare Chip   Tab     "
+	"RE:Chip Raro   Tab     "
 	end
 }
 script 25 mmbn6s {
-	"RE:Rare Chip   ChipHntr"
+	"RE:Chip Raro   CaçdChps"
 	end
 }
 script 26 mmbn6s {
-	"RE:Rare Chip   Koetsu  "
+	"RE:Chip Raro   Koetsu  "
 	end
 }
 script 27 mmbn6s {
-	"RE:Rare Chip   YngAtny "
+	"RE:Chip Raro   AdvJovem"
 	end
 }
 script 28 mmbn6s {
-	"I WannaNetBttl Mick    "
+	"Bora NetLutar  Mick    "
 	end
 }
 script 29 mmbn6s {

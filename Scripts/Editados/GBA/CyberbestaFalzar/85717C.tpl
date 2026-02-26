@@ -13,23 +13,23 @@ script 0 mmbn6 {
 	controlLock
 	soundPlay
 		track = 463
-	"*beeep* "
+	"Biiip "
 	wait
 		frames = 16
 	soundPlay
 		track = 463
-	"*beeep*"
+	"Biiip"
 	wait
 		frames = 16
 	"\n"
 	soundPlay
 		track = 463
-	"*beeep* "
+	"Biiip "
 	wait
 		frames = 16
 	soundPlay
 		track = 463
-	"*beeep*"
+	"Biiip"
 	wait
 		frames = 16
 	soundEnableTextSFX
@@ -38,8 +38,9 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	PLEASE SHOW YOUR
-	STUDENT ID.
+	POR FAVOR, APRESENTE
+	SUA CARTEIRINHA DE
+	ESTUDANTE.
 	"""
 	keyWait
 		any = false
@@ -48,7 +49,7 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	Lan used:
+	Lan usou:
 	"
 	"""
 	printItem
@@ -59,8 +60,7 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	The lock on the
-	gate opened!
+	Passagem liberada!
 	"""
 	keyWait
 		any = false
@@ -69,7 +69,7 @@ script 1 mmbn6 {
 	controlLock
 	soundPlay
 		track = 337
-	"*beeep* "
+	"Biiiip "
 	wait
 		frames = 20
 	"\n"
@@ -77,7 +77,7 @@ script 1 mmbn6 {
 		flag = 15
 	soundPlay
 		track = 374
-	"*click*"
+	"Clic"
 	wait
 		frames = 20
 	soundEnableTextSFX
@@ -100,8 +100,8 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it's too early
-	to go home!!
+	Lan, tá cedo demais
+	pra ir pra casa!!
 	"""
 	keyWait
 		any = false
@@ -119,23 +119,23 @@ script 3 mmbn6 {
 	controlLock
 	soundPlay
 		track = 463
-	"*beeep* "
+	"Biiip "
 	wait
 		frames = 16
 	soundPlay
 		track = 463
-	"*beeep*"
+	"Biiip"
 	wait
 		frames = 16
 	"\n"
 	soundPlay
 		track = 463
-	"*beeep* "
+	"Biiip "
 	wait
 		frames = 16
 	soundPlay
 		track = 463
-	"*beeep*"
+	"Biiip"
 	wait
 		frames = 16
 	soundEnableTextSFX
@@ -144,8 +144,9 @@ script 3 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	PLEASE SHOW YOUR
-	TEACHERID.
+	POR FAVOR, APRESENTE
+	SUA CARTEIRINHA DE
+	PROFESSOR.
 	"""
 	keyWait
 		any = false
@@ -154,7 +155,7 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	Lan used:
+	Lan usou:
 	"
 	"""
 	printItem
@@ -165,8 +166,8 @@ script 4 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	The lock on the
-	gate opened!
+	A entrada foi
+	destrancada!
 	"""
 	keyWait
 		any = false
@@ -175,14 +176,14 @@ script 4 mmbn6 {
 	controlLock
 	soundPlay
 		track = 337
-	"*beeep* "
+	"Biiip "
 	wait
 		frames = 20
 	flagClear
 		flag = 16
 	soundPlay
 		track = 374
-	"*click*"
+	"Clic"
 	wait
 		frames = 20
 	soundEnableTextSFX
@@ -198,8 +199,8 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	The Foyer door
-	is locked tight.
+	O portão da escola
+	está trancado.
 	"""
 	keyWait
 		any = false
@@ -214,16 +215,16 @@ script 10 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,where are you
-	going?
+	Lan, aonde é
+	que você vai?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to ask a
-	teacher about the
-	penguin food!
+	Cê tem que perguntar
+	pra um professor
+	sobre o pinguim!
 	"""
 	keyWait
 		any = false
@@ -234,9 +235,9 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,find the
-	Biology teacher's
-	aide.
+	Lan, encontra
+	o assistente do
+	professor de Biologia.
 	"""
 	keyWait
 		any = false
@@ -247,9 +248,9 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,where are you
-	going! We can't go
-	home yet!!
+	Lan, aonde você pensa
+	que vai?! A gente não
+	pode ir pra casa agora!!
 	"""
 	keyWait
 		any = false
@@ -258,15 +259,17 @@ script 12 mmbn6 {
 script 15 mmbn6 {
 	msgOpen
 	"""
-	THE MAYOR IS HARD
-	AT WORK NOW.
+	O PREFEITO ESTÁ
+	TRABALHANDO DURO
+	AGORA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO YOU CAN'T GO
-	INTO THIS ROOM.
+	PORTANTO, VOCÊ NÃO
+	PODE ADENTRAR ESTA
+	SALA.
 	"""
 	keyWait
 		any = false
@@ -277,9 +280,9 @@ script 16 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Lan!! GO!
-	Quick! While I've
-	got their attention!
+	Lan!! VAI!
+	Rápido! Enquanto eu
+	tô distraindo eles!
 	"""
 	keyWait
 		any = false

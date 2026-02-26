@@ -9,8 +9,8 @@ script 0 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Looks like
-	you've got mail!
+	Parece que
+	chegou e-mail!
 	"""
 	waitHold
 }
@@ -22,8 +22,8 @@ script 1 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Which mail do you
-	want to read,Lan?
+	Qual e-mail você
+	quer ler, Lan?
 	"""
 	waitHold
 }
@@ -35,8 +35,8 @@ script 2 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	You haven't gotten
-	any mail yet,Lan.
+	Você ainda não recebeu
+	nenhum e-mail, Lan.
 	"""
 	waitHold
 }
@@ -56,8 +56,8 @@ script 10 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	A NEW MAIL HAS
-	ARRIVED.
+	E-MAILS NÃO LIDOS
+	PRESENTES.
 	"""
 	waitHold
 }
@@ -69,8 +69,8 @@ script 11 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	SELECT A MAIL
-	TO READ.
+	ESCOLHA O E-MAIL
+	A SER LIDO.
 	"""
 	waitHold
 }
@@ -81,7 +81,7 @@ script 12 mmbn6 {
 		mugshot = MrProgGreen
 	textSpeed
 		delay = 0
-	"THERE IS NO MAIL."
+	"NENHUM E-MAIL."
 	waitHold
 }
 script 13 mmbn6s {

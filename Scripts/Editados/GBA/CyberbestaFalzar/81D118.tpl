@@ -4,17 +4,17 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	There are pictures
-	of various viruses
-	on this giant panel.
+	Esse painel gigante
+	contém ilustrações
+	de diversos vírus.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's also short
-	descriptions,so it's
-	very informative!
+	Cada uma vem com uma
+	pequena descrição.
+	É tão informativo!
 	"""
 	keyWait
 		any = false
@@ -23,17 +23,16 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The chips in this
-	case aren't as
-	popular any more...
+	Os chips nessa vitrine
+	são os que não são mais
+	tão populares...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so they're being
-	sold at bargain
-	prices!
+	e, portanto, estão
+	com um mega desconto!
 	"""
 	keyWait
 		any = false
@@ -42,17 +41,17 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	A magazine rack
-	stacked full of
-	chip magazines.
+	Uma estante de
+	revistas cheia de
+	publicações de chips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Chips Monthly",
-	"Chip Club Weekly",
-	just to name two...
+	"Meu Chip Mensal",
+	"Clube dos Chips"
+	e muitas outras mais...
 	"""
 	keyWait
 		any = false
@@ -61,17 +60,16 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	BattleChips are on
-	display in this
-	showcase.
+	Há BattleChips expostos
+	nesta vitrine.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These chips are
-	wanted by Net_
-	Battlers everywhere!
+	São chips desejados
+	por NetLutadores do
+	mundo inteiro!
 	"""
 	keyWait
 		any = false
@@ -80,8 +78,8 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	The register is
-	locked tight.
+	A caixa registradora
+	está bem trancada.
 	"""
 	keyWait
 		any = false
@@ -90,16 +88,16 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	The chips in this
-	showcase are all
+	Os chips nesta
+	vitrine são todos de
+	"qualidade premium",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of premium quality
-	and are very rare
-	and expensive.
+	sendo extremamente
+	raros e caros.
 	"""
 	keyWait
 		any = false
@@ -112,9 +110,8 @@ script 6 mmbn6 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A request board.
-	Various requests
-	have been left...
+	Um quadro de pedidos.
+	Repleto de pedidos...
 	"""
 	keyWait
 		any = false
@@ -129,16 +126,16 @@ script 7 mmbn6s {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	A table where you
-	can place chips.
+	Uma mesa para
+	colocar chips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You use it when you
-	trade chips with a
-	friend,it seems.
+	Ao que tudo indica,
+	é utilizada na hora
+	de trocar com amigos.
 	"""
 	keyWait
 		any = false
@@ -146,21 +143,21 @@ script 8 mmbn6 {
 }
 script 9 mmbn6 {
 	msgOpen
-	"Warning!"
+	"Aviso!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can only accept
-	requests through
+	Só se pode aceitar
+	pedidos através do
 	BeastLink Gate
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	while operating
-	MegaMan.
+	quando estiver
+	operando MegaMan.EXE.
 	"""
 	keyWait
 		any = false
@@ -169,8 +166,8 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	Enter a number in
-	the Number Trader?
+	Inserir número no
+	Troca-Números?
 	
 	"""
 	positionOptionHorizontal
@@ -183,7 +180,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -192,7 +189,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -209,8 +206,8 @@ script 11 mmbn6 {
 	callDisableMugshotBrighten
 	msgOpenQuick
 	"""
-	Please come back!
-	I'll be waiting!
+	Volte sempre!
+	Estarei aqui!
 	"""
 	keyWait
 		any = false
@@ -218,7 +215,7 @@ script 11 mmbn6 {
 }
 script 12 mmbn6 {
 	msgOpenQuick
-	"Enter lotto number.\n"
+	"Insira número de loteria.\n"
 	option
 		brackets = 1
 		left = 8
@@ -317,7 +314,7 @@ script 12 mmbn6 {
 		count = 9
 	"""
 	OK
-	たLてR:Cursor UてD:Numち
+	たEてD:Cursor CてB:Númち
 	"""
 	flagSet
 		flag = 5925
@@ -328,16 +325,15 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	msgOpenQuick
 	"""
-	Checking your
-	lotto number!
-	*beep beep...*
+	Conferindo número!
+	Bip-Bip...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad! You lost.
-	Try again?
+	Que pena! Vazio.
+	Tentar de novo?
 	
 	"""
 	positionOptionHorizontal
@@ -350,7 +346,7 @@ script 13 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -359,7 +355,7 @@ script 13 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -375,17 +371,15 @@ script 13 mmbn6 {
 script 14 mmbn6 {
 	msgOpenQuick
 	"""
-	Checking your
-	lotto number!
-	*beep beep...*
+	Conferindo número!
+	Bip-Bip...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Check complete!
-	You have a winning
-	number!
+	Verificação concluída!
+	É um número premiado!
 	"""
 	keyWait
 		any = false
@@ -394,7 +388,7 @@ script 14 mmbn6 {
 	soundDisableTextSFX
 	soundPlay
 		track = 213
-	"Whir_whir... Clunk!"
+	"Vrrr-viur... Plénc!"
 	soundEnableTextSFX
 	keyWait
 		any = false
@@ -416,7 +410,7 @@ script 15 mmbn6 {
 		left = 226
 		top = 141
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printChip
@@ -442,7 +436,7 @@ script 16 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -462,8 +456,8 @@ script 17 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got a
-	SubChip:
+	Lan adquiriu
+	um SubChip:
 	"
 	"""
 	printItem
@@ -481,8 +475,8 @@ script 17 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got a
-	SubChip:
+	Lan adquiriu
+	um SubChip:
 	"
 	"""
 	printItem
@@ -498,17 +492,16 @@ script 17 mmbn6 {
 script 18 mmbn6 {
 	msgOpenQuick
 	"""
-	It looks like you
-	can't carry any more
-	of that item.
+	Parece que você
+	não pode portar
+	mais desse item.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll mark that last
-	number as unused
-	then.
+	Marcarei esse número
+	como não-utilizado.
 	"""
 	keyWait
 		any = false
@@ -521,7 +514,7 @@ script 19 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printNaviCustProgram
@@ -537,21 +530,20 @@ script 19 mmbn6 {
 script 20 mmbn6 {
 	msgOpenQuick
 	"""
-	Checking your
-	lotto number!
-	*beep beep...*
+	Conferindo número!
+	Bip-Bip...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This number's been
-	entered already.
+	Esse número já
+	foi resgatado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -562,7 +554,7 @@ script 20 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -571,7 +563,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -591,7 +583,7 @@ script 21 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -602,14 +594,14 @@ script 21 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	In NaviCust you can
-	now use L Button or
-	R Button to spin red
+	Agora você pode usar
+	os botões L e R para
+	girar peças vermelhas
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"program parts."
+	"no Customizador de Navi."
 	keyWait
 		any = false
 	playerFinish
@@ -623,7 +615,7 @@ script 22 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -634,16 +626,15 @@ script 22 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	In NaviCust you can
-	now use L Button or
-	R Button to spin
+	Agora você pode usar
+	os botões L e R para
+	girar peças amarelas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	yellow program
-	parts.
+	"no Customizador de Navi."
 	"""
 	keyWait
 		any = false
@@ -658,7 +649,7 @@ script 23 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -669,14 +660,14 @@ script 23 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	In NaviCust you can
-	now use L Button or
-	R Button to spin
+	Agora você pode usar
+	os botões L e R para
+	girar peças verdes
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"green program parts."
+	"no Customizador de Navi."
 	keyWait
 		any = false
 	playerFinish
@@ -699,16 +690,16 @@ script 30 mmbn6 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A Navi Change Box.
-	"Insert a NaviChip"
-	is written on it.
+	Uma Caixa de Troca de
+	Navi. Nela, tem escrito:
+	"Insira um ChipNavi"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Insert a NaviChip
-	into the slot?
+	Inserir um ChipNavi
+	na abertura?
 	
 	"""
 	positionOptionHorizontal
@@ -721,7 +712,7 @@ script 30 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -730,7 +721,7 @@ script 30 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -746,9 +737,9 @@ script 30 mmbn6 {
 script 31 mmbn6 {
 	msgOpenQuick
 	"""
-	Checking your
-	BeastLink Gate
-	connection...
+	Conferindo sua
+	conexão com o
+	BeastLink Gate...
 	"""
 	waitHold
 }
@@ -759,14 +750,14 @@ script 32 mmbn6 {
 }
 script 33 mmbn6 {
 	msgOpenQuick
-	"Communication error."
+	"Erro de comunicação."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please check your
-	BeastLink Gate
-	connection.
+	Por favor, confira
+	a sua conexão com o
+	BeastLink Gate.
 	"""
 	keyWait
 		any = false
@@ -775,22 +766,22 @@ script 33 mmbn6 {
 script 34 mmbn6 {
 	msgOpenQuick
 	"""
-	Please insert a
-	NaviChip.
-	たPress B to cancelち
+	Insira um ChipNavi.
+	たAperte "B" para
+	cancelarち
 	"""
 	waitHold
 }
 script 35 mmbn6 {
 	msgOpenQuick
 	"""
-	Navi data confirmed!
-	Installing 
+	Dados Navi confirmados!
+	Intalando
 	"""
 	printNavi
 		buffer = 1
 		navi = 0
-	"\ninto your PET!"
+	"\nno seu PET!"
 	keyWait
 		any = false
 	clearMsg
@@ -810,7 +801,7 @@ script 35 mmbn6 {
 }
 script 36 mmbn6 {
 	msgOpen
-	"A Navi Change Box.\n"
+	"Caixa de Troca de Navi.\n"
 	option
 		brackets = 0
 		left = 0
@@ -819,7 +810,7 @@ script 36 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"Quit Navi Change\n"
+	"Sair da Trica de Navi\n"
 	option
 		brackets = 0
 		left = 1
@@ -828,7 +819,7 @@ script 36 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Confirm Navi Change"
+	"Confirmar Troca de Navi"
 	select
 		default = 0
 		BSeparate = true
@@ -846,9 +837,9 @@ script 37 mmbn6 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	I'm MegaMan,and I'm
-	your Navi! It's good
-	to work with you!
+	Eu sou MegaMan.EXE,
+	o seu Navi! É um prazer
+	trabalhar com você!
 	"""
 	keyWait
 		any = false
@@ -856,17 +847,17 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	It's good to work
-	with you too,
+	É um prazer trabalhar
+	com você também,
 	MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Uh,tell me why
-	we're being so
-	formal again...?
+	... Er, por que a gente
+	tá se apresentando todo
+	formal assim...?
 	"""
 	keyWait
 		any = false
@@ -874,16 +865,16 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Because it's good
-	to be nice,even to
-	your best friends!
+	Porque é sempre bom
+	ser educado, até com
+	os melhores amigos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Right!"
+	"Real!"
 	keyWait
 		any = false
 	waitHold
@@ -893,9 +884,9 @@ script 38 mmbn6 {
 		mugshot = HeatMan
 	msgOpenQuick
 	"""
-	Buuuuuuurning!
-	I'm HeatMan,and
-	I'm all fired up!
+	Fuooooooshhh!
+	Eu sou o HeatMan,
+	e eu tô fervendo!
 	"""
 	keyWait
 		any = false
@@ -906,9 +897,9 @@ script 39 mmbn6 {
 		mugshot = ElecMan
 	msgOpenQuick
 	"""
-	... I am ElecMan.
-	It's time to sizzle
-	some viruses...
+	... Sou ElecMan.
+	Hora de causar um
+	curto nos vírus...
 	"""
 	keyWait
 		any = false
@@ -919,9 +910,9 @@ script 40 mmbn6 {
 		mugshot = SlashMan
 	msgOpenQuick
 	"""
-	Hey,I'm SlashMan!
-	Viruses beware! I'll
-	slice you to shreds!
+	Opa, eu sou o SlashMan!
+	Se cuidem aí, vírus!
+	Porque vão ser fatiados!
 	"""
 	keyWait
 		any = false
@@ -932,9 +923,9 @@ script 41 mmbn6 {
 		mugshot = EraseMan
 	msgOpenQuick
 	"""
-	Hiyahahaha!
-	I'm EraseMan! Why?
-	Because I "erase"...
+	Hiya ha ha ha!
+	Eu sou o KillerMan!
+	E eu SOU de matar...
 	"""
 	keyWait
 		any = false
@@ -945,9 +936,9 @@ script 42 mmbn6 {
 		mugshot = ChargeMan
 	msgOpenQuick
 	"""
-	Choo,choo!
-	I'm ChargeMan,and
-	I'm here to help!
+	Tchú-tchúúú!
+	Eu sou o ChargeMan,
+	pronto para ajudar!
 	"""
 	keyWait
 		any = false
@@ -958,9 +949,9 @@ script 43 mmbn6 {
 		mugshot = SpoutMan
 	msgOpenQuick
 	"""
-	Drip,drip!
-	I'm AquaMan,if you
-	please,drip! 
+	Xuá, xuááá!
+	Eu sou o AquaMan.
+	Vamos lá, xuáá!
 	"""
 	keyWait
 		any = false
@@ -971,9 +962,9 @@ script 44 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpenQuick
 	"""
-	Yeow,yeah! I'm
-	TomahawkMan! Let's
-	get chopping!
+	Aêê! Eu sou o
+	TomahawkMan!
+	Corta essa!
 	"""
 	keyWait
 		any = false
@@ -984,9 +975,9 @@ script 45 mmbn6 {
 		mugshot = TenguMan
 	msgOpenQuick
 	"""
-	I am TenguMan.
-	I hope we will work
-	together in harmony.
+	Eu sou o TenguMan.
+	Espero que trabalhemos
+	juntos em harmonia.
 	"""
 	keyWait
 		any = false
@@ -997,9 +988,9 @@ script 46 mmbn6 {
 		mugshot = GroundMan
 	msgOpenQuick
 	"""
-	Whiiiiiiir!
-	I'm GroundMan,and
-	I'm ready to drill!
+	Vrrrrrrr!
+	Eu sou o GroundMan,
+	e eu vou perfurar tudo!
 	"""
 	keyWait
 		any = false
@@ -1010,9 +1001,9 @@ script 47 mmbn6 {
 		mugshot = DustMan
 	msgOpenQuick
 	"""
-	Gahahahaha!
-	I'm the Master of
-	Crushing,DustMan!
+	Hah ha ha ha ha!
+	Eu sou DustMan, o
+	mestre da pulverização!
 	"""
 	keyWait
 		any = false
@@ -1022,36 +1013,36 @@ script 48 mmbn6 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpenQuick
-	"ProtoMan here!"
+	"ProtoMan,\nse apresentando!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Always good to work
-	with you,however,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I will stay by
-	Chaud's side
-	until the end...
+	É sempre bom trabalhar
+	com você,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will only appear
-	during battle.
+	contudo, permanecerei
+	ao lado do Sr. Chaud
+	até o fim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll leave the
-	navigation
-	to MegaMan.
+	Eu aparecerei somente
+	durante as batalhas.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Portanto, deixarei a
+	navegação nas mãos do
+	MegaMan.
 	"""
 	keyWait
 		any = false
@@ -1059,9 +1050,9 @@ script 48 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Roger! Which means
-	outside of battles,I
-	will be the Navi.
+	Beleza! Ou seja, fora
+	das lutas, o seu Navi
+	será eu!
 	"""
 	keyWait
 		any = false
@@ -1070,8 +1061,7 @@ script 48 mmbn6 {
 script 49 mmbn6 {
 	msgOpenQuick
 	"""
-	Returning to
-	MegaMan.
+	Voltando ao MegaMan.
 	"""
 	keyWait
 		any = false
@@ -1080,23 +1070,22 @@ script 49 mmbn6 {
 script 50 mmbn6 {
 	msgOpenQuick
 	"""
-	The equipped Folder
-	can't be used
-	anymore.
+	A pasta equipada não
+	pode mais ser usada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't have an
-	Extra Folder,so
-	take this folder!
+	E como você não tem
+	uma Pasta Extra,
+	fique com esta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printFolderName
@@ -1107,8 +1096,8 @@ script 50 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Switching to this
-	Folder.
+	Trocando para
+	essa pasta.
 	"""
 	keyWait
 		any = false
@@ -1117,23 +1106,22 @@ script 50 mmbn6 {
 script 51 mmbn6 {
 	msgOpenQuick
 	"""
-	The equipped Folder
-	can't be used
-	anymore.
+	A pasta equipada não
+	pode mais ser usada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Extra Folder
-	also can't be used,
-	so take this Folder!
+	E como a Past Extra
+	também não pode ser
+	usada, fique com esta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printFolderName
@@ -1144,8 +1132,8 @@ script 51 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Switching to this
-	Folder.
+	Trocando para
+	essa pasta.
 	"""
 	keyWait
 		any = false
@@ -1154,15 +1142,15 @@ script 51 mmbn6 {
 script 52 mmbn6 {
 	msgOpenQuick
 	"""
-	The equipped Folder
-	can't be used.
+	A pasta equipada
+	não pode ser usada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Switching to Extra
-	Folder.
+	Trocando para
+	a Pasta Extra.
 	"""
 	keyWait
 		any = false

@@ -4,32 +4,32 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	We beat BlastMan,
-	and the whole thing
-	at school ended.
+	A gente venceu o
+	BlastMan e todo o
+	caos na escola parou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was decided that
-	this time,it was
-	an outside intruder,
+	Foi declarado que,
+	desta vez, foi um
+	intruso de fora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BlastMan,who caused
-	the whole mess...
+	o BlastMan, quem causou
+	toda a confusão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it looks like
-	Mick made the
-	teachers really mad.
+	Mas parece que o Mick
+	deixou os professores
+	bravos pra caramba.
 	"""
 	keyWait
 		any = false
@@ -40,9 +40,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Maybe this will
-	make him change
-	his ways...
+	Talvez isso faça ele
+	mudar de atitude...
 	"""
 	keyWait
 		any = false
@@ -55,8 +54,7 @@ script 2 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Hmph,don't bet
-	on it.
+	Hmpf, vai sonhando.
 	"""
 	keyWait
 		any = false
@@ -78,30 +76,29 @@ script 4 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	It's not like I've
-	changed or anything,
+	Eu não vou "revisar
+	meus conceitos"
+	nem nada assim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I've been
-	thinking a little.
+	mas andei pensando
+	um pouquinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've been giving
-	you a lotta
-	trouble...
+	E eu tenho te dado
+	muita dor de cabeça...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... That was
-	wrong of me.
+	... o que foi vacilo meu.
 	"""
 	keyWait
 		any = false
@@ -118,16 +115,16 @@ script 5 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	It's OK. How about
-	us being friends?
+	Tá de boa.
+	O que cê acha de
+	a gente ser amigo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I still don't have
-	that many friends to
-	hang out with here.
+	Eu ainda não fiz
+	muitos por aqui.
 	"""
 	keyWait
 		any = false
@@ -139,27 +136,27 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"No way,freak."
+	"Até parece, mané."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's not my kind
-	of thing.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I just wanna
-	NetBattle sometime
+	Não faz o meu estilo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and totally own
-	you two!
+	Eu só quero é
+	NetLutar contigo
+	qualquer dia
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e dar um banho
+	em vocês dois!
 	"""
 	keyWait
 		any = false
@@ -171,13 +168,13 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ha,ha,ha..."
+	"Ha ha ha..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"たHe kinda reminds\n me of Dex...ち"
+	"たEle me lembra um\n pouco o Dex...ち"
 	keyWait
 		any = false
 	clearMsg
@@ -191,43 +188,43 @@ script 8 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	What are you looking
-	so serious for?
+	Por que essa
+	cara séria aí?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mick
-	"S_Shut up!"
+	"C-cala a boca!"
 	keyWait
 		any = false
 	clearMsg
-	"*ahem!*"
+	"Ca-hem!"
 	keyWait
 		any = false
 	clearMsg
-	"L_Lan..."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	So,all these things
-	kinda happened since
-	you got here,but I
-	"""
+	"L-Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	was really impressed
-	today. Uh,I don't
-	like saying sorry,
+	Sabe, aconteceu essas
+	coisas todas desde cê
+	chegou, mas eu fiquei
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"so here,take this."
+	"""
+	bem impressionado hoje.
+	Er, eu não gosto de
+	pedir desculpas, então...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"toma, fica com isto."
 	keyWait
 		any = false
 	clearMsg
@@ -243,7 +240,7 @@ script 9 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -267,8 +264,8 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's this!?
-	Your doodles!?
+	O que é isso?!
+	Rabiscos seus?!
 	"""
 	keyWait
 		any = false
@@ -281,54 +278,54 @@ script 11 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	N_NO! And it's
-	"graffiti",not
-	"doodles"! I mean...
+	N-NÃO! E é "grafite",
+	não "rabiscos"!
+	Quero dizer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That "graffiti's"
-	gonna show you where
-	the key for the door
+	Esse "grafite" vai te
+	mostrar onde fica
+	escondida a chave
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	between CentralArea2
-	and CentralArea3 is
-	hidden!
+	pra porta entre a
+	Área Central 2 e
+	a Área Central 3!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I should know! I
-	hid the key and
-	wrote that note!
+	Eu sei disso porque
+	EU escondi a chave e
+	escrevi aquele bilhete!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"What a troublemaker..."
+	"Malandro demais..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mick
 	"""
-	With that,you can
-	get to the Cybeast
-	statues
+	Com isso, cê vai poder
+	chegar nas estátuas
+	das Cyberbestas
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"in CentralArea3!"
+	"na Área Central 3!"
 	keyWait
 		any = false
 	clearMsg
@@ -339,23 +336,23 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Cybeast...?"
+	"Cyberbestas...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Tab
 	"""
-	Everyone knows about
-	Cyber City's
-	legendary beasts!
+	Todo mundo conhece
+	as feras lendárias
+	da Cidade Saibher!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Really...?"
+	"É mesmo...?"
 	keyWait
 		any = false
 	clearMsg
@@ -367,13 +364,14 @@ script 13 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	I'll let you borrow
-	that for now.
+	Pode ficar com
+	ele emprestado,
+	por enquanto.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Later,freak!!"
+	"Falou, mané!!"
 	keyWait
 		any = false
 	end
@@ -383,9 +381,9 @@ script 14 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Heh,why can't he
-	apologize like a
-	normal person!?
+	He, não dava pra ele
+	só pedir desculpas como
+	uma pessoa normal?
 	"""
 	keyWait
 		any = false
@@ -393,9 +391,9 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	"""
-	He's a rebel,so him
-	giving that to you
-	shows he's sorry.
+	Ele é metido a rebelde,
+	então esse presente foi
+	o jeito dele de pedir.
 	"""
 	keyWait
 		any = false
@@ -403,9 +401,9 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	... Yeah,when you
-	put it like that,it
-	does seem his style!
+	... É, vendo desse
+	jeito, parece mesmo
+	o estilo dele!
 	"""
 	keyWait
 		any = false
@@ -413,8 +411,8 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	"""
-	Oh,it's already time
-	to go home!
+	Ah, já tá na hora
+	de eu ir pra casa!
 	"""
 	keyWait
 		any = false
@@ -425,47 +423,46 @@ script 15 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	Actually,my house
-	is in the Central
-	Town chip store.
+	Na verdade, eu moro
+	na loja de chips do
+	Bairro Central.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The store's called
-	"AsterLand"!
+	Ela se chama
+	"Mundo Aster"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're in the middle
-	of remodeling,so
-	we're not open,but
+	Estamos reformando
+	agora, então a loja
+	não tá aberta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	once we're finished,
-	I really hope you'll
-	come by!
+	mas, quando terminar,
+	espero que você dê
+	uma passada lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I've gotta go
-	home and help with
-	the remodeling.
+	Bom, tenho que ir pra
+	casa agora e ajudar
+	com as reformas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll see you
-	tomorrow,Lan!
+	Até amanhã, Lan!
 	"""
 	keyWait
 		any = false
@@ -478,15 +475,14 @@ script 16 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,see you
-	tomorrow!
+	É, té amanhã!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Tab
-	"OK!"
+	"Uhum!"
 	keyWait
 		any = false
 	end
@@ -496,17 +492,17 @@ script 17 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like school's
-	gonna get pretty
-	busy from now on...
+	Parece que a vida
+	na escola vai ser
+	bem agitada...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,let's go check
-	out CentralArea3 and
-	the Cybeast statues!
+	Bom, bora pra Área
+	Central 3 ver as estátuas
+	das Cyberbestas!
 	"""
 	keyWait
 		any = false
@@ -515,29 +511,29 @@ script 17 mmbn6 {
 		mugshot = MegaMan
 	"""
 	OK!
-	Oh,before we do,
+	Ah, mas, antes disso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we should look at
-	that "
+	a gente devia ver
+	aquele "
 	"""
 	printItem
 		buffer = 0
 		item = 4
 	"""
 	"
-	you got earlier.
+	que você ganhou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can look at it
-	in your KeyItem on
-	the PET screen.
+	É só conferir a
+	seção "Itens" na
+	tela do seu PET.
 	"""
 	keyWait
 		any = false
@@ -546,7 +542,7 @@ script 17 mmbn6 {
 script 18 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Mr.Hikari!!"
+	"Mestre Hikari!!"
 	keyWait
 		any = false
 	end
@@ -555,7 +551,7 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"T_Tab!"
+	"T-Tab!"
 	keyWait
 		any = false
 	clearMsg
@@ -566,17 +562,17 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Mr.Hikari!"
+	"Mestre Hikari!"
 	keyWait
 		any = false
 	clearMsg
-	"Hi! I'm Tab."
+	"Oi! Eu sou o Tab."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd really like to
-	be your friend,too!
+	E adoraria ser
+	seu amigo, também!
 	"""
 	keyWait
 		any = false
@@ -589,16 +585,17 @@ script 21 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sure,but please
-	don't call me "Mr."
-	Call me "Lan"!
+	Claro, mas, por favor,
+	sem essa de "Mestre".
+	Só "Lan" tá otimo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're the same age,
-	after all...
+	Digo, eu não sou
+	seu professor nem
+	nada assim...
 	"""
 	keyWait
 		any = false
@@ -606,8 +603,8 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	"""
-	Yeah,and don't call
-	me,"Mr."either...
+	Não precisa me chamar
+	de "Mestre" também, viu?
 	"""
 	keyWait
 		any = false
@@ -620,60 +617,60 @@ script 22 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	Oh,keep quiet for
-	a second,Mick.
+	Ah, "shiu" aí um
+	pouquinho, Mick.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Hikari,er,Lan...
-	I was so impressed
-	by your NetBattle...
+	Mes... Er, digo, Lan...
+	Fiquei tão impressionado
+	com a sua NetLuta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	especially your
-	techniques...
+	Especialmente as
+	suas técnicas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The way you stayed
-	calm during the
-	incident...
+	O jeito como você
+	manteve a calma
+	durante o incidente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You didn't look
-	like a kid at all!
+	Nem parecia uma
+	criança normal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really
-	respect you!!
+	Agora eu te respeito
+	pra caramba!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I called
-	you "Mr.Hikari"!!
+	Por isso que eu te
+	chamei de "Mestre"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't respect
-	Mick at all,so I
-	don't call him "Mr."
+	Diferente do Mick,
+	que eu não respeito
+	nem um tiquinho!
 	"""
 	keyWait
 		any = false
@@ -691,11 +688,11 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"W_Well,whatever."
+	"B-bom, tô nem aí."
 	keyWait
 		any = false
 	clearMsg
-	"... H_Hey,Lan..."
+	"... O-olha, Lan..."
 	keyWait
 		any = false
 	end

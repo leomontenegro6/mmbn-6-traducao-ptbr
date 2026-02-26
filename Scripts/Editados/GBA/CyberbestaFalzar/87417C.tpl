@@ -5,21 +5,21 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm back at the
-	same spot again?
+	Eu voltei pra
+	cá de novo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What should I do?
-	This area is too
-	complicated...
+	O que eu faço?
+	Esta área é tão
+	complicada...
 	"""
 	keyWait
 		any = false
@@ -30,16 +30,15 @@ script 1 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I hear a rumor that
-	the water over there
-	has special powers!
+	Eu ouvi um boato de que
+	esta água aqui tem
+	poderes especiais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if it's
-	true...?
+	Será que é verdade...?
 	"""
 	keyWait
 		any = false
@@ -50,14 +49,14 @@ script 2 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	Which panel to
-	take... The forks
-	of fate...
+	Qual quadro eu escolho...
+	As encruzilhadas do
+	destino...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHICH ONE...?"
+	"QUAAALLL...?"
 	keyWait
 		any = false
 	end
@@ -67,30 +66,30 @@ script 5 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	You know what they
-	call it when a Navi
+	Sabe como chamam
+	quando um Navi
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	rides a one_way
-	panel here?
+	pisa em um desses
+	paineis de transporte
+	de uma mão só?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They call it
-	NetSurfing!!
+	"Surfe na Rede"!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The NetSurfing is
-	great here in
-	SeasideArea3!!
+	E o Surfe na Rede
+	é irado aqui, na
+	Área Beira-Mar 3!
 	"""
 	keyWait
 		any = false
@@ -101,16 +100,16 @@ script 6 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hehehehe!
-	I just rode an
-	awesome wave!!
+	He he he he!
+	'Cabei de pegar
+	mó onda, cara!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright!!!
-	One more time!!
+	Irado!!!
+	Só bora!!
 	"""
 	keyWait
 		any = false
@@ -120,14 +119,14 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"I'm a NetSurfer,too!"
+	"Eu também sou\nSurfista na Rede!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I'm not gonna
-	lose out to a bunch
-	of whippersnappers!
+	E não vou perder pra
+	um bando de fedelhos
+	convencidos, não!
 	"""
 	keyWait
 		any = false

@@ -6,9 +6,8 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	SKY AREA1.
-	ENJOY YOUR STAY...
+	BEM-VINDO À ÁREA CÉU 1.
+	APROVEITE A ESTADIA...
 	"""
 	keyWait
 		any = false
@@ -29,17 +28,16 @@ script 1 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Lately there
-	has been a lot
-	of crime...
+	Tem havido tantos
+	crimes ultimamente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Undernet is next
-	to this area,so it's
-	kind of scary...
+	A Undernet fica bem
+	do lado desta área,
+	então dá um medo...
 	"""
 	keyWait
 		any = false
@@ -60,17 +58,16 @@ script 2 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	I just heard this
-	from a friend in
-	Sky Area2...
+	Eu ouvi isso de uma
+	amiga na Área Céu 2...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seems a lot of evil
-	Navis are wandering
-	in the Undernet...
+	Parece que tem um monte
+	de Navis do mal rondando
+	a Undernet...
 	"""
 	keyWait
 		any = false
@@ -81,16 +78,15 @@ script 5 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	They're really
-	going to hold the
-	Expo?
+	Eles vão mesmo
+	realizar a Exposição?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got a bad
-	feeling about this!
+	Eu tô com um mau
+	pressentimento...!
 	"""
 	keyWait
 		any = false
@@ -101,16 +97,16 @@ script 6 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	The Expo,huh?
-	Sounds fun!!
+	A Exposição, é?
+	Parece legal!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This should bring
-	the attention of the
-	world to Cyber City!
+	Isso deve atrair a
+	atenção do mundo sobre
+	a Cidade Saibher!
 	"""
 	keyWait
 		any = false
@@ -121,16 +117,15 @@ script 10 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	The NetPolice have
-	improved their
-	patrols...
+	A NetPolícia aumentou
+	suas patrulhas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So it's OK to open
-	the Expo!
+	Então tudo bem fazerem
+	a Exposição!
 	"""
 	keyWait
 		any = false
@@ -141,9 +136,8 @@ script 11 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	The Expo Site
-	already looks like
-	it's a lot of fun!
+	A área da Exposição já
+	parece estar mó badalada!
 	"""
 	keyWait
 		any = false
@@ -154,8 +148,8 @@ script 15 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I'm gonna pummel you
-	back into the dirt!
+	Eu vou te
+	amassar, otário!
 	"""
 	keyWait
 		any = false
@@ -170,8 +164,8 @@ script 16 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I'm going to delete
-	you! Get ready!!
+	Tu vai ser deletado!
+	Prepara!!
 	"""
 	keyWait
 		any = false

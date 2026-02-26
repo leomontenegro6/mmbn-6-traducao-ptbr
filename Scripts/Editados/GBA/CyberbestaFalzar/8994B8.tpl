@@ -14,13 +14,12 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Sorry,"
+	"Desculpa,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I let my
-	guard down...
+	eu baixei a guarda...
 	"""
 	keyWait
 		any = false
@@ -32,7 +31,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Blackbeard
 	msgOpen
-	"Hey,shut yer trap!"
+	"Boquinha de siri, moleque!"
 	keyWait
 		any = false
 	clearMsg
@@ -54,7 +53,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"S_Stop it!"
+	"P-para com isso!"
 	keyWait
 		any = false
 	end
@@ -64,15 +63,17 @@ script 5 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Heh! I wouldn't
-	get any closer
+	He! Eu não chegaria
+	mais perto, não, se
+	fosse você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if ye care 'bout
-	yer friend 'ere,boy.
+	A menos que não ligue
+	pra segurança do seu
+	amiguinho.
 	"""
 	keyWait
 		any = false
@@ -84,7 +85,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That's low!"
+	"Covarde!"
 	keyWait
 		any = false
 	clearMsg
@@ -96,45 +97,44 @@ script 7 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Say whatever ye
-	want,boy!
+	Me chama do que
+	quiser, moleque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yer no saint
-	yerself!
+	Até parece que
+	você não merece.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ye come 'ere,messin'
-	up me show!
+	Entrando aqui,
+	estragando o meu show...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was goin' to take
-	over this town's
-	waterworks,
+	Eu ia me apossar da
+	hidrovia deste distrito
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and stop the
-	water in all of
-	Cyber City,but
+	e parar todo o fluxo de
+	água da Cidade Saibher,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ye 'ad to come and
-	mess it all up!
+	mas aí você tinha que
+	aparecer e estragar o
+	meu motim!
 	"""
 	keyWait
 		any = false
@@ -146,7 +146,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let Mick go!"
+	"Solta o Mick!"
 	keyWait
 		any = false
 	clearMsg
@@ -158,47 +158,47 @@ script 9 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	Don't get
-	any closer!
+	Opa! Nem mais um
+	passo, rapaz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't come 'ere
-	to fail,boy!
+	Eu não cheguei longe
+	assim pra vacilar agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I had to ask some
-	favors of the
-	"organization"
+	Pro meu show, eu tive
+	que pedir uns favores
+	pra "organização".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for me show. But yer
-	ruinin' my standin'
-	with "'em".
+	Mas, agora, você tá
+	arruinando a minha
+	posição com "eles".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ye get me?
-	So ye better listen
-	real good,boy!
+	Entendeu, garoto?
+	Então limpa os ouvidos
+	e escuta bem:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Open all the cages
-	and tanks again.
-	NOW!
+	destranca de novo
+	todas as gaiolas e
+	tanques daqui. AGORA!
 	"""
 	keyWait
 		any = false
@@ -214,15 +214,14 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Standing with the
-	"organization"?
+	Sua posição com
+	a "organização"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are you talking
-	about!?
+	Que papo é esse?!
 	"""
 	keyWait
 		any = false
@@ -235,9 +234,9 @@ script 11 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	None of ye business!
-	If ye don't hurry,
-	ye know what'll...
+	Um que não é da sua
+	conta! Vamos. Se você
+	não for logo, já viu...
 	"""
 	keyWait
 		any = false
@@ -262,18 +261,18 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"M_Mick!"
+	"M-Mick!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Darn it!
-	If I don't...!
+	Droga!
+	Se eu não fizer...!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Huh?"
+	"... Hã?"
 	soundFadeOut
 		slot = 31
 		length = 10
@@ -285,7 +284,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Blackbeard
 	msgOpen
-	"What's this...?"
+	"O que é isso...?"
 	keyWait
 		any = false
 	end
@@ -294,7 +293,7 @@ script 15 mmbn6 {
 	mugshotHide
 	msgOpen
 	controlLock
-	"*aur! aur! aur!*"
+	"Ôur! Ôur! Ôur!"
 	wait
 		frames = 35
 	jump
@@ -305,7 +304,7 @@ script 16 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	controlLock
-	"Geeeeeh!!"
+	"Aeeeegh!!"
 	wait
 		frames = 35
 	end
@@ -317,7 +316,7 @@ script 17 mmbn6 {
 	controlLock
 	soundPlay
 		track = 379
-	"Thuuud!"
+	"Tonnc!"
 	wait
 		frames = 39
 	soundEnableTextSFX
@@ -332,7 +331,7 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = Blackbeard
 	msgOpen
-	"Gwaaaaah!"
+	"Aaaaagh!"
 	keyWait
 		any = false
 	end
@@ -355,13 +354,13 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Y_You did it!"
+	"... D-deu bom!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You did it!
-	Great job,Plata!
+	Você conseguiu!
+	Mandou bem, Plata!
 	"""
 	keyWait
 		any = false
@@ -372,7 +371,7 @@ script 20 mmbn6 {
 script 21 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squawk!!*"
+	"Quén!!"
 	keyWait
 		any = false
 	clearMsg
@@ -383,7 +382,7 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Y_You..."
+	"V-você..."
 	keyWait
 		any = false
 	end
@@ -392,11 +391,11 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"D_Did you..."
+	"Ei, v-você..."
 	keyWait
 		any = false
 	clearMsg
-	"come to save me...?"
+	"veio me salvar...?"
 	keyWait
 		any = false
 	clearMsg
@@ -406,7 +405,7 @@ script 23 mmbn6 {
 script 24 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*Squawk!! Squawk!!*"
+	"Quén!! Quén!!"
 	keyWait
 		any = false
 	clearMsg
@@ -418,16 +417,15 @@ script 25 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah!
-	Plata came to
-	save you,Mick!
+	Aham!
+	O Plata veio pra te
+	salvar, sim, Mick!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That was awesome,
-	Plata!
+	Cê foi incrível, Plata!
 	"""
 	keyWait
 		any = false
@@ -439,11 +437,11 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Ha,ha,ha..."
+	"Ha ha ha..."
 	keyWait
 		any = false
 	clearMsg
-	"You stupid bird..."
+	"Passarinho doido..."
 	keyWait
 		any = false
 	soundFadeOut

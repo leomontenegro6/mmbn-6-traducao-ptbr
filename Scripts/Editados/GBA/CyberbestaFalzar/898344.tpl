@@ -17,17 +17,16 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There it is!
-	There's the seal's
-	favorite ball!
+	Tá ali!
+	A bola favorita da
+	"elefanta-marinha"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... OK!
-	I'm going to go
-	get it...
+	... Beleza!
+	Eu vou lá pegar...
 	"""
 	keyWait
 		any = false
@@ -39,7 +38,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wait,Lan!"
+	"Lan, calma!"
 	keyWait
 		any = false
 	end
@@ -49,9 +48,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's wrong,
-	MegaMan? Why are
-	you stopping me?
+	Que foi, MegaMan?
+	Tá me segurando por quê?
 	"""
 	keyWait
 		any = false
@@ -64,23 +62,23 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The tank is full
-	of jellyfish!
+	O tanque tá cheio
+	de águas-vivas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And jellyfish
-	are poisonous!
+	E águas-vivas
+	são venenosas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you get stung in
-	a tank this deep,
-	you'll drown!
+	Se você for queimado
+	num tanque fundo desses,
+	vai se afogar!
 	"""
 	keyWait
 		any = false
@@ -93,16 +91,16 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That doesn't matter
-	right now!
+	Eu não tenho tempo pra
+	me preocupar com isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While we're talking
-	about this,Mick and
-	the others...
+	Enquanto a gente tá
+	aqui discutindo, o
+	Mick e o Diretor...!
 	"""
 	keyWait
 		any = false
@@ -114,22 +112,22 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Calm down,Lan!!"
+	"Respira, Lan!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Slow down and think
-	rationally about
-	this!
+	Dá uma desacelerada e
+	pensa racionalmente no
+	problema.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,how can we swim
-	through the water
-	and not get stung?
+	Tá: como daria pra
+	você nadar até ali
+	sem ser queimado?
 	"""
 	keyWait
 		any = false
@@ -142,13 +140,13 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Without
-	getting stung?...
+	... Sem as águas-vivas
+	me pegarem? ...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Is there a way?"
+	"Tem como?"
 	keyWait
 		any = false
 	end

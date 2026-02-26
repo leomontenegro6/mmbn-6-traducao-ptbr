@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's head for
-	Mr.Weather!
+	Lan, vamos lá ver
+	o Seu Cleema!
 	"""
 	keyWait
 		any = false
@@ -16,8 +16,8 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The elevator is
-	out of order...
+	O elevador está
+	em manutenção...
 	"""
 	keyWait
 		any = false
@@ -28,39 +28,38 @@ script 10 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Mr.Famous gave me
+	O Sr. Famoso me deu uma
 	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 3
 	"""
-	" to
-	take care of...
+	" para eu
+	cuidar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What do you think?
-	It's Famous' folder!
-	Want to try it out?
+	Que tal? É uma pasta
+	do Famoso! Não quer
+	experimentar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't mind
-	overwriting the
-	Extra Folder you've
+	Se não se incomodar
+	de sobrescrever sua
+	Pasta Extra atual,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	got now,I can send
-	you the data right
-	away...
+	posso te mandar os
+	dados agora mesmo...
 	"""
 	keyWait
 		any = false
@@ -76,7 +75,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure! "
+	" Sim! "
 	option
 		brackets = 0
 		left = 0
@@ -85,7 +84,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No,Thanks"
+	" Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -100,9 +99,9 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Really...
-	When Mr.Famous gets
-	here,he'll be sad!
+	Sei... Olha, o Sr. Famoso
+	vai ficar bem triste
+	quando chegar!
 	"""
 	keyWait
 		any = false
@@ -113,8 +112,8 @@ script 11 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Alright,I'll
-	transmit it now...
+	Tá bom, vou
+	transmiti-los agora...
 	"""
 	keyWait
 		any = false
@@ -136,20 +135,20 @@ script 11 mmbn6 {
 	soundDisableTextSFX
 	soundPlay
 		track = 115
-	"Ding!!"
+	"Dim!!"
 	keyWait
 		any = false
 	clearMsg
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = Scientist
-	"Done transferring."
+	"Transferência concluída."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your old Extra
-	Folder is now called
+	A sua antiga Pasta
+	Extra agora virou a
 	"
 	"""
 	printFolderName
@@ -160,9 +159,9 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Use this folder
-	and learn to fight
-	like someone Famous!
+	Use essa pasta e
+	aprenda a lutar como
+	"alguém Famoso"!
 	"""
 	keyWait
 		any = false

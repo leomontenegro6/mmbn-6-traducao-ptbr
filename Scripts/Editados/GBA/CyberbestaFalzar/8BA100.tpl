@@ -6,9 +6,8 @@ script 0 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	But I wonder if it
-	will really be
-	alright...
+	Mas será que vai
+	dar certo mesmo...?
 	"""
 	keyWait
 		any = false
@@ -21,8 +20,7 @@ script 1 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	What are you talking
-	about?
+	Do que cê tá falando?
 	"""
 	keyWait
 		any = false
@@ -34,22 +32,22 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"The Expo! EXPO!!"
+	"Da Exposição!\nA Exposição!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With WWW causing all
-	these incidents
-	lately,
+	Com a WWw causando
+	todos esses incidentes
+	esses dias,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if the Expo
-	will still be held.
-	I'm really worried.
+	será que vão mesmo
+	fazer ela? Eu tô
+	mó preocupado.
 	"""
 	keyWait
 		any = false
@@ -62,17 +60,16 @@ script 3 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Yeah,all the adults
-	talk about lately
-	is how uneasy they
+	Verdade. Os adultos
+	só falam de como eles
+	tão com medo e de como
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	are and how
-	dangerous everything
-	is. Yeesh.
+	tudo anda perigoso
+	e tal. Credo!
 	"""
 	keyWait
 		any = false
@@ -85,9 +82,9 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sounds more like
-	WWW's trying to stop
-	the Expo...
+	Parece até que a WWW
+	tá tentando impedir
+	a Exposição...
 	"""
 	keyWait
 		any = false
@@ -99,9 +96,8 @@ script 5 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	Everyone!
-	Your attention,
-	please!
+	Pessoal!
+	Sua atenção, por favor!
 	"""
 	keyWait
 		any = false
@@ -115,8 +111,9 @@ script 6 mmbn6 {
 	msgOpen
 	controlLock
 	"""
-	The Expo will be
-	held as scheduled!
+	A Exposição será
+	realizada conforme
+	o programado!
 	"""
 	wait
 		frames = 70
@@ -128,15 +125,13 @@ script 7 mmbn6 {
 	msgOpen
 	controlLock
 	"""
-	There are great
-	dangers!
+	O perigo existe, sim!
 	"""
 	wait
 		frames = 70
 	clearMsg
 	"""
-	But we will not be
-	scared!
+	Mas não temos medo!
 	"""
 	wait
 		frames = 70
@@ -148,9 +143,9 @@ script 8 mmbn6 {
 	msgOpen
 	controlLock
 	"""
-	Citizens! Let's come
-	together and make
-	this Expo a success!
+	Cidadãos! Vamos nos
+	unir para fazer dessa
+	Exposição um sucesso!
 	"""
 	wait
 		frames = 70
@@ -162,16 +157,16 @@ script 9 mmbn6 {
 	msgOpen
 	controlLock
 	"""
-	If we band together,
-	we can scare those
-	who want to hurt us!
+	Se ficarmos juntos,
+	podemos espantar aqueles
+	que querem o nosso mal!
 	"""
 	wait
 		frames = 70
 	clearMsg
 	"""
-	Let's all work hard
-	together!
+	Vamos nos empenhar,
+	todos nós, juntos!
 	"""
 	wait
 		frames = 70
@@ -184,7 +179,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"They're CopyBots!!"
+	"São CópiRoides!!"
 	keyWait
 		any = false
 	clearMsg
@@ -199,16 +194,14 @@ script 11 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	They're going to
-	open the Expo as
-	planned!
+	A Exposição vai
+	abrir normal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Aren't you happy,
-	Tab?
+	Tá feliz, né, Tab?
 	"""
 	keyWait
 		any = false
@@ -220,11 +213,11 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Yeah!!"
+	"Aham!!"
 	keyWait
 		any = false
 	clearMsg
-	"Aren't you,Lan?"
+	"Você também, né, Lan?"
 	keyWait
 		any = false
 	clearMsg
@@ -235,7 +228,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Yeah."
+	"... É."
 	keyWait
 		any = false
 	clearMsg
@@ -247,9 +240,8 @@ script 14 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	What's with you? You
-	don't sound so
-	happy.
+	O que deu em você?
+	Não parece muito feliz.
 	"""
 	keyWait
 		any = false
@@ -262,33 +254,31 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... I'm happy,but
-	will it really be
-	safe...?
+	... Eu tô, mas será
+	que é seguro mesmo...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The incidents lately
-	have been pretty
-	bad,
+	Os incidentes que
+	rolaram foram feios,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and MegaMan and I
-	were a part of it
-	all...
+	e o MegaMan e eu
+	távamos no meio de
+	todos eles...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'm glad what
-	happened isn't gonna
-	stop the Expo...
+	Mas eu tô feliz que tudo
+	que rolou não vai
+	impedir a Exposição...
 	"""
 	keyWait
 		any = false
@@ -301,30 +291,30 @@ script 16 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Hey,stop making that
-	droopy face!
+	Ô, para com essa
+	cara de enterro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,you were
-	involved,but
+	É, cês tavam
+	envolvidos, sim,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you stopped the bad
-	guys,
+	mas cês VENCERAM
+	os bandidos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so you should be
-	able to find a way
-	to help the Expo!
+	e aposto que vão achar
+	um jeito de ajudar a
+	Exposição também!
 	"""
 	keyWait
 		any = false
@@ -336,13 +326,13 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Yeah,Lan!"
+	"Pois é, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's nothing
-	you can't do!
+	Não tem nada que você
+	não consiga fazer!
 	"""
 	keyWait
 		any = false
@@ -354,7 +344,7 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks,you two!!"
+	"Valeu, gente!!"
 	keyWait
 		any = false
 	clearMsg
@@ -366,9 +356,9 @@ script 19 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	Ah,it's time to
-	stock the shelves!
-	I have to go home!
+	Ah, tá na hora de
+	ver as prateleiras!
+	Tenho que ir pra loja!
 	"""
 	keyWait
 		any = false
@@ -381,9 +371,8 @@ script 20 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Yeah,I've gotta get
-	home too.
-	Later!
+	É, eu também tenho que
+	ir pra casa. Falou!
 	"""
 	keyWait
 		any = false
@@ -394,8 +383,8 @@ script 21 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,we'd better
-	head on home,too.
+	Bom, bora pra
+	casa também, né?
 	"""
 	keyWait
 		any = false

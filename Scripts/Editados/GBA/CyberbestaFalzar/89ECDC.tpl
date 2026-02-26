@@ -6,25 +6,25 @@ script 0 mmbn6 {
 		mugshot = CircusMan
 	msgOpen
 	"""
-	Who woulda guessed
-	that you'd really
-	have the Cybeast...?
+	Não acredito que
+	você tinha mesmo
+	a Cyberbesta...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But...
-	as long as we have
-	the other one...
+	Mas...
+	enquanto nós tivermos
+	a outra...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the ringmaster...
-	will get...
-	his way...
+	o mestre do picadeiro...
+	vai conseguir...
+	o que quer...
 	"""
 	keyWait
 		any = false
@@ -39,9 +39,9 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	...ringmaster...
-	...his way...
-	And the Cybeast...
+	"Mestre do picadeiro"...
+	"O que quer"...
+	E a Cyberbesta...
 	"""
 	keyWait
 		any = false
@@ -54,9 +54,9 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like there's
-	someone else pulling
-	the strings here...
+	Parece que tem um outro
+	sujeito tocando esse
+	circo dos bastidores...
 	"""
 	keyWait
 		any = false
@@ -67,17 +67,17 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We don't know enough
-	about our enemy yet,
-	but if they have the
+	A gente ainda não tem
+	informação o bastante
+	sobre o nosso inimigo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	other Cybeast,then
-	we're in a lot
-	of trouble...
+	mas, se eles tão com
+	a outra Cyberbesta, a
+	coisa vai ficar feia...
 	"""
 	keyWait
 		any = false
@@ -89,13 +89,12 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah..."
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have a bad
-	feeling...
+	Não gosto nada disso...
 	"""
 	keyWait
 		any = false
@@ -108,16 +107,16 @@ script 5 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	... I'm reeeally
-	sorry!
+	... Descuuuulpa,
+	de verdade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A Navi named MegaMan
-	sorta got to the
-	other Cybeast first.
+	Um Navi aí, "MegaMan",
+	meio que achou a outra
+	Cyberbesta primeiro.
 	"""
 	keyWait
 		any = false
@@ -131,16 +130,16 @@ script 6 mmbn6 {
 	msgOpen
 	"""
 	... MegaMan...
-	... That's Lan
-	Hikari's Navi...
+	... O Navi de
+	Lan Hikari...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Hmm. Was it fate
-	that he moved here
-	to this town?
+	... Hmm. Será que foi
+	o destino o que me
+	trouxe a esta cidade?
 	"""
 	keyWait
 		any = false
@@ -152,7 +151,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Yuika
 	msgOpen
-	"... Huh...?"
+	"... Hã...?"
 	keyWait
 		any = false
 	clearMsg
@@ -164,24 +163,23 @@ script 8 mmbn6 {
 		mugshot = 96
 	msgOpen
 	"""
-	Nothing.
-	Just talking
-	to myself...
+	Esqueça.
+	Só estava pensando alto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can back off for
-	now... At least we
-	have one Cybeast.
+	Está dispensada, por
+	enquanto... Pelo menos,
+	temos uma Cyberbesta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can consider this
-	battle a victory.
+	Podemos considerar
+	essa batalha vencida.
 	"""
 	keyWait
 		any = false
@@ -193,14 +191,13 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Yuika
 	msgOpen
-	"Phew,thanks!"
+	"Ufa... Obrigada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I'll prove that
-	I can get the other
-	one too,for sure!
+	E eu juro que vamos
+	pôr as mãos na outra!
 	"""
 	keyWait
 		any = false
@@ -212,21 +209,21 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = 96
 	msgOpen
-	"Hmph,as expected..."
+	"Hmpf, como já era\nde se esperar..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Lan Hikari...
-	And MegaMan...
+	E MegaMan.EXE...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You two are becoming
-	a threat to my
-	operation...
+	Vocês dois estão se
+	mostrando uma ameaça
+	à minha operação...
 	"""
 	keyWait
 		any = false

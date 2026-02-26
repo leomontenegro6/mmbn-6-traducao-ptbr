@@ -10,8 +10,7 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mom,there's a
-	guest...?
+	Mãe, a tal visita...?
 	"""
 	keyWait
 		any = false
@@ -19,92 +18,88 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	Oh,she was here
-	just a second ago...
+	Ah, ela tava aqui
+	até ainda agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Huh!? She left?"
+	"Ué?! Ela foi embora?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mom
 	"""
-	Yes...
-	She should still
-	be closeby though.
+	É...
+	Mas não deve
+	ter ido longe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Who was it anyways?"
+	"Quem era?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mom
 	"""
-	Well... It was a
-	cute girl with
-	two big hairclips.
+	Bom... Era uma menina
+	linda com dois acessórios
+	enormes no cabelo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She looked kind of
-	sad...
+	Parecia meio triste...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I bet it was Iris!"
+	"Ah! Deve ser a Iris!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mom
 	"""
-	Is she your
-	friend?
+	É uma amiga sua?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yeah..."
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mom
 	"""
-	Did you have some
-	kind of plans with
-	her?
+	Você tinha marcado
+	alguma coisa com ela?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should try to
-	find her.
+	É melhor ir atrás dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"OK..."
+	"Tá..."
 	keyWait
 		any = false
 	flagSet
@@ -116,16 +111,17 @@ script 1 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan,you should
-	invite your friends
-	from school over...
+	Devia convidar os seus
+	coleguinhas de escola
+	pra virem aqui, Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll even bake some
-	goodies for you!
+	Posso preparar uns
+	docinhos deliciosos
+	pra eles!
 	"""
 	keyWait
 		any = false
@@ -136,17 +132,15 @@ script 2 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Welcome home...
-	But aren't you a
-	little late?
+	Bem-vindo de volta...
+	Mas demorou hoje, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...You didn't
-	get detention did
-	you?
+	... Você não ficou de
+	castigo na escola, ficou?
 	"""
 	keyWait
 		any = false
@@ -157,24 +151,24 @@ script 3 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Since yesterday's
-	research was behind
-	schedule,I stayed up
+	Como a pesquisa de
+	ontem atrasou, eu tive
+	que virar a madrugada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	all night and was
-	able to finish early
-	this morning.
+	Só consegui terminar
+	hoje cedo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	*yawn* I think I'll
-	lie down...
+	Uaaahhh...
+	Acho que eu vou me
+	deitar um pedacinho...
 	"""
 	keyWait
 		any = false
@@ -185,17 +179,15 @@ script 5 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Something seems
-	to to be wrong
-	on the net.
+	Parece que estão com
+	algum problema na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even your father
-	was mumbling on
-	the phone...
+	Eu ouvi o seu pai
+	murmurando no celular...
 	"""
 	keyWait
 		any = false
@@ -206,22 +198,23 @@ script 6 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	...Hmm,I see...
-	Gotcha.
+	... Hmm, entendi...
+	Tudo bem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time to alert the
-	NetPolice so they
+	Hora de alertar a
+	NetPolícia para ela
+	começar a monitorar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can regulate normal
-	users jacking in...
+	o acesso de
+	usuários comuns...
 	"""
 	keyWait
 		any = false
@@ -232,24 +225,23 @@ script 15 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Something happened
-	on the Net it
-	seems.
+	Parece que aconteceu
+	alguma coisa na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,I know you'll
-	want to go check
-	it out,but for now
+	Lan, sei que você quer
+	ir lá conferir, mas,
+	por enquanto,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you are not allowed
-	to use the Net.
+	você está proibido
+	de entrar na Rede.
 	"""
 	keyWait
 		any = false
@@ -264,9 +256,8 @@ script 20 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,don't jack in
-	to the Net...
-	Do you understand?
+	Lan, não se conecte
+	à Rede... Ouviu bem?
 	"""
 	keyWait
 		any = false
@@ -280,15 +271,14 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Da...DAD..."
+	"Pa... PAI..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Dad
 	"""
-	What's the matter,
-	Lan?
+	Sim, Lan?
 	"""
 	keyWait
 		any = false
@@ -296,29 +286,29 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I want to know
-	how to destroy
-	a Cybeast!!
+	Eu quero aprender
+	como faz pra derrubar
+	uma Cyberbesta!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Dad
-	"Lan... You..."
+	"Lan... Você..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you see a
-	Cybeast...?
+	Você viu uma
+	Cyberbesta...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"...Yes."
+	"... Vi."
 	keyWait
 		any = false
 	clearMsg
@@ -330,78 +320,78 @@ script 21 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
 	Lan!
-	This situation is
-	too big for you!
+	Essa situação é grande
+	demais pra você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The NetPolice are
-	already on the case!
+	A NetPolícia já
+	está investigando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You and MegaMan
-	don't have to
-	worry about it...
+	Você e o MegaMan
+	não precisam se
+	preocupar com isso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Leave dealing with
-	Cybeasts up to the
-	adults.
+	Deixem o caso das
+	Cyberbestas com
+	os adultos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't even think
-	of getting close
-	to a Cybeast!
+	É sério. Nem pensem
+	em chegar perto de
+	uma delas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Dad..."
+	"Pai..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Dad
-	"I'm sorry Lan..."
+	"Desculpa, filho..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to
-	understand how
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	dangerous
-	Cybeasts are...
+	Mas aposto que você
+	sabe muito bem o quanto
+	as Cyberbestas são
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just listen to your
-	Dad this time and
-	be a good boy,OK?
+	perigosas...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Só desta vez, escute
+	o seu pai e não se
+	envolva, tá bom?
 	"""
 	keyWait
 		any = false
@@ -420,9 +410,9 @@ script 22 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Just go to your
-	room and be a
-	good boy... OK?
+	Vá pro quarto e não
+	esquente a cabeça
+	com isso... Tá bom?
 	"""
 	keyWait
 		any = false
@@ -438,16 +428,15 @@ script 25 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Something terrible
-	has happened...
+	Aconteceu uma
+	coisa terrível...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,just don't go
-	and do something
-	crazy...
+	Lan, não vá fazer
+	nenhuma loucura...
 	"""
 	keyWait
 		any = false
@@ -458,8 +447,8 @@ script 30 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan,don't go doing
-	anything crazy...
+	Lan, não vá fazer
+	nenhuma loucura...
 	"""
 	keyWait
 		any = false
@@ -478,14 +467,14 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"...AH! Lan..."
+	"... AH! Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's terrible!
-	Your father...
-	He...
+	O que eu faço?!
+	O seu pai...
+	Ele...
 	"""
 	keyWait
 		any = false
@@ -493,15 +482,15 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Say it Mom!
-	Just say it!
+	O papai?
+	O quê?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What happened
-	to Dad!?
+	O que aconteceu
+	com ele, mãe?!
 	"""
 	keyWait
 		any = false
@@ -509,29 +498,28 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	Just a minute ago,
-	the police came to
+	Ainda agora, a polícia
+	veio aqui me avisar que
+	o seu pai...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tell me that your
-	Dad has been
-	arrested!
+	foi preso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Arrested..."
+	"Preso...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What was he
-	arrested for...
+	Pelo... que ele
+	foi preso...?
 	"""
 	keyWait
 		any = false
@@ -539,44 +527,44 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	He was arrested for
-	hacking the Green
-	Town court system...
+	Por hackear o
+	sistema judiciário
+	do Distrito Verde...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"The court system..."
+	"O sistema judiciário..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You mean the
-	JudgeTree!?
+	Quer dizer,
+	a Árvore Juíza?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's ridiculous!
-	Dad has no reason
-	to hack anything!
+	Mas isso é loucura!
+	O papai nem teria por
+	que hackear nada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"I know!"
+	"Eu sei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He has nothing to
-	gain by hacking the
-	JudgeTree!
+	Ele não teria nada
+	a ganhar hackeando
+	a Árvore Juíza!
 	"""
 	keyWait
 		any = false
@@ -584,9 +572,9 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hey Mom!
-	What's gonna happen
-	to Dad?
+	Ei, mãe!
+	O que vai acontecer
+	com ele?
 	"""
 	keyWait
 		any = false
@@ -594,15 +582,14 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	They took him to
-	Green Town...
+	Levaram ele pro
+	Distrito Verde...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're going to
-	put him on trial...
+	Ele vai a julgamento...
 	"""
 	keyWait
 		any = false
@@ -610,15 +597,15 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,let's go to
-	Green Town!
+	Lan, vamos lá pro
+	Distrito Verde!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	soundFadeInBGM
@@ -640,16 +627,14 @@ script 40 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Huh? School is
-	out already?
+	Hã? Já acabou a aula?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you're going
-	out to play,don't
-	come home too late!
+	Se for sair pra brincar,
+	trate de voltar cedo!
 	"""
 	keyWait
 		any = false
@@ -660,24 +645,23 @@ script 41 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You went to
-	Green Town!?
+	Você foi ao
+	Distrito Verde?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should have
-	brought me some
-	flowers!
+	Devia ter comprado
+	umas flores pra mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The flowers there
-	are famous for
-	being very pretty!
+	As flores de lá são
+	famosas por serem
+	estonteantes!
 	"""
 	keyWait
 		any = false
@@ -688,16 +672,17 @@ script 42 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Becoming a witness
-	is incredible...
+	Que incrível.
+	Você, depondo
+	como testemunha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gained
-	another good
-	experience,Lan.
+	Mais uma experiência
+	de vida pra coleção,
+	né, filho?
 	"""
 	keyWait
 		any = false

@@ -6,43 +6,42 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	"""
-	Those Fish Sticks
-	look good...
+	Esses palitos de peixe
+	parecem tão bons...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I'm hungry...
-	Guess I'll buy
-	some!
+	E eu tô com fome...
+	Acho que vou comprar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"*Squawk! Squawk!*"
+	"Quén! Quén!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mick
 	"""
-	What?
-	You want some too?
+	Que é?
+	Cê também quer?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You just ate fish!"
+	"Mas cê ACABOU\nde comer peixe!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	*Squawk! Squawk!*
-	*Squawk! Squawk!*
-	*Squawk! Squawk!*
+	Quén! Quén!
+	Quén! Quén!
+	Quén! Quén!
 	"""
 	keyWait
 		any = false
@@ -50,14 +49,14 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	"""
-	OK! OK!
-	I got it.
-	Be quiet already!
+	Tá bom! Tá bom!
+	Comprei um pra você.
+	Só cala a boca, vai!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Awww...my allowance!"
+	"Afe... tchau, mesada!"
 	keyWait
 		any = false
 	end
@@ -65,15 +64,15 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	mugshotHide
-	"*Squawk! Squawk!*"
+	"Quén! Quén!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mick
 	"""
-	I told you not
-	to follow me!!
+	Eu já falei pra cê
+	parar de me seguir!
 	"""
 	keyWait
 		any = false
@@ -84,23 +83,21 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	"""
-	Staying with
-	the penguin
-	overnight...
+	Ficar com o pinguim
+	até de manhã...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just thinking
-	about it gives me
-	the chills...
+	Só de pensar nisso,
+	dá arrepios...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"*Squawk! Squawk!*"
+	"Quén! Quén!"
 	keyWait
 		any = false
 	end
@@ -108,23 +105,23 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	mugshotHide
-	"*Squawk! Squawk!*"
+	"Quén! Quén!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mick
 	"""
-	Hey,I told you to
-	leave me alone!
+	Eu já falei pra cê
+	me deixar em paz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...why won't this
-	featherhead listen
-	to me and buzz off!?
+	... Por que é que esse
+	penoso aí não me escuta
+	e para de me amolar?!
 	"""
 	keyWait
 		any = false
@@ -132,16 +129,17 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Maybe it's because
-	you fed him that
-	pigeon feed?
+	Porque você deu pra
+	ele a comida de pombo
+	antes, talvez?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet he was
-	really hungry then!
+	Aposto que ele já
+	tava morto de fome
+	naquela hora!
 	"""
 	keyWait
 		any = false
@@ -149,18 +147,18 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	"""
-	That food was that
-	good,huh?
+	Cê gostou mesmo
+	daquela comida, hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Pigeon feed..."
+	"Da ração de pombo..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"*Squawk! Squawk!*"
+	"Quén! Quén!"
 	keyWait
 		any = false
 	end
@@ -175,88 +173,86 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"You're late!!"
+	"Atrasou!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I know,I know..."
+	"Eu sei, eu sei..."
 	keyWait
 		any = false
 	clearMsg
-	"So how'd it go?"
+	"E aí, como foi?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know... Your
-	night with the
-	penguin?
+	Sabe... a noite
+	com o pinguim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mick
-	"It was awful!"
+	"HORRÍVEL!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He'd just run into
-	my room!!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	And when I put
-	him in the bath tub
-	he just splashed!!
+	Ele não parou de
+	correr pelo meu quarto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the worst part
-	was bedtime!
+	E, quando eu botei ele
+	na banheira, espirrou
+	água pra tudo que é lado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He cuddled up right
-	next to me!
+	Mas a pior parte foi
+	na hora de dormir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I couldn't sleep
-	at all!!
+	Ele ficou grudado
+	em mim, a noite toda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I'm so
-	tired today!
+	Não deu pra dormir nada!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Por isso que eu tô
+	tão cansado hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Huh..."
+	"Hum..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're like members
-	of the same family
-	now!
+	Do jeito que você
+	falou, parece até que
+	ele é o seu irmão!
 	"""
 	keyWait
 		any = false
@@ -264,49 +260,49 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	"""
-	Family!
-	What are you talking
-	about!?
+	Irmãos?!
+	Que papo é esse,
+	seu doido?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm human!
-	That's a penguin!
+	Eu sou humano!
+	Ele é um pinguim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yeah..."
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you're looking
-	more like a penguin
-	every second!
+	Mas, na real, você tá
+	ficando mais "pinguim" a
+	cada segundo que passa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mick
-	"What!? How!?"
+	"O quê?! Como?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"You're mouth..."
+	"A sua boca..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mick
-	"My mouth!?"
+	"Minha boca?!"
 	keyWait
 		any = false
 	clearMsg
@@ -314,8 +310,8 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	"""
 	Lan!
-	Don't make fun of
-	him!!
+	Para de zombar
+	do menino!
 	"""
 	keyWait
 		any = false
@@ -323,23 +319,22 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hahaha!
-	But it's fun!
+	Ha ha ha!
+	Mas é tão divertido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,let's
-	go inside the
-	Aquarium!
+	Beleza, bora lá pra
+	dentro do Aquário!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mick
-	"My mouth..."
+	"Minha boca..."
 	keyWait
 		any = false
 	soundPlayBGM
@@ -350,14 +345,14 @@ script 8 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = Mick
-	"Mou...Mouth..."
+	"... Boca..."
 	keyWait
 		any = false
 	end
 }
 script 9 mmbn6 {
 	msgOpen
-	"*Squawk! Squawk!*"
+	"Quén! Quén!"
 	keyWait
 		any = false
 	end
@@ -375,7 +370,7 @@ script 11 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = Mick
-	"I'm hurrying home!"
+	"Bora, direto pra estação!"
 	keyWait
 		any = false
 	end
@@ -389,8 +384,8 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,wanna jump
-	into the CopyBot?
+	MegaMan, quer
+	entrar no CópiRoide?
 	
 	"""
 	positionOptionHorizontal
@@ -403,7 +398,7 @@ script 15 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -412,7 +407,7 @@ script 15 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -429,7 +424,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Return to PET?\n"
+	"Voltar pro PET?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -440,7 +435,7 @@ script 16 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -449,7 +444,7 @@ script 16 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -474,9 +469,9 @@ script 20 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	No matter when you
-	see it... It sure
-	makes an impression!
+	Não importa quantas
+	vezes eu veja...
+	sempre me impacta!
 	"""
 	keyWait
 		any = false
@@ -487,9 +482,9 @@ script 21 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I'm gonna go buy a
-	souvenir or two
-	for my daughter!
+	Vou comprar umas
+	lembrancinhas pra
+	minha filha!
 	"""
 	keyWait
 		any = false
@@ -500,25 +495,25 @@ script 22 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	The waterways and
-	fountains in this
-	town are all linked!
+	As hidrovias e fontes
+	deste distrito estão
+	todas ligadas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The tanks at the
-	Aquarium are
-	probably linked too!
+	Aposto que até os
+	tanques do Aquário
+	também estão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Interesting,isn't
-	it? The heart of the
-	town's in the water!
+	Interessante, né?
+	O coração do distrito
+	está na água!
 	"""
 	keyWait
 		any = false
@@ -529,24 +524,17 @@ script 25 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Do you know that
-	if you go inside
+	Sabia que a entrada
+	do Aquário fica na
+	boca dessa baleia?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this whale's mouth,
-	it's connected to
-	the Aquarium!?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Whoever made this
-	building loved to
-	play!
+	Seja lá quem fez este
+	lugar, tinha uma bela
+	de uma imaginação!
 	"""
 	keyWait
 		any = false
@@ -557,15 +545,15 @@ script 26 mmbn6 {
 		mugshot = Woman
 	msgOpen
 	"""
-	How about some
-	Fish Sticks!?!?
+	Que tal palitos
+	de peixe, rapaz?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fresh from the sea
-	for you from me!!
+	Fresquinhos, direto
+	do mar pra você!
 	"""
 	keyWait
 		any = false
@@ -576,17 +564,15 @@ script 27 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	This waterway's
-	water is crystal
-	clear!!
+	A água deste canal
+	é transparente!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This town really
-	does care about
-	the water!!
+	Este distrito realmente
+	cuida muito bem da água!
 	"""
 	keyWait
 		any = false
@@ -597,9 +583,9 @@ script 30 mmbn6 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Pir...Pir... That
-	fountain is filled
-	with piranhas!
+	Pir... Pir...
+	A fonte tá cheia
+	de piranhas!
 	"""
 	keyWait
 		any = false
@@ -610,9 +596,9 @@ script 31 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Sharks! Real Sharks!
-	What are they doing
-	here!?
+	Tubarões! De verdade!
+	O que é que eles tão
+	fezendo aqui?!
 	"""
 	keyWait
 		any = false
@@ -623,9 +609,9 @@ script 32 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Grandpa! Hurry!
-	Get out of the
-	Aquarium!!
+	Vovô! Rápido!
+	A gente tem que
+	sair do Aquário!!
 	"""
 	keyWait
 		any = false
@@ -633,9 +619,9 @@ script 32 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Wait a second...
-	This is as fast
-	as I can go!!
+	Calma, rapaz...
+	Eu não consigo ir
+	mais rápido que isto!
 	"""
 	keyWait
 		any = false
@@ -646,9 +632,9 @@ script 33 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	It's even worse
-	inside the Aquarium!
-	Don't get too close!
+	Tá ainda pior dentro
+	do Aquário! Não vá
+	muito perto, viu?!
 	"""
 	keyWait
 		any = false

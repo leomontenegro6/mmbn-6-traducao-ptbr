@@ -12,20 +12,24 @@ script 0 mmbn6 {
 }
 script 1 mmbn6 {
 	msgOpen
-	"\"The blue planet\n Earth. A crisis is\n upon this planet.\""
-	keyWait
-		any = false
-	clearMsg
 	"""
-	is written on this
-	panel.
+	"Terra, o planeta azul.
+	Uma crise se instaura
+	nesse planeta."
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You suddenly feel
-	a heavy weight...
+	É o que está escrito
+	nesse painel.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Você sente o coração
+	pesado de repente...
 	"""
 	keyWait
 		any = false
@@ -34,32 +38,32 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	Humans make a lot of
-	carbon dioxide every
-	day through things
+	Humanos produzem muito
+	dióxido de carbono
+	todos os dias através
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	like cars and
-	factories.
+	de coisas como
+	carros e fábricas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But plants breath in
-	the carbon dioxide
-	and release oxygen.
+	Mas as plantas absorvem
+	o dióxido de carbono e
+	liberam oxigênio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So the air of this
-	planet is being
-	recycled by plants.
+	Logo, o ar do nosso
+	planeta está sempre sendo
+	reciclado pelas plantas.
 	"""
 	keyWait
 		any = false
@@ -68,24 +72,24 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	Every year,many
-	trees are cut down,
+	Todo ano, várias
+	árvores são derrubadas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	making the world's
-	forests disappear
-	one by one.
+	fazendo as florestas
+	do mundo desaparecerem
+	uma a uma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The oldest forests
-	are sadly,starting
-	to fade away.
+	As florestas mais
+	velhas, infelizmente,
+	estão começando a sumir.
 	"""
 	keyWait
 		any = false
@@ -94,24 +98,23 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	This panel clearly
-	shows what would
-	happen to our planet
+	Esse painel mostra com
+	clareza que acontecerá
+	com o nosso planeta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a few decades from
-	now if we continue
+	dentro de poucas décadas
+	se continuarmos a destruir
+	o meio ambiente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to destroy the
-	environment at
-	the current pace.
+	no ritmo em que estamos.
 	"""
 	keyWait
 		any = false
@@ -120,39 +123,37 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	A big model of the
-	Earth...
+	Um enorme modelo
+	da Terra...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This globe clearly
-	shows at a glance
-	just how much
+	Esse globo mostra
+	com clareza quanta
+	destruição ambiental
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	environmental
-	destruction we have
-	caused to the Earth.
+	nós já causamos
+	ao planeta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This globe controls
-	everything in this
-	pavilion,and
+	Esse globo controla
+	tudo neste pavilhão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you can jack in to
-	it.
+	e você pode se
+	conectar a ele.
 	"""
 	keyWait
 		any = false
@@ -161,9 +162,9 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	No entry.
-	A tree branch is
-	blocking the way!
+	Não há como passar.
+	Há um galho barrando
+	o caminho!
 	"""
 	keyWait
 		any = false
@@ -172,24 +173,23 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	Our planet may
-	become like this
-	desert if we
+	O nosso planeta pode
+	acabar como esse
+	deserto se nós
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	continue to
-	destroy it...
+	continuarmos
+	a destruí-lo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone has written
-	a number with their
-	finger in the sand.
+	Alguém anotou um
+	número na areia.
 	"""
 	keyWait
 		any = false
@@ -208,8 +208,9 @@ script 8 mmbn6 {
 		flag = 3684
 	msgOpen
 	"""
-	Lan stamped his
-	Stamp Rally Card!!
+	Lan carimbou seu
+	Cartão da Corrida
+	de Carimbos!!
 	"""
 	keyWait
 		any = false
@@ -221,9 +222,8 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Alright! I got the
-	Green Pavilion
-	stamp!
+	Beleza! Peguei o carimbo
+	do Pavilhão Verde!
 	"""
 	keyWait
 		any = false
@@ -232,16 +232,16 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	A stamp for the
-	Stamp Rally.
+	Um carimbo da
+	Corrida de Carimbos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The mark on this
-	stamp is the Green
-	Town seal.
+	O símbolo nesse
+	carimbo é o selo
+	do Distrito Verde.
 	"""
 	keyWait
 		any = false

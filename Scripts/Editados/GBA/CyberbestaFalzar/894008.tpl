@@ -6,8 +6,7 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's wrong,
-	MegaMan?
+	Que foi, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -20,8 +19,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	*huff,huff...*
-	It's really hot...
+	Uff... Uff...
+	Tá tão quente...
 	"""
 	keyWait
 		any = false
@@ -34,15 +33,14 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,I know
-	what you mean...
+	É, pode apostar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The control panel is
-	burning hot,too...
+	O painel de controle
+	também tá pelando.
 	"""
 	keyWait
 		any = false
@@ -52,7 +50,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Waaah!!"
+	"Aaahh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -67,7 +65,7 @@ script 5 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Is it BlastMan!?"
+	"É o BlastMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -78,21 +76,21 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"L_Lan...!!"
+	"L-Lan...!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everything just
-	burst into flames!
+	Do nada, tudo
+	começou a pegar fogo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can you turn on the
-	Teachers' Room's
-	Fire Extinguisher!?
+	Pode ligar o extintor
+	de incêndio da Sala
+	dos Professores?!
 	"""
 	keyWait
 		any = false
@@ -105,9 +103,9 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The Extinguisher...?
-	But there's no Navi
-	to operate it...
+	O extintor...?
+	Mas não tem Navi
+	pra operar ele...
 	"""
 	keyWait
 		any = false
@@ -118,14 +116,14 @@ script 7 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"I got it!!"
+	"Pode deixar!!"
 	keyWait
 		any = false
 	clearMsg
-	"Hang on,MegaMan!"
+	"Aguenta aí, MegaMan!"
 	keyWait
 		any = false
 	end

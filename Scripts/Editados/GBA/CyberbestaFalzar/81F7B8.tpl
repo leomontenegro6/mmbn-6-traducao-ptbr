@@ -10,62 +10,64 @@ script 0 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Welcome to the BBS
-	for the Green HP!
+	Bem-vindos ao Fórum
+	da Página Verde!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Green Area is known
-	as a gathering
-	spot for lawyers,
+	A Área Verde tem a
+	fama de ser um ponto de
+	encontro de advogados,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but most of them
-	have big heads and
-	just like to argue!
+	mas a maioria deles
+	é super convencido
+	e adora discutir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These days,lawyers
-	like that can't
-	survive!
+	Esse tipo de advogado
+	não tem mais vez nos
+	tempos de hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ahhh,it's true!
-	The law is a
-	battlefield!
+	Ahhh, realmente...
+	a área jurídica é um
+	campo de batalha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Which is why this
-	BBS is all about
-	decisive battles!
+	E é por isso que
+	este fórum é sobre
+	batalhas decisivas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone enjoy
-	some heated debates
+	Vamos lá, pessoal,
+	desfrutem de debates
+	bem acalorados,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	like the cool
-	lawyers we are!
+	como os advogados
+	cabeça-fria que
+	nós somos!
 	"""
 	keyWait
 		any = false
@@ -80,41 +82,39 @@ script 1 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Hello everyone!
-	I'm a lawyer's
-	Navi!!
+	Oi, pessoal!
+	Sou o Navi de
+	um advogado!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I came to pass
-	the bar and enter
-	the court here.
+	Eu vim fazer o exame
+	da ordem e entrar pro
+	tribunal daqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While I was virus
-	busting,I hit a
-	bee hive by mistake!
+	Enquanto eu deletava
+	uns vírus, atingi uma
+	colmeia por engano!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was like a
-	comic...being
-	chased by bees!
+	Parecia cena de comédia...
+	eu, fugindo das abelhas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyone have
-	anything to add
-	to this...?
+	Alguém aí tem alguma
+	coisa a acrescentar...?
 	"""
 	keyWait
 		any = false
@@ -129,82 +129,83 @@ script 2 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Looks like you
-	really got stuck
-	in a bad spot!!
+	Parece que você
+	se meteu numa
+	bela fria, hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Anyways,let me
-	introduce myself
-	to the BBS!
+	... Ah, sim, preciso
+	me apresentar neste
+	fórum!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am a first year
-	rookie lawyer!
+	Sou um advogado
+	recém-formado, primeiro
+	ano de trabalho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In the future I
-	want to be a
-	Chief Justice!
+	No futuro, pretendo
+	me tornar um Chefe
+	de Justiça!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm Koetsu!"
+	"Koetsu é o meu nome!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you get attacked
-	by a HonyBmbr here
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	there's not much you
-	can really do...
+	Quando se é atacado
+	por um HonyBmbr aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Especially once you
-	attack and the
-	troops pour out!
+	não tem muito
+	que dá pra fazer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So what is the best
-	strategy? Obviously
-	a one hit delete!!
+	Ainda mais depois que
+	ataca e as tropas
+	começam a jorrar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A HonyBmbr is a Wood
-	virus,so attack it
-	with a Fire chip!
+	Então... qual é a melhor
+	estratégia? Óbvio: uma
+	deleção de um golpe só!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When I go to Green
-	Area,I set FireBrn1
-	as a RegularChip.
+	Os HonyBmbrs são vírus
+	de Madeira, então use
+	um chip de Fogo!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Na Área Verde, eu sempre
+	deixo um FireBrn1 como
+	Chip Padrão.
 	"""
 	keyWait
 		any = false
@@ -219,54 +220,55 @@ script 3 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Hey!
-	You're Koetsu!
+	Aí!
+	É o Koetsu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you've finally
-	joined us lawyers!
-	I knew that only
+	Então você entrou pra
+	esta vida de advogado!
+	Eu já devia imaginar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	knowing about
-	BattleChips wasn't
-	enough for you!
+	que só aprender sobre
+	chips não seria o
+	bastante pra você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your advice is
-	absolutely perfect,
+	Olha, sem querer
+	ser puxa-saco,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if I do say
-	so myself!!
+	mas os seus conselhos
+	sempre foram
+	absolutamente perfeitos!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Unfortunately,my
-	operator doesn't
-	have FireBrn1...
+	Mas, infelizmente,
+	o meu operador não
+	tem um FireBrn1...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I'll use FireHit1
-	as a RegularChip
-	instead! Thanks!!
+	Então vou usar um
+	FireHit1 como Chip
+	Padrão no lugar. Valeu!
 	"""
 	keyWait
 		any = false
@@ -281,45 +283,45 @@ script 4 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	If you're a
-	lawyer,you can't
+	Um advogado que se preze
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	let your opponent
-	get a word in
-	edgewise!
+	não deixa o adversário
+	interromper quando você
+	está falando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You gotta pound
-	them with a
+	O lance é ir afogando
+	ele com uma montanha
+	infinita de provas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	neverending stream
-	of evidence!
+	Tipo, "Toma essa!"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Combo attacks are
-	important!
+	Porque ataques
+	combinados são
+	muito importantes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And so are chip
-	combo attacks!
-	Got any good ones?
+	Que nem com chips!
+	E aí, alguém aí
+	conhece um bom?
 	"""
 	keyWait
 		any = false
@@ -334,47 +336,42 @@ script 5 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I trap an opponent
-	in a bubble with
-	BblStar1,
+	Eu prendo o adversário
+	numa bolha com o BblStar1,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then I hit them
-	with an Elec chip
-	attack!
+	daí atinjo com um chip
+	de ataque Elétrico!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's sure to delete
-	an opponent!
+	É deleção na hora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When an opponent is
-	stuck in a bubble,
+	Quando o alvo fica
+	preso em uma bolha,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they will take 2x
-	damage from Elec
-	attacks!
+	ele leva o dobro de dano
+	de ataques Elétricos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's a combo I
-	like to call
-	BubbleThunder!!
+	Eu chamo essa combinação
+	de "Trovão-Bolha"!!
 	"""
 	keyWait
 		any = false
@@ -389,31 +386,30 @@ script 6 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I think ya should
-	use Wind to get
+	Eu acho que cê divia
+	usar Vento pá se
+	livrá dos vírus,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	rid a' viruses by
-	sendin 'em flyin'
-	to the right!
+	empurrando ele cum
+	tudo pra direita!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then knock 'em out
-	with FireHit! It's
-	awesome!!
+	Aí dá um trato
+	neles com FireHit!
+	Ô, trem bão!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get a lil' Triple
-	delete action!!
+	Deleção Tripla na veia!!
 	"""
 	keyWait
 		any = false
@@ -428,52 +424,50 @@ script 7 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Hanz's pretty
-	technical,huh?
-	That's cool!!
+	O Hanz é tão técnico,
+	né? Que da hora!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Using BblStar1 to
-	stop an opponent
-	then attack them...
+	Usar BblStar1 pra
+	segurar o adversário,
+	daí atacar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's cool too!!"
+	"Tão da hora!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gal's combo is
-	great too!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	By the way,here's
-	another combo like
-	that one.
+	Ah, a combinação da
+	Mina também é da hora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use Fan to suck them
-	in and GolmHit to
-	beat them up! Cool!
+	Aliás, eu tenho aqui outra
+	combinação que nem essa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now that everyone's
-	excited,go out and
-	learn new tricks!
+	Usar Fan pra puxar o
+	adversário e GolmHit
+	pra atacar! Da hora!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tô vendo que tá todo
+	mundo animado. Vão lá,
+	usem esses truques!
 	"""
 	keyWait
 		any = false
@@ -488,41 +482,41 @@ script 8 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Wow! The JudgeTree
-	hacking case is
-	really shocking!!
+	Caramba! O caso do
+	hacker da Árvore
+	Juíza foi chocante!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet Ito and
-	JudgeMan were really
-	pulling the strings!
+	Aposto que o Ito e
+	o JudgeMan estavam
+	manipulando tudo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the one who
-	broke the story
-	was an 11yr old!!
+	E quem expôs a treta
+	toda foi um menino
+	de só 11 anos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet he'll be a
-	great detective
-	one day!!
+	Aposto que ele vai virar
+	um grande detetive quando
+	crescer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if he becomes
-	a lawyer,we're
-	all in trouble!!
+	Mas, se ele resolver
+	ser advogado, a gente
+	aqui tá ferrado!
 	"""
 	keyWait
 		any = false
@@ -537,41 +531,40 @@ script 9 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	That kid and his
-	Navi are one
-	dynamic duo...
+	O menino e o Navi
+	dele são uma bela de
+	uma dupla dinâmica...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A duo with the
-	power of 3 or 4
-	men! Unbelievable!
+	Uma dupla com a força
+	de três ou quatro
+	homens! Inacreditável!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Speaking of duos,
-	is everyone here
-	using TagChips?
+	Falando em duplas,
+	tá todo mundo usando
+	ChipPars?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got AreaGrab
-	tagged with
+	Eu deixo um AreaGrab
+	pareado com uma
 	WideSwrd!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone post what
-	TagChips you are
-	using!!
+	Postem aí que ChipPars
+	vocês usam, pessoal!!
 	"""
 	keyWait
 		any = false
@@ -586,24 +579,24 @@ script 10 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Hehehe... I love
-	WhiCapsl!
+	He he he...
+	Eu adoro a WhiCapsl!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can use AirRaid1
-	and WhiCapsl to get
-	a nice combo attack!
+	Usando AirRaid1 com
+	WhiCapsl, dá um ataque
+	combinado dos bons!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Deleting an enemy
-	with grace and
-	gentlemanly style!
+	Deletando um inimigo
+	com um estilo gracioso
+	e cavalheiresco!
 	"""
 	keyWait
 		any = false
@@ -619,40 +612,40 @@ script 11 mmbn6 {
 		top = 108
 	"""
 	Ohhh!
-	A thread about
-	TagChips!!
+	Uma conversa
+	sobre ChipPars!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It makes sense
-	that everyone uses
-	technical combos.
+	Faz sentido
+	todo mundo usar
+	combinações técnicas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,you can't
-	just add TagChips
-	to combos.
+	Porém, não dá pra
+	só adicionar ChipPars
+	em combinações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My TagChips are
-	Cannon A and
+	Os meus ChipPars
+	são Cannon A e
 	Cannon B!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I picked them so
-	Advance would
-	occur even easier!
+	Eu escolhi eles pra ficar
+	mais fácil de fazer o
+	Programa Avançado!
 	"""
 	keyWait
 		any = false
@@ -667,43 +660,39 @@ script 12 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Hiya! I'm a student
-	at Cyber Academy!
+	Fala! Eu sou uma aluna
+	da Escola Saibher!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm also a huge fan
-	of Koetsu!!
+	E também sou mega-fã
+	do Koetsu!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thinking about
-	Advance is clearly
-	something he'd do!
+	Pensar em Programa
+	Avançado é muito a
+	cara dele mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I only know
-	GigaCan1 and
-	LifeSrd when it
+	Em matéria de P.A.s,
+	eu só conheço
+	GigaCan1 e LifeSrd...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"comes to Advance..."
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Koetsu,will you
-	please teach me
-	more about chips!?
+	Koetsu, pode, por
+	favor, me ensinar
+	mais sobre chips?!
 	"""
 	keyWait
 		any = false
@@ -718,54 +707,53 @@ script 13 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Hi everybody!
-	I'm Joe Mach!
+	Fala, gente!
+	Aqui é Joe Mach!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know a few
-	Advance,but only
-	the hot ones!!
+	Eu conheço alguns P.A.s,
+	mas só os quentes!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One is called
-	WideBrn1!
+	Tem um que se
+	chama WideBrn1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just pick the F,G,
-	and H versions of
-	FireBrn1 in a row!
+	É só selecionar as
+	versões F, G e H do
+	FireBrn1 em sequência!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Another is called
-	FlmHook1!
+	Um outro se
+	chama FlmHook1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just pick the D,E,
-	and F versions of
-	FireHit1 in a row!
+	É só selecionar as
+	versões D, E e F do
+	FireHit1 em sequência!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What do you think
-	Yukarin? It'd be
-	great for class!
+	O que acha, Yukarin?
+	Seria ótimo pra usar
+	na aula!
 	"""
 	keyWait
 		any = false
@@ -780,23 +768,22 @@ script 14 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Huh? Mr.Mach?
-	What are you doing
-	here!?
+	Hã? Sr. Mach?
+	Tá fazendo o quê aqui?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your classroom is
-	exciting enough!
+	A sua aula já tem
+	emoção o bastante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So let's keep it at
-	school,OK?!
+	então vamos manter isso
+	só na sala de aula, tá?
 	"""
 	keyWait
 		any = false
@@ -811,64 +798,58 @@ script 15 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	The violence in
-	Sky Town yesterday
-	was awful,wasn't it?
+	Aquela violência no
+	Distrito Céu ontem foi
+	um horror, não acham?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There was a huge
-	storm with really
-	strong winds...
+	Teve uma tempestade
+	das feias com ventos
+	fortíssimos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know that
-	reminds me...
+	Aliás, isso me lembra...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wanted to talk
-	about Wind chips...
+	Quero falar sobre
+	chips de Vento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So let's have a
-	Quiz!
+	Portanto, hora de
+	uma provinha surpresa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wind chips have a
-	special effect...
+	Chips de Vento têm
+	um efeito especial...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is this special
-	effect?
+	Qual é ele?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"If you get it right,"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	I'll give you a
-	special NaviCust
-	Compression command!
+	Quem acertar ganha um
+	comando especial de
+	Compressão do NaviCust!
 	"""
 	keyWait
 		any = false
@@ -883,25 +864,24 @@ script 16 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Hey! Hey! I know!
-	Wind Chips...
-	They.... Oh yeah!
+	Ah! Ah! Eu sei!
+	Os chips de Vento...
+	Eles... Ah, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They get you
-	Zennys!!
-	I got that,right?
+	Eles fazem cê
+	ganhar Zennys!!
+	Eu acertei, não foi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So hurry up and
-	tell me the
-	Compression command!
+	Então me dá logo aí o
+	comando de Compressão!
 	"""
 	keyWait
 		any = false
@@ -916,32 +896,31 @@ script 17 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Hahaha! Mick...
-	"The Wind Brings
-	 Profit!"
+	Ha ha ha! Mick...
+	"O Vento Traz Lucros"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That isn't about
-	Wind chips... It's
-	an old saying!
+	Isso não tem nada a
+	ver com chips de Vento...
+	É só um velho ditado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The right answer is
-	that it might blow
-	away your opponent's
+	A resposta certa é
+	que eles podem desfazer
+	as Auras ou Barreiras
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Aura or Barrier...
-	Isn't that right!?
+	dos adversários...
+	Não é?!
 	"""
 	keyWait
 		any = false
@@ -956,48 +935,47 @@ script 18 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Great! The operator
-	screws up,but the
-	Navi saves the day!
+	Maravilha! O operador
+	escorrega, mas o Navi
+	aparece pra salvar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"A beautiful combo!"
+	"Que bela combinação!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I guess I'll
-	show off the
-	Compression command!
+	Acho que vou mostrar o
+	comando de Compressão,
+	então.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ChpShufl,then
-	hit:
+	ChpShufl,
+	daí apertem:
 	RRABLRARLA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you write it
-	down?
+	Anotaram?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a great
-	program,so enjoy it!
+	É um programa muito
+	bom, então, aproveitem!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's really useful."
+	"Muito útil também."
 	keyWait
 		any = false
 	waitHold
@@ -1011,39 +989,40 @@ script 19 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Wow! Wind chips
-	really have that
-	effect!!
+	Caramba! Então chips
+	de Vento têm mesmo
+	esse efeito?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I'll add
-	some info to this
-	discussion!
+	Bom, acho que vou
+	adicionar mais informações
+	a essa conversa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you hit a frozen
-	enemy with a Breaker
+	Quando se atinge umk
+	inimigo congelado com
+	um chip de Quebra,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	chip,it will do
-	twice the damage!
+	ele sofre o
+	dobro de dano!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pretty awesome,huh?
-	Freeze 'em and smash
-	'em!
+	Irado, né?
+	O negócio é congelar
+	e esmagar!
 	"""
 	keyWait
 		any = false
@@ -1058,17 +1037,16 @@ script 20 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	That was really
-	interesting,
-	KittyCat!
+	Interessante,
+	Gatinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I wanted to ask,
-	exactly how do you
-	freeze an opponent?
+	Mas... só pra saber,
+	como, exatamente, se
+	congela um adversário?
 	"""
 	keyWait
 		any = false
@@ -1083,52 +1061,50 @@ script 21 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Hmmm... Freezing
-	an enemy...
+	Hmmm... Congelar
+	o inimigo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you hit an enemy
-	with a Aqua chip
+	É só acertar ele
+	com um chip de Água
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when they are on a
-	frozen panel...
+	enquanto ele está sobre
+	um quadro congelado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Poof! One enemy on
-	the rocks!
+	Picolé de inimigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've set IceSeed as
-	a RegularChip.
+	Eu deixo um IceSeed
+	como Chip Padrão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That way I can freeze
-	all of the enemy's
-	area!
+	Com ele, eu congelo
+	toda a área do alvo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then I throw
-	AquaNdl to freeze
-	all the viruses.
+	Daí seleciono um
+	AquaNdl pra congelar
+	todos os vírus.
 	"""
 	keyWait
 		any = false
@@ -1143,17 +1119,16 @@ script 22 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	It's getting really
-	close to the start
-	of the Expo!!
+	Tá bem perto já, a
+	inauguração da Exposição!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet we'll be able
-	to see lots of rare
-	things!!
+	Aposto que vai nos
+	permitir ver muitas
+	raridades!!
 	"""
 	keyWait
 		any = false
@@ -1168,40 +1143,40 @@ script 23 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I can't wait for
-	the Expo! I live
-	in Central Town,
+	Mal posso esperar pela
+	Exposição! Eu moro no
+	Bairro Central,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so everyday I walk
-	by the Expo Site and
-	I get more excited!
+	então passo na frente
+	da área dela todo dia,
+	e só fico mais ansioso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By the way,we have
-	a chip shop here
-	called AsterLand.
+	Por sinal, a gente tem
+	uma loja de chips lá
+	chamada Mundo Aster.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They sell rare
-	chips,so if you come
+	Eles vendem chips
+	bem raros,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to the Expo you
-	should stop there,
-	too!
+	então, se forem na
+	Exposição, deviam
+	passar lá, também!
 	"""
 	keyWait
 		any = false
@@ -1216,64 +1191,63 @@ script 24 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Wow! Thank you so
-	much for talking
-	about my shop!
+	Poxa! Muito obrigado
+	por falar da minha loja!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm Tab. Actually,
-	I work at AsterLand!
+	Eu sou Tab Aster. Como
+	deve dar pra imaginar,
+	trabalho no Mundo Aster!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We are stocked up
-	with lots of great
-	and rare chips!
+	A gente tá com o
+	estoque cheio de
+	chips raros irados!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For instance,
-	NumbrBl!
-	This chip's attack
+	Por exemplo, o
+	NumbrBl! A força do
+	ataque desse chip
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	strength is equal
-	to the last 2 digits
-	of your HP!
+	é igual aos últimos dois
+	dígitos dos seus PV!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I found out about
-	that chip from
-	Higsby's in DenCity.
+	Eu aprendi sobre esse
+	chip na Loja do Higsby,
+	em DenCity.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Since Higsby's isn't
-	open now,we were
-	able to obtain it!
+	Como ela não tá aberta
+	agora, a gente conseguiu
+	obter pra nossa loja!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So please stop by
-	the shop when you
-	are in town!
+	Então, por favor,
+	passem por lá quando
+	forem pro bairro!
 	"""
 	keyWait
 		any = false
@@ -1288,55 +1262,53 @@ script 25 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	NumbrBl really is
-	an awesome chip!!
+	O NumbrBl é um chip
+	incrível mesmo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But there are lots
-	of rare chips in
-	the world...
+	Mas existem vários
+	chips raros no mundo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Like VarSwrd!
-	If you use it
-	normally,it's just
+	Tipo a VarSwrd!
+	Se usá-la normalmente,
+	é só uma espada comum,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a regular sword,
-	but if you press the
-	A Button and enter a
+	mas, ao segurar "A"
+	e inserir um comando
+	na hora de usar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	command when you use
-	it,the extent of the
-	attack will grow!
+	o escopo do
+	ataque aumenta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There should be even
-	more rare chips!
+	E aposto que existem
+	chips ainda mais raros
+	por aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to gather
-	them up and travel
-	the world!
+	Eu quero reunir eles
+	e viajar pelo mundo!
 	"""
 	keyWait
 		any = false
@@ -1350,51 +1322,44 @@ script 26 mmbn6 {
 	positionArrow
 		left = 210
 		top = 108
-	"So ChipHntr..."
+	"Então,\nCaçadores de Chips..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you are going
-	out into the world
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	to find rare chips,
-	good luck!!
+	Se pretendem sair pelo
+	mundo em busca de chips
+	raros, boa sorte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Speaking of rare
-	chips,I just heard a
-	really juicy rumor!
+	Falando em chips raros,
+	eu ouvi um boato bem
+	quente por estes dias!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is a chip that
-	has the power of a
-	DarkChip if you
+	Tem um chip que possui
+	o poder de um Chip das
+	Trevas quando você o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	power it up with the
-	B Button!
+	carrega apertando "B"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I hear that
-	powering it up will
-	use up BugFrags.
+	Mas também ouvi dizer
+	que fazer isso
+	consome FragBugs.
 	"""
 	keyWait
 		any = false
@@ -1408,32 +1373,35 @@ script 27 mmbn6 {
 	positionArrow
 		left = 210
 		top = 108
-	"A dar...DarkChip!?"
+	"Um Ch...\nChip das Trevas?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Those are against
-	the law!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"... And scary too!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I don't even want to
-	think about them!
+	Isso aí é contra
+	a lei, cara!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But...you never
-	know... I kinda
-	want one...
+	... Pra não falar
+	que dá medo!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu não quero nem
+	PENSAR neles!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas... bom...
+	Ao mesmo tempo,
+	também até queria um...
 	"""
 	keyWait
 		any = false
@@ -1448,29 +1416,28 @@ script 28 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Cool! I've got
-	lots of great
-	chips!!
+	Que radical!
+	Eu consegui um monte
+	de chips ótimos!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Listenin' to you
-	guys makes me wanna
-	NetBattle!
+	Ouvir vocês me faz
+	querer NetLutar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Alright!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna go
-	practice so I can
-	beat that freak,Lan!
+	Eu vou treinar pra
+	conseguir vencer
+	aquele otário do Lan!
 	"""
 	keyWait
 		any = false

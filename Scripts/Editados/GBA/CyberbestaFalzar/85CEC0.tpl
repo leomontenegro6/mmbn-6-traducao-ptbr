@@ -6,32 +6,31 @@ script 0 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I used to be a
-	guide until
-	recently,
+	Eu era guia do Aquário
+	até um dia desses,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but since I am now
-	doing work in my
-	field,breeding,
+	mas, como agora eu tô
+	trabalhando na minha
+	área, a de criação,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I quit working as a
-	guide.
+	larguei o trabalho
+	de guia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It would be terrible
-	if fish were hurt to
-	make a profit...
+	Seria horrível os peixes
+	se machucarem só para
+	render dinheiro...
 	"""
 	keyWait
 		any = false
@@ -42,13 +41,13 @@ script 1 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	That man quit his
-	job as a guide...
+	Aquele moço largou o
+	trabalho dele de guia...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I liked him a lot..."
+	"Eu gostava tanto dele..."
 	keyWait
 		any = false
 	end
@@ -58,13 +57,13 @@ script 2 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	The fish are as
-	happy as ever!
+	Os peixinhos tão
+	felizes como sempre!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"They're beautiful!"
+	"São tão lindos!"
 	keyWait
 		any = false
 	end
@@ -74,16 +73,15 @@ script 5 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Well,next up is
-	giving the gators
-	their food...
+	Bom, a seguir,
+	alimentar os jacarés...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I also have to
-	clean the tanks...
+	Também tenho que
+	limpar os tanques...
 	"""
 	keyWait
 		any = false
@@ -94,9 +92,8 @@ script 6 mmbn6 {
 		mugshot = Woman
 	msgOpen
 	"""
-	This sea angel
-	would taste really
-	good fried...
+	Esse anjo-do-mar ficaria
+	uma delícia frito...
 	"""
 	keyWait
 		any = false
@@ -107,9 +104,9 @@ script 10 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Sorry,but we are
-	still getting ready.
-	Please wait outside.
+	Desculpa, mas ainda
+	estamos nos preparando.
+	Espere lá fora, tá?
 	"""
 	keyWait
 		any = false
@@ -119,33 +116,33 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"Woohoo!!"
+	"Urrú!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seaside Town has
-	decided to have an
-	Expo pavilion!!
+	O Distrito Beira-Mar
+	decidiu fazer um
+	pavilhão na Exposição!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can't wait!!"
+	"Tô doida pra ver!!"
 	keyWait
 		any = false
 	end
 }
 script 15 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -161,7 +158,7 @@ script 16 mmbn6 {
 	msgOpen
 	"""
 	Hikari...
-	Don't run now...
+	Não corra...
 	"""
 	keyWait
 		any = false

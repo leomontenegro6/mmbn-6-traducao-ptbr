@@ -12,12 +12,12 @@ script 0 mmbn6 {
 		frames = 10
 	soundPlay
 		track = 416
-	"*crack! "
+	"Tloc! "
 	wait
 		frames = 32
 	soundPlay
 		track = 416
-	"crack!*"
+	"Tloc!"
 	wait
 		frames = 32
 	waitOWVar
@@ -31,14 +31,14 @@ script 0 mmbn6 {
 }
 script 1 mmbn6 {
 	msgOpen
-	"... NOW THEN,"
+	"... POIS BEM,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE TRIAL OF
-	CAPTAIN BLACKBEARD
-	WILL NOW COMMENCE.
+	INICIAR-SE-Á AGORA O
+	JULGAMENTO DO CAPITÃO
+	BARBA-NEGRA.
 	"""
 	keyWait
 		any = false
@@ -50,11 +50,11 @@ script 2 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"たIt spoke!ち"
+	"たEla falou!ち"
 	keyWait
 		any = false
 	clearMsg
-	"たThe tree actually\n spoke!ち"
+	"たA árvore falou mesmo!ち"
 	keyWait
 		any = false
 	clearMsg
@@ -67,9 +67,9 @@ script 3 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	FIRST,PROSECUTOR
-	ITO,YOUR OPENING
-	STATEMENT.
+	PARA COMEÇAR, PROMOTOR
+	ITO, PROCEDA À LEITURA
+	DA DENÚNCIA.
 	"""
 	keyWait
 		any = false
@@ -81,53 +81,45 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	msgOpen
-	"Yes,your honor."
+	"Claro, Meritíssima."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The defendant,
-	Captain Blackbeard,
-	is accused of
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	endangering the
-	lives of many people
-	at the Seaside
+	O réu, o Capitão
+	Barba-Negra, é acusado
+	de pôr em risco as vidas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Aquarium by
-	releasing the
-	animals from their
+	de diversas pessoas
+	no Aquário Beira-Mar
+	ao libertar os animais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tanks and cages,for
-	the sake of watching
-	people panic.
+	de seus tanques e
+	gaiolas a fim de causar
+	pânico generalizado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We,the prosecution,
-	cannot allow this
-	sort of harmful,
+	Nós, da promotoria, não
+	podemos permitir que um
+	comportamento tão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	selfish behavior to
-	go unpunished!!
+	prejudicial e egoísta
+	saia impune!!
 	"""
 	keyWait
 		any = false
@@ -141,7 +133,7 @@ script 5 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"たHe looks so cool!ち"
+	"たEle é tão maneiro!ち"
 	keyWait
 		any = false
 	end
@@ -151,9 +143,8 @@ script 6 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	Now I would like to
-	call Lan Hikari to
-	the witness stand.
+	Convoco agora Lan Hikari
+	para depôr.
 	"""
 	keyWait
 		any = false
@@ -165,13 +156,13 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Y_Yes,sir!"
+	"S-sim, senhor!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"たHere goes. *gulp*\n I'm so nervous...ち"
+	"たVamos lá. Glup...\nTô tão nervoso...ち"
 	keyWait
 		any = false
 	end
@@ -181,8 +172,8 @@ script 8 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	Please state your
-	name and occupation.
+	Por favor, declare
+	seu nome e ocupação.
 	"""
 	keyWait
 		any = false
@@ -195,15 +186,16 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Y_Yes,sir.
-	I_I'm L_Lan Hikari.
+	S-sim, senhor.
+	O-o meu nome é
+	L-Lan Hikari.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And,I,uh,I've never
-	had octopus...
+	E eu, er... não tô
+	muito ocupado agora...
 	"""
 	keyWait
 		any = false
@@ -215,7 +207,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"たLan,that's not what\n he asked you!ち"
+	"たLan, não foi isso o\nque ele perguntou!ち"
 	keyWait
 		any = false
 	clearMsg
@@ -226,7 +218,11 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"たBut he asked some_\n thing about an\n octopus...ち"
+	"""
+	たUé, mas ele quis
+	saber como eu tava
+	de "ocupação"...ち
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -237,7 +233,10 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"たNo,no! He said,\n \"Occupation\"!ち"
+	"""
+	たNão, não! Ocupação é
+	sinônimo de "ofício"!ち
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -248,7 +247,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"たA what? Octobacon?ち"
+	"たQuem é \"fício\"?ち"
 	keyWait
 		any = false
 	clearMsg
@@ -259,48 +258,47 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"たThat's not it\n either!ち"
+	"たOFÍCIO! PROFISSÃO!ち"
 	keyWait
 		any = false
 	clearMsg
-	"たWhat's with you\n and food!?ち"
+	"たVocê tá fazendo isso\nde propósito! Não\né possível!!ち"
 	keyWait
 		any = false
 	clearMsg
-	"た*sigh...*ち"
+	"たArf...ち"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProsecutorIto
 	"""
-	... Now the witness
-	will answer a few
-	questions about the
+	... Agora, gostaria que
+	a testemunha respondesse
+	a algumas perguntas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	incident. Please
-	answer to the best
-	of your ability.
+	acerca do incidente. Por
+	favor, com toda a riqueza
+	possível de detalhes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On the day of the
-	incident,you were
-	just visiting and
+	No dia do incidente,
+	você estava visitando e
+	desfrutando do Aquário
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	enjoying the
-	Aquarium. Is this
-	correct?
+	como um visitante
+	comum. Estou certo?
 	"""
 	keyWait
 		any = false
@@ -308,8 +306,8 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah... I mean,
-	yes,that's right.
+	Aham... Q-quer dizer,
+	sim, exatamente.
 	"""
 	keyWait
 		any = false
@@ -317,9 +315,9 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	"""
-	Can you please tell
-	the court exactly
-	what happened?
+	Poderia, por favor,
+	dizer ao tribunal o que,
+	exatamente, aconteceu?
 	"""
 	keyWait
 		any = false
@@ -327,90 +325,90 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Um... My friend and
-	I were about to go
-	home.
+	Er... Meu amigo e eu
+	távamos nos preparando
+	pra voltar pra casa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And suddenly,we
-	heard screaming.
-	And before we knew
+	Aí, de repente, a gente
+	ouviu uns gritos.
+	E, mal a gente piscou,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it,there were sharks
-	and piranhas all
-	over the place!
+	o lugar tava cheio de
+	tubarões e piranhas
+	pra todo o lado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProsecutorIto
-	"... I see..."
+	"... Entendo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Moving on to my
-	next question.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Now,think back.Was
-	the man you saw and
-	fought in a
+	Sigamos para a minha
+	próxima pergunta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetBattle with,the
-	same man you see
-	sitting over there,
+	Lembre-se bem. O homem
+	que você viu e confrontou
+	em uma NetLuta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the defendant
-	Captain Blackbeard?
+	era ou não era o
+	mesmo homem que
+	está de pé ali,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	o réu, Capitão
+	Barba-Negra?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yes,that's him!"
+	"Sim, era ele mesmo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But Captain
-	Blackbeard didn't
-	just mess up the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Aquarium. He also
-	took my friend
-	hostage!
+	Mas o Barba-Negra
+	fez mais do que só
+	bagunçar o Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd recognize that
-	evil face anywhere!
+	Ele também fez o meu
+	amigo de refém!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu reconheceria essa
+	cara de pilantra em
+	qualquer lugar!
 	"""
 	keyWait
 		any = false
@@ -418,30 +416,33 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	"""
-	... This is a very
-	decisive testimony.
-	I don't see the need
+	... É um depoimento
+	deveras decisivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to hear an
-	explanation from the
-	defendant!
+	Não vejo necessidade
+	de ouvir uma explicação
+	do réu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"たHey,MegaMan,is this\n all I needed to do\n to \"testify\"?ち"
+	"""
+	たAí, MegaMan,
+	"depoimento" é
+	só isso mesmo?ち
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"たYeah,I guess so!\n You did great!ち"
+	"たÉ, acho que é!\nVocê mandou bem!ち"
 	keyWait
 		any = false
 	end
@@ -457,12 +458,12 @@ script 15 mmbn6 {
 		frames = 10
 	soundPlay
 		track = 416
-	"*crack! "
+	"Tloc! "
 	wait
 		frames = 32
 	soundPlay
 		track = 416
-	"crack!*"
+	"Tloc!"
 	wait
 		frames = 32
 	waitOWVar
@@ -478,48 +479,46 @@ script 16 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	... I WILL NOW
-	PASS JUDGMENT.
+	... IREI AGORA
+	APLICAR JULGAMENTO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE DEFENDANT WAS
-	ACTING OUT OF MALICE
-	AND SELFISHNESS.
+	O RÉU AGIU POR
+	MALÍCIA E EGOÍSMO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS SORT OF EVIL
-	BEHAVIOR CAN NOT
-	BE FORGIVEN.
+	TAL COMPORTAMENTO
+	MALIGNO NÃO PODE
+	SER PERDOADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEREFORE,I
-	PRONOUNCE THE
-	DEFENDANT,
+	PORTANTO, DECLARO
+	O RÉU, O CAPITÃO
+	BARBA-NEGRA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CAPTAIN BLACKBEARD,
-	GUILTY!
-	I SENTENCE YOU TO
+	CULPADO!
+	SENTENCIO-O À
+	CELA DE PUNIÇÃO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE PUNISHMENT ROOM
-	FOR AN INDEFINITE
-	AMOUNT OF TIME.
+	POR UM PERÍODO
+	INDETERMINADO DE TEMPO.
 	"""
 	soundPlayBGM
 		track = 2
@@ -540,7 +539,7 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = Blackbeard
 	msgOpen
-	"... not... part..."
+	"... não... parte..."
 	keyWait
 		any = false
 	end
@@ -550,17 +549,17 @@ script 19 mmbn6 {
 		mugshot = Blackbeard
 	msgOpen
 	"""
-	This was not part
-	of the deal!!
-	Ya filthy,lyin'...
+	Isso não era parte
+	do acordo!!
+	Mentiroso sujo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll send ya to
-	Davey Jones' locker,
-	ya scurvy rat,arrr'!
+	Eu vou te fazer nadar
+	com os peixinhos, seu
+	rato imundo! Arrrr!
 	"""
 	keyWait
 		any = false
@@ -573,16 +572,16 @@ script 20 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	W_What the!?
-	He didn't say one
-	word during the
+	O-o quê?!
+	Ele não falou nada o
+	julgamento inteiro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	entire trial,and now
-	he makes a big fuss?
+	e agora tá fazendo
+	esse "auê" todo?
 	"""
 	keyWait
 		any = false
@@ -590,25 +589,23 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	"""
-	This is how
-	criminals always
-	act.
+	É assim que os
+	criminosos são.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When he heard the
-	verdict,and realized
-	how serious his
+	Após ouvir o veredito,
+	ele percebeu o quão
+	sério o crime era
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	crime was,he
-	objected,just as all
-	criminals do...
+	e se revoltou,
+	como de praxe...
 	"""
 	keyWait
 		any = false
@@ -620,8 +617,8 @@ script 21 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	PLEASE REMOVE THE
-	GUILTY PARTY.
+	POR FAVOR, REMOVA O
+	CULPADO DO RECINTO.
 	"""
 	keyWait
 		any = false
@@ -631,14 +628,13 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	msgOpen
-	"Well done!"
+	"Bom trabalho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So what did you
-	think of your
-	first trial?
+	E aí, o que achou do
+	seu primeiro julgamento?
 	"""
 	keyWait
 		any = false
@@ -651,24 +647,23 @@ script 23 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I was soooo
-	nervous!!
+	Eu tava morrendo
+	de nervoso!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... But the
-	JudgeTree is
-	really cool!
+	... Mas a Árvore Juíza
+	é legal pra caramba!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess a tree
-	can run a trial
-	after all!
+	Acho que dá mesmo
+	pra uma árvore
+	aplicar julgamento!
 	"""
 	keyWait
 		any = false
@@ -680,14 +675,13 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	msgOpen
-	"Hahaha,you see?"
+	"Ha ha ha. Viu só?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,that
-	JudgeTree was my
-	idea!
+	Na verdade, a Árvore
+	Juíza foi ideia minha!
 	"""
 	keyWait
 		any = false
@@ -699,7 +693,7 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Really!?"
+	"Sério?!"
 	keyWait
 		any = false
 	clearMsg
@@ -711,15 +705,17 @@ script 26 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	It was a small idea
-	I had in college,but
+	Foi só uma ideia bem
+	básica que eu tive
+	na faculdade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	surprisingly,it got
-	bigger and bigger!
+	mas que, pra surpresa
+	de todo mundo, só foi
+	crescendo cada vez mais!
 	"""
 	keyWait
 		any = false
@@ -732,8 +728,8 @@ script 27 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's awesome,
-	Prosecutor Ito!
+	Que demais,
+	Promotor Ito!
 	"""
 	keyWait
 		any = false
@@ -746,57 +742,56 @@ script 28 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	I refuse to forgive
-	any evil_doers,so...
+	Eu me recuso a perdoar
+	malfeitores, então...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my dream is to
-	someday create...
+	o meu sonho é, um dia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a society with no
-	crime!
+	criar uma sociedade
+	livre de crimes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The JudgeTree is the
-	first step to making
-	my dream come true!!
+	E a Árvore Juíza é o
+	primeiro passo para
+	realizar esse sonho!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Ah,sorry,I got
-	a little carried
-	away there.
+	... Ah, desculpa, eu
+	acabei me empolgando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,I must
-	prepare for my next
-	trial,
+	Enfim, tenho que me
+	preparar para o meu
+	próximo julgamento,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"so,I have to go."
+	"então, devo me retirar."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stop by and visit
-	some time,OK?
+	Passe aqui para me
+	visitar qualquer hora,
+	tá bom?
 	"""
 	keyWait
 		any = false
@@ -807,20 +802,19 @@ script 29 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Prosecutor Ito
-	sure loves
-	justice...
+	... O Promotor Ito
+	ama mesmo a justiça...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"He looks so cool!"
+	"Ele é tão da hora!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to be like
-	him when I grow up!
+	Eu quero ser que nem
+	ele quando eu crescer!
 	"""
 	keyWait
 		any = false
@@ -833,25 +827,23 @@ script 30 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,you're not
-	gonna be like him
-	the way you are now!
+	Bom, do jeito que você
+	tá agora, esse sonho é
+	impossível.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,you've gotta
-	study a whole lot
-	more!
+	Pra começar, vai ter
+	que estudar MUITO mais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come on,let's go
-	home and do some
-	homework!
+	Tá, vamos pra casa
+	fazer a lição de casa!
 	"""
 	keyWait
 		any = false
@@ -863,7 +855,7 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Awww..."
+	"Afe..."
 	keyWait
 		any = false
 	end

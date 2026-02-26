@@ -18,37 +18,36 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	All of a sudden,this
-	area's barrier
-	broke...
+	De repente, a barreira
+	desta área se abriu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If only I could
-	report this to my
-	commander...
+	Se, ao menos, eu
+	pudesse informar isso
+	ao meu comandante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How could it have
-	come to this...?
+	Como as coisas foram
+	ficar assim...?
 	Aaaaannngh!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"T_Take these..."
+	"T-tome... Leve..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Up ahead... this
-	area... my...
-	... friends...
+	Mais à frente...
+	nesta área... meus...
+	... amigos...
 	"""
 	keyWait
 		any = false
@@ -59,11 +58,7 @@ script 0 mmbn6 {
 	soundPlay
 		track = 386
 	soundEnableTextSFX
-	"""
-	"SoulWeapons" have
-	been installed
-	inside 
-	"""
+	"As \"ArmasAlmas\" foram\ninstaladas dentro do\n"
 	printCurrentNaviOW
 	"."
 	keyWait
@@ -80,7 +75,7 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	Uuugh...
-	Y_You...
+	E-ei...
 	"""
 	keyWait
 		any = false
@@ -91,8 +86,8 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Reload the
-	SoulWeapons?
+	Recarregar
+	as ArmasAlma?
 	"""
 	keyWait
 		any = false
@@ -108,7 +103,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -117,7 +112,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -131,7 +126,7 @@ script 2 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Do...do your best..."
+	"Vo... Você consegue..."
 	keyWait
 		any = false
 	end
@@ -141,30 +136,29 @@ script 3 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Reloading the Soul
-	Weapons require a
-	bit of time...
+	Recarregar as Armas
+	Alma requer um pouco
+	de tempo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	During that time,
-	the EvilSpirits you
-	have already taken
+	Nesse meio-tempo, os
+	Espíritos Malignos
+	que você já abateu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	care of in this
-	area may come back
-	to haunt you...
+	nesta área podem voltar
+	para te assombrar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That OK with you?"
+	"Tudo bem pra você?"
 	keyWait
 		any = false
 	clearMsg
@@ -179,7 +173,7 @@ script 3 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -188,7 +182,7 @@ script 3 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -202,7 +196,7 @@ script 3 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Do...do your best..."
+	"Vo... Você consegue..."
 	keyWait
 		any = false
 	flagSet
@@ -213,7 +207,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"T_Take care..."
+	"V-vá com cuidado..."
 	keyWait
 		any = false
 	end
@@ -228,8 +222,7 @@ script 5 mmbn6 {
 	clearMsg
 	mugshotHide
 	"""
-	There is no
-	response...
+	Não responde...
 	"""
 	keyWait
 		any = false

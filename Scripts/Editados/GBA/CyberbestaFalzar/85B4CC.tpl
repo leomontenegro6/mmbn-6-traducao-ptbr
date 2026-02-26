@@ -11,18 +11,17 @@ script 0 mmbn6 {
 		mugshot = Maid
 	msgOpen
 	"""
-	How about it...
-	Want a stuffed
-	animal?
+	E aí...?
+	Quer um bicho de pelúcia?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...What? No?"
+	"... Hã? Não?"
 	keyWait
 		any = false
 	clearMsg
-	"I see..."
+	"'Tendi..."
 	keyWait
 		any = false
 	end
@@ -36,15 +35,15 @@ script 1 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	You look extremely
-	nervous...
+	Você parece extremamente
+	nervosa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should gaze at
-	some fish and relax.
+	Devia relaxar olhando
+	pros peixes.
 	"""
 	keyWait
 		any = false
@@ -59,16 +58,16 @@ script 2 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Everyday...
-	Fish,fish,fish
-	fish,fish! Enough!
+	Todo santo dia...
+	É só peixe, peixe, peixe!
+	Eu não aguento mais!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When the Expo opens
-	you have to take me!
+	Quando abrir a Exposição,
+	você VAI me levar!
 	"""
 	keyWait
 		any = false
@@ -78,19 +77,19 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = YoungGirl
 	msgOpen
-	"Fish_ity,fish,fish!"
+	"Pei-xinho, pei-xinho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My grandma and
-	grandpa have plans
-	today,
+	A minha vovó e
+	o meu vovô tão
+	ocupados hoje,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"so I came alone."
+	"então eu vim sozinha."
 	keyWait
 		any = false
 	end
@@ -100,23 +99,22 @@ script 5 mmbn6 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Not many
-	customers...
+	Meio vazio, hoje...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's like this on
-	weekdays.
+	É sempre assim
+	nos dias úteis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Customers from the
-	Aquarium usually
-	come in on weekends!
+	Os clientes do Aquário
+	geralmente só vêm nos
+	fins de semana!
 	"""
 	keyWait
 		any = false
@@ -127,16 +125,15 @@ script 6 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	The Expo looks like
-	it's going to open
-	on schedule!
+	Parece que a Exposição
+	vai abrir normalmente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I really can't
-	wait!
+	Agora mesmo que
+	eu tô ansioso!
 	"""
 	keyWait
 		any = false
@@ -147,17 +144,16 @@ script 7 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Seaside Town will
-	have a pavilion at
-	the Expo.
+	O Distrito Beira-Mar
+	vai ter um pavilhão
+	na Exposição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you get the
-	chance you should
-	check it out.
+	Se tiver a oportunidade,
+	recomendo conferir.
 	"""
 	keyWait
 		any = false
@@ -167,7 +163,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Ahhh,fish are great!"
+	"Ahhh, peixes\nsão o máximo!"
 	keyWait
 		any = false
 	end
@@ -177,16 +173,16 @@ script 9 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	My boyfriend loves
-	fish!
+	O meu namorado
+	ama os peixes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if he loves
-	them that much,he
-	should marry one!
+	Hmpf! Se ama eles
+	tanto assim, devia
+	se casar com um logo!
 	"""
 	keyWait
 		any = false
@@ -196,7 +192,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = YoungGirl
 	msgOpen
-	"FISHITY FISH!!"
+	"PEI-XIINHOOOOS!!"
 	keyWait
 		any = false
 	end
@@ -205,14 +201,14 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"Hohoho..."
+	"Ho ho ho..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For my granddaughter
-	I'd even line up
-	before the opening!!
+	Pela minha neta,
+	eu até acampava
+	antes da abertura!!
 	"""
 	keyWait
 		any = false
@@ -223,22 +219,21 @@ script 12 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	We will go to the
-	Aquarium early,
+	Nós vamos aqui, para
+	o Aquário, bem cedo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and stay there
-	until we get bored.
+	e ficamos até enjoar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My granddaughter
-	loves fish,you know?
+	É que a minha netinha
+	adora peixes, sabe?
 	"""
 	keyWait
 		any = false
@@ -246,14 +241,14 @@ script 12 mmbn6 {
 }
 script 15 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -285,9 +280,8 @@ script 17 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	We are going to rule
-	this world! Don't
-	get in our way!
+	A gente vai dominar o
+	mundo! Não atrapalha!
 	"""
 	keyWait
 		any = false

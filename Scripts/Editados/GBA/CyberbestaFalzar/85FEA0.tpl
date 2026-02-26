@@ -10,9 +10,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whoa!
-	There are a lot of
-	jellyfish here!
+	Eita!
+	Olha quanta água-viva!
 	"""
 	keyWait
 		any = false
@@ -23,8 +22,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh! This is a
-	water tank...
+	Hum!
+	É um tanque de água...
 	"""
 	keyWait
 		any = false
@@ -45,30 +44,29 @@ script 10 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Would you please
-	fight against a
-	virus I'm breeding?
+	Poderia, por favor,
+	lutar contra uns vírus
+	que eu estou criando?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to test
-	the virus'
-	strength!
+	Quero testar
+	a força deles!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you win,I'll
-	give you something
-	for your effort!
+	Se vencer, te darei
+	uma coisa para fazer
+	valer a dor de cabeça!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Help me out!!"
+	"Vai, me ajude!!"
 	keyWait
 		any = false
 	clearMsg
@@ -83,7 +81,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -92,7 +90,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -106,7 +104,7 @@ script 10 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
-	"I see..."
+	"Entendo..."
 	keyWait
 		any = false
 	end
@@ -116,22 +114,22 @@ script 11 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Would you please
-	fight against a
-	virus I'm breeding?
+	Poderia, por favor,
+	lutar contra uns vírus
+	que eu estou criando?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you win,I'll
-	give you something
-	for your effort!
+	Se vencer, te darei
+	uma coisa para fazer
+	valer a dor de cabeça!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"C'mon and fight!"
+	"Vai, luta!"
 	keyWait
 		any = false
 	clearMsg
@@ -146,7 +144,7 @@ script 11 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -155,7 +153,7 @@ script 11 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -169,7 +167,7 @@ script 11 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
-	"I see..."
+	"Entendo..."
 	keyWait
 		any = false
 	end
@@ -179,14 +177,14 @@ script 12 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Ready to go!?
-	Can you delete
-	my virus!?
+	Pronto?!
+	Tens o que é preciso pra
+	esmagar os meus vírus?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle start!!"
+	"Iniciar luta!!"
 	keyWait
 		any = false
 	flagSet
@@ -199,29 +197,29 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Darn it!"
+	"Droga!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something must be
-	lacking...
-	Power... Speed...?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	No matter,you still
-	defeated my virus...
+	Deve estar faltando
+	alguma coisa...
+	Força... Velocidade...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just like I
-	promised,here
-	is your reward...
+	Não importa.
+	Você venceu
+	os meus vírus...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Como eu prometi,
+	a sua recompensa...
 	"""
 	keyWait
 		any = false
@@ -235,8 +233,8 @@ script 13 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
-	"5 BugFrags"!!
+	Lan adquiriu:
+	"5 FragBugs"!!
 	"""
 	keyWait
 		any = false
@@ -246,9 +244,8 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Darn...
-	I need to do more
-	research...
+	Droga...
+	Preciso pesquisar mais...
 	"""
 	keyWait
 		any = false
@@ -259,16 +256,16 @@ script 14 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I guess wild viruses
-	really are stronger
-	than lab_made ones.
+	Acho que vírus selvagens
+	são mesmo mais fortes
+	que os de laboratório.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I must conduct more
-	research!
+	Preciso conduzir
+	mais pesquisas!
 	"""
 	keyWait
 		any = false
@@ -293,82 +290,79 @@ script 20 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Huh? You?
-	You're the one who
-	accepted my request?
+	Hã? Você?
+	Foi você quem aceitou
+	o meu pedido?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm working here as
-	a new trainer for
-	the show!
+	Fui empregada aqui como
+	nova domadora pro show!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is one thing
-	that seems a bit
-	fishy around here...
+	Mas tem um probleminha
+	só neste oceano que é
+	a minha vida...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't ride on
-	Finny's back!
+	Eu não consigo
+	montar no Beto!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What is that..."
+	"\"Por quê?\" ..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's my fault...
-	I can't swim!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If I fall off
-	Finny's back,I'll
-	drown.
+	O problema sou eu...
+	Eu não sei nadar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Huh? If I can't
-	swim how did I get
-	to be a trainer?
+	Se eu cair das costas
+	do Beto, vou me afogar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,if you don't
-	go after what you
-	want,it's all over.
+	... Hã? "Se eu não sei
+	nadar, então por que
+	virei domadora?"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gotta keep
-	fighting!
+	Bom, não existe futuro
+	pra quem não tá disposto
+	a ir atrás do que quer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I need
-	to learn how to
-	swim!!
+	A gente nunca pode
+	parar de lutar!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Portanto, eu preciso
+	aprender a nadar!!
 	"""
 	keyWait
 		any = false
@@ -376,15 +370,15 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ummm... I'm not bad
-	at swimming,but
+	Errr... Bom, eu até
+	que nado legal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've never taught
-	anyone how to swim!
+	mas nunca ensinei
+	ninguém na vida!
 	"""
 	keyWait
 		any = false
@@ -392,16 +386,15 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	Alright...
-	Let's do this...
+	Tá bom...
+	Vamos fazer assim:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you know of
-	a school called
-	Cyber Academy?
+	você conhece essa escola,
+	a Escola Saibher?
 	"""
 	keyWait
 		any = false
@@ -409,8 +402,8 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Do I know it...
-	I'm a student there!
+	"Conhecer"?
+	Eu estudo lá!
 	"""
 	keyWait
 		any = false
@@ -418,33 +411,32 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	Really?
-	Then this will be
-	a quick talk!
+	É mesmo?
+	Então a conversa
+	vai ser rápida!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is a guy
-	there who they
-	call "Dolphin"...
+	Tem uma pessoa lá
+	que todo mundo chama
+	de "Golfinho"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He is supposed to
-	be an amazing
-	swimmer!
+	E parece que ele é
+	um exímio nadador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet this "Dolphin"
-	could teach me how
-	to swim.
+	Eu aposto que esse
+	"Golfinho" pode me
+	ensinar a nadar.
 	"""
 	keyWait
 		any = false
@@ -452,15 +444,15 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah. I'll go ask
-	him right away.
+	Beleza. Eu vou lá
+	perguntar pra ele é já.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright... I'm off
-	to Cyber Academy!
+	Certo...
+	Pra Escola Saibher!
 	"""
 	keyWait
 		any = false
@@ -471,25 +463,24 @@ script 21 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	There is a guy
-	there who they
-	call "Dolphin"...
+	Tem uma pessoa na
+	Escola Saibher conhecida
+	como o "Golfinho"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He is supposed to
-	be an amazing
-	swimmer!
+	E parece que ele é
+	um exímio nadador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet this "Dolphin"
-	could teach me how
-	to swim.
+	Eu aposto que esse
+	"Golfinho" pode me
+	ensinar a nadar.
 	"""
 	keyWait
 		any = false
@@ -497,15 +488,15 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah. I'll go ask
-	him right away.
+	Beleza. Eu vou lá
+	perguntar pra ele é já.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright... I'm off
-	to Cyber Academy!
+	Certo...
+	Pra Escola Saibher!
 	"""
 	keyWait
 		any = false
@@ -518,13 +509,13 @@ script 22 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	You met "Dolphin"?
-	That's great!!
+	Você falou com o
+	"Golfinho"? Maravilha!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What did he say...?"
+	"O que ele disse...?"
 	keyWait
 		any = false
 	clearMsg
@@ -533,7 +524,7 @@ script 22 mmbn6 {
 		item = 65
 		amount = 1
 	"""
-	Lan gave:
+	Lan deu:
 	"
 	"""
 	printItem
@@ -545,92 +536,91 @@ script 22 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabWoman
-	"What's this...?"
+	"O que é isto...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? Get fat!?
-	What the...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	That's gonna be
-	hard...
+	Hã? Engordar?!
+	Mas que conversa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well... I can't
-	give up now...
+	Vai ser difícil...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to be
-	able to swim so
-	I can ride Finny!
+	Bom... Eu não posso
+	dar pra trás agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I guess I'll
-	listen to what
-	Dolphin says...
+	Tenho que aprender
+	a nadar pra poder
+	montar no Beto!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But only a little..."
+	"""
+	Então acho que
+	vou fazer o que o
+	Golfinho mandou...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Mas só um pouquinho..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Huh...?"
+	"Hã...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	Well... I am still
-	a girl after all...
+	Digo...
+	Eu SOU uma garota...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I'll only gain
-	a bit... A few
-	measly grams.
+	Então só vou engordar
+	um tiquinho...
+	Só umas graminhas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't be...
-	No! Don't finish
-	that sentence!
+	Eu não vou ficar...
+	Não! Nem vou terminar
+	a frase!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyways!
-	I'll do my best!
+	Enfim!
+	Vou me empenhar bonito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you so much
-	for helping me!
+	Muito obrigada 
+	por me ajudar!
 	"""
 	keyWait
 		any = false
@@ -642,7 +632,7 @@ script 22 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got,
+	Lan recebeu
 	"
 	"""
 	printItem
@@ -656,27 +646,27 @@ script 22 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabWoman
-	"...Ummm..."
+	"... Hummm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know I've said it
-	already... But I'll
-	only gain a smidge!
+	Eu já falei, mas vou
+	repetir... Só umas
+	POUCAS graminhas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -687,14 +677,14 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"...Ummm..."
+	"... Hummm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know I've said it
-	already... But I'll
-	only gain a smidge!
+	Eu já falei, mas vou
+	repetir... Só umas
+	POUCAS graminhas!
 	"""
 	keyWait
 		any = false
@@ -705,13 +695,12 @@ script 25 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	...There! There!
-	I found it!!
+	... Aqui! Ó! Achei!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Penguin Capture!"
+	"Pinguim capturado!"
 	keyWait
 		any = false
 	flagSet
@@ -740,16 +729,15 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	We've got all
-	the penguins now!
+	Pronto, pegamos
+	todos os pinguins!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright! Let's get
-	back to the
-	requestor!!
+	Beleza! Bora voltar
+	lá pro solicitante!!
 	"""
 	keyWait
 		any = false

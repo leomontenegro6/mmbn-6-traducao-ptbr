@@ -6,8 +6,7 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's up to you,
-	MegaMan!
+	É com você, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -19,7 +18,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	end

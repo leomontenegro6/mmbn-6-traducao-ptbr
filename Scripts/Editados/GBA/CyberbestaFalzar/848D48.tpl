@@ -4,15 +4,15 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	ACDC Area on it.
+	Nele, há um mapa
+	da Área ACDC.
 	"""
 	keyWait
 		any = false
@@ -37,16 +37,16 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WAAAH..."
+	"BUUUÁÁÁÁ..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	What's wrong?
-	What are you doing
-	over there...?
+	O que foi?
+	Por que você tá
+	desse lado...?
 	"""
 	keyWait
 		any = false
@@ -54,17 +54,16 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	HEY,YOU'RE
-	MR.MEGAMAN!
-	IT'S BEEN A WHILE!
+	EI, É O SR. MEGAMAN!
+	HÁ QUANTO TEMPO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO ACTUALLY,I HAVE
-	TO GIVE MS.ROLL HER
-	PACKAGE...
+	BOM, NA VERDADE, TENHO
+	QUE DAR ESTA ENCOMENDA
+	À SRTA. ROLL...
 	"""
 	keyWait
 		any = false
@@ -72,94 +71,91 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You're the one?
-	Roll's been looking
-	all over for you!
+	Ah, é você?
+	A Roll tá doida
+	te procurando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"O_OH..."
+	"A-AH..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WAS BRINGING HER
-	THIS PACKAGE,AND
-	WHEN I CAME BACK,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	THE DOOR JUST UP AND
-	LOCKED ITSELF,JUST
-	LIKE THAT!
+	EU ESTAVA LEVANDO
+	ESTA ENCOMENDA PARA
+	ELA E, QUANDO VOLTEI,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I BET THIS IS
-	SOMEONE'S IDEA OF
-	A JOKE!
+	ESTA PORTA SE TRANCOU
+	SOZINHA, DO NADA!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	APOSTO QUE FOI
+	PEGADINHA DE ALGUM
+	PALHAÇO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"A joke?"
+	"Pegadinha?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... It feels like
-	I've seen this joke
-	somewhere before...
+	... Sinto que já eu vi
+	essa "pegadinha" em
+	algum outro lugar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Then again..."
+	"Dito isso..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess there are
-	other people who
-	think like Mick...
+	Acho que não existe só
+	um "Mick" neste mundo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,let's help
-	this guy out,
-	MegaMan!
+	Enfim, bora ajudar
+	esse Prog, MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This door has a
-	lock,so let's find
-	the key!
+	Essa porta tem uma
+	tranca, então vamos
+	achar a chave!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"OH,THANK YOU!"
+	"AH, OBRIGADO!"
 	keyWait
 		any = false
 	end
@@ -169,9 +165,8 @@ script 3 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WONDER WHO'S THE
-	ONE CAUSING ALL
-	THIS TROUBLE...?
+	QUEM SERÁ QUE ESTÁ
+	CAUSANDO TUDO ISSO...?
 	"""
 	keyWait
 		any = false
@@ -180,7 +175,7 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -204,9 +199,9 @@ script 5 mmbn6 {
 		jumpIfFalse = 6
 	msgOpen
 	"""
-	Dex's symbol,an
-	image of a Japanese
-	chess piece.
+	O símbolo do Dex, a
+	imagem de uma enorme
+	peça de shogi.
 	"""
 	keyWait
 		any = false
@@ -214,8 +209,8 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	... Hey,someone
-	dropped something.
+	... Ah, alguém deixou
+	cair uma coisa aqui.
 	"""
 	keyWait
 		any = false
@@ -228,7 +223,7 @@ script 5 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -244,25 +239,25 @@ script 5 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"If the key's here..."
+	"Se a chave tá aqui..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then the person that
-	locked the door has
-	to be Dex...
+	então quem trancou
+	a porta deve ter sido
+	o Dex, né...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Dex and Mick..."
+	"Dex e Mick..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They really are
-	the same.
+	Eles são mesmo
+	iguaizinhos.
 	"""
 	keyWait
 		any = false
@@ -271,9 +266,9 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	Dex's symbol,an
-	image of a Japanese
-	chess piece.
+	O símbolo do Dex, a
+	imagem de uma enorme
+	peça de shogi.
 	"""
 	keyWait
 		any = false
@@ -281,7 +276,7 @@ script 6 mmbn6 {
 }
 script 7 mmbn6 {
 	msgOpen
-	"It's a BBS..."
+	"É um fórum..."
 	keyWait
 		any = false
 	startBBS
@@ -291,9 +286,8 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	It's the image of
-	Mayl's favorite
-	stuffed bear.
+	É a imagem do ursinho de
+	pelúcia favorito da Mayl.
 	"""
 	keyWait
 		any = false
@@ -302,9 +296,9 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	It's an image of the
-	cute ducks that Yai
-	likes.
+	É a imagem dos
+	patinhos fofinhos
+	de que a Yai gosta.
 	"""
 	keyWait
 		any = false
@@ -320,7 +314,7 @@ script 10 mmbn6 {
 	msgOpen
 	printCurrentNaviOW
 	"""
-	 used:
+	 usou:
 	"
 	"""
 	printItem
@@ -336,9 +330,9 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	msgOpen
 	"""
-	The door is sealed
-	tight. You can't get
-	through it!
+	O bloqueio na porta
+	é bem forte. Não dá
+	para passar!
 	"""
 	keyWait
 		any = false

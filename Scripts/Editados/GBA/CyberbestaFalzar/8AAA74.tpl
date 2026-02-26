@@ -6,33 +6,31 @@ script 0 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	This is a bulletin
-	from the Sky Town
-	Admin Building.
+	Este é um informe do
+	Prédio da Administração
+	do Distrito Céu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The weather in Cyber
-	City is unstable at
-	the moment,however
+	O clima da Cidade Saibher
+	está instável no momento,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there are people
-	looking into the
-	situation.
+	porém, temos agentes
+	investigando a situação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For now,we are
-	asking that people
-	please stay indoors!
+	Por ora, pedimos que
+	os cidadãos não saiam
+	de casa!
 	"""
 	keyWait
 		any = false
@@ -51,14 +49,14 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Please be patient."
+	"P-por favor,\npedimos paciência."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The weather will
-	return to normal
-	very shortly.
+	O clima voltará
+	ao normal dentro
+	de poucos instantes.
 	"""
 	keyWait
 		any = false

@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This looks like the
-	SeasideArea BBS,
-	Lan!
+	Parece que é este
+	aqui o Fórum da Área
+	Beira-Mar, Lan!
 	"""
 	keyWait
 		any = false
@@ -21,9 +21,9 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright! I'm leaving
-	you to find the info
-	about our penguin!
+	Beleza! Conto com
+	você pra achar alguma
+	coisa sobre o pinguim!
 	"""
 	keyWait
 		any = false
@@ -35,7 +35,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha,Lan!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	end
@@ -65,8 +65,8 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's up? Did you
-	find something?
+	Que foi?
+	Achou alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -78,14 +78,14 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... Hmm,hmm..."
+	"... Hmm, hmm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This battle
-	technique looks
-	really useful!
+	Esta estratégia
+	de NetLuta parece
+	útil pra caramba!
 	"""
 	keyWait
 		any = false
@@ -97,14 +97,14 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!? Really!?"
+	"O quê?! Sério?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Hey,wait!
-	We're not looking
-	for techniques!
+	... P-pera aí!
+	A gente não tá atrás
+	de estratégia, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -117,9 +117,9 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Sorry,sorry! I got
-	sidetracked! I'll
-	get back on track!
+	Foi mal, foi mal!
+	Me distraí. Eu vou
+	voltar pra busca!
 	"""
 	keyWait
 		any = false
@@ -134,8 +134,8 @@ script 7 mmbn6 {
 	wait
 		frames = 20
 	"""
-	 Huh?
-	What's this...?
+	 Hã?
+	O que é isso...?
 	"""
 	keyWait
 		any = false
@@ -148,8 +148,7 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Did you find
-	something?
+	Descobriu alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -162,33 +161,33 @@ script 9 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah! I'll read this
-	post to you!
+	Descobri! Vou ler a
+	postagem pra você!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Hello webmaster."
+	"\"Olá, administrador."
 	keyWait
 		any = false
 	clearMsg
-	" I am the Director\n of the Seaside\n Town Aquarium."
+	" Sou o diretor do\n Aquário Municipal do\n Distrito Beira-Mar."
 	keyWait
 		any = false
 	clearMsg
-	" One of our penguins\n escaped the other\n day,so we're asking"
+	" Um dos nossos pinguins\n fugiu no outro dia,\n então pedimos a todos"
 	keyWait
 		any = false
 	clearMsg
-	" if you spot it,to\n please contact the\n Aquarium."
+	" que, caso o encontrem,\n por favor, alertem o\n Aquário."
 	keyWait
 		any = false
 	clearMsg
-	" Thank you for your\n assistance.\""
+	" Agradeço por sua\n cooperação.\""
 	keyWait
 		any = false
 	clearMsg
-	"... is what it says!"
+	"... Fim da postagem!"
 	keyWait
 		any = false
 	end
@@ -198,8 +197,8 @@ script 10 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This has to be about
-	that penguin!
+	Só pode ser
+	aquele pinguim!
 	"""
 	keyWait
 		any = false
@@ -211,28 +210,28 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,sounds like it!"
+	"É o que tá parecendo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like we solved
-	the mystery! These
-	BBS's are great!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	... So,I wonder
-	what the Aquarium
+	Mistério solucionado,
+	ao que parece!
+	Fóruns são úteis mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and Seaside Town in
-	general are like?
+	... Hum, como será
+	que são o Aquário e
+	o Distrito Beira-Mar,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	em geral?
 	"""
 	keyWait
 		any = false
@@ -245,23 +244,22 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't know either,
-	but...
+	Eu também não sei, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I think that
-	this Net area,
-	SeasideArea,
+	acho que esta área da
+	Rede, a Área Beira-Mar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is at the heart of
-	Seaside Town's Net!
+	deve ficar no
+	coração da Rede do
+	Distrito Beira-Mar!
 	"""
 	keyWait
 		any = false
@@ -274,14 +272,13 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah! Well,let's go
-	tell Mick about the
-	penguin!
+	É! Bom, bora lá falar
+	pro Mick sobre o pinguim!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Jack out,MegaMan!"
+	"Desconecta, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -292,7 +289,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Beleza!"
 	keyWait
 		any = false
 	end

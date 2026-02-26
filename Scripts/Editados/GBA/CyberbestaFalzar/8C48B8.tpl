@@ -30,17 +30,17 @@ script 1 mmbn6 {
 		mugshot = Bass
 	msgOpen
 	"""
-	I can see...
-	the source of...
-	your power...
+	Posso ver...
+	a fonte da...
+	sua força...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That beast power
-	hidden inside you...
-	It will be mine!
+	A fera que se esconde
+	dentro de você...
+	Ela será minha!
 	"""
 	keyWait
 		any = false
@@ -51,17 +51,16 @@ script 2 mmbn6 {
 		mugshot = Bass
 	msgOpen
 	"""
-	It was as if...
-	you knew you were
-	going to beat me!
+	Era como se...
+	você soubesse que
+	iria me vencer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For that arrogance,
-	I WILL have your
-	power!!
+	Por essa arrogância, eu
+	VOU tomar o seu poder!!
 	"""
 	keyWait
 		any = false
@@ -76,17 +75,17 @@ script 3 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I'm sure if we get
-	even stronger,he'll
-	show up again.
+	Aposto que, se a gente
+	ficar ainda mais forte,
+	ele vai aparecer de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But he won't ever
-	beat our awesome
-	teamwork!
+	Mas ele nunca vai ter
+	chance contra o nosso
+	super trabalho em equipe!
 	"""
 	keyWait
 		any = false
@@ -111,18 +110,19 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can defeat anyone
-	if we work together!
+	Não tem ninguém que
+	a gente não vença
+	se trabalhar junto!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right!?"
+	"Né?!"
 	keyWait
 		any = false
 	clearMsg
@@ -134,22 +134,21 @@ script 5 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Heh,we're no
-	rookies at this!
+	He, a gente não
+	é novato, não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With your operating
-	skills and my fire,
+	Com as tuas habilidades
+	de operação e o meu fogo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we shouldn't be
-	scared of anything!
+	nada assusta a gente!
 	"""
 	keyWait
 		any = false
@@ -162,17 +161,16 @@ script 6 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	... Hmph.
-	I suppose you're
-	correct.
+	... Hmpf.
+	Acho que você tem razão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your operating may
-	bring out my hidden
-	potential yet.
+	Talvez, um dia, sua
+	operação desperte o
+	meu potencial oculto.
 	"""
 	keyWait
 		any = false
@@ -185,17 +183,16 @@ script 7 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	Yeah! My slashing's
-	gotten better thanks
-	to your operating.
+	É! Eu fiquei mais
+	afiado graças à
+	sua operação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The two of us,
-	together__we're
-	unstoppable!
+	Nós dois, juntos...
+	somos invencíveis!
 	"""
 	keyWait
 		any = false
@@ -207,29 +204,29 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Hyahaha!"
+	"Hya ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No offense to Dark
-	Scyth,but you're a
-	natural!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If I worked with
-	you,work would go
-	so much better!
+	Sem ofensa ao Kirisaki,
+	mas você tem talento
+	nato!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd be able to
-	delete any Navi!
+	Se a gente trabalhasse
+	junto, os trabalhos iam
+	ser molezinha!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu ia poder deletar
+	todo e qualquer Navi!
 	"""
 	keyWait
 		any = false
@@ -241,14 +238,14 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Choo,choo!!"
+	"Tchú-tchúú!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that Bass shows
-	up again,he's going
-	to get smoked!!
+	Se esse Bass aparecer
+	de novo, ele vai virar
+	fumaça de carvão!!
 	"""
 	keyWait
 		any = false
@@ -260,14 +257,14 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Drip,drip!"
+	"Xuá, xuá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,I can tell your
-	operating has made
-	me stronger,drip!
+	Lan, dá pra sentir
+	que a sua operação me
+	tornou mais forte, xuá!
 	"""
 	keyWait
 		any = false
@@ -280,17 +277,17 @@ script 11 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	If Dingo were here,
-	he'd be grinding
-	his teeth,but
+	Se o Dingo estivesse
+	aqui, ele se morderia
+	de inveja,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know with you,
-	I can get even
-	stronger!!
+	mas eu sei que, com
+	você, eu posso ficar
+	ainda mais forte!!
 	"""
 	keyWait
 		any = false
@@ -302,22 +299,22 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = TenguMan
 	msgOpen
-	"Ha,ha,ha..."
+	"Ha ha ha..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,if this is a
-	sign of your true
-	power,
+	Lan, se isso é um sinal
+	do seu verdadeiro poder,
+	então, um dia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you may one day
-	become as good as
-	Master Feng_Tian.
+	você poderá se tornar
+	tão bom quanto o
+	Mestre Feng-Tian.
 	"""
 	keyWait
 		any = false
@@ -330,17 +327,17 @@ script 13 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Whiiiiir...
-	Save the pep talk
-	for the kids!
+	Tchrrrr...
+	Esse papo de incentivo,
+	guarda pra criancinhas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you're right...
-	I bet we could make
-	a pretty good team!
+	Mas cê tem razão...
+	Aposto que a gente
+	forma um super time!
 	"""
 	keyWait
 		any = false
@@ -353,16 +350,16 @@ script 14 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Gahahahaha!
-	That's good to hear!
+	Ga ha ha ha ha!
+	É ótimo ouvir isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I thought that
-	Press'd be the only
-	operator for me!
+	E eu aqui, achando que
+	o Press era o único
+	operador pra mim!
 	"""
 	keyWait
 		any = false
@@ -374,19 +371,19 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Heh,heh!"
+	"He he!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,looks like
-	we're done in this
-	area!
+	Bom, parece que a
+	gente encerrou as
+	coisas nesta área!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Time to head back!"
+	"Hora de voltar!"
 	keyWait
 		any = false
 	clearMsg
@@ -410,7 +407,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Alright!"
+	"Ah, tá bom..."
 	keyWait
 		any = false
 	end
@@ -428,7 +425,7 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"Yes."
+	"Sim."
 	keyWait
 		any = false
 	end
@@ -439,7 +436,7 @@ script 20 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"Slaaaaash!!"
+	"Fuiiiiiin!!"
 	keyWait
 		any = false
 	end
@@ -448,7 +445,7 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -457,7 +454,7 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Choo,choo!!"
+	"Tchú-tchúú!!"
 	keyWait
 		any = false
 	end
@@ -466,7 +463,7 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Drip,drip!"
+	"Xuá, xuá!"
 	keyWait
 		any = false
 	end
@@ -493,7 +490,7 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"You got it!"
+	"Beleza!"
 	keyWait
 		any = false
 	end
@@ -503,8 +500,7 @@ script 27 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Let's blow this
-	joint!
+	Bora dar o fora daqui!
 	"""
 	keyWait
 		any = false

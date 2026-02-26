@@ -6,24 +6,24 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I JUST WANT TO SAY
-	ONE THING...
+	EU SÓ QUERO FALAR
+	UMA COISA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WON'T LOSE TO THE
-	PROGRAM IN THE
-	COMPUTER THAT'S IN
+	NÃO VOU SER VENCIDO
+	PELO PROGRAMA NO
+	COMPUTADOR DA SALA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE ROOM NEXT DOOR!
-	I'M SMARTER!! NOT
-	GONNA LOSE! NEVER!!
+	AO LADO! EU SOU MAIS
+	INTELIGENTE! NUNCA
+	VOU PERDER! NUNCAA!!
 	"""
 	keyWait
 		any = false

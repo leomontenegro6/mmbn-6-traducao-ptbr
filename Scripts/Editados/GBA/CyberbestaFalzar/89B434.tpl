@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Look at all those
-	people... Wonder
-	what's up?
+	Olha só toda essa
+	gente... O que será
+	que tá pegando? 
 	"""
 	keyWait
 		any = false
@@ -19,9 +19,9 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Isn't that Tab and
-	Mick? Let's go ask
-	them!!
+	São o Tab e o Mick ali,
+	né? Bora perguntar pra
+	eles!!
 	"""
 	keyWait
 		any = false
@@ -32,8 +32,8 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yo,Mick,Tab!
-	What's going on?
+	Fala, Mick! Fala, Tab!
+	O que tá rolando?
 	"""
 	keyWait
 		any = false
@@ -46,9 +46,9 @@ script 3 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Looks like that
-	chick's doing some
-	sorta promotion.
+	Parece que aquela
+	mina ali vai fazer
+	algum tipo de anúncio.
 	"""
 	keyWait
 		any = false
@@ -56,8 +56,8 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	"""
-	Looks like you're
-	just in time!
+	E acho que cê chegou
+	bem na hora de ouvir!
 	"""
 	keyWait
 		any = false
@@ -70,8 +70,7 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh,sounds kinda
-	interesting...
+	Hm, tô interessado...
 	"""
 	keyWait
 		any = false
@@ -82,49 +81,48 @@ script 5 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	Hello Central Town!
-	And how is everyone
-	doing today?
+	Alô, Bairro Central!
+	Todo mundo bem hoje?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm pleased to
-	announce that at
-	this time tomorrow,
+	É um grande prazer
+	anunciar que amanhã,
+	neste mesmo horário,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we will be holding a
-	special CompuDancing
-	Jamboree
+	sediaremos a nossa
+	incrível Festança
+	ComputaDança
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in CentralArea3
-	to celebrate the
-	opening of the Expo.
+	na Área Central 3, pra
+	celebrar a inauguração
+	da Exposição!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're going to be
-	giving away great
-	gifts and prizes!
+	Vai contar com altos
+	brindes e prêmios
+	especiais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So tell all your
-	friends! The more
-	the merrier!
+	Então espalhem pros
+	amigos! Quanto mais
+	gente, melhor!
 	"""
 	keyWait
 		any = false
@@ -137,9 +135,9 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A CompuDancing
-	Jamboree... Sounds
-	kinda interesting...
+	Uma Festança
+	ComputaDança...
+	Até que parece legal...
 	"""
 	keyWait
 		any = false
@@ -150,8 +148,8 @@ script 7 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Wanna check it out
-	if you've got time?
+	Tá a fim de ir conferir,
+	se tiver tempo?
 	"""
 	keyWait
 		any = false
@@ -161,7 +159,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,sure!"
+	"Ah, claro!"
 	keyWait
 		any = false
 	clearMsg
@@ -173,9 +171,9 @@ script 9 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Tomorrow,huh? As
-	long as you don't
-	get detention again!
+	É amanhã, né? É só cê
+	não ficar de castigo
+	na escola de novo!
 	"""
 	keyWait
 		any = false
@@ -186,8 +184,8 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey! Today was a
-	fluke!
+	Aí! Hoje foi uma
+	exceção, não a regra!
 	"""
 	keyWait
 		any = false
@@ -195,31 +193,31 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	"""
-	Um... Tomorrow... My
-	family's chip shop
-	is reopening today.
+	Hum... Amanhã... é a
+	reinauguração da loja de
+	chips da minha família.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to work,
-	so I can't go...
+	Eu vou ter que
+	trabalhar, então
+	não vai dar pra ir...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But even though I
-	can't go,
+	Bom, mesmo assim,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope you'll come
-	to my store to
-	stock up your chips!
+	espero que vocês passem
+	lá na nossa loja pra
+	comprar uns chips!
 	"""
 	keyWait
 		any = false
@@ -230,16 +228,16 @@ script 11 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Ah... I'll come
-	and buy a few chips,
-	so,uh,don't worry...
+	Ah... Eu passo lá pra
+	comprar uns chips, então,
+	er, não esquenta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Tab
-	"Uh,huh..."
+	"Aham..."
 	keyWait
 		any = false
 	end
@@ -248,7 +246,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
@@ -259,13 +257,12 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Alright! See you!"
+	"Legal! Falou, então!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,Tab,let's
-	get outta here!
+	Bora vazar daqui, Tab!
 	"""
 	keyWait
 		any = false
@@ -273,14 +270,13 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	"""
-	If you want,you can
-	come visit my store
-	after this!
+	Se quiser, pode passar
+	na nossa loja agora, viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Bye!"
+	"Tchau!"
 	keyWait
 		any = false
 	end
@@ -290,8 +286,8 @@ script 14 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Guess we should be
-	heading home,too...
+	Acho melhor a gente
+	ir pra casa também...
 	"""
 	keyWait
 		any = false
@@ -304,9 +300,8 @@ script 15 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	I hope to see you
-	all there!
-	Tee,hee!!
+	Espero ver todo mundo lá!
+	Hi hi!
 	"""
 	keyWait
 		any = false
@@ -326,9 +321,9 @@ script 17 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	OK,I'll see you this
-	time tomorrow in
-	CentralArea3!
+	Tá, a gente se encontra
+	amanhã neste mesmo horá-
+	rio na Área Central 3!
 	"""
 	keyWait
 		any = false

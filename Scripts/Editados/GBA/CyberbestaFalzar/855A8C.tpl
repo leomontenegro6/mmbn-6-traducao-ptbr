@@ -10,9 +10,9 @@ script 10 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	See you tomorrow!
-	Don't play around
-	and go home,alright?
+	Até amanhã!
+	Não enrole e vá direto
+	pra casa, viu?
 	"""
 	keyWait
 		any = false
@@ -23,8 +23,8 @@ script 15 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	This weather...
-	... Sky Town,huh?
+	Este tempo...
+	... O Distrito Céu...
 	"""
 	keyWait
 		any = false
@@ -35,17 +35,17 @@ script 40 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	... About the next
-	newspaper,I think
-	the top headline
+	... Na próxima edição
+	do jornal, acho que a
+	matéria principal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	should obviously be
-	about the Operator
-	Navi...
+	obviamente, tem que
+	ser sobre a Prova de
+	Navi Operador...
 	"""
 	keyWait
 		any = false
@@ -53,9 +53,9 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = Girl
 	"""
-	Yeah,and if we can,
-	I'd like to get an
-	interview too!
+	É. Se desse, eu ia
+	adorar entrevistar
+	o vencedor também!
 	"""
 	keyWait
 		any = false

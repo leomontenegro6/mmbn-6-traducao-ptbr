@@ -12,30 +12,29 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Welcome to the
-	Green Town NetCafe!
+	Bem-vindo ao NetCafé
+	do Distrito Verde!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Courtroom
-	entry permits?
+	... Autorização de
+	entrada no tribunal?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course you can
-	apply for those
-	here!
+	Sim, claro que é aqui
+	que emitimos elas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is your
-	Operator's name?
+	Pode me dar o
+	nome do Operador?
 	"""
 	keyWait
 		any = false
@@ -53,15 +52,15 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	OK... You are on
-	the list...
+	Certo... Pronto,
+	você está na lista.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me give you
-	the AuthData.
+	Aqui estão os
+	Dados de Autorização.
 	"""
 	keyWait
 		any = false
@@ -74,7 +73,7 @@ script 0 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -89,39 +88,38 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	If you take a PET
-	containing this data
-	to the Court Foyer,
+	Se levar um PET contendo
+	esses dados à Entrada
+	do Tribunal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the ID machine
-	will automatically
+	a máquina de identificação
+	automaticamente lhe
+	identificará como
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	identify you as
 	Lan Hikari.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you do not have
-	the PET with the
-	data installed,
+	Mas, se não portar
+	o PET com os dados
+	instalados,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the ID machine will
-	reject you,so please
-	exercise due care.
+	a máquina irá rejeitá-lo,
+	então, tenha cautela.
 	"""
 	keyWait
 		any = false
@@ -129,8 +127,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Got it!
-	Thank you!
+	Saquei!
+	Valeu!
 	"""
 	keyWait
 		any = false
@@ -143,41 +141,38 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	If you take a PET
-	loaded with Court
-	Entry AuthData to
+	Se levar um PET contendo
+	esses dados à Entrada
+	do Tribunal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the ID machine
-	installed inside
-	the Court Foyer,
+	a máquina de identificação
+	automaticamente lhe
+	identificará como
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it'll automatically
-	identify you as
 	Lan Hikari.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you do not have
-	the PET with the
-	data installed,
+	Mas, se não portar
+	o PET com os dados
+	instalados,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the ID machine will
-	reject you,so please
-	exercise due care.
+	a máquina irá rejeitá-lo,
+	então, tenha cautela.
 	"""
 	keyWait
 		any = false
@@ -188,24 +183,23 @@ script 5 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Time to water the
-	plants!
-	Fa_lalalala!!
+	Hora de regar as plantas!
+	Lá-lá-ri-rá-rááá!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's been said...
-	You can't treat
-	plants roughly!
+	É de conhecimento comum...
+	que não se pode ser
+	bruto com as plantas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That is the law
-	here in Green Town!
+	Aqui, no Distrito Verde,
+	isso é lei!
 	"""
 	keyWait
 		any = false
@@ -218,8 +212,8 @@ script 6 mmbn6 {
 	textSpeed
 		delay = 1
 	"""
-	OHHH!!
-	This is awful!!
+	AAAHHH!!
+	Que horrooor!!
 	"""
 	keyWait
 		any = false
@@ -228,29 +222,28 @@ script 6 mmbn6 {
 		delay = 2
 	mugshotShow
 		mugshot = BlueNavi
-	"Calm down!"
+	"Por favor, calma!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What kind of
-	fraud are you a
-	victim of?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Tell me all the
-	details!
+	De que tipo de fraude
+	você foi vítima?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't tell
-	me everything we
-	can't sue!
+	Preciso que me dê
+	todos os detalhes!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Caso contrário, não
+	poderei processar o
+	responsável!
 	"""
 	keyWait
 		any = false
@@ -260,24 +253,25 @@ script 6 mmbn6 {
 	textSpeed
 		delay = 1
 	"""
-	Aaarrr!! I'm so mad!
-	I can't calm down!
+	Aaarrr!!
+	Eu tô tão zangada!
+	Não consigo ficar calma!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,if you hate
-	someone,you just
-	hate them!
+	Digo, quando a gente
+	odeia a pessoa, é
+	ódio e pronto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yaaaaahhh!!
-	This is absolutely
-	100% terribly awful!
+	Aaaaaargh!! Isso
+	é 100%, completamente,
+	absolutamente horrível!
 	"""
 	keyWait
 		any = false
@@ -287,8 +281,8 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	"""
-	There's no
-	helping this one...
+	Essa aí, nem com
+	muita reza...
 	"""
 	keyWait
 		any = false
@@ -299,25 +293,24 @@ script 7 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	That Navi there has
-	been the victim of
-	all sorts of fraud.
+	Aquela Navi ali já
+	foi vítima de todo
+	o tipo de fraude.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A lawyer tried to
-	get the details,
-	but apparently that
+	Um advogado tentou
+	pegar os detalhes,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navi was more than
-	the lawyer could
-	handle!
+	mas parece que ela
+	era areia demais pro
+	processozinho dele!!
 	"""
 	keyWait
 		any = false
@@ -328,64 +321,64 @@ script 10 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Tell me the details
-	of the robbery as
-	calmly as you can...
+	Dê-me os detalhes
+	sobre o roubo o mais
+	calmamente possível...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What was stolen?"
+	"O que foi roubado?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviYellow
-	"He stole my...my..."
+	"Ele roubou o meu... meu..."
 	keyWait
 		any = false
 	clearMsg
-	"HE STOLE MY HEART!"
+	"ELE ROUBOU O\nMEU CORAÇÃO!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
 	"""
-	This isn't just
-	some...
+	...
+	Isso não seria uma...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"silly crush is it?"
+	"paixonite, seria?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviYellow
-	"Don't say that!"
+	"Não fala assim!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel completely
-	hollow inside!
+	Eu me sinto tão
+	vazia por dentro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He stole my heart!
-	He's a real
-	criminal!
+	Ele roubou o meu
+	coração! É um
+	criminoso de verdade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"Impossible..."
+	"Inacreditável..."
 	keyWait
 		any = false
 	end
@@ -395,17 +388,16 @@ script 11 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	That lawyer over
-	there is really
-	up a creek...
+	Aquele advogado ali tá
+	tomando sopa com garfo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Their conversation
-	has gone straight
-	to the toilet...
+	A conversa deles não
+	tem norte, nem sul,
+	nem direção nenhuma!
 	"""
 	keyWait
 		any = false
@@ -416,17 +408,16 @@ script 12 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I heard that there
-	is an enormous tree
-	in Green Area2...
+	Me falaram que tinha
+	uma árvore gigantesca
+	na Área Verde 2...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder where in
-	the world it is!?
-	I'd love to see it!
+	Onde será que ela tá?!
+	Eu quero tanto ver!
 	"""
 	keyWait
 		any = false

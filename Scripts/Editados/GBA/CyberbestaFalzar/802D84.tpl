@@ -8,9 +8,9 @@ script 0 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Attk ahd.
-	Suck in &
-	shoot out
+	Aspira e
+	atira em
+	frente
 	"""
 	keyWait
 		any = true
@@ -23,9 +23,9 @@ script 1 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Head fwd
-	& launch
-	blst attk
+	Avança e
+	usa atq.
+	explosivo
 	"""
 	keyWait
 		any = true
@@ -38,9 +38,9 @@ script 2 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Head fwd
-	& launch
-	blst attk
+	Avança e
+	usa atq.
+	explosivo
 	"""
 	keyWait
 		any = true
@@ -53,9 +53,9 @@ script 3 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Head fwd
-	& launch
-	blst attk
+	Avança e
+	usa atq.
+	explosivo
 	"""
 	keyWait
 		any = true
@@ -68,9 +68,9 @@ script 4 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Snd giant
-	wave acrs
-	area 2pnl
+	Onda gi-
+	gante na
+	área,2qds
 	"""
 	keyWait
 		any = true
@@ -83,9 +83,9 @@ script 5 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Snd giant
-	wave acrs
-	area 2pnl
+	Onda gi-
+	gante na
+	área,2qds
 	"""
 	keyWait
 		any = true
@@ -98,9 +98,9 @@ script 6 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Snd giant
-	wave acrs
-	area 2pnl
+	Onda gi-
+	gante na
+	área,2qds
 	"""
 	keyWait
 		any = true
@@ -113,9 +113,9 @@ script 7 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Capture
-	enmy in a
-	ash attck
+	Pega alvo
+	em ataque
+	de cinzas
 	"""
 	keyWait
 		any = true
@@ -128,9 +128,9 @@ script 8 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Capture
-	enmy in a
-	ash attck
+	Pega alvo
+	em ataque
+	de cinzas
 	"""
 	keyWait
 		any = true
@@ -143,9 +143,9 @@ script 9 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Capture
-	enmy in a
-	ash attck
+	Pega alvo
+	em ataque
+	de cinzas
 	"""
 	keyWait
 		any = true
@@ -158,9 +158,9 @@ script 10 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Whip 3
-	panels
-	forward
+	Chicoteia
+	3 quadros
+	em frente
 	"""
 	keyWait
 		any = true
@@ -173,9 +173,9 @@ script 11 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Whip 3
-	panels
-	forward
+	Chicoteia
+	3 quadros
+	em frente
 	"""
 	keyWait
 		any = true
@@ -188,9 +188,9 @@ script 12 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Whip 3
-	panels
-	forward
+	Chicoteia
+	3 quadros
+	em frente
 	"""
 	keyWait
 		any = true
@@ -203,9 +203,9 @@ script 13 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Hit は whn
-	col chges
-	elem attk
+	Aperte は
+	p/ mudar
+	elemento
 	"""
 	keyWait
 		any = true
@@ -218,9 +218,9 @@ script 14 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Hit は whn
-	col chges
-	elem attk
+	Aperte は
+	p/ mudar
+	elemento
 	"""
 	keyWait
 		any = true
@@ -233,9 +233,9 @@ script 15 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Hit は whn
-	col chges
-	elem attk
+	Aperte は
+	p/ mudar
+	elemento
 	"""
 	keyWait
 		any = true
@@ -248,9 +248,9 @@ script 16 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Cut enmy
-	lines in
-	Z shape
+	Corta
+	área alvo
+	em "Z"
 	"""
 	keyWait
 		any = true
@@ -263,9 +263,9 @@ script 17 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Cut enmy
-	lines in
-	Z shape
+	Corta
+	área alvo
+	em "Z"
 	"""
 	keyWait
 		any = true
@@ -278,9 +278,9 @@ script 18 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Cut enmy
-	lines in
-	Z shape
+	Corta
+	área alvo
+	em "Z"
 	"""
 	keyWait
 		any = true
@@ -293,9 +293,9 @@ script 19 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Rain on
-	enmy then
-	lance atk
+	Chove nos
+	alvos+atq
+	de lança
 	"""
 	keyWait
 		any = true
@@ -308,9 +308,9 @@ script 20 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Rain on
-	enmy then
-	lance atk
+	Chove nos
+	alvos+atq
+	de lança
 	"""
 	keyWait
 		any = true
@@ -323,9 +323,9 @@ script 21 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Rain on
-	enmy then
-	lance atk
+	Chove nos
+	alvos+atq
+	de lança
 	"""
 	keyWait
 		any = true
@@ -338,9 +338,9 @@ script 22 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Hit enmy
-	with bike
-	rdng Djgo
+	Django na
+	moto ata-
+	ca alvos
 	"""
 	keyWait
 		any = true
@@ -353,9 +353,9 @@ script 23 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Hit enmy
-	with bike
-	rdng Djgo
+	Django na
+	moto ata-
+	ca alvos
 	"""
 	keyWait
 		any = true
@@ -368,9 +368,9 @@ script 24 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Hit enmy
-	with bike
-	rdng Djgo
+	Django na
+	moto ata-
+	ca alvos
 	"""
 	keyWait
 		any = true
@@ -383,8 +383,8 @@ script 25 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Chrgeshot
-	becomes
+	TiroCarg.
+	vira
 	FireHit
 	"""
 	keyWait
@@ -398,8 +398,8 @@ script 26 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Chrgeshot
-	becomes
+	TiroCarg.
+	vira
 	AquaNeedl
 	"""
 	keyWait
@@ -413,8 +413,8 @@ script 27 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Chrgeshot
-	becomes
+	TiroCarg.
+	vira
 	ElecPulse
 	"""
 	keyWait
@@ -428,8 +428,8 @@ script 28 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Chrgeshot
-	becomes
+	TiroCarg.
+	vira
 	Boomerang
 	"""
 	keyWait
@@ -443,9 +443,9 @@ script 29 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Instant
-	Full
-	Synchro!
+	SincTotal
+	Instantâ-
+	nea!
 	"""
 	keyWait
 		any = true
@@ -458,9 +458,9 @@ script 30 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	USE LARGE
-	SWORD AND
-	SLICE
+	CORTA COM
+	GRANDE
+	ESPADA
 	"""
 	keyWait
 		any = true
@@ -473,9 +473,9 @@ script 31 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	CORNER
-	ENMY BY
-	THUNDER
+	ENCURRALA
+	ALVO COM
+	TROVÕES
 	"""
 	keyWait
 		any = true
@@ -488,9 +488,9 @@ script 32 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	BECOME
-	ALMOST
-	INVINCBLE
+	FICA
+	QUASE IN-
+	VENCÍVEL
 	"""
 	keyWait
 		any = true
@@ -503,9 +503,9 @@ script 33 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	RELEASE
-	YOUR
-	DARKNESS
+	LIBERE
+	SUAS
+	TREVAS
 	"""
 	keyWait
 		any = true
@@ -518,9 +518,9 @@ script 34 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	NEXT CHIP
-	ATK
-	+50
+	+50 ATQ.
+	DO PRÓX.
+	CHIP
 	"""
 	keyWait
 		any = true
@@ -643,9 +643,9 @@ script 45 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Buster
-	rake wide
-	enmy area
+	Tiros
+	assolam
+	alvos
 	"""
 	keyWait
 		any = true
@@ -658,9 +658,9 @@ script 46 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Hook
-	atk 2 sq
-	wide
+	Golpe de
+	gancho em
+	2 linhas
 	"""
 	keyWait
 		any = true
@@ -673,9 +673,9 @@ script 47 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	A Button
-	power up
-	by 3 swrd
+	"A" ener-
+	giza em
+	3 espadas
 	"""
 	keyWait
 		any = true
@@ -688,9 +688,9 @@ script 48 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Smmn Col.
-	army in
-	open pnls
+	Exército
+	do Colnel
+	em buraco
 	"""
 	keyWait
 		any = true
@@ -703,9 +703,9 @@ script 49 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Use Bug
-	Frag with
-	DrkSword!
+	Usa Frag-
+	Bug c/
+	EspdTrev!
 	"""
 	keyWait
 		any = true
@@ -718,9 +718,9 @@ script 50 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	A ring
-	that hits
-	4 times
+	Anel que
+	atinge
+	4 vezes
 	"""
 	keyWait
 		any = true
@@ -733,9 +733,9 @@ script 51 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Meteors
-	bombard
-	from sky
+	Meteoros
+	caem do
+	céu
 	"""
 	keyWait
 		any = true
@@ -748,8 +748,8 @@ script 52 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Cross_
-	slice!
+	Corte
+	cruzado!
 	"""
 	keyWait
 		any = true
@@ -762,9 +762,9 @@ script 53 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Blend Hub
-	DNA Data
-	wてMegaMan
+	Funde DNA
+	de Hub c/
+	MegaMan
 	"""
 	keyWait
 		any = true
@@ -777,9 +777,9 @@ script 54 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Use Bug
-	Frag with
-	DarkThnd!
+	Usa Frag-
+	Bug c/
+	TrvãoTrev
 	"""
 	keyWait
 		any = true
@@ -792,9 +792,9 @@ script 55 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Fang&wing
-	doubl atk
-	frenzy!
+	Ataque
+	duplo
+	presa&asa
 	"""
 	keyWait
 		any = true
@@ -807,9 +807,9 @@ script 56 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Gregar's
-	scorching
-	breath!
+	Baforada
+	cruel
+	do Gregar
 	"""
 	keyWait
 		any = true
@@ -822,9 +822,9 @@ script 57 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Falzar's
-	storming
-	tornado!
+	Tornado
+	intenso
+	do Falzar
 	"""
 	keyWait
 		any = true
@@ -848,9 +848,9 @@ script 59 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	MegaBstr
-	attk with
-	MegaMan!
+	Ataque c/
+	MegaMan:
+	MegaTiro
 	"""
 	keyWait
 		any = true
@@ -863,9 +863,9 @@ script 60 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
+	Ataque c/
+	MegaMan:
 	ZapRing
-	attk with
-	MegaMan!
 	"""
 	keyWait
 		any = true
@@ -878,9 +878,9 @@ script 61 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	LifeSrd
-	attk with
-	MegaMan!
+	Ataque c/
+	MegaMan:
+	LifeSwrd
 	"""
 	keyWait
 		any = true
@@ -893,9 +893,9 @@ script 62 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Snd all 3
-	types of
-	Dstb Atks
+	Manda 3
+	tipos de
+	Dstúrbios
 	"""
 	keyWait
 		any = true
@@ -908,9 +908,9 @@ script 63 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	If Beast
-	Chip hits
-	Dstb atk!
+	Se Chip
+	Fera pega
+	=Dstúrbio
 	"""
 	keyWait
 		any = true
@@ -923,9 +923,9 @@ script 64 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Giga lvl
-	cannon
-	attack!
+	Ataque de
+	canhão
+	nv. Giga!
 	"""
 	keyWait
 		any = true
@@ -938,9 +938,9 @@ script 65 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Giga lvl
-	cannon
-	attack!
+	Ataque de
+	canhão
+	nv. Giga!
 	"""
 	keyWait
 		any = true
@@ -953,9 +953,9 @@ script 66 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Giga lvl
-	cannon
-	attack!
+	Ataque de
+	canhão
+	nv. Giga!
 	"""
 	keyWait
 		any = true
@@ -968,9 +968,9 @@ script 67 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	An expnd
-	3 row 
-	fire attk
+	Fogo
+	expansivo
+	3 linhas
 	"""
 	keyWait
 		any = true
@@ -983,9 +983,9 @@ script 68 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	An expnd
-	3 row 
-	fire attk
+	Fogo
+	expansivo
+	3 linhas
 	"""
 	keyWait
 		any = true
@@ -998,9 +998,9 @@ script 69 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	An expnd
-	3 row 
-	fire attk
+	Fogo
+	expansivo
+	3 linhas
 	"""
 	keyWait
 		any = true
@@ -1013,9 +1013,9 @@ script 70 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Launch 2
-	flaming
-	hooks!
+	Lança
+	2 ganchos
+	de fogo!
 	"""
 	keyWait
 		any = true
@@ -1028,9 +1028,9 @@ script 71 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Launch 2
-	flaming
-	hooks!
+	Lança
+	2 ganchos
+	de fogo!
 	"""
 	keyWait
 		any = true
@@ -1043,9 +1043,9 @@ script 72 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Launch 2
-	flaming
-	hooks!
+	Lança
+	2 ganchos
+	de fogo!
 	"""
 	keyWait
 		any = true
@@ -1058,9 +1058,9 @@ script 73 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Send a
-	pwrfl wav
-	3rows fwd
+	Onda
+	forte a 3
+	colunas
 	"""
 	keyWait
 		any = true
@@ -1073,9 +1073,9 @@ script 74 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Send a
-	pwrfl wav
-	3rows fwd
+	Onda
+	forte a 3
+	colunas
 	"""
 	keyWait
 		any = true
@@ -1088,9 +1088,9 @@ script 75 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Send a
-	pwrfl wav
-	3rows fwd
+	Onda
+	forte a 3
+	colunas
 	"""
 	keyWait
 		any = true
@@ -1103,9 +1103,9 @@ script 76 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Explosive
-	corn with
-	9pnl rch!
+	Milho
+	explosivo
+	Alcn:9qds
 	"""
 	keyWait
 		any = true
@@ -1118,9 +1118,9 @@ script 77 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Shell atk
-	on 5 rght
-	grid rows
+	Ataque
+	em 5
+	fileiras
 	"""
 	keyWait
 		any = true
@@ -1133,9 +1133,9 @@ script 78 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Fire puls
-	that caus
-	strg bug!
+	Pulso fo-
+	go causa
+	bug forte
 	"""
 	keyWait
 		any = true
@@ -1148,9 +1148,9 @@ script 79 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Set TmBm+
-	in enemy
-	area!
+	Planta
+	TimeBmb
+	nos alvos
 	"""
 	keyWait
 		any = true
@@ -1163,8 +1163,7 @@ script 80 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Fire a
-	strm of 5
+	Lança 5
 	AuraHeds
 	"""
 	keyWait
@@ -1178,9 +1177,9 @@ script 81 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Fire 3
-	consec.
+	Lança 3
 	WideShts
+	seguidos
 	"""
 	keyWait
 		any = true
@@ -1193,9 +1192,9 @@ script 82 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Secondary
-	explosion
-	after hit
+	Segunda
+	explosão
+	posterior
 	"""
 	keyWait
 		any = true
@@ -1208,9 +1207,9 @@ script 83 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Slices
-	2sq wide
-	3sq vrtcl
+	Corte
+	2 linhas,
+	3 colunas
 	"""
 	keyWait
 		any = true
@@ -1223,7 +1222,8 @@ script 84 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Moves 3sq
+	Avança
+	3 quadros
 	vertical
 	"""
 	keyWait
@@ -1237,9 +1237,9 @@ script 85 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Reflect
+	Reflete
+	ataque
 	hockey
-	attack
 	"""
 	keyWait
 		any = true
@@ -1252,9 +1252,9 @@ script 86 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Places a
-	poisoned
-	Pharaoh
+	Planta
+	Faraó de
+	veneno
 	"""
 	keyWait
 		any = true
@@ -1267,9 +1267,9 @@ script 87 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Trap enmy
-	then thrw
-	star attk
+	Prende e
+	atira
+	shuriken
 	"""
 	keyWait
 		any = true
@@ -1282,9 +1282,9 @@ script 88 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Attk with
-	BtlNwk1's
+	Ataca com
 	ProtoMan
+	de MMBN1
 	"""
 	keyWait
 		any = true
@@ -1297,9 +1297,9 @@ script 89 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	BtlNwk2's
-	GspelBth&
-	Bass Swrd
+	BafoGspl+
+	Espd Bass
+	de MMBN2
 	"""
 	keyWait
 		any = true
@@ -1312,9 +1312,9 @@ script 90 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Attk with
-	all BN3's
-	Cros Attk
+	Todos os
+	Atqs Cros
+	de MMBN3
 	"""
 	keyWait
 		any = true
@@ -1327,9 +1327,9 @@ script 91 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Attk 3pnl
-	fwd wてBN4
-	SunMn atk
+	Atq Invo-
+	cação re-
+	to de BN4
 	"""
 	keyWait
 		any = true
@@ -1342,9 +1342,9 @@ script 92 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Dbl attk
-	wてBN5 Col
-	and ProtM
+	Ataque
+	duplo BN5
+	Col+Proto
 	"""
 	keyWait
 		any = true
@@ -1357,9 +1357,9 @@ script 93 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Cllbrate!
-	Attk wてMM
-	+ Django!
+	Colab.!
+	Ataque
+	Mega+Djng
 	"""
 	keyWait
 		any = true
@@ -1672,9 +1672,9 @@ script 124 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Add an
-	effect:
-	Confuse
+	Adiciona
+	efeito:
+	Confusão
 	"""
 	keyWait
 		any = true
@@ -1687,9 +1687,9 @@ script 125 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Add an
-	effect:
-	Blind
+	Adiciona
+	efeito:
+	Cegueira
 	"""
 	keyWait
 		any = true
@@ -1702,9 +1702,9 @@ script 126 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Add an
-	effect:
-	Paralyze
+	Adiciona
+	efeito:
+	Paralisia
 	"""
 	keyWait
 		any = true
@@ -1717,9 +1717,9 @@ script 127 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Add an
-	effect:
-	HP Bug
+	Adiciona
+	efeito:
+	Bug PV
 	"""
 	keyWait
 		any = true
@@ -1732,9 +1732,9 @@ script 128 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Add an
-	effect:
-	Recovery
+	Adiciona
+	efeito:
+	Cura
 	"""
 	keyWait
 		any = true
@@ -1897,9 +1897,9 @@ script 144 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Sprd fire
-	attk with
-	Dpad.3pnl
+	Direcionl
+	espalha
+	atq,3qds
 	"""
 	keyWait
 		any = true
@@ -1912,9 +1912,9 @@ script 145 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Dash fwd
-	and slash
-	wてElecSwd
+	Avança e
+	corta com
+	ElecSwrd
 	"""
 	keyWait
 		any = true
@@ -1927,9 +1927,9 @@ script 146 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Slash an
-	enmy whl
-	revolving
+	Corta
+	alvo e
+	gira
 	"""
 	keyWait
 		any = true
@@ -1942,9 +1942,9 @@ script 147 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Pierce
-	fwd and
-	fire beam
+	Perfura à
+	frente +
+	raio
 	"""
 	keyWait
 		any = true
@@ -1957,9 +1957,9 @@ script 148 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Snd coal
-	up chimny
-	& hit emy
+	Carvão na
+	caldeira
+	e ataca
 	"""
 	keyWait
 		any = true
@@ -1972,9 +1972,9 @@ script 149 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Send rvlv
-	shwr 3fwd
-	hit 8pnls
+	Chuva de
+	tiros a 3
+	qds,8glps
 	"""
 	keyWait
 		any = true
@@ -1987,9 +1987,9 @@ script 150 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Unleash
-	a giant
-	axe attck
+	Ataque de
+	machado
+	gigante
 	"""
 	keyWait
 		any = true
@@ -2002,9 +2002,9 @@ script 151 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Attk enmy
-	wてspnning
-	twister!
+	Ataca c/
+	tornado
+	giratório
 	"""
 	keyWait
 		any = true
@@ -2017,9 +2017,9 @@ script 152 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	DrillAtk.
-	Go fwd &
-	shwr rock
+	AtqBroca,
+	avança e
+	chove pdr
 	"""
 	keyWait
 		any = true
@@ -2032,9 +2032,8 @@ script 153 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Draw enmy
-	in, then
-	crsh attk
+	Puxa alvo
+	e esmaga
 	"""
 	keyWait
 		any = true
@@ -2047,9 +2046,9 @@ script 154 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Use
+	Usa
 	WideSwrd
-	2sq ahead
+	a 2qdros.
 	"""
 	keyWait
 		any = true

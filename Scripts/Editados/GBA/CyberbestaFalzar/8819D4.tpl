@@ -9,7 +9,7 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"WOOOO!!!"
+	"AAAAGH!!!"
 	keyWait
 		any = false
 	end

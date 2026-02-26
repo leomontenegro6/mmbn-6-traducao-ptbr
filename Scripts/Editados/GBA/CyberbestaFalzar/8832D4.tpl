@@ -12,47 +12,45 @@ script 0 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Huh? What are we
-	doing?
+	Hã?
+	"O que estamos fazendo?"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We are studying
-	for the bar exam
-	to be lawyers.
+	Estamos estudando para
+	o exame da ordem, para
+	nos tornarmos advogados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We call our group
-	"Lawyers in the
-	 Making"!
+	Chamamos o nosso grupo
+	de "Futuros Advogados"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We are making our
-	future by studying.
+	Estudando, estamos
+	construindo nosso futuro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the goal of
-	our studies is to
-	become lawyers!
+	E o objetivo desses
+	estudos é nos tornar
+	advogados!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you planning
-	on becoming a
-	lawyer too?
+	Você também pretende
+	seguir esse caminho?
 	"""
 	keyWait
 		any = false
@@ -60,9 +58,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Umm... Nope...
-	But that's not
-	a bad thing!
+	Er... Não...
+	Mas não tem
+	vergonha nisso!
 	"""
 	keyWait
 		any = false
@@ -70,39 +68,37 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	"""
-	So then you must
-	want to be a
-	judge?
+	Então você deve querer
+	ser um juiz, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't recommend
-	trying to become
-	a judge...
+	Olha, eu não recomendo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not many people
-	pass the judge's
-	test...
+	Pouquíssimas pessoas
+	passam na prova de
+	juiz...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should try to
-	become a lawyer!!
+	Devia tentar ser
+	advogado mesmo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll let you in
-	our group cheap!
+	A gente até faz um
+	desconto pra você
+	entrar no nosso grupo!
 	"""
 	keyWait
 		any = false
@@ -110,8 +106,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Hahaha...
-	Maybe next time!
+	Ha ha ha...
+	Quem sabe na próxima?
 	"""
 	keyWait
 		any = false
@@ -122,21 +118,23 @@ script 1 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Want to try and
-	become a lawyer?
-	You can join
+	Quer tentar ser
+	advogado? Você
+	pode entrar pros
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Lawyers in the\n Making\"!?"
+	"""
+	"Futuros Advogados"!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you join now
-	the membership fee
-	will be discounted!
+	Se entrar agora, damos
+	um descontinho na taxa
+	de inscrição!
 	"""
 	keyWait
 		any = false
@@ -151,21 +149,19 @@ script 2 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	You changed your
-	mind?
+	E aí, mudou de ideia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd like to
-	become a lawyer
-	and join
+	Resolveu virar advogado
+	e entrar pros
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Lawyers in the\n Making\"!?"
+	"\"Futuros Advogados\"?!"
 	keyWait
 		any = false
 	clearMsg
@@ -180,7 +176,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -189,7 +185,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -203,39 +199,38 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	"""
-	I forgot to mention
-	the membership fee
-	is 1000 Zennys.
+	Esqueci de falar que
+	a taxa de adesão é de
+	1000 Zennys.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"It's that much?"
+	"Meio caro, né?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
 	"""
-	If you think of
-	how much you'd make
-	as a lawyer,
+	Quando se pensa em todo
+	o dinheiro que você vai
+	fazer como advogado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's really
-	a bargain!
+	é troco de pão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"...OK."
+	"... OK."
 	keyWait
 		any = false
 	clearMsg
@@ -250,7 +245,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Pay  "
+	" Pagar  "
 	option
 		brackets = 0
 		left = 0
@@ -259,7 +254,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't pay"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -276,7 +271,7 @@ script 2 mmbn6 {
 		jumpIfNone = 11
 		jumpIfSome = 11
 	"""
-	MegaMan paid
+	MegaMan pagou
 	1000 Zennys.
 	"""
 	keyWait
@@ -285,32 +280,31 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	"""
-	Now you are a
-	member of "Lawyers
-	in the Making"!
+	Agora você virou
+	um membro dos
+	"Futuros Advogados"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you keep
-	studying here,
+	Se continuar
+	estudando aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you too will become
-	a specialist in the
-	law.
+	vai virar um especialista
+	no direito sem falta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do your best!!
-	Someday you'll be
-	a lawyer!!
+	Manda ver!!
+	Advogados um dia,
+	nós seremos!!
 	"""
 	keyWait
 		any = false
@@ -323,24 +317,23 @@ script 3 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	If you keep
-	studying here,
+	Se continuar
+	estudando aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you too will become
-	a specialist in the
-	law.
+	vai virar um especialista
+	no direito sem falta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do your best!!
-	Someday you'll be
-	a lawyer!!
+	Manda ver!!
+	Advogados um dia,
+	nós seremos!!
 	"""
 	keyWait
 		any = false
@@ -356,60 +349,59 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"AHH! You're here!"
+	"AHH! Olha você aí!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Lawyers in the
-	 Making" is always
-	open!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Study whenever
-	you'd like!
+	Os "Futuros Advogados"
+	estão sempre de portas
+	abertas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Huh?
-	What?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"NetNavi Rights?"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Yes,they do have
-	those,
+	Estude sempre
+	que quiser!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and it is covered
-	by Green Town Law
-	No.153,I believe.
+	... Hã?
+	O quê?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Direitos dos NetNavis?"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Sim, existem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's the kind of
-	zeal for studying
-	we like to see!
+	e são contemplados pela
+	Lei Nº 153 do Distrito
+	Verde, creio eu.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm so pleased!!"
+	"""
+	Uhum, esse é o tipo de
+	dedicação aos estudos que
+	a gente gosta de ver!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Estou comovido!!"
 	keyWait
 		any = false
 	end
@@ -419,29 +411,28 @@ script 5 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	NetNavi Rights
-	should be covered
-	by Green Town Law
+	Os Direitos dos NetNavis
+	são descritos na Lei Nº
+	153 do Distrito Verde,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No.153 if my memory
-	serves me correctly.
+	se não me falha a memória.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's the kind of
-	zeal for studying
-	we like to see!
+	Uhum, esse é o tipo de
+	dedicação aos estudos que
+	a gente gosta de ver!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm so pleased!!"
+	"Estou comovido!!"
 	keyWait
 		any = false
 	end
@@ -450,7 +441,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"...That's a shame..."
+	"... Pena..."
 	keyWait
 		any = false
 	end
@@ -459,20 +450,20 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"...Hmmm..."
+	"... Hmmm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So sneaking a snack
-	isn't a crime...
+	Então entrar com
+	comida escondida
+	não é crime...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That makes perfect
-	sense!
+	É, faz muito sentido!
 	"""
 	keyWait
 		any = false
@@ -480,22 +471,21 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	Don't jump to
-	conclusions!
+	Opa, não tire
+	conclusões precipitadas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you snuck a
-	snack of caviar...
+	Se a comida for caviar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That would be a
-	first_class crime!
+	aí configura um
+	crime gravíssimo!
 	"""
 	keyWait
 		any = false
@@ -504,36 +494,34 @@ script 7 mmbn6 {
 		mugshot = NormalNaviYellow
 	"""
 	Hmmm...
-	I suppose you're
-	right.
+	Acho que tem razão.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But wait a second!"
+	"Mas... espere!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What if the caviar
-	that was snuck as a
-	snack was expired?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The person who snuck
-	that snack would
-	feel awfully sick!
+	E se esse caviar
+	tiver passado da
+	data de expiração?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then it would be
-	a crime against the
-	snack sneaker!
+	A pessoa que entrou com
+	ele passaria muito mal!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Daí, seria um crime
+	contra o portador
+	da comida secreta!
 	"""
 	keyWait
 		any = false
@@ -542,8 +530,8 @@ script 7 mmbn6 {
 		mugshot = NormalNaviBrown
 	"""
 	Hmmmm...
-	A compelling
-	argument indeed!
+	Argumento fascinante,
+	de fato!
 	"""
 	keyWait
 		any = false
@@ -565,39 +553,39 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"A new member?"
+	"É um novo membro?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pleased to meet
-	you!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If you ever need
-	help just ask me!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"...Huh?"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	What happens if you
-	hit a Mr.Prog on
-	the head?
+	Muito prazer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know I just
-	studied this...
+	Se precisar de ajuda
+	com alguma coisa, é
+	só me pedir, viu?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"... Hã?"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	"O que acontece quando
+	se bate na cabeça de
+	um Prog?"
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Hm, eu sei que já
+	estudei isso...
 	"""
 	keyWait
 		any = false
@@ -608,7 +596,7 @@ script 8 mmbn6 {
 	"."
 	wait
 		frames = 30
-	"."
+	". "
 	wait
 		frames = 30
 	"Hmm."
@@ -617,29 +605,27 @@ script 8 mmbn6 {
 	"."
 	wait
 		frames = 30
-	"."
+	". "
 	wait
 		frames = 30
-	"Hmm"
+	"Hmm...!"
 	keyWait
 		any = false
 	clearMsg
-	"Oh! I remember!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If you hit a
-	Mr.Prog on the
-	head,
-	"""
+	"Ah! Lembrei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The punishment is
-	something that is
-	infuriating!
+	Por bater na cabeça
+	de um Prog,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	a punição é uma
+	coisa enfurecedora!
 	"""
 	keyWait
 		any = false
@@ -652,14 +638,14 @@ script 8 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"It's true! Really!"
+	"É sério! Eu juro!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The last time I hit
-	one,the punishment
-	got me so mad!!
+	Da última vez que eu
+	fiz isso, a punição me
+	deixou fulo da vida!!
 	"""
 	keyWait
 		any = false
@@ -672,17 +658,15 @@ script 9 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	If you hit a
-	Mr.Prog on the
-	head...
+	Por bater na cabeça
+	de um Prog,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The punishment is
-	something that is
-	infuriating!
+	a punição é uma
+	coisa enfurecedora!
 	"""
 	keyWait
 		any = false
@@ -695,14 +679,14 @@ script 9 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"It's true! Really!"
+	"É sério! Eu juro!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The last time I hit
-	one,the punishment
-	got me so mad!!
+	Da última vez que eu
+	fiz isso, a punição me
+	deixou fulo da vida!!
 	"""
 	keyWait
 		any = false
@@ -717,31 +701,29 @@ script 10 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	...I found out
-	about this a while
-	ago...I hear those
+	... Eu aprendi isso faz
+	pouco tempo... Parece
+	que aqueles que pegam
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	who pick up Zennys
-	on the ground
-	without reporting it
+	Zennys do chão sem
+	levar para a polícia
+	são punidos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	are tickled as their
-	punishment!
+	com cócegas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That sounds
-	terrible...
+	Aterrorizante...
 	"""
 	keyWait
 		any = false
@@ -752,22 +734,22 @@ script 11 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	...Not enough
-	here...
+	... Você não tem
+	o bastante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The membership fee
-	is a rule,so come
+	A taxa de adesão
+	é uma regra absoluta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	back when you've
-	saved enough money.
+	então volte após
+	juntar mais dinheiro.
 	"""
 	keyWait
 		any = false

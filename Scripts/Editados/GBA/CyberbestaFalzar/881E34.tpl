@@ -20,24 +20,24 @@ script 0 mmbn6 {
 		buffer = 0
 		chip = 202
 	"""
-	" sure
-	is a cool name for
-	a chip!
+	" é um
+	nome tão legal
+	pra um chip!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I had one,I think
-	I'd even get big!
-	I really want one!!
+	Se eu tivesse um, aposto
+	que até ficava mais alto!
+	Eu queria tanto um!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I figured I'd
-	ask if you had a
+	Vou arriscar...
+	Você teria aí um
 	"
 	"""
 	printChip
@@ -52,15 +52,15 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Of course I don't
-	want you to just
-	give it to me...
+	Ah, mas claro que eu
+	não quero ele de
+	graça, assim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd trade you my
+	Eu trocaria por um
 	"
 	"""
 	printChip
@@ -71,8 +71,7 @@ script 0 mmbn6 {
 		buffer = 0
 		code = J
 	"""
-	"
-	for it.
+	".
 	"""
 	keyWait
 		any = false
@@ -88,7 +87,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure  "
+	" Claro  "
 	option
 		brackets = 0
 		left = 0
@@ -97,7 +96,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No way"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -111,7 +110,7 @@ script 0 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"I wanna be big..."
+	"Eu queria ficar alto..."
 	keyWait
 		any = false
 	end
@@ -125,24 +124,24 @@ script 1 mmbn6 {
 		buffer = 0
 		chip = 202
 	"""
-	" sure
-	is a cool name for
-	a chip!
+	" é um
+	nome tão legal
+	pra um chip!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I had one,I think
-	I'd even get big!
-	I really want one!!
+	Se eu tivesse um, aposto
+	que até ficava mais alto!
+	Eu queria tanto um!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I figured I'd
-	ask if you had a
+	Vou arriscar...
+	Você teria aí um
 	"
 	"""
 	printChip
@@ -157,15 +156,15 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Of course I don't
-	want you to just
-	give it to me...
+	Ah, mas claro que eu
+	não quero ele de
+	graça, assim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd trade you my
+	Eu trocaria por um
 	"
 	"""
 	printChip
@@ -176,8 +175,7 @@ script 1 mmbn6 {
 		buffer = 0
 		code = J
 	"""
-	"
-	for it.
+	".
 	"""
 	keyWait
 		any = false
@@ -193,7 +191,7 @@ script 1 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure  "
+	" Claro  "
 	option
 		brackets = 0
 		left = 0
@@ -202,7 +200,7 @@ script 1 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No way"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -216,7 +214,7 @@ script 1 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"I wanna be big..."
+	"Eu queria ficar alto..."
 	keyWait
 		any = false
 	end
@@ -232,7 +230,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"Really? Awesome!!"
+	"Sério mesmo? Legal!!"
 	keyWait
 		any = false
 	clearMsg
@@ -249,7 +247,7 @@ script 2 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip
@@ -267,7 +265,7 @@ script 2 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"Now I'll be big too!\n"
+	"Altura, aqui vou eu!\n"
 	flagSet
 		flag = 4400
 	keyWait
@@ -280,7 +278,7 @@ script 3 mmbn6 {
 	msgOpen
 	"""
 	...
-	You don't have it?
+	Você não tem?
 	"""
 	keyWait
 		any = false
@@ -291,7 +289,7 @@ script 4 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Thanks for the
+	Obrigado pelo
 	"
 	"""
 	printChip
@@ -299,7 +297,7 @@ script 4 mmbn6 {
 		chip = 202
 	"""
 	"!
-	Now I'll be big too!
+	Eu vou ficar aaalto!
 	"""
 	keyWait
 		any = false
@@ -314,24 +312,24 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EHH! HEY!
+	HÃÃÃ?! EI!
 	MEGAMAN...
-	IS THAT YOU!?
+	É VOCÊ?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOW! IT'S BEEN
-	A LONG TIME! YOU
-	FINALLY CAME BACK!
+	NOSSA! HÁ QUANTO
+	TEMPO! ATÉ QUE ENFIM,
+	VOCÊ VOLTOU!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M...
-	OVERWHELMED!!
+	EU TÔ...
+	EMBASBACADO!!
 	"""
 	keyWait
 		any = false
@@ -342,24 +340,23 @@ script 11 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO THE
-	ACDC HP!
+	BEM-VINDO À
+	PÁGINA DE ACDC!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NOTHING IS REALLY
-	UNUSUAL ABOUT ACDC
-	TOWN...
+	O BAIRRO ACDC NÃO TEM
+	NADA FORA DO COMUM...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT WE WON'T LOSE TO
-	ANYONE WHEN IT COMES
-	TO TOWN SPIRIT!
+	MAS EM TERMOS DE AMOR
+	PELO BAIRRO, A GENTE
+	NÃO FICA PRA TRÁS!
 	"""
 	keyWait
 		any = false
@@ -375,7 +372,7 @@ script 15 mmbn6 {
 	msgOpen
 	"""
 	Lan!!
-	There's Roll!!
+	Tá ali a Roll!!
 	"""
 	keyWait
 		any = false
@@ -389,29 +386,29 @@ script 20 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IF IT'S ALRIGHT WITH
-	YOU,WOULD YOU LIKE
-	TO TRADE HP LINKS?
+	VOCÊ ACEITARIA
+	TROCAR LINKS DE
+	PÁGINA CONOSCO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PUTTING UP A LINK
-	WILL LET YOU EASILY
-	GO BACK AND FORTH
+	INSTALAR UM LINK LHE
+	PERMITE TRANSITAR
+	RAPIDAMENTE ENTRE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BETWEEN YOUR HP AND
-	THE ACDC HP!
+	A SUA PÁGINA E A
+	PÁGINA ACDC HP!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WANT TO POST A LINK?"
+	"POSTAR LINK?"
 	keyWait
 		any = false
 	clearMsg
@@ -426,7 +423,7 @@ script 20 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -435,7 +432,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -449,14 +446,13 @@ script 20 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"I UNDERSTAND..."
+	"ENTENDO..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU EVER FEEL
-	LIKE IT,COME BACK
-	ANYTIME...
+	SE BATER A VONTADE,
+	VOLTE QUANDO QUISER...
 	"""
 	keyWait
 		any = false
@@ -467,20 +463,20 @@ script 21 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	REALLY?
-	THAT'S GREAT!!
+	SÉRIO MESMO?
+	QUE ÓTIMO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ALRIGHT,TAKE THIS..."
+	"CERTO, AQUI..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHENEVER YOU WANT
-	TO COME HERE,JUST
-	USE THIS BANNER!!
+	SEMPRE QUE QUISER
+	VIR PRA CÁ, É SÓ
+	USAR ESSE BANNER!!
 	"""
 	keyWait
 		any = false
@@ -493,7 +489,7 @@ script 21 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -508,14 +504,14 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	I'LL GO PUT UP
-	THE LINK TO YOUR
-	HP NOW!!
+	AGORA, IREI
+	INSTALAR O LINK
+	PARA A SUA PÁGINA!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WoooooooHOOOOOO!!"
+	"UUUUÓÓÓÓÓUUUAH!!"
 	keyWait
 		any = false
 	soundDisableTextSFX
@@ -526,13 +522,13 @@ script 21 mmbn6 {
 		flag = 384
 	clearMsg
 	"""
-	WELL,MY WORK IS ALL
-	DONE HERE...
+	BOM, MEU TRABALHO
+	AQUI ESTÁ FEITO...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"GOODBYE..."
+	"ADEUS!"
 	keyWait
 		any = false
 	soundDisableTextSFX

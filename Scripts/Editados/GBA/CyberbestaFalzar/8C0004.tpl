@@ -6,20 +6,20 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is it,MegaMan.
-	The last fight...
+	É isso, MegaMan.
+	Nossa batalha final...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"By the way..."
+	"Aliás..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Cybeast escaped,
-	but what about the
-	Cybeast's power?
+	agora que a Cyberbesta
+	fugiu, como tá o poder
+	de Feralizar?
 	"""
 	keyWait
 		any = false
@@ -27,17 +27,17 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	The Cybeast's power
-	is still in my
-	memory,
+	O poder da Cyberbesta
+	ainda tá na minha
+	memória.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...no,it's more
-	like it's been
-	carved into me...
+	... Não, o certo seria
+	dizer que ele foi
+	gravado em mim...
 	"""
 	keyWait
 		any = false
@@ -45,16 +45,16 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Oh. After this
-	battle,we'll ask
-	Dad to erase it,
+	Hm. Depois dessa luta,
+	a gente pede pro papai
+	apagar ele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so hang on for just
-	a little longer!
+	então aguenta ele só
+	mais um pouquinho!
 	"""
 	keyWait
 		any = false
@@ -70,7 +70,7 @@ script 1 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"... Anyway,Lan..."
+	"... Deixando isso\nde lado, Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -81,7 +81,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah?"
+	"Sim?"
 	keyWait
 		any = false
 	clearMsg
@@ -92,7 +92,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Look over there."
+	"Olha ali."
 	keyWait
 		any = false
 	end
@@ -105,9 +105,9 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It looks like we're
-	connected to Falzar
-	somehow.
+	Não sei bem como, mas
+	parece que a gente tá,
+	tipo, ligado ao Falzar.
 	"""
 	keyWait
 		any = false
@@ -120,9 +120,9 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It looks like we're
-	connected to Gregar
-	somehow.
+	Não sei bem como, mas
+	parece que a gente tá,
+	tipo, ligado ao Gregar.
 	"""
 	keyWait
 		any = false
@@ -141,9 +141,8 @@ script 6 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Iris and Colonel
-	must be over there
-	on that side!
+	A Iris e o Colonel devem
+	estar pra aquele lado!
 	"""
 	keyWait
 		any = false
@@ -165,15 +164,14 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like they've
-	already started!
+	Parece que já começaram!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should get going,
-	too!
+	A gente tem
+	que ir também!
 	"""
 	keyWait
 		any = false
@@ -185,7 +183,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!!"
+	"É!!"
 	keyWait
 		any = false
 	end

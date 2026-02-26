@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't give up,
-	MegaMan! Try again!!
+	Não desiste, MegaMan!
+	Vai de novo!!
 	"""
 	keyWait
 		any = false

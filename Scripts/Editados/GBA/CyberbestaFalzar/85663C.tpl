@@ -6,15 +6,9 @@ script 0 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	I'm gonna practice
-	the technique I
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	learned today on a
-	virus!
+	Eu vou tentar usar a
+	técnica que eu aprendi
+	hoje num vírus!
 	"""
 	keyWait
 		any = false
@@ -30,8 +24,8 @@ script 1 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Everyone be careful
-	on your way home!
+	Crianças, se cuidem
+	na volta pra casa!
 	"""
 	keyWait
 		any = false
@@ -42,9 +36,9 @@ script 2 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	I'm huunnnngrrry!
-	I want to go home
-	nooooooooow!
+	Que fooooomeeeee!
+	Eu quero ir pra casa
+	agooooooraaaaa!
 	"""
 	keyWait
 		any = false
@@ -52,8 +46,8 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
 	"""
-	Hold on...
-	Just a second!
+	Pera aí...
+	Vai ser rapidinho!
 	"""
 	keyWait
 		any = false
@@ -64,8 +58,8 @@ script 5 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Don't hang around
-	here too long!
+	Não enrole demais
+	pra ir embora, hein?
 	"""
 	keyWait
 		any = false
@@ -82,50 +76,49 @@ script 20 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	...Umm... What's
-	the matter,Lan?
+	... Hummm... 
+	O que foi, Lan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"...Sir..."
+	"... Professor..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard the board
-	was undergoing
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	maintenance
-	yesterday. Right?
+	Você falou que o
+	quadro-negro foi
+	consertado ontem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you remember
-	what kind of person
-	made those repairs?
+	É isso mesmo, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It wasn't my Dad was
-	it?
+	Lembra como era
+	a pessoa que fez
+	o conserto?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Não era o meu pai, era?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrMach
-	"...Your dad?"
+	"... O seu pai?"
 	keyWait
 		any = false
 	clearMsg
@@ -151,48 +144,47 @@ script 20 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Yeah... It was your
-	dad...
+	É... Era o seu pai...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"An older guy,right?"
+	"Um cara, assim,\nbem velho, né?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"OLD!?"
+	"VELHO?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrMach
 	"""
-	Hmm... Maybe he
-	was younger?
+	Hmm... Ou será que
+	ele era mais jovial?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,I was so
-	busy I didn't pay
-	attention. Sorry.
+	Na verdade, eu tava
+	tão ocupado, que não
+	prestei atenção. Foi mal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"...OK."
+	"... Tá."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What time did the
-	maintenance occur?
+	A que horas foi
+	feito o conserto?
 	"""
 	keyWait
 		any = false
@@ -200,16 +192,15 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	"""
-	Hmmm... It was
-	around 3 o'clock
-	yesterday,and
+	Hmmm... Foi por volta
+	das 15:00 de ontem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it took about
-	two hours.
+	e levou duas horas
+	pra terminar.
 	"""
 	keyWait
 		any = false
@@ -217,31 +208,30 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	So two hours from
-	3 o'clock means he
-	was here at 4 P.M.
+	Se levou duas horas a
+	partir das 15:00, então
+	ele tava aqui às 16:00.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"So..."
+	"Ou seja..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we can prove
-	Dad did the
-	maintenance on the
+	se a gente puder provar
+	que o papai consertou
+	o quadro-negro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Blackboard,we can
-	prove that he is
-	innocent!
+	isso vai provar
+	a inocência dele!
 	"""
 	keyWait
 		any = false
@@ -249,23 +239,17 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	But how can we
-	prove that it was
-	Dad?
+	Mas como a gente
+	faz pra provar que
+	era mesmo ele?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The teacher who
-	asked for service
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	doesn't remember
-	his face...
+	O professor que contratou
+	o serviço não lembra do
+	rosto dele...
 	"""
 	keyWait
 		any = false
@@ -273,65 +257,63 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Don't give up
-	so easily!!
+	É cedo demais
+	pra desistir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see what
-	we can find in
-	the school!
+	Vamos ver o que a
+	gente acha na escola!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone must have
-	seen Dad here!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"Seen Dad..."
-	keyWait
-		any = false
-	clearMsg
-	"...seen..."
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = MrMach
-	"""
-	What's the matter?
-	You've been asking
-	a lot of questions!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Is something
-	bothering you,Lan?
+	Alguém tem que ter
+	visto o papai aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I'm OK. Thanks..."
+	"Visto o papai..."
+	keyWait
+		any = false
+	clearMsg
+	"... Visto..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrMach
 	"""
-	Well,if you're
-	OK...
+	O que aconteceu?
+	Você tá fazendo
+	tantas perguntas!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tem alguma coisa te
+	incomodando, Lan?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"Eu tô bem. Obrigado..."
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = MrMach
+	"""
+	Bom, se você tá bem...
 	"""
 	keyWait
 		any = false
@@ -354,37 +336,36 @@ script 21 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	The Blackboard
-	maintenance was
+	A manutenção
+	do quadro-negro
+	foi realizada
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	at 3 o'clock
-	yesterday.
+	às 15:00 de ontem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It took about two
-	hours to complete.
+	E levou cerca de duas
+	horas pra terminar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not sure if the
-	person who performed
-	the maintenance was
+	Mas não lembro com
+	certeza se quem fez
+	ela foi o seu pai...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your Dad...
-	I'm sorry...
+	Desculpa.
 	"""
 	keyWait
 		any = false
@@ -394,14 +375,13 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"Strange..."
+	"Que estranho..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I haven't seen a
-	single Security
-	Bot...
+	Não vi nenhum Robô
+	de Segurança hoje...
 	"""
 	keyWait
 		any = false
@@ -412,17 +392,17 @@ script 30 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	Hey,you were a
-	witness in court
-	weren't you...?
+	Ei, você serviu
+	como testemunha no
+	tribunal ontem, né...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Amazing...
-	Were you nervous?
-	Did you mess up?
+	Uau...
+	Cê ficou nervoso?
+	Gaguejou?
 	"""
 	keyWait
 		any = false

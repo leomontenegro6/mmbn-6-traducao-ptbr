@@ -5,16 +5,16 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh? Where's Tab?"
+	"Ué? Cadê o Tab?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mick
 	"""
-	Oh,he has to work
-	so he went home
-	already.
+	Ah, ele tinha que
+	trabalhar, então
+	já foi pra casa.
 	"""
 	keyWait
 		any = false
@@ -22,16 +22,15 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	... Huh? Was it
-	supposed to rain
-	today?
+	... Hm? Tava previsto
+	que ia chover hoje?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was all sunny
-	this morning...
+	De manhã tava o
+	maior solzão...
 	"""
 	keyWait
 		any = false
@@ -44,9 +43,9 @@ script 1 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	I'm pretty sure it
-	was supposed to be
-	sunny all day today.
+	Eu posso jurar que a
+	previsão disse que ia
+	ser ensolarado hoje.
 	"""
 	keyWait
 		any = false
@@ -56,7 +55,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"See?"
+	"Viu?"
 	keyWait
 		any = false
 	clearMsg
@@ -67,7 +66,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A_a_achoo!!"
+	"A-a-atchim!!"
 	keyWait
 		any = false
 	end
@@ -81,9 +80,8 @@ script 4 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Is it just me,or
-	did it get cold
-	all of a sudden?
+	Sou só eu, ou ficou
+	frio pra burro do nada?
 	"""
 	keyWait
 		any = false
@@ -95,7 +93,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Y_Yeah..."
+	"F-ficou, sim..."
 	keyWait
 		any = false
 	end
@@ -104,7 +102,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"S_S_Snow!?"
+	"N-n-neve?!"
 	keyWait
 		any = false
 	clearMsg
@@ -116,23 +114,22 @@ script 7 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Did something happen
-	in Sky Town!?
+	Aconteceu alguma coisa
+	no Distrito Céu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's like who knows
-	what the weather's
-	gonna do next!
+	Vai saber o que vai
+	sair desse clima depois!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'd better get
-	going!
+	Melhor a gente ir logo
+	pra casa!
 	"""
 	keyWait
 		any = false
@@ -144,7 +141,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I guess so."
+	"É, né...?"
 	keyWait
 		any = false
 	clearMsg
@@ -155,7 +152,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"See ya!"
+	"Falou!"
 	keyWait
 		any = false
 	end
@@ -165,13 +162,12 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wah! Now it's the
-	wind!
+	Agh! Agora é o vento!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Gotta get home NOW!"
+	"É, pra casa, já!"
 	keyWait
 		any = false
 	end

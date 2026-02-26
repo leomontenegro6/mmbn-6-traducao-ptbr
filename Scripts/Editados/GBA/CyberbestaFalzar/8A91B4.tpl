@@ -6,17 +6,15 @@ script 0 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	It seems that you
-	have finished
-	all the tests!
+	Parece que você já
+	concluiu todas as provas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now please show me
-	the cards you have
-	collected.
+	Por favor, mostre-me os
+	cartões que você coletou.
 	"""
 	keyWait
 		any = false
@@ -28,7 +26,7 @@ script 1 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	MegaMan showed:
+	MegaMan mostrou:
 	"
 	"""
 	printItem
@@ -50,8 +48,8 @@ script 1 mmbn6 {
 		buffer = 0
 		item = 18
 	"""
-	",
-	and
+	"
+	e
 	"
 	"""
 	printItem
@@ -69,48 +67,47 @@ script 2 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Hmm,hmm...
-	very nice!
+	Hmm, hmm...
+	Excelente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You passed with
-	flying colors!
-	Congratulations!
+	Você passou com maestria!
+	Meus parabéns!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We will send you a
-	notice about the
-	final round soon.
+	Enviaremos a você um
+	informe sobre a rodada
+	final em breve.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good luck on
-	becoming an Operator
-	Navi!
+	Boa sorte nessa
+	empreitada de virar
+	um Navi Operador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give the final round
-	your all! As a
-	bonus,take this.
+	Dê tudo de si nessa
+	fase final! Ah, e,
+	como bônus, tome.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With this,you can
-	remove the clouds in
-	CentralArea3.
+	Com isto, você poderá
+	remover as nuvens na
+	Área Central 3.
 	"""
 	keyWait
 		any = false
@@ -122,7 +119,7 @@ script 2 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -145,7 +142,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it,Lan!!"
+	"A gente conseguiu, Lan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -156,21 +153,21 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,we did!!"
+	"É!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The next round is
-	the final...
-	I'm so excited!!
+	A próxima rodada
+	é a última...
+	Eu tô tão animado!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder how Mick
-	and the others did?
+	Como será que o Mick
+	e os outros se saíram?
 	"""
 	keyWait
 		any = false
@@ -190,8 +187,8 @@ script 6 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So...
-	How did you do?
+	E aí...
+	Como foi lá?
 	"""
 	keyWait
 		any = false
@@ -204,28 +201,27 @@ script 7 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	What do you think!?
-	Does it look like
-	I won!?
+	O que é que tu ACHA?!
+	PARECE que eu venci?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I totally lost!!"
+	"Eu perdi! FEIO!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I made it to the 4th
-	guy's 8th battle...
+	Cheguei na oitava
+	luta do quarto cara...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and then Mick,the
-	idiot,had to go and
-	mess it all up!
+	aí, o idiota do Mick
+	ferrou a coisa toda,
+	como sempre!
 	"""
 	keyWait
 		any = false
@@ -238,9 +234,9 @@ script 8 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Shut up! You're the
-	one that missed with
-	the WideSwrd there!
+	Cala a boca!
+	Foi você que errou
+	aquela WideSwrd!
 	"""
 	keyWait
 		any = false
@@ -251,9 +247,9 @@ script 9 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	What!? You're the
-	one with no skill
-	and you blame me!?
+	O quê?!
+	Vai mesmo me culpar,
+	menino-habilidade-zero?!
 	"""
 	keyWait
 		any = false
@@ -266,16 +262,15 @@ script 10 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Come on,now...
-	Don't fight...
+	Ei, calma...
+	Não briguem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should start
-	heading home,
-	right...?
+	Melhor a gente ir logo
+	pra casa agora, né...?
 	"""
 	keyWait
 		any = false
@@ -286,13 +281,13 @@ script 11 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	Hmph,same old,
-	same old.
+	Hmpf, mesma palhaçada
+	de sempre.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm outta here."
+	"Tô fora."
 	keyWait
 		any = false
 	end
@@ -301,7 +296,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"He's gone..."
+	"Ele foi embora..."
 	keyWait
 		any = false
 	clearMsg
@@ -313,17 +308,15 @@ script 13 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	That Navi should be
-	able to take care of
-	himself,but
+	Acho que aquele Navi
+	é capaz de se cuidar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there is an entrance
-	to the Undernet
-	around here...
+	mas tem uma entrada pra
+	Undernet por aqui...
 	"""
 	keyWait
 		any = false
@@ -352,8 +345,7 @@ script 15 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's your
-	autophone,Lan!
+	É o seu autofone, Lan!
 	"""
 	keyWait
 		any = false
@@ -368,17 +360,17 @@ script 16 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	L_Lan!
-	Help!!
-	My Navi...
+	L-Lan!
+	Me ajuda!!
+	O meu Navi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He got taken by some
-	strange Navis from
-	the Undernet!
+	Ele foi levado por uns
+	Navis esquisitos aí da
+	Undernet!
 	"""
 	keyWait
 		any = false
@@ -390,7 +382,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No way!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -402,8 +394,8 @@ script 18 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Please...
-	Help me...
+	Por favor...
+	Me ajuda...
 	"""
 	keyWait
 		any = false
@@ -415,13 +407,13 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,leave it to us!"
+	"Beleza, deixa\ncom a gente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,let's go
-	to the Undernet!
+	MegaMan, bora
+	pra Undernet!
 	"""
 	keyWait
 		any = false

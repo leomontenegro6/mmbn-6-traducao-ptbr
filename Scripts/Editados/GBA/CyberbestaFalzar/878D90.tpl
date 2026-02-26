@@ -9,8 +9,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh?
-	What is this chip...
+	Hã?
+	Que chip é este...?
 	"""
 	keyWait
 		any = false
@@ -26,7 +26,7 @@ script 0 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip
@@ -48,8 +48,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh?
-	What is this chip...
+	Hã?
+	Que chip é este...?
 	"""
 	keyWait
 		any = false
@@ -65,7 +65,7 @@ script 1 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip

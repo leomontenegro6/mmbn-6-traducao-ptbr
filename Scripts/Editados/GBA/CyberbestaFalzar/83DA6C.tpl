@@ -11,9 +11,9 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I've got the chills
-	from this area...
-	Be careful...
+	Esta área me
+	dá calafrios...
+	Toma cuidado...
 	"""
 	keyWait
 		any = false
@@ -24,14 +24,14 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I've got a bad
-	feeling something's
-	gonna happen...
+	Eu tô com um mau pres-
+	sentimento de que alguma
+	coisa vai acontecer...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be very careful..."
+	"Toma muito cuidado..."
 	keyWait
 		any = false
 	end

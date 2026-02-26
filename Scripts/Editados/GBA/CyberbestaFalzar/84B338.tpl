@@ -6,16 +6,15 @@ script 0 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	Hey... Lan!
-	You came here the
-	other day?
+	Opa... Oi, Lan!
+	Você veio aqui
+	outro dia, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did something
-	happen?
+	Aconteceu alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -41,8 +40,8 @@ script 1 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Lan went back to
-	ACDC Town,didn't he?
+	O Lan voltou pro
+	Bairro ACDC, né?
 	"""
 	keyWait
 		any = false
@@ -72,22 +71,21 @@ script 2 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	The 3 people who
-	took a girl...
+	Três adultos levando
+	uma menina...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Haven't seen them.
-	If I see them,I'll
+	Não vi, não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	be sure to remember
-	it.
+	Se eu vir, pode deixar
+	que eu aviso.
 	"""
 	keyWait
 		any = false
@@ -108,9 +106,9 @@ script 3 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Seems like lots of
-	things are happening
-	in Cyber City...
+	Parece que tem muitas
+	coisas acontecendo na
+	Cidade Saibher...
 	"""
 	keyWait
 		any = false
@@ -121,9 +119,8 @@ script 4 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Ahhh... Almost time
-	to go to Violin
-	Class.
+	Ahhh... Tá quase na hora
+	da minha aula de violino.
 	"""
 	keyWait
 		any = false
@@ -134,16 +131,16 @@ script 5 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Dex and company?
-	I haven't seen them.
+	O Dex e a turma dele?
+	Não, não vi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Around this time,
-	shouldn't they be at
-	home using the Net?
+	Uma hora destas,
+	eles devem tá em casa
+	usando a Rede, né?
 	"""
 	keyWait
 		any = false
@@ -154,16 +151,16 @@ script 6 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I hear an Expo is
-	opening in Cyber
-	City.
+	Ouvi falar que vão
+	abrir uma Exposição
+	na Cidade Saibher.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When it starts,I
-	plan on going!
+	Quando abrir,
+	eu pretendo ir!
 	"""
 	keyWait
 		any = false
@@ -174,9 +171,9 @@ script 7 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	I've got my part_
-	time job tonight...
-	I'll work hard!
+	Hoje à noite, tenho meu
+	trabalho de meio-período...
+	Vou me empenhar!
 	"""
 	keyWait
 		any = false
@@ -187,15 +184,15 @@ script 10 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Really,you're going
-	to the Expo!?
+	Sério? Você vai
+	na Exposição?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cool!!!!
-	I wanna go too!
+	Que demais!!!!
+	Eu queria ir, também!
 	"""
 	keyWait
 		any = false
@@ -206,8 +203,8 @@ script 11 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Go to the Expo...?
-	No way!! Really!?
+	Vai pra Exposição...?
+	Não brinca!! Jura?!
 	"""
 	keyWait
 		any = false
@@ -218,9 +215,9 @@ script 15 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	THAT happened in
-	Cyber City!?
-	That's awful!
+	Aconteceu ISSO na
+	Cidade Saibher?!
+	Que horror!
 	"""
 	keyWait
 		any = false
@@ -231,16 +228,16 @@ script 16 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	The Expo is lots
-	of fun,right?
+	A Exposição parece
+	super divertida, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...No way!
-	That happened!?
-	Really!?
+	... Mentira!
+	Aconteceu isso mesmo?!
+	Sério?!
 	"""
 	keyWait
 		any = false
@@ -251,15 +248,15 @@ script 17 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	What happened in
-	Cyber City!?
+	Aconteceu O QUE
+	na Cidade Saibher?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you pulling my
-	leg,kid?
+	Você não tá de zoeira
+	comigo não, né, garoto?
 	"""
 	keyWait
 		any = false

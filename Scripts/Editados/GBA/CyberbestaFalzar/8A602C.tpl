@@ -4,9 +4,9 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	EVERYONE COME ALONG
-	QUIETLY! DO NOT
-	RESIST ARREST!!!
+	VENHAM TODOS SEM
+	PROTESTAR! NÃO
+	RESISTAM À PRISÃO!!!
 	"""
 	keyWait
 		any = false
@@ -18,21 +18,21 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	msgOpen
-	"What's going on!"
+	"O que é isso?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I haven't done
-	anything wrong!!
+	Eu não fiz nada
+	de errado!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Well,I guess I
-	do like to sneak
-	food here and there.
+	... Bom, acho que eu
+	gosto de levar comida
+	pra escola escondido...
 	"""
 	keyWait
 		any = false
@@ -40,9 +40,8 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	"""
-	I don't remember
-	doing anything that
-	was that bad!
+	Eu não lembro de fazer
+	nada tão ruim assim!
 	"""
 	keyWait
 		any = false
@@ -55,8 +54,8 @@ script 2 mmbn6 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Tell me what I did
-	wrong!!
+	Fala o que eu
+	fiz de errado!!
 	"""
 	keyWait
 		any = false
@@ -69,8 +68,8 @@ script 3 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	No!!
-	Help me!
+	Não!!
+	Socorro!
 	"""
 	keyWait
 		any = false
@@ -82,13 +81,12 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Wah,wah,wah!"
+	"A-a-aaaahhh!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's gonna happen
-	to all of us!?
+	O que vai ser da gente?!
 	"""
 	keyWait
 		any = false

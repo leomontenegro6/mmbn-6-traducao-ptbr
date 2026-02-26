@@ -14,31 +14,29 @@ script 0 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	This sure is a
-	problem.
+	Ah, que problema...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Mom,what's wrong?"
+	"Que foi, mãe?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mom
 	"""
-	The toilet
-	broke,and even
+	A privada quebrou,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	though a repairman
-	came to fix it,it
-	just broke again!
+	e, mesmo depois que
+	um encanador veio, ela
+	foi e quebrou de novo!
 	"""
 	keyWait
 		any = false
@@ -46,9 +44,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	A repairman...?
-	Came to fix it?
-	Is that the...
+	Encanador...?
+	Que veio consertar?
+	Será que era o...?
 	"""
 	keyWait
 		any = false
@@ -61,13 +59,13 @@ script 1 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Yay! It looks like
-	it's working!!
+	Maravilha!
+	Está consertada!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thanks Lan!"
+	"Obrigada, Lan!"
 	keyWait
 		any = false
 	end
@@ -77,16 +75,15 @@ script 2 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	The toilet
-	broke,and even
+	A privada quebrou,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	though a repairman
-	came to fix it,it
-	just broke again!
+	e, mesmo depois que
+	um encanador veio, ela
+	foi e quebrou de novo!
 	"""
 	keyWait
 		any = false

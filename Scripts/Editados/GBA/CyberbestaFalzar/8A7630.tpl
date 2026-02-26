@@ -6,15 +6,15 @@ script 0 mmbn6 {
 		mugshot = JudgeMan
 	msgOpen
 	"""
-	... Arguuwh!!
-	How can this be!?...
+	... Aaaarughhh!!
+	Como é possível?!
+	...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have been
-	defeated...!!
+	Fui abatido...!!
 	"""
 	keyWait
 		any = false
@@ -25,8 +25,9 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hurry,MegaMan!
-	Stop the JudgeTree!!
+	Rápido, MegaMan!
+	Faz a Árvore
+	Juíza parar!!
 	"""
 	keyWait
 		any = false
@@ -56,13 +57,13 @@ script 3 mmbn6 {
 	"."
 	wait
 		frames = 30
-	" Here it is!"
+	" Tá aqui!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's the emergency
-	override button!
+	É o botão de controle
+	de emergência!
 	"""
 	keyWait
 		any = false
@@ -73,20 +74,20 @@ script 4 mmbn6 {
 	msgOpen
 	soundDisableTextSFX
 	controlLock
-	"*BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP"
+	"BIP"
 	soundPlay
 		track = 205
-	"!!*"
+	"!!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -95,29 +96,29 @@ script 4 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	EMERGENCY SITUATION!
-	SHUTTING DOWN THE
-	JUDGETREE!
+	SITUAÇÃO DE EMERGÊNCIA!
+	DESLIGANDO A ÁRVORE
+	JUÍZA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	soundDisableTextSFX
 	controlLock
-	"*BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP"
+	"BIP"
 	soundPlay
 		track = 205
-	"!!*"
+	"!!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -126,9 +127,9 @@ script 4 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	EMERGENCY SITUATION!
-	SHUTTING DOWN THE
-	JUDGETREE!
+	SITUAÇÃO DE EMERGÊNCIA!
+	DESLIGANDO A ÁRVORE
+	JUÍZA!
 	"""
 	keyWait
 		any = false

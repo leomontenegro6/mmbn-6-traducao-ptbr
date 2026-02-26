@@ -12,12 +12,12 @@ script 0 mmbn6 {
 		frames = 10
 	soundPlay
 		track = 416
-	"*crack! "
+	"Tloc! "
 	wait
 		frames = 32
 	soundPlay
 		track = 416
-	"crack!*"
+	"Tloc!"
 	wait
 		frames = 32
 	waitOWVar
@@ -33,69 +33,66 @@ script 1 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	... I WILL NOW
-	PASS JUDGMENT.
+	... AGORA, DAREI
+	MEU VEREDITO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE CRIME OF HACKING
-	INTO THE JUDGETREE,
+	O CRIME DE HACKEAR
+	A ÁRVORE JUÍZA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FOR WHICH THE
-	DEFENDANT,
-	YUICHIRO HIKARI,IS
+	DO QUAL O RÉU,
+	YUICHIRO HIKARI,
+	FORA ACUSADO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CHARGED WITH,IS
-	UNFORGIVABLE.
+	É IMPERDOÁVEL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EVEN THOUGH THE HACK
-	WAS SUCCESSFULLY
-	STOPPED,
+	MESMO A TENTATIVA
+	TENDO SIDO FRUSTRADA
+	A TEMPO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE IS NO ROOM
-	FOR MERCY.
+	NÃO HÁ ESPAÇO
+	PARA CLEMÊNCIA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEREFORE,I HEREBY
-	SENTENCE THE
-	DEFENDANT,
+	PORTANTO, EU SENTENCIO
+	O RÉU, YUICHIRO HIKARI,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YUICHIRO HIKARI,TO
-	100 HOURS OF
-	ZAPPING.
+	A 100 HORAS DE
+	ELETROCUSSÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE PUNISHMENT IS
-	TO BE CARRIED OUT
-	IN 1 HOUR.
+	A PUNIÇÃO COMEÇARÁ
+	A SER APLICADA DENTRO
+	DE UMA HORA.
 	"""
 	keyWait
 		any = false
@@ -105,20 +102,20 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad's GUILTY!?"
+	"O papai foi\ndeclarado CULPADO?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And they're gonna
-	zap him in an hour!?
+	E vão dar choque nele
+	dentro de uma hora?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This has to be some
-	kind of cruel joke!
+	Isso só pode ser uma
+	piada de mau gosto!
 	"""
 	keyWait
 		any = false
@@ -131,25 +128,25 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Something definitely
-	feels strange about
-	all this,Lan!
+	Tem mesmo alguma
+	coisa muito estranha
+	nisso aqui, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know Dad
-	wouldn't do anything
-	like hacking...
+	A gente sabe que o papai
+	nunca ia inventar de
+	hackear alguma coisa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've gotta find out
-	more! We've gotta
-	get more facts!
+	A gente tem que
+	aprender mais! Vamos
+	reunir mais fatos!
 	"""
 	keyWait
 		any = false

@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Talk about one scary
-	place... I'm getting
-	the chills!
+	Tá aí um lugar
+	sinistro... Eu tô
+	até arrepiado!
 	"""
 	keyWait
 		any = false

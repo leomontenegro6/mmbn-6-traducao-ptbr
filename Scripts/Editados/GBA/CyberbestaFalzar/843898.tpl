@@ -4,9 +4,9 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	A jailer can watch
-	over the prisoners
-	from this window...
+	Desta janela, um
+	carcereiro pode vigiar
+	os prisioneiros...
 	"""
 	keyWait
 		any = false
@@ -15,8 +15,8 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	"001" is written
-	on this plate...
+	Na placa, está
+	escrito: "001".
 	"""
 	keyWait
 		any = false
@@ -25,13 +25,13 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	A chair used for
-	punishing prisoners.
+	Uma cadeira usada
+	para punir prisioneiros.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You can jack in."
+	"Dá para se conectar nela."
 	keyWait
 		any = false
 	end
@@ -39,9 +39,9 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	Prisoners were tied
-	with these chains,
-	but not now.
+	Prisioneiros costumavam
+	ser presos por essas
+	correntes, no passado.
 	"""
 	keyWait
 		any = false
@@ -50,9 +50,9 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	Candle_shaped lights
-	give the Punishment
-	Room a certain feel.
+	Essas lâmpadas com o
+	formato de velas ajudam
+	na atmosfera do lugar.
 	"""
 	keyWait
 		any = false
@@ -61,8 +61,8 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	"002" is written
-	on this plate...
+	Na placa, está
+	escrito: "002".
 	"""
 	keyWait
 		any = false
@@ -71,8 +71,8 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	"003" is written
-	on this plate...
+	Na placa, está
+	escrito: "003".
 	"""
 	keyWait
 		any = false

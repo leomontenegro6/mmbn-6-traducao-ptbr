@@ -13,7 +13,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"T_Take these..."
+	"T-tome, leve..."
 	keyWait
 		any = false
 	clearMsg
@@ -24,9 +24,9 @@ script 0 mmbn6 {
 		track = 386
 	soundEnableTextSFX
 	"""
-	"SoulWeapons" have
-	been installed
-	inside 
+	As "ArmasAlmas" foram
+	instaladas dentro do
+	
 	"""
 	printCurrentNaviOW
 	"."
@@ -43,8 +43,8 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Reload the
-	SoulWeapons?
+	Recarregar
+	as ArmasAlma?
 	"""
 	keyWait
 		any = false
@@ -60,7 +60,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -69,7 +69,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -83,7 +83,7 @@ script 2 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Do...do your best..."
+	"Vo... Você consegue..."
 	keyWait
 		any = false
 	end
@@ -93,30 +93,29 @@ script 3 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Reloading the Soul
-	Weapons require a
-	bit of time...
+	Recarregar as Armas
+	Alma requer um pouco
+	de tempo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	During that time,
-	the EvilSpirits you
-	have already taken
+	Nesse meio-tempo, os
+	Espíritos Malignos
+	que você já abateu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	care of in this
-	area may come back
-	to haunt you...
+	nesta área podem voltar
+	para te assombrar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That OK with you?"
+	"Tudo bem pra você?"
 	keyWait
 		any = false
 	clearMsg
@@ -131,7 +130,7 @@ script 3 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -140,7 +139,7 @@ script 3 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -154,7 +153,7 @@ script 3 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Do...do your best..."
+	"Vo... Você consegue..."
 	keyWait
 		any = false
 	flagSet
@@ -165,7 +164,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"T_Take care..."
+	"V-vá com cuidado..."
 	keyWait
 		any = false
 	end
@@ -180,8 +179,7 @@ script 5 mmbn6 {
 	clearMsg
 	mugshotHide
 	"""
-	There is no
-	response...
+	Não responde...
 	"""
 	keyWait
 		any = false

@@ -2,59 +2,59 @@
 @size 48
 
 script 0 mmbn6s {
-	"ACDC Oasis     YaiWbmst"
+	"Oásis ACDC     AdminYai"
 	end
 }
 script 1 mmbn6s {
-	"I'M MR.BIG!    Dex     "
+	"O MANDA-CHUVA! Dex     "
 	end
 }
 script 2 mmbn6s {
-	"No,You Aren't! YaiWbmst"
+	"Não é, não!    AdminYai"
 	end
 }
 script 3 mmbn6s {
-	"Done Moving    Lan Love"
+	"Fim da mudança Lan Amor"
 	end
 }
 script 4 mmbn6s {
-	"ClassmateHere? Kelly   "
+	"Colega classe? Kelly   "
 	end
 }
 script 5 mmbn6s {
-	"Meet Anytime   YaiWbmst"
+	"Qualquer hora  AdminYai"
 	end
 }
 script 6 mmbn6s {
-	"What'sCybrCity Dex     "
+	"Que é Saibher? Dex     "
 	end
 }
 script 7 mmbn6s {
-	"FutureResearch Hikky   "
+	"PesquisaFuturo Hikky   "
 	end
 }
 script 8 mmbn6s {
-	"Cybeast Rumor  WantNeed"
+	"RumorCyberbsta QuerPrcs"
 	end
 }
 script 9 mmbn6s {
-	"WriteOnNetLife Roll    "
+	"A vida na rede Roll    "
 	end
 }
 script 10 mmbn6s {
-	"Guts2TheRescue GutsMan "
+	"Gut ao resgate GutsMan "
 	end
 }
 script 11 mmbn6s {
-	"AntiVirus Info Glide   "
+	"AntiVírus      Glide   "
 	end
 }
 script 12 mmbn6s {
-	"Expo Opening!  Dex     "
+	"Exposição abre Dex     "
 	end
 }
 script 13 mmbn6s {
-	"MegaMan'sOnTV! YaiWbmst"
+	"MegaMan na TV! AdminYai"
 	end
 }
 script 14 mmbn6s {
@@ -62,67 +62,67 @@ script 14 mmbn6s {
 	end
 }
 script 15 mmbn6s {
-	"Real Monster?  Warrior "
+	"Monstro?       Guerrero"
 	end
 }
 script 16 mmbn6s {
-	"Navi? Virus?   Cutey   "
+	"Navi? Vírus?   F0f4   "
 	end
 }
 script 17 mmbn6s {
-	"1...100% OK.   Somebody"
+	"1... 100% OK   Alguém  "
 	end
 }
 script 18 mmbn6s {
-	"Higsby's...    Dex     "
+	"Higsby...      Dex     "
 	end
 }
 script 19 mmbn6s {
-	"HigsOnVacation Inoppe  "
+	"Higs de férias Inoppe  "
 	end
 }
 script 20 mmbn6s {
-	"Can't GetChips Glasses "
+	"Cadê chips     Glasses "
 	end
 }
 script 21 mmbn6s {
-	"A Command?     GutsMan "
+	"Comando?       GutsMan "
 	end
 }
 script 22 mmbn6s {
-	"Compress Cmmnd Traveler"
+	"Cmd Compressão Viajante"
 	end
 }
 script 23 mmbn6s {
-	"Expo Opening!! Roll    "
+	"A expo abriu!  Roll    "
 	end
 }
 script 24 mmbn6s {
-	"I Saw TheNews! GutsMan "
+	"Eu vi na TV!   GutsMan "
 	end
 }
 script 25 mmbn6s {
-	"LittleWorried? Glide   "
+	"Preocupado?    Glide   "
 	end
 }
 script 26 mmbn6s {
-	"SomethinHappen YaiWbmst"
+	"Aconteceu algo AdminYai"
 	end
 }
 script 27 mmbn6s {
-	"GraduationSoon YaiWbmst"
+	"Logo formatura AdminYai"
 	end
 }
 script 28 mmbn6s {
-	"So Many Things Mayl    "
+	"Tanta coisa    Mayl    "
 	end
 }
 script 29 mmbn6s {
-	"I'll Say!      Dex     "
+	"Caramba!       Dex     "
 	end
 }
 script 30 mmbn6s {
-	"SeeYaNextYear! Mayl    "
+	"Até ano q vem! Mayl    "
 	end
 }
 script 31 mmbn6s {

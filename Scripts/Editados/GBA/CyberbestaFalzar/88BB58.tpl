@@ -16,7 +16,7 @@ script 0 mmbn6 {
 		top = 6
 		type = 0
 	msgOpen
-	"The top record is:\n"
+	"Maior recorde atual::\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -50,7 +50,7 @@ script 1 mmbn6 {
 		top = 6
 		type = 0
 	msgOpen
-	"The top record is:\n"
+	"Maior recorde atual::\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -87,7 +87,7 @@ script 2 mmbn6 {
 		top = 6
 		type = 0
 	msgOpen
-	"The top record is:\n"
+	"Maior recorde atual::\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -116,7 +116,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Return  "
+	" Voltar  "
 	option
 		brackets = 0
 		left = 0
@@ -125,7 +125,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Delete"
+	" Apagar"
 	select
 		default = 0
 		BSeparate = true
@@ -151,7 +151,7 @@ script 3 mmbn6 {
 		top = 6
 		type = 0
 	msgOpen
-	"The top record is:\n"
+	"Maior recorde atual::\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -180,7 +180,7 @@ script 3 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Return  "
+	" Voltar  "
 	option
 		brackets = 0
 		left = 0
@@ -189,7 +189,7 @@ script 3 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Delete"
+	" Apagar"
 	select
 		default = 0
 		BSeparate = true

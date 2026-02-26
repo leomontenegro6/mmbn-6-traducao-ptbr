@@ -4,17 +4,16 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	Specially built
-	seats for the
-	lobby.
+	Assentos especialmente
+	projetados para o saguão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're not used
-	often,but guests do
-	use them sometimes.
+	Não são muito usados,
+	mas visitantes às vezes
+	os utilizam.
 	"""
 	keyWait
 		any = false
@@ -23,16 +22,14 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	There are decorative
-	plants here.
+	É uma planta decorativa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone takes great
-	care of them,one
-	leaf at a time.
+	Alguém cuida muito bem
+	dela, folha por folha.
 	"""
 	keyWait
 		any = false
@@ -41,16 +38,15 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	This is the
-	Front Office.
+	Esta é a Recepção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Through the window,
-	you can see an old
-	man making tea...
+	Através da janela,
+	você vê um senhorzinho
+	preparando chá...
 	"""
 	keyWait
 		any = false
@@ -59,16 +55,16 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	There are some
-	crushed leaves on
-	this bushy plant.
+	Neste arbusto,
+	você vê algumas
+	folhas esmagadas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was probably a
-	student that did it.
+	Travessura de algum
+	aluno, provavelmente.
 	"""
 	keyWait
 		any = false
@@ -77,23 +73,22 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	Cyber Academy's
-	security is very
-	strict.
+	A segurança da Escola
+	Saibher é muito rígida.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You need a
+	É preciso uma
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 1
 	"""
-	" to get
-	through here.
+	" para
+	passar por aqui.
 	"""
 	keyWait
 		any = false
@@ -102,14 +97,13 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	Today's events are
-	all displayed on
-	this monitor.
+	A agenda do dia é
+	exibida nesse monitor.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"There will be a\n teachers' meeting\n at 4 today.\""
+	"\"Haverá uma reunião\n de professores às\n 16:00 hoje.\""
 	keyWait
 		any = false
 	end
@@ -117,15 +111,15 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	There is a special
-	battery charger
+	Há um carregador
+	de bateria especial
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	at the base of
-	the CopyBot stand.
+	na base do pódio
+	desse CópiRoide.
 	"""
 	keyWait
 		any = false
@@ -139,21 +133,20 @@ script 7 mmbn6 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Today's events are
-	all displayed on
-	this monitor.
+	A agenda do dia é
+	exibida nesse monitor.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"There will be a\n teachers' meeting\n at 4 today.\""
+	"\"Haverá uma reunião\n de professores às\n 16:00 hoje.\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is a port for
-	jacking in,but it
-	seems to be broken.
+	Possui uma entrada
+	de conexão, mas parece
+	estar quebrada.
 	"""
 	keyWait
 		any = false
@@ -162,9 +155,8 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	A gate that connects
-	to the Teachers'
-	Room...
+	Um acesso à Sala
+	dos Professores...
 	"""
 	keyWait
 		any = false
@@ -173,21 +165,20 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	Today's events are
-	all displayed on
-	this monitor.
+	A agenda do dia é
+	exibida nesse monitor.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"There will be a\n teachers' meeting\n at 4 today.\""
+	"\"Haverá uma reunião\n de professores às\n 16:00 hoje.\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like there
-	is a port you can
-	jack in to!
+	Parece possuir uma
+	entrada de conexão
+	funcional!
 	"""
 	keyWait
 		any = false

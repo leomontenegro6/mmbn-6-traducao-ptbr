@@ -7,19 +7,19 @@ script 0 mmbn6 {
 	controlLock
 	soundPlay
 		track = 372
-	"*mwoof,"
+	"Au!"
 	wait
 		frames = 16
 	"\n"
 	soundPlay
 		track = 372
-	"    mwoof,"
+	"    Au!"
 	wait
 		frames = 16
 	"\n"
 	soundPlay
 		track = 372
-	"       mwoof!!*"
+	"        Au!!"
 	wait
 		frames = 16
 	soundEnableTextSFX
@@ -46,8 +46,8 @@ script 2 mmbn6 {
 	soundPlayBGM
 		track = 12
 	"""
-	That RoboDog is
-	attacking that girl!
+	Esse RobôCão tá
+	atacando uma menina!
 	"""
 	keyWait
 		any = false
@@ -59,14 +59,14 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"But that's..."
+	"Ué? Mas..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Normally,RoboDogs
-	are programmed to
-	never attack humans.
+	Normalmente, RobôsCão
+	são programados pra
+	nunca atacarem humanos.
 	"""
 	keyWait
 		any = false
@@ -78,13 +78,12 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I know!"
+	"Eu sei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So that means that
-	RoboDog...
+	Então, esse RobôCão...
 	"""
 	keyWait
 		any = false
@@ -97,17 +96,16 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	...is probably
-	infected
-	with a virus!
+	... deve ter sido
+	infectado por um vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,press the
-	R Button to send me
-	into that RoboDog!
+	Lan, aperta "R"
+	pra me mandar pra
+	dentro do RobôCão!
 	"""
 	keyWait
 		any = false
@@ -120,13 +118,13 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -137,8 +135,8 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,use the
-	R Button to jack in!
+	Lan, aperta o botão "R"
+	pra conectar!
 	"""
 	keyWait
 		any = false

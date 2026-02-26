@@ -4,16 +4,16 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	A fountain with a
-	mermaid statue.
+	Uma fonte com uma
+	estátua de sereia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's hard to take
-	your eyes off of
-	her beautiful form.
+	É até difícil tirar
+	os olhos de seu lindo
+	semblante.
 	"""
 	keyWait
 		any = false
@@ -22,17 +22,17 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	A vending machine
-	that sells the most
-	delicious water.
+	Uma máquina de bebidas
+	que vende a água mais
+	deliciosa do pedaço.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Full of minerals,the
-	water is called
-	"Essence of Ocean".
+	É conhecida como
+	"Essência do Oceano".
+	Cheia de minerais.
 	"""
 	keyWait
 		any = false
@@ -49,24 +49,24 @@ script 2 mmbn6 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A wonderful smell
-	is coming from the
-	fryer and
+	Um aroma maravilhoso
+	exala dessa fritadeira,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fills the air around
-	the Fish Stick Shop.
+	impregnando o ar ao
+	redor da Loja de
+	Palitos de Peixe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like you
-	can jack in to the
-	Fish Stick Fryer.
+	Parece que dá para se
+	conectar à fritadeira
+	de palitos de peixe.
 	"""
 	keyWait
 		any = false
@@ -74,14 +74,17 @@ script 2 mmbn6 {
 }
 script 3 mmbn6 {
 	msgOpen
-	"A stuffed toy shop."
+	"""
+	Uma loja de bichos
+	de pelúcia.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Many fancy stuffed
-	toys shaped like sea
-	animals are here.
+	Está repleta de pelúcias
+	caras com o formato de
+	criaturas marinhas.
 	"""
 	keyWait
 		any = false
@@ -102,16 +105,16 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	The dolphin signs
-	were arranged to
-	look as though they
+	Essas placas de golfinho
+	foram posicionadas para
+	fazer parecer que eles
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	are playing in
-	a large group.
+	estão todos
+	brincando juntos.
 	"""
 	keyWait
 		any = false
@@ -120,9 +123,8 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	There are some empty
-	cans in the trash
-	bin.
+	A lata de lixo contém
+	algumas latinhas vazias.
 	"""
 	keyWait
 		any = false
@@ -131,8 +133,8 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	It's the Fish Stick
-	Shop.
+	É a loja de palitos
+	de peixe.
 	"""
 	keyWait
 		any = false
@@ -140,17 +142,17 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	... A fish that
-	can't swim...?
-	Nah... It can't...
+	... Um peixe
+	que não nada...?
+	Não... Não pode...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey! There's a place
-	to jack in on the
-	Fish Stick Fryer!
+	Aí! Tem uma entrada
+	de conexão na fritadeira
+	da loja!
 	"""
 	keyWait
 		any = false
@@ -159,24 +161,24 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	A wonderful smell
-	is coming from the
-	fryer and
+	Um aroma maravilhoso
+	exala dessa fritadeira,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fills the air around
-	the Fish Stick Shop.
+	impregnando o ar ao
+	redor da Loja de
+	Palitos de Peixe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like you
-	can jack in to the
-	Fish Stick Fryer.
+	Parece que dá para se
+	conectar à fritadeira
+	de palitos de peixe.
 	"""
 	keyWait
 		any = false
@@ -185,25 +187,25 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	A vending machine
-	that sells the most
-	delicious water.
+	Uma máquina de bebidas
+	que vende a água mais
+	deliciosa do pedaço.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Full of minerals,the
-	water is called
-	"Essence of Ocean".
+	É conhecida como
+	"Essência do Oceano".
+	Cheia de minerais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like this
-	machine lets you
-	jack in!
+	E a máquina parece
+	possuir uma entrada
+	de conexão!
 	"""
 	keyWait
 		any = false
@@ -216,13 +218,13 @@ script 10 mmbn6 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Coffee:
-	1 can for 100 zenny
+	Café:
+	Uma lata: 100 Zennys
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Buy?"
+	"... Comprar?"
 	keyWait
 		any = false
 	clearMsg
@@ -236,7 +238,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -245,7 +247,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -273,7 +275,7 @@ script 11 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -288,7 +290,7 @@ script 11 mmbn6 {
 }
 script 12 mmbn6 {
 	msgOpen
-	"Not enough money..."
+	"Dinheiro insuficiente..."
 	keyWait
 		any = false
 	end
@@ -296,25 +298,24 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	msgOpen
 	"""
-	There are all sorts
-	of drinks in this
-	vending machine...
+	Uma máquina com todo
+	o tipo de bebidas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But there are more
-	kinds of water than
-	anything else.
+	Mas, na verdade,
+	tem mais é uma
+	variedade de águas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just what you'd
-	expect from a town
-	that studies water.
+	O que era de se esperar
+	de um distrito que
+	estuda água, não é?
 	"""
 	keyWait
 		any = false

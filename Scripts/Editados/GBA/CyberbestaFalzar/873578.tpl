@@ -16,24 +16,24 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WAS THE PROGRAM
-	IN SEASIDEAREA1
-	WORRIED?
+	O PROG NA ÁREA
+	BEIRA-MAR 1 TAVA
+	PREOCUPADO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I BET HEARING ABOUT
-	THE UNDERGROUND JUST
-	MADE IT WORSE!!
+	APOSTO QUE OUVIR
+	SOBRE O SUBSOLO
+	SÓ PIOROU ISSO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT IS SOOOO
-	FUNNY!! HAHAHA!!
+	QUE HILÁRIO!!
+	HA HA HA!!
 	"""
 	keyWait
 		any = false
@@ -44,9 +44,8 @@ script 1 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Alright,what wave
-	are you gonna ride
-	today...?
+	Tá, qual onda cê
+	vai pegar hoje...?
 	"""
 	keyWait
 		any = false
@@ -62,16 +61,16 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	After all,the
-	Underground is just
-	like an old cave.
+	Bom, no fundo, o
+	SubSolo é só como
+	uma velha caverna.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's quaint compared
-	to the Undernet...
+	Ou seja, tranquilo
+	comparado à Undernet...
 	"""
 	keyWait
 		any = false
@@ -81,21 +80,20 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"*HUFF* *HUFF*..."
+	"URF... UFF..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M TRAINING IN
-	CASE SOMETHING
-	HAPPENS.
+	ESTOU TREINANDO PARA
+	CASO ALGO ACONTEÇA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M GOING TO DEFEND
-	THIS AREA!
+	EU VOU DEFENDER
+	ESTA ÁREA!
 	"""
 	keyWait
 		any = false
@@ -106,17 +104,17 @@ script 6 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Lately the NetPolice
-	have been patrolling
-	and it's been safe,
+	Ultimamente, a
+	NetPolícia tem patrulhado
+	a área, e tá seguro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but having them
-	watch us constantly
-	is uncomfortable...
+	mas ficar com eles de
+	olho na gente o tempo
+	todo é desconfortável...
 	"""
 	keyWait
 		any = false
@@ -127,9 +125,8 @@ script 7 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Huh? Is there
-	something on my
-	face?
+	Hm? Tem alguma coisa
+	na minha cara?
 	"""
 	keyWait
 		any = false
@@ -140,16 +137,16 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'LL FINISH MY
-	TRAINING SOON...
+	ESTOU PRESTES A
+	TERMINAR MEU TREINO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEN I WILL REALLY
-	BE ABLE TO TRY OUT
-	MY MOVES...
+	DAÍ, PODEREI ENFIM
+	EXPERIMENTAR AS
+	MINHAS TÉCNICAS...
 	"""
 	keyWait
 		any = false
@@ -160,17 +157,16 @@ script 11 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	That Mr.Prog has
-	been training hard
-	every single day.
+	Aquele Prog treina
+	duro todos os dias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if that
-	Mr.Prog can actually
-	defeat anything...
+	Será que é possível um
+	Prog vencer alguma
+	coisa...?
 	"""
 	keyWait
 		any = false
@@ -180,21 +176,21 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"A while ago,I saw"
+	"Uns dias atrás,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that Mr.Prog delete
-	a virus with his
-	incredible power!
+	eu vi aquele Prog ali
+	deletar um vírus usando
+	esse mega poder!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His training paid
-	off...
+	O treino dele
+	deu resultados...
 	"""
 	keyWait
 		any = false
@@ -205,16 +201,16 @@ script 15 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE ONLY THING YOU
-	CAN TRUST TO THE END
-	IS YOUR OWN POWER.
+	A ÚNICA COISA EM QUE SE
+	PODE CONFIAR ATÉ O FIM
+	É SUA PRÓPRIA FORÇA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I THINK I'VE GONE A
-	LITTLE BIT TOO FAR...
+	MAS ACHO QUE EU FUI
+	MEIO LONGE DEMAIS...
 	"""
 	keyWait
 		any = false

@@ -16,31 +16,24 @@ script 0 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I was honestly
-	shocked by what
-	happened with the
+	Olha, eu fiquei
+	chocado de verdade
+	com o que aconteceu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JudgeTree the other
-	day.
+	com a Árvore Juíza
+	aquele dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,this incident
-	is going to have an
-	effect on security
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	for all of Cyber
-	City.
+	Digo, esse incidente
+	impactará a segurança
+	de toda a Cidade Saibher.
 	"""
 	keyWait
 		any = false
@@ -61,24 +54,24 @@ script 1 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	A flower's smell can
-	calm the soul...
+	O aroma de uma flor
+	pode acalmar a alma...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,I still can't
-	believe that such an
-	incident could
+	Logo, é difícil pra
+	mim acreditar que um
+	incidente daqueles
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	happen in this town
-	so full of the scent
-	of flowers...
+	pôde acontecer neste
+	distrito, tão cheio
+	do aroma das flores...
 	"""
 	keyWait
 		any = false
@@ -94,9 +87,9 @@ script 2 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	I think the incident
-	was a big shock for
-	everyone...
+	Acho que o incidente
+	deixou todo mundo em
+	choque...
 	"""
 	keyWait
 		any = false
@@ -107,17 +100,17 @@ script 5 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Hmm...? My flowers
-	don't have their
-	usual luster...
+	Hmm...? As minhas
+	flores não estão com
+	o brilho de sempre...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's probably a sign
-	that something is
-	going to happen...
+	Isso deve ser sinal
+	de que alguma coisa
+	está pra acontecer...
 	"""
 	keyWait
 		any = false
@@ -128,23 +121,22 @@ script 6 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Ah,such nice weather
-	we have today...
+	Ah, estamos com um
+	tempo tão bom hoje...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you look like
-	there's a rain cloud
-	over your head...
+	Mas você parece bem
+	"nublado" agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Try to cheer up,
-	deary.
+	Por favor, anime-se,
+	meu filho.
 	"""
 	keyWait
 		any = false
@@ -155,25 +147,23 @@ script 7 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	... That really
-	happened in the
-	Undernet...?
+	... Aquilo aconteceu
+	mesmo na Undernet...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the Undernet is
-	where those unlawful
-	folks gather...
+	Mas a Undernet é
+	onde os foras-da-lei
+	se reúnem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They don't let the
-	law touch them at
-	all...
+	Eles são completamente
+	afastados da lei...
 	"""
 	keyWait
 		any = false
@@ -184,16 +174,9 @@ script 15 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I wonder if the
-	lotus flower's odd
-	shape
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	is because of the
-	weather...?
+	Será que o formato
+	estranho da flor-de-lótus
+	se deve ao clima...?
 	"""
 	keyWait
 		any = false
@@ -204,9 +187,9 @@ script 16 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	This weather... Does
-	this mean the end of
-	the world is near?
+	Este tempo... Ele
+	significa que o fim
+	do mundo se aproxima?
 	"""
 	keyWait
 		any = false
@@ -217,16 +200,16 @@ script 40 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I just got some new
-	tulips in!
+	Eu acabei de receber
+	novas tulipas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How about a bulb
-	for the family
-	garden,sonny?
+	Que tal uma porção
+	pra plantar no quintal
+	da família, rapaz?
 	"""
 	keyWait
 		any = false
@@ -237,17 +220,16 @@ script 41 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	We created our lotus
-	flowers to have a
-	stronger smell.
+	Nós criamos nossas flores-
+	de-lótus para terem um
+	aroma mais forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're often used
-	as a base ingredient
-	in perfumes.
+	São muito usadas na
+	composição de perfumes.
 	"""
 	keyWait
 		any = false
@@ -258,31 +240,29 @@ script 42 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	It seems that the
-	Force Program in Sky
-	Town was stolen...
+	Parece que o Programa
+	de Força do Distrito
+	Céu foi roubado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that was stolen,
-	then it means pretty
-	bad things for us.
+	O que é péssimo para nós.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's as bad as __
-	no,it's worse than
+	É tão ruim quanto...
+	não, é ainda pior do
+	que o incidente da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the JudgeTree being
-	hacked...
+	Árvore Juíza...
 	"""
 	keyWait
 		any = false
@@ -293,16 +273,14 @@ script 50 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Lily flowers have
-	been pretty popular
-	lately.
+	Lírios andam
+	bem populares.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So how about one
-	for yourself?
+	Que tal levar um?
 	"""
 	keyWait
 		any = false
@@ -313,9 +291,9 @@ script 51 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I want to make my
-	next flower have a
-	sweeter smell...
+	Eu quero fazer com que
+	a próxima flor tenha
+	um aroma mais doce...
 	"""
 	keyWait
 		any = false
@@ -335,15 +313,14 @@ script 52 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	The Navi in the
-	Expo commercial...
+	O Navi do comercial
+	da Exposição...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't he tooootally
-	COOL!?
+	Ele não é TUDO?!
 	"""
 	keyWait
 		any = false
@@ -354,16 +331,16 @@ script 53 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I heard it on the
-	news just now.
+	Eu ouvi o noticiário
+	ainda agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's like there's
-	some incident over
-	in Seaside Town.
+	Parece que teve um
+	incidente aí no
+	Distrito Beira-Mar.
 	"""
 	keyWait
 		any = false
@@ -374,28 +351,27 @@ script 54 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	The guy that tore
-	up Seaside Town was
-	a Navi in a CopyBot.
+	Quem destruiu o
+	Distrito Beira-Mar foi
+	um Navi num CópiRoide.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,it's just hear_
-	say,but that Navi's
-	the one from the
+	Bom, isso é só boato,
+	mas parece que o Navi
+	é o mesmo Navi que
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Expo commercial..."
+	"aparece no comercial\nda Exposição..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't that toootally
-	scary!?
+	Que meeeedooooo! Né?!
 	"""
 	keyWait
 		any = false

@@ -5,22 +5,22 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"BeastOut..."
+	"Feralizar..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It sure is a scary
-	power,but it also
-	feels...promising.
+	É um poder sinistro,
+	mas também... sei lá...
+	"promete".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've gotta be
-	really careful
-	using it!
+	A gente tem que
+	tomar muito cuidado
+	na hora de usar!
 	"""
 	keyWait
 		any = false
@@ -32,7 +32,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!!"
+	"É!!"
 	keyWait
 		any = false
 	clearMsg
@@ -44,13 +44,13 @@ script 2 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan! You have
-	a guest!
+	Lan! Tem visita
+	pra você!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hey! Wait...!"
+	"Ah! Espere...!"
 	keyWait
 		any = false
 	clearMsg
@@ -62,8 +62,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A guest...?
-	Is it Iris?
+	Visita...?
+	Será que é a Iris?
 	"""
 	keyWait
 		any = false
@@ -73,7 +73,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Yo,Lan!"
+	"Fala, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -84,7 +84,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,it's Mick..."
+	"Ah, é só o Mick..."
 	keyWait
 		any = false
 	clearMsg
@@ -96,9 +96,9 @@ script 6 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	W_What's that
-	supposed to mean!?
-	Hmph!
+	Ô-ô, quer dizer o quê
+	com esse "só"?!
+	Hmpf!
 	"""
 	keyWait
 		any = false
@@ -110,13 +110,13 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh? What's wrong?"
+	"Hm? O que aconteceu?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You look like
-	you're in a hurry...
+	Cê parece tá com
+	tanta pressa...
 	"""
 	keyWait
 		any = false
@@ -128,22 +128,20 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Oh,yeah!!"
+	"Ah, é!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That clown_looking
-	Navi that attacked
-	my Navi has been
+	Aquele Navi palhaço
+	que atacou o meu Navi
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	spotted hanging
-	around in
-	CentralArea3!
+	foi avistado ali
+	pela Área Central 3!
 	"""
 	keyWait
 		any = false
@@ -151,16 +149,15 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	A clown_looking
-	Navi...
+	Um Navi palhaço...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	like the one that
-	attacked us in
-	SeasideArea3!?
+	que nem o que
+	atacou a gente na
+	Área Beira-Mar 3!
 	"""
 	keyWait
 		any = false
@@ -170,8 +167,9 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	"""
-	That clown's gotta
-	be up to no good!
+	Aquela aberração de
+	circo deve tá aprontando
+	alguma coisa!
 	"""
 	keyWait
 		any = false
@@ -184,8 +182,8 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's his trick
-	this time!?
+	Qual será o truque
+	dele desta vez?!
 	"""
 	keyWait
 		any = false
@@ -197,11 +195,11 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's go,Lan!"
+	"Vamos lá, Lan!"
 	keyWait
 		any = false
 	clearMsg
-	"Jack me in!"
+	"Me conecta!"
 	keyWait
 		any = false
 	clearMsg
@@ -212,7 +210,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You got it!!"
+	"Só se for agora!!"
 	keyWait
 		any = false
 	end

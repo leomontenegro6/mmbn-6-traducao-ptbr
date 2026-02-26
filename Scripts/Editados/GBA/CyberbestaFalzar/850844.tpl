@@ -10,8 +10,8 @@ script 0 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You're going to Sky
-	Town? Be careful,OK?
+	Vai pro Distrito Céu?
+	Cuidado, viu?
 	"""
 	keyWait
 		any = false
@@ -22,30 +22,29 @@ script 1 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Oh! You're back
-	already? You're
-	early...
+	Ah! Já voltou?
+	Que cedo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I'm going to
-	go shopping soon.
+	Bom, eu estou de saída
+	pra fazer supermercado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can you watch the
-	house while...
+	Pode ficar de olho
+	na casa enquanto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? You're going
-	out again? Oh...
+	Hã? Você vai ter que
+	sair de novo? Ah...
 	"""
 	keyWait
 		any = false
@@ -56,16 +55,16 @@ script 10 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	The weather's so
-	nice today!
+	O tempo está
+	tão bom hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I'll hang
-	the laundry outside
-	for a change!
+	Acho que vou botar
+	as roupas pra secar
+	lá fora, pra variar!
 	"""
 	keyWait
 		any = false
@@ -76,17 +75,17 @@ script 15 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	It's a holiday,but
-	Dad's still hard
-	at work in the lab.
+	Hoje é feriado... mas o
+	seu pai continua firme no
+	trabalho no laboratório.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And here I thought I
-	might get him to go
-	shopping with me.
+	Ah, e eu aqui, achando
+	que poderia levar ele pra
+	fazer compras comigo...
 	"""
 	keyWait
 		any = false
@@ -97,9 +96,9 @@ script 20 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	What's wrong,Lan?
-	You look lost... Did
-	something happen?
+	O que foi, Lan?
+	Parece tão... perdido.
+	Aconteceu alguma coisa?
 	"""
 	keyWait
 		any = false

@@ -6,8 +6,7 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	First,I jump
-	across...
+	Primeiro, eu pulo pra lá...
 	"""
 	keyWait
 		any = false
@@ -17,7 +16,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hup!!"
+	"Iup!!"
 	keyWait
 		any = false
 	end
@@ -27,16 +26,15 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Now it's your
-	turn,Lan!
+	Sua vez, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't worry,I'll
-	catch you!
-	Now jump!
+	Não se preocupa,
+	eu vou te pegar!
+	Só pula!
 	"""
 	keyWait
 		any = false
@@ -47,32 +45,30 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,OK...
-	I can do this...
+	Beleza... Beleza...
+	Eu consigo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	B_but...what if I
-	mess up my
-	landing...?
+	M-mas... e se eu
+	vacilar no pouso...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If only I could
-	sorta float down
-	somehow...
+	Se, ao menos, eu
+	pudesse dar um jeito
+	de flutuar até lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I know!
-	I'll use that
-	thing!!
+	... Já sei!
+	Eu vou usar aquilo!!
 	"""
 	keyWait
 		any = false
@@ -82,7 +78,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Here I come,MegaMan!"
+	"Tô indo, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -95,7 +91,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Alright!!"
+	"Beleza!!"
 	keyWait
 		any = false
 	clearMsg
@@ -107,8 +103,8 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,3... 2... 1...
-	GO!!
+	Tá. 3... 2... 1...
+	VAI!!
 	"""
 	keyWait
 		any = false
@@ -118,7 +114,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"See,nothing to it!"
+	"Viu? Tranquilo!"
 	keyWait
 		any = false
 	clearMsg
@@ -130,9 +126,8 @@ script 8 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey! It's that
-	umbrella you got
-	earlier!
+	Ah! É o guarda-chuva
+	que você pegou antes!
 	"""
 	keyWait
 		any = false
@@ -145,9 +140,9 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's a little scary,
-	but it feels nice
-	floating up here.
+	Dá um pouco de medo,
+	mas até que é legal
+	flutuar assim.
 	"""
 	keyWait
 		any = false
@@ -162,7 +157,7 @@ script 10 mmbn6 {
 	controlLock
 	soundPlay
 		track = 432
-	"*snap!!*"
+	"Plic!!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -177,7 +172,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... Huh!?"
+	"... Hã?!"
 	keyWait
 		any = false
 	clearMsg
@@ -204,7 +199,7 @@ script 13 mmbn6 {
 	controlLock
 	soundPlay
 		track = 433
-	"*snap,snap!*"
+	"Plic Plic!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -219,11 +214,11 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The umbrella!!"
+	"O guarda-chuva!!"
 	keyWait
 		any = false
 	clearMsg
-	"W_Whaaaaaa!!"
+	"A-aaaaaahhh!!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -235,8 +230,8 @@ script 15 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	See,I told you I'd
-	catch you!
+	Viu? Eu falei
+	que te pegava!
 	"""
 	keyWait
 		any = false
@@ -258,8 +253,8 @@ script 17 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,time to
-	return to the PET.
+	Bom, hora de eu
+	voltar pro PET.
 	"""
 	keyWait
 		any = false
@@ -270,8 +265,7 @@ script 18 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Now,on to the
-	Force Room!!
+	Agora, pra Sala de Força!!
 	"""
 	keyWait
 		any = false

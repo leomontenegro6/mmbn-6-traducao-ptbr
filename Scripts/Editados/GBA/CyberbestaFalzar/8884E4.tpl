@@ -10,30 +10,28 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's been completely
-	taken over by
-	viruses...
+	Ele foi completamente
+	tomado por vírus...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,let's start some
-	serious Virus
-	Busting!
+	Lan, hora da gente
+	fazer uma deleção séria!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Got it!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Here we go!"
+	"Vamos lá!"
 	keyWait
 		any = false
 	flagSet
@@ -43,9 +41,9 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The control panel
-	is functioning
-	normally.
+	O painel de controle
+	está funcionando
+	normalmente.
 	"""
 	keyWait
 		any = false

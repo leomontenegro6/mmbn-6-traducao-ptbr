@@ -10,31 +10,31 @@ script 0 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Welcome to the ACDC
-	Soul Oasis,the ACDC
-	BBS!
+	Bem-vindos ao Oásis
+	pras Almas de ACDC:
+	o Fórum ACDC!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm Yai,the
-	webmaster here.
+	Eu sou Yai, a
+	administradora daqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a BBS for
-	everyone to have fun
-	chatting!
+	Este Fórum é pra todo
+	mundo papear e se
+	divertir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So everyone make
-	lots of posts!!
+	Então postem
+	bastante, pessoal!!
 	"""
 	keyWait
 		any = false
@@ -49,44 +49,39 @@ script 1 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Yo!! Mr.Big,Dex
-	is here to liven
-	up this party!
+	Fala!! Aqui é Dex, o
+	manda-chuva, que chegou
+	pra esquentar esta festa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Because we all know
-	you can't have a
-	party without
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Mr.Big!!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If you wanna know
-	a great pizza
-	place or an awesome
+	Digo, todo mundo sabe
+	que festa só é festa com
+	o manda-chuva na área!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	lunch place... I'm
-	just the man to ask!
+	Se quiserem saber quais
+	são as melhores pizzarias
+	e restaurantes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just don't ask me
-	for help with
-	homework!!
+	é só perguntar pra mim!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Só não vão me
+	pedir ajuda com
+	a lição de casa!!
 	"""
 	keyWait
 		any = false
@@ -101,41 +96,40 @@ script 2 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Someone might be
-	cool,but you might
-	want to look at a
+	Gente legal assim
+	existe, mas melhor
+	se olhar no espelho,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mirror sometime
-	Mr.Big,because the
-	cool one isn't you!
+	Sr. manda-chuva, porque
+	você não faz parte
+	dessa "gente"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I already know you
-	are the last one to
-	ask about school!
+	E eu já sabia que você
+	era a última pessoa pra
+	perguntar coisa de aula!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you can still
-	tell me about that
-	pizza shop...
+	Dito isso, eu aceito
+	você me falar sobre
+	a pizzaria lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Or better yet,you
-	can show me where
-	it is!
+	Ou melhor, mostrar
+	onde fica!
 	"""
 	keyWait
 		any = false
@@ -150,56 +144,56 @@ script 3 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I heard that the
-	most famous kid in
-	ACDC,Lan,has moved
+	Eu ouvi falar que o
+	menino mais famoso
+	de ACDC, o Lan,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"away!"
+	"se mudou!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a big fan and
-	I was hoping to get
-	an autograph,but
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I was so shocked
-	when I heard he
-	moved that I gained
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"20 pounds!!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If this keeps up
-	I'll have to become
-	a sumo wrestler!
+	Eu sou mó fã dele e
+	tava querendo pedir
+	um autógrafo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone tell me
-	the truth!! What
-	happened to Lan!!
+	mas fiquei tão chocado
+	de ouvir que ele se
+	mudou, que eu ganhei
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"10 quilos!!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se isso continuar,
+	eu vou acabar virando
+	lutador de sumô!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't wanna be
-	a sumo wrestler!!
+	Alguém me fala a
+	verdade!! O que
+	aconteceu com o Lan?!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu não quero ser
+	lutador de sumô!!
 	"""
 	keyWait
 		any = false
@@ -214,45 +208,38 @@ script 4 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	It seems that one
-	of our classmates
+	Parece que um dos nossos
+	colegas de classe foi na
+	casa do Lan
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	went to Lan's
-	house last Sunday.
+	domingo passado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone went to
-	see Lan off with
-	sad faces...
+	Todo mundo deu "tchau"
+	pro Lan, super tristes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A girl with red hair
-	even started crying
+	Uma menina ruiva começou
+	a chorar porque o Lan
+	não estaria mais aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	over Lan not being
-	there anymore...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I hate to say it,
-	but the rumors are
-	all true. He moved.
+	Odeio dizer isso, mas
+	os boatos tavam certos.
+	Ele se mudou.
 	"""
 	keyWait
 		any = false
@@ -267,46 +254,45 @@ script 5 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	No reason to be sad!
-	The whole world is
+	Não tem por que
+	ficarem tristes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	connected by the
-	Net!!
+	O mundo inteiro é
+	ligado pela Rede!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even if you are far
-	away,you can still
-	meet on the Net!
+	Mesmo distantes, ainda
+	dá pra falar com os
+	amigos pela Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So dry your eyes
-	and be happy! It's
-	not so bad!
+	Então sequem essas
+	lágrimas e se animem!
+	Não é o fim do mundo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And if you become a
-	sumo wrestler,do
-	your best!!
+	E, se você virar
+	um lutador de sumô,
+	lute bonito, viu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be cheering for
-	you if you do!
+	Eu vou torcer por você!
 	"""
 	keyWait
 		any = false
@@ -321,41 +307,39 @@ script 6 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Hey all! It's me,
-	Dex! Lan moved to
-	Cyber City,huh?
+	Fala, povo! Sou eu,
+	o Dex! O Lan se mudou
+	pra Cidade Saibher, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what it's
-	like...? I wonder
-	what happens there?
+	Como será que é lá?
+	O que será que rola
+	por lá?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	From what I hear,
-	there is some kind
-	of research there.
+	Pelo que me disseram,
+	fazem uma pesquisa aí
+	por aquelas bandas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if it's
-	research into new
-	battle techniques?
+	Será que é pesquisa de
+	técnica de NetLuta?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone got a
-	clue what goes on
-	there?
+	Alguém aí sabe o
+	que rola por lá?
 	"""
 	keyWait
 		any = false
@@ -370,47 +354,46 @@ script 7 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	My friend lives in
-	Cyber City,and I
-	hear they are
+	Uma amiga minha mora
+	na Cidade Saibher, e
+	ela comentou que, lá,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	researching future
-	technologies there.
+	eles pesquisam
+	tecnologias pro futuro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How to keep the sea
-	clean and how to
-	live with nature...
+	Tipo formas de limpar
+	os mares e conviver
+	com a natureza...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think they are
-	also researching
-	astronomy!
+	Acho que pesquisam
+	astronomia também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It would be nice
-	to live in a world
+	Seria legal viver num
+	mundo em que as pessoas
+	pudessem coexistir
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	where people could
-	coexist with other
-	living things...
+	com todas as outras
+	formas de vida...
 	"""
 	keyWait
 		any = false
@@ -425,53 +408,40 @@ script 8 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I don't really
-	totally understand
-	this,but I heard
+	Eu não entendi ele
+	totalmente, mas ouvi
+	um boato quentíssimo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a really juicy
-	rumor!!
+	Dizem que as Cyberbestas
+	ficam lacradas na Rede
+	da Cidade Saibher!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They say Cybeasts
-	are sealed away in
-	the Cyber City Net!!
+	Também dizem que existem
+	bandidos que querem
+	quebrar o lacre delas!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They also say there
-	are bad guys who
+	Loucura, né?
+	Eu queria ter uma
+	Cyberbesta pra criar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	want to break the
-	Cybeasts' seal!!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Crazy,huh?
-	I want to have a
-	Cybeast as a pet!!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It'd be cool,
-	don'tcha think?
+	Seria da hora,
+	cês não acham?
 	"""
 	keyWait
 		any = false
@@ -486,52 +456,38 @@ script 9 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Don't you think the
-	viruses in ACDC Area
+	Vocês não acham que os
+	vírus da Área ACDC têm
+	ficado mais fortes?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	have gotten stronger
-	lately?
+	E parece que apareceram
+	ainda mais vírus nela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I heard the
-	viruses are all
-	over the area,too!
+	E são vírus que eu
+	nunca vi antes!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not to mention lots
-	of viruses I've
-	never seen before!!
+	Se isso continuar, como
+	vamos fazer para desfru-
+	tar da vida na Rede?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If this continues
-	we won't be able
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	to enjoy NetLife
-	at all!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Someone should
-	do something!
+	Alguém devia fazer
+	alguma coisa!
 	"""
 	keyWait
 		any = false
@@ -546,50 +502,44 @@ script 10 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	ACDC Area has been
-	strange lately!
+	A Área ACDC tem
+	andado estranha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The viruses are
-	being whipped
-	into a frenzy!!
+	Os vírus tão ficando
+	agitados e fora de
+	controle, Guts!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Since MegaMan isn't
-	around anymore,
+	Como o MegaMan não tá
+	mais aqui, as coisas
+	pioraram muito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	things have gotten
-	bad!
+	Se continuar assim,
+	a Área ACDC vai virar
+	caos puro, Guts!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If this keeps up,
-	ACDC Area will be
-	completely lawless!
+	Vamos nos unir para
+	manter a ACDC a salvo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	Let's join togther
-	and keep ACDC safe!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Guts people! Guts!!"
+	"Coragem, gente!\nGuts, Guts!!"
 	keyWait
 		any = false
 	waitHold
@@ -603,49 +553,49 @@ script 11 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I'm not very strong,
-	but please let me
-	help out!
+	Eu não sou muito forte,
+	mas, por favor,
+	permitam-me ajudar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Be extra careful
-	if you see Catacks,
-	the tank viruses!
+	Tenham cautela extra
+	ao se depararem com
+	Catacks, os vírus tanque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Catacks have the
-	ability to penetrate
-	this area...
+	Os Catacks possuem
+	a habilidade de
+	invadir sua área...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have to delete
-	them before they get
-	in,
+	A melhor estratégia
+	é deletá-los antes
+	de eles entrarem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	or use a Wind chip
-	that'll prevent them
-	from getting in,
+	ou usar um chip de
+	Vento pra impedi-los
+	de avançar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but the sure_fire
-	way is absolutely
-	through battle!
+	Mas recomendo, de fato,
+	eliminá-los na luta
+	imediatamente!
 	"""
 	keyWait
 		any = false
@@ -660,39 +610,37 @@ script 12 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Did you guys see
-	the thing on TV
-	yesterday?
+	Cês viram aquilo
+	na TV ontem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's gonna be an
-	Expo in Cyber City!!
+	Vai ter uma Exposição
+	na Cidade Saibher!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ya know,Lan's dad
-	was talking about
-	the Expo wasn't he?
+	Aliás, o pai do Lan
+	falou da Exposição,
+	não falou, não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What exactly happens
-	at an Expo anyways?
+	Afinal, o que é que rola
+	numa Exposição, hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it's a tourney
-	there is no way I'm
-	gonna lose!!
+	Se é um torneio,
+	eu vou vencer, viu?!
 	"""
 	keyWait
 		any = false
@@ -707,46 +655,39 @@ script 13 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I saw that on TV
-	too!! It's Expo
-	time!!
+	Eu também vi o anúncio
+	na TV!! A Exposição
+	tá chegando!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hear that MegaMan
-	is gonna be the Navi
-	covering the event!!
+	E eu ouvi falar que o
+	MegaMan vai ser o Navi
+	cobrindo o evento!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess he was
-	chosen as the
+	Acho que ele foi
+	escolhido como Navi
+	Operador do Pavilhão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Operator Navi for
-	the Expo Pavilion!
+	Acho que as coisas tão
+	bem agitadas por lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess they got
-	lots of things
-	going on over there!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I bet Lan is having
-	a great time...
+	Aposto que o Lan tá
+	se divertindo à beça...
 	"""
 	keyWait
 		any = false
@@ -761,34 +702,34 @@ script 14 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I saw it too!
-	MegaMan was on TV!!
+	Eu também vi!
+	O MegaMan, na TV!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Cool,huh..."
+	"Nossa, que legal..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan hasn't talked
-	to me at all lately.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It'd be nice if he
-	just sent me a mail
-	or something...
+	Faz tempo que o Lan
+	não fala nada comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't really
-	care or anything...
+	Ele bem que podia
+	me mandar um e-mail,
+	sei lá...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	N-não que isso me
+	incomode nem nada...
 	"""
 	keyWait
 		any = false
@@ -802,54 +743,53 @@ script 15 mmbn6 {
 	positionArrow
 		left = 210
 		top = 108
-	"What the...!?"
+	"Mas o que...?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did anyone see that
-	relay just now?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It was a link with
-	Cyber City...
+	Alguém viu aquela
+	transmissão ainda agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There was some
-	weird monster
-	on the screen!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Yahhhhh!!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Was that that
-	Cybeast people are
-	talking about?
+	Era um link com a
+	Cidade Saibher...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was...smaller
-	than I imagined...
+	E apareceu um monstro
+	medonho na tela!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Aaaaahhhhh!!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Era a tal "Cyberbesta"
+	de que as pessoas
+	tavam falando?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what's
-	going on!?
+	Era... menor do que
+	eu imaginava...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O que será que
+	tá acontecendo?!
 	"""
 	keyWait
 		any = false
@@ -864,35 +804,34 @@ script 16 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I saw it too!!
-	What was that thing?
+	Eu também vi!!
+	Mas que coisa era aquela?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was about the
-	same size as my
-	Navi...
+	Tinha mais ou menos 
+	o mesmo tamanho que
+	o meu Navi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if it was
-	a Navi...
+	Será que era um Navi...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It sure didn't look
-	like a normal Navi...
+	Bom, não PARECIA
+	um Navi normal...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Was it a virus...?"
+	"Era um vírus...?"
 	keyWait
 		any = false
 	clearMsg
@@ -901,16 +840,17 @@ script 16 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Maybe it was a
-	stunt to get the
-	viewer's attention?
+	Será que foi uma jogada
+	de marketing pra chamar
+	a atenção do público?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They do things like
-	that you know...
+	Esse tipo de coisa
+	"viral" tá na moda
+	esses dias...
 	"""
 	keyWait
 		any = false
@@ -925,44 +865,44 @@ script 17 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I saw it!! It looked
-	so brutal that it
-	really scared me!!
+	Eu vi!! Parecia tão
+	brutal... fiquei
+	morrendo de medo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But Lan is in
-	Cyber City,right?
+	Mas o Lan tá na
+	Cidade Saibher, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He'll do something
-	about that ugly
-	looking thing,right?
+	Então ele vai dar um
+	jeito naquela coisa
+	feia, não vai?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But what happens
-	if that thing comes
-	to ACDC Town...
+	Mas... e se aquela
+	coisa vier pro
+	Bairro ACDC...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I dunno what to
-	do... I'm scared...
+	Eu não sei o que fazer...
+	Tô com medo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan!!! Help us!!!"
+	"Lan!!! Ajuda a gente!!!"
 	keyWait
 		any = false
 	waitHold
@@ -976,53 +916,52 @@ script 18 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Hey yo! I just
-	went over to
-	Higsby's Chip Shop!
+	Fala, gente! Eu acabei
+	de ir na Loja de Chips
+	do Higsby!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It wasn't open
-	though...
+	Mas não tava aberta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now that Lan is
-	gone,Higsby's
-	doesn't have anyone
+	Agora que o Lan foi
+	embora, o Higsby não
+	tem mais pra quem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to sell lots of
-	chips to anymore!
+	vender suas toneladas
+	de chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That must be why
-	they're closed!
+	Aposto que foi por
+	isso que ele fechou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess Lan really
-	did spend a huge
-	amount of money on
+	Acho que o Lan realmente
+	gastava dinheiro pra
+	caramba com chips...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	chips...
-	Higsby's Forever!!
+	Higsby, pra sempre
+	em nossos corações!!
 	"""
 	keyWait
 		any = false
@@ -1037,45 +976,46 @@ script 19 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I heard that Higsby
-	is on a trip to
-	Netopia!
+	Eu ouvi dizer que o
+	Higsby saiu de viagem
+	pra Ameropa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It must be really
-	important if he
+	Acho que era um
+	assunto importante,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	closed the store
-	to go there...
+	se ele fechou a
+	loja pra ir lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I also heard that a
-	long time ago
+	Eu também ouvi que,
+	muito tempo atrás,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Netopia used to hold
-	a huge tournament.
+	a Ameropa costumava
+	sediar esse torneio
+	enorme.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish I could make
-	a name for myself
-	there!
+	Queria poder virar
+	um NetLutador de
+	renome por lá!
 	"""
 	keyWait
 		any = false
@@ -1090,32 +1030,26 @@ script 20 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Since Higsby's is
-	closed,you gotta go
+	Agora que o Higsby
+	fechou, só dá pra comprar
+	chips indo lá longe...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	really far to buy
-	chips...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"It's kinda a pain..."
+	"Um saco, cara..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I betcha they sell
-	lotsa awesome chips
-	in Cyber City...
+	Aposto que tem um monte
+	de chips irados pra vender
+	na Cidade Saibher...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm really jealous..."
+	"Que inveja..."
 	keyWait
 		any = false
 	waitHold
@@ -1129,31 +1063,29 @@ script 21 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	A weird Navi was
-	telling me that I
+	Um Navi estranho me
+	falou que eu podia
+	ficar bem rico se usasse
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	could get really
-	rich with some
-	weird command...
+	um comando esquisito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He shouted
+	Ele gritou:
 	"RBARALBBBL"!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if I
-	could really become
-	rich with that...
+	Será que dá mesmo pra
+	ficar rico com isso...?
 	"""
 	keyWait
 		any = false
@@ -1168,46 +1100,44 @@ script 22 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	That has to be
-	the Compression
-	Command!!
+	Aposto que esse era o
+	Comando de Compressão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a trick that
-	lets you make
+	É um truque que permite
+	que você encolha as
+	peças do Customizador...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NaviCust parts
-	smaller...
+	Encolher peças
+	do Customizador...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,I'm not
-	sure what NaviCust
-	parts it affects...
+	Na verdade, eu não
+	sei exatamente quais
+	peças ele afeta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Rich,huh...
-	Rich...
+	"Rico", é...
+	RicRico...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That wouldn't
-	be a bad thing
-	to be...
+	Eu não recusaria...
 	"""
 	keyWait
 		any = false
@@ -1222,38 +1152,37 @@ script 23 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	It's finally time
-	for the Expo!!!
+	Finalmente chegou a
+	hora da Exposição!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard it might be
-	cancelled due to
-	all of the
+	Eu tinha ouvir que ela
+	ia ser cancelada devido
+	a todos os incidentes,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	incidents,but I
-	guess that didn't
-	happen...
+	mas acho que acabou
+	não rolando...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan is gonna
-	pick me up,and I
+	O MegaMan vai
+	vir me buscar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can't wait for him
-	to get here!!
+	e eu mal posso esperar
+	pra chegar lá!
 	"""
 	keyWait
 		any = false
@@ -1268,41 +1197,41 @@ script 24 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	I saw the news!!
-	I couldn't be
-	happier!!
+	Eu vi no noticiário!!
+	Tô tão feliz!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How 'bout it,Roll!?"
+	"Que cê acha, Roll?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The cool Navis are
-	closer to home,not
-	further away!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	That's one GutsPunch
-	of a yellow body!!
+	Os Navis mais boa-pinta
+	não tão longe, eles tão
+	bem aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let GutsMan be your
-	escort,and not just
-	at the Expo!
+	Não ignora aquele
+	Gut-pedaço de mau
+	caminho!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...I guess not?"
+	"""
+	Deixa o GutsMan te
+	acompanhar, e não só
+	na Exposição!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"... Não convenci, né?"
 	keyWait
 		any = false
 	waitHold
@@ -1316,17 +1245,16 @@ script 25 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Ever since the
-	incidents,I'm
-	kinda scared...
+	Após os incidentes,
+	eu fiquei um tanto
+	assustado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess it's good
-	they will open
-	the Expo...
+	Vendo assim, que bom que
+	irão abrir a Exposição...
 	"""
 	keyWait
 		any = false
@@ -1341,37 +1269,30 @@ script 26 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	What are you talking
-	about,Glide!?
+	Que conversa é
+	essa, Glide?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If Lan's around,
-	we're 100% OK!!
+	Com o Lan no pedaço,
+	vai ficar tudo bem!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you need to
-	send me some cool
+	E é bom você me mandar
+	umas roupas bem legais
+	pelo NaviGate, viu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	clothes through the
-	NaviGate!!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You know...cool
-	clothes to wear to
-	the Expo!!
+	Sabe... roupas legais pra
+	eu usar na Exposição!!
 	"""
 	keyWait
 		any = false
@@ -1386,22 +1307,22 @@ script 27 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	It's almost
-	graduation time!!
+	A formatura
+	tá quase aí!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lots of things have
-	happened,but it'll
+	Aconteceu muita coisa,
+	mas vai ser tão bom me
+	formar com todos os meus
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	be great to graduate
-	with all my friends!
+	amigos!
 	"""
 	keyWait
 		any = false
@@ -1416,31 +1337,30 @@ script 28 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Lots of things have
-	happened,huh?
+	Aconteceu mesmo
+	muita coisa, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've gotten into
-	more trouble than
-	I care to remember!
+	A gente se meteu em
+	mais frias do que dá
+	pra contar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we all got
-	through it
-	together...
+	Mas vencemos todas
+	elas, juntos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everytime Lan helped
-	us in the end...
+	E, toda vez, o Lan
+	ajudou a gente no final...
 	"""
 	keyWait
 		any = false
@@ -1450,15 +1370,15 @@ script 28 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Thanks everyone!
-	Thank you so much!!
+	Obrigada, gente!
+	Muito obrigada!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next year will be
-	so much fun!!
+	O ano que vem vai
+	ser legal demais!!
 	"""
 	keyWait
 		any = false
@@ -1473,24 +1393,24 @@ script 29 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	It really was
-	over in a flash,huh?
+	Realmente, acabou num
+	piscar de olhos, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But Lan and I never
-	got to finish things
-	before graduation!
+	Mas não deu pro Lan e
+	eu acertarmos as contas
+	antes da formatura!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We all know I'm
-	the better Virus
-	Buster anyways!!
+	Bom, todo mundo sabe
+	que eu sou o melhor
+	NetLutador mesmo!!
 	"""
 	keyWait
 		any = false
@@ -1500,8 +1420,8 @@ script 29 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	He never did come
-	back to ACDC Town...
+	Acabou que ele nunca
+	voltou pra ACDC...
 	"""
 	keyWait
 		any = false
@@ -1516,21 +1436,21 @@ script 30 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	It's OK!
-	Lan will come back
-	someday!!
+	Tá tudo bem!
+	Um dia, o Lan
+	VAI voltar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But until then,"
+	"Mas, até lá,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	make sure to keep
-	getting better at
-	Virus Busting,OK!?
+	continua treinando
+	duro na Deleção de
+	Vírus, viu?!
 	"""
 	keyWait
 		any = false

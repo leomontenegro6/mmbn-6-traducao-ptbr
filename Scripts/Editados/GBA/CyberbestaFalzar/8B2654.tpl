@@ -6,14 +6,14 @@ script 0 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Heeeey,Lan!
-	I was getting
-	worried!
+	Fala, Lan!
+	Eu tava ficando
+	preocupado!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Is MegaMan OK?"
+	"O MegaMan tá bem?"
 	keyWait
 		any = false
 	clearMsg
@@ -25,8 +25,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No,a lot of things
-	happened,and...
+	Não. Aconteceu
+	muita coisa, e...
 	"""
 	keyWait
 		any = false
@@ -48,23 +48,22 @@ script 2 mmbn6 {
 	wait
 		frames = 30
 	"""
-	 Hmm,hmm...
-	So... you...
+	 Hmm, hmm...
+	Então... você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you can't go after
-	MegaMan...
+	não tem como ir
+	atrás do MegaMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if you don't have
-	the Mayor's
-	permission...
+	sem a permissão
+	do Prefeito...
 	"""
 	keyWait
 		any = false
@@ -77,25 +76,25 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,standing around
-	here talking isn't
-	going to help.
+	Bom, ficar aqui parado
+	conversando também
+	não vai resolver nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There were a lot of
-	people in the group
-	that took MegaMan...
+	O grupo que levou o
+	MegaMan tinha um
+	monte de gente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and MegaMan might be
-	lost in a really bad
-	place!
+	e ele pode tá perdido
+	num lugar super
+	perigoso agora!
 	"""
 	keyWait
 		any = false
@@ -108,22 +107,21 @@ script 4 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	I know...
-	Anyway,you want me
-	to get that Security
+	Eu sei... Enfim,
+	cê precisa que eu atraia
+	o Robô de Segurança
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bot away from the
-	Principal's Office
-	door?
+	pra longe da porta
+	da Diretoria, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's really easy."
+	"Mamão com açúcar."
 	keyWait
 		any = false
 	clearMsg
@@ -134,7 +132,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Really?"
+	"Sério?"
 	keyWait
 		any = false
 	clearMsg
@@ -145,19 +143,19 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Yeah!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I do anything
-	bad,they'll come
-	running!
+	É só eu aprontar alguma
+	coisa que eles vêm
+	correndo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here,watch!"
+	"Olhe e aprenda..."
 	keyWait
 		any = false
 	end
@@ -166,13 +164,13 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Now,let's see..."
+	"Tá, deixa eu ver..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hehehe,that monitor
-	looks good.
+	He he he, o monitor
+	parece uma boa.
 	"""
 	keyWait
 		any = false
@@ -183,8 +181,8 @@ script 8 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	OK,jack in,useless
-	Navi!
+	OK. Conectar,
+	seu Navi inútil!
 	"""
 	keyWait
 		any = false
@@ -197,14 +195,14 @@ script 9 mmbn6 {
 		mugshot = NormalNaviMick
 	msgOpen
 	"""
-	Hmph!
-	You'd better operate
-	well,
+	Hmpf!
+	É bom cê me
+	operar direito,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"useless operator!"
+	"operador inútil!"
 	keyWait
 		any = false
 	clearMsg
@@ -216,8 +214,8 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	H_Hey,what do you
-	think you're doing?
+	E-ei, o que é que
+	você vai fazer?
 	"""
 	keyWait
 		any = false
@@ -230,14 +228,14 @@ script 11 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Watch!
-	Now this is how you
-	get their attention!
+	Fica olhando!
+	É assim que se atrai
+	a atenção deles!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Do it,useless Navi!"
+	"Manda ver, Navi inútil!"
 	keyWait
 		any = false
 	end
@@ -251,7 +249,7 @@ script 12 mmbn6 {
 		track = 99
 	soundPlay
 		track = 410
-	"*pop,pop,pop!!*"
+	"Plec Plec Plec!!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -267,17 +265,17 @@ script 13 mmbn6 {
 	msgOpen
 	soundDisableTextSFX
 	controlLock
-	"*BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP"
+	"BIP"
 	soundPlay
 		track = 205
 	"!!*"
@@ -289,25 +287,26 @@ script 13 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	SYSTEM ERROR!!
-	FIRST FLOOR LOBBY!!
+	ERRO DE SISTEMA!!
+	ENTRADA, PRIMEIRO
+	ANDAR!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	soundDisableTextSFX
 	controlLock
-	"*BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP"
+	"BIP"
 	soundPlay
 		track = 205
 	"!!*"
@@ -319,8 +318,9 @@ script 13 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	SYSTEM ERROR!!
-	FIRST FLOOR LOBBY!!
+	ERRO DE SISTEMA!!
+	ENTRADA, PRIMEIRO
+	ANDAR!!
 	"""
 	keyWait
 		any = false
@@ -329,9 +329,9 @@ script 13 mmbn6 {
 script 14 mmbn6 {
 	msgOpen
 	"""
-	RELOCATE TO FIRST
-	FLOOR LOBBY
-	IMMEDIATELY!
+	REDIRECIONAR PARA A
+	ENTRADA NO PRIMEIRO
+	ANDAR IMEDIATAMENTE!
 	"""
 	keyWait
 		any = false
@@ -342,9 +342,9 @@ script 15 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	See! I got that
-	Security Bot to
-	move,no problem!
+	Viu?! Eu tirei o Robô
+	de Segurança de lá,
+	molezinha!
 	"""
 	keyWait
 		any = false
@@ -354,7 +354,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"M_Mick...!!"
+	"M-Mick...!!"
 	keyWait
 		any = false
 	clearMsg
@@ -366,47 +366,46 @@ script 17 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	It's sad to be alone
-	when your Navi's
-	gone...
+	É triste ficar sozinho
+	depois que o Navi vai
+	embora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and you really want
-	to do something...
-	right?
+	Cê deve querer muito
+	fazer alguma coisa... né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know how that
-	feels... 'cause I've
-	been there,too.
+	Eu sei como é...
+	porque eu também
+	passei por isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up and go find
-	Megaman!
+	Vai logo atrás
+	do MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Compared to the bad
-	feeling of losing a
-	Navi,
+	Comparado com a
+	sensação horrível
+	de perder um Navi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	getting yelled at by
-	Mr.Mach is nothing!
+	levar bronca do
+	Sr. Mach não é nada!
 	"""
 	keyWait
 		any = false

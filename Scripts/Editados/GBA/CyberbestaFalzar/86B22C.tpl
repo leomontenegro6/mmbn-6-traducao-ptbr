@@ -11,23 +11,22 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	*HUFF*
-	PHEW...
+	ARF...
+	UFA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CLEANING THE NET
-	SURE IS A TOUGH
-	JOB.
+	LIMPAR A REDE NÃO É
+	TRABALHO MOLE, NÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I MEAN,THE NET IS
-	REALLY LARGE...
+	DIGO, ELA É
+	GIGANTESCA...
 	"""
 	keyWait
 		any = false
@@ -43,24 +42,23 @@ script 1 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Something bad
-	happened in Green
-	Town recently.
+	Aconteceu um negócio
+	ruim aí no Distrito
+	Verde um dia desses.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If something like
-	that can happen
-	there,
+	Se um problema
+	pode rolar LÁ,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then it can happen
-	anywhere...
+	então nenhum
+	lugar é seguro...
 	"""
 	keyWait
 		any = false
@@ -76,24 +74,25 @@ script 2 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The Navis on the Net
-	haven't been up to
-	anything lately,but
+	Os Navis na Rede não
+	têm feito nada de
+	alarmante nem nada,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	still,it's an uneasy
-	sort of quiet...
+	mas, sei lá...
+	É uma paz meio
+	inquietante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if they can
-	really open the Expo
-	like this?
+	Será que vão mesmo
+	inaugurar a Exposição
+	com as coisas assim?
 	"""
 	keyWait
 		any = false
@@ -103,14 +102,14 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"*HUFF,HUFF...*"
+	"UFF... URF..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PLEASE DON'T...
-	... TALK... TO
-	ME... NOW...
+	POR FAVOR, NÃO...
+	... FALA... COMIGO...
+	AGORA...
 	"""
 	keyWait
 		any = false
@@ -121,31 +120,29 @@ script 6 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	What!?
-	You're going to the
-	Undernet...?
+	Quê?!
+	Cê vai pra Undernet...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't throw your
-	life away!
+	Não! Não jogue
+	sua vida fora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It doesn't matter
-	how many lives you
-	have,
+	Mesmo se você
+	tivesse mil vidas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that place will take
-	them all!
+	aquele lugar ia
+	tirar todas elas!
 	"""
 	keyWait
 		any = false
@@ -156,15 +153,15 @@ script 7 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Man,I woulda been
-	nice if I passed
+	Cara, seria tão legal se
+	eu passasse na última
+	prova de Navi Operador
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that last Operator
-	Navi test too...
+	também...
 	"""
 	keyWait
 		any = false
@@ -175,17 +172,17 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	JUST A LITTLE MORE
-	AND I'M DONE WITH
-	TODAY'S CLEANING...
+	SÓ MAIS UM POUCO
+	E EU TERMINO A
+	LIMPEZA DE HOJE...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PHEEEEW...
-	HAVE TO TAKE A
-	BREATHER!
+	UUUUUFAAA...
+	EU PRECISO
+	DE UMA PAUSA!
 	"""
 	keyWait
 		any = false
@@ -196,24 +193,23 @@ script 11 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I guess it was true
-	that the weather
-	went nuts...
+	Acho que é verdade que
+	o clima enlouqueceu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not that it affects
-	the Cyberworld,but
+	Não que isso afete
+	o mundo cibernético,
+	claro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you worry about your
-	operator,you know
-	what I mean?
+	mas dá aquela aflição
+	pelos operadores, sabe?
 	"""
 	keyWait
 		any = false
@@ -224,23 +220,22 @@ script 40 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DID YOU PARTICIPATE
-	IN THE FINAL ROUND
+	VOCÊ PARTICIPOU DA
+	RODADA FINAL DA PROVA
+	DE SELEÇÃO DE NAVI
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OF THE OPERATOR NAVI
-	SELECTION TEST?
+	OPERADOR?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT'S AWESOME THAT
-	YOU COULD GET SO
-	FAR!!
+	É FANTÁSTICO VOCÊ TER
+	CHEGADO TÃO LONGE!
 	"""
 	keyWait
 		any = false
@@ -251,31 +246,29 @@ script 41 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	I'm in love with
-	that SubChip seller
-	behind that counter!
+	Eu tô apaixonada pelo
+	vendedor de SubChips
+	atrás daquele balcão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's a bit quiet but
-	he handles work
-	really well.
+	Ele é meio caladão,
+	mas trabalha muito bem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't you think
-	that's so dreamy?
+	Você também não
+	acha ele um pão?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I'm a little
-	lost...
+	... Ai, o que eu faço...?
 	"""
 	keyWait
 		any = false
@@ -286,21 +279,17 @@ script 42 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	It's like you're not
-	allowed to be super
-	patient in this
+	É como se não desse
+	pra ser paciente neste
+	mundo em que vivemos...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"world we live in..."
-	keyWait
-		any = false
-	clearMsg
 	"""
-	You need to treasure
-	even leisurely
-	moments,like me!
+	É preciso dar valor até
+	aos momentos de ócio,
+	como eu estou fazendo!
 	"""
 	keyWait
 		any = false
@@ -323,16 +312,16 @@ script 45 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	Y_YOU'RE THE
-	OPERATOR NAVI...!
+	V-VOCÊ É O
+	NAVI OPERADOR...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'RE THE ONE IN
-	THE COMMERCIAL! WOW!
-	YOU'RE MY IDOL!
+	AQUELE DO COMERCIAL!
+	CARÁCOLES!
+	VOCÊ É O MEU ÍDOLO!
 	"""
 	keyWait
 		any = false
@@ -355,24 +344,24 @@ script 46 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	U_Um... Are you the
-	one in the Expo
-	commercial?
+	H-hum... Você é o
+	Navi daquele comercial
+	da Exposição?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought you were
-	the real deal!
+	Bem que eu achei
+	que era você mesmo!
 	Aaaah! Aaaah!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please,may I have
-	your autograph!?
+	Por favor, me dá
+	o seu autógrafo!
 	"""
 	keyWait
 		any = false
@@ -383,24 +372,24 @@ script 47 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Everyone is much too
-	excited because of
-	that commercial.
+	Tá todo mundo animado
+	demais por causa
+	daquele comercial.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People should be
-	more like me...
+	O pessoal devia
+	ser mais como eu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	calmly watching the
-	world as the days
-	go by...
+	calmamente observando
+	o mundo com o passar
+	dos dias...
 	"""
 	keyWait
 		any = false
@@ -411,16 +400,15 @@ script 50 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SOUNDS LIKE THE EXPO
-	COMMERCIAL HAS
-	STARTED!
+	PARECE QUE LANÇARAM
+	O COMERCIAL DA
+	EXPOSIÇÃO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HAVE YOU SEEN IT
-	YET?
+	VOCÊ JÁ VIU?
 	"""
 	keyWait
 		any = false
@@ -431,20 +419,20 @@ script 51 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Hey,don't you get a
-	good feeling from
-	that Navi in the
+	Ei, aquele Navi do
+	comercial da Exposição
+	não passa uma "vibe"
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Expo commercial?"
+	"super boa?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I may be
-	falling for him...
+	Ai, acho que tô
+	me apaixonando...
 	"""
 	keyWait
 		any = false
@@ -455,14 +443,14 @@ script 55 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT SEEMS LIKE SOME_
-	THING IS HAPPENING
-	IN THE REAL WORLD...
+	PARECE QUE TEM ALGUMA
+	COISA ACONTECENDO NO
+	MUNDO REAL...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'M A BIT WORRIED..."
+	"ESTOU PREOCUPADO..."
 	keyWait
 		any = false
 	end
@@ -472,9 +460,9 @@ script 56 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	It sounds like
-	something is going
-	on in some town...
+	Parece que tá rolando
+	alguma coisa em algum
+	distrito aí...
 	"""
 	keyWait
 		any = false
@@ -485,16 +473,16 @@ script 60 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT SEEMS LIKE SOME_
-	THING BIG HAPPENED
-	IN SEASIDE TOWN...
+	PARECE QUE HOUVE UMA
+	COISA DAS GRANDES NO
+	DISTRITO BEIRA-MAR...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WONDER WHAT'S
-	CAUSING THE TROUBLE?
+	O QUE SERÁ QUE ESTÁ
+	CAUSANDO O PROBLEMA?
 	"""
 	keyWait
 		any = false
@@ -505,22 +493,21 @@ script 61 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Seems like something
-	happened...though I
-	don't know where...
+	Parece que aconteceu
+	alguma coisa...
+	Só não sei onde...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard a Navi was
-	going around acting
-	crazy.
+	Pelo que eu ouvi, um
+	Navi aí ficou mó doidão.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Scary stuff..."
+	"Que medo..."
 	keyWait
 		any = false
 	end

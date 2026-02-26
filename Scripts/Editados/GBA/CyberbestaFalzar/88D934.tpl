@@ -6,17 +6,17 @@ script 0 mmbn6 {
 	soundDisableTextSFX
 	soundPlay
 		track = 205
-	"*BEEP! "
+	"BIIP! "
 	wait
 		frames = 32
 	soundPlay
 		track = 205
-	"BEEP! "
+	"BIIP! "
 	wait
 		frames = 32
 	soundPlay
 		track = 205
-	"BEEP!*"
+	"BIIP!"
 	wait
 		frames = 32
 	keyWait
@@ -24,13 +24,12 @@ script 0 mmbn6 {
 	clearMsg
 	soundEnableTextSFX
 	"""
-	A LAWBREAKER HAS
-	BEEN DISCOVERED!
+	MELIANTE DETECTADO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ARREST IMMEDIATELY!!"
+	"PRISÃO IMEDIATA!!"
 	keyWait
 		any = false
 	end
@@ -38,15 +37,14 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The culprit is
-	present!
+	O culpado está presente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The trial will
-	now begin!!
+	Daremos início
+	ao julgamento!!
 	"""
 	keyWait
 		any = false
@@ -54,35 +52,30 @@ script 1 mmbn6 {
 }
 script 2 mmbn6 {
 	msgOpen
-	"You,the defendant..."
+	"Você, o réu..."
 	keyWait
 		any = false
 	clearMsg
-	"""
-	have trampled on the
-	grass and flowers
-	
-	"""
+	"pisoteou grama e flores\n"
 	printBuffer
 		buffer = 1
 		minLength = 0
 		padZeros = false
 		padLeft = true
-	" times!!"
+	" vezたesち!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Trampling on flowers
-	is forbidden here!
+	Pisar nas flores
+	é proibido aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Retracing your
-	steps" is a very
-	serious crime!!
+	"Voltar atrás" é um
+	crime gravíssimo!!
 	"""
 	keyWait
 		any = false
@@ -96,14 +89,13 @@ script 2 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	" I have decided!"
+	" Tomei minha decisão!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The offender will
-	be punished by the
-	Big Gavel!!
+	O infrator será punido
+	pelo Grande Martelo!!
 	"""
 	keyWait
 		any = false
@@ -112,9 +104,9 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	You will be bopped
-	on the head in a
-	detention cell!
+	Você será levado a
+	uma cela de punição e
+	marretado na cabeça!
 	"""
 	keyWait
 		any = false
@@ -124,7 +116,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are you OK,MegaMan!?"
+	"Você tá legal, MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -136,16 +128,16 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Y_Yeah...
-	more or less...
+	T-tô...
+	mais ou menos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't worry about
-	me! We've gotta keep
-	on moving forward!!
+	Não esquenta comigo!
+	A gente tem que continuar
+	avançando!!
 	"""
 	keyWait
 		any = false
@@ -154,8 +146,8 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	The security door
-	has been unlocked!!
+	A porta de segurança
+	se abriu!!
 	"""
 	keyWait
 		any = false

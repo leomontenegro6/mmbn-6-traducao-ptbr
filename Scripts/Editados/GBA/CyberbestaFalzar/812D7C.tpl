@@ -4,31 +4,32 @@
 script 0 mmbn6 {
 	msgOpenMenu
 	"""
-	You found
-	damaged Chip Data!
+	Você encontrou
+	dados de chip
+	danificados!
 	"""
 	waitHold
 }
 script 1 mmbn6 {
 	msgOpenMenu
-	"Not enough capacity."
+	"Capacidade insuficiente."
 	keyWait
 		any = false
 	end
 }
 script 2 mmbn6 {
 	msgOpenMenu
-	"You don't have\n"
+	"Não tem nenhum chip\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" chips yet!"
+	" ainda!"
 	keyWait
 		any = false
 	clearMsg
-	"Quit?\n"
+	"Sair?\n"
 	soundDisableChoiceSFX
 	positionOptionHorizontal
 		width = 8
@@ -40,7 +41,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -49,7 +50,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -65,8 +66,8 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpenMenu
 	"""
-	The total capacity
-	for this chip is 
+	A capacidade total
+	desse chip é 
 	
 	"""
 	printBuffer
@@ -82,9 +83,8 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpenMenu
 	"""
-	You can only use
-	1 of the same
-	MegaChip.
+	Só se pode portar
+	1 de cada MegaChip.
 	"""
 	keyWait
 		any = false
@@ -93,9 +93,8 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpenMenu
 	"""
-	You can only use
-	1 of the same
-	GigaChip.
+	Só se pode portar
+	1 de cada GigaChip.
 	"""
 	keyWait
 		any = false
@@ -103,7 +102,7 @@ script 5 mmbn6 {
 }
 script 6 mmbn6 {
 	msgOpenMenu
-	"You can use only\n"
+	"Só pode portar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -116,7 +115,7 @@ script 6 mmbn6 {
 }
 script 7 mmbn6 {
 	msgOpenMenu
-	"You can use only\n"
+	"Só pode portar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -130,9 +129,8 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpenMenu
 	"""
-	You can use only
-	1 of the same
-	DarkChip.
+	Você só pode portar
+	1 de cada ChipTrev.
 	"""
 	keyWait
 		any = false
@@ -140,13 +138,13 @@ script 8 mmbn6 {
 }
 script 9 mmbn6 {
 	msgOpenMenu
-	"You can use only\n"
+	"Só pode portar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" DarkChips."
+	" ChipTrevs."
 	keyWait
 		any = false
 	end
@@ -165,8 +163,8 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	msgOpenMenu
 	"""
-	Choose a second
-	chip.
+	Selecione um
+	segundo chip.
 	"""
 	keyWait
 		any = false
@@ -175,8 +173,8 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	msgOpenMenu
 	"""
-	Current TagChip
-	cancelled.
+	ChipPar atual
+	cancelado.
 	"""
 	keyWait
 		any = false
@@ -187,9 +185,8 @@ script 13 mmbn6 {
 script 14 mmbn6 {
 	msgOpenMenu
 	"""
-	Chip has already
-	been chosen
-	as a TagChip.
+	Chip já foi escolhido
+	como ChipPar.
 	"""
 	keyWait
 		any = false
@@ -198,9 +195,8 @@ script 14 mmbn6 {
 script 15 mmbn6 {
 	msgOpenMenu
 	"""
-	Chip has already
-	been chosen
-	as a RegularChip.
+	Chip já foi escolhido
+	como Chip Padrão.
 	"""
 	keyWait
 		any = false
@@ -223,8 +219,8 @@ script 18 mmbn6 {
 }
 script 19 mmbn6 {
 	"""
-	Choose the first
-	chip.
+	Selecione o
+	primeiro chip.
 	"""
 	keyWait
 		any = false
@@ -237,9 +233,8 @@ script 20 mmbn6 {
 }
 script 21 mmbn6 {
 	"""
-	Choose a chip to
-	use as a Regular
-	Chip.
+	Escolha um chip para
+	ser Chip Padrão.
 	"""
 	keyWait
 		any = false
@@ -249,7 +244,7 @@ script 22 mmbn6 {
 	msgOpenMenu
 	textSpeed
 		delay = 0
-	"What will you do?\n"
+	"O que vai fazer?\n"
 	positionOptionVertical
 		width = 9
 	option
@@ -260,7 +255,7 @@ script 22 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Choose Regular Chip\n"
+	"Escolher Chip Padrão\n"
 	soundDisableChoiceSFX
 	select
 		default = 0
@@ -279,7 +274,7 @@ script 23 mmbn6 {
 	msgOpenMenu
 	textSpeed
 		delay = 0
-	"What will you do?\n"
+	"O que vai fazer?\n"
 	positionOptionHorizontal
 		width = 12
 	option
@@ -290,7 +285,7 @@ script 23 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"Battle  "
+	"Lutar  "
 	option
 		brackets = 0
 		left = 0
@@ -299,7 +294,7 @@ script 23 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Change Rank\n"
+	" Mudar Ranque\n"
 	positionOptionHorizontal
 		width = 12
 	option
@@ -310,7 +305,7 @@ script 23 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Reg,TagChip Setting"
+	"Confg. Chip Padrão, Par"
 	select
 		default = 0
 		BSeparate = true
@@ -326,14 +321,14 @@ script 23 mmbn6 {
 }
 script 24 mmbn6 {
 	msgOpenMenu
-	"Waiting for orders."
+	"Aguardando ordens."
 	waitHold
 }
 script 25 mmbn6 {
 	msgOpenMenu
 	"""
-	Finished setting up
-	Regular Chip.
+	Concluída a configuração
+	de Chip Padrão.
 	"""
 	keyWait
 		any = false
@@ -342,8 +337,8 @@ script 25 mmbn6 {
 script 26 mmbn6 {
 	msgOpenMenu
 	"""
-	Finished setting up
-	the TagChip.
+	Concluída a configuração
+	de ChipPar.
 	"""
 	keyWait
 		any = false
@@ -353,7 +348,7 @@ script 27 mmbn6 {
 	msgOpenMenu
 	textSpeed
 		delay = 0
-	"What will you do?\n"
+	"O que vai fazer?\n"
 	positionOptionVertical
 		width = 9
 	option
@@ -364,7 +359,7 @@ script 27 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"Choose Regular Chip\n"
+	"Escolher Chip Padrão\n"
 	positionOptionVertical
 		width = 9
 	option
@@ -375,7 +370,7 @@ script 27 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Choose TagChip"
+	"Escolher ChipPar"
 	soundDisableChoiceSFX
 	select
 		default = 0
@@ -393,15 +388,15 @@ script 27 mmbn6 {
 }
 script 28 mmbn6 {
 	msgOpenMenu
-	"You can only install\n"
+	"Você só pode instalar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
 	"""
-	 of the same
-	0と19MB Chip.
+	 do mesmo
+	chip de 0と19MB.
 	"""
 	keyWait
 		any = false
@@ -409,15 +404,15 @@ script 28 mmbn6 {
 }
 script 29 mmbn6 {
 	msgOpenMenu
-	"You can only install\n"
+	"Você só pode instalar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
 	"""
-	 of the same
-	20と29MB Chip.
+	 do mesmo
+	chip de 20と29MB.
 	"""
 	keyWait
 		any = false
@@ -425,15 +420,15 @@ script 29 mmbn6 {
 }
 script 30 mmbn6 {
 	msgOpenMenu
-	"You can only install\n"
+	"Você só pode instalar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
 	"""
-	 of the same
-	30と39MB Chip.
+	 do mesmo
+	chip de 30と39MB.
 	"""
 	keyWait
 		any = false
@@ -441,15 +436,15 @@ script 30 mmbn6 {
 }
 script 31 mmbn6 {
 	msgOpenMenu
-	"You can only install\n"
+	"Você só pode instalar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
 	"""
-	 of the same
-	40と49MB Chip.
+	 do mesmo
+	chip de 40と49MB.
 	"""
 	keyWait
 		any = false
@@ -457,15 +452,15 @@ script 31 mmbn6 {
 }
 script 32 mmbn6 {
 	msgOpenMenu
-	"You can only install\n"
+	"Você só pode instalar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
 	"""
-	 of the same
-	50MB+ Chip.
+	 do mesmo
+	chip de 50MB+.
 	"""
 	keyWait
 		any = false
@@ -474,8 +469,8 @@ script 32 mmbn6 {
 script 33 mmbn6 {
 	msgOpenMenu
 	"""
-	Regular Chip
-	settings released.
+	Configurações de
+	Chip Padrão liberadas.
 	"""
 	keyWait
 		any = false

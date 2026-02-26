@@ -5,34 +5,34 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Yuika
 	msgOpen
-	"Tee,hee..."
+	"Hi hi..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Iris,was it?
-	Isn't she cute,
-	Baryl?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I don't know how you
-	know each other,but
+	"Iris", é?
+	Ela não é uma
+	graça, Baryl?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you don't look
-	like the invincible
-	Baryl now!
+	Eu não sei de onde
+	vocês se conhecem,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Tee,hee!!"
+	"""
+	mas, agora, você tá
+	longe de parecer tão
+	invencível como sempre!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Hi hi hi!!"
 	keyWait
 		any = false
 	clearMsg
@@ -43,7 +43,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"... I_Iris..."
+	"... I-Iris..."
 	keyWait
 		any = false
 	clearMsg
@@ -55,40 +55,40 @@ script 2 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Heh,heh,heh!
-	Don't worry,Baryl.
+	He he he!
+	Não esquenta, Baryl.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She's just taking a
-	nap... You know,like
-	a sleeping beauty.
+	Ela só tá cochilando...
+	Que nem a Bela
+	Adormecida.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I never thought I'd
-	see the day when
-	you're so helpless.
+	Nunca achei que,
+	um dia, eu ia te ver
+	tão encurralado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Until now,you've
-	been pretty snobby,
-	ordering us around.
+	Até hoje, você era
+	todo convencido,
+	mandando na gente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hate it when
-	people tell me what
-	to do!
+	E eu ODEIO quando
+	os outros me falam
+	o que fazer!
 	"""
 	keyWait
 		any = false
@@ -101,23 +101,22 @@ script 3 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	Don't think ill
-	of us,Baryl.
+	Tente não levar para
+	o lado pessoal, Baryl.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I had to think
-	things through many
-	times,but
+	Eu precisei repensar
+	tudo várias e várias
+	vezes, mas, no final,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in the end,I chose
-	to go with them.
+	escolhi ir com eles.
 	"""
 	keyWait
 		any = false
@@ -130,25 +129,24 @@ script 4 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	No offense,but
-	if we let you go
-	back to Dr.Wily,
+	Sem ofensa, mas, se
+	a gente te deixar
+	voltar pro Dr. Wily,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then you'd tell him
-	we're coming for his
-	precious Cybeast.
+	você vai contar que a
+	gente pretende roubar a
+	Cyberbesta querida dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You guys! Throw
-	Baryl into the
-	sea!
+	Rapazes!
+	Joguem o Baryl no mar!
 	"""
 	keyWait
 		any = false
@@ -159,7 +157,7 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Wait!!"
+	"Espera!!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -171,8 +169,7 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let Iris and Baryl
-	go!!
+	Soltem a Iris e o Baryl!!
 	"""
 	keyWait
 		any = false
@@ -184,7 +181,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"L_Lan... Hikari..."
+	"L-Lan... Hikari..."
 	keyWait
 		any = false
 	clearMsg
@@ -196,49 +193,47 @@ script 8 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	*snicker,snicker...*
-	What a persistent
-	little brat.
+	Ha ha ha ha...
+	Ai, que pirralho
+	mais teimoso, viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stop where you are!
-	Don't take another
-	step!
+	Paradinho aí!
+	Nem mais um passo,
+	mocinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get any closer,and
-	your girlfriend goes
-	bye bye into the sea!
+	Senão, a sua namoradinha
+	vai dar uma nadadinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The sea here is real
-	famous for its high
-	tides.
+	E, só pra constar, esta
+	parte do oceano é famosa
+	por sua maré violenta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what would
-	happen to her if she
-	fell in...?
+	O que será que seria
+	dela se ela caísse...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tee,hee,hee!!
-	You get the picture,
-	don't you?
+	Hi hi hi!!
+	Acho que já deu pra
+	pegar a indireta, né?
 	"""
 	keyWait
 		any = false
@@ -262,9 +257,9 @@ script 10 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	What are you waiting
-	for!? Hurry up and
-	throw Baryl in!!
+	E aí, tão esperando
+	o quê?! Joguem logo
+	o Baryl na água!!
 	"""
 	keyWait
 		any = false
@@ -279,8 +274,7 @@ script 11 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Alright,alright,
-	I got it!
+	Tá bom, tá bom, já vai!
 	"""
 	keyWait
 		any = false
@@ -293,9 +287,9 @@ script 12 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	I don't dirty my
-	hands in this sort
-	of thing usually...
+	Não sou muito de manchar
+	as mãos com esse tipo de
+	coisa, mas...
 	"""
 	keyWait
 		any = false
@@ -305,13 +299,13 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Stoooooop!!"
+	"Paaaaaraaaaa!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone... Please
-	help Baryl...
+	Alguém... Por favor,
+	salva o Baryl...
 	"""
 	keyWait
 		any = false
@@ -324,17 +318,15 @@ script 14 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	You're so silly.
-	There's no one
-	around!
+	Bobinho.
+	Não tem ninguém aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No one is going to
-	come help you this
-	time!
+	Ninguém vai vir
+	te ajudar agora!
 	"""
 	keyWait
 		any = false
@@ -346,15 +338,15 @@ script 15 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	And sometimes,
-	someone does come!!
+	Às vezes...
+	vem alguém, sim!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	soundPlayBGM
 		track = 99
-	"Mmph!!"
+	"Mmpf!!"
 	keyWait
 		any = false
 	end
@@ -363,7 +355,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mr.Mach!!"
+	"Sr. Mach!!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -375,8 +367,9 @@ script 17 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	You still treat
-	me like a teacher...
+	He... Ainda me chama
+	de "senhor", como um
+	professor...
 	"""
 	keyWait
 		any = false
@@ -389,8 +382,8 @@ script 18 mmbn6 {
 		mugshot = Yuika
 	msgOpen
 	"""
-	It's the traitor.
-	What do you want!?
+	Olha o traidor aí.
+	O que você quer?!
 	"""
 	keyWait
 		any = false
@@ -403,25 +396,24 @@ script 19 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Traitor? Which one
-	of us is the real
-	traitor?
+	Traidor? Quem aqui é
+	traidor de verdade?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And what's this?
-	There's only 3 of
-	you!
+	Ah, e quem diria...
+	Só tem três de vocês,
+	desta vez!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess failures are
-	destined to continue
-	to fail.
+	Acho que não dá mesmo
+	pra tirar o fracasso
+	dos fracassados.
 	"""
 	keyWait
 		any = false
@@ -434,17 +426,17 @@ script 21 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	You're one annoying
-	loudmouth,popping up
-	from out of nowhere!
+	Hmpf, um tagarela
+	pé-rapado brotou do
+	nada pra infernizar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll throw you into
-	the ocean along with
-	Baryl!!
+	Pois você vai virar
+	comida de peixe junto
+	com o Baryl!!
 	"""
 	keyWait
 		any = false
@@ -457,8 +449,7 @@ script 22 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	You've already
-	forgotten...?
+	Já esqueceram...?
 	"""
 	keyWait
 		any = false
@@ -470,12 +461,12 @@ script 23 mmbn6 {
 	controlLock
 	soundPlay
 		track = 376
-	"*crash!! "
+	"Soc!! "
 	wait
 		frames = 15
 	soundPlay
 		track = 377
-	"bonk!!*"
+	"Pahsh!!"
 	wait
 		frames = 15
 	soundEnableTextSFX
@@ -489,9 +480,8 @@ script 24 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	I was always the
-	strongest out of
-	all of us!
+	Eu sempre foi o mais
+	forte de todos nós!
 	"""
 	keyWait
 		any = false
@@ -502,17 +492,15 @@ script 25 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	... Yuika,hand Baryl
-	and the girl over to
-	me now.
+	... Yuika, passe o Baryl
+	e a menina pra cá, agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't want any_
-	thing bad to happen
-	to that girl...
+	Eu não quero que nada de
+	mau aconteça com ela...
 	"""
 	keyWait
 		any = false
@@ -526,7 +514,7 @@ script 26 mmbn6 {
 	msgOpen
 	"""
 	Grrrr!
-	I'll remember this!
+	Isso vai ter volta!
 	"""
 	keyWait
 		any = false
@@ -539,9 +527,7 @@ script 27 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	And I'm sure those
-	two over there will,
-	too.
+	Diz isso pra esses dois.
 	"""
 	keyWait
 		any = false
@@ -553,7 +539,7 @@ script 28 mmbn6 {
 	mugshotShow
 		mugshot = Yuika
 	msgOpen
-	"Tsk!!"
+	"Tsc!!"
 	keyWait
 		any = false
 	soundFadeOut
@@ -565,7 +551,7 @@ script 29 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"M_Mr.Mach..."
+	"S-Sr. Mach..."
 	keyWait
 		any = false
 	clearMsg
@@ -579,32 +565,31 @@ script 30 mmbn6 {
 	soundPlayBGM
 		track = 13
 	"""
-	Mr.Mach,huh? I'm
-	glad you still think
-	of me as a teacher,
+	"Sr. Mach", é?
+	Que bom que você ainda
+	me vê como professor,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but Lan,I don't
-	deserve to be
-	treated like that.
+	mas eu não mereço ser
+	tratado assim, Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As long as I'm a
-	member of WWW,
+	Enquanto eu for
+	membro da WWW,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm just a horrible
-	man who tricks his
-	students...
+	sou só um crápula
+	que engana os
+	próprios alunos...
 	"""
 	keyWait
 		any = false
@@ -617,24 +602,22 @@ script 31 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But you're not
-	really evil in your
-	heart!
+	Mas você não é mau,
+	lá no fundo do coração!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I sorta
-	understand...
+	Eu acho que entendo,
+	mais ou menos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have a reason,so
-	that's why you're
-	doing this,right?
+	Você tem um motivo pra
+	tá fazendo isso, né?
 	"""
 	keyWait
 		any = false
@@ -650,60 +633,59 @@ script 32 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
-	 My daughter was
-	born with a bad
-	illness,
+	A minha filha nasceu
+	com uma doença grave
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and she needed a
-	very big operation
-	or she would die.
+	e precisava de uma
+	operação complicada,
+	senão morreria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But that operation
-	was very expensive,
-	so we didn't do it.
+	Mas a operação era
+	muito cara, então
+	não era uma opção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just as the illness
-	seemed to be
-	subsiding,she
+	Mas, justo quando
+	parecia que a doença
+	estava passando,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	suddenly fell very
-	ill again,and needed
-	the operation...
+	ela teve uma recaída
+	feia e a operação se
+	tornou vital...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Around that time,a
-	man came and paid
-	for the operation.
+	Foi então que um
+	certo homem pagou
+	pela operação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That man was
-	Dr.Wily.
+	... Esse homem
+	era o Dr. Wily.
 	"""
 	keyWait
 		any = false
@@ -721,13 +703,13 @@ script 33 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
-	 So he made you
-	join WWW for the
-	operation...
+	Então ele fez você
+	entrar pra WWW em
+	troca da operação...
 	"""
 	keyWait
 		any = false
@@ -735,96 +717,95 @@ script 33 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	"""
-	... Yes,and while I
-	was a teacher at
-	Cyber Academy,
+	... Sim, e, enquanto
+	que lecionava na
+	Escola Saibher,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I spied on Cain,
-	and reported every_
-	thing to Dr.Wily.
+	eu espionei o Cain e
+	relatei tudo ao Dr. Wily.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Mayor Cain?"
+	"O Prefeito Cain?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrMach
 	"""
-	Cain and Dr.Wily
-	were working
-	together.
+	O Cain e o Dr. Wily
+	estavam trabalhando
+	juntos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You knew that,
-	didn't you?
+	Mas acho que você
+	já sabe disso, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I was spying on
-	Cain because he
-	couldn't be trusted.
+	Eu estava espionando
+	o Cain porque ele era
+	traiçoeiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On your first day of
-	school,that incident
-	with BlastMan...
+	No seu primeiro dia de
+	aula, aquele incidente
+	com o BlastMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That was because I
-	was trying to hack
-	Cain's computer.
+	Aconteceu porque eu
+	estava tentando hackear
+	o computador do Cain.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I failed because
-	you stopped
+	Mas minha missão falhou
+	porque você deteve o
 	BlastMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now that I think
-	about it,maybe it
-	was a good thing...
+	Mas, parando pra pensar
+	agora, talvez tenha sido
+	uma coisa boa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you hadn't
-	defeated BlastMan
-	then,
+	Se você não tivesse
+	vencido o BlastMan
+	naquela ocasião,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	all of my beloved
-	students could've
-	lost their lives...
+	todos os meus queridos
+	alunos podiam ter
+	perdido as vidas...
 	"""
 	keyWait
 		any = false
@@ -843,9 +824,9 @@ script 34 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Anyway,no reason can
-	erase all the things
-	I've done.
+	Enfim, nenhuma explicação
+	pode apagar as coisas
+	que eu fiz.
 	"""
 	keyWait
 		any = false
@@ -858,14 +839,14 @@ script 35 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Why don't you and
-	Baryl join me and
-	fight Dr.Wily?
+	Por que você e o Baryl
+	não vêm comigo enfrentar
+	o Dr. Wily?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's not too late!"
+	"Não é tarde demais!"
 	keyWait
 		any = false
 	clearMsg
@@ -877,50 +858,51 @@ script 36 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	I'm sorry...
-	I can't join you...
+	Desculpa...
+	Não posso me
+	unir a você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What WWW did is
-	the only reason she
-	is alive now.
+	Foi só graças ao
+	que a WWW fez que
+	ela está viva agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WWW is a criminal
-	organization,yes...
+	A WWW é uma organização
+	criminosa, sim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but to me,it is my
-	daughter's savior.
+	mas, para mim, é a
+	salvadora da minha filha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I have to think
-	about Baryl...
+	E eu tenho que
+	pensar no Baryl...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Baryl...?"
+	"No Baryl...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How do you know
-	Baryl,Mr.Mach?
+	O que você sabe sobre
+	o Baryl, Sr. Mach?
 	"""
 	keyWait
 		any = false
@@ -928,140 +910,137 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	"""
-	When I was a college
-	student,
+	Nos meus dias
+	de faculdade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I stayed in Netopia
-	for a while to learn
-	Karate...
+	eu passei um tempo
+	na Ameropa aprendendo
+	karatê...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was looking for
-	strong people to
-	fight,and I found
+	Eu estava atrás de
+	pessoas fortes para
+	enfrentar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Netopia team
-	captain,and I fought
-	him one on one.
+	e achei o capitão
+	do time da Ameropa.
+	Lutamos mano-a-mano.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought I was
-	great,being my
-	college's champion,
+	Eu me achava tão
+	forte, sendo o campeão
+	da minha faculdade,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"but I was beaten..."
+	"mas perdi feio..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... It was so
-	embarrassing.
+	... Foi tão humilhante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"That person..."
+	"Esse homem..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrMach
-	"Yes,that was Baryl."
+	"Sim, era o Baryl."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After the fight,I
-	asked him for a
-	favor.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I asked to train
-	under him for a
-	whole year.
+	Depois da luta, eu
+	pedi um favor dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I didn't want
-	to learn only about
-	how to fight.
+	Pedi que ele aceitasse
+	me treinar por um ano
+	inteiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wanted to learn
-	how to have faith
-	in myself,in life.
+	Mas eu não queria só
+	aprender a lutar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's what I really
-	wanted to learn,and
-	he took me in...
+	Queria aprender a
+	ter fé em mim mesmo,
+	na vida como um todo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're close in age,
-	and that's why Baryl
-	gained my trust.
+	Era isso o que eu
+	realmente queria
+	aprender, e ele aceitou...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that's why I
-	believe in him now,
+	Temos quase a mesma
+	idade. Por isso, o Baryl
+	conquistou minha confiança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and why I can't
-	betray him...
+	E é por isso que eu
+	acredito nele agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure Baryl has
-	his own reasons for
-	joining WWW...
+	e por isso não
+	posso traí-lo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but he just can't
-	tell me...
+	Estou certo de que ele
+	tem seus próprios motivos
+	pra entrar pra WWW...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	mas ele nunca me
+	contou eles...
 	"""
 	keyWait
 		any = false
@@ -1073,13 +1052,12 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mr.Mach..."
+	"Sr. Mach..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What will you
-	do now?
+	O que vai fazer agora?
 	"""
 	keyWait
 		any = false
@@ -1092,24 +1070,24 @@ script 38 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	I wanted to be with
-	everyone at
-	graduation,but...
+	Eu queria muito estar
+	lá pra ver todos vocês
+	se formando, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No,I knew it would
-	turn out like this
-	after I joined WWW.
+	Não, eu sabia que
+	acabaria assim logo
+	que entrei na WWW.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I probably won't see
-	you ever again...
+	Provavelmente nós nunca
+	mais nos veremos...
 	"""
 	keyWait
 		any = false
@@ -1122,8 +1100,8 @@ script 39 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mr.Mach!
-	Don't go!!
+	Sr. Mach!
+	Não vá!!
 	"""
 	keyWait
 		any = false
@@ -1134,8 +1112,8 @@ script 40 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Take care,my beloved
-	student...
+	Se cuide, meu
+	querido aluno...
 	"""
 	keyWait
 		any = false
@@ -1147,24 +1125,24 @@ script 40 mmbn6 {
 script 41 mmbn6 {
 	msgOpen
 	"""
-	And then Mr.Mach and
-	Baryl left...
+	Daí, o Sr. Mach e
+	o Baryl foram embora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe if I were a
-	little older,I could
-	have done something,
+	Talvez eu pudesse fazer
+	alguma coisa se fosse um
+	pouquinho mais velho,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but as a kid,all I
-	could do was say
-	good_bye...
+	mas, como criança,
+	só o que eu pude fazer
+	foi me despedir...
 	"""
 	keyWait
 		any = false

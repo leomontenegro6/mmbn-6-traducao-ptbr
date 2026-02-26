@@ -5,22 +5,22 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Yes..."
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This pavilion makes
-	you think about the
-	environment.
+	Este pavilhão faz
+	mesmo a gente pensar
+	no meio ambiente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's our duty to
-	protect nature for
-	future generations.
+	É o nosso dever cuidar
+	da natureza pras
+	futuras gerações.
 	"""
 	keyWait
 		any = false
@@ -28,14 +28,14 @@ script 0 mmbn6 {
 }
 script 10 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -50,8 +50,8 @@ script 11 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Don't like it here!?
-	Too bad!!
+	Não me quer aqui, não?!
+	Problema seu!!
 	"""
 	keyWait
 		any = false

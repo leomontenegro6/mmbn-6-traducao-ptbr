@@ -4,9 +4,9 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	The water leak has
-	made a mess,so you
-	can't go forward...
+	Devido ao estrago
+	causado pelo vazamento,
+	não dá para passar...
 	"""
 	keyWait
 		any = false
@@ -21,16 +21,15 @@ script 1 mmbn6 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	There is a cybertree
-	in the way.
+	Uma cyberárvore
+	barra o caminho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a very strong
-	tree,so it won't be
-	easy to cut it down.
+	É bem grossa, então
+	não será fácil de cortar.
 	"""
 	keyWait
 		any = false
@@ -45,9 +44,8 @@ script 2 mmbn6 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	There is a cloud
-	floating in the
-	way...
+	Uma nuvem barra
+	o caminho...
 	"""
 	keyWait
 		any = false
@@ -65,15 +63,15 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	CentralArea3 on it.
+	Nele, há um mapa
+	da Área Central 3.
 	"""
 	keyWait
 		any = false
@@ -84,28 +82,29 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	You always thought
-	it was a Navi,but
-	it's really just
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"a papier mache."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Even if it were a
-	Navi,
+	Você sempre achou
+	que fosse um Navi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	watching over this
-	area 24 hours a day
-	would not be easy!
+	mas, na verdade,
+	é papel machê.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mesmo se fosse um Navi,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	vigiar esta área
+	24 horas por dia
+	não seria nada fácil!
 	"""
 	keyWait
 		any = false
@@ -124,141 +123,141 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	Long ago,there were
-	2 beasts with great
-	powers on the Net...
+	Muito tempo atrás, duas
+	feras de enorme poder
+	habitavam a Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These 2 beasts were
-	not friendly to
-	each other,rather
+	Essas feras não
+	tinham grande apreço
+	uma pela outra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they fought each
-	other again and
-	again.
+	Pelo contrário:
+	elas se degladiaram
+	diversas vezes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They fought fiercely
-	and greatly changed
-	the face of the Net.
+	Lutavam com ardor,
+	alterando imensamente
+	a face da Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People feared these
-	2 beasts and called
-	them...
+	As pessoas temiam
+	essas duas feras,
+	e as intitularam de...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Cybeasts..."
+	"Cyberbestas."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One of the Cybeasts
-	was shaped like a
-	great wolf...
+	Uma das Cyberbestas
+	tem a forma de um
+	grande lobo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Cybeast Gregar."
+	"... A Cyberbesta Gregar."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Its roar was enough
-	to cause the whole
-	Net to shake,and
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	it devoured many
-	Navis with its sharp
-	fangs...
+	Seu mero rugido
+	era suficiente para
+	estremecer toda a Rede,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The other Cybeast
-	was a giant bird_
-	like beast...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"... Cybeast Falzar."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	With its huge wings,
-	it scattered objects
-	all over the Net,and
+	e ele devorava múltiplos
+	Navis de uma só vez com
+	suas presas afiadas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with its razor_sharp
-	claws,it shredded
-	many programs...
+	A outra Cyberbesta
+	era uma fera gigantesca
+	semelhante a uma ave...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"... A Cyberbesta Falzar."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Com suas enormes asas,
+	ele espalhava objetos
+	por toda a Rede,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is where the 2
-	Cybeasts' reign of
-	terror ended __
+	e, com suas garras
+	lacerantes, triturava
+	diversos programas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	where they fought
-	each other to the
-	end...
+	Foi aqui que o reinado
+	de terror das duas
+	Cyberbestas terminou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The chasm in this
-	area was born from
-	their clash,and
+	Aqui, elas lutaram
+	uma contra a outra
+	até o fim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the bottom of this
-	pit is known as the
-	Underground.
+	O abismo nesta área
+	se originou do
+	confronto delas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is said that even
-	now,the Cybeasts are
-	sleeping there...
+	e o fundo desse
+	fosso é conhecido
+	como o SubSolo.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Diz-se que, mesmo
+	agora, as Cyberbestas
+	repousam lá...
 	"""
 	keyWait
 		any = false
@@ -270,11 +269,11 @@ script 8 mmbn6 {
 		jumpIfTrue = 10
 		jumpIfFalse = continue
 	msgOpen
-	"A cyberpipe..."
+	"Um cybercano..."
 	keyWait
 		any = false
 	clearMsg
-	"and it's leaking..."
+	"E está vazando..."
 	keyWait
 		any = false
 	end
@@ -282,17 +281,17 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	The darkness won't
-	budge,even with your
-	strongest attacks.
+	As trevas não
+	diminuem, nem com os
+	seus ataques mais fortes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe the
-	EvilSpirits are
-	related somehow...
+	Talvez isso tenha
+	alguma relação com
+	os Espíritos Malignos...
 	"""
 	keyWait
 		any = false
@@ -300,20 +299,20 @@ script 9 mmbn6 {
 }
 script 10 mmbn6 {
 	msgOpen
-	"It's a cyberpipe."
+	"É um cybercano."
 	keyWait
 		any = false
 	end
 }
 script 11 mmbn6 {
 	msgOpen
-	"The "
+	"O "
 	printItem
 		buffer = 0
 		item = 28
 	"""
-	 sucked
-	the cloud up!!
+	 aspira
+	a nuvem!!
 	"""
 	keyWait
 		any = false
@@ -322,7 +321,7 @@ script 11 mmbn6 {
 	controlLock
 	soundPlay
 		track = 173
-	"*vrooooom!!*"
+	"Fuuuuu!!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -338,7 +337,7 @@ script 11 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Alright!"
+	"Legal!"
 	keyWait
 		any = false
 	end
@@ -360,9 +359,9 @@ script 12 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Choo,choo! We'll be
-	departing shortly.
-	Are you ready?
+	Tchú, tchúú!
+	Estamos para partir.
+	Você está pronto?
 	"""
 	keyWait
 		any = false
@@ -378,7 +377,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -387,7 +386,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -407,9 +406,8 @@ script 13 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	We'll be departing
-	as soon as you're
-	ready!
+	Assim que você estiver
+	pronto, partiremos!
 	"""
 	keyWait
 		any = false
@@ -420,9 +418,8 @@ script 14 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Jack me out,Lan! The
-	final exam is next
-	on the schedule!
+	Me desconecta, Lan!
+	A seguir, a prova final!
 	"""
 	keyWait
 		any = false
@@ -433,16 +430,15 @@ script 15 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	We don't need to be
-	at this station,yet!
+	Não precisamos vir
+	nesta estação por ora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should go to the
-	Undernet2 station
-	first!
+	Vamos à estação da
+	Undernet 2 primeiro!
 	"""
 	keyWait
 		any = false
@@ -453,16 +449,15 @@ script 16 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	We don't need to be
-	at this station,yet!
+	Não precisamos vir
+	nesta estação por ora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should go to the
-	Sky Area2 station
-	first!
+	Vamos à estação da
+	Área Céu 2 primeiro!
 	"""
 	keyWait
 		any = false
@@ -472,7 +467,7 @@ script 17 mmbn6 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 used:
+	 usou:
 	"
 	"""
 	printItem
@@ -486,24 +481,24 @@ script 17 mmbn6 {
 	controlLock
 	soundPlay
 		track = 392
-	"*chop! "
+	"Tchoc! "
 	wait
 		frames = 60
 	soundPlay
 		track = 392
-	"chop! "
+	"Tchoc! "
 	wait
 		frames = 60
 	soundPlay
 		track = 392
-	"chop!*"
+	"Tchoc!"
 	wait
 		frames = 80
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 229
-	"*KA_CHOP!!* "
+	"TCHOOOINC!!"
 	wait
 		frames = 60
 	soundEnableTextSFX

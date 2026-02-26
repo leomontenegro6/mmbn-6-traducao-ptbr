@@ -16,31 +16,32 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	*STARE,STARE...*
-	HMM,YOU LOOK OK...
+	HMMM...
+	É, PARECE QUE
+	VOCÊ ESTÁ LIMPO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE NETPOLICE HAVE
-	BEEN TELLING PEOPLE
-	LATELY TO REPORT ANY
+	A NETPOLÍCIA TÊM
+	MANDADO TODOS
+	DENUNCIAREM QUALQUER
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SUSPICIOUS_LOOKING
-	PEOPLE.
+	PESSOA DE APARÊNCIA
+	SUSPEITA QUE VIREM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M JUST DOING MY
-	JOB,SO PLEASE
-	UNDERSTAND.
+	SÓ ESTOU FAZENDO O
+	MEU TRABALHO. PEÇO
+	SUA COMPREENSÃO.
 	"""
 	keyWait
 		any = false
@@ -51,25 +52,23 @@ script 1 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	What is up with that
-	Mr.Prog at the
-	entrance getting up
+	Qual é a do Prog na
+	entrada, invadindo o
+	espaço pessoal dos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in people's faces
-	and staring at them
-	like that!?
+	dos outros, encarando
+	todo mundo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He needs to stop.
-	It gives me the
-	creeps!
+	Ele que pare com isso.
+	Me dá arrepios!
 	"""
 	keyWait
 		any = false
@@ -79,7 +78,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"*STARE,STARE...*"
+	"HMMMMMMMMMMM..."
 	keyWait
 		any = false
 	end
@@ -89,17 +88,16 @@ script 6 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	That Mr.Prog
-	standing at the
-	entrance
+	Aquele Prog da entrada
+	me dá arrepios.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	freaks me out with
-	his in_your_face
-	staring!
+	Aquela encarada dele...
+	Parece até que olha a
+	nossa alma!
 	"""
 	keyWait
 		any = false
@@ -110,8 +108,8 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	*STARE... STARE...*
-	*STARE...*
+	HMMMM... HMMMMM...
+	HMMMMMMMM...
 	"""
 	keyWait
 		any = false
@@ -122,16 +120,16 @@ script 11 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	The way that Mr.Prog
-	stares at my face...
+	O jeito como aquele Prog
+	olha pra minha cara...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so...
-	so...
-	ewwwwwww...
+	É tão...
+	tão...
+	uuuuuurgh...
 	"""
 	keyWait
 		any = false
@@ -142,17 +140,17 @@ script 40 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I_I'm going to post
-	my first message on
-	the BBS!
+	E-eu vou fazer a
+	minha primeira
+	postagem no Fórum!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I'm so nervous,
-	like my heart's
-	going to explode!
+	... Eu tô tão nervoso,
+	que o meu coração tá
+	pra explodir!
 	"""
 	keyWait
 		any = false
@@ -163,16 +161,16 @@ script 41 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Sky Town was
-	attacked a little
-	while ago,I heard...
+	O Distrito Céu foi
+	atacado por estes dias,
+	pelo que ouvi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what they
-	were after...?
+	Do que será que o
+	atacante tava atrás...?
 	"""
 	keyWait
 		any = false
@@ -187,8 +185,8 @@ script 42 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	THIS IS
-	SEASIDEAREA1!!
+	ESTA É A ÁREA
+	BEIRA-MAR 1!!
 	"""
 	keyWait
 		any = false
@@ -215,16 +213,16 @@ script 45 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Hey,hey,hey! You're
-	the one in the Expo
-	commercial,right?
+	Opa! Ei, ei! Você é o
+	Navi daquele comercial
+	da Exposição, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You were in that,
-	right? Right!?
+	Era você nele, né?
+	Né?! Né?!
 	"""
 	keyWait
 		any = false
@@ -239,17 +237,16 @@ script 46 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	TODAY IS ANOTHER
-	FINE DAY IN
-	SEASIDEAREA!
+	HOJE É MAIS UM LINDO
+	DIA NA ÁREA BEIRA-MAR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BY THE WAY,"WELINA"
-	IS AN OLD HAWAIIAN
-	WORD FOR "HELLO"!
+	POR SINAL, "WELINA" É
+	UMA ANTIGA PALAVRA
+	HAVAIANA PARA "OLÁ"!
 	"""
 	keyWait
 		any = false
@@ -264,17 +261,16 @@ script 47 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ah... No,I can't
-	write it... I can't
-	post it!
+	Ah... Não, não dá
+	pra eu escrever...
+	Nem pra postar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hate how I have
-	no faith in
-	myself...
+	Como eu odeio esta
+	minha insegurança...
 	"""
 	keyWait
 		any = false
@@ -285,16 +281,16 @@ script 50 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	After the commercial
-	started,interest in
-	the Expo has risen!
+	Depois que lançaram o
+	comercial, aumentou o
+	interesse na Exposição!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up and open
-	already!
+	Eles têm que
+	abrir ela logo!
 	"""
 	keyWait
 		any = false
@@ -305,16 +301,16 @@ script 55 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Hey,it looks like
-	there's a riot going
-	on in Seaside Town!
+	Ei, parece que tá
+	tendo uma confusão
+	no Distrito Beira-Mar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What in the world
-	is going on!?
+	Mas, afinal, o que
+	está acontecendo?!
 	"""
 	keyWait
 		any = false
@@ -325,24 +321,24 @@ script 60 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Mayor Cain is trying
-	to track down that
-	Navi that went nuts,
+	O Prefeito Cain está
+	tentando encontrar o
+	Navi que enlouqueceu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so he can take care
-	of that Seaside Town
-	incident.
+	para, então, poder
+	resolver o incidente
+	do Distrito Beira-Mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet he'll find
-	that Navi.
+	E aposto que ele
+	VAI encontrar.
 	"""
 	keyWait
 		any = false

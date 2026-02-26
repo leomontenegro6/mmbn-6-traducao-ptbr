@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	OK,we've invited
-	everybody!
+	Pronto, todo
+	mundo convidado!
 	"""
 	keyWait
 		any = false
@@ -20,9 +20,9 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A whole week! I
-	can't wait! It's
-	gonna be a blast!
+	Eu não vou aguentar
+	esperar uma semana
+	inteira! Vai ser demais!
 	"""
 	keyWait
 		any = false
@@ -34,7 +34,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I know!"
+	"Eu sei!"
 	keyWait
 		any = false
 	clearMsg
@@ -46,9 +46,9 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,let's take a
-	look around and then
-	jack out,OK?
+	Bom, bora dar uma
+	volta por aqui e,
+	depois, desconectar, tá?
 	"""
 	keyWait
 		any = false
@@ -60,7 +60,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"OK!"
+	"Tá!"
 	keyWait
 		any = false
 	end

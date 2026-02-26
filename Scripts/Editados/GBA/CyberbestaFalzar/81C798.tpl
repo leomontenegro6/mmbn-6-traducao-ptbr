@@ -19,8 +19,8 @@ script 20 mmbn6 {
 		mugshot = MegaMan
 	msgOpenMenu
 	"""
-	Please enter
-	folder name!
+	Por favor, insira
+	o nome da pasta!
 	"""
 	keyWait
 		any = false
@@ -47,8 +47,8 @@ script 22 mmbn6 {
 	printLinkBuffer
 		buffer = 2
 	"""
-	"
-	Is that OK?
+	".
+	Confirma?
 	
 	"""
 	positionOptionHorizontal
@@ -61,7 +61,7 @@ script 22 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -70,7 +70,7 @@ script 22 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -101,8 +101,8 @@ script 24 mmbn6 {
 		mugshot = MegaMan
 	msgOpenMenu
 	"""
-	Quit entering name
-	and return to menu?
+	Abortar operação
+	e voltar ao menu?
 	
 	"""
 	positionOptionHorizontal
@@ -115,7 +115,7 @@ script 24 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -124,7 +124,7 @@ script 24 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -152,8 +152,8 @@ script 28 mmbn6 {
 script 30 mmbn6 {
 	msgOpenMenu
 	"""
-	Please enter
-	folder name.
+	Por favor, insira
+	o nome da pasta.
 	"""
 	keyWait
 		any = false
@@ -165,8 +165,8 @@ script 31 mmbn6 {
 	printLinkBuffer
 		buffer = 2
 	"""
-	"
-	OK?
+	".
+	Confirma?
 	
 	"""
 	positionOptionHorizontal
@@ -179,7 +179,7 @@ script 31 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -188,7 +188,7 @@ script 31 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -204,8 +204,8 @@ script 31 mmbn6 {
 script 32 mmbn6 {
 	msgOpenMenu
 	"""
-	Quit entry and
-	return to menu?
+	Abordar operação
+	e voltar ao menu?
 	
 	"""
 	positionOptionHorizontal
@@ -218,7 +218,7 @@ script 32 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -227,7 +227,7 @@ script 32 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false

@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"*Squawk!*"
+	"Quén!"
 	keyWait
 		any = false
 	end
@@ -11,15 +11,14 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	When a turtle comes
-	out of the water,
+	Quando uma tartaruga
+	está fora d'água,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it looks like
-	a rock...
+	parece uma pedra...
 	"""
 	keyWait
 		any = false
@@ -28,8 +27,7 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	The nautilus ran
-	from the water!
+	O náutilo correu da água!
 	"""
 	keyWait
 		any = false
@@ -53,15 +51,14 @@ script 10 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Welcome to the
-	Aquarium.
+	Bem-vindo ao Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Enjoy the world
-	under the sea!!
+	Espero que se divirta
+	neste mundo subaquático!
 	"""
 	keyWait
 		any = false
@@ -78,15 +75,15 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	...Let's check
-	out the Aquarium!
+	... Bora explorar
+	o Aquário!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mick
-	"...OK."
+	"... Tá."
 	keyWait
 		any = false
 	end
@@ -96,25 +93,23 @@ script 12 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	There is a voice
-	guide at each of the
-	Aquarium's tanks.
+	Cada tanque do Aquário
+	reproduz um áudio-guia
+	gravado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can learn lots
-	from these voice
-	guides!
+	Dá para aprender muita
+	coisa com esses áudios!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go ahead and tell
-	your friend!!
-	It's great!!
+	Espalhe para os amigos!
+	É demais!!
 	"""
 	keyWait
 		any = false
@@ -124,21 +119,21 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"Hey,did ya hear?"
+	"Aí, você sabia?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter where
-	you get stung by a
-	jellyfish...
+	Sempre que você
+	é queimado por
+	uma água-viva...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT HURTS!!
-	Trust me... I know!
+	DÓI PRA BURRO!!
+	Vai por mim... eu sei!
 	"""
 	keyWait
 		any = false
@@ -149,17 +144,17 @@ script 14 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	...Hehehehe...
-	He sure is makin'
-	a funny face!!
+	... He he he he...
+	Ele tá fazendo uma
+	cara mó engraçada!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can never beat a
-	Sunfish in a staring
-	contest!! Never!
+	É IMPOSSÍVEL vencer o
+	peixe-lua numa disputa
+	de "quem ri primeiro"!
 	"""
 	keyWait
 		any = false
@@ -174,9 +169,8 @@ script 15 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Everyone remaining
-	in the Aquarium,take
-	cover quickly!!
+	Todos ainda no Aquário,
+	abriguem-se, rápido!!
 	"""
 	keyWait
 		any = false
@@ -187,22 +181,23 @@ script 16 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	You! What are you
-	doing!?
+	Ei!
+	Tá fazendo o quê aí?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone has
-	already taken cover!
+	Todo mundo já foi
+	procurar abrigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So hurry up and
-	get to a safe place!
+	Então não perca
+	tempo e vá logo
+	pra um lugar seguro!
 	"""
 	keyWait
 		any = false

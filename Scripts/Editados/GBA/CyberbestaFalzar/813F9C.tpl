@@ -23,8 +23,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Quit programming
-	and return to menu?
+	Parar de programar
+	e voltar pro menu?
 	
 	"""
 	positionOptionFromCenter
@@ -37,7 +37,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -46,7 +46,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -82,7 +82,7 @@ script 1 mmbn6 {
 		mugshot = Lan
 	"""
 	OK!
-	RUN complete!
+	Execução concluída!
 	"""
 	keyWait
 		any = false
@@ -113,13 +113,13 @@ script 2 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Good job,Lan!"
+	"Bom trabalho, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Quit the Navi
-	Customizer?
+	Sair do
+	Customizador?
 	
 	"""
 	positionOptionFromCenter
@@ -132,7 +132,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -141,7 +141,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -175,13 +175,13 @@ script 3 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = MegaMan
-	"Good job,Lan!"
+	"Bom trabalho, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Quit the Navi
-	Customizer?
+	Sair do
+	Customizador?
 	
 	"""
 	positionOptionFromCenter
@@ -194,7 +194,7 @@ script 3 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -203,7 +203,7 @@ script 3 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -238,8 +238,8 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Remove all
-	programs?
+	Remover todos
+	os programas?
 	
 	"""
 	positionOptionFromCenter
@@ -252,7 +252,7 @@ script 4 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -261,7 +261,7 @@ script 4 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -296,16 +296,16 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You can't remove
-	this program in the
-	Cyberworld.
+	Não dá para remover
+	esse programa dentro
+	do ciberespaço.
 	"""
 	keyWait
 		any = false
 	waitHold
 }
 script 10 mmbn6s {
-	"RUN..."
+	"EXECUTANDO"
 	end
 }
 script 11 mmbn6s {

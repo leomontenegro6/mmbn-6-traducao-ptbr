@@ -3,90 +3,88 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"20 years later..."
+	"20 anos depois..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With his active
-	cooperation,Dr.Wily
-	created
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	a new "Colonel" and
-	a new "Iris" as
+	Com a cooperação ativa
+	dele, o Dr. Wily criou
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a Net Reinforcement
-	System while serving
-	his time.
+	um novo "Colonel"
+	e uma nova "Iris"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Colonel" is an
-	active attack system
-	that automatically
+	como um Sistema de
+	Reforço da Rede enquanto
+	cumpria sua pena.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	finds and deletes
-	viruses and criminals
-	on the Net.
+	O "Colonel" é um
+	sistema de ataque ativo
+	que automaticamente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Iris" is a Net
-	Recovery System that
-	searches for damage
+	encontra e deleta vírus
+	e criminosos na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to the Net and
-	repairs it.
+	E a "Iris" é um Sistema
+	de Recuperação da Rede,
+	que detecta danos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Starting with these
-	two systems,
+	sofridos pela Rede
+	e os repara.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Net society was able
-	to grow by leaps
-	and bounds...
+	Começando com esses
+	dois sistemas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And now,1 scientist
-	is working hard
+	a sociedade da Rede
+	pôde crescer a um
+	ritmo incrível...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to lay the
-	foundations for a
-	new Net society...
+	E, agora, um cientista
+	está trabalhando duro
+	para estabelecer a
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	fundação de uma nova
+	sociedade da Rede...
 	"""
 	keyWait
 		any = false
@@ -98,7 +96,7 @@ script 1 mmbn6 {
 	controlLock
 	soundPlay
 		track = 395
-	"*thump,thump...*"
+	"Tonc Tonc..."
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -108,30 +106,29 @@ script 1 mmbn6 {
 	clearMsg
 	"""
 	Ah!
-	I overslept again!
+	Dormi demais de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Patch!! If you don't
-	hurry up,you're
-	gonna be late!!
+	Ô, Patch!! Se não
+	correr, vai se atrasar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK!"
+	"Eu sei!"
 	keyWait
 		any = false
 	clearMsg
-	"Morning,Dad,Mom!"
+	"Bom dia, pai!\nBom dia, mãe!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah! I've gotta
-	wash my face!!
+	Ah! Eu tenho que
+	lavar o rosto!!
 	"""
 	keyWait
 		any = false
@@ -140,7 +137,7 @@ script 1 mmbn6 {
 	controlLock
 	soundPlay
 		track = 395
-	"*thump,thump...*"
+	"Tonc Tonc..."
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -148,131 +145,129 @@ script 1 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Ahahaha..."
+	"Ha ha ha..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So who do you think
-	he takes after more?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Hmm... When it comes
-	to sleeping in,that
-	would be me.
+	E aí, pra quem você
+	acha que ele puxou mais?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I wish he wasn't
-	so stubborn like his
-	mother...
+	Hmm... Em matéria
+	de sono, pra mim,
+	com certeza.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who's the stubborn
-	one? Guess you don't
-	want dinner tonight!
+	Mas eu bem que queria
+	que ele não fosse
+	teimoso como a mãe...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ack!! No!!
-	I didn't mean it!
-	Forgive me,Mayl!!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Lan,Lan!!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Stop dawdling and
-	get going too,or
-	you'll be late!!
+	Tá chamando quem de
+	teimosa? Acho que alguém
+	vai ficar sem jantar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't you have a
-	scientists' meeting
-	today?
+	Ack!! Não!!
+	Era brincadeira!
+	Me desculpa, vai, Mayl!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ah,that's right!!"
+	"Lan, Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why didn't you say
-	something earlier,
-	MegaMan!?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Chaud's coming from
-	Netopia for this
-	meeting today!
+	Enfim, para de
+	enrolar você também
+	ou vai se atrasar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I'm late,who
-	knows what he'll
-	say!!
+	Você não tem um simpósio
+	de cientistas hoje?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Ah, verdade!!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Poxa, por que não falou
+	nada antes, MegaMan!?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry! Well,you'd
-	better run or you'll
-	miss the Metroline!
+	O Chaud tá vindo lá
+	da Netopia pra esse
+	simpósio hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Waaaaaaaaaaa!!"
+	"""
+	Se eu chegar atrasado,
+	não quero nem ver o
+	que ele vai falar!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Desculpa! Enfim, melhor
+	correr ou vai perder a
+	Metrolinha!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Aaaaaaaagh!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Patch!!
-	Let's go!
+	Bora!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Coming!!"
+	"Tô indo!!"
 	keyWait
 		any = false
 	clearMsg
-	"Mayl,we're leaving!!"
+	"Mayl, a gente tá indo!!"
 	keyWait
 		any = false
 	clearMsg
-	"Have a good day,Mom!"
+	"Tchau, mãe!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK! Have a good day,
-	you two!
+	Tchau! Tenham um
+	bom dia, meninos!
 	"""
 	keyWait
 		any = false
@@ -284,13 +279,13 @@ script 2 mmbn6 {
 	controlLock
 	soundPlay
 		track = 439
-	"*thump,thump...*"
+	"Tomp Tomp..."
 	wait
 		frames = 80
 	"\n"
 	soundPlay
 		track = 444
-	"*slam!!*"
+	"Blam!!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -299,23 +294,23 @@ script 2 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Hey,Patch,MegaMan,
-	let's race to the
-	station!!
+	Ei, Patch, MegaMan,
+	bora apostar corrida
+	até a estação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK!
-	Let's go,Lan!!
+	Beleza!
+	Vamos lá, Lan!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey! No fair!
-	Wait up,Dad!!
+	Ei! Não é justo!
+	Me espera, pai!!
 	"""
 	keyWait
 		any = false
@@ -329,126 +324,125 @@ script 3 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
-	 Has it really
-	been 20 years?
+	Já se passaram
+	mesmo 20 anos?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dex became the Mayor
-	of ACDC Town.I still
-	can't believe it.
+	O Dex se tornou prefeito
+	de DenCity. Eu ainda
+	nem acredito nisso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yai became the
-	president of her
-	father's company.
+	A Yai se tornou
+	presidente da empresa
+	do pai dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mick became an
-	elementary school
-	teacher,and
+	O Mick se tornou
+	professor do fundamental
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tab is working hard
-	to make his store
-	a success.
+	e o Tab tá ralando
+	pra caramba pra fazer
+	da loja dele um sucesso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chaud became the
-	International
-	Officials' leader.
+	O Chaud se tornou o
+	líder dos Oficiais
+	Internacionais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mayl became my
-	wife...
+	A Mayl se tornou
+	minha esposa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...... As for me,
-	we're working for
-	a better future...
+	...... Já eu?
+	Nós estamos trabalhando
+	por um futuro melhor...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the future that Dad,
-	Grandpa,and Dr.Wily
-	envisioned...
+	o futuro que o meu pai,
+	meu avô e o Dr. Wily
+	imaginaram...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're going to make
-	an even brighter
-	future...
+	Nós vamos fazer
+	um futuro ainda
+	mais brilhante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sure,there are
-	uncertainties,but
-	we'll be OK!
+	Claro que ainda tem
+	incertezas pela frente,
+	mas vamos ficar bem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,we've overcome
-	all the things that
-	came our way before!
+	É. A gente já venceu
+	tudo que desafiou a
+	gente até aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's right...
-	We can do anything!
+	É isso mesmo...
+	Não tem nada que não
+	possamos fazer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come on,Lan,let's
-	go! Onward to a
-	great future!!
+	Vamos, Lan!
+	Vamos rumo a um
+	futuro incrível!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's make the
-	future of our
-	dreams!
+	Vamos construir o futuro
+	dos nossos sonhos!
 	"""
 	keyWait
 		any = false
@@ -458,13 +452,13 @@ script 3 mmbn6 {
 }
 script 4 mmbn6 {
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	keyWait
 		any = false
 	clearMsg
@@ -510,12 +504,12 @@ script 4 mmbn6 {
 		width = 2
 	wait
 		frames = 30
-	"E"
+	"F"
 	wait
 		frames = 30
-	"N"
+	"I"
 	wait
 		frames = 30
-	"D"
+	"M"
 	waitHold
 }

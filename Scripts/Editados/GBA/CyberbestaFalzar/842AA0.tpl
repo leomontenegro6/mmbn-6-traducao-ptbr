@@ -1,35 +1,33 @@
-@archive 842AA0
+ @archive 842AA0
 @size 8
 
 script 0 mmbn6 {
 	msgOpen
 	"""
-	Popcorn is sold
-	here.
+	Aqui, vendem pipoca.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People like to eat
-	it while watching
-	the show.
+	As pessoas gostam
+	de comer enquanto
+	assistem ao show.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Salt flavor,butter
-	flavor,you name it,
-	they have it.
+	Tem com sal, manteiga...
+	Todas as opções que
+	se pode imaginar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All in all,there's
-	30 flavors of
-	popcorn for sale!
+	No total, eles oferecem
+	30 sabores diferentes!
 	"""
 	keyWait
 		any = false
@@ -38,21 +36,17 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The benches are a
-	little wet...
+	O banco está
+	meio molhado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The water must have
-	splashed all the way
-	over here from the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"dolphin jumps."
+	Deve ter caído água
+	nele após os saltos
+	do golfinho.
+ 	"""
 	keyWait
 		any = false
 	end
@@ -61,21 +55,17 @@ script 2 mmbn6 {
 	msgOpen
 	msgOpen
 	"""
-	The benches are a
-	little wet...
+	O banco está
+	meio molhado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The water must have
-	splashed all the way
-	over here from the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"dolphin jumps."
+	Deve ter caído água
+	nele após os saltos
+	do golfinho.
+ 	"""
 	keyWait
 		any = false
 	end
@@ -83,9 +73,9 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	People threw away a
-	lot of popcorn bags
-	into this trash can.
+	As pessoas jogaram
+	um monte de sacos de
+	pipoca nesta lixeira.
 	"""
 	keyWait
 		any = false
@@ -95,9 +85,8 @@ script 3 mmbn6 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	... What was that
-	shiny object just
-	now!?
+	... Espera, mas que
+	objeto brilhante é este?!
 	"""
 	keyWait
 		any = false
@@ -113,7 +102,7 @@ script 3 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -124,8 +113,8 @@ script 3 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Regular memory
-	increased by
+	Memória padrão
+	aumentada em
 	1 MB!!!
 	"""
 	keyWait
@@ -147,7 +136,7 @@ script 5 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -160,8 +149,8 @@ script 5 mmbn6 {
 	playerResetScene
 	clearMsg
 	"""
-	Regular memory
-	increased by
+	Memória padrão
+	aumentada em
 	1 MB!!!
 	"""
 	keyWait
@@ -173,16 +162,15 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	The wonderful smell
-	of popcorn drifts
-	through the air.
+	O cheiro maravilhoso de
+	pipoca exala pelo ar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can jack in to
-	the popcorn machine!
+	É possível se conectar
+	à máquina de pipoca!
 	"""
 	keyWait
 		any = false
@@ -196,47 +184,45 @@ script 7 mmbn6 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Popcorn is sold
-	here.
+	Aqui, vendem pipoca.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People like to eat
-	it while watching
-	the show.
+	As pessoas gostam
+	de comer enquanto
+	assistem ao show.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Salt flavor,butter
-	flavor,you name it,
-	they have it.
+	Tem com sal, manteiga...
+	Todas as opções que
+	se pode imaginar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All in all,there's
-	30 flavors of
-	popcorn for sale!
+	No total, eles oferecem
+	30 sabores diferentes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like you
-	can jack into the
-	popcorn machine...
+	A máquina de pipoca
+	parece possuir uma
+	entrada de conexão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but the port is
-	broken right now.
+	mas está quebrada
+	no momento.
 	"""
 	keyWait
 		any = false

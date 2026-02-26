@@ -6,9 +6,9 @@ script 8 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	You can't equip this
-	Folder. Re_edit,then
-	equip.
+	Você não pode equipar
+	esta Pasta. Re-edite
+	e tente de novo.
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,8 @@ script 9 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	You can't equip this
-	Folder.
+	Você não pode
+	equipar esta Pasta.
 	"""
 	keyWait
 		any = false

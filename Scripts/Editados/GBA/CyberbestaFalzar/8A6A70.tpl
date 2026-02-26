@@ -6,17 +6,17 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,you've gotta
-	find some way to
-	stop the JudgeTree!
+	MegaMan, você tem
+	que achar um jeito de
+	parar a Árvore Juíza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That should stop
-	Dad's punishment
-	and the Robots!
+	Aí a gente para a
+	sentença do papai
+	e os Robôs!
 	"""
 	keyWait
 		any = false
@@ -28,7 +28,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roge."
+	"Entend."
 	wait
 		frames = 15
 	"."
@@ -39,51 +39,32 @@ script 1 mmbn6 {
 		frames = 15
 	soundPlayBGM
 		track = 99
-	" rr!?"
+	" Hã?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"... Ha... lt..."
+	"... Al... to..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"I_I hear a voice..."
+	"E-eu ouvi uma voz..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Halt. You'll go
-	no further...
+	Alto. Você não
+	passará daqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... MegaMan,why do
-	you fight so hard
-	against us?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"""
-	W_Who...
-	Where are you!?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotHide
-	"""
-	You will answer...
-	Why do you fight so
-	hard against us?
+	... MegaMan, por que
+	luta tanto contra nós?
 	"""
 	keyWait
 		any = false
@@ -91,32 +72,17 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Why...?
-	Isn't it obvious!?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Because it's the
-	right thing to do!
+	Q-quem...
+	Quem é você?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Such a showy reason.
-	I'll feel no regret
-	in deleting you.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Alright,then! We'll
-	crush you with our
-	strength! Get ready!
+	Responda à pergunta...
+	Por que você se opõe
+	tanto a nós?
 	"""
 	keyWait
 		any = false
@@ -124,15 +90,48 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	... Wait!!
-	You... You're...!!
+	"Por quê"...?
+	Não tá na cara?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... No good,
-	he's already gone.
+	Porque é a coisa
+	certa a ser feita!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotHide
+	"""
+	Que lógica performativa.
+	Não me arrependerei de
+	deletá-lo.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Pois bem! Usaremos
+	de nossa força para
+	esmagá-lo! Prepare-se!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"""
+	... Espera!!
+	Você...!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... Droga, ele já
+	cortou o contato.
 	"""
 	keyWait
 		any = false
@@ -140,9 +139,8 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	That was probably
-	Prosecutor Ito's
-	Navi just now...
+	Aposto que era o Navi
+	do Promotor Ito...
 	"""
 	keyWait
 		any = false
@@ -150,16 +148,14 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No,I don't think
-	that was him...
+	Não, não acho que era...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But...it did sound
-	like... But that
-	can't be...!
+	Mas... parecia o...
+	Não, não pode ser...!
 	"""
 	keyWait
 		any = false
@@ -167,9 +163,8 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's wrong? Have
-	you heard that voice
-	somewhere before...?
+	Que foi? Era uma voz
+	que você conhecia...?
 	"""
 	keyWait
 		any = false
@@ -177,31 +172,30 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	... No,I'm sorry,
-	Lan. I must've heard
-	wrong.
+	... Não, esquece, Lan.
+	Com certeza foi só
+	imaginação minha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,it's not
-	possible...
+	Digo, não é possível...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,we'd better
-	get going and stop
-	this JudgeTree!
+	Enfim, melhor a gente
+	apertar o passo e parar
+	a Árvore Juíza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Y_Yeah..."
+	"T-tá..."
 	keyWait
 		any = false
 	end

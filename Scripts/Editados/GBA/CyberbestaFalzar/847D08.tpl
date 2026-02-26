@@ -4,15 +4,15 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	Underground1 on it.
+	Nele, há um mapa
+	do SubSolo 1.
 	"""
 	keyWait
 		any = false
@@ -23,17 +23,17 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The darkness won't
-	budge,even with your
-	strongest attacks.
+	As trevas não
+	diminuem, nem com os
+	seus ataques mais fortes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe the
-	EvilSpirits are
-	related somehow...
+	Talvez isso tenha
+	alguma relação com
+	os Espíritos Malignos...
 	"""
 	keyWait
 		any = false
@@ -61,8 +61,8 @@ script 2 mmbn6 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	A thick,dense cloud
-	is blocking the way!
+	Uma densa e grossa
+	nuvem impede a passagem!
 	"""
 	keyWait
 		any = false
@@ -84,9 +84,8 @@ script 3 mmbn6 {
 		jumpIfProtoMan = continue
 	msgOpen
 	"""
-	There is a violent
-	cyclone blocking
-	the way!!
+	Um ciclone violento
+	impede a passagem!!
 	"""
 	keyWait
 		any = false
@@ -95,22 +94,21 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	A thick,dense cloud
-	is blocking the way!
+	Uma densa e grossa
+	nuvem impede a passagem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too thick for
-	the 
+	É grossa demais para
+	o 
 	"""
 	printItem
 		buffer = 0
 		item = 28
 	"""
-	 to
-	suck up.
+	 aspirar.
 	"""
 	keyWait
 		any = false
@@ -121,14 +119,14 @@ script 9 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	These thunderclouds
-	are just what I
-	like...
+	Essas nuvens de
+	tempestade são
+	minha especialidade...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Zaaaaaap!!"
+	"Tzzzz-ah!!"
 	keyWait
 		any = false
 	clearMsg
@@ -138,8 +136,8 @@ script 9 mmbn6 {
 	wait
 		frames = 30
 	"""
-	ElecMan's lightning
-	dispersed the cloud!
+	Os relâmpagos de ElecMan
+	dispersaram a nuvem!
 	"""
 	keyWait
 		any = false
@@ -151,14 +149,14 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Hiyahaha!!"
+	"Hya ha ha!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Hex Sickle can
-	cut even shapeless
-	things!!
+	Minha HexaFoice pode
+	cortar até coisas sem
+	forma!!
 	"""
 	keyWait
 		any = false
@@ -169,9 +167,8 @@ script 10 mmbn6 {
 	wait
 		frames = 30
 	"""
-	EraseMan's Hex
-	Sickle cut through
-	the cloud!!
+	A HexaFoice do KillerMan
+	corta a nuvem!!
 	"""
 	keyWait
 		any = false
@@ -184,9 +181,9 @@ script 11 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Hey,cloud!
-	Here's a Tomahawk
-	Swing for you!!
+	Aí, nuvem!
+	Aqui vai um Corte
+	de Machadinha!!
 	"""
 	keyWait
 		any = false
@@ -197,9 +194,9 @@ script 11 mmbn6 {
 	wait
 		frames = 30
 	"""
-	The Tomahawk Swing's
-	strong wind blew the
-	cloud away!!
+	O vento forte do Corte
+	de Machadinha assoprou
+	a nuvem!!
 	"""
 	keyWait
 		any = false
@@ -212,9 +209,8 @@ script 12 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	This cloud's just
-	like that junk over
-	there!!
+	Essa nuvem é que
+	nem aquele lixo ali!
 	"""
 	keyWait
 		any = false
@@ -225,8 +221,8 @@ script 12 mmbn6 {
 	wait
 		frames = 30
 	"""
-	DustMan sucked up
-	the cloud!!
+	O DustMan aspirou
+	a nuvem!!
 	"""
 	keyWait
 		any = false
@@ -244,8 +240,8 @@ script 14 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	This cyclone has
-	nothing on me!!
+	Esse ciclone é
+	fichinha pra mim!!
 	"""
 	keyWait
 		any = false
@@ -256,9 +252,9 @@ script 14 mmbn6 {
 	wait
 		frames = 30
 	"""
-	SlashMan's super
-	spin attack wiped
-	the cyclone out!!
+	O super ataque giratório
+	do SlashMan acaba com o
+	ciclone!!
 	"""
 	keyWait
 		any = false
@@ -270,14 +266,13 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Choo,chooooo!!"
+	"Tchú-tchúúúúú!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going to charge
-	through this
-	cyclone!!
+	Hora de atropelar
+	esse ciclone!!
 	"""
 	keyWait
 		any = false
@@ -288,9 +283,9 @@ script 15 mmbn6 {
 	wait
 		frames = 30
 	"""
-	ChargeMan erased the
-	cyclone with his
-	super charge attack!
+	ChargeMan apaga o
+	ciclone com seu super
+	ataque motor!
 	"""
 	keyWait
 		any = false
@@ -303,14 +298,14 @@ script 16 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	A cyclone like this
-	is nothing for a
-	wind master...
+	Um ciclone desses é
+	trivial para um mestre
+	do vento...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hmmmph!!"
+	"Hmmmpf!!"
 	keyWait
 		any = false
 	clearMsg
@@ -320,9 +315,9 @@ script 16 mmbn6 {
 	wait
 		frames = 30
 	"""
-	TenguMan erased the
-	cyclone with one
-	wave of his fan!!
+	Com um único abanar
+	de seu leque, TenguMan
+	apaga o ciclone!!
 	"""
 	keyWait
 		any = false
@@ -334,19 +329,19 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	msgOpen
-	"Gahahaha!!"
+	"Gaa ha ha ha!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if this
-	cyclone can stand up
-	to my vacuum power!?
+	Será que esse ciclone
+	tem alguma chance contra
+	o meu poder aspirador?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*vroooooom!!*"
+	"Vuuuuuush!!"
 	keyWait
 		any = false
 	clearMsg
@@ -356,8 +351,8 @@ script 17 mmbn6 {
 	wait
 		frames = 30
 	"""
-	DustMan sucked up
-	the cyclone!!
+	DustMan aspirou
+	o ciclone!!
 	"""
 	keyWait
 		any = false

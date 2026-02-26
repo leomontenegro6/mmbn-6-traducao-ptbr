@@ -4,43 +4,43 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	A display panel for
-	plotting graphs in
-	Math class.
+	Um monitor usado
+	para desenhar gráficos
+	pra aula de Matemática.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks to this,more
-	people are starting
-	to like Math...
+	Ele faz cada vez mais
+	crianças passarem a
+	gostar de Matemática...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Maybe."
+	"... Talvez."
 	keyWait
 		any = false
 	end
 }
 script 1 mmbn6 {
 	msgOpen
-	"The blackboard."
+	"O quadro-negro."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's actually a
-	touch panel,so no
-	chalk is needed.
+	Na verdade, utiliza
+	tecnologia de toque,
+	então não precisa de giz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was custom made
-	for this school.
+	Foi feito sob medida
+	para esta escola.
 	"""
 	keyWait
 		any = false
@@ -49,16 +49,16 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	A display of things
-	useful for class.
+	Um monitor que lista
+	coisas úteis nas aulas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are maps,basic
-	formulas,and figures
-	posted all over it.
+	Está repleto de
+	mapas, fórmulas
+	básicas e figuras.
 	"""
 	keyWait
 		any = false
@@ -67,16 +67,16 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	Tulips that were
-	planted during
-	Biology class.
+	Tulipas, plantadas
+	durante a aula de
+	Biologia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They are a bright,
-	vivid yellow.
+	São de um amarelo
+	tão vívido.
 	"""
 	keyWait
 		any = false
@@ -85,16 +85,16 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	Every student has
-	their own locker.
+	Cada aluno tem seu
+	próprio armário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can tell what
-	people are like by
-	how they use it.
+	O modo como eles o
+	utilizam diz muito
+	sobre a pessoa.
 	"""
 	keyWait
 		any = false
@@ -103,17 +103,16 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	A watering pot used
-	for watering the
-	tulips.
+	Um regador utilizado
+	nas tulipas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"For Biology Class
-	 Use" is written on
-	it.
+	Nele, há escrito:
+	"Para ser usado somente
+	na aula de Biologia".
 	"""
 	keyWait
 		any = false
@@ -122,16 +121,16 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	Tulips are growing
-	nicely in this pot.
+	Tulipas crescem
+	saudáveis nesse vaso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Behind the tulips
-	are student drawn
-	pictures of them.
+	Atrás delas, um desenho
+	das mesmas, feito pelos
+	alunos.
 	"""
 	keyWait
 		any = false
@@ -140,16 +139,16 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	Every student has
-	their own locker.
+	Cada aluno tem seu
+	próprio armário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can tell what
-	people are like by
-	how they use it.
+	O modo como eles o
+	utilizam diz muito
+	sobre a pessoa.
 	"""
 	keyWait
 		any = false
@@ -158,17 +157,17 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	Every student's desk
-	at Cyber Academy has
-	a computer built in.
+	Toda carteira de aluno
+	da Escola Saibher tem
+	um computador embutido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This makes studying
-	much more efficient
-	for the students.
+	Com isso, eles
+	estudam de forma
+	muito mais eficiente.
 	"""
 	keyWait
 		any = false
@@ -177,17 +176,17 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	Cyber Academy takes
-	security very
-	seriously.
+	A Escola Saibher
+	leva segurança
+	muitíssimo a sério.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Security cameras in
-	each room are always
-	keeping watch...
+	As câmeras de segurança
+	em cada sala estão
+	sempre vigilantes...
 	"""
 	keyWait
 		any = false
@@ -196,23 +195,23 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	This high_tech
-	podium is linked to
+	Este pódio de alta
+	tecnologia está
+	ligado às carteiras
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	every student's
-	desk.
+	de cada aluno.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With this,a teacher
-	can see a student's
-	answers right away.
+	Com ele, o professor
+	vê as respostas dos
+	alunos imediatamente.
 	"""
 	keyWait
 		any = false
@@ -221,17 +220,16 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	msgOpen
 	"""
-	It looks like this
-	tulip has been
-	over_watered.
+	Parece que esta tulipa
+	foi regada em excesso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The extra water
-	glistens in the
-	pot's overflow tray.
+	A água extra reluz
+	no fundo transbordante
+	do vaso.
 	"""
 	keyWait
 		any = false
@@ -245,17 +243,17 @@ script 12 mmbn6 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	There is a control
-	panel underneath the
-	blackboard.
+	Há um painel de
+	controle abaixo
+	do quadro-negro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so that people
-	can jack in for
-	Virus Busting class.
+	Através dele, os alunos
+	se conectam na aula
+	de Deleção de Vírus.
 	"""
 	keyWait
 		any = false
@@ -264,17 +262,17 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	msgOpen
 	"""
-	Cyber Academy takes
-	security very
-	seriously.
+	A Escola Saibher
+	leva segurança
+	muitíssimo a sério.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Security cameras in
-	each room are always
-	keeping watch...
+	As câmeras de segurança
+	em cada sala estão
+	sempre vigilantes...
 	"""
 	keyWait
 		any = false
@@ -283,25 +281,24 @@ script 13 mmbn6 {
 script 14 mmbn6 {
 	msgOpen
 	"""
-	There is a control
-	panel underneath the
-	blackboard.
+	Há um painel de
+	controle abaixo
+	do quadro-negro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so that people
-	can jack in for
-	Virus Busting class.
+	Através dele, os alunos
+	se conectam na aula
+	de Deleção de Vírus.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... But it looks
-	like it's broken
-	right now.
+	... Mas parece estar
+	quebrado agora.
 	"""
 	keyWait
 		any = false

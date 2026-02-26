@@ -18,9 +18,9 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	This computer
-	controls the weather
-	in Cyber City.
+	Esse computador
+	controla o clima
+	da Cidade Saibher.
 	"""
 	keyWait
 		any = false
@@ -28,21 +28,21 @@ script 1 mmbn6 {
 }
 script 2 mmbn6 {
 	msgOpen
-	"I'm Mr.Weather..."
+	"Eu sou o Seu Cleema..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and I am Sky Town's
-	main system.
+	e sou o sistema central
+	do Distrito Céu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm in charge of all
-	the weather in Cyber
-	City.
+	Fico encarregado do
+	tempo e do clima da
+	Cidade Saibher.
 	"""
 	keyWait
 		any = false
@@ -57,28 +57,29 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So this is the
-	real Mr.Weather...
+	Então esse é o Seu
+	Cleema, em carne e osso...
+	Er, por assim dizer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Welcome\n      to\n       Sky Town!"
+	"Bem-vindo\n      ao\n       Distrito Céu!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Wow! He spoke!!"
+	"Eita! Ele falou!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Now,here's a little
-	something...
-	Just. For. You!
+	Eu tenho aqui uma
+	coisinha...
+	Só. Pra. Você!
 	"""
 	keyWait
 		any = false
@@ -90,7 +91,7 @@ script 10 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -103,75 +104,69 @@ script 10 mmbn6 {
 	playerResetScene
 	clearMsg
 	"""
-	You will now all go
-	on the Net and take
-	some tests!
+	Agora, sigam todos
+	para a Rede para fazer
+	umas provas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Speak to our 4 judge
-	Navis on the Net,
+	Falem com os nossos
+	quatro Navis juízes
+	na Rede,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and you will be
-	asked to bust some
-	viruses!
+	que pedirão que vocês
+	deletem certos vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When you beat one
-	set of viruses,
+	Se vencer um
+	grupo de vírus,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you will get a
-	"WinCard"!
+	você receberá um
+	"Cartão da Vitória".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once you collect
-	all 4 "WinCards",
-	A through D,
+	Uma vez reunindo todos
+	os 4 Cartões da Vitória,
+	os Cartões A a D,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	please take them to
-	the Navi standing in
+	por favor, mostre-os ao
+	Navi de pé na grande
+	Praça na Área Céu 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the big Plaza
-	in Sky Area2!
+	Caso esqueça de onde
+	se conecta, é só
+	perguntar ao Navi!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can ask the Navi
-	where you jack in if
-	you forget!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Alright then,
-	GOOD LUCK!!
+	Pois bem, então...
+	BOA SORTE!!
 	"""
 	keyWait
 		any = false
@@ -182,9 +177,8 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	msgOpen
 	"""
-	If you don't hurry,
-	the test will begin
-	without you!
+	Se não correr, a prova
+	vai começar sem você!
 	"""
 	keyWait
 		any = false
@@ -203,24 +197,23 @@ script 13 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	What are you doing?
-	If you don't beat
-	ElementMan soon,
+	Tá fazendo o quê, parado
+	aí? Se não vencer logo o
+	ElementMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this place is going
-	to crash,heh.
+	este lugar inteiro
+	vem abaixo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Better get
-	a move on!
-	Gyahahahaha!!
+	Sugiro se apressar!
+	Gya ha ha ha ha!!
 	"""
 	keyWait
 		any = false

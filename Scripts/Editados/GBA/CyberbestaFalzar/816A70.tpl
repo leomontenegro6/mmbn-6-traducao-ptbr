@@ -18,7 +18,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,should we run?\n"
+	"Lan, vamos fugir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -29,7 +29,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -38,7 +38,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -76,12 +76,12 @@ script 1 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	OK!
-	We got away!
+	Beleza!
+	Fugimos!
 	"""
 	keyWait
 		any = false
@@ -112,12 +112,12 @@ script 2 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	It's no good!
-	We can't run away!
+	Droga!
+	Não deu pra fugir!
 	"""
 	keyWait
 		any = false
@@ -141,8 +141,7 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,this is no time
-	to run away!
+	Lan, não é hora de fugir!
 	"""
 	keyWait
 		any = false
@@ -152,7 +151,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,should we run?\n"
+	"Lan, vamos fugir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -163,7 +162,7 @@ script 4 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -172,7 +171,7 @@ script 4 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -197,12 +196,12 @@ script 5 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	OK!
-	We got away!
+	Beleza!
+	Fugimos!
 	"""
 	keyWait
 		any = false
@@ -220,12 +219,12 @@ script 6 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	It's no good!
-	We can't run away!
+	Droga!
+	Não deu pra fugir!
 	"""
 	keyWait
 		any = false
@@ -236,8 +235,7 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,this is no time
-	to run away!
+	Lan, não é hora de fugir!
 	"""
 	keyWait
 		any = false
@@ -248,8 +246,7 @@ script 17 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Lan,should we burn
-	out of here?
+	Lan, bora vazar daqui?
 	
 	"""
 	positionOptionHorizontal
@@ -262,7 +259,7 @@ script 17 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -271,7 +268,7 @@ script 17 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -296,12 +293,12 @@ script 18 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	Yes!
-	We got away!
+	Boa!
+	A gente fugiu!
 	"""
 	keyWait
 		any = false
@@ -323,8 +320,8 @@ script 19 mmbn6 {
 	wait
 		frames = 18
 	"""
-	Yikes!
-	We can't run away!
+	Saco!
+	Não deu pra fugir!
 	"""
 	keyWait
 		any = false
@@ -335,8 +332,7 @@ script 20 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Lan,
-	should we run away?
+	Lan, devemos fugir?
 	
 	"""
 	positionOptionHorizontal
@@ -349,7 +345,7 @@ script 20 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -358,7 +354,7 @@ script 20 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -386,7 +382,7 @@ script 21 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"\nYes! We got away!!"
+	"\nÓtimo! Fugimos!!"
 	keyWait
 		any = false
 	end
@@ -403,12 +399,12 @@ script 22 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	Buzzz!!
-	We couldn't run!!
+	Tzzz!!
+	Não deu para fugirmos!!
 	"""
 	keyWait
 		any = false
@@ -419,8 +415,8 @@ script 23 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	This is no time to
-	run out of here!!
+	Isso não é hora
+	de fugir daqui!!
 	"""
 	keyWait
 		any = false
@@ -430,7 +426,7 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"Don't run away now!!"
+	"Não fuja agora!!"
 	keyWait
 		any = false
 	end
@@ -440,9 +436,9 @@ script 25 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	Now's not the time
-	to cut and run!
-	Keep slashing!!
+	Não é hora de fugir
+	como um covarde!
+	Continue cortando!!
 	"""
 	keyWait
 		any = false
@@ -453,9 +449,9 @@ script 26 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Why are you running
-	away!? I've got
-	more erasing to do!
+	Por que cê tá fugindo?!
+	A gente tem mais
+	matança pra fazer!
 	"""
 	keyWait
 		any = false
@@ -466,9 +462,9 @@ script 27 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Chug_a_chug_a!!
-	No time to steam on
-	outta here!
+	Tchú-tchúú!!
+	Hora de sair rápido
+	desta estação!
 	"""
 	keyWait
 		any = false
@@ -479,8 +475,7 @@ script 28 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Don't run away now,
-	drip!
+	Não foge agora, xuá!
 	"""
 	keyWait
 		any = false
@@ -491,8 +486,8 @@ script 29 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Strange to be
-	running away now!
+	Seria estranho fugir
+	agora, não acha, não?
 	"""
 	keyWait
 		any = false
@@ -503,8 +498,7 @@ script 30 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Don't turn your
-	back...
+	Não dê as costas...
 	"""
 	keyWait
 		any = false
@@ -515,9 +509,8 @@ script 31 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Don't be a fool!!
-	You can't be runnin'
-	away!!
+	Não seja otário!!
+	Não pode fugir agora!!
 	"""
 	keyWait
 		any = false
@@ -528,9 +521,9 @@ script 32 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Hahahah! You can't
-	leave 'em in the
-	dust now!
+	Ha ha hah! Não pode
+	deixar esse lixo sem
+	tratamento, rapaz!
 	"""
 	keyWait
 		any = false
@@ -540,7 +533,7 @@ script 33 mmbn6 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Don't run away now!"
+	"Não fuja agora!"
 	keyWait
 		any = false
 	end
@@ -553,8 +546,7 @@ script 35 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	Lan,should we cut
-	and run?
+	Lan, é para fugirmos?
 	
 	"""
 	positionOptionHorizontal
@@ -567,7 +559,7 @@ script 35 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -576,7 +568,7 @@ script 35 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -601,12 +593,12 @@ script 36 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	Yes!
-	We got outta there!!
+	Ótimo!
+	Nós demos no pé!!
 	"""
 	keyWait
 		any = false
@@ -624,12 +616,12 @@ script 37 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
 	Ahhhh!
-	We couldn't run!
+	Não deu para fugir!
 	"""
 	keyWait
 		any = false
@@ -640,8 +632,8 @@ script 38 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Eh...should we run
-	away and disappear?
+	Er... é para
+	desaparecermos daqui?
 	
 	"""
 	positionOptionHorizontal
@@ -654,7 +646,7 @@ script 38 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -663,7 +655,7 @@ script 38 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -688,12 +680,12 @@ script 39 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	Haha!
-	We got outta there!
+	Ha ha!
+	Saímos de lá!
 	"""
 	keyWait
 		any = false
@@ -715,8 +707,8 @@ script 40 mmbn6 {
 	wait
 		frames = 18
 	"""
-	No! It can't be!
-	We couldn't run!!
+	Argh! Essa não!
+	Não deu para fugir!!
 	"""
 	keyWait
 		any = false
@@ -727,8 +719,8 @@ script 41 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Uga chaka... Shall
-	we steam outta here?
+	Tchúúú... Vamos
+	sair desta estação?
 	
 	"""
 	positionOptionHorizontal
@@ -741,7 +733,7 @@ script 41 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -750,7 +742,7 @@ script 41 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -775,12 +767,12 @@ script 42 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	Choo_Choo!
-	We chugachuga'd out!
+	Tchú-tchúúú!
+	O trem partiu!
 	"""
 	keyWait
 		any = false
@@ -798,12 +790,12 @@ script 43 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	Screech!
-	We couldn't run!!
+	Freeeeeia!
+	Não deu para fugirmos!!
 	"""
 	keyWait
 		any = false
@@ -814,8 +806,8 @@ script 44 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Lan,shall we drip
-	drip away?
+	Lan, vamos escorrer
+	pra fora daqui?
 	
 	"""
 	positionOptionHorizontal
@@ -828,7 +820,7 @@ script 44 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -837,7 +829,7 @@ script 44 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -862,12 +854,12 @@ script 45 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	Drip!
-	We ran away,drip!!
+	Xuá!
+	A gente fugiu, xuá!!
 	"""
 	keyWait
 		any = false
@@ -885,12 +877,12 @@ script 46 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	Drip!
-	We couldn't run...!
+	Xuá!
+	Não deu...!
 	"""
 	keyWait
 		any = false
@@ -901,8 +893,8 @@ script 47 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Lan! Let's get out
-	of here! OK?
+	Lan! Vamos dar o fora
+	daqui! Certo?
 	
 	"""
 	positionOptionHorizontal
@@ -915,7 +907,7 @@ script 47 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -924,7 +916,7 @@ script 47 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -949,12 +941,12 @@ script 48 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	OK!!
-	We got outta there!!
+	Ótimo!!
+	Demos o fora!!
 	"""
 	keyWait
 		any = false
@@ -972,12 +964,12 @@ script 49 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
 	Ugghh!
-	We couldn't run!!
+	Não deu de fugir!!
 	"""
 	keyWait
 		any = false
@@ -988,8 +980,8 @@ script 50 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Lan,let's leave and
-	fight another day?
+	Lan, vamos nos retirar
+	para lutar outro dia?
 	
 	"""
 	positionOptionHorizontal
@@ -1002,7 +994,7 @@ script 50 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1011,7 +1003,7 @@ script 50 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1039,7 +1031,7 @@ script 51 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"\nWe got away!"
+	"\nFugimos!"
 	keyWait
 		any = false
 	end
@@ -1056,12 +1048,12 @@ script 52 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	Nooo!
-	We couldn't flee!!
+	Nãããão!
+	A fuga foi mal-sucedida!!
 	"""
 	keyWait
 		any = false
@@ -1072,8 +1064,8 @@ script 53 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Whiiiir!! Let's
-	get outta here!
+	Tchhhrrrrr!!
+	Bora dar o fora daqui!
 	
 	"""
 	positionOptionHorizontal
@@ -1086,7 +1078,7 @@ script 53 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1095,7 +1087,7 @@ script 53 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1120,12 +1112,12 @@ script 54 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	Whew!
-	That was close!!
+	Ufa!
+	Foi por pouco!!
 	"""
 	keyWait
 		any = false
@@ -1143,12 +1135,12 @@ script 55 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
 	Ugghh!
-	We couldn't run!!
+	Não deu pra fugir!!
 	"""
 	keyWait
 		any = false
@@ -1159,8 +1151,8 @@ script 56 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Lan! What should we
-	do? Run?
+	Lan! O que a gente
+	faz agora? Foge?
 	
 	"""
 	positionOptionHorizontal
@@ -1173,7 +1165,7 @@ script 56 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1182,7 +1174,7 @@ script 56 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1207,12 +1199,12 @@ script 57 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	Yeah!
-	We got away!!
+	Boa!
+	A gente escapou!!
 	"""
 	keyWait
 		any = false
@@ -1230,12 +1222,12 @@ script 58 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	What!?
-	We couldn't run!
+	O quê?!
+	Não deu pra fugir!
 	"""
 	keyWait
 		any = false
@@ -1245,7 +1237,7 @@ script 59 mmbn6 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Lan,let's retreat!\n"
+	"Hikari, bater\nem retirada?!\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1256,7 +1248,7 @@ script 59 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1265,7 +1257,7 @@ script 59 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1293,7 +1285,7 @@ script 60 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"\nRetreat completed!"
+	"\nSucesso!"
 	keyWait
 		any = false
 	end
@@ -1310,12 +1302,12 @@ script 61 mmbn6 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""
-	No!
-	We couldn't retreat!
+	Droga!
+	Fomos mal-sucedidos!
 	"""
 	keyWait
 		any = false

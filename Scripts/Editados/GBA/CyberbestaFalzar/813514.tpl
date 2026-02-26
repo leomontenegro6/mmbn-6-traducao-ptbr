@@ -675,15 +675,15 @@ script 154 mmbn6s {
 	end
 }
 script 155 mmbn6s {
-	"OilBody"
+	"Óleo"
 	end
 }
 script 156 mmbn6s {
-	"Fish"
+	"Pesca"
 	end
 }
 script 157 mmbn6s {
-	"Battery"
+	"Bateria"
 	end
 }
 script 158 mmbn6s {

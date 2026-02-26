@@ -5,22 +5,23 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! Let's do this!"
+	"Lan! Vamos nessa!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	flagSet
@@ -34,9 +35,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	it's a Kettle
-	virus! Let's go!!
+	Lan, é um vírus
+	Kettle! Vamos lá!!
 	"""
 	keyWait
 		any = false
@@ -44,15 +44,16 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	This one's mine!
-	Battle routine,set!
+	Tá no papo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	flagSet
@@ -66,9 +67,8 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	it's a Kettle
-	virus! Let's go!!
+	Lan, é um vírus
+	Kettle! Vamos lá!!
 	"""
 	keyWait
 		any = false
@@ -76,16 +76,16 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,don't lose
-	this one!!
-	Battle routine,set!
+	Não vai perder essa!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	flagSet
@@ -111,16 +111,16 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It looks like I put
-	out all of these
-	Kettle viruses!
+	Parece que eu
+	acabei com todos
+	os vírus Kettle!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go back to
-	the requestor!
+	Vamos voltar lá
+	pra solicitante!
 	"""
 	keyWait
 		any = false
@@ -131,9 +131,9 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Alright Lan!
-	Let's go delete
-	some viruses!
+	Beleza, Lan!
+	Hora de deletar
+	uns vírus!
 	"""
 	keyWait
 		any = false
@@ -144,15 +144,15 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HOW ABOUT SOME
-	FISH STICKS!?
+	QUE TAL LANCHAR UNS
+	PALITOS DE PEIXE?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A TASTY TREAT FROM
-	HEAD TO FEET!
+	UM QUITUTE DE
+	LAMBER OS DEDOS!
 	"""
 	keyWait
 		any = false
@@ -169,13 +169,13 @@ script 6 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	CYBER FISH STICKS!!
-	HOW BOUT EM!?
+	CYBER-PALITOS DE
+	PEIXE!! INTERESSADO?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ONLY 100 ZENNYS!"
+	"SÓ 100 ZENNYS!"
 	keyWait
 		any = false
 	clearMsg
@@ -190,7 +190,7 @@ script 6 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -199,7 +199,7 @@ script 6 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't Buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -213,8 +213,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	COME BACK REAL
-	SOON NOW,YA HEAR?
+	VOLTE SEMPRE, VIU?
 	"""
 	keyWait
 		any = false
@@ -230,15 +229,15 @@ script 7 mmbn6 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 ate
-	Cyber Fish Sticks.
+	 comeu
+	cyber-palitos de peixe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Their juicy goodness
-	is unparalleled...
+	O sabor suculento
+	deles é incomparável...
 	"""
 	keyWait
 		any = false
@@ -247,22 +246,22 @@ script 7 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LOOKS LIKE YOU ARE
-	ENJOYING THE FOOD!
+	PARECE QUE VOCÊ
+	GOSTOU DA COMIDA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M SO HAPPY I
-	COULD CRY!!
+	ESTOU TÃO FELIZ, QUE
+	ACHO QUE VOU CHORAR!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TAKE THIS AS A
-	SPECIAL GIFT!!
+	TOME, UM PRESENTE
+	ESPECIAL PARA VOCÊ!!
 	"""
 	keyWait
 		any = false
@@ -275,7 +274,7 @@ script 7 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -289,7 +288,7 @@ script 7 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"COME AGAIN PLEASE!!"
+	"POR FAVOR,\nVOLTE SEMPRE!!"
 	keyWait
 		any = false
 	end
@@ -299,8 +298,8 @@ script 8 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU DON'T HAVE
-	ENOUGH MONEY...
+	VOCÊ PRECISA DE
+	MAIS DINHEIRO...
 	"""
 	keyWait
 		any = false

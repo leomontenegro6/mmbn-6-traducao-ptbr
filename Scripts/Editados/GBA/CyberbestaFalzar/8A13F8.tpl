@@ -6,15 +6,14 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Wow,what a
-	big building.
+	... Caramba, é enorme.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This has to be
-	the courthouse.
+	Deve ser o tal
+	tribunal, né?
 	"""
 	keyWait
 		any = false
@@ -27,7 +26,7 @@ script 1 mmbn6 {
 		track = 99
 	mugshotHide
 	msgOpen
-	"... Freeze."
+	"... Parado aí."
 	keyWait
 		any = false
 	end
@@ -36,7 +35,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	end
@@ -46,8 +45,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Uh,did you
-	say something?
+	... Er, você disse
+	alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -64,8 +63,7 @@ script 4 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	you will stop where
-	you are.
+	parado onde está.
 	"""
 	keyWait
 		any = false
@@ -77,13 +75,13 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"!?"
+	"?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How do you know
-	my name...?
+	Como você sabe
+	o meu nome...?
 	"""
 	keyWait
 		any = false
@@ -96,14 +94,13 @@ script 6 mmbn6 {
 		mugshot = DisguiseChaud
 	msgOpen
 	"""
-	... You will be
-	quiet and follow
-	my orders.
+	... Fique bem quietinho
+	e faça o que eu digo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This is a command..."
+	"Recusar não é uma opção..."
 	keyWait
 		any = false
 	clearMsg
@@ -119,9 +116,9 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Why should I listen
-	to some weirdo I
-	don't know!?
+	Por que eu ia obedecer
+	um esquisitão que eu
+	nem conheço?!
 	"""
 	keyWait
 		any = false
@@ -134,8 +131,8 @@ script 8 mmbn6 {
 		mugshot = DisguiseChaud
 	msgOpen
 	"""
-	I'm only doing my
-	duty...
+	Só estou cumprindo
+	com o meu dever...
 	"""
 	keyWait
 		any = false
@@ -148,16 +145,16 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... You're not
-	making any sense.
+	... Cê não tá falando
+	coisa com coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,I've got an
-	important trial to
-	go to!
+	Enfim, eu tenho um
+	julgamento importante
+	pra comparecer, tá?!
 	"""
 	keyWait
 		any = false
@@ -168,14 +165,14 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And I won't be
-	"commanded" by some
-	suspicious guy.
+	E tô pouco me lixando
+	pro "dever" de gente
+	suspeita.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!"
+	"Bora, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -186,7 +183,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... Y_Yeah."
+	"... É-é."
 	keyWait
 		any = false
 	end

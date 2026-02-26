@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Hey!
-	Back off!
+	Ô!
+	Sai fora!
 	"""
 	keyWait
 		any = false
@@ -18,9 +18,8 @@ script 1 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Give me some room,
-	will ya!? You're
-	getting in my way!
+	Me dá espaço, falou?!
+	Cê só tá me atrapalhando!
 	"""
 	keyWait
 		any = false
@@ -34,7 +33,7 @@ script 2 mmbn6 {
 	storeTimer
 		timer = 0
 		value = 128
-	"*Squawk! Squawk!*"
+	"Quén! Quén!"
 	keyWait
 		any = false
 	clearMsg
@@ -46,15 +45,14 @@ script 3 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	What's with that
-	super happy face!?
+	Qual é a dessa carinha
+	aí toda feliz?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're making me
-	mad!
+	Cê tá me deixando fulo!
 	"""
 	keyWait
 		any = false
@@ -65,8 +63,8 @@ script 4 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	... You're really
-	happy,huh?
+	... Cê tá feliz
+	mesmo, hein?
 	"""
 	wait
 		frames = 90
@@ -77,8 +75,9 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright,we're
-	finally ready to go!
+	Beleza! Finalmente,
+	tá tudo pronto pra
+	gente ir lá!
 	"""
 	keyWait
 		any = false
@@ -90,22 +89,22 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Yeah,I guess."
+	"É, né..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,if we don't
-	do something about
-	this penguin,
+	Digo, se a gente não
+	der um jeito pra se
+	livrar deste pinguim,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's just gonna
-	keep on cramping
-	my style!
+	ele vai continuar me
+	fazendo passar papel
+	de palhaço!
 	"""
 	keyWait
 		any = false

@@ -15,77 +15,76 @@ script 0 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Excuse me. Do you
-	have some of that
-	sparkling data that
+	Com licença. Você viu
+	um daqueles cristais
+	de dados que acabam
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	often falls off the
-	side of the road?
+	caindo pela estrada?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They call it mystery
-	data.
+	Eles são conhecidos
+	como dados misteriosos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chips or Zennys are
-	often found inside.
+	Geralmente, dentro
+	deles você acha
+	Zennys e chips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The contents of
-	green mystery data
-	are different,
+	O conteúdo dos dados
+	verdes é sempre
+	diferente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and sometimes might
-	even contain a
-	virus!
+	e, às vezes, eles
+	podem conter até vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The mystery data
-	around here should
-	be OK though.
+	Mas os dados misteriosos
+	desta área devem ser
+	seguros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh yeah! Purple
-	mystery data is
-	locked!
+	Ah, sim! E os dados
+	misteriosos roxos
+	são bloqueados!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To open it,you need
-	the Unlocker
-	SubChip!
+	Para abri-los, você
+	precisará do SubChip
+	"Destrava"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So did you learn
-	anything today?
+	E aí, aprendeu
+	alguma coisa nova?
 	"""
 	keyWait
 		any = false
@@ -98,9 +97,9 @@ script 1 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	There's no reason to
-	avoid mystery data,
-	so pick them up!
+	Não tem por que evitar
+	dados misteriosos.
+	É só ir neles e pegar!
 	"""
 	keyWait
 		any = false
@@ -120,24 +119,24 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I've never seen you
-	before...
+	Eu nunca te vi
+	por aqui antes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a NetCafe.
-	It's a good place
-	to gather info.
+	Este é um NetCafé.
+	É um bom lugar para
+	reunir informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you should make
-	friends with lots
-	of Navis here!
+	Então, recomendo que
+	faça amizade com
+	vários dos Navis daqui!
 	"""
 	keyWait
 		any = false
@@ -145,9 +144,9 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Thanks... So I can
-	learn the Net basics
-	here,huh!?
+	Valeu! Então, eu posso
+	aprender o básico da
+	Rede aqui...
 	"""
 	keyWait
 		any = false
@@ -160,9 +159,9 @@ script 3 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	There are lots of
-	cafes like this on
-	the Cyber City Net!
+	Há vários cafés como
+	este na Rede da
+	Cidade Saibher!
 	"""
 	keyWait
 		any = false
@@ -182,46 +181,46 @@ script 4 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Sometimes there are
-	huge square cubes on
-	the roadside,right?
+	Aposto que cê já se
+	deparou com uns cubos
+	enormes por aí, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They are called
-	Security Cubes.
+	Eles são os famigerados
+	Cubos de Segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're there to
-	block access to
-	private homepages.
+	O propósito deles
+	é impedir o acesso
+	a páginas privadas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To unlock a Cube
-	you need the P_Code
+	Para desbloquear um
+	Cubo, você precisa
+	da senha "CódigoP"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	たPasscodeち from the
-	webmaster.
+	do dono da página.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Some Cubes can also
-	be opened with
-	money.
+	Também existem alguns
+	Cubos que dá para abrir
+	com dinheiro.
 	"""
 	keyWait
 		any = false
@@ -234,16 +233,16 @@ script 5 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Security Cubes
-	blocking the road
-	can be annoying,
+	Cubos de Segurança
+	que barram acesso
+	enchem o saco, sim,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but you have to take
-	security seriously.
+	mas segurança
+	é coisa séria.
 	"""
 	keyWait
 		any = false
@@ -258,23 +257,23 @@ script 6 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO CENTRAL
-	AREA1!
+	BEM-VINDO À
+	ÁREA CENTRAL 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE ARE 3
-	CENTRALAREAS!
+	EXISTEM TRÊS
+	ÁREAS CENTRAIS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE LAYOUT AROUND
-	HERE'S SIMPLE,SO YOU
-	SHOULDN'T GET LOST.
+	O MAPA DAQUI É BEM
+	SIMPLES, ENTÃO VOCÊ
+	NÃO DEVE SE PERDER.
 	"""
 	keyWait
 		any = false
@@ -287,9 +286,9 @@ script 7 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE LAYOUT AROUND
-	HERE'S SIMPLE,SO YOU
-	SHOULDN'T GET LOST.
+	O MAPA DAQUI É BEM
+	SIMPLES, ENTÃO VOCÊ
+	NÃO DEVE SE PERDER.
 	"""
 	keyWait
 		any = false
@@ -300,25 +299,23 @@ script 10 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	It sounds like there
-	was an incident at
-	Cyber Academy.
+	Parece que houve
+	um incidente na
+	Escola Saibher.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There have been
-	incidents against
-	Navis without any
+	Tem havido tantos 
+	incidentes indiscriminados
+	contra Navis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	discrimination.
-	These are dangerous
-	times.
+	São tempos perigosos...
 	"""
 	keyWait
 		any = false
@@ -329,9 +326,8 @@ script 11 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Welcome to the Net
-	Cafe. Take your time
-	and look around.
+	Bem-vindo ao NetCafé.
+	Relaxe e fique à vontade.
 	"""
 	keyWait
 		any = false
@@ -342,16 +338,15 @@ script 12 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	The NetPolice seem
-	to have stepped up
-	their patrols.
+	Parece que a NetPolícia
+	intensificou as patrulhas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if
-	something happened?
+	Será que aconteceu
+	alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -362,24 +357,24 @@ script 20 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE NET SURE DOES
-	SEEM DANGEROUS
-	LATELY!
+	PARECE QUE A REDE
+	ANDA TÃO PERIGOSA
+	ESTES DIAS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	STRANGE NAVIS HAVE
-	BEEN ATTACKING...
+	UNS NAVIS ESTRANHOS
+	ANDAM ATACANDO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU NEED TO BE
-	CAREFUL WHEN USING
-	THE INTERNET.
+	É PRECISO SEMPRE
+	TOMAR CUIDADO AO
+	SURFAR NA REDE.
 	"""
 	keyWait
 		any = false
@@ -390,25 +385,24 @@ script 21 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	There have been
-	a lot of NetQuakes
-	around here lately.
+	Tem havido vários
+	NeTerremotos aqui
+	por esses dias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Speaking of...there
-	have also been
-	attacks on Navis.
+	Aliás... também tem
+	havido ataques a Navis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope there isn't
-	something bad going
-	on...
+	Tomara que não seja
+	nenhum grande crime
+	germinando...
 	"""
 	keyWait
 		any = false
@@ -419,17 +413,16 @@ script 22 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The taste of the
-	coffee at the Net
-	Cafe is great.
+	O sabor do café do
+	NetCafé é maravilhoso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Besides,you can hear
-	lots of great info
-	there too!
+	E, como bônus, dá pra
+	ouvir umas informações
+	ótimas aqui, também!
 	"""
 	keyWait
 		any = false
@@ -440,24 +433,23 @@ script 25 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Seems there was a
-	quake on the Net
-	yesterday.
+	Parece que teve um
+	tremor na Rede ontem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hear it happened
-	in CentralArea3...
+	Pelo que ouvi, foi
+	na Área Central 3...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These quakes have
-	been frequent,so
-	be careful,OK?
+	Esses tremores têm
+	sido frequentes,
+	então, cuidado, viu?
 	"""
 	keyWait
 		any = false
@@ -467,13 +459,12 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Hey! I'm here!"
+	"Calma! O importante\né que eu cheguei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go over
-	there now!
+	Vamos pra lá agora!
 	"""
 	keyWait
 		any = false
@@ -484,13 +475,12 @@ script 27 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Get over here
-	quick!!
+	Vem logo pra cá!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You're late!!"
+	"Tá atrasado!!"
 	keyWait
 		any = false
 	clearMsg
@@ -511,47 +501,47 @@ script 50 mmbn6 {
 		mugshot = BlueNavi
 	"""
 	Ahhh...
-	What do I do?
-	What do I do?
+	O que eu faço?
+	O que eu faço?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Where did I lose
-	it,I wonder?
+	Onde será que foi
+	que eu perdi ele?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh no...
-	Work will be upset
-	with me now!
+	Ah, não...
+	O pessoal do trabalho
+	vai ficar furioso comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"What's the matter?"
+	"O que aconteceu?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's nothing...
-	It's nothing at all!
+	Não é nada...
+	Nada, nada mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm fine..."
+	"Eu tô bem..."
 	keyWait
 		any = false
 	clearMsg
@@ -562,8 +552,7 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	He doesn't seem
-	fine to me...
+	Ele não PARECE bem...
 	"""
 	keyWait
 		any = false
@@ -571,9 +560,9 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	He says he is fine,
-	so let's just hurry
-	up and get moving.
+	Bom, se ele diz
+	que tá, fazer o quê?
+	Bora logo embora.
 	"""
 	keyWait
 		any = false
@@ -584,8 +573,7 @@ script 51 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	"""
-	Where did I lose
-	it,I wonder?
+	Onde será que eu perdi?
 	"""
 	keyWait
 		any = false
@@ -605,27 +593,26 @@ script 52 mmbn6 {
 	msgOpen
 	mugshotShow
 		mugshot = BlueNavi
-	"I'm in trouble..."
+	"Que problemão..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't go to
-	work without it...
+	Não dá pra eu ir pro
+	trabalho sem ele...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Umm... Excuse me."
+	"Er... Com licença."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You wouldn't be the
-	Repair Navi would
-	you?
+	Por acaso você é
+	o Navi encanador?
 	"""
 	keyWait
 		any = false
@@ -634,21 +621,21 @@ script 52 mmbn6 {
 		mugshot = BlueNavi
 	"""
 	...!!
-	How did you know!?
+	Como você sabia?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"I thought so!"
+	"Imaginei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They are waiting for
-	you to fix the leak
-	in CentralArea3...
+	Estão esperando você
+	consertar o vazamento
+	na Área Central 3...
 	"""
 	keyWait
 		any = false
@@ -657,33 +644,33 @@ script 52 mmbn6 {
 		mugshot = BlueNavi
 	"""
 	Ahhh!
-	I'm sorry I'm late!
+	Que mancada, esse atraso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The truth is I
-	can't seem to find
-	my "
+	Na verdade, eu não
+	tô conseguindo achar
+	o meu "
 	"""
 	printItem
 		buffer = 0
 		item = 8
-	"\",and I"
+	"\","
 	keyWait
 		any = false
 	clearMsg
 	"""
-	really need it for
-	work...
+	e eu preciso muito
+	dele pro trabalho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Without it,I can't
-	fix the leak!
+	Sem ele, não dá pra
+	consertar o vazamento!
 	"""
 	keyWait
 		any = false
@@ -691,9 +678,8 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Do you remember
-	where you dropped
-	the "
+	Você lembra onde deixou
+	cair o "
 	"""
 	printItem
 		buffer = 0
@@ -705,24 +691,23 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	"""
-	Well,I've been so
-	busy these days...
+	Bom, eu tenho andado tão
+	ocupado estes dias...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've been to lots
-	of places to make
-	repairs.
+	Tenho ido pra vários
+	lugares pra fazer
+	consertos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I can't narrow
-	it down to one
-	place...
+	Então eu não consigo
+	pensar em um só...
 	"""
 	keyWait
 		any = false
@@ -730,17 +715,17 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Well,it would be
-	very hard for you
-	to find it alone,
+	Bom, parece que seria
+	bem difícil pra você
+	achar sozinho,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I'll help you
-	go around to the
-	places you visited.
+	então eu te ajudo a
+	revisitar os lugares
+	em que você esteve.
 	"""
 	keyWait
 		any = false
@@ -748,9 +733,8 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	"""
-	Really!?
-	That would really
-	help out a lot!!
+	Jura?!
+	Cara, ajudaria demais!!
 	"""
 	keyWait
 		any = false
@@ -758,18 +742,17 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Let's split up and
-	look for the
-	"
+	Vamos nos separar e
+	procurar pelo "
 	"""
 	printItem
 		buffer = 0
 		item = 8
-	"\"!!"
+	"\"!"
 	keyWait
 		any = false
 	clearMsg
-	"Where should I look?"
+	"Onde eu procuro?"
 	keyWait
 		any = false
 	clearMsg
@@ -780,31 +763,30 @@ script 52 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Today,I went to
-	several homes in
-	Central Town.
+	Hoje, eu fui em várias
+	casas no Bairro Central.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I may have dropped
-	it in a Comp at one
-	of those homes.
+	Posso ter deixado cair
+	em um dos sistemas de
+	uma delas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you mind checking
-	that out for me?
+	Poderia conferir
+	lá pra mim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will check out the
-	other places...
+	Eu vou conferir os
+	outros lugares...
 	"""
 	keyWait
 		any = false
@@ -812,8 +794,8 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Houses in Central
-	Town! Got it!
+	Casas no Bairro
+	Central! Beleza!
 	"""
 	keyWait
 		any = false
@@ -824,29 +806,29 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	"""
-	I lost the
+	Eu perdi meu
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 8
 	"""
-	" I need for
-	work...
+	". Preciso
+	dele pro trabalho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you mind checking
-	out Central Town?
+	Pode procurar por
+	ele no Bairro Central?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry to
-	inconvenience you.
+	Foi mal pelo
+	inconveniente.
 	"""
 	keyWait
 		any = false

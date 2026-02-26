@@ -37,56 +37,53 @@ script 21 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	If you want to get
-	to Undernet2,it's
-	through that door.
+	Se quer ir pra
+	Undernet 2, é só
+	passar por essa porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... But,that door is
-	locked shut,bub.
+	... Mas a porta tá
+	trancada, xará.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Navi who had the
-	password was caught
-	by the NetPolice...
+	O Navi que tinha a
+	senha foi preso pela
+	NetPolícia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Speaking of,that
-	Navi's operator was
-	also caught.
+	Falando nele, a
+	operadora dele
+	também foi presa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hee,hee,hee.
-	What an idiot that
-	operator was.
+	He he he.
+	Operadora burra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are they doing
-	now? Probably doing
-	their time,
+	"O que ela tá fazendo
+	agora"? Cumprindo
+	pena, não acha...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	wouldn't you
-	think...?
-	Hee,hee,hee!
+	He he he!
 	"""
 	keyWait
 		any = false
@@ -99,40 +96,38 @@ script 22 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	... That door is
-	locked shut,bub.
+	... A porta tá
+	trancada, xará.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Navi who had the
-	password was caught
-	by the NetPolice...
+	O Navi que tinha a
+	senha foi pego pela
+	NetPolícia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Speaking of,that
-	Navi's operator was
-	also caught.
+	Falando nele, a
+	operadora dele
+	também foi presa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are they doing
-	now? Probably doing
-	their time,
+	"O que ela tá fazendo
+	agora"? Cumprindo
+	pena, não acha...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	wouldn't you
-	think...?
-	Hee,hee,hee!
+	He he he!
 	"""
 	keyWait
 		any = false
@@ -151,47 +146,46 @@ script 23 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	... Huh? MoonStone?
-	Don't know. Never
-	heard of it.
+	... Hã? Pedra da Lua?
+	Sei não. Nunca ouvi falar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No,wait a sec...
-	Uh... I heard once
-	that Undernet2 is
+	Não, pera...
+	Hum...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	famous for sky
-	gazing...
+	Já ouvi que a Undernet 2
+	é uma área popular pra
+	"admirar o céu"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Undernet2,huh...?"
+	"Undernet 2, é...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	... Ugh,why am I
-	even giving you info
-	anyway!?
+	... Ugh, por que é
+	que tô te dando essa
+	informação?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go on,get outta
-	here! Scram!
+	Vai, cai fora daqui!
+	Xispa!
 	"""
 	keyWait
 		any = false
@@ -204,30 +198,30 @@ script 24 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	Uh... I heard once
-	that Undernet2 is
+	Unh...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	famous for sky
-	gazing...
+	Já ouvi que a Undernet 2
+	é uma área popular pra
+	"admirar o céu"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Ugh,why am I
-	even giving you info
-	anyway!?
+	... Ugh, por que é
+	que tô te dando essa
+	informação?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go on,get outta
-	here! Scram!
+	Vai, cai fora daqui!
+	Xispa!
 	"""
 	keyWait
 		any = false
@@ -238,24 +232,24 @@ script 25 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	... What do you
-	want!? You got your
-	stupid MoonStone!
+	... Que é que tu quer?!
+	Tu já achou a Pedra da
+	Lua idiota que queria!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should be
-	thanking me since it
-	was my wonderful and
+	Tu devia é tá me
+	agradecendo, já que foi
+	este mano maravilhoso
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	useful advice that
-	got you the stone!
+	e prestativo aqui
+	que te levou a ela!
 	"""
 	keyWait
 		any = false
@@ -266,8 +260,8 @@ script 26 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	... How did you know
-	the password...?
+	... Como tu sabia
+	a senha...?
 	"""
 	keyWait
 		any = false

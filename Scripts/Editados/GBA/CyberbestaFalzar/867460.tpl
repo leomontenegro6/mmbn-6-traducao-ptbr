@@ -4,9 +4,9 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	It's a CopyBot.
-	There's no need to
-	use it now.
+	É um CópiRoide.
+	Não há por que
+	usá-lo agora.
 	"""
 	keyWait
 		any = false
@@ -17,14 +17,14 @@ script 5 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	*huff,huff...*
-	Air... so thin...
-	faint... must...
+	Uff... Uff...
+	Ar... rarefeito...
+	desmaiar... tenho que...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... *huff,huff*"
+	"... Uff... Uff..."
 	keyWait
 		any = false
 	end
@@ -34,33 +34,32 @@ script 6 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The fan,heater,air
-	conditioner,and
-	shower here are
+	O ventilador, o aquecedor,
+	o ar condicionado e o
+	chuveiro daqui são
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	familiar objects
-	that represent the
-	weather.
+	objetos familiares que
+	representam o clima e
+	temperatura.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The fan is for wind,
-	the heater is for
-	heat,the air
+	O ventilador é o vento,
+	o aquecedor é o calor,
+	o ar condicionado é o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	conditioner is for
-	coldness,and the
-	shower is for rain.
+	frio e o chuveiro
+	é a chuva.
 	"""
 	keyWait
 		any = false
@@ -76,8 +75,8 @@ script 10 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Hmmmmmmph!!
-	I just can't win!!
+	Hmmmmmmpf!!
+	Eu não consigo vencer!!
 	"""
 	keyWait
 		any = false
@@ -88,9 +87,9 @@ script 11 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Ummmm...
-	Where am I supposed
-	to jack in...?
+	Hummmm...
+	Onde é que eu devo
+	me conectar...?
 	"""
 	keyWait
 		any = false
@@ -106,8 +105,7 @@ script 12 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Where's the next
-	judge!?
+	Cadê o próximo juiz?!
 	"""
 	keyWait
 		any = false
@@ -122,7 +120,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Boy
 	msgOpen
-	"I_I'm scared..."
+	"T-tô com medo..."
 	keyWait
 		any = false
 	end
@@ -137,9 +135,8 @@ script 14 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Whooooooa!!
-	We've gotta go for
-	broke!
+	Aaaaaahhh!!
+	Eu vou com tudo!
 	"""
 	keyWait
 		any = false
@@ -150,9 +147,9 @@ script 15 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	*huff...*
-	I can't do this...
-	Going home...
+	Uff...
+	Eu não consigo...
+	Vou pra casa...
 	"""
 	keyWait
 		any = false
@@ -163,24 +160,23 @@ script 16 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	... So that's what
-	happened on the
-	Undernet...
+	... Então foi isso o que
+	aconteceu na Undernet...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... It's too bad,but
-	I think you should
-	give up...
+	... É uma pena, mas
+	acho que é melhor
+	você desistir...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Undernet is too
-	dangerous!
+	A Undernet é
+	perigosa demais!
 	"""
 	keyWait
 		any = false
@@ -191,15 +187,15 @@ script 17 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Please don't talk to
-	me right now.
+	Por favor, não fale
+	comigo agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't believe I
-	lost so badly...
+	Não acredito que
+	perdi tão de lavada...
 	"""
 	keyWait
 		any = false
@@ -210,9 +206,8 @@ script 18 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	I was so scared that
-	I couldn't even take
-	one step!
+	Eu fiquei com tanto medo
+	que nem conseguia andar!
 	"""
 	keyWait
 		any = false
@@ -222,7 +217,7 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Lan,I'm sorry..."
+	"Lan, eu sinto muito..."
 	keyWait
 		any = false
 	end
@@ -232,24 +227,24 @@ script 40 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	The one that saved
-	Sky Town from that
-	terrible crisis was
+	Quem salvou o Distrito
+	Céu daquela crise
+	horrível foi uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	some strange girl.
-	Well,that's what
-	people are saying...
+	menina estranha aí.
+	Pelo menos, é o que tá
+	todo mundo dizendo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But whatever,it's
-	only gossip.
+	Mas tanto faz.
+	É só fofoca.
 	"""
 	keyWait
 		any = false
@@ -264,23 +259,22 @@ script 41 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	It sounds like the
-	final round of the
+	Parece que a última
+	rodada da Prova de
+	Seleção de Navi Operador
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Operator Navi
-	Selection Test has
-	started!
+	já começou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder who will
-	win...
+	Quem será que
+	vai vencer...?
 	"""
 	keyWait
 		any = false
@@ -291,14 +285,14 @@ script 42 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Hasn't the Operator
-	Navi pretty much
-	been chosen?
+	O Navi Operador já
+	não foi praticamente
+	escolhido?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I wonder who won?"
+	"Quem será que ganhou?"
 	keyWait
 		any = false
 	end
@@ -308,24 +302,23 @@ script 43 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We didn't prepare
-	enough electricity
-	after all...
+	É, realmente não
+	preparamos eletricidade
+	o bastante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The electricity
-	didn't reach all the
-	way over here.
+	A energia elétrica
+	não chegou até aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm,hmm,hmm...
-	I wonder why...
+	Hmm, hmm, hmm...
+	Por que será...?
 	"""
 	keyWait
 		any = false
@@ -336,35 +329,35 @@ script 50 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Without the Force
-	Program,we can't
-	create our full
+	Sem o Programa de Força,
+	não podemos produzir
+	nosso volume total de
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"output of power."
+	"energia."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks to that,
-	things that machines
-	used to do,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	humans now have to
-	do by hand...
+	Devido a isso, coisas
+	os humanos estão tendo
+	que fazer coisas que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... *sigh* How
-	inconvenient it is!
+	antes ficavam a
+	cargo das máquinas...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... Afe!
+	É tão inconveniente!
 	"""
 	keyWait
 		any = false
@@ -375,17 +368,17 @@ script 51 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	I heard that a lot
-	of money went into
-	making the Expo.
+	Ouvi falar que investiram
+	uma grana preta pra
+	construir a Exposição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mayor Cain really
-	wants it to succeed,
-	huh?
+	O Prefeito Cain quer
+	mesmo que ela seja um
+	sucesso, né?
 	"""
 	keyWait
 		any = false
@@ -405,25 +398,23 @@ script 52 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Hey,have you seen
-	the Expo commercial?
-	Well,have you!?
+	Ei, você viu o comercial
+	da Exposição? Viu, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Navi in that
-	commercial is really
-	handsome!
+	O Navi que aparece
+	nele é tão bonitão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if I can
-	meet him when I go
-	to the Expo.
+	Será que eu vou me
+	encontrar com ele se
+	for pra Exposição?
 	"""
 	keyWait
 		any = false
@@ -434,16 +425,16 @@ script 53 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	There's something
-	happening in Seaside
-	Town...
+	Tem alguma coisa
+	acontecendo no
+	Distrito Beira-Mar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You really shouldn't
-	go near there...
+	Acho melhor passar
+	longe dali...
 	"""
 	keyWait
 		any = false
@@ -454,17 +445,17 @@ script 54 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	All the good feeling
-	the Expo was making
-	is all gone now,
+	Toda a animação que a
+	Exposição tava inspirando
+	evaporou agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	all because of what
-	happened in Seaside
-	Town!
+	tudo por causa do que
+	aconteceu no Distrito
+	Beira-Mar!
 	"""
 	keyWait
 		any = false

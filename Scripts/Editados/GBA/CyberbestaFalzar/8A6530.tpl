@@ -6,13 +6,14 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is...inside the
-	courtroom...??
+	A gente tá...
+	dentro da sala
+	de audiências...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That means..."
+	"Então..."
 	keyWait
 		any = false
 	end
@@ -21,7 +22,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Prosecutor Ito!!"
+	"Promotor Ito!!"
 	keyWait
 		any = false
 	end
@@ -31,9 +32,8 @@ script 2 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	... Hey,Lan!
-	What are you doing
-	over there?
+	... Lan!
+	Está fazendo o quê aí?
 	"""
 	keyWait
 		any = false
@@ -44,8 +44,8 @@ script 3 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	What do you think
-	you're going to do?
+	O que pensa que vai
+	conseguir fazer?
 	"""
 	keyWait
 		any = false
@@ -58,8 +58,8 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm going to stop
-	the JudgeTree!
+	Eu vou parar a
+	Árvore Juíza!
 	"""
 	keyWait
 		any = false
@@ -71,57 +71,56 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	msgOpen
-	"Stop?"
+	"Parar?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Haha,I suppose you
-	can access the
-	JudgeTree from the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	control panel in
-	front of you,
+	Ha ha. É, acho que é
+	possível se conectar a
+	ela através do painel de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but you should give
-	up,Lan.
+	controle logo
+	à sua frente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Navi,JudgeMan,
-	is in that tree.
+	Mas é melhor
+	desistir, Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On top of that,there
-	is one more guest in
-	that tree today...
+	O meu Navi, o JudgeMan,
+	está nessa árvore.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that Navi is
-	very powerful,
+	Além disso, ela conta
+	com mais um convidado
+	também...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and very evil,
-	indeed!
+	e esse convidado é um
+	Navi muito poderoso.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Poderoso... e cruel!
 	"""
 	keyWait
 		any = false
@@ -133,25 +132,24 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Prosecutor Ito..."
+	"Promotor Ito..."
 	keyWait
 		any = false
 	clearMsg
-	"I don't get it."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You were so cool
-	during the trial...
-	"""
+	"Eu não entendo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and you have such
-	a great sense of
-	justice...
+	Você foi tão imponente
+	durante o julgamento...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e tem um senso de
+	justiça tão forte...
 	"""
 	keyWait
 		any = false
@@ -164,16 +162,15 @@ script 7 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	Hahaha...
-	A sense of
-	justice...?
+	Ha ha ha...
+	"Senso de justiça"...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I gave up on justice
-	a long time ago.
+	Eu desisti da justiça
+	já faz muito tempo.
 	"""
 	keyWait
 		any = false
@@ -186,8 +183,8 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But...
-	Why...?
+	Mas...
+	Por quê...?
 	"""
 	keyWait
 		any = false
@@ -200,96 +197,98 @@ script 9 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	Ah,long ago,
-	when I was young,
-	I thought,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"\"I'm going to put\n all the bad people\n in jail!\""
-	keyWait
-		any = false
-	clearMsg
-	"But you see,Lan..."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	no matter how many
-	bad people you
-	lock away,
+	Bom, muito tempo atrás,
+	quando eu ainda era
+	jovem, eu pensava:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there are always new
-	criminals to take
-	their place.
+	"Vou colocar todos
+	os malfeitores atrás
+	das grades!"
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"O problema, Lan..."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	é que, por mais
+	criminosos que prendamos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Yes,I realized
-	the horrible truth.
+	sempre aparecem
+	mais criminosos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As long as there are
-	humans on this Earth,
+	... Sim, eu entendi
+	a verdade cruel.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there will always be
-	crime.
+	Enquanto restar qualquer
+	ser humano na Terra,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It doesn't matter
-	what we do,or what
-	rules we make.
+	o crime persistirá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And so I lost my
-	faith in justice.
+	Não importa o que
+	façamos ou as leis
+	que estabeleçamos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Around that time,
-	the "organization"
-	found me,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"and I was reborn."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I figured that if
-	humans couldn't make
-	the perfect society,
+	E, assim, eu perdi
+	a minha fé na justiça.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then I might as well
-	destroy it!
+	Foi mais ou menos então
+	que a organização me
+	encontrou,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"e eu renasci."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Concluí que, se os
+	humanos são incapazes
+	de fazer uma sociedade
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	perfeita...
+	então ela merece
+	que eu a destrua!
 	"""
 	keyWait
 		any = false
@@ -305,7 +304,7 @@ script 10 mmbn6 {
 		delay = 3
 	"""
 	......
-	That's messed up!
+	Isso é doentio!
 	"""
 	keyWait
 		any = false
@@ -313,8 +312,8 @@ script 10 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	I can't see how that
-	makes sense at all!
+	Esse papo não faz o
+	menor sentido pra mim!
 	"""
 	keyWait
 		any = false
@@ -327,24 +326,22 @@ script 11 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	That's because
-	you're still just
-	a child.
+	Isso porque você
+	ainda é uma criança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll understand
-	when you grow up.
+	Entenderá quando crescer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I guess we'll
-	have remade the
-	world by then!
+	... Se bem que acho que
+	já terei reformulado o
+	mundo até então!
 	"""
 	keyWait
 		any = false
@@ -357,46 +354,45 @@ script 12 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I...really,really
-	respected you,
+	Eu... te respeitava
+	muito. Muito mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and thought you
-	were cool...
+	Achava você legal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now I see I
-	was wrong about you.
+	Mas, agora, tô vendo
+	que eu tava errado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	textSpeed
 		delay = 3
-	"So..."
+	"Então..."
 	keyWait
 		any = false
 	clearMsg
 	textSpeed
 		delay = 2
-	"I will stop you"
+	"eu vou te deter."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with everything
-	I have!!
+	Vou dar tudo de
+	mim pra te deter!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!!"
+	"Bora, MegaMan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -410,13 +406,13 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock

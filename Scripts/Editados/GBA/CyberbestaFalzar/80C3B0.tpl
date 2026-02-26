@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"That Sunday..."
+	"Naquele domingo..."
 	keyWait
 		any = false
 	end
@@ -13,9 +13,9 @@ script 1 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Isn't it nice that
-	everyone came to
-	see you off,Lan?
+	Que legal que todo
+	muito veio se despedir
+	de você, né, Lan?
 	"""
 	keyWait
 		any = false
@@ -26,23 +26,23 @@ script 2 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Thank you,Ms.Mari,
-	and everyone else,
+	Obrigado, Srta. Mari.
+	Obrigado a todos vocês,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for coming to
-	see my son off.
+	por virem se despedir
+	do meu filho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My family and I will
-	be moving to a place
-	called Cyber City.
+	Minha família e eu vamos
+	nos mudar para uma
+	cidade chamada Saibher.
 	"""
 	keyWait
 		any = false
@@ -50,9 +50,8 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	But,pops,
-	what are you
-	gonna do there?
+	Mas, seu Hikari,
+	cê vai fazer o quê lá?
 	"""
 	keyWait
 		any = false
@@ -60,69 +59,71 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Well,I can't give
-	specifics,but
+	Bom, eu não posso
+	dar detalhes,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyber City's mayor
-	has asked for
-	my help...
+	mas o prefeito da
+	Cidade Saibher pediu
+	a minha ajuda...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... That is to say,
-	it's still under
-	construction,but
+	... Basicamente,
+	ainda está em
+	construção,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in 6 months,an Expo
-	about the harmony
-	between technology
+	mas, em 6 meses, uma
+	exposição sobre a
+	harmonia entre
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and nature is
-	scheduled to open.
+	a tecnologia e a
+	natureza está marcada
+	para ser inaugurada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyber City's Net
-	traffic will jump
+	E o tráfego de Rede
+	da Cidade Saibher
+	vai aumentar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	dramatically once
-	the Expo opens.
+	drasticamente quando
+	isso acontecer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Since I'm a
-	Net specialist,
-	I was asked to go
+	Como eu sou um
+	especialista em Rede,
+	me pediram para ir lá
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and make sure the
-	network can handle
-	all those requests.
+	e ajustar tudo para que
+	a Rede dê conta de
+	todos esses acessos.
 	"""
 	keyWait
 		any = false
@@ -130,9 +131,8 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	When it's over,
-	you'll be back,
-	right!?
+	Mas, assim que acabar,
+	cês voltam, né?!
 	"""
 	keyWait
 		any = false
@@ -140,32 +140,32 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	I'll be continuing
-	my research into
-	next_gen Net systems
+	... Vou continuar
+	pesquisando sistemas de
+	Rede da próxima geração,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and Cyber City is
-	a model next_gen
-	Net society.
+	e a Cidade Saibher é
+	uma sociedade modelo da
+	Rede da próxima geração.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,even after it's
-	over,we will most
-	likely be staying...
+	Então, mesmo depois que
+	isso acabar, é provável
+	que fiquemos por lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Dex
-	"... Oh..."
+	"... Ah..."
 	keyWait
 		any = false
 	clearMsg
@@ -184,31 +184,31 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Now,now.
-	Don't look so down.
+	Ah, vamos, gente.
+	Não fiquem tão tristes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not as if you
-	will never see each
-	other again.
+	Não é como se vocês
+	nunca mais fossem se ver.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're still in the
-	same country. We can
-	come and visit.
+	Ainda estaremos no
+	mesmo país. Podemos
+	vir visitar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come visit us once
-	the Expo opens,OK?
+	E vocês também. Assim
+	que a exposição abrir,
+	visitem a gente, OK?
 	"""
 	keyWait
 		any = false
@@ -221,30 +221,31 @@ script 3 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Ms.Mari,and all of
-	Lan's friends,
+	Srta. Mari, e todas
+	vocês, crianças...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to thank you
-	for all you've done.
+	Quero agradecer do
+	fundo do coração pelo
+	que vocês fizeram.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We may be changing
-	where we live,
+	Podemos estar
+	trocando de moradia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but you'll always be
-	our friends. So feel
-	free to drop by!
+	mas vocês sempre serão
+	nossos amigos. Logo,
+	são sempre bem-vindos!
 	"""
 	keyWait
 		any = false
@@ -255,16 +256,15 @@ script 4 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Well then,Lan,your
-	Mom and I will be
-	waiting by the car.
+	Bom, Lan, sua mãe e eu
+	vamos esperar no carro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come to the car
-	when you're done.
+	Venha assim que
+	terminar aqui.
 	"""
 	keyWait
 		any = false
@@ -274,14 +274,13 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"U_Um..."
+	"E-er..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I,uh...
-	thanks for coming
-	today...
+	Sabe, hum...
+	Obrigado por virem hoje...
 	"""
 	keyWait
 		any = false
@@ -296,9 +295,9 @@ script 6 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	No matter where you
-	go,I'll always be
-	your rival!!
+	Onde quer que cê
+	teja, eu vou sempre
+	ser o seu rival!
 	"""
 	keyWait
 		any = false
@@ -315,8 +314,8 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Yeah,we'll always
-	be rivals! Always!
+	É! Somos rivais
+	eternos! Pode crer!
 	"""
 	keyWait
 		any = false
@@ -329,29 +328,29 @@ script 8 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You may think you're
-	far away,but you'd
-	better write to me!
+	Eu sei que você vai
+	estar longe, mas é bom
+	escrever, viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll always be
-	connected through
-	the Cyberworld.
+	Digo, a gente vai
+	estar sempre ligado
+	pelo mundo cibernético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better come
-	see us... *sniffle*
+	E é bom você vir
+	visitar... Chuif...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Waaah..."
+	"... Buuááá..."
 	keyWait
 		any = false
 	clearMsg
@@ -367,8 +366,8 @@ script 9 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	OK,I promise to
-	keep in touch.
+	Claro. Eu prometo que
+	vou manter contato.
 	"""
 	keyWait
 		any = false
@@ -380,44 +379,44 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"*sniffle... sniffle*"
+	"Sniff... Sniff..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I_I thought you
-	would all graduate
-	together...*sniffle*
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You are my first
-	... *sniffle*...
-	graduating class...
+	E-eu achava que vocês
+	iam se formar todos
+	juntos... Chuif...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I always
-	hoped that...
+	Vocês são a minha...
+	chuif... primeira turma
+	que vai se formar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd see you all
-	graduate together...
+	então, eu sempre
+	achei que...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... *sniffle*...
-	I really wanted to
-	see that...
+	ia ver vocês todos
+	pegando o diploma juntos...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... Sniff...
+	Eu queria tanto ver
+	i-isso...
 	"""
 	keyWait
 		any = false
@@ -429,22 +428,22 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ms.Mari..."
+	"Srta. Mari..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wanted to graduate
-	from ACDC School
-	with everyone,too...
+	Eu também queria me
+	formar na Escola ACDC
+	com todo o pessoal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but even when I
-	move,you'll always
-	be my teacher!
+	mas, mesmo eu me
+	mudando, você vai sempre
+	ser a minha professora!
 	"""
 	keyWait
 		any = false
@@ -456,7 +455,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"Lan... *sniffle*..."
+	"Lan... Chuif..."
 	keyWait
 		any = false
 	clearMsg
@@ -466,7 +465,7 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Hey,take care,Lan!!"
+	"Se cuida, viu, Lan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -475,7 +474,7 @@ script 13 mmbn6 {
 }
 script 14 mmbn6 {
 	msgOpen
-	"Come visit a lot!"
+	"Venha visitar um monte!"
 	keyWait
 		any = false
 	clearMsg
@@ -485,8 +484,8 @@ script 14 mmbn6 {
 script 15 mmbn6 {
 	msgOpen
 	"""
-	It's gonna be
-	kinda lonely...
+	Não vai ser a mesma
+	coisa sem você...
 	"""
 	keyWait
 		any = false
@@ -496,7 +495,7 @@ script 15 mmbn6 {
 }
 script 16 mmbn6 {
 	msgOpen
-	"Good luck!!"
+	"Boa sorte lá!!"
 	keyWait
 		any = false
 	clearMsg
@@ -507,11 +506,11 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks,you guys..."
+	"Obrigado, gente..."
 	keyWait
 		any = false
 	clearMsg
-	"I've gotta go now."
+	"Bom, tá na hora de eu ir."
 	keyWait
 		any = false
 	clearMsg
@@ -523,38 +522,36 @@ script 18 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,I...was just
-	thinking how great
-	it would be if we
+	Lan, eu... não paro de
+	pensar em como seria
+	ótimo a gente se formar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	could graduate from
-	elementary school
-	together,
+	no Fundamental 1
+	juntos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and then go to
-	junior high school
-	together...
+	e, depois, ir pro
+	Fundamental 2 juntos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'd be so nice...
-	being together...
-	always...
+	Seria tão legal...
+	a gente ficar junto...
+	sempre...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... *sniffle*"
+	"... Chuif!!"
 	keyWait
 		any = false
 	clearMsg
@@ -576,13 +573,13 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"I'm sorry..."
+	"Desculpa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I told myself
-	I wouldn't cry...
+	Eu jurei pra mim mesma
+	que não ia chorar...
 	"""
 	keyWait
 		any = false
@@ -593,22 +590,22 @@ script 21 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... We'll see each
-	other again,and
+	... A gente ainda
+	vai se ver,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll definitely be
-	back someday!
+	e eu juro que, um dia,
+	eu volto pra valer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,don't cry...
-	... *sniffle*
+	Então, n-não chora...
+	... Sniff...
 	"""
 	keyWait
 		any = false
@@ -620,7 +617,7 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"... Yeah."
+	"... Uhum."
 	keyWait
 		any = false
 	clearMsg
@@ -632,8 +629,8 @@ script 23 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm glad you
-	understand.
+	Eu fico feliz que
+	você entendeu.
 	"""
 	keyWait
 		any = false
@@ -644,13 +641,13 @@ script 24 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,everyone,I
-	better get going...
+	Bom, pessoal, é melhor
+	eu ir logo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Take care!!"
+	"Se cuidem!!"
 	keyWait
 		any = false
 	clearMsg
@@ -661,7 +658,7 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"You betcha,Lan!!"
+	"Até, Lan!!"
 	keyWait
 		any = false
 	soundFadeOut

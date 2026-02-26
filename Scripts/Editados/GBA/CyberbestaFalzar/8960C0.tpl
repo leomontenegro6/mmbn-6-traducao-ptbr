@@ -32,13 +32,13 @@ script 1 mmbn6 {
 	"."
 	wait
 		frames = 20
-	" Hey,Lan,"
+	" Ei, Lan,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	don't tell me THAT'S
-	the "
+	sério que ESSE
+	é o "
 	"""
 	printItem
 		buffer = 0
@@ -55,29 +55,28 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... I guess
-	that's it...
+	... Acho que é, né...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But what's it
-	doing there?
+	Mas o que será que
+	ele tá fazendo aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,let's delete
-	that virus first.
+	Bom, bora deletar
+	esse vírus primeiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mom is getting
-	kinda embarrassed.
+	A mamãe tá morta de
+	vergonha aqui do lado.
 	"""
 	keyWait
 		any = false
@@ -87,29 +86,29 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... Uh,Lan,"
+	"... Hum, Lan,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really don't want
-	to fight this guy...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I mean,that doesn't
-	look like a "tool"
-	to me!!
+	eu realmente preferia
+	não ter que lutar contra
+	isso aí...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks more like that
-	thing you use when
-	the toilet is stuck!
+	Digo, eu sei que,
+	tecnicamente, é uma
+	"ferramenta", mas...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Um desentupidor de
+	privada?! Sério?!
 	"""
 	keyWait
 		any = false
@@ -121,7 +120,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
@@ -133,9 +132,9 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	L_Lan!!
-	Are you even
-	listening...?
+	L-Lan!!
+	Não ouviu o
+	que eu falei?!
 	"""
 	keyWait
 		any = false
@@ -147,7 +146,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
@@ -167,7 +166,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... Execute..."
+	"... Executar..."
 	keyWait
 		any = false
 	end

@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TERRIBLE,TERRIBLE!
-	THIS IS UNHEARD OF!
-	RECORD_BREAKING!
+	QUE HORROR! HORROR!
+	NÃO HÁ PRECEDENTES!
+	É INÉDITO!!
 	"""
 	keyWait
 		any = false
@@ -21,9 +21,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Calm down!
-	What in the world
-	happened?
+	Calma!
+	O que aconteceu aqui?
 	"""
 	keyWait
 		any = false
@@ -34,16 +33,16 @@ script 2 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE FIRE IS ALREADY
-	THIS INTENSE!
+	O FOGO JÁ TÁ
+	FORTE ASSIM!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MY FRIENDS ARE ALL
-	GOING TO BE BURNED
-	UP AT THIS RATE!!
+	NESSE RITMO, OS
+	MEUS AMIGOS TODOS
+	VÃO QUEIMAR!!
 	"""
 	keyWait
 		any = false
@@ -53,7 +52,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What!?"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -65,33 +64,33 @@ script 4 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A RED NAVI THAT
-	CAME IN JUST NOW
-	CAUSED ALL THIS!
+	UM NAVI VERMELHO
+	PASSOU POR AQUI E
+	CAUSOU TUDO ISSO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M RESISTANT TO
-	HEAT,SO I'M OK,
-	BUT...
+	EU SOU RESISTENTE
+	AO CALOR, ENTÃO
+	ESTOU BEM, MAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AH,IF THIS KEEPS UP,
-	THIS COMP WILL MELT
-	DOWN FROM THE HEAT!
+	AH, SE ISSO CONTINUAR,
+	O CALOR VAI DERRETER
+	ESTE COMPUTADOR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M BEGGING YOU!
-	SAVE MY FRIENDS,AND
-	GET THEM OUT,PLEASE!
+	EU TE IMPLORO!
+	SALVE OS MEUS AMIGOS
+	E TIRE ELES DE LÁ!
 	"""
 	keyWait
 		any = false
@@ -104,8 +103,8 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Gotcha!
-	I'll give it a shot!
+	Beleza!
+	Eu vou tentar!
 	"""
 	keyWait
 		any = false
@@ -116,15 +115,15 @@ script 6 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WOW! YOU'RE REALLY
-	BRAVE!
+	NOSSA!
+	VOCÊ É VALENTE MESMO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... WELL,YOU'LL NEED
-	THIS THEN!
+	... BOM, NESSE CASO,
+	VAI PRECISAR DISTO!
 	"""
 	keyWait
 		any = false
@@ -138,7 +137,7 @@ script 7 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -160,16 +159,16 @@ script 8 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	JUST BE CAREFUL
-	ABOUT ONE THING!
+	SÓ TOME CUIDADO
+	COM UMA COISA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ONCE IN A WHILE,THE
-	RED NAVI SHOOTS OUT
-	A WAVE OF FLAMES.
+	DE VEZ EM QUANDO, O
+	NAVI VERMELHO DISPARA
+	UMA ONDA DE CHAMAS.
 	"""
 	keyWait
 		any = false
@@ -179,17 +178,16 @@ script 8 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	SPEAKING OF FLAME
-	WAVES,HERE COMES
-	ONE NOW!
+	FALANDO NELAS,
+	LÁ VEM UMA AGORA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S BEST NOT TO
-	MOVE WHEN IT
-	HAPPENS.
+	QUANDO ISSO ACONTECE,
+	O MELHOR É NÃO SE
+	MEXER.
 	"""
 	keyWait
 		any = false
@@ -200,39 +198,39 @@ script 9 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	BEFORE A WAVE,LITTLE
-	EMBERS WILL SHOW
-	WHERE THE FLAMES
+	LOGO ANTES DE UMA ONDA,
+	PEQUENAS BRASAS VÃO
+	INDICAR DE ONDE AS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WILL COME FROM.
-	STAND BEHIND A
-	CUBE,LIKE WE DID
+	CHAMAS VÃO VIR.
+	FIQUE ATRÁS DE UM
+	CUBO, QUE NEM FIZEMOS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JUST NOW,AND IT WILL
-	BLOCK THE WAVE.
+	AGORA, E ELE VAI
+	BLOQUEAR A ONDA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF THERE'S SOMETHING
-	YOU DON'T
-	UNDERSTAND,ASK AWAY!
+	SE TIVER ALGUMA
+	DÚVIDA, É SÓ ME
+	PERGUNTAR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NOW PLEASE GO SAVE
-	MY FRIENDS!
+	ENFIM, POR FAVOR,
+	SALVE OS MEUS AMIGOS!
 	"""
 	keyWait
 		any = false

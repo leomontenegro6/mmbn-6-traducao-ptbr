@@ -6,21 +6,21 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M THE HEATER
-	PROGRAM!
+	EU SOU O PROG
+	DO AQUECEDOR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DON'T JUST HEAT
-	THE ROOM,I HEAT THE
-	SOUL AS WELL!
+	EU NÃO AQUEÇO SÓ O
+	AMBIENTE. EU TAMBÉM
+	AQUEÇO... A ALMA!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HOT HOT HOT!!"
+	"QUENTE, QUENTE!!"
 	keyWait
 		any = false
 	end

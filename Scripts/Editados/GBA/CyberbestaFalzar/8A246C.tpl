@@ -6,15 +6,13 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The JudgeTree,
-	huh...
+	A Árvore Juíza...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what it's
-	like...
+	Como será que ela é?
 	"""
 	keyWait
 		any = false
@@ -27,17 +25,16 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,since it makes
-	all the judgments
-	for the trials,
+	Bom, como ela realiza
+	todos os julgamentos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd guess that it's
-	got its own will,
-	like us NetNavis.
+	imagino que tenha
+	vontade própria,
+	como nós, os Navis.
 	"""
 	keyWait
 		any = false
@@ -50,16 +47,15 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So you think this
-	tree can hear my
-	voice,too,
+	Então você acha que
+	ela também consegue
+	ouvir a minha voz,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just like you,
-	MegaMan?
+	que nem você, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -71,7 +67,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I have no idea..."
+	"Sei lá..."
 	keyWait
 		any = false
 	end
@@ -81,9 +77,9 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Heeeey,Mr.JudgeTree!
-	If you can hear me,
-	answer,OK?
+	Eeeeei, Sra. Árvore
+	Juííízaaa! Se tá me
+	ouvindo, responde, vai!
 	"""
 	keyWait
 		any = false
@@ -92,7 +88,7 @@ script 4 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Hey,Mr.JudgeTreeeee!"
+	"Sra. Árvore Juííízaaaaa!"
 	keyWait
 		any = false
 	clearMsg
@@ -105,7 +101,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I said,\"Hey!\""
+	"Responde o meu \"ei\"!"
 	keyWait
 		any = false
 	end
@@ -117,9 +113,9 @@ script 6 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ah! Lan!! What are
-	you...? Don't lean
-	over that far!!
+	Ah! Lan!! O que você
+	tá...? Não se inclina
+	tanto assim!
 	"""
 	keyWait
 		any = false
@@ -127,7 +123,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Answer me!"
+	"Responde!"
 	keyWait
 		any = false
 	clearMsg
@@ -136,12 +132,12 @@ script 6 mmbn6 {
 	controlLock
 	soundPlay
 		track = 415
-	"*thump! "
+	"Toc! "
 	wait
 		frames = 14
 	soundPlay
 		track = 415
-	"thump!*"
+	"Toc!"
 	wait
 		frames = 14
 	soundEnableTextSFX
@@ -155,9 +151,9 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Stop it,Lan!
-	Now you're just
-	harassing it!
+	Para, Lan!
+	Agora você tá
+	agredindo ela!
 	"""
 	keyWait
 		any = false
@@ -170,14 +166,14 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But don't you think
-	it should at least
-	answer me?
+	Mas cê não acha que
+	ela devia, pelo menos,
+	me responder?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Maybe it's asleep?"
+	"Será que dormiu?"
 	keyWait
 		any = false
 	clearMsg
@@ -189,22 +185,22 @@ script 9 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ugh,I don't believe
-	you're...
+	Ugh, você é
+	inacreditável...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,well. What can
-	you expect?
+	Bom, mas você tava
+	esperando o quê?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's pretty much
-	just a tree...
+	É só uma árvore,
+	basicamente...
 	"""
 	keyWait
 		any = false
@@ -219,20 +215,20 @@ script 10 mmbn6 {
 	msgOpen
 	soundDisableTextSFX
 	controlLock
-	"*BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP"
+	"BIIP"
 	soundPlay
 		track = 205
-	"!!*"
+	"!!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -241,8 +237,8 @@ script 10 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	EMERGENCY!
-	EMERGENCY!
+	EMERGÊNCIA!
+	EMERGÊNCIA!
 	"""
 	soundPlayBGM
 		track = 12
@@ -254,7 +250,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What? What?"
+	"Hã? Quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -265,16 +261,15 @@ script 12 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	EMERGENCY!
-	EMERGENCY!
+	EMERGÊNCIA!
+	EMERGÊNCIA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE HAVE A
-	"LEVEL 5 EMERGENCY"
-	SITUATION!
+	TEMOS UMA "SITUAÇÃO DE
+	EMERGÊNCIA NÍVEL CINCO"!
 	"""
 	keyWait
 		any = false
@@ -287,16 +282,16 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Looks like something
-	happened inside this
-	building.
+	Parece que tá
+	acontecendo alguma
+	coisa aqui dentro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe we should get
-	outside!
+	Talvez seja melhor a
+	gente sair do tribunal!
 	"""
 	keyWait
 		any = false
@@ -308,7 +303,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,let's go!"
+	"É, bora!"
 	keyWait
 		any = false
 	end
@@ -317,7 +312,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Waaah!"
+	"Aaaahh!"
 	keyWait
 		any = false
 	clearMsg
@@ -327,11 +322,11 @@ script 15 mmbn6 {
 script 16 mmbn6 {
 	mugshotHide
 	msgOpen
-	"SUSPECT SURROUNDED!"
+	"SUSPEITO CERCADO!"
 	keyWait
 		any = false
 	clearMsg
-	"BEGIN CAPTURE!"
+	"INICIAR CAPTURA!"
 	keyWait
 		any = false
 	clearMsg
@@ -342,11 +337,11 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"S_Suspect...!?"
+	"S-suspeito...?!"
 	keyWait
 		any = false
 	clearMsg
-	"Me...? Again!?"
+	"Eu...? De novo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -357,40 +352,56 @@ script 18 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	GREEN TOWN ORDINANCE
-	3 STATES,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"\"WITH REGARD TO THE\n JUDGETREE OF\n GREEN TOWN,"
-	keyWait
-		any = false
-	clearMsg
-	" IT IS RECOGNIZED\n AS SOMETHING VITAL\n AND IMPORTANT TO"
-	keyWait
-		any = false
-	clearMsg
-	" THE TOWN.\n THEREFORE,ANYONE\n WHO CAUSES HARM TO"
-	keyWait
-		any = false
-	clearMsg
-	" IT,WILL BE REMOVED\n IN ANY WAY\n NECESSARY.\""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	WE,IN ACCORDANCE
-	WITH THE ABOVE
-	ORDINANCE,
+	CONFORME CONSTA NO
+	DECRETO TRÊS DO
+	DISTRITO VERDE:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HAVE DETERMINED
-	THAT YOU HAVE HARMED
-	THE JUDGETREE.
+	"NO QUE SE REFERE
+	À ÁRVORE JUÍZA DO
+	DISTRITO VERDE,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A REFERIDA É
+	RECONHECIDA COMO
+	ELEMENTO VITAL E DE
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	IMPORTÂNCIA PARA O
+	DISTRITO. PORTANTO,
+	QUALQUER UM QUE CAUSE
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	DANO A ELA DEVE SER
+	REMOVIDO POR QUALQUER
+	MEIO NECESSÁRIO."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	EM OBEDIÊNCIA
+	A TAL DECRETO,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	DETERMINAMOS QUE
+	VOCÊ DANIFICOU A
+	ÁRVORE JUÍZA.
 	"""
 	keyWait
 		any = false
@@ -403,16 +414,15 @@ script 19 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's with these
-	robots going around
+	Qual é a desses robôs,
+	indo pra lá e pra cá,
+	chamando todo mundo de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	calling everyone
-	suspicious or a
-	suspect anyway!?
+	"suspeito"?!
 	"""
 	keyWait
 		any = false
@@ -425,8 +435,8 @@ script 20 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I told you to leave
-	the JudgeTree alone.
+	Eu FALEI pra você parar
+	de mexer na árvore.
 	"""
 	keyWait
 		any = false
@@ -438,7 +448,7 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,come on!!"
+	"MegaMan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -450,9 +460,8 @@ script 22 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,the tree's
-	vital and,uh,im_
-	portant,and,yeah...
+	Sabe, a árvore é vital
+	e... importante e... É...
 	"""
 	keyWait
 		any = false
@@ -463,13 +472,16 @@ script 22 mmbn6 {
 script 23 mmbn6 {
 	mugshotHide
 	msgOpen
-	"\"LEVEL 5 EMERGENCY\""
+	"""
+	"EMERGÊNCIA DE
+	NÍVEL CINCO".
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	USE OF STUN ARMS
-	APPROVED.
+	AUTORIZADO USO
+	DOS BRAÇOS-TASER.
 	"""
 	keyWait
 		any = false
@@ -480,8 +492,8 @@ script 24 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	W_Wait!!
-	Stun arms!?
+	P-pera aí!!
+	Braços-taser?!
 	"""
 	keyWait
 		any = false
@@ -491,14 +503,14 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Noooooo!!"
+	"Nããããããooo!!"
 	keyWait
 		any = false
 	end
 }
 script 26 mmbn6 {
 	msgOpen
-	"... Jack in."
+	"... Conectar."
 	soundFadeOut
 		slot = 31
 		length = 7
@@ -510,15 +522,15 @@ script 27 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... H_Huh?"
+	"... H-hã?"
 	keyWait
 		any = false
 	clearMsg
-	"... They've stopped?"
+	"... Eles pararam?"
 	keyWait
 		any = false
 	clearMsg
-	"... What's going on?"
+	"... O que tá rolando?"
 	keyWait
 		any = false
 	clearMsg
@@ -530,9 +542,9 @@ script 28 mmbn6 {
 		mugshot = DisguiseChaud
 	msgOpen
 	"""
-	You wouldn't have
-	any trouble if you
-	had faster skills.
+	Se a sua operação
+	fosse mais ágil, isso
+	não seria problema.
 	"""
 	keyWait
 		any = false
@@ -544,8 +556,8 @@ script 29 mmbn6 {
 	msgOpen
 	"""
 	... Ah!
-	It's that strange
-	guy from before!
+	É aquele esquisitão
+	de ainda agora!
 	"""
 	keyWait
 		any = false
@@ -557,21 +569,14 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Faster skills..."
+	"Operação mais ágil..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You mean you're the
-	one that jacked in
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	and then crashed
-	these robots at that
-	super_fast speed...?
+	Então você se conectou
+	nos robôs e desligou eles
+	com essa rapidez toda?
 	"""
 	keyWait
 		any = false
@@ -583,7 +588,7 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"N_No way!"
+	"I-impossível!"
 	keyWait
 		any = false
 	end
@@ -597,17 +602,17 @@ script 32 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	... you're at the
-	center of all the
-	trouble recently,
+	você esteve no centro
+	de todos os problemas
+	recentes,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but by the looks of
-	it,I can tell you're
-	still oblivious.
+	mas, ao que parece,
+	vejo que continua
+	alheio à realidade.
 	"""
 	keyWait
 		any = false
@@ -620,8 +625,8 @@ script 33 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Not this nonsense
-	again! Look...
+	Esse papo de novo?!
+	Olha aqui...
 	"""
 	keyWait
 		any = false
@@ -634,15 +639,14 @@ script 34 mmbn6 {
 		mugshot = DisguiseChaud
 	msgOpen
 	"""
-	You still don't
-	understand?
+	Ainda não entendeu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is what they
-	call a "set_up".
+	Isto é o que se
+	chama de "armação".
 	"""
 	keyWait
 		any = false
@@ -655,8 +659,9 @@ script 35 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Set_up!?
-	What? By who!?
+	Armação?!
+	Que armação?
+	Quem armou?!
 	"""
 	keyWait
 		any = false
@@ -669,46 +674,44 @@ script 36 mmbn6 {
 		mugshot = DisguiseChaud
 	msgOpen
 	"""
-	Your Navi's too
-	dangerous...
+	O seu Navi é
+	perigoso demais...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While he's pushing
-	himself,that thing
-	is obedient,
+	Ele é obediente
+	enquanto luta por você,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but what you can't
-	see is how it is
-	consuming your Navi.
+	mas você não vê como
+	o seu Navi está sendo
+	consumido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something may occur
-	that will cause us
-	all serious trouble.
+	É possível que algo
+	aconteça que causará
+	problemas a todos nós.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that were to
-	happen...
+	Se isso acontecer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WILL delete
-	your Navi.
+	Eu VOU deletar
+	o seu Navi.
 	......
 	"""
 	keyWait
@@ -721,18 +724,18 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"D_Delete!?"
+	"D-deletar?!"
 	keyWait
 		any = false
 	clearMsg
-	"Delete MegaMan!?"
+	"Deletar o MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't mess with me!
-	I wouldn't ever let
-	that happen!
+	Até parece, cara!
+	Eu nunca ia deixar
+	isso acontecer!
 	"""
 	keyWait
 		any = false
@@ -745,8 +748,8 @@ script 38 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	Heeey!
-	Are you alright?
+	Eeeei!
+	Você está bem?
 	"""
 	keyWait
 		any = false
@@ -757,8 +760,7 @@ script 39 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	Are you alright,
-	Lan!?
+	Tudo bem com você, Lan?!
 	"""
 	keyWait
 		any = false
@@ -770,14 +772,13 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm sorry..."
+	"Desculpa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I went and
-	touched the
-	JudgeTree...
+	Eu acabei encostando
+	na Árvore Juíza...
 	"""
 	keyWait
 		any = false
@@ -790,21 +791,20 @@ script 41 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	... Oh,that wasn't
-	good...
+	... Ah, isso não
+	é nada bom...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I should
-	have warned you
-	beforehand.
+	Acho que eu devia ter
+	te avisado de antemão.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... In any case..."
+	"... De todo modo..."
 	keyWait
 		any = false
 	end
@@ -814,9 +814,9 @@ script 42 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	I don't think I
-	know who you are.
-	And your name is...?
+	Acho que não nos
+	conhecemos. O seu
+	nome seria...?
 	"""
 	keyWait
 		any = false
@@ -829,8 +829,8 @@ script 43 mmbn6 {
 		mugshot = DisguiseChaud
 	msgOpen
 	"""
-	... I don't have
-	to answer you.
+	... Não tenho que
+	responder a você.
 	"""
 	keyWait
 		any = false
@@ -843,31 +843,31 @@ script 44 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	The JudgeTree is the
-	most important thing
+	A Árvore Juíza é a
+	coisa mais importante em
+	todo o Distrito Verde...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in all of Green
-	Town __ no,of
-	all Cyber City.
+	não, em toda a
+	Cidade Saibher.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I suspect you of
-	doing anything
-	suspicious to the
+	Se eu suspeitar que
+	você está fazendo
+	alguma coisa questionável
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JudgeTree,I could
-	get a warrant.
+	com ela, posso emitir
+	um mandado de prisão.
 	"""
 	keyWait
 		any = false
@@ -880,24 +880,24 @@ script 45 mmbn6 {
 		mugshot = DisguiseChaud
 	msgOpen
 	"""
-	Hmph...
-	Do what you want.
+	Hmpf...
+	Fique à vontade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I WAS the one
-	who was going to
-	harm the tree.
+	Talvez eu FOSSE aquele
+	que pretendia prejudicar
+	a árvore.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After all,I do think
-	this tree is a bit
-	..."troubled"...
+	Afinal de contas, essa
+	árvore é um tanto...
+	... "atribulada"...
 	"""
 	keyWait
 		any = false
@@ -908,8 +908,7 @@ script 46 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's with
-	that guy...
+	Qual é a desse cara...?
 	"""
 	keyWait
 		any = false
@@ -922,31 +921,32 @@ script 47 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	... Net criminals
-	that target this
-	tree do exist,and
+	... Existem netcriminosos
+	que têm a Árvore Juíza
+	como alvo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that man is probably
-	one of them. If this
-	tree were to be
+	e aquele homem
+	provavelmente é
+	um deles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hacked,law and order
-	would fall apart.
+	Se a Árvore fosse
+	hackeada, a lei e a
+	ordem iriam desmoronar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We must be on our
-	guard...
+	Temos que ficar
+	vigilantes...
 	"""
 	keyWait
 		any = false
@@ -957,20 +957,20 @@ script 48 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	More importantly,
-	Lan,
+	Mas, mais
+	importante, Lan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the trial is about
-	to start!
+	o julgamento está
+	para começar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end

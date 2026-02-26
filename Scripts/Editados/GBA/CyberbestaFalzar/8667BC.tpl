@@ -11,17 +11,17 @@ script 5 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	There are signs
-	of a struggle on the
-	Heliport down there.
+	Há sinais de altercação
+	no Heliporto aqui em
+	baixo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone must have
-	gotten into a fight.
-	How terrible...
+	Alguém deve ter se
+	envolvido numa briga.
+	Que horror...
 	"""
 	keyWait
 		any = false
@@ -32,25 +32,24 @@ script 10 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Really!? You got
-	picked for the Expo
-	pre_opening!?
+	É mesmo?! Você foi
+	escolhido pra ir à pré-
+	inauguração da Exposição?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is going to be
-	a SkyTown pavilion
-	at the Expo!
+	Vai haver um pavilhão
+	do Distrito Céu lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can check
-	out a replica of
-	Mr.Weather inside!
+	Lá você poderá
+	conferir uma réplica
+	do Seu Cleema!
 	"""
 	keyWait
 		any = false

@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Hey,Laaan!"
+	"Ei, Laaan!"
 	keyWait
 		any = false
 	end
@@ -14,7 +14,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,it's Dad!"
+	"Ah, é o papai!"
 	keyWait
 		any = false
 	end
@@ -23,13 +23,13 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's up,Dad?"
+	"Que foi, pai?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Were you at my
-	school?
+	Você tava na
+	minha escola?
 	"""
 	keyWait
 		any = false
@@ -42,8 +42,8 @@ script 3 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Ah,I had to do
-	something there...
+	Ah, é que eu tinha uma
+	coisa pra fazer lá...
 	"""
 	keyWait
 		any = false
@@ -55,14 +55,13 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh yeah!"
+	"Ah, é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I went to a trial
-	and testified today,
-	Dad!
+	Eu fui testemunha de
+	um julgamento hoje, pai!
 	"""
 	keyWait
 		any = false
@@ -75,17 +74,17 @@ script 5 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Oh...?
-	That's a really big
-	responsibilty!
+	Ah, é...?
+	Essa aí é uma grande
+	responsabilidade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why don't you tell
-	me all about it once
-	we get home?
+	Por que não me conta
+	tudo quando a gente
+	chegar em casa?
 	"""
 	keyWait
 		any = false

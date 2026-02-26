@@ -6,24 +6,24 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU MIGHT NOT KNOW
-	IT,BUT I'M REALLY A
-	TOILET PROGRAM!
+	TALVEZ VOCÊ NÃO SAIBA,
+	MAS EU SOU UM PROGRAMA
+	DE PRIVADA DE VERDADE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I CAN DO THINGS
-	LIKE RELEASE MINUS
-	IONS! CHECK IT OUT!!
+	SOU CAPAZ DE LIBERAR
+	ÍONS NEGATIVOS!
+	SACA SÓ!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LALALALALALALALA!
-	ION POWER!!
+	LÁ LÁ LÁ LÁ LÁ!
+	PODER ÍON!!
 	"""
 	keyWait
 		any = false

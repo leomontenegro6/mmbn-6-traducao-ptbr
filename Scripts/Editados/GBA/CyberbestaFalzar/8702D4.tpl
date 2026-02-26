@@ -16,17 +16,17 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EVERYDAY,THE
-	UNDERGROUND IS BEING
-	EXAMINED.
+	O SUBSOLO ANDA
+	SENDO EXAMINADO
+	TODOS OS DIAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOWEVER,IT WOULD BE
-	TERRIBLE IF A
-	CYBEAST EMERGED...
+	PORÉM, SERIA HORRÍVEL
+	SE UMA CYBERBESTA
+	SAÍSSE DE LÁ...
 	"""
 	keyWait
 		any = false
@@ -42,9 +42,8 @@ script 1 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Don't get too
-	close to that huge
-	hole!
+	Não chegue perto
+	demais do abismo!
 	"""
 	keyWait
 		any = false
@@ -54,14 +53,14 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"The Underground..."
+	"O SubSolo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we abandon it,
-	it may become the
-	2nd Undernet...
+	Se nós o ignorarmos,
+	ele pode se tornar
+	a segunda Undernet...
 	"""
 	keyWait
 		any = false
@@ -72,15 +71,14 @@ script 3 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I came to check out
-	the Underground,but
+	Eu vim conferir o SubSolo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's really kind of
-	scary...
+	mas realmente dá
+	um tanto de medo...
 	"""
 	keyWait
 		any = false
@@ -91,16 +89,9 @@ script 4 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Even if you came
-	to examine the
-	Underground,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	everyone hesitates
-	to go inside.
+	Mesmo quem veio
+	examinar o SubSolo
+	hesita em entrar.
 	"""
 	keyWait
 		any = false
@@ -111,24 +102,25 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT SEEMS THE EXPO
-	WILL BE HELD ON
-	SCHEDULE...
+	PARECE QUE A EXPOSIÇÃO
+	SERÁ REALIZADA COMO
+	PROGRAMADO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I HOPE THEY CAN
-	SEAL THE UNDERGROUND
+	ESPERO QUE BARREM
+	O SUBSOLO O QUANTO
+	ANTES,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REAL SOON,SO I CAN
-	ENJOY TALKING ABOUT
-	THE EXPO!!
+	PARA EU PODER ME
+	DIVERTIR FALANDO
+	DA EXPOSIÇÃO!!
 	"""
 	keyWait
 		any = false
@@ -139,17 +131,16 @@ script 11 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	My friends went into
-	the Underground and
-	said they'd be right
+	Os meus colegas entraram
+	no SubSolo e disseram que
+	voltariam logo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	back,but they still
-	haven't returned...
-	I'm worried...
+	mas ainda não voltaram...
+	Estou preocupado...
 	"""
 	keyWait
 		any = false
@@ -160,16 +151,16 @@ script 15 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WE HAVEN'T STARTED
-	OUR SURVEY OF THE
-	UNDERGROUND TODAY.
+	AINDA NÃO INICIAMOS
+	NOSSA ANÁLISE DO
+	SUBSOLO HOJE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S STILL A BIT
-	TOO EARLY...
+	AINDA ESTÁ UM
+	TANTO CEDO...
 	"""
 	keyWait
 		any = false
@@ -180,17 +171,16 @@ script 20 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	What are these
-	Navis? They're
-	rushing down on us!
+	Que Navis são esses?!
+	Eles estão nos invadindo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope there aren't
-	victims in other
-	areas...
+	Espero que não
+	tenham vítimas nas
+	outras áreas...
 	"""
 	keyWait
 		any = false
@@ -201,9 +191,9 @@ script 21 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	If you mistake
-	who to attack,
-	something might...
+	Se você não mirar
+	direito, pode acabar
+	acertando...
 	"""
 	keyWait
 		any = false

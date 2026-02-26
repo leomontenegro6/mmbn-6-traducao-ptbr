@@ -11,7 +11,7 @@ script 0 mmbn6 {
 	clearMsg
 	"""
 	Yuika...
-	Ahoo,hoo,hoo!!
+	Ahu hu hu huuu!!
 	"""
 	keyWait
 		any = false
@@ -22,9 +22,9 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	*huff,huff...*
+	Urf... Arf...
 	CircusMan...
-	He was tough...
+	Ele era durão...
 	"""
 	keyWait
 		any = false
@@ -36,7 +36,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan,the switch!"
+	"MegaMan, o interruptor!"
 	keyWait
 		any = false
 	clearMsg
@@ -47,7 +47,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Got it!"
+	"Beleza!"
 	keyWait
 		any = false
 	end
@@ -56,7 +56,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here we go!"
+	"Lá vai!"
 	keyWait
 		any = false
 	end

@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No! There are a lot
-	of Punishment Robots
-	in the courtroom!
+	Não! Tá cheio de Robôs
+	de Punição na sala de
+	audiências!
 	"""
 	keyWait
 		any = false
@@ -25,17 +25,16 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M THE PROGRAM
-	HIDDEN IN THE
-	PUNISHMENT ROOM.
+	SOU O PROGRAMA OCULTO
+	DA SALA DE PUNIÇÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NICE JOB FINDING
-	ME. I MUST REWARD
-	YOU FOR THAT.
+	BOM TRABALHO EM ME
+	ENCONTRAR. MERECE
+	UMA RECOMPENSA.
 	"""
 	keyWait
 		any = false
@@ -48,7 +47,7 @@ script 5 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printNaviCustProgram
@@ -63,9 +62,8 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	INSTALLING THAT
-	WILL GIVE BIRTH
-	TO MANY POEMS.
+	INSTALAR ISSO IRÁ
+	GERAR VÁRIOS POEMAS.
 	"""
 	keyWait
 		any = false
@@ -76,17 +74,16 @@ script 6 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	JUST INSTALLING THAT
-	IN NAVICUST WILL LET
-	YOU READ POEMS.
+	É SÓ INSTALAR NO
+	CUSTNAVI QUE VOCÊ
+	LERÁ POEMAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE POEM PROGRAM IS
-	A WONDERFUL PIECE OF
-	PROGRAMMING.
+	O PROGRAMA DE POEMAS
+	É UM PROGRAMA DIVINO.
 	"""
 	keyWait
 		any = false

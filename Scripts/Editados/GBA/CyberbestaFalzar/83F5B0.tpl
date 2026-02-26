@@ -4,43 +4,43 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	A display panel for
-	plotting graphs in
-	Math class.
+	Um monitor usado
+	para desenhar gráficos
+	pra aula de Matemática.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks to this,more
-	people are starting
-	to like Math...
+	Ele faz cada vez mais
+	crianças passarem a
+	gostar de Matemática...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Maybe."
+	"... Talvez."
 	keyWait
 		any = false
 	end
 }
 script 1 mmbn6 {
 	msgOpen
-	"The blackboard."
+	"O quadro-negro."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's actually a
-	touch panel,so no
-	chalk is needed.
+	Na verdade, utiliza
+	tecnologia de toque,
+	então não precisa de giz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was custom made
-	for this school.
+	Foi feito sob medida
+	para esta escola.
 	"""
 	keyWait
 		any = false
@@ -49,16 +49,16 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	A display of things
-	useful for class.
+	Um monitor que lista
+	coisas úteis nas aulas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are maps,basic
-	formulas,and figures
-	posted all over it.
+	Está repleto de
+	mapas, fórmulas
+	básicas e figuras.
 	"""
 	keyWait
 		any = false
@@ -67,17 +67,16 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	There are ants
-	living in this
-	tank.
+	Nesse tanque
+	vivem formigas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can see they're
-	busily building
-	their colony.
+	Dá para vê-las
+	diligentemente
+	construindo sua colônia.
 	"""
 	keyWait
 		any = false
@@ -86,16 +85,16 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	Every student has
-	their own locker.
+	Cada aluno tem seu
+	próprio armário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can tell what
-	people are like by
-	how they use it.
+	O modo como eles o
+	utilizam diz muito
+	sobre a pessoa.
 	"""
 	keyWait
 		any = false
@@ -104,17 +103,17 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	A record of the
-	class grasshopper's
-	growth.
+	Um registro do
+	crescimento dos
+	gafanhotos da classe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a living animal
-	so it grows a little
-	bit every day.
+	Como todo ser vivo,
+	eles crescem um
+	pouquinho todos os dias.
 	"""
 	keyWait
 		any = false
@@ -123,25 +122,25 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	A special gizmo in
-	this tank sets the
-	temperature to a
+	Um aparelho especial
+	no tanque mantém a
+	temperatura do ambiente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	certain degree that
-	is just right for
-	the animal in it.
+	no nível ideal para
+	o animal que se
+	encontra nele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks to this,the
-	grasshopper is very
-	healthy.
+	Graças a ele, os
+	gafanhotos estão
+	todos saudáveis.
 	"""
 	keyWait
 		any = false
@@ -149,22 +148,22 @@ script 6 mmbn6 {
 }
 script 7 mmbn6 {
 	msgOpen
-	"Broom closets."
+	"Os armários\nde vassouras."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're big enough
-	for a person to
-	hide in.
+	São tão grandes,
+	que caberia uma
+	pessoa dentro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like a good
-	hiding place for
-	hide and seek...
+	Ótima pedida
+	pra um jogo de
+	esconde-esconde...
 	"""
 	keyWait
 		any = false
@@ -173,17 +172,17 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	Every student's desk
-	at Cyber Academy has
-	a computer built in.
+	Toda carteira de aluno
+	da Escola Saibher tem
+	um computador embutido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This makes studying
-	much more efficient
-	for the students.
+	Com isso, eles
+	estudam de forma
+	muito mais eficiente.
 	"""
 	keyWait
 		any = false
@@ -192,17 +191,17 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	Cyber Academy takes
-	security very
-	seriously.
+	A Escola Saibher leva
+	segurança muitíssimo a
+	sério.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If anything happens,
-	it can be dealt with
-	very quickly.
+	Se alguma coisa
+	acontece, é resolvida
+	quase que de imediato.
 	"""
 	keyWait
 		any = false
@@ -211,23 +210,23 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	This high_tech
-	podium is linked to
+	Este pódio de alta
+	tecnologia está
+	ligado às carteiras
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	every student's
-	desk.
+	de cada aluno.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With this,a teacher
-	can see a student's
-	answers right away.
+	Com ele, o professor
+	vê as respostas dos
+	alunos imediatamente.
 	"""
 	keyWait
 		any = false
@@ -236,24 +235,23 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	msgOpen
 	"""
-	There is a beetle
-	living in this
-	tank...
+	Nesse tanque
+	vive um besouro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But since it's a
-	larva,it's buried
-	itself underground.
+	Porém, como ele
+	ainda é uma larva,
+	está enterrado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too bad you
-	can't see it...
+	Pena que não
+	dá para vê-lo...
 	"""
 	keyWait
 		any = false
@@ -262,17 +260,17 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	msgOpen
 	"""
-	There is a control
-	panel underneath the
-	blackboard.
+	Há um painel de
+	controle abaixo
+	do quadro-negro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so that people
-	can jack in for
-	Virus Busting class.
+	Através dele, os alunos
+	se conectam na aula
+	de Deleção de Vírus.
 	"""
 	keyWait
 		any = false
@@ -281,17 +279,17 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	msgOpen
 	"""
-	Cyber Academy takes
-	security very
-	seriously.
+	A Escola Saibher
+	leva segurança
+	muitíssimo a sério.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Security cameras in
-	each room are always
-	keeping watch...
+	As câmeras de segurança
+	em cada sala estão
+	sempre vigilantes...
 	"""
 	keyWait
 		any = false

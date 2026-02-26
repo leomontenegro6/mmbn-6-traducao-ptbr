@@ -16,13 +16,13 @@ script 0 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Mr.Weather is done
-	with his cleanup!
+	O Seu Cleema já concluiu
+	sua limpeza diária!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"He's sparkling..."
+	"Ele está brilhando..."
 	keyWait
 		any = false
 	end
@@ -32,14 +32,14 @@ script 5 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Mr.Weather is a
-	robot,but he is
-	really expressive.
+	Apesar do Seu Cleema
+	ser um robô, ele é
+	super expressivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I love his eyes!!"
+	"Eu adoro os olhos dele!!"
 	keyWait
 		any = false
 	end
@@ -49,29 +49,23 @@ script 10 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Lately I can kind
-	of understand what
+	Ultimamente, eu tenho
+	meio que conseguido
+	entender o que o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Weather's
-	thinking.
+	Seu Cleema pensa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Robots and people
-	should be able to
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	understand each
-	other.
+	Robôs e humanos deviam
+	ser capazes de entender
+	uns aos outros.
 	"""
 	keyWait
 		any = false
@@ -82,8 +76,7 @@ script 15 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan,this one is
-	mine!!
+	Lan, este é meu!!
 	"""
 	keyWait
 		any = false
@@ -94,15 +87,15 @@ script 16 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Mr.Weather was about
-	to be attacked,but
+	O Seu Cleema estava
+	para ser atacado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that kid helped him
-	out...
+	mas aquele menino
+	ali salvou ele...
 	"""
 	keyWait
 		any = false
@@ -113,8 +106,8 @@ script 17 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	A...A Navi attacked
-	a human...
+	Um... Um Navi atacou
+	um humano...
 	"""
 	keyWait
 		any = false
@@ -129,7 +122,7 @@ script 18 mmbn6 {
 		any = false
 	clearMsg
 	mugshotHide
-	"No reaction..."
+	"Não responde..."
 	keyWait
 		any = false
 	end

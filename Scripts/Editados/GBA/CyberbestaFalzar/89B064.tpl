@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Y_You're..."
+	"V-você..."
 	keyWait
 		any = false
 	end
@@ -24,8 +24,7 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you a student
-	here?
+	Você também estuda aqui?
 	"""
 	keyWait
 		any = false
@@ -49,17 +48,17 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Ah,I almost
-	forgot! Thanks for
-	the other day!
+	... Ah, quase esqueço!
+	Valeu por aquele dia lá
+	no Aquário!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know,for
-	pointing out that
-	CopyBot to me.
+	Sabe, por apontar
+	pra mim onde o
+	CópiRoide tava.
 	"""
 	keyWait
 		any = false
@@ -83,17 +82,17 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But what was a
-	CopyBot doing there
-	anyway,I wonder?
+	Mas por que é que
+	aquele CópiRoide
+	tava lá, na real?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,do you like fish?
-	You were looking at
-	them that day,too.
+	Enfim, cê gosta de
+	peixes? Tava olhando pra
+	eles aquele dia, também.
 	"""
 	keyWait
 		any = false
@@ -106,9 +105,9 @@ script 7 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	... F_Fish...to
-	take them out of the
-	water... It's wrong.
+	... P-peixes...
+	Tirá-los da água...
+	é errado.
 	"""
 	keyWait
 		any = false
@@ -132,9 +131,9 @@ script 9 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	Fish belong in the
-	sea. Can they really
-	live on land...?
+	Os peixes pertencem
+	ao mar. Eles podem
+	mesmo viver na terra...?
 	"""
 	keyWait
 		any = false
@@ -157,7 +156,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	msgOpen
-	"... I_I'm Iris."
+	"... S-sou Iris."
 	keyWait
 		any = false
 	clearMsg
@@ -168,11 +167,11 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Iris,huh..."
+	"Iris, é...?"
 	keyWait
 		any = false
 	clearMsg
-	"I'm..."
+	"O meu nome é..."
 	keyWait
 		any = false
 	end
@@ -181,13 +180,13 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	msgOpen
-	"L_Lan,right...?"
+	"L-Lan, não é...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you for saving
-	me that time...
+	Obrigada por me
+	salvar naquele dia...
 	"""
 	keyWait
 		any = false
@@ -199,21 +198,20 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wow,you remember!"
+	"Ah, você lembra!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm glad you
-	remember me!
+	Fico tão feliz por isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So what were you
-	saying just now
-	about fish...?
+	Enfim, o que cê
+	tava falando sobre
+	peixes mesmo...?
 	"""
 	keyWait
 		any = false
@@ -225,7 +223,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	msgOpen
-	"N_Nothing..."
+	"N-nada, não..."
 	keyWait
 		any = false
 	clearMsg
@@ -237,16 +235,16 @@ script 16 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sorry,I'm asking a
-	lot of questions,but
+	Ah, foi mal por ficar
+	fazendo tantas perguntas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	which class are you
-	in? You're not in
-	this class,are you?
+	mas em que ano
+	você tá? Cê não
+	é desta turma, é?
 	"""
 	keyWait
 		any = false
@@ -258,7 +256,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Iris
 	msgOpen
-	"I... I'm..."
+	"E... Eu..."
 	keyWait
 		any = false
 	clearMsg
@@ -288,8 +286,7 @@ script 19 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's your
-	autophone,Lan!
+	É o seu autofone, Lan!
 	"""
 	keyWait
 		any = false
@@ -303,9 +300,8 @@ script 20 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Hey,Lan!
-	How long are ya
-	gonna take!?
+	Ei, Lan!
+	Vai demorar até quando?!
 	"""
 	keyWait
 		any = false
@@ -318,9 +314,8 @@ script 21 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,sorry,Match!
-	I'll be right
-	there!!
+	Ah, desculpa, Match!
+	Já chego aí!
 	"""
 	keyWait
 		any = false
@@ -331,8 +326,8 @@ script 22 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Lan,are you going
-	to come here soon?
+	Lan, você ainda vai
+	demorar pra vir?
 	"""
 	keyWait
 		any = false
@@ -345,8 +340,8 @@ script 23 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,sorry,Shuko!
-	Be right there!!
+	Ah, desculpa, Shuko!
+	Eu já chego aí!!
 	"""
 	keyWait
 		any = false
@@ -357,15 +352,15 @@ script 24 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sorry,but I've
-	gotta go!
+	Foi mal, mas eu
+	tenho que vazar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's talk some
-	more next time!
+	A gente conversa
+	mais na próxima!
 	"""
 	keyWait
 		any = false
@@ -379,7 +374,7 @@ script 25 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"*nod*"
+	"Uhum..."
 	keyWait
 		any = false
 	clearMsg
@@ -392,7 +387,7 @@ script 26 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 2
-	"See you later!"
+	"Té mais!"
 	keyWait
 		any = false
 	end

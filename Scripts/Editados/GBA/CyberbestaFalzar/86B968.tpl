@@ -16,16 +16,16 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU PROBABLY SHOULD
-	STAY AWAY FROM
-	CENTRALAREA3...
+	É MELHOR VOCÊ
+	FICAR LONGE DA
+	ÁREA CENTRAL 3...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OR YOU WILL MAKE
-	THE NETPOLICE MAD!
+	OU PODERÁ IRRITAR
+	A NETPOLÍCIA!
 	"""
 	keyWait
 		any = false
@@ -46,16 +46,16 @@ script 1 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I went to check out
-	CentralArea3,
+	Eu fui conferir
+	a Área Central 3
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and the NetPolice
-	there were putting
-	on a show of force.
+	e a NetPolícia tava
+	marchando, toda
+	mandona, por lá.
 	"""
 	keyWait
 		any = false
@@ -71,17 +71,16 @@ script 2 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	The Underground...
-	Legendary resting
-	place of Cybeasts...
+	O SubSolo... Lendário
+	local de repouso das
+	Cyberbestas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to check it
-	out,but it's too
-	scary!
+	Eu queria conferir,
+	mas dá medo demais!
 	"""
 	keyWait
 		any = false
@@ -92,14 +91,14 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE EXPO APPEARS
-	TO BE OPENING ON
-	TIME!
+	PARECE QUE A EXPOSIÇÃO
+	SERÁ ABERTA DENTRO DO
+	PROGRAMADO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"THAT'S GREAT!!"
+	"QUE ÓTIMO!!"
 	keyWait
 		any = false
 	end
@@ -109,16 +108,15 @@ script 6 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The Expo... Lots of
-	things from around
-	the world will be
+	A Exposição... Vai ter
+	várias coisas de todo o
+	mundo expostas lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there!
-	I can't wait!!
+	Mal posso esperar!!
 	"""
 	keyWait
 		any = false
@@ -129,15 +127,15 @@ script 7 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	The Expo?
-	I don't care...
+	A Exposição?
+	Não me interessa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't like
-	crowds...
+	Não curto muito
+	multidões...
 	"""
 	keyWait
 		any = false
@@ -148,17 +146,17 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I HEAR TODAY IS
-	THE PRE_OPENING OF
-	THE EXPO.
+	PARECE QUE HOJE É
+	A PRÉ-INAUGURAÇÃO
+	DA EXPOSIÇÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE PEOPLE WHO GOT
-	PICKED SURE ARE
-	LUCKY!
+	O PESSOAL QUE FOI
+	ESCOLHIDO PARA IR
+	TEM TANTA SORTE!
 	"""
 	keyWait
 		any = false
@@ -169,9 +167,9 @@ script 11 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	If you go to the
-	Expo,there are many
-	places to jack in!
+	Indo na Exposição,
+	tem tantos lugares
+	para se conectar!
 	"""
 	keyWait
 		any = false
@@ -182,9 +180,8 @@ script 15 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	We will destroy
-	everything in this
-	world!
+	A gente vai destruir
+	tudo neste mundo!
 	"""
 	keyWait
 		any = false
@@ -199,8 +196,8 @@ script 16 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Hey! Go crawl back
-	into your cave!
+	Aí! Volta pra tua
+	caverna, verme!
 	"""
 	keyWait
 		any = false
@@ -214,7 +211,7 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Wahhhh..."
+	"Uaaaahh..."
 	keyWait
 		any = false
 	end

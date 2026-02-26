@@ -15,28 +15,27 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WELCOME..."
+	"BEM-VINDO..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IS WHAT I SAY,BUT
-	MY HEART'S NOT IN
-	IT.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'M JUST NOT IN THE
-	MOOD...
+	ISSO É O QUE EU
+	SEMPRE DIGO, MAS,
+	HOJE, TÔ SEM ÂNIMO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S BECAUSE OF THAT
-	INCIDENT...
+	NÃO TÔ NO CLIMA...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	TALVEZ POR CAUSA
+	DAQUELE INCIDENTE...
 	"""
 	keyWait
 		any = false
@@ -57,16 +56,15 @@ script 1 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	An average Joe
-	Schmoe,huh...
+	Um João-Ninguém, hein...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish guys like you
-	weren't allowed to
-	just wander around.
+	Queria que gente da sua
+	laia fosse proibida de
+	zanzar por aí.
 	"""
 	keyWait
 		any = false
@@ -87,16 +85,9 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	If you have no
-	business here,then
-	you should jack out
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	and go to another
-	area!
+	Se não tem nada a tratar
+	aqui, melhor desconectar
+	e ir pra outra área!
 	"""
 	keyWait
 		any = false
@@ -117,17 +108,17 @@ script 3 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Everyone's sort of
-	tense after that
-	last incident.
+	Todo mundo anda meio
+	tenso desde aquele
+	último incidente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,the ability
-	of this town to keep
-	the law is shaky...
+	Digo, a capacidade do
+	distrito de fazer cumprir
+	a lei está fragilizada...
 	"""
 	keyWait
 		any = false
@@ -138,16 +129,15 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS FROM THE
-	NETPOLICE:
+	AVISO DA NETPOLÍCIA:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S BEST NOT TO
-	WANDER OR HANG
-	AROUND TOO MUCH...
+	MELHOR NÃO FICAR DE
+	BOBEIRA POR AQUI POR
+	MUITO TEMPO...
 	"""
 	keyWait
 		any = false
@@ -158,16 +148,15 @@ script 6 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	What?
-	Go to the Undernet?
+	O quê?
+	Ir pra Undernet?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,but I can't
-	move from this
-	spot...
+	Lamento, mas não
+	posso sair daqui...
 	"""
 	keyWait
 		any = false
@@ -178,9 +167,9 @@ script 7 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You're in my line of
-	sight! Hurry up and
-	get out of the way!
+	Você está na minha
+	linha de visão! Saia
+	logo da frente!
 	"""
 	keyWait
 		any = false
@@ -200,17 +189,17 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SOMETHING HAPPENED
-	IN THE REAL WORLD,
-	I HEARD.
+	OUVI DIZER QUE
+	ACONTECEU ALGUMA COISA
+	NO MUNDO REAL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AS LONG AS IT ISN'T
-	TOO SERIOUS,IT'S NOT
-	A BIG DEAL...
+	DESDE QUE NÃO SEJA
+	NADA MUITO SÉRIO,
+	TUDO BEM...
 	"""
 	keyWait
 		any = false
@@ -221,24 +210,23 @@ script 11 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hey,you! When an
-	incident happens
-	in the real world,
+	Ei, você! Quando um
+	incidente acontece
+	no mundo real,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Net can't sit
-	around and just
-	take it.
+	a Rede não pode
+	só ficar parada,
+	esperando passar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So hurry up and jack
-	out!
+	Então desconecte-se logo!
 	"""
 	keyWait
 		any = false
@@ -249,16 +237,16 @@ script 12 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Look,there's nothing
-	in this area,
+	Olha, não tem
+	nada nesta área,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so jack out and
-	patiently wait this
-	out in your PET!
+	então desconecte-se logo
+	e espere comportadinho
+	dentro do seu PET!
 	"""
 	keyWait
 		any = false
@@ -269,25 +257,23 @@ script 13 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The problems are
-	going on in Sky Town
-	in the real world.
+	Está havendo problemas
+	no Distrito Céu do
+	mundo real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think it shouldn't
-	affect us here on
-	the Net,but
+	Creio que não devem nos
+	afetar aqui, na Rede,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just to be safe,we
-	should sit this one
-	out.
+	mas, só por precaução,
+	melhor ficarmos por aqui.
 	"""
 	keyWait
 		any = false
@@ -297,13 +283,13 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"NO,I'M NOT LAUGHING!"
+	"NÃO, EU NÃO\nESTOU RINDO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS IS HOW MY FACE
-	ALWAYS IS!
+	A MINHA CARA SÓ
+	É ASSIM MESMO!
 	"""
 	keyWait
 		any = false
@@ -314,23 +300,23 @@ script 41 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hey,hey!!
-	Are you laughing at
-	my face!?
+	Ei, ei!!
+	Tá rindo da
+	minha cara, é?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You were!
-	I know you were!!
+	Tá sim!
+	Tava rindo, que eu sei!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're making fun
-	of me!
+	Tá tirando onda com
+	a minha cara, né?!
 	"""
 	keyWait
 		any = false
@@ -341,25 +327,24 @@ script 42 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	The final round of
-	the Operator Navi
-	Selection Test has
+	A última rodada da
+	Prova de Seleção de
+	Navi Operador começou,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	started,but wow...
-	If you become the
-	Operator Navi,
+	mas, cara...
+	Quem conseguir virar
+	o Navi Operador
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you'll definitely
-	get to become
-	famous...
+	com certeza vai
+	ficar mó famoso...
 	"""
 	keyWait
 		any = false
@@ -382,30 +367,29 @@ script 45 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Huh? Huuuh?
-	HUUUUH!?
+	Hã? Hããã?
+	HÃÃÃÃÃÃÃ?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Y_You're the Navi
-	in the Expo
-	commercial!
+	V-você é o Navi do
+	comercial da Exposição!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wow! I'm... you...
-	in_person!
+	Nossa! Eu... você...
+	em pessoa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My friends are going
-	to be so jealous!!
+	As minhas amigas vão
+	morrer de inveja!!
 	"""
 	keyWait
 		any = false
@@ -416,32 +400,33 @@ script 46 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	How confusing...
-	The expression on
-	your face...
+	É tão confuso...
+	A expressão do
+	seu rosto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was sure you were
-	laughing at my face!
+	Eu estava certo
+	de que você estava
+	rindo da minha cara!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought you were
-	making fun of me
-	too...
+	E também pensei que
+	estivesse caçoando
+	de mim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can't you do
-	something about that
-	face of yours...?
+	Não dá pra fazer
+	alguma coisa com essa
+	sua cara, não...?
 	"""
 	keyWait
 		any = false
@@ -450,8 +435,8 @@ script 46 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NOW WHO'S MAKING FUN
-	OF WHO!?
+	AGORA É VOCÊ QUEM
+	TÁ CAÇOANDO DE MIM!
 	"""
 	keyWait
 		any = false
@@ -462,25 +447,24 @@ script 50 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	The Expo Site
-	will be totally
-	spectacular,I bet.
+	Aposto que a Área da
+	Exposição vai ser um
+	arraso e meio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really want to
-	go see it for
-	myself!
+	Eu queria tanto ver
+	ela em pessoa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I had a CopyBot,
-	I could! I wonder
-	how I can get one...
+	Se eu tivesse um Cópi-
+	Roide, poderia! Como
+	será que arranja um...?
 	"""
 	keyWait
 		any = false
@@ -491,17 +475,17 @@ script 55 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I think there is
-	something going on
-	in Seaside Town...
+	Acho que tem alguma
+	coisa rolando no
+	Distrito Beira-Mar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's probably not a
-	good idea to go near
-	there right now...
+	Acho que é melhor
+	manter distância de
+	lá por enquanto...
 	"""
 	keyWait
 		any = false
@@ -512,22 +496,18 @@ script 60 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I think there was
-	something going on
-	in Seaside Town...
+	Eu acho que rolou
+	alguma coisa no
+	Distrito Beira-Mar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everything is so
-	scary with one bad
-	thing happening
+	Ai, que medo, né?
+	É um problema atrás
+	do outro...
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"after another."
 	keyWait
 		any = false
 	end

@@ -6,8 +6,7 @@ script 0 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	What an awesome
-	move...
+	Que truque legal...
 	"""
 	keyWait
 		any = false
@@ -17,7 +16,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
 	msgOpen
-	"Incredible..."
+	"Incrível..."
 	keyWait
 		any = false
 	end
@@ -27,8 +26,8 @@ script 2 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	A secret move!
-	Ocean Tower!!
+	Técnica secreta!
+	Torre Oceânica!!
 	"""
 	keyWait
 		any = false
@@ -39,8 +38,8 @@ script 5 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I'm sorry,
-	I'm resting now.
+	Desculpa, mas estou
+	na minha folga agora.
 	"""
 	keyWait
 		any = false
@@ -51,16 +50,16 @@ script 10 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I can't believe
-	she taught it to
-	do that move...
+	Não acredito que ela
+	ensinou ele a fazer
+	aquele truque...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's awesome...
-	Truly awesome.
+	Que incrível...
+	É espetacular.
 	"""
 	keyWait
 		any = false
@@ -68,14 +67,14 @@ script 10 mmbn6 {
 }
 script 15 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em combate.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -91,7 +90,7 @@ script 16 mmbn6 {
 	msgOpen
 	"""
 	Hikari...
-	Time for punishment!
+	Hora da sua punição!
 	"""
 	keyWait
 		any = false

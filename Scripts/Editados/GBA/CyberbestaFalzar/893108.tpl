@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	So,MegaMan,how do
-	you like the real
-	world?
+	E aí, MegaMan?
+	O que tá achando
+	do mundo real?
 	"""
 	keyWait
 		any = false
@@ -21,8 +21,8 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	If I could,I'd
-	stay here forever.
+	Se desse, eu ficava
+	aqui pra sempre!
 	"""
 	keyWait
 		any = false
@@ -34,29 +34,28 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"Wahaha!"
+	"Ha ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If only that were
-	possible!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	They're still doing
-	research,but if a
-	CopyBot could hold
+	Quem dera isso
+	fosse possível!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	more energy,then
-	maybe you can
-	someday!
+	As pesquisas ainda estão
+	em andamento, mas, se
+	os CópiRoides puderem
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	armazenar mais energia,
+	talvez dê... um dia!
 	"""
 	keyWait
 		any = false
@@ -69,16 +68,17 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,I'm happy
-	anyway,
+	Bom, mesmo assim,
+	eu tô feliz demais
+	com isso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	even if MegaMan
-	can only be here
-	sometimes!
+	mesmo se o MegaMan
+	só puder vir pra cá
+	às vezes!
 	"""
 	keyWait
 		any = false
@@ -102,9 +102,9 @@ script 5 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Alright,MegaMan,
-	time to go back
-	into Lan's PET.
+	OK, MegaMan,
+	hora de voltar
+	pro PET do Lan.
 	"""
 	keyWait
 		any = false
@@ -117,9 +117,9 @@ script 6 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	OK. I hope I can
-	use a CopyBot
-	again sometime!
+	Certo. Espero poder
+	usar um CópiRoide de
+	novo qualquer dia!
 	"""
 	keyWait
 		any = false
@@ -131,14 +131,14 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"Ha,ha,ha!"
+	"Ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This school has a
-	few you can use,so
-	don't worry!
+	A escola tem um
+	bocadinho deles guardados,
+	então fique sossegado!
 	"""
 	keyWait
 		any = false
@@ -160,7 +160,7 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Welcome back,
+	Bem-vindo de volta,
 	MegaMan!
 	"""
 	keyWait
@@ -174,8 +174,8 @@ script 10 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's good to be
-	home,Lan!
+	Sempre um prazer
+	voltar, Lan!
 	"""
 	keyWait
 		any = false
@@ -186,16 +186,16 @@ script 11 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	... I see.
-	So,you're ready...?
+	... Entendo.
+	Bom, tá pronto...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	BlastMan...
-	Let's show them
-	our power!
+	Bora mostrar pra
+	eles o nosso poder!
 	"""
 	keyWait
 		any = false
@@ -206,8 +206,8 @@ script 12 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	You may go back
-	to your seat,Lan...
+	Pode voltar pra sua
+	carteira, Lan...
 	"""
 	keyWait
 		any = false
@@ -219,7 +219,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"Let's get started!"
+	"Começar!"
 	keyWait
 		any = false
 	clearMsg
@@ -238,7 +238,7 @@ script 14 mmbn6 {
 	controlLock
 	soundPlay
 		track = 195
-	"*wham!!*"
+	"Bramm!"
 	wait
 		frames = 95
 	soundEnableTextSFX
@@ -253,7 +253,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Boy
 	msgOpen
-	"Waaaaah!!"
+	"Aaaahhh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -264,7 +264,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"What's wrong!?"
+	"O que é isso?!"
 	keyWait
 		any = false
 	end
@@ -274,15 +274,15 @@ script 17 mmbn6 {
 		mugshot = Tab
 	msgOpen
 	"""
-	It's a
-	Security Bot...
+	É um Robô de
+	Segurança...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's it
-	doing here?
+	Mas o que ele
+	tá fazendo aqui?
 	"""
 	keyWait
 		any = false
@@ -294,7 +294,7 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"Wait! Stay back!!"
+	"Esperem!\nNão cheguem perto!!"
 	keyWait
 		any = false
 	end
@@ -304,17 +304,17 @@ script 19 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	No Security Bot has
-	ever broken into a
-	classroom before.
+	Nunca um Robô de
+	Segurança invadiu uma
+	sala de aula antes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll beat it with my
-	super deadly martial
-	arts combo!
+	Eu vou acabar com ele
+	com meu "combo" mortal
+	de artes marciais!
 	"""
 	keyWait
 		any = false
@@ -324,7 +324,7 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"M_Mr.Mach!!"
+	"S-Sr. Mach!!"
 	keyWait
 		any = false
 	clearMsg
@@ -336,8 +336,8 @@ script 21 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Super_secret hundred
-	hand punch!!
+	Arte secreta dos
+	socos múltiplos!
 	"""
 	keyWait
 		any = false
@@ -355,7 +355,7 @@ script 22 mmbn6 {
 	storeTimer
 		timer = 0
 		value = 128
-	"*wap* "
+	"Pá "
 	waitOWVar
 		variable = 0
 		value = 129
@@ -364,7 +364,7 @@ script 22 mmbn6 {
 	storeTimer
 		timer = 0
 		value = 130
-	"*pow*\n"
+	"Psh\n"
 	waitOWVar
 		variable = 0
 		value = 131
@@ -373,7 +373,7 @@ script 22 mmbn6 {
 	storeTimer
 		timer = 0
 		value = 132
-	"*bam* "
+	"Pôu "
 	waitOWVar
 		variable = 0
 		value = 133
@@ -382,7 +382,7 @@ script 22 mmbn6 {
 	storeTimer
 		timer = 0
 		value = 134
-	"*bop*"
+	"Póh"
 	waitOWVar
 		variable = 0
 		value = 135
@@ -398,7 +398,7 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"M_Mr.Mach!!"
+	"S-Sr. Mach!!"
 	keyWait
 		any = false
 	end
@@ -408,14 +408,14 @@ script 24 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	W_What power...
-	Security Bots...
-	Wow...
+	Q-quanta força...
+	Robôs de Segurança...
+	Uau...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... *thud*"
+	"... Tunc!"
 	keyWait
 		any = false
 	end
@@ -424,11 +424,11 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mr.Mach! Mr.Mach!"
+	"Sr. Mach! Sr. Mach!"
 	keyWait
 		any = false
 	clearMsg
-	"... He fainted..."
+	"... Ele desmaiou..."
 	keyWait
 		any = false
 	clearMsg
@@ -440,9 +440,9 @@ script 26 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we've gotta do
-	something about the
-	Security Bot!
+	Lan, a gente tem que
+	fazer alguma coisa com
+	o Robô de Segurança!
 	"""
 	keyWait
 		any = false
@@ -460,7 +460,7 @@ script 27 mmbn6 {
 	controlLock
 	soundPlay
 		track = 195
-	"*wham!!*"
+	"Bramm!!"
 	wait
 		frames = 95
 	soundEnableTextSFX
@@ -477,8 +477,7 @@ script 28 mmbn6 {
 	msgOpen
 	"""
 	Ahh!
-	There's more of
-	them here!!
+	Apareceu mais!!
 	"""
 	keyWait
 		any = false
@@ -489,8 +488,8 @@ script 29 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Everyone,get to the
-	middle of the room!!
+	Pessoal, todo mundo
+	pro meio da sala!!
 	"""
 	keyWait
 		any = false
@@ -501,8 +500,8 @@ script 30 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What in the world
-	is going on...?
+	Mas o que é que tá
+	acontecendo aqui...?
 	"""
 	keyWait
 		any = false
@@ -515,8 +514,8 @@ script 31 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	The fun's only
-	just begun...
+	A diversão tá
+	só começando...
 	"""
 	keyWait
 		any = false
@@ -528,7 +527,7 @@ script 32 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... What!?"
+	"... O quê?!"
 	keyWait
 		any = false
 	end
@@ -537,7 +536,7 @@ script 33 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No,you didn't...!?"
+	"Não acredito... Você...?!"
 	keyWait
 		any = false
 	clearMsg
@@ -549,13 +548,13 @@ script 34 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	The real fun
-	starts now!
+	Agora, sim,
+	a festa começa!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hit it,BlastMan!!"
+	"Manda ver, BlastMan!!"
 	keyWait
 		any = false
 	end
@@ -564,13 +563,13 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wah!!"
+	"Aaahh!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cut it out!
-	Put out the fire!!
+	Ô, para com isso!
+	Apaga logo esse fogo!!
 	"""
 	keyWait
 		any = false
@@ -583,31 +582,30 @@ script 36 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Just try and make
-	me! You'll just put
-	everyone in danger!
+	Quero ver cê me
+	obrigar! Isso sem
+	arriscar os outros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,I don't
-	really want to hurt
-	you...much.
+	Digo, eu não quero te
+	machucar... muito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just wanna see you
-	squirm a little!
+	Só quero te ver
+	chorar um pouquinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder how long
-	you'll last?
+	Até quando será
+	que cê resiste?
 	"""
 	keyWait
 		any = false
@@ -618,21 +616,21 @@ script 37 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Gotta stay
-	calm...
+	... Eu tenho
+	que ficar calmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,I have to put
-	out those Security
-	Bots' flames...
+	Antes de mais nada,
+	tenho que apagar o
+	fogo desses robôs...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But how...?"
+	"Mas como...?"
 	keyWait
 		any = false
 	clearMsg
@@ -643,7 +641,7 @@ script 38 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Hot,hot,hot!!"
+	"Tá quente, tá quente,\ntá queeenteee!!"
 	keyWait
 		any = false
 	clearMsg
@@ -655,8 +653,8 @@ script 39 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... I have to
-	do something!!
+	... Eu TENHO que
+	fazer alguma coisa!!
 	"""
 	keyWait
 		any = false

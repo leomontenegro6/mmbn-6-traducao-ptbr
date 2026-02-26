@@ -34,15 +34,15 @@ script 2 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	The road will open
-	for those with the
+	A estrada se abrirá
+	para aqueles
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	beast's seal and
-	100 S...
+	com o selo da besta
+	e 100 S...
 	"""
 	keyWait
 		any = false
@@ -53,16 +53,15 @@ script 3 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	The doorway to the
-	Cybeast's graveyard.
+	A passagem para o
+	cemitério das Cyberbestas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can't you hear it...
-	The murmurs of the
-	dead...
+	Não está ouvindo...?
+	Os lamentos dos mortos...
 	"""
 	keyWait
 		any = false

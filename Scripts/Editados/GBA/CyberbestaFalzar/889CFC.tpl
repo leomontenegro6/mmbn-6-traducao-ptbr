@@ -20,115 +20,111 @@ script 0 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Ahh! You're here!
-	I'm the one who
-	put up the request.
+	Ahh! Você veio!
+	Fui eu quem
+	postou o pedido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me introduce
-	myself.
+	Permita-me me apresentar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I work for the
-	NetPolice...
+	Eu trabalho para
+	a NetPolícia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I work in the
-	"Juvenile Crime
-	 Division"...
+	Especificamente, na
+	"Divisão de Crimes
+	Juvenis"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This division works
-	with junvenile
-	problems...
+	Ela trabalha com
+	problemas envolvendo
+	jovens.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Honestly,I have a
-	case at this
-	school...
+	Sendo sincero, temos
+	um caso nesta escola...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One of the students
-	here is being
-	bullied in class...
+	Um dos alunos aqui está
+	sofrendo bullying na sala.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So the Juvenile
-	Crime Division was
+	Portanto, a Divisão
+	de Crimes Juvenis
+	foi chamada
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	called in to sort
-	things out...
+	para corrigir a situação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd like your help
-	in resolving this
-	problem.
+	E eu gostaria
+	da sua ajuda para
+	resolver o problema.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The victim is a kid,
-	so he might feel
+	Como a vítima
+	é uma criança,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	more comfortable
-	talking with someone
-	his own age.
+	ela pode ficar mais
+	confortável falando com
+	alguém da mesma idade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Around this time of
-	day,the kid being
+	Por volta deste
+	horário, esse menino
+	sofrendo bullying
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	bullied is always
-	playing with a
-	RoboDog by himself.
+	fica sempre brincando
+	com um RobôCão sozinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you mind going
-	to have a talk
-	with him...
+	Você poderia ir lá
+	falar com ele...?
 	"""
 	keyWait
 		any = false
@@ -139,47 +135,46 @@ script 1 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Checking the details
-	of the request?
+	Confirmando os
+	detalhes do pedido?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seems that one of
-	the students here is
-	being bullied...
+	Parece que um dos
+	alunos daqui está
+	sofrendo bullying...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'd like you to
-	help solve this
-	problem.
+	E eu gostaria
+	da sua ajuda para
+	resolver o problema.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Around this time of
-	day,the kid being
+	Por volta deste
+	horário, esse menino
+	sofrendo bullying
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	bullied is always
-	playing with a
-	RoboDog by himself.
+	fica sempre brincando
+	com um RobôCão sozinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you mind going
-	to have a talk
-	with him...
+	Você poderia ir lá
+	falar com ele...?
 	"""
 	keyWait
 		any = false
@@ -192,50 +187,48 @@ script 2 mmbn6 {
 	flagSet
 		flag = 4558
 	"""
-	Ahh...you're back.
-	Thanks for helping.
+	Ahh... você voltou.
+	Obrigado pela ajuda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The truth is the
-	Navi who just
+	Para falar a verdade,
+	o Navi que foi atacado
+	pelo cão é membro da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	attacked the dog is
-	a member of my
-	division...
+	minha divisão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was all an
-	act!
-	Hahahaha...
+	Foi tudo fingimento!
+	Ha ha ha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well...
-	Is that kid OK?
+	Enfim...
+	O menino tá bem agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's all thanks
-	to you...
+	Isso é tudo
+	graças a você...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Take this gift..."
+	"Por favor, aceite."
 	keyWait
 		any = false
 	clearMsg
@@ -248,7 +241,7 @@ script 2 mmbn6 {
 		amount = 1
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printNaviCustProgram
@@ -263,29 +256,29 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Well... Off to my
-	next assignment!
+	Bem... Hora de ir ao
+	meu próximo trabalho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next up is a problem
-	at an elementary
-	school...*tisk tisk*
+	O próximo é problema
+	é em uma escola do
+	fundamental 1... tsc.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -297,16 +290,16 @@ script 3 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Well... Off to my
-	next assignment!
+	Bem... Hora de ir ao
+	meu próximo trabalho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next up is a problem
-	at an elementary
-	school...*tisk tisk*
+	O próximo é problema
+	é em uma escola do
+	fundamental 1... tsc.
 	"""
 	keyWait
 		any = false
@@ -316,26 +309,26 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"There's a virus,Lan!"
+	"É um vírus, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Alright!
-	Let's go!
+	Beleza!
+	Só bora!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -369,9 +362,9 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We did it,Lan!
-	We deleted all of
-	the viruses!!
+	Conseguimos, Lan!
+	Deletamos todos
+	os vírus!!
 	"""
 	keyWait
 		any = false
@@ -379,9 +372,9 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yep!
-	This computer
-	is safe now!
+	Aham!
+	Agora este computador
+	vai ficar bem!
 	"""
 	keyWait
 		any = false
@@ -391,16 +384,16 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it,Lan!"
+	"Conseguimos, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yep!
-	This computer
-	is safe now!
+	Aham!
+	Agora este computador
+	vai ficar bem!
 	"""
 	keyWait
 		any = false
@@ -411,38 +404,39 @@ script 15 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	...EXCUSE ME!
-	THERE IS A TEACHERS'
-	MEETING TODAY AT 4!
+	... COM LICENÇA! ESTÁ
+	MARCADA UMA REUNIÃO DE
+	PROFESSORES ÀS 16H!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE IS A TEACHERS'
-	MEETING TODAY AT 4!
+	ESTÁ MARCADA UMA
+	REUNIÃO DE PROFESSORES
+	HOJE, ÀS 16H!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S MY JOB TO
-	ANNOUNCE THE
-	SCHEDULE EVERY DAY,
+	O MEU TRABALHO É
+	ANUNCIAR O CRONOGRAMA
+	TODOS OS DIAS,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND I DO IT JUST
-	LIKE THIS!
+	DESTE JEITINHO AQUI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE IS A TEACHERS'
-	MEETING TODAY AT 4!
+	ESTÁ MARCADA UMA
+	REUNIÃO DE PROFESSORES
+	HOJE, ÀS 16H!
 	"""
 	keyWait
 		any = false

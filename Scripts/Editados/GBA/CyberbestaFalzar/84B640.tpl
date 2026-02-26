@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,where ya goin?"
+	"Lan, aonde é\nque você vai?"
 	keyWait
 		any = false
 	end
@@ -15,47 +15,45 @@ script 5 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Mr.Famous'
-	apprentice
+	Um aprendiz
+	do Sr. Famoso
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"gave me \""
+	"me deu esta \""
 	printFolderName
 		buffer = 0
 		entry = 4
 	"""
 	"
-	to take care of...
+	pra guardar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a folder made by
-	Mr.Famous'
-	apprentice!
+	Uma pasta feita pelo
+	aprendiz do Sr. Famoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Want to try it out?"
+	"Quer experimentar?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't mind
-	overwriting the
-	Extra Folder you've
+	Se não se incomodar
+	de sobrescrever sua
+	Pasta Extra atual,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	got now,I can send
-	you the data right
-	away...
+	posso te mandar os
+	dados agora mesmo...
 	"""
 	keyWait
 		any = false
@@ -71,7 +69,7 @@ script 5 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure! "
+	" Sim! "
 	option
 		brackets = 0
 		left = 0
@@ -80,7 +78,7 @@ script 5 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No,Thanks"
+	" Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -95,9 +93,9 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Really? Mr.Famous'
-	apprentice is going
-	to feel snubbed!
+	Certeza? O aprendiz
+	do Sr. Famoso vai
+	ficar magoado!
 	"""
 	keyWait
 		any = false
@@ -108,9 +106,8 @@ script 6 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Alright,I'll
-	transmit the folder
-	data now...
+	Certo, transmitirei
+	os dados agora...
 	"""
 	keyWait
 		any = false
@@ -131,20 +128,20 @@ script 6 mmbn6 {
 	soundDisableTextSFX
 	soundPlay
 		track = 115
-	"Ding!"
+	"Dim!"
 	keyWait
 		any = false
 	clearMsg
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = SciLabMan
-	"Transfer complete!"
+	"Transferência concluída!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your old Extra
-	Folder is now called
+	A sua antiga Pasta
+	Extra agora virou a
 	"
 	"""
 	printFolderName
@@ -155,16 +152,16 @@ script 6 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	It's a folder packed
-	with the ideas of
-	Famous' apprentice!
+	É uma pasta recheada
+	das ideias do aprendiz
+	do Famoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Enjoy using such a
-	great folder!
+	Divirta-se com essa
+	pasta incrível!
 	"""
 	keyWait
 		any = false
@@ -184,41 +181,36 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Hehehehe..."
+	"He he he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey... I'll tell you
-	something cool if
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	you battle the virus
-	I made...
+	Ei... Se você topar
+	lutar com os vírus
+	que eu criei,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,I'll tell you
-	something cool if
+	eu te conto uma
+	coisa legal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your Navi beats
-	my virus!
+	E só pra deixar
+	claro, o seu Navi
+	tem que VENCER!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hehehehe...
-	You up for it?
+	He he he he...
+	Aceita o desafio?
 	"""
 	keyWait
 		any = false
@@ -234,7 +226,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -243,7 +235,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -258,8 +250,8 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Hehehe...
-	Next time,huh?
+	He he he...
+	Na próxima, então?
 	"""
 	keyWait
 		any = false
@@ -269,28 +261,28 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Hehehehe..."
+	"He he he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you are going to
-	take on my virus?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If your Navi wins,
-	I will tell you
-	something cool...
+	Então você vai
+	encarar os meus vírus?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hehehehe...
-	Ready to go?
+	Se o seu Navi vencer,
+	eu te conto uma coisa
+	legal...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	He he he he...
+	Pronto?
 	"""
 	keyWait
 		any = false
@@ -306,7 +298,7 @@ script 11 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -315,7 +307,7 @@ script 11 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -330,8 +322,8 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Hehehehe...
-	I see...
+	He he he he...
+	Entendo...
 	"""
 	keyWait
 		any = false
@@ -342,14 +334,14 @@ script 12 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Hehehe...
-	It's time for the
-	virus to eat...
+	He he he...
+	Hora dos vírus
+	lancharem...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle Start!!"
+	"Iniciar luta!!"
 	keyWait
 		any = false
 	flagSet
@@ -363,28 +355,27 @@ script 13 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Looks like you
-	beat my virus...
+	Parece que você
+	venceu os meus vírus...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bad viruses...
-	This time I'm gonna
-	fight you myself...
+	Vírus danados...
+	Desta vez, eu mesmo
+	vou te enfrentar!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Just kidding..."
+	"Brincadeirinha."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just as I promised,
-	I'll tell you
-	something cool!
+	Como prometido, eu vou te
+	contar uma coisa legal!
 	"""
 	keyWait
 		any = false
@@ -394,17 +385,17 @@ script 13 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	If you collect
-	chips,this will
-	come in handy!!
+	Se você coleciona
+	chips, vai gostar
+	desse presente!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hehehehe...
-	I gotta make some
-	stronger viruses!
+	He he he he...
+	Preciso ir fazer
+	vírus mais fortes!
 	"""
 	keyWait
 		any = false
@@ -419,16 +410,16 @@ script 14 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	If you collect
-	chips,this will
-	come in handy!!
+	Se você coleciona
+	chips, vai gostar
+	desse presente!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hehehehehe...
-	Heheheheeeeee!!
+	He he he he he...
+	He he he heeeeee!!
 	"""
 	keyWait
 		any = false
@@ -448,103 +439,100 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = OldWoman
 	msgOpen
-	"Yes indeedy!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm in charge of the
-	Green Town Flower
-	Shop...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Today I'm going to
-	deliver some flowers
-	to someone who has
+	Sou a dona da Floricultura
+	do Distrito Verde...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	been a great
-	customer for a long
-	time...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Ayanokoji's house!"
-	keyWait
-		any = false
-	clearMsg
-	"Yes indeedy!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	...10 years ago,I
-	took flowers there
-	for the proposal...
+	e, hoje, vim entregar
+	flores para um cliente
+	muito querido meu,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yes indeedy...
-	I remember that!
+	já de longa data...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"A casa dos Ayano!"
+	keyWait
+		any = false
+	clearMsg
+	"Aham!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... 10 anos atrás,
+	eu levei flores lá para
+	um pedido de casamento...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I picked the best
-	kind of flowers for
-	a proposal...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"I chose tulips."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Tulips are said
-	to express the
-	"Joy of Love".
+	Aham...
+	Nunca vou esquecer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When the customer
-	heard that,I sold
+	Eu escolhi o melhor
+	tipo de flor para um
+	pedido de casamento...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Tulipas."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Diz-se que as tulipas
+	expressam a "alegria
+	do amor".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the tulips
-	instantly!
+	Quando o meu cliente
+	ouviu isso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you need tulips,
-	I am the store to
-	visit in Green Town!
+	as tulipas voaram das
+	estantes! Digo, das
+	minhas mãos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,is there
-	something I can
-	help you with?
+	Se precisar de tulipas,
+	eu vendo as melhores do
+	mundo no Distrito Verde!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E então, posso lhe
+	ajudar com alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -555,66 +543,66 @@ script 21 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	...10 years ago,I
-	took flowers there
-	for the proposal...
+	... 10 anos atrás,
+	eu levei flores lá para
+	um pedido de casamento...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yes indeedy...
-	I remember that!
+	Aham...
+	Nunca vou esquecer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I picked the best
-	kind of flowers for
-	a proposal...
+	Eu escolhi o melhor
+	tipo de flor para um
+	pedido de casamento...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I chose tulips."
+	"Tulipas."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tulips are said
-	to express the
-	"Joy of Love".
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	When the customer
-	heard that,I sold
+	Diz-se que as tulipas
+	expressam a "alegria
+	do amor".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the tulips
-	instantly!
+	Quando o meu cliente
+	ouviu isso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you need tulips,
-	I am the store to
-	visit in Green Town!
+	as tulipas voaram das
+	estantes! Digo, das
+	minhas mãos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,is there
-	something I can
-	help you with?
+	Se precisar de tulipas,
+	eu vendo as melhores do
+	mundo no Distrito Verde!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E então, posso lhe
+	ajudar com alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -624,35 +612,32 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = OldWoman
 	msgOpen
-	"Yes indeedy!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm in charge of the
-	Green Town Flower
-	Shop...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Today I'm going to
-	deliver some flowers
-	to someone who has
+	Sou a dona da Floricultura
+	do Distrito Verde...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	been a great
-	customer for a long
-	time...
+	e, hoje, vim entregar
+	flores para um cliente
+	muito querido meu,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ayanokoji's house!"
+	"""
+	já de longa data...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"A casa dos Ayano!"
 	keyWait
 		any = false
 	end
@@ -672,14 +657,14 @@ script 30 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Time to see if
-	you've improved as
-	a NetBattler...
+	Hora de vermos se
+	você melhorou como
+	NetLutador...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Get over here..."
+	"Vamos lá."
 	keyWait
 		any = false
 	clearMsg
@@ -703,7 +688,7 @@ script 30 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Stop it!"
+	" Esquece!"
 	select
 		default = 0
 		BSeparate = false
@@ -718,9 +703,9 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	If you don't keep
-	fighting,you'll
-	get rusty...
+	Se não lutar com
+	frequência, vai
+	acabar enferrujando...
 	"""
 	keyWait
 		any = false
@@ -731,9 +716,9 @@ script 31 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	...C'mon...
-	NetBattle against
-	me... How about it?
+	Vamos...
+	Uma NetLuta contra mim.
+	Que tal?
 	"""
 	keyWait
 		any = false
@@ -749,7 +734,7 @@ script 31 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -758,7 +743,7 @@ script 31 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -773,9 +758,9 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Hmph! If you expect
-	defeat,that is what
-	you will get...
+	Hmpf! Se esperar a
+	derrota, derrota é só
+	o que vai ter...
 	"""
 	keyWait
 		any = false
@@ -889,9 +874,9 @@ script 33 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	ProtoMan,going easy
-	is worthless...
-	Give him everything!
+	ProtoMan, seria tolice
+	pegar leve com ele...
+	Dê tudo de si!
 	"""
 	keyWait
 		any = false
@@ -899,16 +884,16 @@ script 33 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	That's what I
-	expected...
-	ProtoMan's best!
+	Eu não esperava menos
+	que isso... O ProtoMan
+	em sua melhor forma!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Yaaaaahhhh!!"
+	"Iáááááárh!!"
 	keyWait
 		any = false
 	flagSet
@@ -923,7 +908,7 @@ script 34 mmbn6 {
 	msgOpen
 	"""
 	ProtoMan...
-	Hold nothing back!
+	Dê 100% de si!
 	"""
 	keyWait
 		any = false
@@ -931,21 +916,21 @@ script 34 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Let's see what
-	you've got!
+	Bora ver do que
+	vocês são capazes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Chaud
-	"Go ProtoMan!!"
+	"Vá, ProtoMan!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Yaaaaahhhh!!"
+	"Iáááááárh!!"
 	keyWait
 		any = false
 	flagSet
@@ -968,14 +953,14 @@ script 38 mmbn6 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Well done..."
+	"Bom trabalho..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You are the only
-	one who can match
-	my skills...
+	Você é o único que
+	se equipada às minhas
+	habilidades...
 	"""
 	keyWait
 		any = false
@@ -986,17 +971,16 @@ script 39 mmbn6 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Instant decisions
-	can mean winning
-	or losing...
+	Decisões imediatas
+	podem decidir a
+	vitória ou a derrota...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't be defeated
-	by operators like
-	that...
+	Não posso ser vencido
+	por operadores assim...
 	"""
 	keyWait
 		any = false
@@ -1011,13 +995,13 @@ script 50 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm going to offload
-	my SubChips soon...
+	Quero me desfazer
+	dos meus SubChips...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Want to look?\n"
+	"Interessado?\n"
 	positionOptionHorizontal
 		width = 11
 	option
@@ -1028,7 +1012,7 @@ script 50 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Look "
+	" Ver "
 	option
 		brackets = 0
 		left = 0
@@ -1037,7 +1021,7 @@ script 50 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't look "
+	" Não ver "
 	select
 		default = 0
 		BSeparate = false
@@ -1054,15 +1038,16 @@ script 50 mmbn6 {
 script 51 mmbn6 {
 	clearMsg
 	"""
-	They say,"Giving is
-	its own reward"...
+	Dizem que "é dando
+	que se recebe"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad you don't
-	want anything...
+	Mas, se você não der
+	Zennys, não recebe
+	SubChips...
 	"""
 	keyWait
 		any = false
@@ -1073,9 +1058,8 @@ script 52 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Now that I think of
-	it,I don't have that
-	one right now...
+	Pensando bem,
+	estou sem agora...
 	"""
 	keyWait
 		any = false

@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Great job,MegaMan!"
+	"Mandou muito, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -16,11 +16,11 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	msgOpen
-	"N_No..."
+	"N-não..."
 	keyWait
 		any = false
 	clearMsg
-	"JudgeMan lost..."
+	"O JudgeMan perdeu..."
 	keyWait
 		any = false
 	end
@@ -30,16 +30,16 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The Robots' electric
-	arms stopped
-	zapping!
+	Os braços elétricos
+	dos Robôs pararam
+	de dar choque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That means Dad's
-	safe,too!!
+	O que quer dizer que
+	o papai também tá bem!!
 	"""
 	keyWait
 		any = false
@@ -49,7 +49,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = DisguiseChaud
 	msgOpen
-	"... Hmph."
+	"... Hmpf."
 	keyWait
 		any = false
 	end
@@ -57,103 +57,100 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	After that,I hurried
-	to Dad's cell.
+	Depois disso, eu
+	corri pra cela do
+	papai sem demora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Somehow,we stopped
-	it in time,and Dad
-	was OK.
+	Por milagre, a gente
+	parou a sentença a
+	tempo e ele ficou bem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But boy,did we cut
-	it close! There was
-	only 1 minute left.
+	Mas, cara, foi por
+	um triz! Só faltava
+	mais um minuto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't imagine
-	how happy I was
-	that we made it...
+	Você nem imagina o
+	quanto eu fiquei feliz
+	de ter dado tempo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After that,the real
-	culprit of this
-	whole incident,
+	Depois disso, o
+	verdadeiro culpado por
+	trás dessa coisa toda,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Prosecutor Ito,
-	didn't put up a
-	fight
+	o Promotor Ito,
+	não resistiu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and quietly let
-	himself be arrested
-	by the NetPolice.
+	e se deixou ser
+	preso pela NetPolícia
+	sem reclamar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He wouldn't say
-	anything during the
-	investigation,
+	Ele não falou nada
+	durante a investigação,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and after examining
-	the JudgeTree,it was
-	found that
+	e, depois que analisaram
+	a Árvore Juíza, foi
+	descoberto que ele
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Prosecutor had
-	really messed up
-	the tree's program.
+	tinha mexido pra caramba
+	no programa dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looked like it
-	was going to be
-	really hard to fix,
+	Parecia que ia ser super
+	difícil de consertar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but somehow,a few
-	days later,the tree
-	was able to hold
+	mas, por outro milagre,
+	uns dias depois, a árvore
+	começou a poder fazer
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	trials again.
-	Its first job was...
+	julgamentos de novo. E o
+	primeiro caso dela foi...
 	"""
 	keyWait
 		any = false
@@ -170,12 +167,12 @@ script 5 mmbn6 {
 		frames = 10
 	soundPlay
 		track = 416
-	"*crack! "
+	"Tloc! "
 	wait
 		frames = 32
 	soundPlay
 		track = 416
-	"crack!*"
+	"Tloc!"
 	wait
 		frames = 32
 	waitOWVar
@@ -190,27 +187,25 @@ script 6 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	I PRONOUNCE THAT
-	PROSECUTOR ITO,IS...
+	DECLARO O RÉU,
+	SATORU ITO...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"GUILTY!!"
+	"CULPADO!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HE WILL BE STRIPPED
-	OF HIS TITLE OF
-	"PROSECUTOR"
+	ELE SERÁ DESTITUÍDO DE
+	SEU TÍTULO DE PROMOTOR,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EFFECTIVE
-	IMMEDIATELY.
+	DE IMEDIATO.
 	"""
 	keyWait
 		any = false
@@ -219,43 +214,36 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	In the end,the trial
-	system set up by the
-	Prosecutor
+	No fim, o sistema de
+	julgamento inventado
+	pelo Promotor
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	was used to put
-	the Prosecutor
-	himself on trial.
+	foi usado pra
+	julgar ele mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure adults who
-	saw this said to
-	each other,
+	Aposto que os adultos
+	que viram isso disseram
+	uns pros outros:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"How ironic\"..."
+	"\"Que irônico\"..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I'm pretty sure
-	the Prosecutor got
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	a very harsh
-	punishment...
+	E eu também aposto
+	que o Promotor recebeu
+	uma punição das feias...
 	"""
 	keyWait
 		any = false
@@ -269,22 +257,22 @@ script 7 mmbn6 {
 	"."
 	wait
 		frames = 15
-	" Oh,yeah..."
+	" Ah, verdade..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There was one more
-	person who needed
-	punishing that I
+	E também tinha mais
+	uma pessoa merecendo
+	uma punição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can't forget about.
-	That person was in
-	Central Town...
+	Como esquecer, né?
+	Sabe, uma certa pessoa
+	no Bairro Central...
 	"""
 	keyWait
 		any = false

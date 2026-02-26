@@ -4,16 +4,16 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	This book has a
-	computer built in.
+	Esse livro tem um
+	computador embutido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It processes various
-	paperwork for
-	trials.
+	Ele processa diversas
+	burocracias para as
+	trilhas.
 	"""
 	keyWait
 		any = false
@@ -22,16 +22,16 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	All the flowers here
-	are beautiful,so it
-	is hard to say
+	Todas as flores daqui
+	são lindas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	one is better than
-	any other.
+	É muito difícil dizer
+	que uma é mais ou menos
+	bonita que a outra.
 	"""
 	keyWait
 		any = false
@@ -40,55 +40,58 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	It's the symbol of
-	Green Town.
+	Esse é o símbolo
+	do Distrito Verde.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The founding idea of
-	this town,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"\"Punishment for\n crime,justice for\n the people,\""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	is written on the
-	pedestal.
+	A filosofia-base da área,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This saying is
-	modeled after the
-	way plants take in
+	"Punição pelo crime,
+	justiça pelas pessoas",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	carbon dioxide and
-	release oxygen into
-	the air.
+	está escrita no pedestal.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's sort of like"
+	"""
+	Esse dizer é inspirado
+	no modo como as plantas
+	absorvem dióxido de
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"breathe in crime,\n breathe out\n justice.\""
+	"""
+	carbono e liberam
+	oxigênio no ar.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"You can jack in!"
+	"Algo tipo:"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	"Inspire crime,
+	expire justiça".
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Dá para se conectar aqui!"
 	keyWait
 		any = false
 	end
@@ -96,16 +99,15 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	msgOpen
 	"""
-	Sitting on this
-	chair the day after
-	it rains will make
+	Sentar nesse banco
+	após a chuva deixa
+	o bumbum molhado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your butt wet,so
-	please watch out.
+	portanto, cuidado.
 	"""
 	keyWait
 		any = false
@@ -114,17 +116,16 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	There are law books
-	sitting on top of
-	this table...
+	Há livros de direito
+	sobre esta mesa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But they're written
-	as interesting and
-	easy to read comics!
+	mas estão sob o formato
+	de um gibi interessante
+	e fácil de ler!
 	"""
 	keyWait
 		any = false
@@ -133,17 +134,16 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	There are flowers
-	lining the open
-	space here.
+	Flores enfileiradas
+	neste espaço aberto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Be careful not to
-	get stung by the
-	bees flying about!
+	Cuidado para não ser
+	picado por uma abelha
+	voando por entre elas!
 	"""
 	keyWait
 		any = false
@@ -152,9 +152,9 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	Circular chairs made
-	to look like tree
-	stumps.
+	Banquinhos circulares
+	que emulam a aparência
+	de toras de árvore.
 	"""
 	keyWait
 		any = false
@@ -163,16 +163,15 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	Beautiful lotus
-	flowers in the pond.
+	Lindas flores-de-lótus
+	no laguinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They have a
-	mysterious aura to
-	them.
+	Elas têm uma aura
+	tão misteriosa.
 	"""
 	keyWait
 		any = false
@@ -212,8 +211,8 @@ script 21 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Operate SlashMan
-	through this book?
+	Operar SlashMan
+	através deste livro?
 	"""
 	keyWait
 		any = false
@@ -229,7 +228,7 @@ script 21 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -238,7 +237,7 @@ script 21 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -261,8 +260,8 @@ script 23 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Operate TenguMan
-	through this book?
+	Operar TenguMan
+	através deste livro?
 	"""
 	keyWait
 		any = false
@@ -278,7 +277,7 @@ script 23 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -287,7 +286,7 @@ script 23 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -320,8 +319,8 @@ script 25 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	...... So,you here
-	to operate me?
+	......
+	Então, veio me operar?
 	"""
 	keyWait
 		any = false
@@ -337,7 +336,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -346,7 +345,7 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -364,9 +363,8 @@ script 26 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Ah,if it isn't Lan
-	Hikari... Did you
-	come to operate me?
+	Ah, se não é Lan
+	Hikari... Veio me operar?
 	"""
 	keyWait
 		any = false
@@ -382,7 +380,7 @@ script 26 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -391,7 +389,7 @@ script 26 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -412,15 +410,15 @@ script 27 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you doing,
-	Lan!?
+	O que é que você
+	tá fazendo, Lan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ms.Fahran's final
-	exam is waiting!!
+	A prova final da
+	Srta. Fahran nos espera!!
 	"""
 	keyWait
 		any = false
@@ -431,16 +429,16 @@ script 28 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you doing,
-	Lan!?
+	O que é que você
+	tá fazendo, Lan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Master Feng_Tian's
-	final exam is
-	waiting!!
+	A prova final do
+	Mestre Feng-Tian
+	nos espera!
 	"""
 	keyWait
 		any = false

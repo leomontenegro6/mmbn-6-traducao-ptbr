@@ -4,17 +4,16 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	All sorts of
-	trophies fill
-	the shelves here.
+	Estas prateleiras estão
+	cheias de troféus.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyber Academy's
-	winning history
-	is all right here...
+	Eles expõem o histórico
+	de vitórias da Escola
+	Saibher...
 	"""
 	keyWait
 		any = false
@@ -27,17 +26,17 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	A proverb about
-	education in a
-	foreign language...
+	Um provérbio sobre
+	educação escrito em
+	ideogramas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The other teachers
-	thought it was a
-	great present.
+	Os outros professores
+	concluíram que seria
+	um ótimo presente.
 	"""
 	keyWait
 		any = false
@@ -45,14 +44,13 @@ script 2 mmbn6 {
 }
 script 3 mmbn6 {
 	msgOpen
-	"A decorative plant."
+	"Uma planta decorativa."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's used as an air
-	cleaner in a room
-	with no windows.
+	É usada para limpar o ar
+	desta sala sem janelas.
 	"""
 	keyWait
 		any = false
@@ -61,17 +59,16 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	Piles and piles of
-	papers have built
-	up over time.
+	Pilhas e mais pilhas
+	de documentos que se
+	acumularam com o tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It shows how busy
-	the desk's owner
-	is.
+	Só mostra como o dono
+	dessa mesa é ocupado.
 	"""
 	keyWait
 		any = false
@@ -80,16 +77,16 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	A splendid tiger
-	skin rug...
+	Um explêndido tapete
+	de pele de tigre...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the idea of
-	hunting doesn't make
-	you feel too good...
+	Mas a ideia de caçar
+	animais não deixa o
+	Lan muito feliz...
 	"""
 	keyWait
 		any = false
@@ -98,15 +95,16 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	It's an expensive
-	tea set.
+	É um jogo de chá
+	caríssimo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It would look fancy
-	to any guest...
+	Passa o aspecto de
+	luxo para qualquer
+	visita...
 	"""
 	keyWait
 		any = false
@@ -116,9 +114,8 @@ script 6 mmbn6 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	There is something
-	sparkling under the
-	sofa...
+	Tem uma coisa brilhando
+	sob o sofá...
 	"""
 	keyWait
 		any = false
@@ -130,7 +127,7 @@ script 6 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -145,8 +142,8 @@ script 6 mmbn6 {
 		flag = 394
 	clearMsg
 	"""
-	Regular memory
-	increased by
+	Memória padrão
+	aumentada em
 	1 MB!!!
 	"""
 	keyWait
@@ -156,30 +153,29 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	A bunch of books
-	filled with hard
-	words all lined up.
+	Vários livros com
+	títulos difíceis
+	enfileirados aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyone with this
-	many books in their
-	room,
+	Qualquer pessoa com
+	tantos livros assim
+	na sala,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	even if they never
-	read even one of
-	the books,
+	mesmo quando nunca
+	nem leu nenhum deles,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"looks very wise..."
+	"parece super erudita..."
 	keyWait
 		any = false
 	end
@@ -187,34 +183,30 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	A picture of Cyber
-	Academy on the day
-	it was finished is
+	Fotos da Escola
+	Saibher no dia em que
+	ela foi concluída,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"in this case."
+	"expostas neste\nmostruário."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When people hear
-	that,they think this
-	picture must be old,
+	Quando as pessoas ouvem
+	isso, devem achar que
+	as fotos são antigas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but this picture
-	shows that this
-	school was completed
+	mas a data nelas mostra
+	que ela foi construída
+	bem recentemente.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"only recently."
 	keyWait
 		any = false
 	end
@@ -222,9 +214,9 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	It seems this shelf
-	was only here to
-	hide the passageway.
+	Parece que a prateleira
+	só estava aqui para
+	esconder a passagem.
 	"""
 	keyWait
 		any = false
@@ -232,20 +224,19 @@ script 9 mmbn6 {
 }
 script 10 mmbn6 {
 	msgOpen
-	"A computer..."
+	"Um computador..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The power is on
-	too...
+	E está ligado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like you
-	can jack in!!
+	Parece que dá para
+	se conectar nele!!
 	"""
 	keyWait
 		any = false

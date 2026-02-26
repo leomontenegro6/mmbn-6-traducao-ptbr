@@ -5,36 +5,36 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"This... This is..."
+	"Esse... Esse é..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	This animal's the
-	same as that statue!
-	It's a Cybeast!
+	É o mesmo animal
+	daquela estátua!
+	Uma Cyberbesta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"What fierce power..."
+	"Mas que poder intenso..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel like I'm
-	about to be crushed
+	Eu sinto como se
+	estivesse prestes
+	a ser esmagado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	even though he's
-	just standing there!
+	e ela só tá parada aí!
 	"""
 	keyWait
 		any = false
@@ -47,17 +47,17 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No way...
-	That wasn't just
-	a legend...?
+	Não pode ser...
+	Quer dizer que não
+	era só uma lenda...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if the legend's
-	true,then the Net's
-	gonna be in chaos!
+	Mas, se a lenda é
+	verdade, então a Rede
+	vai virar um caos total!
 	"""
 	keyWait
 		any = false
@@ -69,7 +69,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's go,Lan!"
+	"Vamos nessa, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -80,11 +80,11 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,leave it to me!"
+	"Beleza, deixa comigo!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
@@ -112,7 +112,7 @@ script 5 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*rooooooar!!*"
+	"Raaaaaaaarr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -128,7 +128,7 @@ script 6 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeeech!!*"
+	"Kyaaaaaarh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -154,7 +154,7 @@ script 8 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Are you OK,MegaMan!?"
+	"Cê tá legal, MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -165,7 +165,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"U_Ugh..."
+	"U-ugh..."
 	keyWait
 		any = false
 	clearMsg
@@ -176,7 +176,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W_What power..."
+	"Q-quanto poder..."
 	keyWait
 		any = false
 	clearMsg
@@ -191,7 +191,7 @@ script 11 mmbn6 {
 	controlLock
 	soundPlay
 		track = 402
-	"*grrrrrr...*"
+	"Grrrrrrr..."
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -209,7 +209,7 @@ script 12 mmbn6 {
 	controlLock
 	soundPlay
 		track = 404
-	"*screeech...*"
+	"Kiiirrrrr..."
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -224,7 +224,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack out,MegaMan!!"
+	"Desconecta, MegaMan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -235,7 +235,7 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"U_Ungh..."
+	"U_ungh..."
 	keyWait
 		any = false
 	end
@@ -249,7 +249,7 @@ script 15 mmbn6 {
 	controlLock
 	soundPlay
 		track = 402
-	"*grrrrrr...*"
+	"Grrrrrr..."
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -266,7 +266,7 @@ script 16 mmbn6 {
 	controlLock
 	soundPlay
 		track = 404
-	"*screeeech...*"
+	"Kiiirrrrr"
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -282,9 +282,9 @@ script 17 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	How in the world are
-	we going to beat
-	a Cybeast...
+	Como a gente pode
+	fazer pra vencer
+	uma Cyberbesta...?
 	"""
 	keyWait
 		any = false

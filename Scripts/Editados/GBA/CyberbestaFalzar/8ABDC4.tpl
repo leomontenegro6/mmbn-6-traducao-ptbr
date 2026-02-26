@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah,it's that guy!!"
+	"Ah, é o cara!!"
 	keyWait
 		any = false
 	end
@@ -14,7 +14,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Tsk!"
+	"Tsc!"
 	keyWait
 		any = false
 	clearMsg
@@ -26,17 +26,16 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	How long are you
-	gonna disguise
-	yourself?
+	Até quando cê vai ficar
+	disfarçado, hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I already know
-	you're a fake Admin
-	Building person!
+	Eu já sei que você é
+	um impostor do cara do
+	Prédio da Administração!
 	"""
 	keyWait
 		any = false
@@ -49,33 +48,32 @@ script 3 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	You're such a pain.
-	I was going to wear
-	this disguise until
+	Como você é irritante.
+	Eu pretendia ficar com
+	o difarce até o fim
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the end,and then
-	blame it all on that
-	old guy.
+	e, no fim, botar a culpa
+	toda naquele tiozinho lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,whatever.
-	I'll ditch this
-	ugly old guy look,
+	Ah, que seja.
+	Hora de me livrar deste
+	"look" de velho feio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and show you my
-	true,wonderful
-	self!
+	e mostrar minha
+	verdadeira e
+	maravilhosa face!
 	"""
 	keyWait
 		any = false
@@ -88,16 +86,15 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Showing your real
-	face at last,huh?
+	Finalmente vai
+	mostrar quem é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are you gonna
-	do with the Force
-	Program!?
+	O que cê quer fazer com
+	o Programa de Força?!
 	"""
 	keyWait
 		any = false
@@ -110,50 +107,46 @@ script 5 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Hmph,I didn't
-	realize you knew
-	that much...
+	Hmpf, não imaginei que
+	você soubesse tanto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We need a lot of
-	energy to make
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"our plan work."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If we use the Force
-	Program,
+	Nós precisamos de
+	muita energia para
+	realizar o nosso plano.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we can get all the
-	energy we need!
+	Usando o Programa
+	de Força,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We need a lot of
-	energy because
-	"they" need about as
+	poderemos adquirir
+	toda a energia de
+	que precisamos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	much energy to move
-	around as Sky Town
-	does!
+	E precisamos de muita,
+	porque "eles" precisam do
+	mesmo tanto de energia
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	que o Distrito Céu
+	precisa para se mover!
 	"""
 	keyWait
 		any = false
@@ -166,8 +159,7 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Who in the world
-	are "they"!?
+	Mas quem são "eles"?!
 	"""
 	keyWait
 		any = false
@@ -180,33 +172,33 @@ script 7 mmbn6 {
 		mugshot = Vic
 	msgOpen
 	"""
-	Demons who'll throw
-	humans into the pit
-	of fear...
+	Demônios que jogarão
+	os humanos no abismo
+	do pavor...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad you won't be
-	seeing them,though,
-	because you'll be
+	Mas pena que você não
+	vai conhecê-los, porque
+	vai estar ocupado demais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	too busy crashing
-	into the ground with
-	Sky Town!
+	se espatifando no
+	solo junto com o
+	Distrito Céu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	ElementMan!
-	Get the Force
-	Program!
+	Pegue o Programa
+	de Força!
 	"""
 	keyWait
 		any = false
@@ -221,22 +213,22 @@ script 8 mmbn6 {
 	"""
 	KIPIRIRI
 	PIRIKIRAPIRA...
-	たI'm trying but...ち
+	たEstou tentando, mas...ち
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	PIPIKIRIIRA KIRAPIRA
-	たsecurity's a bit
-	 tight!!ち
+	たa segurança é bem
+	rígida!!ち
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	PIRIRAAAAAAA!!
-	たCuuuuurses!!ち
+	たDroooogaaaa!!ち
 	"""
 	keyWait
 		any = false
@@ -247,8 +239,8 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I won't let you
-	get away with this!
+	Eu não vou deixar
+	cê se safar dessa!
 	"""
 	keyWait
 		any = false
@@ -261,13 +253,13 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!"
+	"\ntransmissão!!"
 	wait
 		frames = 30
 	controlUnlock

@@ -6,17 +6,17 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,there's some
-	Navi strangely
-	fidgeting...
+	Lan, tem um Navi
+	dando um piripaque
+	estranho ali...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something must be
-	wrong. Let's check
-	it out...
+	Tem alguma coisa
+	errada com ele.
+	Vamos conferir...
 	"""
 	keyWait
 		any = false
@@ -31,15 +31,15 @@ script 10 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	I'm a SubChip
-	merchant!
+	Sou um mercador
+	de SubChips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I got lots of
-	great things!
+	Meu acervo é
+	show de bola!
 	
 	"""
 	positionOptionHorizontal
@@ -52,7 +52,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Look "
+	" Ver "
 	option
 		brackets = 0
 		left = 0
@@ -61,7 +61,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't look "
+	" Não ver "
 	select
 		default = 0
 		BSeparate = false
@@ -78,8 +78,7 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	clearMsg
 	"""
-	Come back again
-	sometime!
+	Volte sempre!
 	"""
 	keyWait
 		any = false
@@ -90,15 +89,16 @@ script 12 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	I'm a SubChip
-	merchant!
+	Sou um mercador
+	de SubChips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But right now I'm
-	sold out!! Sorry!
+	Mas estou sem nada
+	para oferecer agora!
+	Sinto muito!
 	"""
 	keyWait
 		any = false
@@ -109,8 +109,7 @@ script 20 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Class isn't over
-	yet!
+	A aula ainda não acabou!
 	"""
 	keyWait
 		any = false
@@ -121,17 +120,17 @@ script 30 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You can't be
-	too impatient
-	in this world...
+	Neste mundo,
+	não dá pra ser
+	impaciente demais...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've got to treat
-	relaxation time
-	seriously too!
+	Devemos levar o
+	tempo de relaxamento
+	a sério também!
 	"""
 	keyWait
 		any = false
@@ -142,15 +141,15 @@ script 31 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	CLEANING TIME!!
-	VROOOOOOOOOMM!!
+	HORA DA LIMPEZA!!
+	VRUUUUUUUM!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	INTERNET CLEANING!!
-	VROOOOOOOOOOOMMMM!!
+	LIMPEZA DA REDE!!
+	VRUUUUUUUUUM!!
 	"""
 	keyWait
 		any = false
@@ -161,15 +160,15 @@ script 35 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS
-	CENTRALAREA1!
+	ESTA É A ÁREA
+	CENTRAL 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ARE YOU ENJOYING
-	THE INTERNET?
+	VOCÊ ESTÁ
+	CURTINDO A REDE?
 	"""
 	keyWait
 		any = false
@@ -192,14 +191,13 @@ script 36 mmbn6 {
 		jumpIfGroundMan = 44
 		jumpIfDustMan = 45
 		jumpIfProtoMan = 46
-	"Umm..."
+	"Hum..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're burning up...
-	But maybe that's
-	normal...?
+	Você tá queimando...
+	Isso é normal...?
 	"""
 	keyWait
 		any = false
@@ -210,9 +208,9 @@ script 37 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Isn't that thing
-	on your back...
-	you know...heavy?
+	Essa coisa nas suas
+	costas não... er...
+	pesa, não?
 	"""
 	keyWait
 		any = false
@@ -223,17 +221,15 @@ script 38 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You've got some
-	seriously big
-	nails!
+	Nossa, suas unhas
+	são gigantescas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Doesn't that make
-	handshakes kinda
-	difficult?
+	Não dificulta pra você
+	dar apertos de mão?
 	"""
 	keyWait
 		any = false
@@ -244,16 +240,16 @@ script 39 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You've got some
-	evil eyes...
+	O seu olhar é
+	tão maligno...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do me a favor and
-	don't look over
-	here,OK?
+	Olha, só faz o favor
+	de não olhar pra mim,
+	tá bom?
 	"""
 	keyWait
 		any = false
@@ -264,14 +260,13 @@ script 40 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You are one
-	snazzy looking
-	Navi!
+	Caramba, você é um
+	Navi tão estiloso!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm really jealous!"
+	"Que inveja!"
 	keyWait
 		any = false
 	end
@@ -280,13 +275,12 @@ script 41 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Umm..."
+	"Er..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Aren't you
-	dripping?
+	Você tá pingando...?
 	"""
 	keyWait
 		any = false
@@ -297,16 +291,17 @@ script 42 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Those wing_like
-	things on your
-	head... Awesome...
+	Esse negócio na sua
+	cabeça, essas...
+	"asas"... Que da hora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I should try
-	that style as well!
+	Talvez eu devesse
+	adotar esse estilo
+	também!
 	"""
 	keyWait
 		any = false
@@ -316,14 +311,14 @@ script 43 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Umm..."
+	"Er..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you embarrassed?
-	Your face is really
-	red!!
+	Você tá com vergonha?
+	A sua cara tá
+	vermelhinha!
 	"""
 	keyWait
 		any = false
@@ -333,14 +328,13 @@ script 44 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Umm..."
+	"Er..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Doesn't that drill
-	hurt your
-	shoulders?
+	Essa broca não machuca
+	os seus ombros, não?
 	"""
 	keyWait
 		any = false
@@ -351,20 +345,23 @@ script 45 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Huh? Gathering
-	trash is your
-	job,huh?
+	Hã? Catar lixo é o
+	seu trabalho, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...I'll set it my"
+	"""
+	... Eu vou separar
+	o meu lixo,
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	trash,but don't
-	scrap me by mistake!
+	só toma cuidado pra
+	não ME reciclar por
+	acidente!
 	"""
 	keyWait
 		any = false
@@ -375,16 +372,15 @@ script 46 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Isn't the taste
-	of coffee and
-	life so similar?
+	O sabor do café não
+	é semelhante à vida?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Extremely sweet...
-	Extremely bitter...
+	Tão doce...
+	Tão amargo...
 	"""
 	keyWait
 		any = false
@@ -395,23 +391,23 @@ script 50 mmbn6 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	...I'M THE VIRUS
-	BATTLE MACHINE V5...
+	... EU SOU A MÁQUINA
+	DE LUTA ANTIVÍRUS V5...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU ARE A VIRUS
-	BATTLER CORRECT...?
+	VOCÊ É UM GUERREIRO
+	ANTIVÍRUS, NÃO...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	ENTER 10 CONSECUTIVE
-	VIRUS BATTLES?
+	GOSTARIA DE ENCARAR
+	10 LUTAS CONSECUTIVAS
+	CONTRA VÍRUS?
 	"""
 	keyWait
 		any = false
@@ -430,7 +426,7 @@ script 50 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Yes\n"
+	" Sim\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -441,7 +437,7 @@ script 50 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -452,7 +448,7 @@ script 50 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Hear Explanation"
+	" Explicação"
 	select
 		default = 0
 		BSeparate = true
@@ -469,7 +465,7 @@ script 50 mmbn6 {
 		delay = 2
 	mugshotShow
 		mugshot = MrProgGold
-	"COME BACK SOON!"
+	"FIQUE À VONTADE PARA\nVOLTAR AQUI!"
 	keyWait
 		any = false
 	end
@@ -481,13 +477,13 @@ script 51 mmbn6 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	LAUNCHING VIRUS
-	BATTLE...
+	EXECUTANDO BATALHA
+	CONTRA VÍRUS...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BATTLE... START!!"
+	"BATALHA... INICIAR!!"
 	keyWait
 		any = false
 	flagSet
@@ -505,17 +501,17 @@ script 52 mmbn6 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	AMAZING!!
-	WELL DONE!!
-	I LOSE!!
+	INCRÍVEL!!
+	MAGNÍFICO!!
+	EU PERDI!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'VE COMPLETED
-	ALL OF THE MATCHES!
-	HERE IS YOUR GIFT!!
+	VOCÊ VENCEU TODAS
+	AS LUTAS! EIS AQUI
+	O SEU PRESENTE!
 	"""
 	keyWait
 		any = false
@@ -529,7 +525,7 @@ script 52 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip
@@ -547,7 +543,7 @@ script 52 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGold
-	"CONGRATULATIONS!"
+	"MEUS PARABÉNS!"
 	keyWait
 		any = false
 	flagSet
@@ -559,9 +555,9 @@ script 53 mmbn6 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	THAT WAS CLOSE...
-	COME BACK AGAIN
-	SOON!
+	ESSA FOI QUASE...
+	ESPERO VÊ-LO TENTAR
+	DE NOVO EM BREVE!
 	"""
 	keyWait
 		any = false
@@ -581,17 +577,17 @@ script 55 mmbn6 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	AMAZING!!
-	WELL DONE!!
-	I LOSE!!
+	INCRÍVEL!!
+	MAGNÍFICO!!
+	EU PERDI!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'VE COMPLETED
-	ALL OF THE MATCHES!
-	HERE IS YOUR GIFT!!
+	VOCÊ VENCEU TODAS
+	AS LUTAS! EIS AQUI
+	O SEU PRESENTE!
 	"""
 	keyWait
 		any = false
@@ -606,7 +602,7 @@ script 55 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"3000 Zennys"!!
 	"""
 	keyWait
@@ -616,7 +612,7 @@ script 55 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGold
-	"CONGRATULATIONS!"
+	"MEUS PARABÉNS!"
 	keyWait
 		any = false
 	end
@@ -626,17 +622,17 @@ script 56 mmbn6 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	AMAZING!!
-	WELL DONE!!
-	I LOSE!!
+	INCRÍVEL!!
+	MAGNÍFICO!!
+	EU PERDI!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'VE COMPLETED
-	ALL OF THE MATCHES!
-	HERE IS YOUR GIFT!!
+	VOCÊ VENCEU TODAS
+	AS LUTAS! EIS AQUI
+	O SEU PRESENTE!
 	"""
 	keyWait
 		any = false
@@ -651,8 +647,8 @@ script 56 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
-	"10 BugFrags"!!
+	 adquiriu:
+	"10 FragBugs"!!
 	"""
 	keyWait
 		any = false
@@ -661,7 +657,7 @@ script 56 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGold
-	"CONGRATULATIONS!"
+	"MEUS PARABÉNS!"
 	keyWait
 		any = false
 	end
@@ -673,82 +669,82 @@ script 57 mmbn6 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	LET ME EXPLAIN THE
-	RULES.
+	PERMITA-ME EXPLICAR
+	AS REGRAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN FIGHT
-	AGAINST 2 VIRUSES
+	VOCÊ PODERÁ LUTAR
+	CONTRA DOIS VÍRUS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT YOU HAVE THE
-	DATA FOR...
+	CUJOS DADOS POSSUA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU MUST REDUCE AN
-	ENEMY VIRUSES
+	SEU OBJETIVO É
+	REDUZIR A ENERGIA
+	DOS VÍRUS INIMIGOS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ENERGY TO ZERO
-	WITHIN THE TIME
-	LIMIT.
+	A ZERO DENTRO
+	DO TEMPO LIMITE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE IS ONE THING
-	TO REMEMBER WHEN
-	SETTING UP A BATTLE.
+	MAS LEMBRE-SE DE
+	UMA COISA ANTES DE
+	INICIAR UMA LUTA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE TOTAL SIZE OF
-	THE TWO VIRUSES YOU
+	O TAMANHO TOTAL DOS
+	DOIS VÍRUS QUE VOCÊ
+	ESCOLHER
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CHOOSE MUST NOT BE
-	MORE THAN 50 MB.
+	NÃO PODE PASSAR
+	DE 50 MB.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF IT IS OVER,YOU
-	WILL NOT BE ABLE TO
-	SET THE BATTLE.
+	SE PASSAR, VOCÊ
+	NÃO PODERÁ EXECUTAR
+	A ROTINA DE BATALHA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU CAN DELETE
-	ALL THE VIRUSES
-	WITH STYLE,
+	SE CONSEGUIR DELETAR
+	OS VÍRUS COM ESTILO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU WILL GET AN
-	AMAZING REWARD!
+	RECEBERÁ UMA
+	RECOMPENSA
+	MARAVILHOSA!
 	"""
 	keyWait
 		any = false
@@ -769,17 +765,16 @@ script 100 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Umm... Did you come
-	here after seeing
-	the RequestBBS?
+	Hum... Você veio aqui
+	depois de conferir o
+	Quadro de Pedidos?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That means that you
-	are going to give me
-	a "
+	Então você vai me dar
+	um "
 	"""
 	printChip
 		buffer = 0
@@ -788,7 +783,7 @@ script 100 mmbn6 {
 	printCode
 		buffer = 0
 		code = C
-	"\"!?"
+	"\"?!"
 	keyWait
 		any = false
 	clearMsg
@@ -803,7 +798,7 @@ script 100 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -812,7 +807,7 @@ script 100 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -827,8 +822,8 @@ script 100 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	I see...
-	Liar...
+	Sei...
+	Mentiroso...
 	"""
 	keyWait
 		any = false
@@ -839,8 +834,7 @@ script 101 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ah! You're going to
-	give me a
+	Ah! Você vai me dar um
 	"
 	"""
 	printChip
@@ -850,14 +844,13 @@ script 101 mmbn6 {
 	printCode
 		buffer = 0
 		code = C
-	"\" right?"
+	"\" mesmo?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that's so,then
-	go ahead and hand
-	it over...
+	Nesse caso, por favor,
+	dê ele aqui...
 	"""
 	keyWait
 		any = false
@@ -873,7 +866,7 @@ script 101 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -882,7 +875,7 @@ script 101 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -897,8 +890,8 @@ script 101 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	No wayyyy!!
-	Don't say that!
+	Pôôôôô!!
+	Não fala isso!
 	"""
 	keyWait
 		any = false
@@ -916,8 +909,8 @@ script 102 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Huh?
-	You can't find a
+	Hã?
+	Não consegue achar o
 	"
 	"""
 	printChip
@@ -932,9 +925,9 @@ script 102 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	If you don't have
-	it,you can't hand
-	it over!
+	Se você não tem,
+	não dá pra você
+	me dar, né, ô?!
 	"""
 	keyWait
 		any = false
@@ -947,8 +940,8 @@ script 103 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ahhh... So this is a
-	"
+	Ahhh... Então esse que é
+	o "
 	"""
 	printChip
 		buffer = 0
@@ -957,26 +950,26 @@ script 103 mmbn6 {
 	printCode
 		buffer = 0
 		code = C
-	"\" huh?"
+	"\", é?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the first
-	time I've actually
-	seen one...
+	Na verdade, é a
+	primeira vez que
+	eu vejo um...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...Finally..."
+	"... Finalmente..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please,take this
-	instead of money
-	for the chip!
+	Por favor, aceite
+	isto no lugar de
+	dinheiro pelo chip!
 	"""
 	keyWait
 		any = false
@@ -993,7 +986,7 @@ script 103 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -1008,29 +1001,29 @@ script 103 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Now I can finally
-	beat that stupid
-	idiot... FINALLY!
+	Agora eu finalmente
+	posso vencer aquele
+	babaca... FINALMENTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HAHAHAHA...
-	HAHAHAHAHAHAHA!!!
+	HA HA HA HA...
+	HA HA HA HA HA HA!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -1042,16 +1035,16 @@ script 104 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Thanks to you,that
-	moron is really
-	gonna get it!
+	Graças a você,
+	aquele otário vai
+	ter o que merece!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HAHAHAHA...
-	HAHAHAHAHAHAHA!!!
+	HA HA HA HA...
+	HA HA HA HA HA HA!!!
 	"""
 	keyWait
 		any = false
@@ -1062,17 +1055,16 @@ script 110 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	What? Is there
-	something on my
-	face...?
+	Que é? Tem alguma
+	coisa na minha cara...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Gross?...
-	Don't look at
-	someone like that!!
+	... Nojo?...
+	Como ousa falar
+	isso de mim?!
 	"""
 	keyWait
 		any = false
@@ -1088,7 +1080,7 @@ script 111 mmbn6 {
 	msgOpen
 	"""
 	Uggghhh...
-	You did well...
+	Cê lutou bem...
 	"""
 	keyWait
 		any = false
@@ -1117,21 +1109,20 @@ script 111 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"We did it!"
+	"Conseguimos!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We got rid of
-	all the
-	evildoers!
+	Nos livramos de
+	todos os malfeitores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get back to
-	the requestor!!
+	Vamos voltar lá
+	pro solicitante!!
 	"""
 	keyWait
 		any = false
@@ -1154,17 +1145,17 @@ script 115 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	Look at you,all
-	full of your sense
-	of justice...
+	Olha só você, todo
+	cheio de senso de
+	justiça...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Looking just
-	like you'd hate
-	someone like me!!
+	... Com essa cara
+	de quem odeia gente
+	como eu!!
 	"""
 	keyWait
 		any = false
@@ -1179,9 +1170,9 @@ script 116 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	You're...stronger...
-	than you...look!
-	Graawwwwhhhhgghhh!
+	Cê é... mais forte...
+	do que... parece!
+	Graahhhhgghhh!
 	"""
 	keyWait
 		any = false
@@ -1210,21 +1201,20 @@ script 116 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"We did it!"
+	"Conseguimos!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We got rid of
-	all the
-	evildoers!
+	Nos livramos de
+	todos os malfeitores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get back to
-	the requestor!!
+	Vamos voltar lá
+	pro solicitante!!
 	"""
 	keyWait
 		any = false
@@ -1234,7 +1224,7 @@ script 117 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	msgOpen
-	"Graawwwwhhhhgghhh!"
+	"Graahhhhgghhh!"
 	keyWait
 		any = false
 	end
@@ -1244,23 +1234,21 @@ script 120 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	...Welcome to the
-	NetCafe...
+	... Bem-vindo
+	ao NetCafé...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...How'd you like
-	to have a cup of
-	coffee?
+	... Gostaria de
+	um cafézinho?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One cup is only
-	10Z...
+	Só 10Z...
 	"""
 	keyWait
 		any = false
@@ -1276,7 +1264,7 @@ script 120 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Drink  "
+	" Beber  "
 	option
 		brackets = 0
 		left = 0
@@ -1285,7 +1273,7 @@ script 120 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't drink"
+	" Não beber"
 	select
 		default = 0
 		BSeparate = false
@@ -1303,24 +1291,24 @@ script 120 mmbn6 {
 		jumpIfSome = 138
 	mugshotShow
 		mugshot = OfficialNavi
-	"...Thanks!"
+	"... Saindo!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	printCurrentNavi
 	"""
-	 drank some
-	sweet smelling
-	cybercoffee.
+	 bebeu um
+	pouco de cybercafé
+	de aroma adocicado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A mild brew with
-	a refreshing bitter
-	taste...
+	Uma mistura moderada
+	com um amargor
+	refrescante...
 	"""
 	keyWait
 		any = false
@@ -1332,7 +1320,7 @@ script 121 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"...I see..."
+	"... Entendo..."
 	keyWait
 		any = false
 	end
@@ -1354,24 +1342,23 @@ script 122 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Coffee is best
-	when it's hot...
+	Café bom é café
+	quente, mesmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It warms you right
-	down to the soul!
+	Aquece até o
+	âmago da alma!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	A small amount
-	of HP was
-	recovered.
+	Restaurou uma pequena
+	quantidade de PV.
 	"""
 	keyWait
 		any = false
@@ -1416,9 +1403,9 @@ script 122 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	...A customer
-	I've never seen
-	before...
+	... Um cliente que
+	que nunca havia
+	visto antes...
 	"""
 	keyWait
 		any = false
@@ -1429,31 +1416,29 @@ script 123 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hey,have you
-	heard?
+	Ei, ficou sabendo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sometimes mystery
-	data will appear
-	during battle...
+	Às vezes, dados
+	misteriosos aparecem
+	durante as lutas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better not
-	destroy that data...
+	É bom você não
+	destruir esses dados...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Or so says this
-	guy I'm friends
-	with...
+	Pelo menos, é o que
+	diz um amigo meu...
 	"""
 	keyWait
 		any = false
@@ -1466,26 +1451,25 @@ script 124 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hey,have you
-	heard?
+	Ei, ficou sabendo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This rumor has
-	been spreading...
+	Tem se espalhado
+	um boato por aí...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"There is gold\n mystery data\""
+	"\"Existem dados\n misteriosos dourados.\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's quite the
-	persistent rumor...
+	Um boato bem
+	disseminado...
 	"""
 	keyWait
 		any = false
@@ -1498,16 +1482,16 @@ script 125 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Oh man,you've
-	got to hear this!
+	Amigo, você VAI
+	querer ouvir isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This weird guy
-	kept repeating
-	these numbers...
+	Um cara estranho não
+	parava de repetir
+	estes números...
 	"""
 	keyWait
 		any = false
@@ -1517,9 +1501,8 @@ script 125 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Those numbers must
-	mean something to
-	him...
+	Eles deviam significar
+	alguma coisa para ele...
 	"""
 	keyWait
 		any = false
@@ -1532,46 +1515,44 @@ script 126 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hey,have you
-	heard?
+	Ei, ficou sabendo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you walk along
-	the Net,there
+	Se você explorar
+	bastante a Rede,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	are water spouts
-	that can block the
-	road.
+	deverá encontrar
+	trombas d'água barrando
+	certas estradas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you know that
-	some Navis with
+	Sabia que certos
+	Navis com habilidades
+	especiais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	special skills can
-	delete those water
-	spouts?
+	são capazes de deletar
+	esses obstáculos?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd like to be
-	friends with one
-	of those Navis...
+	Bem que eu gostaria de
+	ser amigo de um deles...
 	"""
 	keyWait
 		any = false
@@ -1584,32 +1565,31 @@ script 127 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hey,have you
-	heard?
+	Ei, ficou sabendo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is this
-	virus battler
-	game machine...
+	Existem essas máquinas
+	recreativas de luta
+	antivírus...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you've got one,
-	you can play fight
-	against viruses!
+	Se utilizar uma,
+	poderá lutar contra
+	vírus a seu critério!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...But I have no
-	idea where to get
-	one...
+	... Mas eu nem faço
+	ideia de onde se
+	encontra uma...
 	"""
 	keyWait
 		any = false
@@ -1622,46 +1602,43 @@ script 128 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hey,have you
-	heard?
+	Ei, ficou sabendo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you walk along
-	the Net,
+	Se você explorar
+	bastante a Rede,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navis deleted
-	along ago will
+	Navis há muito deletados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	suddenly appear
-	right in front of
-	you!
+	podem aparecer
+	de repente bem
+	na sua frente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They've come to
-	get their
-	revenge...
+	Voltam em busca
+	de vingança...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems you've seen
-	a few fights,but
-	be careful...
+	Você parece ter
+	experiência com lutas,
+	mas tome cuidado...
 	"""
 	keyWait
 		any = false
@@ -1674,32 +1651,30 @@ script 129 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Have you heard
-	about this yet...?
+	Já ouviu falar disto...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Apparently somewhere
-	on the Net there is
-	a strange trader.
+	Ao que parece, em algum
+	ponto da Rede, existe um
+	mercador bem estranho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Supposedly,this
-	trader uses
-	BugFrags.
+	Supostamente, ele
+	troca FragBugs.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Well,no one has
-	actually seen it
-	for themselves yet.
+	... Dito isso, ninguém
+	jamais o encontrou
+	pessoalmente...
 	"""
 	keyWait
 		any = false
@@ -1712,28 +1687,28 @@ script 130 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	...You've become
-	quite the regular
-	customer...
+	... Você acabou se
+	tornando um cliente
+	bem regular...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I remember you now."
+	"Gravei você na memória."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have to take
-	care of our best
-	customers...
+	Temos que cuidar bem
+	dos nossos melhores
+	clientes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...So I'd like
-	you to have this...
+	... portanto, gostaria
+	que aceitasse isto...
 	"""
 	keyWait
 		any = false
@@ -1747,7 +1722,7 @@ script 130 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printNaviCustProgram
@@ -1761,7 +1736,7 @@ script 130 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Please come again!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	flagSet
@@ -2044,8 +2019,8 @@ script 138 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You don't have
-	enough money...
+	Você não tem dinheiro
+	o bastante...
 	"""
 	keyWait
 		any = false
@@ -2055,9 +2030,8 @@ script 139 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	A small amount
-	of HP was
-	recovered.
+	Restaurou uma pequena
+	quantidade de PV.
 	"""
 	keyWait
 		any = false
@@ -2067,8 +2041,8 @@ script 139 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	I've never seen
-	you before...
+	Eu nunca te vi
+	por aqui antes...
 	"""
 	keyWait
 		any = false
@@ -2083,25 +2057,25 @@ script 140 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You...
-	I've never seen
-	you before...
+	Você...
+	Eu nunca te vi
+	por aqui antes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At this NetCafe
-	you can get lots
-	of information...
+	Neste NetCafé, você
+	pode reuniur muitas
+	informações...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should
-	definitely talk with
-	other customers!
+	Sempre é uma boa
+	ideia falar com os
+	outros clientes!
 	"""
 	keyWait
 		any = false
@@ -2109,15 +2083,15 @@ script 140 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I see... So here
-	I can learn lots
+	Entendi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of things about
-	the Net!!
+	Então, dá pra eu
+	aprender muita coisa
+	sobre a Rede aqui!!
 	"""
 	keyWait
 		any = false
@@ -2125,16 +2099,16 @@ script 140 mmbn6 {
 		flag = 1130
 	clearMsg
 	"""
-	How would you like
-	to have a nice
-	cup of coffee?
+	Gostaria de uma
+	deliciosa xícara
+	de café?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cybercoffee is
-	10Z for one cup...
+	O cybercafé
+	custa só 10Z...
 	"""
 	keyWait
 		any = false
@@ -2150,7 +2124,7 @@ script 140 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Drink  "
+	" Beber  "
 	option
 		brackets = 0
 		left = 0
@@ -2159,7 +2133,7 @@ script 140 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't drink"
+	" Não beber"
 	select
 		default = 0
 		BSeparate = false
@@ -2177,32 +2151,31 @@ script 140 mmbn6 {
 		jumpIfSome = 138
 	mugshotShow
 		mugshot = OfficialNavi
-	"...Thank you!"
+	"... Saindo!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	printCurrentNavi
 	"""
-	 drank some
-	sweet smelling
-	cybercoffee.
+	 bebeu
+	um cybercafé de
+	aroma adocicado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A mild brew with
-	a refreshing bitter
-	taste...
+	Uma mistura moderada
+	com um refrescante
+	gosto amargo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A small amount
-	of HP was
-	recovered.
+	Restaurou uma pequena
+	quantidade de PV.
 	"""
 	keyWait
 		any = false

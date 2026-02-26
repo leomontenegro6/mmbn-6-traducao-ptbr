@@ -16,32 +16,32 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You're..."
+	"Você é o..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"No! How..."
+	"Não! Mas como...?"
 	wait
 		frames = 30
-	"\nHow can...!?"
+	"\nComo pode...?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
 	"""
-	It's been a while,
-	MegaMan... Lan.
+	Há quanto tempo,
+	MegaMan... Lan Hikari.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't expect that
-	our next meeting
-	would be like this.
+	Eu não esperava que o
+	nosso próximo encontro
+	fosse ser assim.
 	"""
 	keyWait
 		any = false
@@ -53,23 +53,23 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I knew it. I knew
-	it was you.
+	Eu sabia.
+	Sabia que era você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That was your voice
-	before,wasn't it?
+	Você que era aquela
+	voz de antes, não é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's going on?
-	What are you doing
-	here,Colonel!?
+	O que tá acontecendo?
+	O que você tá fazendo
+	aqui, Colonel?!
 	"""
 	keyWait
 		any = false
@@ -82,22 +82,22 @@ script 2 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	... You have an idea
-	why,don't you?
+	... Você já deve ter
+	uma noção do porquê.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know that if I'm
-	here,
+	Sabe bem que,
+	se eu estou aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then this operation
-	is under my command.
+	é porque esta operação
+	está sob o meu comando.
 	"""
 	keyWait
 		any = false
@@ -109,7 +109,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Your command?"
+	"Seu comando?"
 	keyWait
 		any = false
 	clearMsg
@@ -121,14 +121,14 @@ script 4 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	You could say that
-	Lan's Dad is in the
-	Punishment Room
+	Pode-se dizer que o
+	pai do Lan está na
+	Cela de Punição...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"because of me."
+	"graças a mim."
 	keyWait
 		any = false
 	clearMsg
@@ -140,16 +140,15 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Why are you saying
-	these things,
-	Colonel!?
+	Por que você tá falando
+	esses absurdos, Colonel?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How can you do these
-	things!?
+	Como é possível você
+	fazer essas coisas?!
 	"""
 	keyWait
 		any = false
@@ -162,60 +161,59 @@ script 6 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	You said it yourself
-	earlier...
+	Você mesmo disse
+	agora há pouco...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you fight for what
-	you think is right__
-	your own sense of
+	que você luta pelo que
+	crê ser certo. Pelo
+	seu senso de justiça.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	justice.
-	I am merely doing
-	the same.
+	Eu simplesmente
+	faço o mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But,I..."
+	"Mas eu..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have a purpose
-	greater than a
-	sense of justice.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	And for that,I am
-	standing on this
-	side of the battle.
+	Eu tenho um propósito
+	maior do que um
+	senso de justiça.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And if it means that
-	I must go against
-	you,then so be it.
+	E, por ele, me ponho
+	aqui, diante de você
+	neste lado da batalha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nothing personal,but
-	we part ways here,
-	MegaMan!
+	E se isso significar que
+	precisarei enfrentá-lo,
+	que assim seja.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Não é nada pessoal,
+	mas é aqui que nos
+	despedimos, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -228,17 +226,16 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Colonel! Do you know
-	what you're saying__
-	what you're doing!?
+	Colonel! Você entende
+	o que tá dizendo...
+	o que tá FAZENDO?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you really do
-	this,I'll never be
-	able to forgive you!
+	Se você fizer mesmo
+	isso, não vai ter volta!
 	"""
 	keyWait
 		any = false
@@ -246,45 +243,42 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	... So that's how it
-	is,huh? Just as I
-	expected.
+	... Então é assim.
+	Como eu esperava.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Given your
-	personality,
-	it's only natural.
+	Dada a sua personalidade,
+	nada mais natural.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Then I have no
-	choice.
+	... Então você não
+	me deixa escolha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	From this moment on,
-	we are enemies.
+	Daqui em diante, eu
+	e você somos inimigos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Prepare yourself,
-	MegaMan!
+	Prepare-se, MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Wait,Colonel!!"
+	"Espera, Colonel!!"
 	keyWait
 		any = false
 	clearMsg
@@ -296,21 +290,22 @@ script 8 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	... You should know
-	me well enough by
-	now.
+	... Sinto que você
+	me conhece bem o
+	bastante para saber...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I show my enemies
-	no mercy!
+	que eu não mostro
+	misericórdia aos
+	meus inimigos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Get used to it!!"
+	"Como agora!!"
 	keyWait
 		any = false
 	end
@@ -319,7 +314,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Waaaah!!"
+	"Aaaaahh!!"
 	soundFadeOut
 		slot = 31
 		length = 7
@@ -343,24 +338,24 @@ script 11 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	... What...
-	What was that attack
-	just now...?
+	... O quê...?
+	Mas que ataque
+	foi esse...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It felt like I was
-	being slashed...
+	Eu senti como se
+	tivesse sido cortado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm!? I feel that
-	presence nearby
-	again...!
+	Hmm?! Sinto aquela
+	presença por perto
+	de novo...!
 	"""
 	keyWait
 		any = false
@@ -371,9 +366,9 @@ script 12 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	... Tsk!
-	Who's there!?
-	Where are you!?
+	... Tsc!
+	Quem está aí?!
+	Onde você está?!
 	"""
 	keyWait
 		any = false
@@ -385,8 +380,8 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan! What just
-	happened!?
+	MegaMan!
+	O que foi que aconteceu?!
 	"""
 	keyWait
 		any = false
@@ -395,17 +390,17 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Someone just slashed
-	Colonel at an
-	incredible speed...
+	Alguém acabou de
+	cortar o Colonel a uma
+	velocidade absurda...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like
-	there's another Navi
-	in this comp...
+	Parece que tem um
+	outro Navi aqui,
+	neste sistema...
 	"""
 	keyWait
 		any = false
@@ -416,20 +411,20 @@ script 14 mmbn6 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	... You stopped
-	my attack...
+	... Você deteve
+	o meu ataque...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Are you taunting me?"
+	"Está me provocando?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know who you
-	are,but I'll take
-	care of you myself.
+	Não sei quem é, mas me
+	livrarei de você com
+	minhas próprias mãos.
 	"""
 	keyWait
 		any = false
@@ -444,8 +439,7 @@ script 15 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	MegaMan is all
-	yours.
+	O MegaMan é todo seu.
 	"""
 	keyWait
 		any = false
@@ -457,7 +451,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wait,Colonel!!"
+	"Espera aí, Colonel!!"
 	keyWait
 		any = false
 	end
@@ -467,9 +461,9 @@ script 17 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... So,the "guest"
-	he was talking about
-	was Colonel,huh?
+	... Então a "visita"
+	de quem ele falou
+	era o Colonel...
 	"""
 	keyWait
 		any = false
@@ -482,25 +476,23 @@ script 18 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I want to find out
-	more about Colonel,
-	too...
+	Eu quero entender
+	melhor essa história
+	do Colonel também...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but right now,we've
-	got another enemy to
-	focus on!
+	mas, agora, a gente tem
+	outro inimigo pra cuidar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This guy's probably
-	Prosecutor Ito's
-	Navi!
+	Esse sujeito aí deve ser
+	o Navi do Promotor Ito!
 	"""
 	keyWait
 		any = false
@@ -511,23 +503,20 @@ script 19 mmbn6 {
 		mugshot = JudgeMan
 	msgOpen
 	"""
-	So,
-	thou art MegaMan...
+	Então, tu és MegaMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I shall be
-	thy enemy.
+	Eu serei vosso oponente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thou shall tie
-	Colonel's hands no
-	longer.
+	Tu não mais
+	ancorará o Colonel.
 	"""
 	keyWait
 		any = false
@@ -544,9 +533,9 @@ script 20 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	make sure you
-	punish them
-	thoroughly.
+	certifique-se de
+	aplicar neles uma
+	punição completa.
 	"""
 	keyWait
 		any = false
@@ -559,9 +548,9 @@ script 21 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Prosecutor Ito!
-	Enough is enough!
-	Please,stop this!
+	... Promotor Ito!
+	Já chega disso!
+	Por favor, para!
 	"""
 	keyWait
 		any = false
@@ -574,39 +563,37 @@ script 22 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	... You're a smart
-	boy,Lan.
+	... Eu sei que você é
+	um garoto esperto, Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why do you want to
-	fight against us
-	so much...?
+	Por que se dedica tanto
+	a se opôr a mim...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can't you feel it?
-	Can't you
-	understand?
+	Não sente isso?
+	Não entende?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All I want is a
-	perfect society,free
-	of crime...
+	Tudo o que eu quero é
+	uma sociedade perfeita,
+	livre de crimes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But that's just a
-	pipe dream.
+	Mas esse é um
+	sonho impossível.
 	"""
 	keyWait
 		any = false
@@ -619,51 +606,51 @@ script 23 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... I can't forgive
-	crime either,but
-	I've never thought
+	... Eu também não
+	suporto crimes,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	about destroying the
-	whole world because
-	of that!
+	mas nunca pensei em
+	destruir o mundo só
+	por causa disso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't forgive
-	crime because...
+	O motivo de eu não
+	suportar crimes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	crime makes the
-	people I care about
-	suffer!
+	é porque eles fazem
+	as pessoas que eu
+	amo sofrerem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't want my Dad
-	and Mom to suffer!
+	E eu não quero que
+	meu pai e a minha
+	mãe sofram!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't want Mick
-	and Iris to suffer!
+	Que o Mick ou
+	a Iris sofram!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's why I fight!!"
+	"É por isso que eu luto!!"
 	keyWait
 		any = false
 	clearMsg
@@ -675,13 +662,13 @@ script 24 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	... You really are
-	still just a child.
+	... Realmente, você
+	é só uma criança.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You're too nice..."
+	"É bondoso demais..."
 	keyWait
 		any = false
 	clearMsg
@@ -695,8 +682,8 @@ script 25 mmbn6 {
 	textSpeed
 		delay = 1
 	"""
-	Being nice is a
-	good thing!!
+	Bondade é uma
+	coisa boa!!
 	"""
 	keyWait
 		any = false
@@ -704,29 +691,29 @@ script 25 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	You're making people
-	who are important to
-	me suffer right now!
+	Agora mesmo, você tá
+	fazendo as pessoas que
+	eu amo sofrerem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I'm
-	fighting you!
+	E é por isso que eu
+	vou lutar contra você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	MegaMan!
-	Let's show them what
-	justice is about!
+	Bora mostrar pra ele o
+	que é justiça de verdade!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
@@ -737,7 +724,7 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -749,7 +736,7 @@ script 27 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	They are felons,
+	Eles são criminosos,
 	JudgeMan.
 	"""
 	keyWait
@@ -763,16 +750,16 @@ script 28 mmbn6 {
 		mugshot = JudgeMan
 	msgOpen
 	"""
-	... It does seem
-	as thou says.
+	... Tal parece ser
+	a verdade dos fatos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And criminals shall
-	be punished
-	accordingly!
+	E criminosos hão de
+	serem punidos com
+	todo o peso da lei!
 	"""
 	keyWait
 		any = false

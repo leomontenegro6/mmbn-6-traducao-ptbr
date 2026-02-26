@@ -4,134 +4,131 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	A few days after the
-	explosion...
+	Se passaram alguns
+	dias desde a explosão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The explosion was
-	really powerful.
-	It flattened the
+	Ela foi super forte.
+	Reduziu toda a Área
+	da Exposição a pó,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	entire Expo Site,and
-	the blast from the
-	explosion made the
+	e o impacto da
+	explosão bagunçou
+	o bairro inteiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	town a mess,and
-	ruined a part of
-	the school.
+	Até pegou uma parte
+	da escola.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dr.Wily was found in
-	the wreckage in the
-	spot we left him.
+	O Dr. Wily foi encontrado
+	nos escombros do lugar em
+	que a gente deixou ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was a miracle
-	that he wasn't hurt
-	very badly.
+	Foi um milagre ele não
+	ter se machucado muito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Baryl was nowhere to
-	be found,but
+	O Baryl não foi achado
+	em lugar nenhum,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure he's alive
-	somewhere...
+	mas eu tenho certeza
+	que ele tá vivo em
+	algum lugar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I just know it!"
+	"Eu SEI que ele tá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Um... Yuika,Ito,and
-	Vic were found
-	unconscious by Chaud
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	in the place they
-	had landed from when
-	they jumped.
+	Hum... A Yuika, o Ito e
+	o Vic foram encontrados
+	inconscientes pelo Chaud
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,it was a
-	really far way down
-	to jump...
+	no lugar em que pararam
+	depois que pularam.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Mach was given a
-	lighter punishment
-	because he explained
+	Bom, era um lugar
+	bem alto pra pular...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	why he joined WWW,
-	and he helped to
-	stop WWW in the end.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"He's free now."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	After hearing about
-	Iris and Colonel,we
-	were all really sad.
+	O Sr. Mach recebeu
+	uma punição mais leve
+	depois que explicou
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Iris,Colonel...
-	Are you watching us
-	from somewhere...?
+	por que ele entrou pra
+	WWW, e por, no final,
+	ter ajudado a deter ela.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Ele tá livre agora."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Depois de ouvir sobre
+	a Iris e o Colonel, todo
+	mundo ficou bem triste.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Oh,and today is
-	graduation day at
-	ACDC School!
+	Iris, Colonel...
+	Vocês tão olhando a
+	gente de algum lugar...?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... Ah, e hoje é o
+	dia de formatura na
+	Escola ACDC!
 	"""
 	keyWait
 		any = false
@@ -142,118 +139,146 @@ script 1 mmbn6 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	I have some messages
-	to read! Here's one
-	from Mr.Higsby!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"\"To the students of\n ACDC School:\n Congratulations!"
-	keyWait
-		any = false
-	clearMsg
-	" I'm in Netopia\n right now studying"
-	keyWait
-		any = false
-	clearMsg
-	" so that I can\n make Higsby's even\n bigger than before!"
-	keyWait
-		any = false
-	clearMsg
-	" I'm sorry I can't\n say congrats in\n person,but"
-	keyWait
-		any = false
-	clearMsg
-	" I promise to bring\n back a ton of rare\n chips,so"
-	keyWait
-		any = false
-	clearMsg
-	" I hope you will\n all look forward\n to our return!"
-	keyWait
-		any = false
-	clearMsg
-	" I look forward to\n seeing all of you\n all grown up!"
-	keyWait
-		any = false
-	clearMsg
-	" From,\n Higsby and\n NumberMan\""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Mr.Higsby sent this
-	from far away
-	Netopia!
+	Eu tenho umas mensagens
+	aqui para ler! A primeira
+	é do Sr. Higsby!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are so many
-	messages that I'll
-	just read the names.
+	Para todos os alunos
+	da Escola ACDC:
+	meus parabéns, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Masa from the fish
-	shop,Ms.Sal from the
-	boxed lunch store,
+	Eu estou na Ameropa
+	agora, estudando para
+	deixar a Loja do Higsby
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the antique shop's
-	Ms.Miyu,the
-	announcer Ribitta,
+	ainda maior e melhor
+	que antes, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the gift shop owner
-	Tamako,Creamland's
-	Princess Pride
+	Desculpem eu
+	não poder dar os
+	parabéns em pessoa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and all the local
-	scientists...
+	mas eu prometo que trago
+	um monte de chips raros
+	quando voltar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are so many
-	people cheering for
-	you.
+	então espero que
+	fiquem animados
+	para a nossa volta, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm also very happy
-	for all of you...
+	Estou ansioso para ver
+	todos vocês crescidos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You are all such
-	good children...
+	Abraço, Higsby e
+	NumberMan, é."
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I hope you won't
-	forget me when you
-	go to junior high!
+	O Sr. Higsby mandou
+	esta carta de bem
+	longe, lá da Ameropa!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	São tantas mensagens,
+	que eu só vou ler
+	os nomes, tá?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Do Masa da peiexaria,
+	da Srta. Sal da loja
+	de marmitas,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	da Srta. Miyu do
+	antiquário, da
+	repórter Ribitta,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	da Tamako da loja de
+	presentes, da Princesa
+	Pride da Brilholândia
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e tde todos os
+	cientistas locais...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tem tantas pessoas
+	torcendo por vocês.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E eu também estou muito
+	feliz por todos vocês...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Vocês são todas
+	crianças tão boas...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... Espero que não
+	esqueçam de mim
+	agora, no ginásio!
 	"""
 	keyWait
 		any = false
@@ -265,30 +290,30 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Of course we won't!"
+	"Nunca que a gente ia!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Dex
 	"""
-	Yeah! We'll remember
-	you!
+	É! A gente vai
+	lembrar de você, sim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mayl
-	"We love you,Ms.Mari!"
+	"A gente te ama,\nSrta. Mari!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Yai
 	"""
-	We'll come back and
-	visit... *sniffle*
+	A gente volta pra
+	visitar... Sniff!
 	"""
 	keyWait
 		any = false
@@ -301,13 +326,13 @@ script 3 mmbn6 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	You'll always be my
-	students!!
+	Vocês vão sempre
+	ser meus alunos!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"And..."
+	"E..."
 	keyWait
 		any = false
 	end
@@ -317,16 +342,16 @@ script 4 mmbn6 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	I hope all of you
-	from Cyber Academy
-	do well,too!
+	Espero que todos vocês,
+	da Escola Saibher, tenham
+	muito sucesso também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mick
-	"OK!!"
+	"Valeu!!"
 	keyWait
 		any = false
 	clearMsg
@@ -337,26 +362,25 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Yes,madam!!"
+	"Claro, senhorita!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even though we had
-	to come to ACDC
-	School to have our
+	Apesar da gente só ter
+	vindo pra Escola ACDC
+	pra se formar por causa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	graduation because
-	of the explosion,
+	da explosão,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm glad we're here!"
+	"a gente tá muito feliz\nde estar aqui!"
 	keyWait
 		any = false
 	clearMsg
@@ -372,24 +396,25 @@ script 6 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I can't believe Lan
-	had such a pretty
-	teacher!
+	Eu não acredito que
+	o Lan tinha uma
+	professora linda dessas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We had a worthless
-	old man for a
-	teacher...
+	Já a gente só
+	tinha aquele
+	tiozão imprestável...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and then he suddenly
-	disappears on us...
+	que, ainda por cima,
+	tomou chá de sumiço
+	do nada...
 	"""
 	keyWait
 		any = false
@@ -401,8 +426,9 @@ script 7 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	WHO'S A WORTHLESS
-	OLD MAN!?
+	QUEM VOCÊ TÁ
+	CHAMANDO DE
+	"TIOZÃO IMPRESTÁVEL"?!
 	"""
 	keyWait
 		any = false
@@ -414,7 +440,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"T_That voice...!"
+	"E-essa voz...!"
 	keyWait
 		any = false
 	end
@@ -426,8 +452,7 @@ script 9 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Congratulations,
-	everyone!
+	Parabéns, crianças!
 	"""
 	keyWait
 		any = false
@@ -439,11 +464,11 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"M_Mr.Mach!!"
+	"S-Sr. Mach!!"
 	keyWait
 		any = false
 	clearMsg
-	"Mr.Maaaaach!!"
+	"Sr. Maaaaach!!"
 	keyWait
 		any = false
 	end
@@ -453,15 +478,16 @@ script 11 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Hahaha,you can't end
-	without me around!
+	Ha ha ha, não dava
+	pra vocês fecharem
+	as coisas sem mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry I made
-	everyone worry.
+	Desculpa ter
+	preocupado vocês.
 	"""
 	keyWait
 		any = false
@@ -474,8 +500,8 @@ script 12 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Waaaaaaaaaaah...
-	*sniffle*
+	Buáááááááá...
+	Snif!
 	"""
 	keyWait
 		any = false
@@ -487,21 +513,22 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"*sniffle...*"
+	"Chuif..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I_I said I wouldn't
-	c_c_cry...
+	E-eu prometi pra mim
+	mesma que não ia
+	c-c-chorar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	*honk*... But you've
-	all g_grown up and
-	graduated...
+	Fuuunc! ... Mas vocês
+	todos c-cresceram e
+	se f-formaram e...
 	"""
 	keyWait
 		any = false
@@ -512,7 +539,7 @@ script 13 mmbn6 {
 script 14 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Ms.Maaaari!"
+	"Srta. Maaaariiii!"
 	keyWait
 		any = false
 	end
@@ -520,9 +547,9 @@ script 14 mmbn6 {
 script 15 mmbn6 {
 	msgOpen
 	"""
-	I wish we could stay
-	a little longer,but
-	it's time to go...
+	Queria que a gente
+	pudesse ficar mais,
+	mas é hora de ir...
 	"""
 	keyWait
 		any = false
@@ -538,16 +565,16 @@ script 15 mmbn6 {
 	controlLock
 	soundPlay
 		track = 375
-	"*ding,"
+	"Bim "
 	wait
 		frames = 42
-	"dong,"
+	"Bom "
 	wait
 		frames = 40
-	"ding,"
+	"Bim "
 	wait
 		frames = 40
-	"dong*"
+	"Bom"
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -561,16 +588,16 @@ script 16 mmbn6 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	I want to thank
-	everyone for
-	everything...
+	Eu quero agradecer a
+	todos vocês por tudo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope you will all
-	do well in life!
+	Espero que tenham
+	muita felicidade e
+	sucesso na vida!
 	"""
 	keyWait
 		any = false
@@ -583,16 +610,15 @@ script 17 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Don't study too much
-	and please be an
-	open_minded adult!
+	Não fiquem só nos
+	estudos, e sejam adultos
+	de mente aberta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take care of
-	yourselves!!
+	Se cuidem, viu!!
 	"""
 	keyWait
 		any = false
@@ -605,16 +631,15 @@ script 18 mmbn6 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	OK,this ends our
-	last homeroom
-	together.
+	Certo, isso encerra
+	nossa última aula juntos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Congratulations
-	again!
+	Mais uma vez,
+	meus parabéns!
 	"""
 	keyWait
 		any = false
@@ -625,7 +650,7 @@ script 18 mmbn6 {
 script 19 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Yaaaaaaaaaaaaaay!!"
+	"Êêêêêêêêêêê!!"
 	keyWait
 		any = false
 	end
@@ -635,8 +660,8 @@ script 20 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	So whatcha up
-	to now?
+	E aí, o que cê
+	vai fazer agora?
 	"""
 	keyWait
 		any = false
@@ -660,8 +685,8 @@ script 22 mmbn6 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Lan,may I have a
-	word with you?
+	Lan, eu posso dar uma
+	palavrinha com você?
 	"""
 	keyWait
 		any = false
@@ -673,13 +698,12 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!"
+	"Claro!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I wonder what's
-	up...?
+	... O que será que é...?
 	"""
 	keyWait
 		any = false
@@ -689,7 +713,7 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yes,Ms.Mari?"
+	"Sim, Srta. Mari?"
 	keyWait
 		any = false
 	clearMsg
@@ -701,16 +725,17 @@ script 25 mmbn6 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Before homeroom,a
-	man came and asked
-	me about you...
+	Antes da aula, um
+	homem apareceu aqui
+	e perguntou de você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and then left you a
-	large box.
+	daí ele foi embora,
+	mas te deixou uma
+	caixa enorme.
 	"""
 	keyWait
 		any = false
@@ -723,8 +748,8 @@ script 26 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What did that person
-	look like,Ms.Mari!?
+	?! Como era esse
+	homem, Srta. Mari?!
 	"""
 	keyWait
 		any = false
@@ -737,9 +762,9 @@ script 27 mmbn6 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Well,he had long
-	hair,stubble,and
-	was sort of quiet...
+	Bom, ele tinha cabelo
+	comprido, uma barba por
+	fazer e era meio calado...
 	"""
 	keyWait
 		any = false
@@ -751,13 +776,13 @@ script 28 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... I thought so..."
+	"... Imaginei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Where's that box,
-	Ms.Mari!?
+	Cadê a caixa,
+	Srta. Mari?!
 	"""
 	keyWait
 		any = false
@@ -770,8 +795,8 @@ script 29 mmbn6 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	T_The Teachers'
-	Room...
+	N-na Sala dos
+	Professores...
 	"""
 	keyWait
 		any = false
@@ -788,9 +813,9 @@ script 30 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Oh! Can you please
-	tell everyone to
-	meet at my house?
+	Ah! E pode dizer pra
+	todo mundo se reunir
+	lá em casa?
 	"""
 	keyWait
 		any = false
@@ -801,9 +826,9 @@ script 31 mmbn6 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Ah! Wait...! *sigh*
-	Lan will always be
-	Lan,I guess...
+	Ah! Espera...! Ai, ai.
+	Acho que o Lan vai ser
+	sempre... o Lan.
 	"""
 	keyWait
 		any = false

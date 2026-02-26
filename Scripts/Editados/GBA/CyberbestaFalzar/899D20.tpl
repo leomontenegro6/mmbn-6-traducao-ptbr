@@ -6,13 +6,12 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Are you
-	really OK?
+	... Cê tá bem mesmo?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We left kinda..."
+	"A gente saiu na maior..."
 	keyWait
 		any = false
 	clearMsg
@@ -24,16 +23,15 @@ script 1 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Yeah. It was
-	the only way...
+	É. Mas era o único jeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not like I
-	want him following
-	me around forever...
+	Não é como se eu quisesse
+	ele me seguindo pra lá e
+	pra cá pra sempre...
 	"""
 	keyWait
 		any = false
@@ -46,16 +44,16 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mick... You don't
-	have to act tough
-	in front of me...
+	Mick... Cê não
+	precisa se fazer
+	de durão pra mim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you really not
-	sad at all...?
+	Não tá mesmo triste?
+	Nem um pouquinho...?
 	"""
 	keyWait
 		any = false
@@ -66,28 +64,27 @@ script 3 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Don't talk to me
-	like that!
+	Não fala comigo
+	desse jeito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not some
-	weakling.
+	Eu não sou fraco.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm the guy who's
-	gonna crush you in a
-	NetBattle someday!
+	Sou o cara que ainda
+	vai te humilhar em
+	uma NetLuta!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So..."
+	"Então..."
 	keyWait
 		any = false
 	end
@@ -98,13 +95,13 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"... So..."
+	"... Então..."
 	keyWait
 		any = false
 	clearMsg
 	textSpeed
 		delay = 4
-	"... I can't be s..."
+	"... não posso ficar tr..."
 	keyWait
 		any = false
 	clearMsg
@@ -122,22 +119,22 @@ script 5 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Hey,Mick,let's go
-	again sometime!
+	Ei, Mick, bora lá
+	de novo outro dia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can go to the
-	Aquarium and
+	A gente pode ir pro
+	Aquário visitar o
+	Plata quando tiver
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	visit Plata on our
-	next day off!
+	folga na escola!
 	"""
 	keyWait
 		any = false
@@ -160,15 +157,15 @@ script 6 mmbn6 {
 	"."
 	wait
 		frames = 30
-	"\nGuess you're right."
+	"\nÉ, pode ser."
 	keyWait
 		any = false
 	clearMsg
 	textSpeed
 		delay = 2
 	"""
-	It's a pain
-	to get there...
+	Digo, é um pé no
+	saco chegar lá...
 	"""
 	keyWait
 		any = false
@@ -179,8 +176,7 @@ script 7 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	but it'll be
-	worth it!
+	mas vai valer a pena!
 	"""
 	keyWait
 		any = false
@@ -189,7 +185,7 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Meanwhile"
+	"Enquanto isso"
 	waitSkip
 		frames = 30
 	"."
@@ -212,24 +208,23 @@ script 9 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I've received some
-	new information...
+	Recebi novas
+	informações...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems Captain
-	Blackbeard and his
-	Navi,DiveMan,
+	Parece que o Capitão
+	Barba-Negra e seu
+	Navi, o DiveMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	have failed in their
-	attack on Seaside
-	Town.
+	fracassaram no ataque
+	ao Distrito Beira-Mar.
 	"""
 	keyWait
 		any = false
@@ -241,110 +236,106 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = 96
 	msgOpen
-	"... It doesn't matter."
+	"... Irrelevante."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was just some
-	crazy stunt he
-	wanted to pull.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	A simple sideshow,
-	so to speak...
+	Aquilo foi só um
+	número barato que
+	ele queria apresentar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tell me about the
-	other unit members.
+	Coisa de amador...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Fale-me sobre os outros
+	membros da unidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"... Yes,boss."
+	"... Sim, senhor."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In order to revive
-	"those things",
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Yuika is currently
-	out gathering
-	NaviEnergy.
+	Para reviver "eles",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She's laying low
-	now due to NetPolice
-	activity.
+	a Yuika está agora
+	reunindo Energia Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But once they're
-	gone,we'll get all
-	we need...
+	Devido à atividade da
+	NetPolícia, ela está
+	trabalhando na surdina.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yuika will be able
-	to revive and control
-	"them" for sure.
+	Mas, quando as autoridades
+	sumirem, teremos tudo de
+	que precisamos...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E a Yuika com certeza
+	conseguirá reviver
+	e controlar "eles".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = 96
-	"I see..."
+	"Entendo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yuika's Navi's body
-	has been customized
-	by the good Doctor.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It might be possible
-	to absorb "them" as
-	well...
+	O corpo do Navi da
+	Yuika foi modificado
+	pelo nosso Doutor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tell Yuika to
-	press on no matter
-	what happens...
+	Pode ser capaz de
+	absorver "eles" também...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Diga à Yuika para
+	prosseguir, haja
+	o que houver...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Yes,boss!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	soundFadeOut

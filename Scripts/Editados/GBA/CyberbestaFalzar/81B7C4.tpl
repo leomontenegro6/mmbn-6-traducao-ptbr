@@ -6,9 +6,9 @@ script 1 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Shoot wave
-	straight
-	from Paxe.
+	Onda
+	reta da
+	picareta
 	"""
 	keyWait
 		any = false
@@ -19,9 +19,9 @@ script 2 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Sends out
-	an arrow
-	after srch
+	Flecha
+	após
+	busca
 	"""
 	keyWait
 		any = false
@@ -32,9 +32,9 @@ script 3 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Face enemy
-	and launch
-	chrg attk!
+	Encara
+	alvo e atq
+	carregado
 	"""
 	keyWait
 		any = false
@@ -45,9 +45,9 @@ script 4 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Cut enemy
-	with Wide
-	& LongSwrd
+	Corta alvo
+	c/ WideSwd
+	e LongSwrd
 	"""
 	keyWait
 		any = false
@@ -58,9 +58,9 @@ script 5 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Observe an
-	enemy then
-	fire beam!
+	Observa
+	alvo+lança
+	raio!
 	"""
 	keyWait
 		any = false
@@ -71,9 +71,9 @@ script 6 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	After jump
-	attk:quake
-	& shockwav
+	Após pulo:
+	tremor e
+	onda choq.
 	"""
 	keyWait
 		any = false
@@ -84,8 +84,8 @@ script 7 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Move forwd
-	and let go
+	Avança
+	e lança
 	TankCannon
 	"""
 	keyWait
@@ -97,9 +97,9 @@ script 8 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Dive punch
-	to an enmy
-	body!
+	Cai c/ so-
+	co em cor-
+	po do alvo!
 	"""
 	keyWait
 		any = false
@@ -110,9 +110,9 @@ script 9 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Blow enemy
-	off the
-	edge!
+	Assopra
+	alvo pra
+	fora!
 	"""
 	keyWait
 		any = false
@@ -123,9 +123,9 @@ script 11 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Engulf 3
-	forward
-	pnl wてfire
+	Cobre de
+	fogo 3qds
+	à frente
 	"""
 	keyWait
 		any = false
@@ -136,9 +136,9 @@ script 12 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Engulf 2pn
-	arnd enemy
-	with flame
+	Cobre 2qds
+	perto de
+	alvo c/ fg
 	"""
 	keyWait
 		any = false
@@ -149,9 +149,9 @@ script 14 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Aim sharp
-	needle at
-	enmy&fire!
+	Mira espi-
+	nho no al-
+	vo e atira
 	"""
 	keyWait
 		any = false
@@ -162,9 +162,8 @@ script 15 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Stop enemy
-	movement
-	with bubbl
+	Para alvo
+	com bolha
 	"""
 	keyWait
 		any = false
@@ -175,9 +174,9 @@ script 16 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Freely fly
-	around the
-	enemy area
+	Voe à von-
+	tade pela
+	área alvo
 	"""
 	keyWait
 		any = false
@@ -188,9 +187,9 @@ script 17 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Fire bolt
-	of lgtning
-	from mouth
+	Dispara
+	relâmpago
+	da boca
 	"""
 	keyWait
 		any = false
@@ -201,9 +200,9 @@ script 18 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Wide pulse
-	paralyzes
-	enemy
+	Pulso lar-
+	go parali-
+	sa alvo
 	"""
 	keyWait
 		any = false
@@ -214,9 +213,9 @@ script 19 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Throw bomb
-	that prlyz
-	enemies
+	Joga bomba
+	que
+	paralisa
 	"""
 	keyWait
 		any = false
@@ -227,9 +226,9 @@ script 20 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Throw 2bmb
-	into enemy
-	area
+	Joga 2
+	bombas nos
+	alvos
 	"""
 	keyWait
 		any = false
@@ -240,9 +239,9 @@ script 21 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Hide then
-	fire wood
-	out mouth
+	Esconde e
+	atira fogo
+	da boca
 	"""
 	keyWait
 		any = false
@@ -253,9 +252,9 @@ script 22 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Fires hony
-	on enemy
-	with atckd
+	Joga mel
+	no alvo
+	qdo atcado
 	"""
 	keyWait
 		any = false
@@ -266,9 +265,9 @@ script 23 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Search thn
-	hit enemy
-	wてMchnGun
+	Busca e
+	golpeia c/
+	metralhad.
 	"""
 	keyWait
 		any = false
@@ -279,9 +278,9 @@ script 24 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Move fwrd&
-	sometimes
-	fire MGun
+	Avança e
+	às vezes
+	metralha
 	"""
 	keyWait
 		any = false
@@ -292,9 +291,9 @@ script 25 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Plyz then
-	cut enemy
-	wてThunder
+	Paralisa e
+	corta alvo
+	c/ trovão
 	"""
 	keyWait
 		any = false
@@ -305,9 +304,9 @@ script 26 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Appear frm
-	the ground
-	and attack
+	Aparece do
+	chão e
+	ataca
 	"""
 	keyWait
 		any = false
@@ -318,9 +317,9 @@ script 27 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Charge 
-	attack if
-	enmy found
+	Ataca se
+	achar
+	inimigo
 	"""
 	keyWait
 		any = false
@@ -331,9 +330,9 @@ script 28 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Rain pnchs
-	down on
-	enemy head
+	Chovem
+	socos no
+	inimigo
 	"""
 	keyWait
 		any = false
@@ -344,9 +343,9 @@ script 29 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Cut enemy
-	behind wて
-	sword!
+	Corta alvo
+	atrás com
+	espada!
 	"""
 	keyWait
 		any = false

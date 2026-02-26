@@ -6,18 +6,17 @@ script 0 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	It was really noisy.
-	Did something
-	happen?
+	Quanta barulheira.
+	Aconteceu alguma coisa?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Nothing,huh?"
+	"Nada, é?"
 	keyWait
 		any = false
 	clearMsg
-	"I see..."
+	"Sei..."
 	keyWait
 		any = false
 	end
@@ -28,7 +27,7 @@ script 5 mmbn6 {
 	msgOpen
 	"""
 	AHHHHHH!!
-	I don't get it!
+	Eu não entendo!
 	"""
 	keyWait
 		any = false
@@ -36,14 +35,13 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
 	"""
-	So you take this
-	are and multiply
-	it by the height.
+	Olha, você pega isto aqui
+	e multiplica pela altura.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Simple enough,right?"
+	"É simples, né?"
 	keyWait
 		any = false
 	clearMsg
@@ -54,8 +52,8 @@ script 5 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I don't get how
-	get the area...
+	Eu não entendo como
+	pega a área...
 	"""
 	keyWait
 		any = false
@@ -66,16 +64,16 @@ script 6 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	So this time you
-	multiply the width
-	times the length.
+	Aí, dessa vez, você
+	multiplica a largura
+	pelo comprimento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then you multiply
-	it by the height.
+	Depois multiplica
+	pela altura.
 	"""
 	keyWait
 		any = false
@@ -83,9 +81,9 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Boy
 	"""
-	Uhh... My head feels
-	like it's gonna
-	explode...
+	Ugh... Eu sinto que
+	a minha cabeça vai
+	explodir...
 	"""
 	keyWait
 		any = false
@@ -93,14 +91,14 @@ script 6 mmbn6 {
 }
 script 10 mmbn6 {
 	msgOpen
-	"A CopyBot..."
+	"Um CópiRoide..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It got damaged by an
-	attack in battle...
-	It can't move...
+	Foi danificado por um
+	ataque em batalha.
+	Não se mexe mais...
 	"""
 	keyWait
 		any = false
@@ -115,8 +113,8 @@ script 11 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Don't like it here!?
-	Too bad!!
+	Não me quer aqui?!
+	Problema teu!!
 	"""
 	keyWait
 		any = false

@@ -4,16 +4,16 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	Lan's old house...
-	It's filled with all
-	sorts of memories,
+	A antiga casa do Lan...
+	Cheia de todo o tipo
+	de lembranças.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but now,
-	it lies empty...
+	Mas, agora,
+	posta-se vazia...
 	"""
 	keyWait
 		any = false
@@ -22,22 +22,22 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The security system
-	for Lan's old house,
+	O sistema de segurança
+	da antiga casa do Lan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	disguised as a
-	doghouse.
+	disfarçado como uma
+	casinha de cachorro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is a port for
-	jacking in!
+	Possui uma entrada
+	de conexão!
 	"""
 	keyWait
 		any = false
@@ -45,14 +45,14 @@ script 1 mmbn6 {
 }
 script 2 mmbn6 {
 	msgOpen
-	"It's Mayl's house."
+	"É a casa da Mayl."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seeing it makes you
-	remember all the
-	good times you had.
+	Vê-la faz o Lan se
+	lembrar de todos os bons
+	momentos com ela.
 	"""
 	keyWait
 		any = false
@@ -65,16 +65,16 @@ script 3 mmbn6 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A cute squirrel
-	statue.
+	Uma estátua adorável
+	de esquilo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a popular
-	meeting place for
-	the townspeople.
+	Um ponto de encontro
+	popular para os
+	moradores do bairro.
 	"""
 	keyWait
 		any = false
@@ -83,24 +83,24 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	The chip shop,
-	"Higsby's"...
+	A loje de chips
+	"Loja do Higsby"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but it's not open
-	right now.
-	Typical.
+	que não está
+	aberta agora.
+	Típico.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems the owner,
-	Higsby,is off in
-	Netopia... again.
+	Parece que o dono,
+	Higsby, está de viagem
+	na Ameropa... de novo.
 	"""
 	keyWait
 		any = false
@@ -109,16 +109,15 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	You used to come to
-	Dex's house a lot
-	before the move.
+	O Lan vinha direto
+	na casa do Dex antes
+	da mudança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like nothing's
-	changed.
+	Parece que nada mudou.
 	"""
 	keyWait
 		any = false
@@ -128,9 +127,9 @@ script 5 mmbn6 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	There's something
-	jammed in the door
-	crack...
+	Tem uma coisa enfiada
+	em uma rachadura da
+	porta...
 	"""
 	keyWait
 		any = false
@@ -142,7 +141,7 @@ script 5 mmbn6 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -160,17 +159,16 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	This gigantic
-	building is
-	Yai's house.
+	Essa casa enorme
+	é da Yai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Although "mansion"
-	is probably a better
-	word for it.
+	Bom, acho que uma
+	palavra mais adequada
+	seria "mansão".
 	"""
 	keyWait
 		any = false
@@ -179,23 +177,22 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	A tree sculpture in
-	the shape of a bear,
+	Um arbusto cortado no
+	formato de um urso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	trimmed by an
-	ingenious gardener.
+	obra de um jardinheiro
+	engenhoso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so well made
-	that it almost looks
-	like it's alive.
+	É tão bem feito, que
+	quase parece vivo.
 	"""
 	keyWait
 		any = false
@@ -204,23 +201,23 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	A cute squirrel
-	statue.
+	Uma estátua adorável
+	de esquilo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a popular
-	meeting place for
-	the townspeople.
+	Um ponto de encontro
+	popular para os
+	moradores do bairro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can jack in to
-	it.
+	Você pode se
+	conectar nele.
 	"""
 	keyWait
 		any = false

@@ -4,8 +4,9 @@
 script 0 mmbn6 {
 	msgOpenMenu
 	"""
-	You found
-	damaged Chip Data!
+	Você encontrou
+	dados de chip
+	danificados!
 	"""
 	waitHold
 }
@@ -13,7 +14,7 @@ script 1 mmbn6 {
 	msgOpenMenu
 	mugshotShow
 		mugshot = MegaMan
-	"Not enough capacity."
+	"Capacidade insuficiente."
 	keyWait
 		any = false
 	end
@@ -22,17 +23,17 @@ script 2 mmbn6 {
 	msgOpenMenu
 	mugshotShow
 		mugshot = MegaMan
-	"You don't have\n"
+	"Você ainda não tem\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" chips yet!"
+	" chips!"
 	keyWait
 		any = false
 	clearMsg
-	"Want to quit?\n"
+	"Vamos sair?\n"
 	soundDisableChoiceSFX
 	positionOptionHorizontal
 		width = 8
@@ -44,7 +45,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -53,7 +54,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -71,8 +72,8 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	The total capacity
-	for this chip is 
+	A capacidade total
+	desse chip é 
 	
 	"""
 	printBuffer
@@ -90,9 +91,8 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You can only use
-	1 of the same
-	MegaChip.
+	Só se pode portar
+	1 de cada MegaChip.
 	"""
 	keyWait
 		any = false
@@ -103,9 +103,8 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You can only use
-	1 of the same
-	GigaChip.
+	Só se pode portar
+	1 de cada GigaChip.
 	"""
 	keyWait
 		any = false
@@ -115,14 +114,14 @@ script 6 mmbn6 {
 	msgOpenMenu
 	mugshotShow
 		mugshot = MegaMan
-	"You can use only\n"
+	"Só pode portar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
 	"""
-	 of the same
+	 do mesmo
 	MegaChip.
 	"""
 	keyWait
@@ -133,14 +132,14 @@ script 7 mmbn6 {
 	msgOpenMenu
 	mugshotShow
 		mugshot = MegaMan
-	"You can use only\n"
+	"Só pode portar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
 	"""
-	 of the same
+	 do mesmo
 	GigaChip.
 	"""
 	keyWait
@@ -152,9 +151,8 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You can use only
-	1 of the same
-	DarkChip.
+	Você só pode portar
+	1 de cada ChipTrev.
 	"""
 	keyWait
 		any = false
@@ -164,14 +162,14 @@ script 9 mmbn6 {
 	msgOpenMenu
 	mugshotShow
 		mugshot = MegaMan
-	"You can use only\n"
+	"Só pode portar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
 	"""
-	 of the same
+	 do mesmo
 	DarkChips.
 	"""
 	keyWait
@@ -194,8 +192,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Choose the second
-	chip!
+	Escolha o segundo chip!
 	"""
 	keyWait
 		any = false
@@ -206,8 +203,8 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I cancelled the
-	current TagChip.
+	Eu cancelei o
+	ChipPar atual.
 	"""
 	keyWait
 		any = false
@@ -220,9 +217,8 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	That chip has
-	already been chosen
-	as a TagChip!
+	Esse chip já foi
+	escolhido como ChipPar!
 	"""
 	keyWait
 		any = false
@@ -233,9 +229,9 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	That chip has
-	already been chosen
-	as a Regular Chip!
+	Esse chip já foi
+	escolhido como
+	Chip Padrão!
 	"""
 	keyWait
 		any = false
@@ -266,8 +262,7 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Choose the first
-	chip!
+	Escolha o primeiro chip!
 	"""
 	keyWait
 		any = false
@@ -282,9 +277,8 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Choose a chip to
-	use as a Regular
-	Chip!
+	Escolha um chip para
+	usar como Chip Padrão!
 	"""
 	keyWait
 		any = false
@@ -296,7 +290,7 @@ script 22 mmbn6 {
 		delay = 0
 	mugshotShow
 		mugshot = MegaMan
-	"What will you do,Lan?\n"
+	"O que vai fazer, Lan?\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -307,7 +301,7 @@ script 22 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Choose Regular Chip\n"
+	"Escolher Chip Padrão\n"
 	soundDisableChoiceSFX
 	select
 		default = 0
@@ -328,7 +322,7 @@ script 23 mmbn6 {
 		delay = 0
 	mugshotShow
 		mugshot = MegaMan
-	"What will you do,Lan?\n"
+	"O que vai fazer, Lan?\n"
 	positionOptionHorizontal
 		width = 12
 	option
@@ -339,7 +333,7 @@ script 23 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"Battle "
+	"Lutar "
 	option
 		brackets = 0
 		left = 0
@@ -348,7 +342,7 @@ script 23 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"Change Rank\n"
+	"Mudar Ranque\n"
 	positionOptionHorizontal
 		width = 12
 	option
@@ -359,7 +353,7 @@ script 23 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Reg,TagChip Setting"
+	"Config Chip Pad,Reg"
 	select
 		default = 0
 		BSeparate = true
@@ -377,7 +371,7 @@ script 24 mmbn6 {
 	msgOpenMenu
 	mugshotShow
 		mugshot = MegaMan
-	"Waiting for orders!"
+	"Aguardando os outros!"
 	waitHold
 }
 script 25 mmbn6 {
@@ -385,8 +379,7 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Finished setting up
-	the Regular Chip.
+	Chip Padrão configurado.
 	"""
 	keyWait
 		any = false
@@ -397,8 +390,7 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Finished setting up
-	the TagChip.
+	ChipPar configurado.
 	"""
 	keyWait
 		any = false
@@ -410,7 +402,7 @@ script 27 mmbn6 {
 		delay = 0
 	mugshotShow
 		mugshot = MegaMan
-	"What will you do,Lan?\n"
+	"O que vai fazer, Lan?\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -421,7 +413,7 @@ script 27 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"Choose Regular Chip\n"
+	"Escolher Chip Padrão\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -432,7 +424,7 @@ script 27 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Choose TagChip"
+	"Escolher ChipPar"
 	soundDisableChoiceSFX
 	select
 		default = 0
@@ -452,15 +444,15 @@ script 28 mmbn6 {
 	msgOpenMenu
 	mugshotShow
 		mugshot = MegaMan
-	"You can only install\n"
+	"Você só pode instalar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
 	"""
-	 of the same
-	0と19MB Chip.
+	 do mesmo
+	chip de 0と19MB.
 	"""
 	keyWait
 		any = false
@@ -470,15 +462,15 @@ script 29 mmbn6 {
 	msgOpenMenu
 	mugshotShow
 		mugshot = MegaMan
-	"You can only install\n"
+	"Você só pode instalar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
 	"""
-	 of the same
-	20と29MB Chip.
+	 do mesmo
+	chip de 20と29MB.
 	"""
 	keyWait
 		any = false
@@ -488,15 +480,15 @@ script 30 mmbn6 {
 	msgOpenMenu
 	mugshotShow
 		mugshot = MegaMan
-	"You can only install\n"
+	"Você só pode instalar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
 	"""
-	 of the same
-	30と39MB Chip.
+	 do mesmo
+	chip de 30と39MB.
 	"""
 	keyWait
 		any = false
@@ -506,15 +498,15 @@ script 31 mmbn6 {
 	msgOpenMenu
 	mugshotShow
 		mugshot = MegaMan
-	"You can only install\n"
+	"Você só pode instalar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
 	"""
-	 of the same
-	40と49MB Chip.
+	 do mesmo
+	chip de 40と49MB.
 	"""
 	keyWait
 		any = false
@@ -524,15 +516,15 @@ script 32 mmbn6 {
 	msgOpenMenu
 	mugshotShow
 		mugshot = MegaMan
-	"You can only install\n"
+	"Você só pode instalar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
 	"""
-	 of the same
-	50MB+ Chip.
+	 do mesmo
+	chip de 50MB+.
 	"""
 	keyWait
 		any = false
@@ -543,8 +535,8 @@ script 33 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Regular Chip
-	settings released.
+	Configurações de
+	Chip Padrão liberadas.
 	"""
 	keyWait
 		any = false

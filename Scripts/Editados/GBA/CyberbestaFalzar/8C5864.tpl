@@ -12,7 +12,7 @@ script 0 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*roooooooar!!*"
+	"Raaaaaaarrrr!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -29,7 +29,7 @@ script 1 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeeech!!*"
+	"Kyaaaarh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -43,22 +43,22 @@ script 2 mmbn6 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Wahaha... Yes...
-	This is what fills
-	me with joy.
+	Ah ha ha... Sim...
+	É isso o que me
+	enche de alegria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like you can
-	provide me with some
-	fun after all.
+	Parece que você pode
+	me oferecer um pouco
+	de diversão, afinal.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go!"
+	"Vamos!"
 	keyWait
 		any = false
 	end

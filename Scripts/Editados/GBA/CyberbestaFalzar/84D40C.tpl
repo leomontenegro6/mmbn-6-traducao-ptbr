@@ -11,24 +11,23 @@ script 0 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Where are you off
-	to? ... Eh,Sky Town?
+	Aonde você vai agora?
+	... Ah, o Distrito Céu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,I went there once
-	myself. It's really
-	nice there because
+	Eu já fui lá uma vez.
+	É um lugarzinho bem
+	interessante:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that town floats at
-	30,000 feet above
-	the ground!
+	ele fica 10 km acima
+	do solo, flutuando!
 	"""
 	keyWait
 		any = false
@@ -44,16 +43,17 @@ script 1 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	That Net event for
-	the Expo sounds like
-	it was exciting.
+	Parece que aquele
+	evento na Rede para a
+	exposição foi divertido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,if I were only
-	10 years younger...
+	Ah, se, ao menos,
+	eu fosse uns 10
+	anos mais jovem...
 	"""
 	keyWait
 		any = false
@@ -69,17 +69,17 @@ script 2 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	Mick ran by here
-	like crazy just a
-	little while ago.
+	O Mick passou correndo
+	por aqui ainda agora.
+	Feito um louco.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He was yelling,"I'm
-	going to Sky Town!"
-	or something.
+	Tava gritando uma
+	coisa tipo: "Eu vou
+	pro Distrito Céu!"
 	"""
 	keyWait
 		any = false
@@ -90,23 +90,22 @@ script 5 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	How was Sky Town?
-	Felt good to be
-	there,huh?
+	Como foi no Distrito Céu?
+	É legal lá, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm? What's with the
-	long face...?
+	Hmm? Por que essa
+	carinha triste...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Haha,you're afraid
-	of heights,huh?
+	Ha ha, você tem
+	medo de altura, né?
 	"""
 	keyWait
 		any = false
@@ -117,17 +116,16 @@ script 6 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	By the look on your
-	face,something
-	happened,didn't it?
+	Dá para ver pelo seu
+	rosto que aconteceu
+	alguma coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,my boy,you have
-	to remain calm at a
-	time like this.
+	Tente manter a calma
+	nessas horas, rapaz.
 	"""
 	keyWait
 		any = false
@@ -138,17 +136,17 @@ script 7 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	I want to be
-	really strong at
-	NetBattling too...
+	Eu também queria 
+	ser super bom nas
+	NetLutas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess you really
-	do have to have a
-	ton of chips,though.
+	Mas acho que não tem
+	jeito, tem que ter
+	muitos chips...
 	"""
 	keyWait
 		any = false
@@ -159,16 +157,16 @@ script 10 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Hyaaaaaaaa!
-	Wh_What's with this
-	crazy weather!?
+	Aaaaaaaahhh!
+	Q-qual é a desse
+	clima maluco?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ack! This is no
-	time for work!
+	Ack! Isto não é hora
+	de pensar em trabalho!
 	"""
 	keyWait
 		any = false
@@ -179,16 +177,16 @@ script 40 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Ooooooh! I'm ready
-	to go!!
+	Ooooooh!
+	Tô pronto pra ação!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Navi is going to
-	be that Operator
-	Navi,I promise you!
+	É o meu Navi que vai
+	ser o Navi Operador,
+	pode anotar!
 	"""
 	keyWait
 		any = false
@@ -208,23 +206,23 @@ script 42 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	I soooo have to win!
-	Because...
+	Eu tenho mesmo que
+	vencer! Porque...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	once my Navi's
-	famous,people will
-	know who we are,and
+	quando o meu Navi
+	ficar famoso, todos
+	vão saber quem somos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	finally listen to
-	our message!
+	e finalmente vão ouvir
+	a nossa mensagem!
 	"""
 	keyWait
 		any = false
@@ -235,17 +233,17 @@ script 43 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	... My Navi is going
-	to be the Operator
-	Navi no matter what!
+	... O meu Navi vai ser
+	o Navi Operador, custe
+	o que custar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And then,when we're
-	famous,we can get
-	"that" started...!
+	Daí, ficaremos famosos
+	e poderemos dar início
+	"àquilo"...!
 	"""
 	keyWait
 		any = false
@@ -260,30 +258,28 @@ script 44 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	You made it to the
-	finals too?
+	Você também
+	chegou nas finais?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're still just an
-	elementary school
-	kid,right?
+	Mas você ainda tá no
+	fundamental, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're really
-	something...
+	Incrível...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,good luck to
-	the both of us!
+	Bom, boa sorte
+	pra nós dois!
 	"""
 	keyWait
 		any = false
@@ -298,28 +294,28 @@ script 45 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The person who finds
-	the "MoonStone"
+	Aquele que encontrar
+	a "Pedra da Lua"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will be appointed
-	the Operator Navi!
+	será selecionado
+	como Navi Operador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The "MoonStone" is
-	said to be somewhere
-	in Undernet2.
+	Diz-se que a "Pedra da
+	Lua" fica em algum ponto
+	da Undernet 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck,everyone!"
+	"Boa sorte a todos!"
 	keyWait
 		any = false
 	end
@@ -335,83 +331,78 @@ script 55 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Cheers! I may have
-	lost,but you were
-	spectacular!
+	Grande! Eu posso ter
+	perdido, mas você foi
+	espetacular, rapaz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And here I was sure
-	I would win...!
+	E eu aqui, achando que
+	a vitória era certa...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh! Hey,if you want
-	to,how about taking
-	my class sometime?
+	Ah! Ei, se tiver a fim,
+	topa fazer a minha aula
+	uma hora dessas?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've actually been
-	giving special
-	classes over there
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"at Cyber Academy!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You know,no one has
-	been able to pass my
-	hard class,yet!
+	Na verdade, eu venho
+	dando aulas especiais
+	na Escola Saibher.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I bet you could!
-	I would love to see
-	that happen.
+	E é das difíceis, viu?
+	Ninguém conseguiu
+	completar até agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you're interested
-	in my class then
-	stop on by!
+	Mas aposto que VOCÊ
+	consegue! E eu quero
+	muito ver isso acontecer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm in ResearchLab2
-	in the back of the
-	Teachers' Room.
+	Se estiver interessado
+	na minha aula, passe lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Oh,but don't
-	come today! Today
-	has wiped me out!
+	Eu fico no Laboratório
+	de Pesquisa 2, nos fundos
+	da Sala dos Professores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can start class
-	tomorrow!
+	... Ah, só não vem hoje.
+	Toda esta adrenalina me
+	deixou só o caco!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Amanhã a gente
+	começa a aula!
 	"""
 	keyWait
 		any = false
@@ -435,52 +426,47 @@ script 56 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	I've actually been
-	giving special
-	classes over there
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"at Cyber Academy!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You know,no one has
-	been able to pass my
-	hard class,yet!
+	Na verdade, eu venho
+	dando aulas especiais
+	na Escola Saibher.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I bet you could!
-	I would love to see
-	that happen.
+	E é das difíceis, viu?
+	Ninguém conseguiu
+	completar até agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you're interested
-	in my class then
-	stop on by!
+	Mas aposto que VOCÊ
+	consegue! E eu quero
+	muito ver isso acontecer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Oh,but don't
-	come today! Today
-	has wiped me out!
+	Se estiver interessado
+	na minha aula, passe lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can start class
-	tomorrow!
+	... Ah, só não vem hoje.
+	Toda esta adrenalina me
+	deixou só o caco!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Amanhã a gente
+	começa a aula!
 	"""
 	keyWait
 		any = false
@@ -497,105 +483,105 @@ script 57 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	...... I don't want
-	to admit it,but I
-	concede defeat.
+	...... Não quero aceitar,
+	mas admito a derrota.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Congratulations."
+	"... Meus parabéns."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Thanks!"
+	"Valeu!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = DarkScyth
 	"""
-	I only lost because
-	it was a "treasure
-	hunt" type of game.
+	Eu só perdi porque
+	era um jogo estilo
+	"caça ao tesouro".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If this had been a
-	"who can delete the
-	 most Navis" type,
+	Se fosse um jogo estilo
+	"quem deleta mais Navis",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I would've most
-	definitely won.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"D_Delete!?"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = DarkScyth
-	"""
-	That's my Navi's
-	job...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	He's what you call
-	a Navi deleter.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Ah,you don't need to
-	be that scared. We
-	don't attack Navis
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	when we're not on a
-	job.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If you're curious
-	about my work,I can
-	teach you more...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'm in ResearchLab2
-	of Cyber Academy.
+	a minha vitória
+	teria sido certa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
+	"D-deleta?!"
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = DarkScyth
 	"""
-	A_At school?
-	A deleter!?
+	Esse é o trabalho
+	do meu Navi...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Pode-se dizer que ele é
+	um eliminador de Navis.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ah, mas não
+	precisa ter medo.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Nós só atacamos
+	Navis quando somos
+	contratados para isso.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se estiver curioso
+	quanto ao meu trabalho,
+	posso ensinar mais...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu fico no Laboratório
+	de Pesquisa 2 da
+	Escola Saibher.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"""
+	P-pera!
+	U-um assassino
+	na escola?!
 	"""
 	keyWait
 		any = false
@@ -603,40 +589,40 @@ script 57 mmbn6 {
 	mugshotShow
 		mugshot = DarkScyth
 	"""
-	Hahaha...
-	I'm really a teacher
-	by day.
+	Ha ha ha...
+	Meu ofício principal
+	é ser professor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My new post is at
-	your school.
+	E fui contratado
+	pela sua escola.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,remember,no
-	telling the other
-	teachers what I do.
+	Claro, não conte aos
+	outros professores o
+	que eu faço.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll be our little
-	secret. Hahaha..
-	I'll be waiting.
+	Será o nosso
+	segredinho... Ha ha...
+	Ficarei esperando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,but class starts
-	tomorrow,Lan. I'm
-	too tired for today.
+	Ah, mas as aulas só
+	começam amanhã, Lan.
+	Estou exausto agora.
 	"""
 	keyWait
 		any = false
@@ -660,24 +646,25 @@ script 58 mmbn6 {
 		mugshot = DarkScyth
 	msgOpen
 	"""
-	If you're curious
-	about my work,I can
-	teach you more...
+	Se estiver curioso
+	quanto ao meu trabalho,
+	posso ensinar mais...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm in ResearchLab2
-	of Cyber Academy.
+	Eu fico no Laboratório
+	de Pesquisa 2 da
+	Escola Saibher.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,but class starts
-	tomorrow,Lan. I'm
-	too tired for today.
+	Ah, mas as aulas só
+	começam amanhã, Lan.
+	Estou exausto agora.
 	"""
 	keyWait
 		any = false
@@ -694,72 +681,72 @@ script 59 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	Congratulations!
-	Great job!
+	Meus parabéns!
+	Ótimo trabalho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,to be honest,
-	I wanted my Navi to
-	be the Operator Navi
+	Bom, sendo franco, eu
+	queria que o meu Navi
+	fosse selecionado como
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so we could get
-	people to listen to
-	our message!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"... Message?"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = MrPress
-	"""
-	Yeah! The importance
-	of recycling!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The garbage problem
-	and the future of
-	man are related.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I just want to get
-	people really
-	involved!
+	Navi Operador para
+	fazermos as pessoas
+	ouvirem nossa mensagem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
+	"... Mensagem?"
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = MrPress
 	"""
-	I see...
-	Well,it IS a really
-	big problem.
+	Sim! A importância
+	de reciclar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Mach said the
-	same thing in class.
+	O problema do lixo está
+	intimamente ligado ao
+	nosso futuro.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu só quero fazer
+	as pessoas tomarem
+	iniciativas!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"""
+	Entendi...
+	Bom, realmente é
+	um problemão.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O Sr. Mach falou a
+	mesma coisa na escola.
 	"""
 	keyWait
 		any = false
@@ -767,52 +754,48 @@ script 59 mmbn6 {
 	mugshotShow
 		mugshot = MrPress
 	"""
-	Yay!! You really
-	understand what I'm
-	saying!
+	Sim!! Ah, você entende
+	o que eu quero dizer!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hey,I know!"
+	"Já sei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I've caught your
-	interest,why don't
-	you take my class!?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	My class is in the
-	Aquarium!
+	Se captei o seu
+	interesse, por que não
+	assiste à minha aula?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today's no good for
-	me,but come by
-	tomorrow,alright!?
+	Eu a dou no Aquário!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll be a good
-	chance for you to
-	see the garbage
+	Hoje não dá, mas passa
+	lá amanhã, tá bom?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	problem with your
-	own eyes! I really
-	hope you'll come by!
+	Será uma boa chance
+	para você ver o
+	problema do lixo
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	com seus próprios olhos!
+	Espero muito que venha!
 	"""
 	keyWait
 		any = false
@@ -836,40 +819,37 @@ script 60 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	If I've caught your
-	interest,why don't
-	you take my class!?
+	Se captei o seu
+	interesse, por que não
+	assiste à minha aula?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My class is in the
-	Aquarium!
+	Eu a dou no Aquário!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today's no good for
-	me,but come by
-	tomorrow,alright!?
+	Hoje não dá, mas passa
+	lá amanhã, tá bom?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll be a good
-	chance for you to
-	see the garbage
+	Será uma boa chance
+	para você ver o
+	problema do lixo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	problem with your
-	own eyes! I really
-	hope you'll come by!
+	com seus próprios olhos!
+	Espero muito que venha!
 	"""
 	keyWait
 		any = false
@@ -885,113 +865,110 @@ script 61 mmbn6 {
 	mugshotShow
 		mugshot = AlFerry
 	msgOpen
-	"I... lost..."
+	"Eu... perdi..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And with this,my
-	dreams have been
-	dashed...
+	E, com isso, os meus
+	sonhos foram pro espaço...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Dreams?"
+	"Sonhos?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = AlFerry
-	"Yes..."
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've wanted to run a
-	steam locomotive in
-	this very city.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It would have been
-	wonderful... There
-	is such a difference
+	Eu queria guiar uma
+	locomotiva a vapor
+	por esta cidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	between a beautiful
-	train and something
-	like the LevBus.
+	Seria maravilhoso...
+	Existe um mundo de
+	diferença entre um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I figured that if
-	ChargeMan had become
-	the Operator Navi,we
+	lindo trem e um
+	veículo moderno como
+	o Ônibus Magnético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	could get people's
-	attention and
-	propose our plan.
+	Então eu pensei que, se
+	o ChargeMan se tornasse
+	o Navi Operador,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I lost,so I'll
-	wait for another day
-	to fulfill my dream.
+	poderíamos chamar a
+	atenção das pessoas e
+	propôr o nosso plano.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Say,you wouldn't
-	be interested in
-	trains,would you?
+	Mas eu perdi. Terei
+	que deixar para realizar
+	o meu sonho outro dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you are,you
-	should take my
-	class!
+	... Ei, você se
+	interessa por trens?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hold my classes
-	at the Aquarium.
+	Se interessar, devia
+	assistir à minha aula!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... But today is no
-	good for me. Why not
-	come by tomorrow?
+	Eu dou minhas
+	aulas no Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd be glad to have
-	someone as strong as
-	you onboard!
+	... Só que, hoje,
+	não dará. Pode
+	passar lá amanhã?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Será um grande prazer
+	ter alguém forte como
+	você a bordo!
 	"""
 	keyWait
 		any = false
@@ -1015,40 +992,38 @@ script 62 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	You wouldn't be
-	interested in
-	trains,would you?
+	Você se interessa
+	por trens?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you are,you
-	should take my
-	class!
+	Se interessar, devia
+	assistir à minha aula!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hold my classes
-	at the Aquarium.
+	Eu dou minhas
+	aulas no Aquário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... But today is no
-	good for me. Why not
-	come by tomorrow?
+	... Só que, hoje,
+	não dará. Pode
+	passar lá amanhã?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd be glad to have
-	someone as strong as
-	you onboard!
+	Será um grande prazer
+	ter alguém forte como
+	você a bordo!
 	"""
 	keyWait
 		any = false
@@ -1060,14 +1035,14 @@ script 63 mmbn6 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Congratulations!"
+	"Meus parabéns!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be sure to go
-	see your Navi at
-	the Expo!
+	Pode crer que eu
+	vou ver o seu Navi
+	na exposição!
 	"""
 	keyWait
 		any = false
@@ -1094,19 +1069,15 @@ script 64 mmbn6 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Congratulations!"
+	"Parabéns!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your Navi will be
-	the glorious Expo
-	Pavilion Operator
+	O seu Navi vai ser o
+	glorioso Navi Operador
+	do Pavilhão da Exposição!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"Navi!"
 	keyWait
 		any = false
 	end
@@ -1122,16 +1093,15 @@ script 65 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	You talked to
-	everyone here,
+	Você já falou com
+	todo mundo aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so maybe it's time
-	to go home and go
-	to bed?
+	então que tal a gente
+	ir pra casa dormir?
 	"""
 	keyWait
 		any = false
@@ -1154,16 +1124,15 @@ script 70 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Looks like they
-	started showing the
-	Expo commercials.
+	Parece que começaram
+	a transmitir comerciais
+	da Exposição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Have you seen them,
-	yet?
+	Você já viu?
 	"""
 	keyWait
 		any = false
@@ -1174,9 +1143,9 @@ script 71 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Looks like something
-	is happening in
-	Seaside Town.
+	Parece que tem alguma
+	coisa acontecendo no
+	Distrito Beira-Mar.
 	"""
 	keyWait
 		any = false
@@ -1187,24 +1156,24 @@ script 72 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I just heard it on
-	the news,but it
-	sounds like
+	Eu acabei de ver
+	no noticiário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	something happened
-	in Seaside Town!
+	Parece que aconteceu
+	alguma coisa no
+	Distrito Beira-Mar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something about a
-	wild Navi in a
-	CopyBot...
+	Parece que um Navi
+	em um CópiRoide
+	ficou violento...
 	"""
 	keyWait
 		any = false
@@ -1224,17 +1193,17 @@ script 73 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	I saw the commercial
-	on TV and now I just
-	can't wait!
+	Eu vi o comercial na
+	TV e, agora, a espera
+	tá me matando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I guess they're
-	not going to open
-	early,huh?
+	Mas acho que eles não
+	vão abrir nada antes
+	da hora, né?
 	"""
 	keyWait
 		any = false
@@ -1245,9 +1214,8 @@ script 74 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Looks like there's
-	some trouble
-	somewhere...
+	Parece que deu algum
+	problema em algum lugar...
 	"""
 	keyWait
 		any = false
@@ -1258,23 +1226,24 @@ script 75 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	A Navi's going wild
-	in Seaside Town,huh?
+	Um Navi saiu do
+	controle no Distrito
+	Beira-Mar, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With this sort of
-	stuff going on,will
-	the Expo still open?
+	Com esse tipo de coisa
+	acontecendo, será que
+	mesmo fazer a Exposição?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I was so looking
-	forward to it...
+	E eu tava tão
+	ansioso pra ela...
 	"""
 	keyWait
 		any = false
@@ -1285,16 +1254,16 @@ script 76 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	... I've become a
-	fan of Mayor Cain
-	lately.
+	... Esses dias, eu
+	virei grande fã do
+	Prefeito Cain.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's such a refined
-	man...
+	Ele é um homem tão
+	refinado, sabe...?
 	"""
 	keyWait
 		any = false

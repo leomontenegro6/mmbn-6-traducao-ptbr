@@ -6,30 +6,30 @@ script 0 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	That kid by the
-	Chip Trader...
+	Aquele menino perto
+	do Troca-Chips...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He got a chip
-	I want!
+	Ele tirou um chip
+	que eu quero!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What should I do!?
-	Do you think he'll
-	trade with me...?
+	O que eu faço?!
+	Acha que ele topa
+	trocar comigo...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'm too shy to
-	say anything...
+	Mas eu sou tímido
+	demais pra sugerir...
 	"""
 	keyWait
 		any = false
@@ -40,15 +40,15 @@ script 1 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Argh! I already
-	have this chip!
+	Argh! Este chip,
+	eu já tinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't seem to get
-	one I want...
+	Eu nunca tiro o
+	chip que eu quero...
 	"""
 	keyWait
 		any = false
@@ -58,22 +58,21 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
 	msgOpen
-	"Uh... Um..."
+	"Er... Hum..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know that chip
-	you just got from
-	the Chip Trader?
+	S-sabe o chip que você
+	tirou no Troca-Chips?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was wondering if
-	you'd trade it for
-	something...?
+	Será que você topa
+	trocar ele comigo
+	por um dos meus...?
 	"""
 	keyWait
 		any = false
@@ -81,27 +80,27 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	Huh...?
-	Oh,that chip!
+	Hã...?
+	Ah, AQUELE chip!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yeah,sure."
+	"Tá, pode ser."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
-	"R_Really!?"
+	"M-mesmo?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	OK,then let's trade
-	at that table there!
+	Tá, bora trocar
+	naquela mesa ali!
 	"""
 	keyWait
 		any = false
@@ -112,17 +111,16 @@ script 10 mmbn6 {
 		mugshot = YoungBoyBeadEyes
 	msgOpen
 	"""
-	... Then I'll trade
-	you for one of these
-	three.
+	... Aí a gente troca,
+	esse por um destes
+	três aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go ahead and pick
-	whichever one you
-	like from the three!
+	Vai, pode escolher
+	o que você quiser!
 	"""
 	keyWait
 		any = false
@@ -133,16 +131,16 @@ script 11 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	You've got some
-	pretty good chips!
+	Você tem uns
+	chips mó bons!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Which one...
-	Which one...
-	I can't choose!
+	Qual eu escolho...
+	Qual...
+	Ah, tão difícil!
 	"""
 	keyWait
 		any = false
@@ -153,16 +151,16 @@ script 12 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Those kids there all
-	have pretty good
-	chips.
+	Aqueles meninos ali
+	têm chips muito bons.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if they'll
-	let me join in...
+	Será que eles me
+	deixariam entrar
+	pra troca também...?
 	"""
 	keyWait
 		any = false
@@ -173,9 +171,8 @@ script 15 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	U_Um... Say,can I
-	trade chips with you
-	guys...?
+	E-er... Ei, posso trocar
+	chips com vocês...?
 	"""
 	keyWait
 		any = false
@@ -186,17 +183,16 @@ script 16 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Yeah,sure...but
-	we're pretty high_
-	leveled,you know.
+	De boa... mas a gente é
+	de nível bem alto, viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't have
-	a chip we want,
-	no deal,OK?
+	Se cê não tiver
+	um chip que a gente
+	quer, esquece!
 	"""
 	keyWait
 		any = false
@@ -206,14 +202,14 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
 	msgOpen
-	"Hehehe..."
+	"He he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if this guy
-	even has chips that
-	we'll want? Hahaha.
+	Será que esse moço
+	vai ter algum chip que
+	interesse? Ha ha ha...
 	"""
 	keyWait
 		any = false

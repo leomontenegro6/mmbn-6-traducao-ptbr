@@ -6,31 +6,30 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE HELIPORT
-	COMP!
+	ESTE É O COMPUTADOR
+	DO HELIPORTO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	TRY RIDING A
-	HELICOPTER?
+	VOCÊ GOSTARIA DE
+	DAR UMA VOLTA DE
+	HELICÓPTERO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TAKE A LOOK AT THE
-	WORLD FROM THE
-	SKY...
+	DAR UMA OLHADA NO
+	MUNDO DO CÉU...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND SAY GOODBYE TO
-	ALL YOUR TROUBLES!
+	E ESQUECER TODOS
+	OS SEUS PROBLEMAS!
 	"""
 	keyWait
 		any = false

@@ -6,16 +6,16 @@ script 0 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	It looks like we
-	can't go outside
-	for a while...
+	Parece que vamos
+	ficar um tempo sem
+	poder sair...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I'll go
-	tidy up a bit.
+	Acho que eu vou dar
+	uma geralzinha na casa.
 	"""
 	keyWait
 		any = false
@@ -26,9 +26,9 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,MegaMan...
-	That was Iris on TV,
-	wasn't it?
+	Aí, MegaMan...
+	Aquela na TV era
+	a Iris, não era?
 	"""
 	keyWait
 		any = false
@@ -41,17 +41,17 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,but I have no
-	idea why she'd be
-	there.
+	Era, sim. Mas eu nem
+	imagino o que ela tava
+	fazendo lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't it dangerous
-	to be in Sky Town by
-	yourself right now?
+	Não é perigoso demais
+	andar sozinho no
+	Distrito Céu agora?
 	"""
 	keyWait
 		any = false
@@ -64,15 +64,15 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's what I was
-	thinking...
+	Tirou as palavras
+	da minha boca...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go to
-	Sky Town,MegaMan!
+	Bora pro Distrito
+	Céu, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -84,7 +84,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end

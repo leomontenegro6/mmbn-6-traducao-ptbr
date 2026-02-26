@@ -5,13 +5,14 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm home!"
+	"Cheguei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	... Hm?
-	Is Mom out shopping?
+	Será que a mamãe saiu
+	pra fazer supermercado?
 	"""
 	keyWait
 		any = false
@@ -22,9 +23,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A note...
-	Guess she did
-	go shopping.
+	Um bilhete...
+	É, ela foi mesmo.
 	"""
 	keyWait
 		any = false
@@ -39,7 +39,7 @@ script 2 mmbn6 {
 	controlLock
 	callPETEffect
 		effect = 2
-	"*beep beep!*"
+	"Bip Bip!"
 	wait
 		frames = 62
 	callPETEffect
@@ -54,7 +54,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,you've got mail!"
+	"Lan, chegou e-mail!"
 	keyWait
 		any = false
 	end
@@ -64,8 +64,8 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... An E_mail?
-	From who?
+	... E-mail?
+	De quem?
 	"""
 	keyWait
 		any = false
@@ -78,9 +78,9 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Umm...
-	The Expo Executive
-	Committee...
+	Humm...
+	Do Comitê Executivo
+	da Exposição...
 	"""
 	keyWait
 		any = false
@@ -92,11 +92,11 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The Expo!?"
+	"Da Exposição?!"
 	keyWait
 		any = false
 	clearMsg
-	"Read it,read it!"
+	"Vai, lê aí!"
 	keyWait
 		any = false
 	clearMsg
@@ -107,35 +107,61 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"OK,here we go!"
+	"Tá, vamos lá!"
 	keyWait
 		any = false
 	clearMsg
-	"\"Dear Mr.Lan Hikari,\n We of the Expo\n Executive Committee"
+	"""
+	"Prezado Sr. Lan Hikari.
+	Nós, do Comitê
+	Executivo da Exposição,
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" would like to\n invite you to our\n Preview Gala."
+	"""
+	gostaríamos de lhe
+	convidar para o nosso
+	Baile Pré-Inaugural.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" You have been\n selected from\n among the citizens"
+	"""
+	O senhor foi selecionado
+	dentre os cidadãos da
+	Cidade Saibher
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" of Cyber City to\n attend this once in\n a lifetime event!"
+	"""
+	para comparecer a esse
+	evento único na vida!
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" This event will be\n held in one week."
+	"""
+	O baile se dará dentro
+	de uma semana.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" You may bring\n any interested\n friends with you to"
+	"""
+	Fique à vontade para
+	trazer também quaisquer
+	amigos interessados
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" the Expo Site to\n experience this\n exciting event!\""
+	"""
+	à área da Exposição
+	para viverem esse
+	evento marcante!"
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -146,7 +172,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"That's what it says!"
+	"Fim do e-mail!"
 	keyWait
 		any = false
 	clearMsg
@@ -158,8 +184,9 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Um,MegaMan,what's
-	a "Preview Gala"?
+	Hm, MegaMan, quê
+	que é um "Baile
+	Pré-Inaugural"?
 	"""
 	keyWait
 		any = false
@@ -172,16 +199,16 @@ script 10 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's an exclusive
-	event where a lot of
+	É um evento exclusivo
+	em que vários convidados
+	especiais têm a chance
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	special guests will
-	get to see the Expo
-	before it opens.
+	de ver a Exposição
+	antes dela abrir.
 	"""
 	keyWait
 		any = false
@@ -194,20 +221,21 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So you mean we get
-	to see the Expo
-	before anyone else!?
+	Então a gente vai poder
+	ver a Exposição antes do
+	resto do mundo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Cooool!!"
+	"Iiraaaado!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	About time something
-	good happened,huh?
+	Já tava na hora de
+	alguma coisa BOA
+	acontecer, né?
 	"""
 	keyWait
 		any = false
@@ -220,9 +248,9 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But it seems sudden.
-	Don't you think it's
-	kinda suspicious...?
+	Mas é tão repentino.
+	Você não acha isso
+	meio suspeito...?
 	"""
 	keyWait
 		any = false
@@ -235,16 +263,16 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You think too
-	much,MegaMan.
+	Você esquenta
+	demais, MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A lot of stuff's
-	happened,so you're
-	just being paranoid.
+	Como tem rolando muita
+	coisa, cê só tá sendo
+	paranoico.
 	"""
 	keyWait
 		any = false
@@ -257,16 +285,16 @@ script 14 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... You think so?
-	... Yeah,you're
-	probably right.
+	... Será mesmo?
+	... É, acho que
+	você tá certo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,who are you going
-	to invite?
+	E aí, quem você
+	vai convidar?
 	"""
 	keyWait
 		any = false
@@ -280,24 +308,24 @@ script 15 mmbn6 {
 	msgOpen
 	"""
 	Hmm...
-	Mick,Tab...
-	and Iris,I guess.
+	O Mick, o Tab...
+	e a Iris, eu acho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... And I'll ask
-	everyone back in
-	ACDC Town,too!
+	... Ah, e vou ver
+	com o pessoal de
+	ACDC, também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And Chaud,too!...
-	Although he probably
-	won't come...
+	E o Chaud! ...
+	Apesar de que ele
+	provavelmente não vai...
 	"""
 	keyWait
 		any = false
@@ -310,9 +338,9 @@ script 16 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	OK,let's ask
-	everyone after
-	school tomorrow!
+	Beleza, bora convidar
+	todo mundo amanhã,
+	depois da escola!
 	"""
 	keyWait
 		any = false
@@ -325,17 +353,16 @@ script 17 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah! I bet
-	everyone's gonna be
-	really surprised!
+	É! Vai todo mundo
+	ficar mó surpreso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,I think I'm gonna
-	take a nap until Mom
-	gets back.
+	Bom, acho que eu vou
+	dar um cochilo até
+	a mamãe voltar.
 	"""
 	keyWait
 		any = false
@@ -349,7 +376,7 @@ script 18 mmbn6 {
 	msgOpen
 	"""
 	Lan...
-	Homework...?
+	Lição de casa...?
 	"""
 	keyWait
 		any = false
@@ -361,7 +388,7 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Nap first!"
+	"Cochilo primeiro!"
 	keyWait
 		any = false
 	clearMsg

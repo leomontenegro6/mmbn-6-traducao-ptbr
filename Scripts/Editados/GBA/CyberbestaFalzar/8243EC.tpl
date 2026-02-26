@@ -37,9 +37,8 @@ script 0 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	It looks like
-	there's a new
-	post!
+	Parece que tem
+	postagem nova!
 	"""
 	keyWait
 		any = false
@@ -81,9 +80,7 @@ script 1 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	There isn't
-	even a single
-	post.
+	Nenhuma postagem.
 	"""
 	keyWait
 		any = false
@@ -106,8 +103,8 @@ script 2 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	There seems to
-	be a new post.
+	Nenhuma postagem
+	nova, ao que parece.
 	"""
 	keyWait
 		any = false
@@ -130,9 +127,7 @@ script 3 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	There isn't
-	even a single
-	post.
+	Nenhuma postagem.
 	"""
 	keyWait
 		any = false
@@ -155,9 +150,8 @@ script 4 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	Looks to me
-	like there's a
-	new post.
+	Parece que tem
+	postagem nova.
 	"""
 	keyWait
 		any = false
@@ -180,32 +174,31 @@ script 5 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	There isn't
-	even a single
-	post here.
+	Nenhuma postagem
+	feita até agora.
 	"""
 	keyWait
 		any = false
 	waitHold
 }
 script 6 mmbn6s {
-	"EndlsSmmrBBS"
+	"FórumVerãoSF"
 	end
 }
 script 7 mmbn6s {
-	"GreenBBS    "
+	"Fórum Verde "
 	end
 }
 script 8 mmbn6s {
-	"BlueSkyBBS  "
+	"FórumCéuAzul"
 	end
 }
 script 9 mmbn6s {
-	"OasisBBS    "
+	"Fórum Oásis "
 	end
 }
 script 10 mmbn6s {
-	"UnderBBS    "
+	"UnderFórum  "
 	end
 }
 script 11 mmbn6 {
@@ -227,9 +220,8 @@ script 11 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	Looks like
-	there's a
-	new post!
+	Parece que tem
+	postagem nova!
 	"""
 	keyWait
 		any = false
@@ -254,9 +246,8 @@ script 12 mmbn6 {
 		type = 0
 	msgOpen
 	"""
-	Awww... There's
-	not even a
-	single post.
+	Poxa...
+	Nenhuma postagem?
 	"""
 	keyWait
 		any = false

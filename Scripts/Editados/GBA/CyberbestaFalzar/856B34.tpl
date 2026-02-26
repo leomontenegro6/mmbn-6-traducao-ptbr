@@ -10,8 +10,7 @@ script 0 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Alright now,
-	take care.
+	Certo, vai na sombra.
 	"""
 	keyWait
 		any = false
@@ -26,9 +25,9 @@ script 1 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Huh? The CopyBot's
-	missing? Maybe it
-	went off somewhere.
+	Hã? O CópiRoide sumiu?
+	Vai ver ele saiu pra
+	algum lugar.
 	"""
 	keyWait
 		any = false
@@ -36,9 +35,8 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	Or maybe they
-	took it in for
-	maintenance?
+	Ou será que levaram
+	ele pra consertar?
 	"""
 	keyWait
 		any = false
@@ -53,8 +51,8 @@ script 2 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	Maybe it decided to
-	go for a walk?
+	Vai ver ele saiu pra
+	dar uma volta...
 	"""
 	keyWait
 		any = false
@@ -62,8 +60,8 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Boy
 	"""
-	Ahahahaha!
-	As if!
+	Ah ha ha ha ha!
+	Até parece!
 	"""
 	keyWait
 		any = false
@@ -73,14 +71,13 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Please hurry home."
+	"Por favor, vá\ndireto para casa."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The weather has
-	become quite
-	strange.
+	O tempo ficou
+	bem estranho.
 	"""
 	keyWait
 		any = false
@@ -92,24 +89,23 @@ script 6 mmbn6 {
 	msgOpen
 	"""
 	Hmmmm...
-	I know I should go
-	home,but...
+	Sei que eu devia
+	ir pra casa, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	isn't it dangerous
-	to walk around
-	outside too?
+	não é perigoso
+	lá fora também?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I'll wait
-	for a little bit and
-	see how it looks...
+	Acho que eu vou esperar
+	um pouquinho pra ver no
+	que vai dar...
 	"""
 	keyWait
 		any = false
@@ -120,25 +116,23 @@ script 7 mmbn6 {
 		mugshot = YoungBoyHair
 	msgOpen
 	"""
-	The teachers are all
-	running around like
-	they're confused,
+	Os professores tão
+	correndo pra lá e pra
+	cá todos confusos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the rain isn't
-	stopping,and the
-	wind's howling...
+	a chuva não para,
+	o vento tá com tudo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't it awesome
-	when the weather is
-	so messed up?
+	Não é irado quando o
+	clima fica todo doido?!
 	"""
 	keyWait
 		any = false
@@ -155,16 +149,16 @@ script 20 mmbn6 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	THE MAYOR IS IN THE
-	MIDDLE OF VERY
-	IMPORTANT WORK.
+	O PREFEITO ESTÁ
+	REALIZANDO UM TRABALHO
+	IMPORTANTE AGORA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEREFORE,YOU MAY
-	NOT ENTER THIS ROOM.
+	PORTANTO, É PROIBIDO
+	ENTRAR NA SALA.
 	"""
 	keyWait
 		any = false
@@ -175,16 +169,16 @@ script 21 mmbn6 {
 	flagSet
 		flag = 3279
 	"""
-	THE MAYOR IS IN THE
-	MIDDLE OF VERY
-	IMPORTANT WORK.
+	O PREFEITO ESTÁ
+	REALIZANDO UM TRABALHO
+	IMPORTANTE AGORA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEREFORE,YOU MAY
-	NOT ENTER THIS ROOM.
+	PORTANTO, É PROIBIDO
+	ENTRAR NA SALA.
 	"""
 	keyWait
 		any = false
@@ -192,33 +186,33 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	But I have to talk
-	to the Mayor! It's
-	important!!
+	Mas eu tenho que
+	falar com o Prefeito!
+	É importante!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm running out of
-	time! Can't you
-	please do something?
+	O tempo tá acabando!
+	Por favor, não pode
+	fazer alguma coisa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	THE MAYOR IS IN THE
-	MIDDLE OF VERY
-	IMPORTANT WORK.
+	O PREFEITO ESTÁ
+	REALIZANDO UM TRABALHO
+	IMPORTANTE AGORA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Aaargh. Now what...?"
+	"Aaargh. E agora...?"
 	keyWait
 		any = false
 	end
@@ -226,23 +220,23 @@ script 21 mmbn6 {
 script 22 mmbn6 {
 	msgOpen
 	"""
-	THE MAYOR IS IN THE
-	MIDDLE OF VERY
-	IMPORTANT WORK.
+	O PREFEITO ESTÁ
+	REALIZANDO UM TRABALHO
+	IMPORTANTE AGORA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEREFORE,YOU MAY
-	NOT ENTER THIS ROOM.
+	PORTANTO, É PROIBIDO
+	ENTRAR NA SALA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Aaargh. Now what...?"
+	"Aaargh. E agora...?"
 	keyWait
 		any = false
 	end
@@ -259,24 +253,23 @@ script 25 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	I helped move a
-	bunch of CopyBots in
-	a little while ago.
+	Eu ajudei a transportar
+	um bando de CópiRoides
+	um tempo atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After that,we moved
-	them to the
-	Principal's Office.
+	Depois disso, a gente
+	levou eles pra Diretoria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what
-	happened to them...
+	O que será que
+	aconteceu com eles...?
 	"""
 	keyWait
 		any = false
@@ -287,9 +280,8 @@ script 30 mmbn6 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	... Is it
-	really true that
-	Mr.Weather's broken?
+	... É verdade mesmo que
+	o Seu Cleema quebrou?
 	"""
 	keyWait
 		any = false
@@ -297,9 +289,9 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyBeadEyes
 	"""
-	Yeah,it's not just a
-	rumor. Sounds like
-	someone broke him.
+	É, não é só boato, não.
+	Parece que alguém
+	quebrou ele.
 	"""
 	keyWait
 		any = false
@@ -318,45 +310,39 @@ script 40 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	There's no school
-	today,so there's
-	just a few folks
+	Hoje não tem aula,
+	então só tem umas
+	poucas pessoas aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	here... Including
-	the Principal,Mayor
+	Incluindo o Diretor,
+	o Prefeito Cain, que
+	está aqui desde ontem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cain,who's been here
-	since yesterday.
+	Ele não sai da
+	Diretoria,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's been in the
-	Principal's Office
+	trabalhando feito
+	louco naquela toca dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	like a bat in a cave
-	working like crazy.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Being a Mayor and a
-	Principal sure
-	sounds stressful!
+	Ser Prefeito e Diretor
+	ao mesmo tempo parece
+	bem estressante!
 	"""
 	keyWait
 		any = false
@@ -367,9 +353,9 @@ script 41 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	What!? What!?
-	Is something big
-	happening!?
+	O quê?! O que foi?!
+	Aconteceu alguma
+	calamidade?!
 	"""
 	keyWait
 		any = false
@@ -380,16 +366,16 @@ script 42 mmbn6 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	... It was probably
-	just my imagination.
+	... Acho que foi só
+	imaginação minha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mayor Cain was being
-	led out in handcuffs
-	just now...
+	Eu vi o Prefeito Cain
+	sendo escoltado pra
+	fora daqui, algemado...
 	"""
 	keyWait
 		any = false

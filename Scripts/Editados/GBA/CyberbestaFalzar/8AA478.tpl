@@ -4,8 +4,8 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	The next day
-	after school...
+	No dia seguinte,
+	depois da aula...
 	"""
 	keyWait
 		any = false
@@ -14,16 +14,16 @@ script 0 mmbn6 {
 	controlLock
 	soundPlay
 		track = 375
-	"*ding,"
+	"Bim "
 	wait
 		frames = 42
-	"dong,"
+	"Bom "
 	wait
 		frames = 40
-	"ding,"
+	"Bim "
 	wait
 		frames = 40
-	"dong*"
+	"Bom"
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -37,9 +37,8 @@ script 1 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	That's it for today!
-	Make sure you all go
-	straight home!
+	Acabou a aula de hoje!
+	Vão direto pra casa, viu?
 	"""
 	keyWait
 		any = false
@@ -48,7 +47,7 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	mugshotHide
 	msgOpen
-	"Good bye,Mr.Mach!"
+	"Tchau, Sr. Mach!"
 	keyWait
 		any = false
 	end
@@ -58,15 +57,14 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,Mick,let's go
-	home!
+	Aí, Mick, bora embora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Tab
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
@@ -89,17 +87,16 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's wrong...?
-	You're not still
-	thinking about
+	Que foi...? Você ainda
+	não tá pensando no que
+	rolou ontem, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	yesterday,are you?
-	... Look,it's OK!
-	Really!
+	... Olha, tá tudo bem!
+	É sério!
 	"""
 	keyWait
 		any = false
@@ -107,8 +104,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	"""
-	What happened
-	yesterday?
+	O que aconteceu ontem?
 	"""
 	keyWait
 		any = false
@@ -121,8 +117,8 @@ script 6 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	... But I couldn't
-	do anything...
+	... Mas eu não
+	pude fazer nada...
 	"""
 	keyWait
 		any = false
@@ -135,24 +131,23 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's why I said
-	don't think about
-	it anymore!
+	É disso mesmo que eu
+	tô falando! Não precisa
+	pensar mais nisso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Besides,I
-	couldn't do anything
-	either...
+	... Além disso, eu também
+	não pude fazer nada...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Tab
-	"Hey,what happened?"
+	"... Sério, gente,\no que eu perdi?"
 	keyWait
 		any = false
 	clearMsg
@@ -164,21 +159,21 @@ script 8 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Come on,you two! I
-	don't like seeing
-	both of you down!
+	Ah, vai, gente! Eu não
+	gosto de ver vocês dois
+	assim, pra baixo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,Mick,look!
-	I'm fine,really!
+	Lan, Mick, olhem!
+	Eu tô bem, é sério!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So let's go home!"
+	"Então só bora pra casa!"
 	keyWait
 		any = false
 	clearMsg
@@ -194,9 +189,9 @@ script 9 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	See,Mick,even
-	he says he's OK,so
-	c'mon,let's go!
+	Viu, Mick? Até ele tá
+	dizendo que tá bem,
+	então bora embora!
 	"""
 	keyWait
 		any = false
@@ -215,9 +210,9 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	"""
-	Grr! Can't you guys
-	tell me even just
-	a little bit!?
+	Grr! Vocês não podem
+	me contar nem um
+	tiquinho assim?!
 	"""
 	keyWait
 		any = false
@@ -228,8 +223,9 @@ script 11 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	I'll race you to the
-	front foyer!
+	Quem chegar por último
+	na entrada é a mulher
+	do padre!
 	"""
 	keyWait
 		any = false
@@ -240,9 +236,9 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's good to see
-	Mick back to his
-	usual self!
+	É bom ver o Mick
+	com o mesmo ânimo
+	de sempre!
 	"""
 	keyWait
 		any = false
@@ -254,8 +250,7 @@ script 12 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	We'd better get
-	going!!
+	A gente tem que correr!!
 	"""
 	keyWait
 		any = false
@@ -265,7 +260,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"Hey! I'm going,too!!"
+	"Ei! Eu também vou!!"
 	keyWait
 		any = false
 	end

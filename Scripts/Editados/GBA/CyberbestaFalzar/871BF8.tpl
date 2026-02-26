@@ -22,7 +22,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"That was scary!"
+	"Nossa, aquilo deu medo!"
 	keyWait
 		any = false
 	end
@@ -32,9 +32,9 @@ script 2 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Our next date will
-	be somewhere less
-	visible...
+	O nosso próximo encontro
+	vai ser num lugar menos...
+	visível...
 	"""
 	keyWait
 		any = false
@@ -52,7 +52,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	msgOpen
-	"Ahhh! STOP IT!"
+	"Ahhh! PARA!!"
 	keyWait
 		any = false
 	end
@@ -62,8 +62,8 @@ script 4 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	You can tell my
-	dad not to worry!
+	Pode falar pro papai
+	não se preocupar!
 	"""
 	keyWait
 		any = false
@@ -74,8 +74,8 @@ script 5 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Where should we
-	have our next date?
+	Onde será que vai ser
+	o nosso próximo encontro?
 	"""
 	keyWait
 		any = false
@@ -86,22 +86,22 @@ script 6 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Hey! Lady!
-	Drop the loser
-	and get with me!
+	Aí! Lindinha!
+	Esquece esse otário
+	e vem pro papai aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviPink
-	"Ewww!"
+	"Eeeecaaa!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"Excuse me..."
+	"Licença..."
 	keyWait
 		any = false
 	clearMsg
@@ -113,32 +113,36 @@ script 6 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"Heeee!!"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"たWas that guy \n asked to act like\n a bad guy too?ち"
-	keyWait
-		any = false
-	clearMsg
-	"Umm..."
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = HeelNaviBlack
-	"What's with you?"
+	"Aaaainn!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'd like... No...
-	The girl is comin'
-	with me,ugly!
+	たSerá que ele também
+	foi contratado pra fazer
+	papel de bandido?ち
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Er..."
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = HeelNaviBlack
+	"Qual é a tua?"
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"""
+	Por favo... Digo...
+	A mina vem é
+	COMIGO, mané!
 	"""
 	keyWait
 		any = false
@@ -146,38 +150,37 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	You're here for
-	the girl too?
+	Cê também tá aqui
+	pra pegar ela, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This will be fun!
-	Let's get her!!
+	He, vai ser divertido!
+	Bora pra cima dela!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviPink
-	"Stop it!!"
+	"Parem!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	John! Where are
-	you!
+	John! Cadê você?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Navi's in 
-	trouble!
-	Do something!!
+	A minha Navi
+	tá em apuros!
+	Faz alguma coisa!!
 	"""
 	keyWait
 		any = false
@@ -185,21 +188,22 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Man
 	"""
-	I can't... Look
-	how scary he is!
+	Não dá...
+	Olha como ele é sinistro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungWoman
-	"Huh..."
+	"..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why am I with
-	this guy... Really!?
+	Francamente...
+	Por que é que eu
+	tô com esse cara?!
 	"""
 	keyWait
 		any = false
@@ -207,62 +211,62 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Back off operator!
-	This is our fun!!
+	Cai fora, operadora!
+	Agora é a nossa vez
+	de curtir!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now...
-	Get over here
-	princess!
+	OK...
+	Vem cá, princesinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Hehehehe!"
+	"He he he he!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviPink
 	"""
-	Stop...
-	Leave me alone!
+	Para...
+	Me deixa em paz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Hehehehe..."
+	"He he he he..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviPink
-	"Owwww!!!"
+	"Aaaai!!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Man
-	"Hey! You!!"
+	"Aí! Você!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Huh!!?"
+	"Hããã?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Man
 	"""
-	Ummm...
-	Stop that...
+	Er...
+	Para, vai...
 	"""
 	keyWait
 		any = false
@@ -275,7 +279,7 @@ script 6 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Man
-	"...Uhhh..."
+	"... Er..."
 	keyWait
 		any = false
 	clearMsg
@@ -283,9 +287,9 @@ script 6 mmbn6 {
 	textSpeed
 		delay = 3
 	"""
-	Stop it...
-	The girl said to
-	leave her alone!
+	Para...
+	A moça já falou pra
+	você deixar ela paz!!
 	"""
 	controlUnlock
 	keyWait
@@ -294,10 +298,10 @@ script 6 mmbn6 {
 	controlLock
 	textSpeed
 		delay = 1
-	"Leave scumbag!!\n"
+	"Se manda, cretino!!\n"
 	textSpeed
 		delay = 3
-	"たHelp me...ち"
+	"たMe ajuda...ち"
 	textSpeed
 		delay = 2
 	controlUnlock
@@ -306,40 +310,21 @@ script 6 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Great job!"
+	"Bom trabalho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once her dad hears
-	about this,he will
-	be fine!!
+	Quando o pai dela ficar
+	sabendo disso, ele vai
+	ficar super bem na fita!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright... That
-	should be enough...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = HeelNaviBlack
-	"""
-	Why are you so
-	happy...
-	We haven't had fun!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"""
-	I said that was
-	enough...
+	Beleza...
+	Acho que isso resolveu...
 	"""
 	keyWait
 		any = false
@@ -347,22 +332,39 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	What are you
-	talking about!
-	Get outta the way!
+	Ué, tá feliz por quê?!
+	Nem deu pra gente curtir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"...Wait a sec..."
+	"""
+	Bom, já deu, né?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = HeelNaviBlack
+	"""
+	Que papo é esse?!
+	Se não vai ajudar,
+	se manda!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"... Pera aí..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's a real bad
-	guy!!
+	Esse aí é um
+	bandido de verdade!!
 	"""
 	keyWait
 		any = false
@@ -376,66 +378,64 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	msgOpen
-	"Who are you...?"
+	"Quem é você...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Well,it's hard to
-	explain,but...
+	Er, é meio difícil
+	de explicar, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungWoman
-	"Huh!? My dad!?"
+	"Hã?! O meu pai?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Grrrr!! He worries
-	way too much!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'm not a little
-	girl anymore,you
-	know...
+	Grrrr!! Ai, ele se
+	preocupa demais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And this is a
-	great guy!
+	Eu não sou mais
+	uma garotinha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A bit flaky
-	though...
+	E este cara
+	é muito legal!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Apesar de meio mole...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Man
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	Please tell my
-	Dad that he doesn't
-	have to worry,OK?
+	Olha, só fala pro meu
+	pai que ele não tem com
+	o que se preocupar, tá?
 	"""
 	keyWait
 		any = false
@@ -446,9 +446,9 @@ script 10 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Welcome!! Welcome!!
-	We've got great
-	stuff!!
+	Bem-vindo!! Bem-vindo!!
+	A nossa lojinha tem os
+	MELHORES ingredientes!!
 	"""
 	keyWait
 		any = false
@@ -462,7 +462,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"Tunaて3000\n"
+	"Atumて3000\n"
 	option
 		brackets = 0
 		left = 1
@@ -471,7 +471,7 @@ script 10 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"Urchinて1000\n"
+	"Ouriçoて1000\n"
 	option
 		brackets = 0
 		left = 3
@@ -480,7 +480,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"YTailて1500  "
+	"AtBAmrlて1500  "
 	option
 		brackets = 0
 		left = 2
@@ -489,7 +489,7 @@ script 10 mmbn6 {
 		down = 3
 	space
 		count = 1
-	"Quit"
+	"Sair"
 	select
 		default = 0
 		BSeparate = true
@@ -505,7 +505,7 @@ script 10 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"Come again!!"
+	"Volte sempre!!"
 	keyWait
 		any = false
 	end
@@ -526,8 +526,7 @@ script 11 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	One Tuna comin'
-	up!
+	Saindo um atum!
 	"""
 	keyWait
 		any = false
@@ -540,7 +539,7 @@ script 11 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -554,7 +553,7 @@ script 11 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"Super thanks!!"
+	"Obrigadão!!"
 	keyWait
 		any = false
 	end
@@ -564,16 +563,15 @@ script 12 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	No way Jose!
-	Can't sell ya
-	that!
+	Nem pensar, rapaz!
+	Eu não posso te vender
+	isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't ya already
-	got some Tuna?
+	Cê já não tem atum aí?
 	"""
 	keyWait
 		any = false
@@ -595,8 +593,7 @@ script 13 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	One Urchin comin'
-	up!
+	Saindo Um ouriço-do-mar!
 	"""
 	keyWait
 		any = false
@@ -609,7 +606,7 @@ script 13 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -623,7 +620,7 @@ script 13 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"Super thanks!!"
+	"Obrigadão!!"
 	keyWait
 		any = false
 	end
@@ -633,16 +630,16 @@ script 14 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	No way Jose!
-	Can't sell ya
-	that!
+	Nem pensar, rapaz!
+	Eu não posso te vender
+	isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't ya already
-	got some Urchin?
+	Cê já não tem
+	ouriço-do-mar aí?
 	"""
 	keyWait
 		any = false
@@ -664,8 +661,8 @@ script 15 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	One YellowTail
-	comin' right up!
+	Saindo um atum-de-
+	barbatana-amarela!
 	"""
 	keyWait
 		any = false
@@ -678,7 +675,7 @@ script 15 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -692,7 +689,7 @@ script 15 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = BlueNavi
-	"Super thanks!!"
+	"Obrigadão!!"
 	keyWait
 		any = false
 	end
@@ -702,16 +699,16 @@ script 16 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	No way Jose!
-	Can't sell ya
-	that!
+	Nem pensar, rapaz!
+	Eu não posso te vender
+	isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't ya already
-	got some YellowTail?
+	Cê já não tem atum-de-
+	barbatana-amarela aí?
 	"""
 	keyWait
 		any = false
@@ -722,16 +719,16 @@ script 17 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Lemme just say...
-	WELCOOOOMMMEEE!!
+	Meu rapaz...
+	BEM-VINDO!!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know you want
-	some of this fish
-	action right here!
+	Quer um peixinho?
+	Ô, quer, que eu sei!
+	Só coisa fresca!!
 	"""
 	keyWait
 		any = false
@@ -745,7 +742,7 @@ script 17 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"Snapperて1000\n"
+	"Pargoて1000\n"
 	option
 		brackets = 0
 		left = 1
@@ -754,7 +751,7 @@ script 17 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"Shrimpて1000\n"
+	"Camarãoて1000\n"
 	option
 		brackets = 0
 		left = 3
@@ -763,7 +760,7 @@ script 17 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Herringて800 "
+	"Arenqueて800 "
 	option
 		brackets = 0
 		left = 2
@@ -772,7 +769,7 @@ script 17 mmbn6 {
 		down = 3
 	space
 		count = 1
-	"Quit"
+	"Sair"
 	select
 		default = 0
 		BSeparate = true
@@ -788,7 +785,7 @@ script 17 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Come back soon!!"
+	"Volte sempre!!"
 	keyWait
 		any = false
 	end
@@ -809,8 +806,8 @@ script 18 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Snapper it is!!
-	Comin' right up!!
+	Pargo? Pode deixar!!
+	Saindo!!
 	"""
 	keyWait
 		any = false
@@ -823,7 +820,7 @@ script 18 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -837,7 +834,7 @@ script 18 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Awesome! Thanks!"
+	"Que maravilha! Obrigado!"
 	keyWait
 		any = false
 	end
@@ -847,15 +844,15 @@ script 19 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Gonna have to bust
-	ya,Buster!
+	Não rola não,
+	ô, enrolado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've already got
-	some great Snapper!
+	Você já tá com um
+	pargo de primeira!
 	"""
 	keyWait
 		any = false
@@ -877,8 +874,8 @@ script 20 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Shrimp it is!!
-	Comin' right up!!
+	Camarão? Pode deixar!!
+	Saindo!!
 	"""
 	keyWait
 		any = false
@@ -891,7 +888,7 @@ script 20 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -905,7 +902,7 @@ script 20 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Awesome! Thanks!"
+	"Que maravilha! Obrigado!"
 	keyWait
 		any = false
 	end
@@ -915,15 +912,15 @@ script 21 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Gonna have to bust
-	ya,Buster!
+	Não rola não,
+	ô, enrolado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've already got
-	some great Shrimp!
+	Você já tá com um
+	camarãozinho de primeira!
 	"""
 	keyWait
 		any = false
@@ -945,8 +942,8 @@ script 22 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Herring it is!!
-	Comin' right up!!
+	Arenque? Pode deixar!!
+	Saindo!!
 	"""
 	keyWait
 		any = false
@@ -959,7 +956,7 @@ script 22 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -973,7 +970,7 @@ script 22 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Awesome! Thanks!"
+	"Que maravilha! Obrigado!"
 	keyWait
 		any = false
 	end
@@ -983,15 +980,15 @@ script 23 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Gonna have to bust
-	ya,Buster!
+	Não rola não,
+	ô, enrolado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've already got
-	some great Herring!
+	Você já tá com um
+	arenque de primeira!
 	"""
 	keyWait
 		any = false
@@ -1002,17 +999,17 @@ script 24 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	In Transylvania they
-	say "Velcome," but
-	here I say welcome!!
+	Gringo fala "welcome",
+	mas aqui a gente fala
+	"bem-vindo, chefia"!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our fish is so fresh
-	it's still flippin'
-	and floppin'!!
+	O nosso peixe é tão
+	fresco que só falta
+	cuspir no prato!!
 	"""
 	keyWait
 		any = false
@@ -1026,7 +1023,7 @@ script 24 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"Urchinて1500\n"
+	"Ouriçoて1500\n"
 	option
 		brackets = 0
 		left = 1
@@ -1035,7 +1032,7 @@ script 24 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"Shrimpて800\n"
+	"Camarãoて800\n"
 	option
 		brackets = 0
 		left = 3
@@ -1044,7 +1041,7 @@ script 24 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Snapperて1100 "
+	"Pargoて1100 "
 	option
 		brackets = 0
 		left = 2
@@ -1053,7 +1050,7 @@ script 24 mmbn6 {
 		down = 3
 	space
 		count = 1
-	"Quit"
+	"Sair"
 	select
 		default = 0
 		BSeparate = true
@@ -1070,9 +1067,9 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	Come "vhenever"
-	you'd like!!
-	Muhahahahaha!!
+	Volte sempre quando
+	quiser, "friend"!
+	Ha ha ha ha ha!!
 	"""
 	keyWait
 		any = false
@@ -1094,9 +1091,8 @@ script 25 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Urchin it is!!
-	So fresh you may
-	need a swimsuit!
+	Ouriço-do-mar, já!!
+	Perdoe a "frescura" dele!
 	"""
 	keyWait
 		any = false
@@ -1109,7 +1105,7 @@ script 25 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -1123,7 +1119,7 @@ script 25 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviBrown
-	"Thank ya very much!"
+	"'Gradecido demais!"
 	keyWait
 		any = false
 	end
@@ -1132,14 +1128,14 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Hey Buddy!!"
+	"Ô, amiguinho!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've already got
-	some great Urchin!
-	Don't get greedy!!
+	Você já tá com um
+	ouriço-do-mar de
+	primeira! Calma!!
 	"""
 	keyWait
 		any = false
@@ -1161,9 +1157,8 @@ script 27 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Shrimp it is!!
-	So fresh you may
-	need a swimsuit!
+	Camarão, já!!
+	Perdoe a "frescura" dele!
 	"""
 	keyWait
 		any = false
@@ -1176,7 +1171,7 @@ script 27 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -1190,7 +1185,7 @@ script 27 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviBrown
-	"Thank ya very much!"
+	"'Gradecido demais!"
 	keyWait
 		any = false
 	end
@@ -1199,14 +1194,14 @@ script 28 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Hey Buddy!!"
+	"Ô, amiguinho!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've already got
-	some great Shrimp!
-	Don't get greedy!!
+	Você já tá com um
+	camarãozinho de
+	primeira! Calma!!
 	"""
 	keyWait
 		any = false
@@ -1217,17 +1212,16 @@ script 29 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	You're here and
-	you're hungry!!
-	Well,I welcome you!
+	Tá aqui e tá com fome?!
+	Então é muito bem-vindo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Feel the hunger
-	build as you stare
-	at our great fish!
+	E se ficar só olhando
+	os meus peixes, a fome
+	só vai aumentar!
 	"""
 	keyWait
 		any = false
@@ -1241,7 +1235,7 @@ script 29 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"Salmonて900\n"
+	"Salmãoて900\n"
 	option
 		brackets = 0
 		left = 1
@@ -1250,7 +1244,7 @@ script 29 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"Tunaて2000\n"
+	"Atumて2000\n"
 	option
 		brackets = 0
 		left = 3
@@ -1259,7 +1253,7 @@ script 29 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Eelて900 "
+	"Enguiaて900 "
 	option
 		brackets = 0
 		left = 2
@@ -1268,7 +1262,7 @@ script 29 mmbn6 {
 		down = 3
 	space
 		count = 1
-	"Quit"
+	"Sair"
 	select
 		default = 0
 		BSeparate = true
@@ -1285,8 +1279,8 @@ script 29 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	"""
-	Come back whenever
-	you're hungry!!
+	Pode voltar sempre
+	que tiver com fome!!
 	"""
 	keyWait
 		any = false
@@ -1308,9 +1302,9 @@ script 30 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	You got it!
-	Some Salmon for the
-	starving man here!!
+	Pode deixar!
+	Um salmãozinho no
+	capricho pro esfomeado!!
 	"""
 	keyWait
 		any = false
@@ -1323,7 +1317,7 @@ script 30 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -1338,8 +1332,8 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	"""
-	I hope you're full
-	now!! Thanks!!
+	Agora eu quero ver
+	saciedade!! Obrigado!!
 	"""
 	keyWait
 		any = false
@@ -1350,9 +1344,9 @@ script 31 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Umm... I know you're
-	hungry,but you've
-	already got Salmon!
+	Er... Sei que cê tá
+	com fome, mas cê já
+	tem um salmão aí!
 	"""
 	keyWait
 		any = false
@@ -1374,9 +1368,9 @@ script 32 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	You got it!
-	Some Tuna for the
-	starving man here!!
+	Pode deixar!
+	Um atum no capricho
+	pro esfomeado!!
 	"""
 	keyWait
 		any = false
@@ -1389,7 +1383,7 @@ script 32 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -1404,8 +1398,8 @@ script 32 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	"""
-	I hope you're full
-	now!! Thanks!!
+	Agora eu quero ver
+	saciedade!! Obrigado!!
 	"""
 	keyWait
 		any = false
@@ -1416,9 +1410,9 @@ script 33 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Umm... I know you're
-	hungry,but you've
-	already got Tuna!
+	Er... Sei que cê tá
+	com fome, mas cê já
+	tem um atum aí!
 	"""
 	keyWait
 		any = false
@@ -1440,9 +1434,9 @@ script 34 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	You got it!
-	Some Eel for the
-	starving man here!!
+	Pode deixar!
+	Uma enguiazinha no
+	capricho pro esfomeado!!
 	"""
 	keyWait
 		any = false
@@ -1455,7 +1449,7 @@ script 34 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -1470,8 +1464,8 @@ script 34 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	"""
-	I hope you're full
-	now!! Thanks!!
+	Agora eu quero ver
+	saciedade!! Obrigado!!
 	"""
 	keyWait
 		any = false
@@ -1482,9 +1476,9 @@ script 35 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Umm... I know you're
-	hungry,but you've
-	already got Eel!
+	Er... Sei que cê tá
+	com fome, mas cê já
+	tem uma enguia aí!
 	"""
 	keyWait
 		any = false
@@ -1495,9 +1489,9 @@ script 36 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You've come to the
-	right place!! Let
-	me make you a deal!
+	Cê veio pro lugar
+	certo!! O precinho
+	aqui é sem igual!
 	"""
 	keyWait
 		any = false
@@ -1511,7 +1505,7 @@ script 36 mmbn6 {
 		down = 1
 	space
 		count = 1
-	"Tunaて1000\n"
+	"Atumて1000\n"
 	option
 		brackets = 0
 		left = 1
@@ -1520,7 +1514,7 @@ script 36 mmbn6 {
 		down = 2
 	space
 		count = 1
-	"Shrimpて900\n"
+	"Camarãoて900\n"
 	option
 		brackets = 0
 		left = 3
@@ -1529,7 +1523,7 @@ script 36 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Salmonて2000 "
+	"Salmãoて2000 "
 	option
 		brackets = 0
 		left = 2
@@ -1538,7 +1532,7 @@ script 36 mmbn6 {
 		down = 3
 	space
 		count = 1
-	"Quit"
+	"Sair"
 	select
 		default = 0
 		BSeparate = true
@@ -1555,9 +1549,9 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Come back whenever
-	you'd like! You know
-	where to find us!!
+	Volta sempre que
+	cê quiser! Daqui
+	a gente não sai!!
 	"""
 	keyWait
 		any = false
@@ -1579,9 +1573,9 @@ script 37 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Hahaha! Tuna,huh?
-	A man with real
-	taste!
+	Ha ha ha! Atum, é?
+	Tá aí um cara de bom
+	gosto!
 	"""
 	keyWait
 		any = false
@@ -1594,7 +1588,7 @@ script 37 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -1608,7 +1602,7 @@ script 37 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Thank you again..."
+	"Obrigado aí."
 	keyWait
 		any = false
 	end
@@ -1618,9 +1612,9 @@ script 38 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You've already got
-	Tuna... You don't
-	need to buy more!
+	Você já tem atum...
+	Não tem pra que levar
+	mais!
 	"""
 	keyWait
 		any = false
@@ -1642,9 +1636,9 @@ script 39 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Hahaha! Shrimp,huh?
-	A man with real
-	taste!
+	Ha ha ha! Camarão, é?
+	Tá aí um cara de bom
+	gosto!
 	"""
 	keyWait
 		any = false
@@ -1657,7 +1651,7 @@ script 39 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -1671,7 +1665,7 @@ script 39 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Thank you again..."
+	"Obrigado aí."
 	keyWait
 		any = false
 	end
@@ -1681,9 +1675,9 @@ script 40 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You've already got
-	Shrimp... You don't
-	need to buy more!
+	Você já tem camarão...
+	Não tem pra que levar
+	mais!
 	"""
 	keyWait
 		any = false
@@ -1705,9 +1699,9 @@ script 41 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Hahaha! Salmon,huh?
-	A man with real
-	taste!
+	Ha ha ha! Salmão, é?
+	Tá aí um cara de bom
+	gosto!
 	"""
 	keyWait
 		any = false
@@ -1720,7 +1714,7 @@ script 41 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -1734,7 +1728,7 @@ script 41 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Thank you again..."
+	"Obrigado aí."
 	keyWait
 		any = false
 	end
@@ -1744,9 +1738,9 @@ script 42 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You've already got
-	Salmon... You don't
-	need to buy more!
+	Você já tem salmão...
+	Não tem pra que levar
+	mais!
 	"""
 	keyWait
 		any = false
@@ -1757,9 +1751,9 @@ script 43 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Sorry my friend,
-	but you don't have
-	enough money!
+	Foi mal, amigão,
+	mas cê tá com
+	dinheiro faltando!
 	"""
 	keyWait
 		any = false
@@ -1770,8 +1764,9 @@ script 44 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Buddy! You don't
-	have enough money!!
+	Ô, consagrado!
+	Cê não tem dinheiro
+	o bastante, não!!
 	"""
 	keyWait
 		any = false
@@ -1782,9 +1777,9 @@ script 45 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Well,it seems you
-	don't have enough
-	money!!
+	Ahm, parece que
+	você precisa de mais
+	dinheiro pra isso!!
 	"""
 	keyWait
 		any = false
@@ -1795,9 +1790,9 @@ script 46 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Ummm... You don't
-	quite have enough
-	money...
+	Hummm... Você não
+	parece ter dinheiro
+	o bastante...
 	"""
 	keyWait
 		any = false
@@ -1808,9 +1803,9 @@ script 47 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You may have taste,
-	but you don't have
-	enough money!
+	O que cê tem de
+	bom gosto, cê não
+	tem de grana!
 	"""
 	keyWait
 		any = false
@@ -1832,9 +1827,8 @@ script 48 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Snapper it is!!
-	So fresh you may
-	need a swimsuit!
+	Pargo, já!!
+	Perdoe a "frescura" dele!
 	"""
 	keyWait
 		any = false
@@ -1847,7 +1841,7 @@ script 48 mmbn6 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -1861,7 +1855,7 @@ script 48 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviBrown
-	"Thank ya very much!"
+	"'Gradecido demais!"
 	keyWait
 		any = false
 	end
@@ -1870,14 +1864,14 @@ script 49 mmbn6 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Hey Buddy!!"
+	"Ô, amiguinho!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've already got
-	some great Snapper!
-	Don't get greedy!!
+	Você já tá com um
+	pargo de primeira aí!
+	Calma!!
 	"""
 	keyWait
 		any = false
@@ -1892,8 +1886,8 @@ script 55 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	THIS IS SEASIDE
-	AREA1!!
+	ESTA É A ÁREA
+	BEIRA-MAR 1!!
 	"""
 	keyWait
 		any = false
@@ -1908,16 +1902,15 @@ script 56 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ahh... I just don't
-	have the will to
-	post...
+	Ahh... Eu não tenho
+	coragem pra postar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hate myself for
-	not having any guts!
+	Como eu me odeio por
+	ser tão covarde!
 	"""
 	keyWait
 		any = false
@@ -1928,16 +1921,15 @@ script 60 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS SEASIDE
-	AREA1!
+	ESTA É A ÁREA
+	BEIRA-MAR 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A PERFECT AREA FOR
-	SOME REST AND
-	RELAXATION!
+	UMA ÁREA PERFEITA
+	PARA RELAXAR!
 	"""
 	keyWait
 		any = false
@@ -1948,14 +1940,13 @@ script 61 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	It would really
-	hurt if you fell
-	from here...
+	Aposto que ia doer
+	pra burro, cair daqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hey! Don't push!!"
+	"Aí! Não empurra!!"
 	keyWait
 		any = false
 	end
@@ -1965,9 +1956,9 @@ script 62 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Yep,no matter when I
-	come to this plaza,
-	it's always great!
+	É. Realmente, sempre
+	que eu venho pra esta
+	praça, é bom demais!
 	"""
 	keyWait
 		any = false

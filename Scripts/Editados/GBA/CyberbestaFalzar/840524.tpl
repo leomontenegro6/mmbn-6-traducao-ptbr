@@ -9,17 +9,16 @@ script 0 mmbn6 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	This sink has an
-	advanced water
-	purification system.
+	Esse bebedouro tem
+	um sistema avançado de
+	purificação de água.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The water from
-	this sink is
-	so delicious!
+	A água dele é
+	uma delícia!
 	"""
 	keyWait
 		any = false
@@ -28,16 +27,15 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	Pictures students
-	drew for art class
-	are hanging up here.
+	Ideogramas que os
+	alunos desenharam na
+	aula de Caligrafia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're all pretty
-	well done.
+	Todos muito bem feitos.
 	"""
 	keyWait
 		any = false
@@ -46,17 +44,17 @@ script 1 mmbn6 {
 script 2 mmbn6 {
 	msgOpen
 	"""
-	This security camera
-	watches over all
-	the students.
+	Essa câmera de
+	segurança monitora
+	todos os alunos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It sends its video
-	data to the
-	Teachers' Room.
+	As filmagens são
+	enviadas para a
+	Sala dos Professores.
 	"""
 	keyWait
 		any = false
@@ -70,13 +68,16 @@ script 3 mmbn6 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A flyer from the
-	Nurse's Office.
+	Um folheto da Enfermaria.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Let's keep our\n hands clean,\n even at home!\""
+	"""
+	"Lembrem-se de
+	sempre lavar as
+	mãos, até em casa!"
+	"""
 	keyWait
 		any = false
 	end
@@ -84,17 +85,17 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	Pictures drawn by
-	students hang in
-	this hallway.
+	Caligrafia shodô dos
+	alunos, exposta no
+	corredor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can see how much
-	time went into each
-	one...
+	Dá para ver bem o tempo
+	e o esforço que cada um
+	dedicou...
 	"""
 	keyWait
 		any = false
@@ -103,17 +104,17 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	It's the school
-	paper,published by
-	the Journalism Club.
+	É o jornal da escola,
+	publicado pelo Clube
+	de Jornalismo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The headline is:
-	"Must_see Sights
-	 of the Expo!"
+	A manchete:
+	"O Que Você Não Pode
+	 Perder Na Exposição!"
 	"""
 	keyWait
 		any = false
@@ -122,9 +123,8 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	This door is locked.
-	You can't go this
-	way.
+	Porta trancada.
+	Você não pode usar.
 	"""
 	keyWait
 		any = false
@@ -132,11 +132,15 @@ script 6 mmbn6 {
 }
 script 7 mmbn6 {
 	msgOpen
-	"It says:"
+	"Está escrito:"
 	keyWait
 		any = false
 	clearMsg
-	"\"Expo Pavilion\n Operator Navi\n Wanted!\""
+	"""
+	"Contratando: Operador
+	de Navi para o Pavilhão
+	da Exposição!"
+	"""
 	keyWait
 		any = false
 	end
@@ -144,15 +148,16 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	This sink's water
-	system is broken.
+	O sistema de água
+	desse bebedouro está
+	quebrado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No water today,
-	not even a drip...
+	Hoje, não tem água.
+	Nem uma gotinha...
 	"""
 	keyWait
 		any = false

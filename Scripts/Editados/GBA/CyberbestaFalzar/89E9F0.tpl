@@ -5,11 +5,11 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Who are you!?"
+	"Quem é você?!"
 	keyWait
 		any = false
 	clearMsg
-	"What are you up to!?"
+	"E o que tá aprontando?!"
 	keyWait
 		any = false
 	clearMsg
@@ -20,49 +20,49 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"Ahoo,hoo,hoo!!"
+	"Ahu hu hu huuu!!"
 	keyWait
 		any = false
 	clearMsg
-	"Ah,we meet at last!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	How do you do?
-	I'm CircusMan!
-	"""
+	"Ah, enfim nos\nencontramos!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought if I set
-	my tent up here,I'd
-	get your attention!
+	Tudo bem com você?
+	Eu sou CircusMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,I've got a
-	question for you,
-	kid...
+	Pensei em montar a
+	minha tenda aqui para
+	atrair a sua atenção!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Aliás, tenho uma
+	pergunta para você,
+	garoto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"A question?"
+	"Pergunta?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = CircusMan
 	"""
-	Where'd you hide it?
-	You know,the
-	Cybeast.
+	Onde foi que você
+	escondeu ela?
+	Sabe, a Cyberbesta.
 	"""
 	keyWait
 		any = false
@@ -74,7 +74,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... It's inside me!"
+	"... Dentro de mim!"
 	keyWait
 		any = false
 	clearMsg
@@ -86,25 +86,25 @@ script 3 mmbn6 {
 		mugshot = CircusMan
 	msgOpen
 	"""
-	... Not funny at
-	all. And trust me,
-	I know funny.
+	... Isso não teve
+	graça nenhuma. E eu
+	entendo bem de "graça".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,see,a Navi like
-	me can store a
-	fierce creature like
+	Digo, um Navi como EU,
+	de fato, consegue
+	armazenar uma criatura
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a Cybeast. But a
-	shrimp like you!?
-	Impossible!
+	feroz assim. Mas um
+	nanico como você?!
+	Faça-me o favor!
 	"""
 	keyWait
 		any = false
@@ -117,8 +117,8 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What do you guys
-	want!?
+	O que é que
+	vocês pretendem?!
 	"""
 	keyWait
 		any = false
@@ -131,24 +131,23 @@ script 5 mmbn6 {
 		mugshot = CircusMan
 	msgOpen
 	"""
-	I'll ask the
-	questions,thank you
-	very much!
+	Sou EU quem está
+	fazendo as perguntas
+	aqui! Hmpf!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Where did you hide
-	the Cybeast!?
+	Onde você escondeu
+	a Cyberbesta?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And don't even think
-	about lying to me,
-	kid.
+	E nem pense em mentir
+	pra mim, mocinho.
 	"""
 	keyWait
 		any = false
@@ -161,9 +160,9 @@ script 6 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I know you don't
-	believe me,but
-	I'm not lying!
+	Sei que você não
+	acredita em mim,
+	mas é a verdade!
 	"""
 	keyWait
 		any = false
@@ -176,16 +175,15 @@ script 7 mmbn6 {
 		mugshot = CircusMan
 	msgOpen
 	"""
-	... Hmm,if that's
-	really true...
+	... Hmm, se for mesmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then you won't mind
-	if I bring out the
-	animal in you!!
+	então não vai se
+	importar de eu despertar
+	a fera em você!!
 	"""
 	keyWait
 		any = false
@@ -197,7 +195,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here he comes,Lan!!"
+	"Aí vem ele, Lan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -208,11 +206,11 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Gotcha!!"
+	"Beleza!!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
@@ -223,7 +221,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -234,7 +232,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	msgOpen
-	"Ahoo,hoo,hoo!!"
+	"Ahu hu hu huuu!!"
 	keyWait
 		any = false
 	end

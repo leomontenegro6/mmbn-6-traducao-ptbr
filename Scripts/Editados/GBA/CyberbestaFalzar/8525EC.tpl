@@ -6,32 +6,30 @@ script 0 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	What's wrong?
-	There's no school
-	today.
+	O que foi?
+	Não tem aula hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you forget
-	something? Or are
-	you going to stick
+	Esqueceu alguma coisa?
+	Ou decidiu esconder uma
+	cartinha de amor na
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a love letter into
-	someone's desk?
+	carteira de alguém?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,it doesn't
-	matter. Just go home
-	after you're done.
+	Bom, não é da minha
+	conta. Mas vá pra casa
+	assim que terminar.
 	"""
 	keyWait
 		any = false
@@ -46,9 +44,9 @@ script 5 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	I think I'm going
-	to just hang out
-	after I get home.
+	Acho que eu vou só
+	ficar de preguiça
+	quando chegar em casa.
 	"""
 	keyWait
 		any = false
@@ -62,15 +60,15 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"Right?... What!?"
+	"Né?... O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungGirl
 	"""
-	For real!?
-	What a shock!
+	Jura?!
+	Tô bege!
 	"""
 	keyWait
 		any = false
@@ -85,16 +83,16 @@ script 7 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	I didn't think it,
-	but it's not that
-	guy who's at fault!
+	Eu não achei isso,
+	mas a culpa não foi
+	dele, sabe?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Girl
-	"I thought so!"
+	"Total!"
 	keyWait
 		any = false
 	end
@@ -104,9 +102,8 @@ script 10 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	The weather's acting
-	all weird. It's a
-	bit scary...
+	O tempo tá tão estranho.
+	Chega dá até medo...
 	"""
 	keyWait
 		any = false
@@ -117,29 +114,25 @@ script 11 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Yeah,yeah...
-	That girl is
+	Pois é, amiga...
+	Aquele menina ficou
+	super pra baixo!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"feeling really down!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = YoungGirl
 	"""
-	Oh!?
-	That's not good!
+	Sério?!
+	Ai, não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that were me,I'd
-	never let that
-	happen!
+	Se fosse eu, nunca que
+	deixava isso acontecer!
 	"""
 	keyWait
 		any = false
@@ -150,20 +143,20 @@ script 12 mmbn6 {
 		mugshot = YoungGirl
 	msgOpen
 	"""
-	People really can't
-	see what's going on
-	around them at a
+	Nessas horas, ninguém
+	enxerga o que tá
+	acontecendo ao redor,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"time like this,huh?"
+	"não acha?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Girl
-	"Yeah..."
+	"Total..."
 	keyWait
 		any = false
 	end
@@ -181,22 +174,22 @@ script 40 mmbn6 {
 	"."
 	wait
 		frames = 30
-	" Ah!! No!"
+	" Ai!! Não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You talking to me
-	made me forget the
-	things I memorized!
+	Se você falar comigo,
+	eu vou esquecer as
+	coisas que eu decorei!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll be your fault
-	if I get a low score
-	on our next test!
+	Se eu tirar nota baixa
+	na próxima prova, a
+	culpa vai ser toda sua!
 	"""
 	keyWait
 		any = false
@@ -207,16 +200,17 @@ script 45 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	Huh? Did you forget
-	something too?
+	Hm? Que foi, você
+	também esqueceu
+	alguma coisa aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's no fun having
-	to come to school
-	on a day off...
+	É tão sacal ter que
+	vir pra escola em dia
+	que não tem aula...
 	"""
 	keyWait
 		any = false

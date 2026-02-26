@@ -9,15 +9,15 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mom,I'll be back!"
+	"Mãe, eu volto depois!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mom
 	"""
-	Off to the Expo?
-	Have a good time!
+	Já vai pra Exposição?
+	Divirta-se!
 	"""
 	keyWait
 		any = false
@@ -31,16 +31,17 @@ script 1 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Everyone from ACDC
-	Town seems happy.
+	Parece que a sua
+	turminha do Bairro
+	ACDC tá bem, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm even going to
-	go to the Expo
-	with Dad.
+	Inclusive, eu e
+	o seu pai também
+	vamos à Exposição.
 	"""
 	keyWait
 		any = false
@@ -55,38 +56,37 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"You and your Dad..."
+	"Você e o seu pai..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whenever something
-	happens you both
-	dash out!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But that has always
-	been a Hikari family
-	trait...
+	Sempre que alguma coisa
+	acontecem, vocês saem
+	em disparada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But when something
-	happens,I don't bat
-	an eyelash...
+	Mas acho que essa
+	atitude está no sangue
+	da família Hikari...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter what
-	happens,I take care
-	of the house...
+	Só que, sempre que
+	acontece alguma coisa,
+	eu nem saio do lugar...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Haja o que houver,
+	eu cuido da casa.
 	"""
 	keyWait
 		any = false
@@ -96,7 +96,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"OooooOOOooo..."
+	"ÚúúúÚÚÚúúú..."
 	keyWait
 		any = false
 	end
@@ -106,16 +106,15 @@ script 10 mmbn6 {
 		mugshot = Mom
 	msgOpen
 	"""
-	No matter what
-	happens,I'll take
-	care of the house!
+	Haja o que houver, eu
+	vou cuidar da casa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got a strong
-	supporter myself!!
+	Afinal, eu tenho uma
+	sentinela bem forte!
 	"""
 	keyWait
 		any = false
@@ -132,23 +131,22 @@ script 11 mmbn6 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,leave this to
-	us!!
+	Lan, deixa aqui
+	com a gente!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...and remember
-	you have to come
-	back!!
+	... e lembra que você
+	TEM que voltar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Take this with
-	you,Lan!!
+	... Toma, leva
+	com você, Lan!!
 	"""
 	keyWait
 		any = false
@@ -161,7 +159,7 @@ script 11 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printChip
@@ -182,7 +180,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"I'm waiting,Lan..."
+	"Eu vou ficar\nesperando, Lan..."
 	keyWait
 		any = false
 	end

@@ -6,8 +6,9 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hold up,MegaMan.
-	Look for Otenko first!!
+	Espera, MegaMan.
+	Procura pelo Otenko
+	primeiro!!
 	"""
 	keyWait
 		any = false
@@ -18,8 +19,8 @@ script 1 mmbn6 {
 		mugshot = Django
 	msgOpen
 	"""
-	MegaMan,leave it
-	to Otenko.
+	MegaMan, deixe isso
+	com o Otenko.
 	"""
 	keyWait
 		any = false
@@ -30,8 +31,7 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wh_what could that
-	chip be...
+	Q-que chip será esse...?
 	"""
 	keyWait
 		any = false
@@ -47,7 +47,7 @@ script 5 mmbn6 {
 		animation = 24
 	printCurrentNaviOW
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printChip

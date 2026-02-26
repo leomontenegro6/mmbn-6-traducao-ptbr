@@ -5,11 +5,11 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	msgOpen
-	"I have a question!"
+	"Eu tenho uma pergunta!"
 	keyWait
 		any = false
 	clearMsg
-	"Why is the sky blue?"
+	"Por que o céu é azul?"
 	keyWait
 		any = false
 	clearMsg
@@ -21,7 +21,7 @@ script 0 mmbn6 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"たWhy is it blue?ち"
+	"たPor que era mesmo?ち"
 	keyWait
 		any = false
 	end
@@ -31,9 +31,8 @@ script 1 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The answer can be
-	found by reading
-	lots of books!!
+	Para achar a resposta,
+	leia muitos livros!!
 	"""
 	keyWait
 		any = false
@@ -41,9 +40,9 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	"""
-	Really!?
-	I guess I'll start
-	reading!!
+	Sério?!
+	Opa, vou começar
+	a ler é agora!!
 	"""
 	keyWait
 		any = false
@@ -54,32 +53,31 @@ script 2 mmbn6 {
 		mugshot = Girl
 	msgOpen
 	"""
-	You know,sometimes
-	I'm mistaken for an
-	upperclassman...
+	Sabe, às vezes as
+	pessoas acham que eu
+	sou mais velha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'm just a
-	first grader!
+	Mas, não, eu sou do
+	primeiro ano, mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Just kidding!
-	My younger brother's
-	in this class!!
+	... Brincadeira!
+	Quem estuda nesta classe
+	é o meu irmão caçula!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But right now he's
-	standing in the
-	hall...
+	Mas, agora, ele tá
+	de pé no corredor...
 	"""
 	keyWait
 		any = false
@@ -92,7 +90,7 @@ script 3 mmbn6 {
 	"""
 	2X2=4! 2X3=6!
 	2X4=8! 2X5=10...
-	2X6=16... Huh!?
+	2X6=16... Não, pera!
 	"""
 	keyWait
 		any = false
@@ -102,7 +100,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = YoungBoyHair
 	msgOpen
-	"I'm scared!!"
+	"Que medo!!"
 	keyWait
 		any = false
 	end
@@ -112,9 +110,8 @@ script 11 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Don't worry,
-	everyone!!
-	It's going to be OK!
+	Calma, crianças!
+	Vai ficar tudo bem!
 	"""
 	keyWait
 		any = false
@@ -124,7 +121,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = YoungGirl
 	msgOpen
-	"Yaaaaaaaaaah!!"
+	"Aaaaaaaahhhh!!"
 	keyWait
 		any = false
 	end
@@ -134,9 +131,9 @@ script 13 mmbn6 {
 		mugshot = Boy
 	msgOpen
 	"""
-	What's going on!?
-	It's so hot!
-	Is there a fire!?
+	O que tá acontecendo?!
+	Que calor!
+	É incêndio?!
 	"""
 	keyWait
 		any = false

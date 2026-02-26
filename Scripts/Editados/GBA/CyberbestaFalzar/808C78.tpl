@@ -3,56 +3,56 @@
 
 script 0 mmbn6s {
 	"""
-	Recovers
-	50HP!
+	Restaura
+	50PV!
 	"""
 	end
 }
 script 1 mmbn6s {
 	"""
-	Recovers
-	max HP!
+	Restaura
+	todos os
+	PV!
 	"""
 	end
 }
 script 2 mmbn6s {
 	"""
-	No weak
-	viruses for
-	a while.
+	Evita vírus
+	fracos por
+	um tempo.
 	"""
 	end
 }
 script 3 mmbn6s {
 	"""
-	Remove trap
-	on mystery
-	data.
+	Remove ar-
+	madilhas de
+	cristais.
 	"""
 	end
 }
 script 4 mmbn6s {
 	"""
-	More likely
-	to meet
-	last enemy.
+	Mais chance
+	de repetir
+	inimigo.
 	"""
 	end
 }
 script 5 mmbn6s {
 	"""
-	Unlocks
-	mystery
-	data.
+	Desbloqueia
+	dados mis-
+	teriosos.
 	"""
 	end
 }
 script 6 mmbn6 {
 	msgOpenMenu
 	"""
-	You don't
-	need to use
-	this yet.
+	Não precisa
+	usar isso agora.
 	"""
 	keyWait
 		any = false
@@ -61,8 +61,8 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpenMenu
 	"""
-	You wish to
-	use "
+	Utilizar
+	"
 	"""
 	printItem
 		buffer = 1
@@ -78,7 +78,7 @@ script 7 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -87,7 +87,7 @@ script 7 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -105,8 +105,8 @@ script 8 mmbn6 {
 	printCurrentNavi
 	"""
 	
-	recovers
-	50HP!
+	 restaura
+	50 PV!
 	"""
 	keyWait
 		any = false
@@ -117,8 +117,8 @@ script 9 mmbn6 {
 	printCurrentNavi
 	"""
 	
-	recovers
-	max HP!
+	cura todos
+	os PV!
 	"""
 	keyWait
 		any = false
@@ -127,7 +127,7 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpenMenu
 	"""
-	You used
+	Você usou
 	"
 	"""
 	printItem
@@ -146,8 +146,8 @@ script 11 mmbn6 {
 		item = 0
 	"""
 	"
-	currently
-	is in use.
+	atualmente
+	em uso.
 	"""
 	keyWait
 		any = false
@@ -156,9 +156,9 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	msgOpenMenu
 	"""
-	There isn't
-	any locked
-	data!
+	Nenhum dado
+	bloquedo à
+	frente!
 	"""
 	keyWait
 		any = false
@@ -167,9 +167,9 @@ script 12 mmbn6 {
 script 13 mmbn6 {
 	msgOpenMenu
 	"""
-	No viruses
-	located in
-	this area!
+	Zero vírus
+	detectados
+	na área!
 	"""
 	keyWait
 		any = false

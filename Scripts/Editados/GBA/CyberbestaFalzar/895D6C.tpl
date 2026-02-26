@@ -3,7 +3,7 @@
 
 script 0 mmbn6 {
 	msgOpen
-	"*Squawk! Squawk!*"
+	"Quén! Quén!"
 	keyWait
 		any = false
 	clearMsg
@@ -15,33 +15,34 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright,I brought
-	you some tasty fish!
+	Calma, eu trouxe
+	um peixão delicioso
+	pra você!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Ta da!"
+	"... Tcharã!"
 	keyWait
 		any = false
 	end
 }
 script 2 mmbn6 {
 	msgOpen
-	"*Squawk?*"
+	"Quén?"
 	keyWait
 		any = false
 	end
 }
 script 3 mmbn6 {
 	msgOpen
-	"*Squawk!!*"
+	"Quén!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... *chomp,chomp*
-	*chomp,chomp,chomp*
+	... Nhac Nhac Nhac
+	Nhac Nhac Nhac...
 	"""
 	keyWait
 		any = false
@@ -54,8 +55,7 @@ script 4 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	Hey! He really
-	likes it!
+	Ah! Ele adorou!
 	"""
 	keyWait
 		any = false
@@ -68,17 +68,15 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... I still wonder
-	where this penguin
-	came from?
+	... De onde será
+	que ele veio, hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You wouldn't happen
-	to know,would you,
-	Mick?
+	Você não sabe,
+	sabe, Mick?
 	"""
 	keyWait
 		any = false
@@ -91,9 +89,9 @@ script 6 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	I don't know...
-	Heck,I mistook it
-	for a pigeon...
+	Não...
+	Digo, até achei que
+	ele era um pombo...
 	"""
 	keyWait
 		any = false
@@ -105,7 +103,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Totally clueless..."
+	"Tão tapado..."
 	keyWait
 		any = false
 	clearMsg
@@ -126,24 +124,24 @@ script 9 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Maybe it's time
-	to search for our
-	answers on the Net.
+	Acho que a gente
+	devia ir atrás dessas
+	respostas na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Want to check out
-	some of the BBS's?
+	Que tal conferir
+	algum fórum por aí?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's all sorts of
-	stuff there,so maybe
-	we can find a clue.
+	Tem todo o tipo
+	de informação neles.
+	Podemos achar uma pista.
 	"""
 	keyWait
 		any = false
@@ -156,9 +154,9 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Yeah! We might
-	be able to find
-	something there!
+	... É!
+	Deve dar pra descobrir
+	alguma coisa neles!
 	"""
 	keyWait
 		any = false
@@ -169,25 +167,25 @@ script 11 mmbn6 {
 		mugshot = Mick
 	msgOpen
 	"""
-	If you wanna go to
-	a BBS,there's one in
-	SeasideArea1!
+	Se quer ler um
+	fórum, tem um na
+	Área Beira-Mar 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can get to
-	SeasideArea from
-	CentralArea3.
+	Dá pra chegar lá
+	através de um acesso
+	na Área Central 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can go with you,
-	but this penguin's
-	gonna trip us up...
+	Eu iria contigo,
+	mas este pinguim
+	só ia atrapalhar...
 	"""
 	keyWait
 		any = false
@@ -200,9 +198,9 @@ script 12 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Nah,it'll be ok!
-	Besides,you two make
-	a good pair!
+	Ah, de boa!
+	Além disso, vocês
+	formam uma boa dupla!
 	"""
 	keyWait
 		any = false
@@ -212,22 +210,22 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	msgOpen
-	"A_A good pair!?"
+	"B-boa dupla?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't be a moron!
-	What kind of guy do
-	you think I am!?
+	Não fala besteira!
+	Tá pensando que eu
+	sou o quê, hein?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna get you
-	back real good in a
-	NetBattle one day...
+	Um dia desses, eu te
+	dou um troco daqueles
+	numa NetLuta...
 	"""
 	keyWait
 		any = false
@@ -239,13 +237,13 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... OK,OK."
+	"... Aham, tá."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,leave the BBS
-	searching to me!
+	Enfim, pode deixar
+	o fórum com a gente!
 	"""
 	keyWait
 		any = false

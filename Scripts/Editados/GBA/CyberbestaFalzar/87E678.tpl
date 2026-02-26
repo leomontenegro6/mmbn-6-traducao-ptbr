@@ -28,43 +28,44 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"BE CAREFUL!"
+	"TOME CUIDADO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A VICIOUS RED NAVI
-	IS SHOOTING FLAMES!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	HIDE IN THE SHADOWS
-	OF THE CUBES TO
-	SAVE YOURSELF!
+	UM NAVI VERMELHO CRUEL
+	ESTÁ DISPARANDO ONDAS
+	DE FOGO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN TELL WHICH
-	WAY THE FIRE WILL
+	ESCONDA-SE NA
+	SOMBRA DOS CUBOS
+	PARA SE PROTEGER!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	COME FROM BY WHERE
-	THE EMBERS RISE!
+	DÁ PARA VER DE QUE
+	LADO O FOGO VIRÁ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU DON'T
-	UNDERSTAND,BY ALL
-	MEANS,JUST ASK!
+	OBSERVANDO DE ONDE
+	AS BRASAS SAEM!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	SE TIVER DÚVIDAS,
+	NÃO HESITE EM ME
+	PERGUNTAR!
 	"""
 	keyWait
 		any = false
@@ -75,14 +76,14 @@ script 4 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A FRIEND OF MINE
-	IS TRAPPED IN
-	THE AREA AHEAD!
+	UM AMIGO MEU ESTÁ
+	PRESO NA ÁREA LOGO
+	À FRENTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"PLEASE HELP!!"
+	"POR FAVOR, AJUDE-O!!"
 	keyWait
 		any = false
 	end
@@ -92,9 +93,9 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THANKS TO YOU
-	WE'RE SAVED!!
-	THANKS!! THANKS!!
+	GRAÇAS A VOCÊ,
+	ESTAMOS SALVOS!
+	OBRIGADO! OBRIGADO!!
 	"""
 	keyWait
 		any = false

@@ -16,49 +16,53 @@ script 0 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Did someone call
-	the Quiz Master!
-	Quiz Maasssstttahh!
+	Alguém aí chamou o
+	Questionário...
+	Meeeestreeeee?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give it a shot!
-	Give it a try!
+	Experimente!
+	Tente! Desafie!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,yeah,yeah!
-	たCha_chaちQuiz Power!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"I'm the Quiz Master!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Ever since I was a
-	kid,I've been in
-	the trivia elite!
+	Tchú-tchú-tchú!
+	Tchá-tchá-tchá!
+	Ques! Tio! Nárioo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can you really take
-	on my high level
+	Eu sou o
+	Questionário Mestre!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	quiz supremacy in
-	10 questions?
+	Desde que eu era
+	criança, sempre fui um
+	craque nas perguntas!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Será você capaz
+	de encarar a minha
+	supremacia questionária
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	em 10 perguntas?
 	"""
 	keyWait
 		any = false
@@ -74,7 +78,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" I can!\n"
+	" Serei!\n"
 	positionOptionHorizontal
 		width = 6
 	option
@@ -85,7 +89,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" No thanks!\n"
+	" Não!\n"
 	select
 		default = 0
 		BSeparate = false
@@ -100,16 +104,15 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Don't lose your
-	edge in my aura of
-	greatness...
+	Não se deixe intimidar
+	pelo brilho da minha
+	grandeza...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That would be a
-	shame...
+	Seria um desperdício...
 	"""
 	keyWait
 		any = false
@@ -120,43 +123,47 @@ script 1 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Did someone call
-	the Quiz Master!
-	Quiz Maasssstttahh!
+	Alguém aí chamou o
+	Questionário...
+	Meeeestreeeee?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give it a shot!
-	Give it a try!
+	Experimente!
+	Tente! Desafie!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,yeah,yeah!
-	たCha_chaちQuiz Power!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"I'm the Quiz Master!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Ever since I was a
-	kid,I've been in
-	the trivia elite!
+	Tchú-tchú-tchú!
+	Tchá-tchá-tchá!
+	Ques! Tio! Nárioo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can you really take
-	on my high level
-	quiz supremacy!
+	Eu sou o
+	Questionário Mestre!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Desde que eu era
+	criança, sempre fui um
+	craque nas perguntas!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Será você capaz
+	de encarar a minha
+	supremacia questionária?!
 	"""
 	keyWait
 		any = false
@@ -172,7 +179,7 @@ script 1 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Go for it!\n"
+	" Manda!\n"
 	positionOptionHorizontal
 		width = 5
 	option
@@ -183,7 +190,7 @@ script 1 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" No way!\n"
+	" Sai fora!\n"
 	select
 		default = 0
 		BSeparate = false
@@ -198,16 +205,15 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Don't lose your
-	edge in my aura of
-	greatness...
+	Não se deixe intimidar
+	pelo brilho da minha
+	grandeza...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That would be a
-	shame...
+	Seria um desperdício...
 	"""
 	keyWait
 		any = false
@@ -218,15 +224,15 @@ script 2 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Alright! Time for
-	question 1!!
+	Certo! Hora da
+	pergunta 1!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is the Attack
-	power of "TimeBom1"?
+	Qual é o poder de
+	Ataque do "TimeBom1"?
 	"""
 	keyWait
 		any = false
@@ -288,16 +294,15 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Correct!!
-	Time for question 2!
+	Correto!!
+	Hora da pergunta 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Does a needle have
-	an "Eye","Ear",or
-	"Mouth"?
+	Agulhas têm "olho",
+	"ouvido" ou "boca"?
 	"""
 	keyWait
 		any = false
@@ -315,7 +320,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Ear\n"
+	" Ouvido\n"
 	positionOptionHorizontal
 		width = 3
 	option
@@ -326,7 +331,7 @@ script 2 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Mouth\n"
+	" Boca\n"
 	positionOptionHorizontal
 		width = 3
 	option
@@ -337,7 +342,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Eye"
+	" Olho"
 	select
 		default = 0
 		BSeparate = false
@@ -358,21 +363,19 @@ script 2 mmbn6 {
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = SciLabMan
-	"Correct!!"
+	"Correto!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time to try on
-	question 3 for
-	size!
+	Vamos ver se você
+	encara a pergunta 3!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What does PET stand
-	for?
+	O que "PET" significa?
 	"""
 	keyWait
 		any = false
@@ -390,7 +393,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" PErsonal Terminal\n"
+	" Terminal Pessoal\n"
 	positionOptionHorizontal
 		width = 13
 	option
@@ -401,7 +404,7 @@ script 2 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" PErsonal Tower\n"
+	" Término Pessoal\n"
 	positionOptionHorizontal
 		width = 13
 	option
@@ -412,7 +415,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" PErsonal T.V."
+	" TV Pessoal"
 	select
 		default = 0
 		BSeparate = false
@@ -433,22 +436,21 @@ script 2 mmbn6 {
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = SciLabMan
-	"Correct!!"
+	"Correto!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've made it all
-	the way to question
-	4!!
+	Você chegou na
+	pergunta 4!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In the Green Town
-	Courtroom Foyer,
-	what is written?
+	O que tem escrito na
+	Entrada do Tribunal
+	do Distrito Verde?
 	"""
 	keyWait
 		any = false
@@ -466,7 +468,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Truth\n"
+	" Verdade\n"
 	positionOptionHorizontal
 		width = 5
 	option
@@ -477,7 +479,7 @@ script 2 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Justice\n"
+	" Justiça\n"
 	positionOptionHorizontal
 		width = 5
 	option
@@ -488,7 +490,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Law"
+	" Lei"
 	select
 		default = 0
 		BSeparate = false
@@ -510,17 +512,17 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	CORRECT!!
-	No turning back!
-	Time for question 5!
+	CORRETO!!
+	Não tem mais volta!
+	Hora da pergunta 5!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	6,4,or 8_Which one
-	takes the most
-	strokes to write?
+	6, 4 ou 8: qual
+	deles leva mais
+	traços pra escrever?
 	"""
 	keyWait
 		any = false
@@ -582,17 +584,17 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	CORRECT!!
-	Time to rush onto
-	question 6!
+	CORRETO!!
+	Bora sem demora
+	pra pergunta 6!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Which one of these
-	is not in the
-	Seaside Aquarium?
+	Qual destes animais
+	o Aquário Beira-Mar
+	NÃO tem?
 	"""
 	keyWait
 		any = false
@@ -610,7 +612,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" King Crab\n"
+	" Caranguejo-real\n"
 	positionOptionHorizontal
 		width = 10
 	option
@@ -621,7 +623,7 @@ script 2 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" Angelfish\n"
+	" Peixe-anjo\n"
 	positionOptionHorizontal
 		width = 10
 	option
@@ -632,7 +634,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Fur Seal"
+	" Lobo-marinho"
 	select
 		default = 0
 		BSeparate = false
@@ -654,25 +656,23 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	CORRECT!!
-	The trivia keeps
-	coming_question 7!
+	CORRETO!!
+	As perguntas não
+	param! Pergunta 7!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you get hit with
-	an attack from a
-	"Mettaur" and a
+	Quando se é atingido por
+	um ataque do Mettaur e
+	um ataque do Champy,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Champy",how much
-	damage would you
-	take?
+	quanto de dano se leva?
 	"""
 	keyWait
 		any = false
@@ -733,21 +733,21 @@ script 2 mmbn6 {
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = SciLabMan
-	"Correct!!"
+	"Correto!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Congrats on getting
-	this far,but it's
-	not over yet...
+	Parabéns por chegar
+	longe assim, mas ainda
+	não acabou...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Umm... What question
-	number is this?
+	Hmm... Esta é a pergunta
+	de número qual mesmo?
 	"""
 	keyWait
 		any = false
@@ -809,17 +809,15 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	CORRECT!!
-	Excited for
-	question 9?
+	CORRETO!!
+	Animado pra pergunta 9?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Which of the
-	following areas has
-	a NetMerchant?
+	Qual das áreas abaixo
+	tem um NetVendedor?
 	"""
 	keyWait
 		any = false
@@ -837,7 +835,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" SeasideArea1\n"
+	" Área Beira-Mar 1\n"
 	positionOptionHorizontal
 		width = 10
 	option
@@ -848,7 +846,7 @@ script 2 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" SeasideArea2\n"
+	" Área Beira-Mar 2\n"
 	positionOptionHorizontal
 		width = 10
 	option
@@ -859,7 +857,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" SeasideArea3"
+	" Área Beira-Mar 3"
 	select
 		default = 0
 		BSeparate = false
@@ -881,16 +879,17 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Correct!!
-	Time for the last
-	question! Number 10!
+	Correto!!
+	Hora da pergunta
+	final! A número 10!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The year 3001 will
-	be which century?
+	Em algarismos romanos,
+	o ano 3001 pertencerá
+	a qual século?
 	"""
 	keyWait
 		any = false
@@ -908,7 +907,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" 29th Century\n"
+	" Século XXIX\n"
 	positionOptionHorizontal
 		width = 6
 	option
@@ -919,7 +918,7 @@ script 2 mmbn6 {
 		down = 2
 	space
 		count = 1
-	" 31st Century\n"
+	" Século XXXI\n"
 	positionOptionHorizontal
 		width = 6
 	option
@@ -930,7 +929,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" 30th Century"
+	" Século XXX"
 	select
 		default = 0
 		BSeparate = false
@@ -952,29 +951,28 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	This...this is
-	unbelievable!
+	Isso... é inacreditável!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Impossible even!!!"
+	"Não - impossível!!!"
 	keyWait
 		any = false
 	clearMsg
-	"Uhhh... Uhhh..."
+	"Urhhh... Urhhh..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,what's done is
-	done... Maybe I
-	should admit defeat?
+	Bom, o que está feito,
+	está feito... Acho que
+	vou admitir a derrota.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here's your reward!"
+	"Aqui, sua recompensa!"
 	keyWait
 		any = false
 	clearMsg
@@ -986,7 +984,7 @@ script 2 mmbn6 {
 		color = 2
 		amount = 1
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printNaviCustProgram
@@ -1001,9 +999,9 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	I still can't
-	believe it...
-	I lost at trivia!?
+	Ainda não consigo
+	acreditar... eu perdi
+	um questionário?!
 	"""
 	keyWait
 		any = false
@@ -1022,27 +1020,26 @@ script 3 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	Too bad...
-	Wrong answer!
+	Que pena...
+	Errou!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Don't give up..."
+	"Mas não desista..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You were up against
-	an elite trivia
-	master!!
+	Afinal, você enfrentou
+	um mestre de elite dos
+	questionários!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give it another
-	shot!!
+	Tente de novo!!
 	"""
 	keyWait
 		any = false
@@ -1053,9 +1050,9 @@ script 4 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I still can't
-	believe it...
-	I lost at trivia!?
+	Ainda não consigo
+	acreditar... eu perdi
+	um questionário?!
 	"""
 	keyWait
 		any = false
@@ -1076,43 +1073,43 @@ script 10 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	...You!? You're that
-	kid from earlier!
+	... Você?! Aquele
+	menino de antes?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must be a cop!?
-	How'd you find me!?
+	Você é o quê, policial?!
+	Como me achou?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't have that
-	ScrtData anyways!
+	Eu nem tenho mais
+	aqueles Dados Secretos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I used the Pipe
-	Comp and then my
+	Usei o Computador do
+	Cano e, depois, o meu
+	Navi e os amigos dele
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navi and his
-	friends took it!!
+	levaram os dados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're too late...
-	Hehehehehe!
+	Chegou tarde demais...
+	He he he he he!
 	"""
 	keyWait
 		any = false
@@ -1123,29 +1120,29 @@ script 11 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	I don't have that
-	ScrtData!
+	Eu nem tenho mais
+	aqueles Dados Secretos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I used the Pipe
-	Comp and then my
+	Usei o Computador do
+	Cano e, depois, o meu
+	Navi e os amigos dele
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navi and his
-	friends took it!!
+	levaram os dados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're too late...
-	Hehehehehe!
+	Chegou tarde demais...
+	He he he he he!
 	"""
 	keyWait
 		any = false
@@ -1162,30 +1159,29 @@ script 12 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	You got the ScrtData
-	back!
-	Great Job!!
+	Você recuperou os
+	Dados Secretos!
+	Bom trabalho!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They caught the
-	guy behind it as
-	well!!
+	E já pegaram o sujeito
+	por trás da coisa toda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That should settle
-	things once and for
-	all!
+	Isso deve resolver
+	o assunto de uma
+	vez por todas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This is your reward!"
+	"Tome, sua recompensa!"
 	keyWait
 		any = false
 	clearMsg
@@ -1208,7 +1204,7 @@ script 12 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printChip
@@ -1229,11 +1225,11 @@ script 12 mmbn6 {
 	printCode
 		buffer = 0
 		code = *
-	"\","
+	"\""
 	keyWait
 		any = false
 	clearMsg
-	"and \""
+	"e \""
 	printChip
 		buffer = 0
 		chip = 224
@@ -1250,21 +1246,21 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	You were a great
-	partner!
+	Você foi um parceiro
+	de primeira!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Pontoたsち!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -1276,8 +1272,8 @@ script 13 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	You were a great
-	partner!
+	Você foi um parceiro
+	de primeira!
 	"""
 	keyWait
 		any = false

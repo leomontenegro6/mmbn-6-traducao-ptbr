@@ -2,119 +2,119 @@
 @size 48
 
 script 0 mmbn6s {
-	"OperatorNaviTs Webmastr"
+	"PvNaviOperador Admin   "
 	end
 }
 script 1 mmbn6s {
-	"RE:OperatorNav Takayan "
+	"RE:PvNaviOpera Takayan "
 	end
 }
 script 2 mmbn6s {
-	"BadPremonition Ruta    "
+	"Mau presságio  Ruta    "
 	end
 }
 script 3 mmbn6s {
-	"TheUnderPeople Bork    "
+	"Povo da Under  Bork    "
 	end
 }
 script 4 mmbn6s {
-	"DepressingPost S・B Take"
+	"Postag. triste Take A・L"
 	end
 }
 script 5 mmbn6s {
-	"RE:Depressing  Mami    "
+	"RE:Postag.tris  Mami    "
 	end
 }
 script 6 mmbn6s {
-	"I'm Sorry!!!   S・B Take"
+	"Desculpa!!!     Take A・L"
 	end
 }
 script 7 mmbn6s {
-	"RE:I'm Sorry!! MrFamous"
+	"RE:Desculpa!!   SrFamoso"
 	end
 }
 script 8 mmbn6s {
-	"NO_TITLE       NO_NAME "
+	"SEM_TÍTULO     SEM_NOME"
 	end
 }
 script 9 mmbn6s {
-	"Order on BBS!  Webmastr"
+	"Ordem no Fórum Admin   "
 	end
 }
 script 10 mmbn6s {
-	"Poem           NishiYan"
+	"Poesia         NishiYan"
 	end
 }
 script 11 mmbn6s {
-	"RE:Poem        Webmastr"
+	"RE:Poesia      Admin   "
 	end
 }
 script 12 mmbn6s {
-	"A Question     Takayan "
+	"Pergunta       Takayan "
 	end
 }
 script 13 mmbn6s {
-	"RE:A Question  S・B Take"
+	"RE:Pergunta    Take A・L"
 	end
 }
 script 14 mmbn6s {
-	"RE:RE:A Questi MrFamous"
+	"RE:RE:Pergunta SrFamoso"
 	end
 }
 script 15 mmbn6s {
-	"Joke...        Webmastr"
+	"Piada...       Admin   "
 	end
 }
 script 16 mmbn6s {
-	"RE:Joke...     Bork    "
+	"RE:Piada...    Bork    "
 	end
 }
 script 17 mmbn6s {
-	"Going ForSure! Paco    "
+	"Vou sim!       Paco    "
 	end
 }
 script 18 mmbn6s {
-	"A Bit Worried  Mami    "
+	"Tô preocupada  Mami    "
 	end
 }
 script 19 mmbn6s {
-	"RE:A Bit Worri S・B Take"
+	"RE:Tô preocupd Take A・L"
 	end
 }
 script 20 mmbn6s {
-	"MysteriousRoar NishiYan"
+	"Rugido mistrs. NishiYan"
 	end
 }
 script 21 mmbn6s {
-	"RE:Mysterious  Ruta    "
+	"RE:Rugido mis  Ruta    "
 	end
 }
 script 22 mmbn6s {
-	"Everyone OK?   Webmastr"
+	"Geral tá bem?  Admin   "
 	end
 }
 script 23 mmbn6s {
-	"I'm A_OK!      Bork    "
+	"Tô bem!        Bork    "
 	end
 }
 script 24 mmbn6s {
-	"It's Something Takayan "
+	"Tem algo       Takayan "
 	end
 }
 script 25 mmbn6s {
-	"NO_TITLE       NO_NAME "
+	"SEM_TÍTULO     SEM_NOME"
 	end
 }
 script 26 mmbn6s {
-	"NO_TITLE       NO_NAME "
+	"SEM_TÍTULO     SEM_NOME"
 	end
 }
 script 27 mmbn6s {
-	"Somebody is... Webmastr"
+	"Alguém está... Admin   "
 	end
 }
 script 28 mmbn6s {
-	"NO_TITLE       NO_NAME "
+	"SEM_TÍTULO     SEM_NOME"
 	end
 }
 script 29 mmbn6s {

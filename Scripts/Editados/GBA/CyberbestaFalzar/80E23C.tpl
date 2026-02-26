@@ -10,23 +10,23 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	now let's use both
-	support and weapon
-	chips in our attack!
+	agora, vamos usar chips
+	de ataque e de apoio
+	juntos pra vencer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The AreaGrab chip
-	you see there
+	O chip AreaGrab
+	que dá pra ver aqui
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	gives me more room
-	to move around.
+	me dá mais espaço
+	pra andar.
 	"""
 	keyWait
 		any = false
@@ -37,9 +37,9 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Using AreaGrab with
-	WideSwrd is a very
-	effective strategy.
+	Combinar o AreaGrab
+	e a WideSwrd é uma
+	estratégia das boas.
 	"""
 	keyWait
 		any = false
@@ -50,9 +50,9 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? I thought you
-	can only select the
-	same chips together.
+	Ué? Achei que só dava
+	pra selecionar dois
+	chips se fossem iguais.
 	"""
 	keyWait
 		any = false
@@ -64,9 +64,9 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Come on,Lan!
-	You forget,already?
-	Take a look at this!
+	SÉRIO, LAN?!
+	Já esqueceu?!
+	Olha aqui!
 	"""
 	keyWait
 		any = false
@@ -77,69 +77,70 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whoops! I completely
-	forgot!
+	Ah!
+	Nossa, esqueci total!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These letters are a
-	chip code. Different
-	types of chips can
+	Essas letras são os
+	códigos dos chips. Dá
+	pra selecionar chips
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	be selected together
-	as long as they
-	have the same code!
+	diferentes, desde
+	que eles sejam do
+	mesmo código!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see... Area_
-	Grab and WideSwrd
-	have the same code
+	Deixa eu ver... O
+	AreaGrab e a WideSwrd
+	têm o mesmo código,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I can select
-	them together!
+	então, dá pra eu
+	selecionar os dois
+	juntos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The chips with an
-	"*" are like wild_
-	cards.
+	Os chips com "*"
+	são tipo curingas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can select them
-	with any other code!
+	Eu posso usar eles
+	junto de qualquer
+	outro código!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There aren't any "*"
-	ones now,so I'll try
-	it out with an "S"!
+	Mas, como eu não tenho
+	nenhum "*" agora, vou
+	usar os dois com "S"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Attack with Area_
-	Grab and WideSwrd!
+	Hora de atacar com
+	AreaGrab e WideSwrd!
 	"""
 	keyWait
 		any = false
@@ -150,8 +151,9 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That's AreaGrab!
-	OK,now use WideSwrd!
+	E foi o AreaGrab!
+	OK, agora, escolhe
+	a WideSwrd!
 	"""
 	keyWait
 		any = false
@@ -162,9 +164,9 @@ script 6 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,select AreaGrab
-	first! Cancel with
-	the B Button,OK?
+	Lan, seleciona o
+	AreaGrab primeiro!
+	Aperta "B" pra cancelar.
 	"""
 	keyWait
 		any = false
@@ -175,9 +177,9 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Select AreaGrab,Lan!
-	Use the B Button to
-	cancel.
+	Seleciona o AreaGrab,
+	Lan! Aperte "B" pra
+	cancelar.
 	"""
 	keyWait
 		any = false
@@ -188,16 +190,16 @@ script 8 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You've selected a
-	different chip,Lan!
+	Você selecionou um
+	chip nada a ver, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use the B Button to
-	cancel and select
-	the AreaGrab chip!
+	Aperta o botão "B" pra
+	cancelar e seleciona
+	o chip AreaGrab!
 	"""
 	keyWait
 		any = false
@@ -208,15 +210,14 @@ script 9 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you got the
-	order wrong.
+	Lan, você errou a ordem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cancel by pressing
-	the B Button twice.
+	Cancela apertando
+	"B" duas vezes.
 	"""
 	keyWait
 		any = false
@@ -227,9 +228,9 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK! Now I just
-	select OK to send
-	the data to MegaMan.
+	OK! Agora, é só eu
+	apertar "OK" pra mandar
+	os dados pro MegaMan.
 	"""
 	keyWait
 		any = false
@@ -240,8 +241,8 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,there's no
-	need to cancel!
+	Lan, não tem
+	por que cancelar!
 	"""
 	keyWait
 		any = false
@@ -252,9 +253,9 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,there's no need
-	to cancel! Send the
-	Chip Data,quickly!
+	Lan, você não precisa
+	cancelar! Manda logo
+	os chips, rápido!
 	"""
 	keyWait
 		any = false
@@ -265,9 +266,9 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This time,send
-	WideSwrd along
-	with AreaGrab.
+	Desta vez, manda a
+	WideSwrd junto com
+	o AreaGrab.
 	"""
 	keyWait
 		any = false
@@ -278,9 +279,9 @@ script 14 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you have to bust
-	the viruses. This is
-	no time to run!
+	Lan, você tem que
+	apagar esses vírus.
+	Não é hora de fugir!
 	"""
 	keyWait
 		any = false
@@ -291,13 +292,13 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,
-	I sent the data!
+	Pronto, MegaMan,
+	mandei os dados!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's score a combo!"
+	"Bora mandar ver\nnessa combinação!"
 	keyWait
 		any = false
 	end
@@ -307,29 +308,29 @@ script 16 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK! Time for
-	a combo!!!
+	OK!
+	Hora da combinação!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By using AreaGrab
-	with the A Button,
+	Quando eu apertar "A"
+	pra usar o AreaGrab,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	part of the
-	viruses' area
+	parte da área dos
+	vírus vai vir pra gente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will become
-	ours to use!
+	e vamos poder andar
+	por ela à vontade!
 	"""
 	keyWait
 		any = false
@@ -340,28 +341,29 @@ script 17 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Now we can move up
-	and use WideSwrd!
+	Daí a gente pode
+	chegar neles e usar
+	a WideSwrd!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a powerful
-	attack but remember,
+	É um ataque bem forte,
+	mas não esquece:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to get
-	close to a virus
-	to strike it!
+	eu tenho que chegar
+	perto do vírus pra
+	acertar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's give it a try!"
+	"Vamos nessa!"
 	keyWait
 		any = false
 	end

@@ -5,13 +5,13 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... A gravestone...?"
+	"... Uma lápide...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's got something
-	written on it...
+	Tem uma coisa
+	escrita nela...
 	"""
 	keyWait
 		any = false
@@ -36,18 +36,22 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It says:"
-	keyWait
-		any = false
-	clearMsg
-	"   Here rests the\n    Cyberworld's\n God of Destruction"
+	"Tá escrito::"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"God of Destruction"
+	"Aqui jaz o Deus
+	da Destruição do
+	mundo cibernético."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	"Deus da Destruição"
 	......
-	You don't think...?
+	Você acha que...?
 	"""
 	keyWait
 		any = false
@@ -57,17 +61,21 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"It says:"
-	keyWait
-		any = false
-	clearMsg
-	"   Here rests the\n    Cyberworld's\n God of Destruction"
+	"Tá escrito:"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	God of Destruction?
-	Isn't that me?
+	"Aqui jaz o Deus
+	da Destruição do
+	mundo cibernético."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Deus da Destruição?
+	Ué, não sou eu?
 	"""
 	keyWait
 		any = false
@@ -77,18 +85,22 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"It reads:"
-	keyWait
-		any = false
-	clearMsg
-	"   Here rests the\n    Cyberworld's\n God of Destruction"
+	"Está escrito:"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"God of Destruction"
-	...... Where have I
-	heard that before...
+	"Aqui jaz o Deus
+	da Destruição do
+	mundo cibernético."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	"Deus da Destruição"...
+	Onde eu já ouvi isso
+	antes...?
 	"""
 	keyWait
 		any = false
@@ -98,18 +110,22 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"It says:"
-	keyWait
-		any = false
-	clearMsg
-	"   Here rests the\n    Cyberworld's\n God of Destruction"
+	"Está escrito:"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm... God of
-	Destruction... I
-	sense evil afoot...
+	"Aqui jaz o Deus
+	da Destruição do
+	mundo cibernético."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Hmm... Deus da
+	Destruição... Sinto
+	o mal por perto...
 	"""
 	keyWait
 		any = false
@@ -119,18 +135,21 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"It says:"
-	keyWait
-		any = false
-	clearMsg
-	"   Here rests the\n    Cyberworld's\n God of Destruction"
+	"Tá escrito:"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Heh! Doesn't matter
-	to me! Bring it on!
-	Hyahaha!
+	"Aqui jaz o Deus
+	da Destruição do
+	mundo cibernético."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	He! Isso não me assusta!
+	Cai dentro! Hya ha ha!
 	"""
 	keyWait
 		any = false
@@ -140,22 +159,25 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Choo,choo..."
+	"Tchú-tchúú..."
 	keyWait
 		any = false
 	clearMsg
-	"It says:"
-	keyWait
-		any = false
-	clearMsg
-	"   Here rests the\n    Cyberworld's\n God of Destruction"
+	"Está escrito:"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	God of Destruction?
-	What's that supposed
-	to mean...?
+	"Aqui jaz o Deus
+	da Destruição do
+	mundo cibernético."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Deus da Destruição?
+	O que isso significa...?
 	"""
 	keyWait
 		any = false
@@ -165,21 +187,25 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"  \"Here rests the\n    Cyberworld's\n God of Destruction\""
-	keyWait
-		any = false
-	clearMsg
 	"""
-	is what it
-	says,drip!
+	"Aqui jaz o Deus
+	da Destruição do
+	mundo cibernético."
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who is the
-	Cyberworld's God of
-	Destruction,drip?
+	É o que tá
+	escrito, xuá!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas quem é esse Deus da
+	Destruição do mundo
+	cibernético, xuá?
 	"""
 	keyWait
 		any = false
@@ -189,18 +215,21 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"It says:"
-	keyWait
-		any = false
-	clearMsg
-	"   Here rests the\n    Cyberworld's\n God of Destruction"
+	"Tá escrito:"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A God,huh?...
-	I want to take a
-	swing at him!
+	"Aqui jaz o Deus
+	da Destruição do
+	mundo cibernético."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Um Deus, é? ...
+	Adoraria enfrentar ele!
 	"""
 	keyWait
 		any = false
@@ -214,17 +243,21 @@ script 9 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"It reads:"
-	keyWait
-		any = false
-	clearMsg
-	"   Here rests the\n    Cyberworld's\n God of Destruction"
+	"Está escrito:"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what
-	he is like...
+	"Aqui jaz o Deus
+	da Destruição do
+	mundo cibernético."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Como será esse
+	indivíduo...?
 	"""
 	keyWait
 		any = false
@@ -234,22 +267,25 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whiiiiiir..."
+	"Tchrrrrrrrr..."
 	keyWait
 		any = false
 	clearMsg
-	"It says:"
-	keyWait
-		any = false
-	clearMsg
-	"   Here rests the\n    Cyberworld's\n God of Destruction"
+	"Tá escrito:"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wonder what kind of
-	fool we're gonna
-	dig up here?
+	"Aqui jaz o Deus
+	da Destruição do
+	mundo cibernético."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Que tipo de otário será
+	que tá enterrado aqui?
 	"""
 	keyWait
 		any = false
@@ -259,18 +295,21 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	msgOpen
-	"It says:"
-	keyWait
-		any = false
-	clearMsg
-	"   Here rests the\n    Cyberworld's\n God of Destruction"
+	"Tá escrito:"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Heh,he's gonna be
-	the God of Junk
-	when I'm done!
+	"Aqui jaz o Deus
+	da Destruição do
+	mundo cibernético."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	He, pra mim ele é
+	só um Deus do Lixão!
 	"""
 	keyWait
 		any = false
@@ -281,8 +320,8 @@ script 12 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	W_What!?
-	The God of...
+	O-o quê?!
+	O Deus da...
 	"""
 	keyWait
 		any = false
@@ -294,8 +333,8 @@ script 13 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	Who dares to disturb
-	my sleep...?
+	Quem ousa perturbar
+	o meu repouso...?
 	"""
 	keyWait
 		any = false
@@ -306,8 +345,8 @@ script 14 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	W_Watch out!
-	Something's coming!!
+	C-cuidado!
+	Tem coisa vindo aí!!
 	"""
 	keyWait
 		any = false
@@ -327,22 +366,22 @@ script 16 mmbn6 {
 		mugshot = Bass
 	msgOpen
 	"""
-	You dare to set foot
-	into this place...
+	Você ousa adentrar
+	este lugar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For disturbing my
-	sleep...
+	Por perturbar
+	o meu repouso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll take your life
-	as payment!
+	eu vou tomar sua vida
+	como pagamento!
 	"""
 	keyWait
 		any = false
@@ -372,13 +411,12 @@ script 17 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Lan,I'm counting
-	on you!!
+	Lan, eu conto com você!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... Here he comes!"
+	"... Lá vem ele!"
 	keyWait
 		any = false
 	clearMsg
@@ -390,16 +428,15 @@ script 18 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	I_Is this the "God
-	of Destruction"
-	guy...!?
+	E-esse que é o tal
+	"Deus da Destruição"...?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Aw,this is bad...
-	Here he comes!!
+	Putz, sujou...
+	Lá vem ele!!
 	"""
 	keyWait
 		any = false
@@ -412,16 +449,15 @@ script 19 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	I feel such a surge
-	of power!!
+	Sinto uma corrente
+	intensa de força!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's attacking,Lan!
-	I'm counting on
-	you!!
+	Ele vai atacar, Lan!
+	Conto com você!!
 	"""
 	keyWait
 		any = false
@@ -434,28 +470,27 @@ script 20 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	... He's too close!
-	He's overpowering
-	me!
+	... Ele está perto demais!
+	Está me sobrepujando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Tsk,doesn't look
-	like I can escape...
+	... Tsc, parece que
+	não dá para fugir...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,I'm counting on
-	you to operate!
+	Lan, conto com você
+	para me operar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"No turning back now!"
+	"Não há mais volta!"
 	keyWait
 		any = false
 	clearMsg
@@ -467,24 +502,22 @@ script 21 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	I know this Navi...
-	This is Bass...
+	Eu conheço esse Navi...
+	É o Bass...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So HE'S the
-	"God of Destruction"
-	......
+	Então ELE que é o
+	"Deus da Destruição"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like he wants
-	to come out and
-	play...
+	Parece que ele tá
+	a fim de brincar...
 	"""
 	keyWait
 		any = false
@@ -496,29 +529,28 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Choooooo!!"
+	"Tchúúúúúú!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	D_Didn't it just say
-	he's a G_God...!?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	M_Maybe we can still
-	set our gears in
-	reverse and run!
+	A-a lápide não dizia
+	que ele é um d-deus...?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Choo,choo!!
-	Too late!
-	He's charging!!
+	T-talvez ainda dê para
+	darmos marcha ré e fugir!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tchú-tchúú!!
+	Não, é tarde demais!
+	Ele está avançando!!
 	"""
 	keyWait
 		any = false
@@ -530,14 +562,14 @@ script 23 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Drip,d_drip!!"
+	"Xuá, x-xuá!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan!! We're in
-	t_trouble,drip!
-	Waaaaaaaaah!!
+	Lan!! Estamos em
+	apuros, xuá!
+	Aaaaaaaaah!!
 	"""
 	keyWait
 		any = false
@@ -550,17 +582,16 @@ script 24 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	L_Lan... I hope
-	you're ready to
-	operate...
+	L-Lan... Espero que você
+	teja pronto pra operar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	'Cause I take that
-	back. I don't really
-	want to fight him...
+	porque eu retiro o que
+	eu falei. Preferia não
+	ter que enfrentar ele...
 	"""
 	keyWait
 		any = false
@@ -573,14 +604,14 @@ script 25 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Hmm... I sense
-	quite an ominous
-	air from him.
+	Hmm... Sinto uma
+	aura amedrontadora
+	emanando dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan! Operate,please!"
+	"Lan!\nOpere-me, por favor!"
 	keyWait
 		any = false
 	clearMsg
@@ -591,42 +622,42 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whiiiiiiir!!"
+	"Tchrrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who knew I'd really
-	find a ghost under
-	a gravestone!?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But man,this zombie
-	feels like he's got
-	plenty of power__
+	Quem diria que realmente
+	tinha um fantasma
+	sob essa lápide?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	enough to make my
-	drills spin the
-	wrong way! Ouch!
+	Mas, cara, esse zumbi
+	parece ser forte pra
+	caramba...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whir!
-	L_Lan!!
+	o bastante pra fazer
+	a minha broca girar
+	errado! Ai!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Get ready! Hurry!!"
+	"""
+	Tchrrr!
+	L-Lan!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Prepare-se! Rápido!!"
 	keyWait
 		any = false
 	clearMsg
@@ -637,22 +668,22 @@ script 27 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	msgOpen
-	"A_A ghost!"
+	"U-um fantasma!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Heh,well,junk is
-	junk,and I'm good at
-	taking care of junk!
+	He, bom, lixo é lixo,
+	e pra cuidar de lixo,
+	eu me garanto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come on,show me what
-	you've got!
-	Gahahahaha!!
+	Vamos lá, mostra do
+	que cê é capaz!
+	Ga ha ha ha ha!!
 	"""
 	keyWait
 		any = false
@@ -665,8 +696,9 @@ script 28 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go!!
-	Battle routine,set!
+	Vamos nessa!!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -691,7 +723,7 @@ script 29 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -702,7 +734,7 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -713,7 +745,7 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -724,7 +756,7 @@ script 32 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -735,7 +767,7 @@ script 33 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -746,7 +778,7 @@ script 34 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -757,7 +789,7 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -768,7 +800,7 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -779,7 +811,7 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = TenguMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -790,7 +822,7 @@ script 38 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -801,7 +833,7 @@ script 39 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	msgOpen
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -813,8 +845,8 @@ script 40 mmbn6 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Pathetic weakling...
-	Be gone!!
+	Verme patético...
+	Desapareça!!
 	"""
 	keyWait
 		any = false

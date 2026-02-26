@@ -5,20 +5,21 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Congratulations!"
+	"Meus parabéns!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Expo Pavilion
-	Operator Navi
+	O Navi Operador
+	do Pavilhão da
+	Exposição será...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will be Lan Hikari's
-	Navi!
+	MegaMan.EXE, o Navi
+	de Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -32,7 +33,7 @@ script 1 mmbn6 {
 		jumpIfCybeastFalzar = 4
 	mugshotHide
 	msgOpen
-	"*clap,clap,clap...*"
+	"Clap Clap Clap..."
 	keyWait
 		any = false
 	clearMsg
@@ -43,7 +44,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = AlFerry
 	msgOpen
-	"Ah,a total flop..."
+	"Ah, perdi feio..."
 	keyWait
 		any = false
 	clearMsg
@@ -54,7 +55,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = DarkScyth
 	msgOpen
-	"... Hmph."
+	"... Hmpf."
 	keyWait
 		any = false
 	clearMsg
@@ -64,7 +65,7 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*clap,clap,clap...*"
+	"Clap Clap Clap..."
 	keyWait
 		any = false
 	clearMsg
@@ -76,9 +77,9 @@ script 5 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Well,looks like
-	I get to taking
-	nothing home.
+	Bom, parece que
+	eu vou pra casa
+	de mãos vazias.
 	"""
 	keyWait
 		any = false
@@ -90,7 +91,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MrPress
 	msgOpen
-	"Nooo! It's so cruel!"
+	"Nããããoo! Que mundo cruel!"
 	keyWait
 		any = false
 	clearMsg
@@ -102,15 +103,15 @@ script 7 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	And now,Mayor Cain
-	would like to say
-	a few words to our
+	E agora, o Prefeito
+	Cain tem uma palavrinha
+	a dar com o nosso
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Operator Navi to be,
+	futuro Navi Operador,
 	MegaMan!
 	"""
 	keyWait
@@ -121,26 +122,25 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	msgOpen
-	"Congratulations!"
+	"Meus parabéns!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hereby appoint
-	MegaMan
+	Declaro MegaMan.EXE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to be the official
-	Expo Pavilion
-	Operator Navi.
+	o Navi Operador
+	oficial do Pavilhão
+	da Exposição.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Make us proud!"
+	"Encha-nos de orgulho!"
 	keyWait
 		any = false
 	clearMsg
@@ -151,7 +151,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yes,sir!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	clearMsg
@@ -163,24 +163,23 @@ script 10 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	And now your first
-	job.
+	E, agora, seu
+	primeiro dever.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,as the
-	Operator Navi,you
-	will be a mascot for
+	MegaMan, como o Navi
+	Operador, você será
+	o mascote da Exposição,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Expo,and appear
-	on posters and in
-	commercials!
+	aparecendo em cartazes
+	e comerciais!
 	"""
 	keyWait
 		any = false
@@ -191,15 +190,15 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Commercials!?
-	TV commercials!?
+	Comerciais?!
+	Tipo, da TV?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan! You're
-	gonna be famous!!
+	MegaMan!
+	Cê vai ficar famoso!!
 	"""
 	keyWait
 		any = false
@@ -212,9 +211,9 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... Uh,wow,I'm
-	speechless and
-	a bit nervous.
+	... Er, caramba, eu
+	nem sei o que dizer...
+	Que nervoso...
 	"""
 	keyWait
 		any = false
@@ -227,33 +226,30 @@ script 13 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	With all the hard
-	things you've gone
-	through until now,
+	Com todo o trabalho
+	árduo que você
+	fez até agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you have shown that
-	you are the best
-	Navi in Cyber City!
+	mostrou ser o melhor
+	Navi da Cidade Saibher!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's only natural
-	for you to become
-	famous!
+	A fama era inevitável!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope you will use
-	your skills to make
-	the Expo a success!
+	Espero que utilize suas
+	habilidades para fazer
+	da Exposição um sucesso!
 	"""
 	keyWait
 		any = false
@@ -266,9 +262,9 @@ script 14 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I will!
-	I want to help as
-	much as I can!
+	Vou, sim!
+	Quero fazer tudo
+	ao meu alcance!
 	"""
 	keyWait
 		any = false
@@ -279,16 +275,16 @@ script 15 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	This concludes
-	the Selection Test.
+	E isso conclui a
+	Prova de Seleção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One last thing__we'd
-	like to present Lan
-	Hikari with this:
+	Para finalizar,
+	gostaríamos de presentear
+	Lan Hikari com isto!
 	"""
 	keyWait
 		any = false
@@ -300,7 +296,7 @@ script 15 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -324,17 +320,17 @@ script 16 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	We hope that those
-	who did not win will
-	take their time to
+	Esperamos que os demais
+	participantes continuem
+	nos acompanhando,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	explore the Expo
-	which will open
-	in a short while.
+	explorando a Exposição
+	que será inaugurada
+	muito em breve!
 	"""
 	keyWait
 		any = false

@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Gwwwaaahahaha..."
+	"Graah ha ha ha ha..."
 	keyWait
 		any = false
 	end
@@ -14,7 +14,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Heeheeheehee!"
+	"He he he he he!"
 	keyWait
 		any = false
 	end
@@ -23,7 +23,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"You'll regret that!"
+	"Vai se arrepender disso!"
 	keyWait
 		any = false
 	end
@@ -33,8 +33,8 @@ script 3 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I've been waiting
-	for this!!
+	Eu tava esperando
+	por isso!!
 	"""
 	keyWait
 		any = false
@@ -44,7 +44,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Hahahahaheeee!"
+	"Ha ha ha he heeee!"
 	keyWait
 		any = false
 	end
@@ -53,7 +53,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Let's get violent!"
+	"Prepara pra apanhar!"
 	keyWait
 		any = false
 	end
@@ -62,34 +62,33 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	msgOpen
-	"What's with you!?"
+	"Qual é a tua, hein?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're the Net
-	Mafia!!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Hmm...
-	Was our plan against
-	Green Area exposed?
+	Nós somos a NetMáfia!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh well! I guess
-	we'll start earlier
-	than planned!
+	Hmm... Será que o
+	nosso plano no Distrito
+	Verde foi descoberto?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"YYYYYYYAHHHHHHHHH!!"
+	"""
+	Ah, que seja! Vamos ter
+	que começar antes do
+	planejado, então!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"IIIÁÁÁÁÁÁÁÁÁ!!"
 	keyWait
 		any = false
 	flagSet
@@ -103,16 +102,16 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We did it,Lan!
-	We rounded up the
-	whole NetMafia!
+	Conseguimos, Lan!
+	Neutralizamos toda
+	a NetMáfia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go tell that
-	SoulBattler's Navi!
+	Vamos lá contar pro Navi
+	daquele AlmaLutador!
 	"""
 	keyWait
 		any = false
@@ -123,24 +122,24 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE
-	SYMBOL COMP.
+	ESTE É O COMPUTADOR
+	DO SÍMBOLO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS MONUMENT IS
-	WRAPPED IN THE IDEAS
-	OF GREEN TOWN!
+	ESTE MONUMENTO
+	INCORPORA OS IDEAIS
+	DO DISTRITO VERDE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PLEASE KEEP ITS
-	MEANING STORED IN
-	YOUR MEMORY.
+	ESPERAMOS QUE O
+	SIGNIFICADO DELE FIQUE
+	GRAVADO NA SUA MEMÓRIA.
 	"""
 	keyWait
 		any = false

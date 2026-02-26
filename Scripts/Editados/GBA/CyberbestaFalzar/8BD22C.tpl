@@ -7,34 +7,34 @@ script 0 mmbn6 {
 	controlLock
 	soundPlay
 		track = 283
-	"*shuffle,"
+	"Shif "
 	wait
 		frames = 16
 	soundPlay
 		track = 283
-	"shuffle*"
+	"Shif"
 	wait
 		frames = 32
 	"\n"
 	soundPlay
 		track = 441
-	"*thump,"
+	"Crom "
 	wait
 		frames = 32
 	soundPlay
 		track = 441
-	"thump*"
+	"Crom"
 	wait
 		frames = 16
 	"\n"
 	soundPlay
 		track = 441
-	"*thud,"
+	"Bac "
 	wait
 		frames = 16
 	soundPlay
 		track = 441
-	"thud!!*"
+	"Bac!!"
 	wait
 		frames = 16
 	soundEnableTextSFX
@@ -50,16 +50,16 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's with this
-	passage? I wonder
-	where it goes?
+	Qual é a desta
+	passagem, hein?
+	E onde será que ela dá?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,I think I see
-	the end!
+	Ah, acho que eu
+	tô vendo a saída!
 	"""
 	keyWait
 		any = false
@@ -69,13 +69,13 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Phew..."
+	"Ufa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder where I am
-	now...?
+	Onde será que
+	eu tô agora...?
 	"""
 	keyWait
 		any = false
@@ -87,7 +87,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Vic
 	msgOpen
-	"Urgh,you again!?"
+	"Urgh, você de novo?!"
 	keyWait
 		any = false
 	end
@@ -96,7 +96,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Vic
 	msgOpen
-	"Ito,hurry it up!"
+	"Ito, rápido!"
 	keyWait
 		any = false
 	clearMsg
@@ -108,16 +108,15 @@ script 5 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	Why am I the only
-	one working...?
+	Por que só eu
+	trabalho aqui...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JudgeMan,I'm leaving
-	you to take care of
-	MegaMan!
+	JudgeMan, conto com você
+	para cuidar do MegaMan!
 	"""
 	keyWait
 		any = false
@@ -129,7 +128,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = JudgeMan
 	msgOpen
-	"With pleasure..."
+	"Com prazer..."
 	keyWait
 		any = false
 	end
@@ -138,7 +137,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = ProsecutorIto
 	msgOpen
-	"Shall we get going?"
+	"Vamos, então?"
 	keyWait
 		any = false
 	end
@@ -148,8 +147,8 @@ script 8 mmbn6 {
 		mugshot = ProsecutorIto
 	msgOpen
 	"""
-	JudgeMan,stand your
-	ground.
+	JudgeMan, não os
+	deixe passar.
 	"""
 	keyWait
 		any = false
@@ -159,7 +158,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = JudgeMan
 	msgOpen
-	"Trust in me!"
+	"Confie no meu julgamento!"
 	keyWait
 		any = false
 	end
@@ -169,22 +168,21 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like we've
-	gotta jack into that
-	Earth machine and
+	Parece que a gente vai
+	ter que se conectar
+	àquela máquina da Terra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	defeat JudgeMan,or
-	else we can't go any
-	further!
+	e vencer o JudgeMan se
+	a gente quiser passar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's do it,MegaMan!"
+	"Bora lá, MegaMan!"
 	keyWait
 		any = false
 	clearMsg

@@ -16,24 +16,23 @@ script 0 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Hey! You...
-	You look tough,
-	huh?
+	Ei! Tu aí...
+	Tu parece fortão, hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Trying to hide it?
-	That's not cool.
-	You smell tough!!
+	Vai esconder, é?
+	Vacilo, isso aí.
+	Tu tem CHEIRO de forte!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How about showing
-	me what you got?
+	Que tal tu me mostrar
+	do que é capaz?
 	"""
 	keyWait
 		any = false
@@ -49,7 +48,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -58,7 +57,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -73,16 +72,16 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Ahhh,you're smarter
-	than you look...
+	Ahhh, tu é mais
+	inteligente do que
+	parece...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Must have figured
-	out how strong I
-	am...
+	Deve ter te tocado do
+	quanto que eu sou forte...
 	"""
 	keyWait
 		any = false
@@ -93,16 +92,15 @@ script 1 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Yo,up for a fight
-	with me?
+	Ô, tá a fim de
+	lutar comigo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course it'll be
-	fair!!
-	How bout it?
+	Claro que vai ser luta
+	justa, ô!! E aí?
 	"""
 	keyWait
 		any = false
@@ -118,7 +116,7 @@ script 1 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -127,7 +125,7 @@ script 1 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -141,14 +139,14 @@ script 1 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Smart choice..."
+	"Inteligente..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The kind of choice
-	that saves you from
-	a certain death...
+	É esse tipo de escolha
+	que te faz driblar a
+	morte certa, sabe...?
 	"""
 	keyWait
 		any = false
@@ -159,29 +157,26 @@ script 2 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Time to face my
-	Underhand technique,
+	Hora de tu encarar a
+	minha técnica "Dissimula",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	honed by hours of
-	training on the
-	Undernet!
+	afiada por horas de
+	treino na Undernet!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can you really
-	lay it on the
-	line!?
+	Tu acha que escapa?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hyaaaaaa!!"
+	"Ráá-iáááááá!!"
 	keyWait
 		any = false
 	flagSet
@@ -195,47 +190,45 @@ script 3 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	My Underhanded
-	technique was
-	defeated...
+	A minha técnica
+	"Dissimula" foi vencida...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thinking I was
-	strong made me too
-	arrogant...
+	Eu fiquei me achando
+	tão forte que acabei
+	ficando arrogante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I saw myself when
-	I lost to you...
+	Quando eu perdi
+	pra tu, eu me vi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going to lead
-	by example and teach
-	you something nice.
+	Vou seguir o teu exemplo
+	e ensinar uma coisa legal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a lotto number.
+	É um número de loteria.
 	"09256524".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I should
-	reset my training
-	routines,huh?
+	Acho que eu tenho
+	que treinar do zero
+	agora, né não?
 	"""
 	keyWait
 		any = false
@@ -246,8 +239,8 @@ script 4 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	A lotto number?
-	Remember this one!
+	O número de loteria?
+	Decora, hein?!!
 	"09256524".
 	"""
 	keyWait
@@ -259,40 +252,40 @@ script 10 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	...THIS IS THE
-	ELEVATOR COMP.
+	... ESTE É O SISTEMA
+	DO ELEVADOR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'VE GOT SOMETHING
-	I WANT TO SAY,SO
-	PLEASE LISTEN UP!
+	EU TENHO UMA COISA
+	A DIZER, ENTÃO, POR
+	FAVOR, ESCUTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PLEASE QUIT PACKING
-	INTO THE ELEVATOR
-	LIKE A HERD OF
+	POR OBSÉQUIO, NÃO SE
+	AGLOMEREM NO ELEVADOR
+	FEITO UMA MANADA DE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ELEPHANTS! YOU GUYS
-	NEED TO LAY OFF THE
-	FAST FOOD!!
+	ELEFANTES! E VOCÊS
+	TÊM QUE SE ALIMENTAR
+	MELHOR!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	*HUFF! HUFF!*
-	I'M SORRY...
-	I'M BETTER NOW.
+	UFF... UFF...
+	DESCULPA...
+	TÔ MELHOR AGORA.
 	"""
 	keyWait
 		any = false

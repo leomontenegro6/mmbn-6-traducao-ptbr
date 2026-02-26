@@ -6,16 +6,14 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Well,we made
-	it through the
-	prelims.
+	... Bom, a gente passou
+	nas preliminares.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What do you wanna
-	do now?
+	O que a gente faz agora?
 	"""
 	keyWait
 		any = false
@@ -28,9 +26,9 @@ script 1 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	How about a little
-	something called
-	"HOMEWORK"!?
+	Ah, não sei. Talvez
+	uma coisinha linda
+	chamada LIÇÃO DE CASA?!
 	"""
 	keyWait
 		any = false
@@ -42,7 +40,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ouch..."
+	"Ai..."
 	keyWait
 		any = false
 	clearMsg
@@ -54,13 +52,13 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	If you'd stop
-	putting it off,
+	Se você parasse
+	de protelar,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"it'd be over sooner!"
+	"a dor passava bem rápido!"
 	keyWait
 		any = false
 	clearMsg
@@ -71,7 +69,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Blah..."
+	"Blé..."
 	keyWait
 		any = false
 	clearMsg
@@ -85,7 +83,7 @@ script 5 mmbn6 {
 	controlLock
 	callPETEffect
 		effect = 2
-	"*beep beep!*"
+	"Bip Bip!"
 	wait
 		frames = 62
 	callPETEffect
@@ -95,7 +93,7 @@ script 5 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Ah,you've got mail!"
+	"Ah, chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
@@ -106,7 +104,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thank goodness!"
+	"Ufa!"
 	keyWait
 		any = false
 	clearMsg
@@ -118,8 +116,8 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... Did you just
-	say something?
+	... Você disse
+	alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -131,14 +129,13 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No,no,no! Nothing!"
+	"Q-quem, eu?\nNão! Nadinha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Look,uh,you were
-	about to read me
-	my mail!
+	Então, er, cê ia ler o
+	e-mail pra mim, não ia?
 	"""
 	keyWait
 		any = false
@@ -150,7 +147,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... OK."
+	"... Tá."
 	keyWait
 		any = false
 	clearMsg
@@ -163,49 +160,75 @@ script 9 mmbn6 {
 	wait
 		frames = 30
 	"""
-	. Huh? This is
-	from the Aquarium
-	Director!
+	. Hã? É do
+	Diretor do Aquário!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll read what
-	it says!
+	Eu vou ler aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Hello. It has been\n a while since I've\n contacted you."
+	"""
+	"Olá. Sei que já faz
+	tempo desde a última
+	vez que lhe contatei.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Unfortunately,we\n need you to appear\n at the trial of"
+	"""
+	Infelizmente, precisamos
+	que você compareça ao
+	julgamento do Capitão
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Captain Blackbeard\n for the incident a\n little while back"
+	"""
+	Barba-Negra pelo
+	incidente do Aquário
+	de um tempo atrás.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" at the Aquarium.\n Since you were the\n one who thwarted"
+	"""
+	Como foi você quem
+	frustrou os planos dele,
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Cpt.Blackbeard,you\n will be asked to\n take an oath and"
+	"""
+	querem que você
+	deponha sob juramento.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" testify.\n The trial starts\n this afternoon,"
+	"""
+	O julgamento começa
+	hoje à tarde,
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" and is at the\n Green Town\n Courthouse."
+	"""
+	e se dará no Tribunal
+	do Distrito Verde.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" I appreciate your\n cooperation on such\n short notice.\""
+	"""
+	Obrigado pela cooperação,
+	apesar do contato
+	repentino."
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -217,23 +240,22 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Me,go to court?
-	Testify!?
+	Eu, no tribunal?
+	Pra depor?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What am I supposed
-	to do when I
-	testify...?
+	... COMO é que se
+	faz pra depor...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not in trouble,
-	am I...?
+	Eu não vou ser
+	preso, não, né?
 	"""
 	keyWait
 		any = false
@@ -246,32 +268,32 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't know,but it
-	seems like a serious
-	responsibility.
+	Claro que não. Mas...
+	parece ser uma grande
+	responsabilidade, sim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like you
-	have to go today,
+	E parece que você
+	tem que ir já hoje,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so let's go to the
-	courthouse in
-	Green Town!
+	então vamos lá
+	pro tribunal no
+	Distrito Verde!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can probably
-	get there by taking
-	the LevBus.
+	Deve dar pra chegar
+	lá pegando o Ônibus
+	Magnético.
 	"""
 	keyWait
 		any = false
@@ -284,17 +306,15 @@ script 12 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Ugh,I am so
-	nervous about
-	this...
+	... Ugh, eu tô
+	tão nervoso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,let's go see
-	what's up in
-	Green Town!
+	Beleza, bora colar lá
+	no Distrito Verde!
 	"""
 	keyWait
 		any = false

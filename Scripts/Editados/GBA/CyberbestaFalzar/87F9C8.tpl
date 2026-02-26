@@ -6,17 +6,17 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M THE PROGRAM IN
-	CHARGE OF THE
-	JUDGETREE...
+	SOU O PROGRAMA
+	ENCARREGADO DA
+	ÁRVORE JUÍZA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'VE GOT A LOT TO
-	SAY IF YOU WANT TO
-	LISTEN...
+	TENHO MUITAS COISAS
+	A DIZER. GOSTARIA DE
+	OUVIR?
 	"""
 	keyWait
 		any = false
@@ -32,7 +32,7 @@ script 0 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -41,7 +41,7 @@ script 0 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -56,9 +56,9 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	IT'S IMPORTANT INFO
-	IF YOU ARE GOING TO
-	KEEP ON GOING...
+	SÃO INFORMAÇÕES
+	IMPORTANTES PARA
+	AVANÇAR AQUI...
 	"""
 	keyWait
 		any = false
@@ -69,132 +69,128 @@ script 1 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AS A COUNTER TO THE
-	RECENT HACKINGS,
-	WE'VE IMPLEMENTED
+	COMO FORMA DE CONTER
+	TENTATIVAS DE HACKING
+	RECENTES,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A MEANS TO PREVENT
-	BACKTRACKING IN
-	THIS COMP.
+	IMPLEMENTAMOS UMA
+	FORMA DE IMPEDIR
+	RETROCESSO AQUI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	STEP ON A PANEL IN
-	THIS AREA,AND GRASS
-	WILL BEGIN TO GROW.
+	AO PISAR EM UM QUADRO
+	NESTA ÁREA, GRAMA
+	COMEÇA A CRESCER NELE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	STEPPING ON THE
-	GRASS IS REGARDED AS
-	BREAKING THE LAW.
+	E PISAR NESSA GRAMA
+	É CATEGORIZADO COMO
+	VIOLAÇÃO DA LEI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ONE OF THE GUARDS
-	IN THIS AREA WILL
-	APPEAR,
+	UM DOS GUARDAS DA
+	ÁREA APARECERÁ,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A COURT WILL BE
-	OPENED,AND VIOLATORS
-	WILL BE PUNISHED.
+	UMA SESSÃO SERÁ
+	ABERTA E O CRIMINOSO
+	SERÁ PUNIDO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ONE MORE THING. ONE
-	STEP IS CONSIDERED
-	ONE CRIME.
+	MAIS UMA COISA:
+	UMA PISADA É
+	CONSIDERADA UM CRIME.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	STEP ON 3 GRASS
-	PANELS,AND YOU'RE
-	GUILTY OF 3 CRIMES.
+	PISE EM TRÊS QUADROS
+	DE GRAMA, E VOCÊ
+	COMETE TRÊS CRIMES.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE MORE CRIMES
-	COMMITTED,THE BIGGER
-	THE PUNISHMENT...
+	QUANTO MAIS CRIMES
+	COMETER, MAIOR A
+	PUNIÇÃO...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"AHH,ANOTHER THING..."
+	"AHH, MAIS UMA COISA..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PRESS THE L BUTTON
-	TO LOOK AT YOUR
-	SURROUNDINGS.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	PRESS THE L BUTTON
-	AGAIN TO STOP
-	LOOKING.
+	APERTE "L" PARA
+	VER SEUS ARREDORES.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE BEST THING TO
-	DO IS LOOK AHEAD,
-	THEN MOVE FORWARD.
+	APERTE "L" DE NOVO
+	PARA PARAR DE VER.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE SHOULD BE A
-	DOOR BLOCKING YOUR
-	PATH...
+	A MELHOR ESTRATÉGIA
+	É VER O QUE VEM EM
+	FRENTE ANTES DE SEGUIR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE'LL DEFINITELY
-	BE BUTTONS NEAR
-	THERE,
+	DEVERÁ HAVER UMA
+	PORTA BARRANDO O
+	SEU ACESSO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND PRESSING ALL OF
-	THEM WILL OPEN THE
-	DOOR.
+	DEFINITIVAMENTE
+	HAVERÁ BOTÕES
+	PERTO DELA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...TAKE CARE AND
-	GOOD LUCK...
+	E APERTAR TODOS ELES
+	FARÁ A PORTA ABRIR.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... BOA SORTE,
+	E TOME CUIDADO...
 	"""
 	keyWait
 		any = false

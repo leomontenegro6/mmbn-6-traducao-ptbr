@@ -5,22 +5,22 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"Is everyone back?"
+	"Todo mundo já voltou?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good. Next,we'll be
-	studying about
-	CopyBots.
+	Ótimo. A seguir,
+	vamos aprender
+	sobre os CópiRoides.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't know what
-	a CopyBot is yet,
-	do you,Lan?
+	Você ainda não sabe
+	o que é um CópiRoide,
+	sabe, Lan?
 	"""
 	keyWait
 		any = false
@@ -33,9 +33,9 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's one in the
-	foyer,but I don't
-	know what it does.
+	Eu vi que tem um
+	no saguão, mas não
+	sei o que faz.
 	"""
 	keyWait
 		any = false
@@ -48,9 +48,9 @@ script 2 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Well then,will some_
-	one explain to Lan
-	what a CopyBot is?
+	Certo. Alguém pode
+	explicar pro Lan o
+	que um CópiRoide é?
 	"""
 	keyWait
 		any = false
@@ -62,30 +62,30 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Tab
 	msgOpen
-	"I will,sir!"
+	"Eu explico, professor!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A CopyBot,as it
-	is,can't move.
-	However,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	if you send a Navi
-	into one,it changes
-	into that Navi,
+	Um CópiRoide, por
+	si só, não pode se
+	mover. Porém,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and then the Navi
-	is free to move
-	around in our world.
+	quando se envia um Navi
+	para dentro de um, ele
+	se transforma no Navi,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e aí o Navi ganha a
+	liberdade de transitar
+	no nosso mundo.
 	"""
 	keyWait
 		any = false
@@ -98,16 +98,15 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Heh!? A Navi in the
-	real world!?
+	O quê?! Um Navi,
+	no mundo real?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've never heard
-	of technology
-	like that!!
+	Eu nunca ouvi falar de
+	uma tecnologia assim!!
 	"""
 	keyWait
 		any = false
@@ -120,39 +119,39 @@ script 5 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Ha,ha,ha! I'm not
-	surprised!
+	Ha ha ha!
+	Não me surpreende!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This technology only
-	exists here in Cyber
-	City.
+	Essa tecnologia só
+	existe aqui, na
+	Cidade Saibher.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Each area of Cyber
-	City is developing
-	something different.
+	Cada área da cidade
+	desenvolve uma coisa
+	diferente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This area,
-	Central Town,is
-	doing research in...
+	Esta área, o Bairro
+	Central, realiza
+	pesquisas ligadas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	next_gen Net
-	society!
+	à sociedade da Rede
+	da próxima geração!
 	"""
 	keyWait
 		any = false
@@ -165,8 +164,8 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	N_Next_gen Net
-	society!?
+	S-sociedade da Rede
+	da próxima geração?
 	"""
 	keyWait
 		any = false
@@ -179,40 +178,40 @@ script 7 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Yup. Right now,Navis
-	can only help us in
-	the Cyberworld.
+	Aham. Por ora, os Navis
+	só podem ajudar a gente
+	no mundo cibernético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,with CopyBots,
-	they will be able to
-	exist in our world,
+	Mas, com os CópiRoides,
+	eles vão poder existir
+	no nosso mundo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and directly help
-	people.
+	e ajudar as pessoas
+	diretamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course they can
-	still go between the
-	Cyberworld and ours.
+	Claro, eles continuam
+	podendo voltar pro
+	virtual a qualquer hora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that's what a
-	next_gen Net
-	society is about!
+	Essa é a face da
+	sociedade de Rede
+	da próxima geração!
 	"""
 	keyWait
 		any = false
@@ -224,14 +223,14 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W_Wow!"
+	"C-caramba!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,you mean MegaMan
-	can be in the real
-	world too,Mr.Mach?
+	Então... quer dizer
+	que o MegaMan também
+	pode vir pro mundo real?
 	"""
 	keyWait
 		any = false
@@ -243,13 +242,13 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"Of course!!"
+	"Claro, né?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But there are a
-	few restrictions.
+	Porém, há algumas
+	restrições.
 	"""
 	keyWait
 		any = false
@@ -261,7 +260,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Restrictions?"
+	"Restrições?"
 	keyWait
 		any = false
 	clearMsg
@@ -273,48 +272,49 @@ script 11 mmbn6 {
 		mugshot = MrMach
 	msgOpen
 	"""
-	Yes. Just like
-	people,there are
-	good and bad Navis.
+	Aham. Assim como com
+	as pessoas, existem
+	Navis bons e maus.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If bad Navis were
-	allowed to run amok,
-	there'd be trouble.
+	Se Navis maus pudessem
+	zanzar por aí livremente,
+	seria pura treta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So Navis transfered
-	into a CopyBot
+	Por isso, Navis
+	transferidos para
+	dentro de um CópiRoide
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can't use weapons or
-	BattleChips like
-	in the Cyberworld.
+	não podem usar armas
+	ou chips, como usam
+	no mundo cibernético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,Navis will have
-	the same strength as
-	a human adult.
+	E eles têm mais ou menos
+	a mesma força física
+	que um humano adulto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So? How about it?
-	Wanna bring MegaMan
-	into the real world?
+	E aí? Que tal?
+	Quer trazer o MegaMan
+	pro mundo real?
 	"""
 	keyWait
 		any = false
@@ -326,7 +326,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Of course!!"
+	"Quero MUITO!!"
 	keyWait
 		any = false
 	soundFadeOut
@@ -339,8 +339,7 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	L_Let's do this,
-	MegaMan...
+	V-vamos lá, MegaMan...
 	"""
 	keyWait
 		any = false
@@ -353,9 +352,9 @@ script 14 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm so nervous.
-	I never thought this
-	could happen.
+	Cara, eu tô tão nervoso.
+	Nunca achei que daria
+	pra isso acontecer.
 	"""
 	keyWait
 		any = false
@@ -367,13 +366,13 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Me either..."
+	"Nem eu..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,
-	begin transfer...
+	MegaMan.EXE,
+	iniciar transferência...
 	"""
 	keyWait
 		any = false
@@ -383,7 +382,7 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... *gulp*"
+	"... Glup..."
 	keyWait
 		any = false
 	end
@@ -392,7 +391,7 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wah!"
+	"Aah!"
 	keyWait
 		any = false
 	end
@@ -401,7 +400,7 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"H_H_He's aliiiive!!"
+	"E-E-ESTÁ VIIIIVOOO!!"
 	keyWait
 		any = false
 	clearMsg
@@ -413,8 +412,9 @@ script 19 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm not some sort
-	of monster,Lan!
+	Não fala dos outros
+	como se eles fossem
+	MONSTROS, Lan!
 	"""
 	keyWait
 		any = false
@@ -427,15 +427,15 @@ script 20 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wahahaha!
-	It's MegaMan!
+	Ha... Ha ha ha ha!
+	É você mesmo, MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Feels like some sort
-	of dream,doesn't it?
+	Parece até um
+	sonho, né?!
 	"""
 	keyWait
 		any = false
@@ -448,8 +448,8 @@ script 21 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,I can tell you
-	it's not a dream!!
+	Bom, eu te garanto
+	que não é sonho, não!
 	"""
 	keyWait
 		any = false
@@ -462,8 +462,7 @@ script 22 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pinch me on
-	the cheek,then.
+	M-me belisca, então.
 	"""
 	keyWait
 		any = false
@@ -476,8 +475,8 @@ script 23 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Uh...
-	If you say so...
+	Er...
+	Se você tá dizendo...
 	"""
 	keyWait
 		any = false
@@ -487,7 +486,7 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... *pinch*"
+	"... Hmp."
 	keyWait
 		any = false
 	end
@@ -496,7 +495,7 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ow,ow,ow!!"
+	"Ai, ai, aaai!!"
 	keyWait
 		any = false
 	end
@@ -505,13 +504,13 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"A_Are you OK,Lan!?"
+	"V-você tá legal, Lan?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did I pinch you
-	too hard?
+	Eu belisquei
+	forte demais?
 	"""
 	keyWait
 		any = false
@@ -524,29 +523,29 @@ script 27 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ow! Yeah! I know I
-	said,"pinch me,"but
-	not that hard!
+	Ai! Beliscou! Eu sei que
+	eu pedi, mas não era
+	pra arrancar a pele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm tearing up
-	from the pain...
+	Ungh... Doeu tanto
+	que eu até chorei...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So much for our
-	first meeting in
-	the real world...
+	Que jeito da gente
+	se ver no mundo real
+	pela primeira vez...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ow,ow,ow..."
+	"Ai, ai, ai..."
 	keyWait
 		any = false
 	clearMsg
@@ -558,9 +557,9 @@ script 28 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... Eh,heh,heh...
-	I'm sorry!
-	...... *gulp*
+	... He he he...
+	Desculpa!
+	...... Chuif!
 	"""
 	keyWait
 		any = false
@@ -572,22 +571,22 @@ script 29 mmbn6 {
 	mugshotShow
 		mugshot = MrMach
 	msgOpen
-	"Alright,MegaMan!"
+	"OK, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Since you're here,
-	why not say hi
-	to everyone?
+	Aproveitando que está
+	aqui, por que não dá
+	um "oi" pra turma?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But classes are
-	going on,so no
-	leaving this room.
+	Mas a escola ainda
+	está em aula, então,
+	não saia da sala.
 	"""
 	keyWait
 		any = false
@@ -597,7 +596,7 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"... OK!"
+	"... Certo!"
 	keyWait
 		any = false
 	end

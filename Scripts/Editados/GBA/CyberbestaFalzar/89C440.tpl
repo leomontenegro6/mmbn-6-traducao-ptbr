@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"W_What...?"
+	"O-o quê...?"
 	keyWait
 		any = false
 	end
@@ -15,8 +15,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What in the world
-	happened...!?
+	Mas o que foi que
+	aconteceu...?!
 	"""
 	keyWait
 		any = false
@@ -29,14 +29,14 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't know,but...
-	we've gotta keep
-	going.
+	Não sei, mas...
+	A gente tem que
+	ir mais em frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,Lan!!"
+	"Vamos lá, Lan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -47,14 +47,14 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... But just what is
-	waiting for us in
-	CentralArea3...?
+	... Só queria saber o
+	que espera a gente na
+	Área Central 3...
 	"""
 	keyWait
 		any = false

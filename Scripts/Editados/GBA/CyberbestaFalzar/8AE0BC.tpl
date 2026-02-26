@@ -5,8 +5,8 @@ script 0 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	Meanwhile,in Central
-	Town...
+	Enquanto isso,
+	no Bairro Central...
 	"""
 	keyWait
 		any = false
@@ -17,24 +17,22 @@ script 1 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	... At long last,
-	ladies and
-	gentlemen!
+	... Finalmente,
+	senhoras e senhores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The final round of
-	the Expo Pavilion
-	Operator Navi
+	A rodada final da Prova
+	de Seleção de Navi
+	Operador do Pavilhão da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Selection Test will
-	now begin!
+	Exposição irá começar!
 	"""
 	keyWait
 		any = false
@@ -47,8 +45,8 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's finally
-	starting!
+	Até que enfim
+	vai começar!
 	"""
 	keyWait
 		any = false
@@ -60,7 +58,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Stay loose,Lan!"
+	"Fica firme aí, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -72,25 +70,25 @@ script 4 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	... But before I
-	explain the rules
-	for this round,
+	... Mas, antes de eu
+	explicar as regras
+	pra essa rodada,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a man who is a great
-	sponsor of the Expo,
-	and is the mayor of
+	um dos maiores
+	patrocinadores da
+	Exposição, e prefeito da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyber City,Mayor
-	Cain,is here to say
-	a few words!
+	Cidade Saibher, o
+	Prefeito Cain, tem
+	umas palavras a dar!
 	"""
 	keyWait
 		any = false
@@ -101,8 +99,7 @@ script 5 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Mayor Cain,if you
-	please.
+	Prefeito Cain, por favor.
 	"""
 	keyWait
 		any = false
@@ -113,7 +110,7 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	controlLock
-	"What's he...?"
+	"O que ele...?"
 	wait
 		frames = 60
 	controlUnlock
@@ -124,8 +121,8 @@ script 7 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Please go ahead,
-	Mayor.
+	Por favor, prossiga,
+	senhor prefeito.
 	"""
 	keyWait
 		any = false
@@ -136,59 +133,59 @@ script 8 mmbn6 {
 		mugshot = MayorCain
 	msgOpen
 	"""
-	I want to thank you
-	NetBattlers for
-	coming here today.
+	Eu gostaria de agradecer
+	a todos vocês, NetLuta-
+	dores, por virem hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ever since I became
-	Mayor,
+	Desde o dia em que
+	fui eleito prefeito,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's been a big
-	dream of mine to
-	host an Expo.
+	tem sido um grande
+	sonho meu sediar a
+	Exposição.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I truly believe that"
+	"Eu acredito de\ntodo o coração"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the success of this
-	Expo depends on
-	the Operator Navi
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	who is chosen here
-	today,so your role
-	is very important.
+	que o sucesso desta
+	Exposição dependerá
+	do Navi Operador
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Therefore,let us
-	now begin the final
-	round of the Expo
+	que for escolhido
+	aqui hoje. Ou seja,
+	o seu papel é vital.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pavilion Operator
-	Navi Selection Test!
+	Portanto, que comece
+	a rodada final da
+	Prova de Seleção de
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Navi Operador do
+	Pavilhão da Exposição!
 	"""
 	keyWait
 		any = false
@@ -199,7 +196,7 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	mugshotHide
 	msgOpen
-	"*clap,clap,clap...*"
+	"Clap Clap Clap..."
 	keyWait
 		any = false
 	end
@@ -209,8 +206,8 @@ script 10 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Thank you,
-	Mayor Cain!
+	Muito obrigada,
+	Prefeito Cain!
 	"""
 	keyWait
 		any = false
@@ -218,9 +215,9 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MayorCain
 	"""
-	I hope that everyone
-	will fight bravely.
-	Good luck!
+	Esperamos que todos
+	lutem bravamente.
+	Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -231,17 +228,16 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... That guy
-	standing right
-	behind the Mayor...
+	... Aquele cara que tava
+	do lado do Prefeito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm almost sure it's
-	the same creepy guy
-	from Green Town...
+	Eu tenho quase certeza
+	que é o mesmo maluco
+	lá do Distrito Verde...
 	"""
 	keyWait
 		any = false
@@ -254,16 +250,16 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But he kinda seemed
-	like the Mayor's
-	bodyguard...
+	Ele parecia ser, tipo,
+	o guarda-costas do
+	Prefeito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I'm curious. I
-	wonder who he is...
+	Agora eu tô curioso.
+	Quem será que ele é...?
 	"""
 	keyWait
 		any = false
@@ -274,60 +270,59 @@ script 13 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I will now explain
-	how the final round
-	will work.
+	Agora eu vou explicar
+	como a rodada final
+	irá funcionar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today,we will be
-	asking you to find a
-	specific "thing".
+	Pediremos a vocês
+	que encontrem uma
+	"coisa" em específico...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That \"thing\" is..."
+	"Essa \"coisa\" sendo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the legendary gem,
-	"MoonStone".
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It's said that this
-	"MoonStone" exists
-	somewhere in the
+	a joia lendária conhecida
+	como a "Pedra da Lua".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Undernet. I'm sure
-	you are all aware,
-	but
+	Diz-se que essa "Pedra
+	da Lua" está em algum
+	ponto da Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Undernet is a
-	very dangerous
-	place.
+	Estou certa de que
+	todos aqui já sabem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't feel up
-	to the task,please
-	back out now.
+	mas a Undernet é um
+	lugar extremamente
+	perigoso.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se não se sentirem aptos
+	ao desafio, por favor,
+	retirem-se agora.
 	"""
 	keyWait
 		any = false
@@ -340,16 +335,16 @@ script 14 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmmm,a legendary
-	gem,huh...?
+	Hmmm, uma joia
+	lendária, é...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It feels totally
-	different to be in
-	the final round.
+	Realmente, a rodada
+	final é uma parada
+	bem diferente.
 	"""
 	keyWait
 		any = false
@@ -362,28 +357,26 @@ script 15 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The person who finds
-	the "MoonStone"
-	first
+	Aquele que encontrar a
+	"Pedra da Lua" primeiro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will be awarded the
-	Operator Navi
-	position!
+	será premiado com a
+	posição de Navi Operador!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Is everyone ready?"
+	"Todos prontos?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The final round
-	begins... NOW!!
+	A rodada final
+	começa... JÁ!!
 	"""
 	keyWait
 		any = false

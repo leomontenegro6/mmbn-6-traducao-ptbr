@@ -5,28 +5,27 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = TenguMan
 	msgOpen
-	"I am TenguMan."
+	"Eu sou TenguMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I use the natural
-	power of the wind.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Are you the one
-	I will be working
-	with?
+	Me utilizo dos poderes
+	naturais do vento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's to our first
-	mission together.
+	É com você que
+	irei cooperar?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Desejo sucesso na
+	nossa missão conjunta.
 	"""
 	keyWait
 		any = false
@@ -39,8 +38,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,good luck to
-	us both!
+	É, boa sorte
+	pra nós dois!
 	"""
 	keyWait
 		any = false
@@ -67,27 +66,26 @@ script 4 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Let us begin our
-	class,grasshopper.
+	Iniciemos a aula
+	então, meu jovem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Make your way to
-	Green Area1.
+	Siga rumo à Área Verde 1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There,we will have
-	your first lesson.
+	Lá, terá sua
+	primeira lição.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ho,ho,ho,ho!"
+	"Ho ho ho ho!"
 	keyWait
 		any = false
 	clearMsg
@@ -99,8 +97,8 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Green Area1?
-	Roger!
+	Área Verde 1, é?
+	Beleza!
 	"""
 	keyWait
 		any = false

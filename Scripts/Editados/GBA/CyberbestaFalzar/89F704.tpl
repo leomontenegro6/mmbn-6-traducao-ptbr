@@ -6,16 +6,15 @@ script 0 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Well if it isn't
-	AquaMan! Shuko's 
-	checked in already.
+	Opa, se não é o AquaMan!
+	A Shuko já chegou também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So what are you
-	doin' here?
+	E então, tá fazendo
+	o quê aqui?
 	"""
 	keyWait
 		any = false
@@ -28,8 +27,8 @@ script 1 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	I'm a teacher
-	today,drip!
+	Hoje, eu tô sendo
+	professor, xuá!
 	"""
 	keyWait
 		any = false
@@ -42,8 +41,8 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Ha,ha,ha,ha!
-	You,a teacher!?
+	Ha ha ha ha!
+	Você, um professor?!
 	"""
 	keyWait
 		any = false
@@ -53,7 +52,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Whooooa!!"
+	"E-eita!!"
 	keyWait
 		any = false
 	end
@@ -62,7 +61,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"*glub,blub,blub!!*"
+	"Blrb, blrb, blrb!!"
 	keyWait
 		any = false
 	end
@@ -72,23 +71,21 @@ script 5 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Ack!! What am I
-	gonna do!?
+	Aaah!! O que eu faço?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I accidentally
-	opened the cyber_
-	water valve too far!
+	Abri demais a
+	cyber-válvula de
+	água por acidente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you there,
-	AquaMan!? 
+	Você tá aí, AquaMan?!
 	"""
 	keyWait
 		any = false
@@ -98,7 +95,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"I'm here,drip!"
+	"Tô, xuá!"
 	keyWait
 		any = false
 	clearMsg
@@ -110,16 +107,16 @@ script 7 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	I've done it again!!
-	I'm sorry,Lan!
+	Eu vacilei de novo!!
+	Desculpa, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I washed all the
-	fish data out into
-	the cyberwater!
+	Deixei todos os
+	dados-peixe escaparem
+	com a cyberágua!
 	"""
 	keyWait
 		any = false
@@ -131,7 +128,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!?"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -143,24 +140,22 @@ script 9 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	I've gotta stop
-	the cyberwater!
+	Tenho que parar
+	a cyberágua!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm really sorry,but
-	can you help me
-	gather all the
+	Desculpa mesmo, mas
+	pode me ajudar a reunir
+	todos os dados-peixe
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fish data that's
-	washed out onto the
-	Net?
+	que escaparam pra Rede?
 	"""
 	keyWait
 		any = false
@@ -172,7 +167,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Eh? Me!?"
+	"Hã? Eu?!"
 	keyWait
 		any = false
 	clearMsg
@@ -184,22 +179,21 @@ script 11 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	That data's really
-	important to the
-	Aquarium! If I lose
+	São dados super
+	importantes pro Aquário!
+	Se eu perder eles,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	them,I'm toast! And
-	if that happens,my
-	brothers and I...
+	tô frita! E os meus
+	irmãos eu vamos...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*sniffle...*"
+	"Chuif..."
 	keyWait
 		any = false
 	clearMsg
@@ -212,15 +206,15 @@ script 12 mmbn6 {
 	msgOpen
 	"""
 	Ack!
-	OK,OK,I understand!!
+	Tá bom, tá bom,
+	já entendi!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't worry,I'll go
-	get that fish data
-	for you!
+	Relaxa, eu reúno os
+	dados-peixe pra você!
 	"""
 	keyWait
 		any = false
@@ -232,14 +226,13 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	msgOpen
-	"Really!?"
+	"De verdade?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you!
-	You are my family's
-	savior!
+	Obrigada!
+	Salvou a minha família!
 	"""
 	keyWait
 		any = false
@@ -252,8 +245,7 @@ script 14 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright,let's go,
-	AquaMan!! 
+	Tá, bora lá, AquaMan!! 
 	"""
 	keyWait
 		any = false
@@ -265,7 +257,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Roger,drip!!"
+	"Entendido, xuá!!"
 	keyWait
 		any = false
 	end

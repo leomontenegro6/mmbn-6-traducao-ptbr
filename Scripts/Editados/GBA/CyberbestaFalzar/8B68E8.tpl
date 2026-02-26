@@ -6,25 +6,23 @@ script 0 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	OK,here we go!
-	Class is about to
-	start!
+	OK, vamos lá!
+	A aula vai começar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're going to use
-	my Navi,DustMan,to
-	go to the Net
+	Você vai usar o meu
+	Navi, o DustMan, pra
+	ir pro lixão da Rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	junkyard and collect
-	some real gems of
-	spare parts!
+	e pegar umas peças
+	extras de primeira!
 	"""
 	keyWait
 		any = false
@@ -37,16 +35,14 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Collect garbage,you
-	mean...
+	Catar lixo...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why do we have to
-	go digging through
-	garbage...?
+	A gente tem mesmo
+	que fazer isso...?
 	"""
 	keyWait
 		any = false
@@ -59,49 +55,46 @@ script 2 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	No,no!!
-	You totally don't
-	get it!
+	Não, não!!
+	Cê não entendeu
+	nada mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why don't they teach
-	you this stuff in
-	school!?
+	Por que não ensinam
+	essas coisas na escola...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People throw away so
-	many things that are
-	still good everyday!
+	Todo santo dia, as
+	pessoas jogam fora coisas
+	perfeitamente usáveis!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My class is about
-	finding things that
-	are still usable,
+	A minha aula é sobre
+	como achar essas coisas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and learning the
-	importance of
-	recycling!!
+	e aprender a importância
+	da reciclagem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The era of randomly
-	throwing things away
-	after 1 use is over!
+	A era de jogar coisas
+	fora depois de usar só
+	uma vez está no fim!
 	"""
 	keyWait
 		any = false
@@ -114,17 +107,16 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He's convincing in
-	his own...spastic
-	sort of way,I guess.
+	Ele até que convence.
+	Do seu modo meio...
+	doido, sei lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,let's collect
-	trash. So,what
-	should I do?
+	OK, bora catar lixo.
+	E aí, o que eu faço?
 	"""
 	keyWait
 		any = false
@@ -137,9 +129,9 @@ script 4 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	OK,OK! First,take a
-	look at the vending
-	machine behind me!
+	Belê, belê! Primeiro,
+	confere a máquina de
+	vendas atrás de mim!
 	"""
 	keyWait
 		any = false
@@ -151,7 +143,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uh... OK..."
+	"Er... Tá bom..."
 	keyWait
 		any = false
 	end

@@ -18,9 +18,9 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like we got
-	all the fish data
-	in this area.
+	Parece que a gente
+	reuniu todos os
+	dados-peixe desta área.
 	"""
 	keyWait
 		any = false
@@ -32,14 +32,13 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Alright,drip!!"
+	"Certo, xuá!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get me down from
-	here,and let's
-	push forward,drip!
+	Me desce daqui e
+	vamos avançar, xuá!
 	"""
 	keyWait
 		any = false
@@ -69,9 +68,9 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like we got
-	all the fish data
-	in this area.
+	Parece que a gente
+	reuniu todos os
+	dados-peixe desta área.
 	"""
 	keyWait
 		any = false
@@ -83,14 +82,13 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Drip,drip,drip!!"
+	"Xuá, xuá, xuá!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get me down from
-	here,and let's
-	push forward,drip!
+	Me desce daqui e
+	vamos avançar, xuá!
 	"""
 	keyWait
 		any = false
@@ -120,9 +118,9 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like we got
-	all the fish data
-	in this area.
+	Parece que a gente
+	reuniu todos os
+	dados-peixe desta área.
 	"""
 	keyWait
 		any = false
@@ -134,14 +132,13 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Alright,drip!"
+	"Legal, xuá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get me down from
-	here,and let's
-	push forward,drip!
+	Me desce daqui e
+	vamos avançar, xuá!
 	"""
 	keyWait
 		any = false
@@ -171,9 +168,8 @@ script 20 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright! Let's
-	head back to the
-	Aquarium HP!
+	Beleza! Bora voltar
+	pra Página do Aquário!
 	"""
 	keyWait
 		any = false
@@ -185,7 +181,7 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Roger,drip!"
+	"Certo, xuá!"
 	keyWait
 		any = false
 	flagSet

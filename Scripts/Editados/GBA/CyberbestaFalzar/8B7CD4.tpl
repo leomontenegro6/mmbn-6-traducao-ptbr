@@ -5,21 +5,21 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whiiiiiiir!!"
+	"Vhrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like we took
-	care of all the
-	rocks in this area!
+	Parece que já
+	cuidamos de todas
+	as rochas nesta área!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time to get over to
-	CentralArea1!
+	Hora da gente ir
+	pra Área Central 1!
 	"""
 	keyWait
 		any = false

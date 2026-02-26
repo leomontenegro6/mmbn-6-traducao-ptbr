@@ -6,24 +6,23 @@ script 0 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	You're pretty
-	rocking now.
+	Cê tá arrebentando agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With skills like
-	that,you could work
-	for real!
+	Com esse nível, cara,
+	dava pra cê trabalhar
+	pra valer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,GroundMan's
-	1 of your LinkNavis
-	from now on!
+	Enfim, a partir de agora,
+	o GroundMan é um dos
+	seus NavisElo!
 	"""
 	keyWait
 		any = false
@@ -40,8 +39,8 @@ script 1 mmbn6 {
 	soundPlay
 		track = 143
 	"""
-	GroundMan became
-	Lan's LinkNavi!
+	GroundMan se tornou
+	NaviElo do Lan!
 	"""
 	waitOWVar
 		variable = 0
@@ -60,47 +59,47 @@ script 2 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	GroundMan's strength
-	is there for you in
-	the GroundCross!
+	A força do GroundMan
+	vai tá à sua disposição
+	com o GroundCruz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,I'll even put in
-	a good word for you
-	at work to my boss!
+	Aliás, eu vou até te
+	recomendar pro meu
+	chefe no trabalho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You got some great
-	muscles.
+	Cê tem força
+	pro negócio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we ever need you,
-	the boss might give
-	you a call!
+	Se a gente precisar de
+	você, o chefe pode até
+	te ligar, viu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remember to come
-	here if you need to
-	do some drilling!
+	Enfim, é só vir aqui
+	se precisar dar umas
+	"brocadas".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll be here,
-	alright!?
+	A gente vai tá
+	esperando, viu?!
 	"""
 	keyWait
 		any = false
@@ -112,7 +111,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK! Thanks!"
+	"Beleza! Valeu!"
 	keyWait
 		any = false
 	end

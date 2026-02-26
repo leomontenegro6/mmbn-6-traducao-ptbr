@@ -69,16 +69,17 @@ script 81 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We need to go to the
-	Green Area2 NetCafe
+	A gente tem que
+	ir no NetCafé da
+	Área Verde 2
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to get permission
-	to enter the
-	courthouse!
+	pra conseguir
+	a permissão de
+	entrar no tribunal!
 	"""
 	keyWait
 		any = false
@@ -89,14 +90,14 @@ script 82 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If you hit Mr.Prog
-	on the head,what's
-	the punishment...?
+	Qual é a punição
+	por bater na cabeça
+	de um Prog...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I have no idea..."
+	"Eu nem faço ideia..."
 	keyWait
 		any = false
 	end
@@ -106,14 +107,16 @@ script 83 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I wonder if you
-	would really get
-	an
+	Será que é só isso
+	mesmo a resposta?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"infuriating\n punishment from\n Mr.Prog\"..."
+	"""
+	"Uma punição
+	enfurecedora"...?
+	"""
 	keyWait
 		any = false
 	end
@@ -123,16 +126,17 @@ script 84 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We need to go to the
-	Green Area2 NetCafe
+	A gente tem que
+	ir no NetCafé da
+	Área Verde 2
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to get permission
-	to enter the
-	courthouse!
+	pra conseguir
+	a permissão de
+	entrar no tribunal!
 	"""
 	keyWait
 		any = false
@@ -143,9 +147,9 @@ script 85 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	We have to get back
-	to the courthouse!
+	Desconecta, MegaMan!
+	A gente tem que
+	voltar pro tribunal!
 	"""
 	keyWait
 		any = false
@@ -156,9 +160,9 @@ script 86 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan,and
-	let's check out the
-	courtroom!
+	Desconecta, MegaMan,
+	e bora lá pra sala de
+	audiências!
 	"""
 	keyWait
 		any = false
@@ -169,9 +173,8 @@ script 87 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,it's time to go
-	home and head to bed
-	already...
+	Ah, já tá na hora de
+	ir pra casa dormir...
 	"""
 	keyWait
 		any = false
@@ -230,9 +233,9 @@ script 95 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	In any case,we've
-	gotta go home and
-	ask Mom...
+	Enfim, a gente tem
+	que ir pra casa e
+	perguntar pra mamãe...
 	"""
 	keyWait
 		any = false
@@ -243,7 +246,7 @@ script 96 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Head for Green Town,
+	Vai pro Distrito Verde,
 	MegaMan!
 	"""
 	keyWait
@@ -255,9 +258,9 @@ script 97 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan,and
-	let's try to find
-	out more about Dad!
+	Desconecta, MegaMan,
+	e bora investigar
+	mais sobre o papai!
 	"""
 	keyWait
 		any = false
@@ -268,16 +271,16 @@ script 98 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've gotta find
-	something to prove
-	what Dad was doing
+	A gente tem que achar
+	uma coisa que prove o
+	que o papai tava fazendo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	yesterday at 4 P.M.
-	in Central Town!
+	ontem às 16:00
+	no Bairro Central!
 	"""
 	keyWait
 		any = false
@@ -288,15 +291,15 @@ script 99 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've gotta find
-	someone at school
+	A gente tem que achar
+	alguém na escola
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	who saw Dad at
-	4 P.M. yesterday!!
+	que viu o papai
+	ontem às 16:00!
 	"""
 	keyWait
 		any = false
@@ -307,14 +310,14 @@ script 100 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I think we can find
-	proof that Dad was
-	at the school at
+	Eu sei que dá pra gente
+	achar uma prova de que
+	o papai tava na escola
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"4 P.M. yesterday!"
+	"ontem às 16:00!"
 	keyWait
 		any = false
 	end
@@ -324,9 +327,9 @@ script 101 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out! The
-	RoboControl PC is in
-	the Teachers' Room!
+	Desconecta! O Computador
+	de Controle dos Robôs é
+	na Sala dos Professores!
 	"""
 	keyWait
 		any = false
@@ -337,16 +340,16 @@ script 102 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's take that
-	recorded data
-	to the courthouse!
+	Bora levar estes
+	dados de gravação
+	pro tribunal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll prove Dad's
-	innocent!
+	A gente vai provar
+	a inocência do papai!
 	"""
 	keyWait
 		any = false
@@ -357,9 +360,8 @@ script 103 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,and let's
-	get over to the
-	Punishment Room!
+	Desconecta e bora lá
+	pra Cela de Punição!
 	"""
 	keyWait
 		any = false
@@ -369,14 +371,14 @@ script 104 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack out,MegaMan!"
+	"Desconecta, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can save Dad if
-	we show our proof
-	to the JudgeTree!
+	A gente pode salvar
+	o papai se mostrar a
+	prova pra Árvore Juíza!
 	"""
 	keyWait
 		any = false
@@ -387,9 +389,9 @@ script 105 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	We've gotta stop the
-	JudgeTree somehow!
+	Desconecta! A gente
+	tem que dar um jeito de
+	parar a Árvore Juíza!
 	"""
 	keyWait
 		any = false
@@ -400,9 +402,9 @@ script 106 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've gotta stop the
-	JudgeTree somehow,
-	MegaMan!
+	Vamos achar um jeito
+	de parar a Árvore
+	Juíza, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -413,9 +415,9 @@ script 107 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	We've gotta stop the
-	JudgeTree somehow!
+	Desconecta! A gente
+	tem que dar um jeito de
+	parar a Árvore Juíza!
 	"""
 	keyWait
 		any = false
@@ -448,9 +450,9 @@ script 112 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's cybercooking
-	time! Let's go chop
-	up some carrots!
+	Hora de cyberculinária!
+	Bora fatiar umas
+	cenourinhas!
 	"""
 	keyWait
 		any = false
@@ -466,8 +468,8 @@ script 113 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's head over to
-	Green Area2!
+	Vamos indo pra
+	Área Verde 2!
 	"""
 	keyWait
 		any = false
@@ -492,9 +494,9 @@ script 116 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,avoid the cyber_
-	crows... gather the
-	cyberscrolls...
+	Tá, evitar os
+	cybercorvos... Reunir
+	cyberpergaminhos...
 	"""
 	keyWait
 		any = false
@@ -510,8 +512,7 @@ script 117 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's head for
-	Green Area2!
+	Vamos pra Área Verde 2!
 	"""
 	keyWait
 		any = false
@@ -522,9 +523,9 @@ script 119 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's cybercooking
-	time! There's cyber_
-	radishes to cut!
+	Hora de cyberculinária!
+	A gente tem cyber-
+	rabanetes pra cortar!
 	"""
 	keyWait
 		any = false
@@ -551,9 +552,8 @@ script 221 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating HeatMan...
-	It lights my soul on
-	fire!!
+	Operar o HeatMan...
+	incendeia a minha alma!
 	"""
 	keyWait
 		any = false
@@ -564,9 +564,9 @@ script 222 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating ElecMan...
-	I feel a surge of
-	power coming on!!
+	Operar o ElecMan...
+	Me faz sentir um
+	surto de energia!!
 	"""
 	keyWait
 		any = false
@@ -577,9 +577,8 @@ script 223 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating SlashMan
-	is like sharpening
-	my mind to a point!
+	Operar o SlashMan afia
+	a minha mente ao máximo!
 	"""
 	keyWait
 		any = false
@@ -590,9 +589,9 @@ script 224 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating EraseMan
-	brings out my dark
-	side... Mwahahaha!
+	Operar o KillerMan
+	é uma sensação de
+	matar... Mua ha ha ha!
 	"""
 	keyWait
 		any = false
@@ -603,9 +602,9 @@ script 225 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating ChargeMan
-	makes me want to
-	plow ahead!!
+	Operar o ChargeMan
+	me faz querer avançar
+	com tudo!!
 	"""
 	keyWait
 		any = false
@@ -616,9 +615,9 @@ script 226 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating AquaMan 
-	makes me feel like
-	a little fish...
+	Operar o AquaMan
+	me faz sentir como
+	um peixinho...
 	"""
 	keyWait
 		any = false
@@ -629,9 +628,9 @@ script 227 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating
-	TomahawkMan is an
-	awesome feeling!
+	Operar o TomahawkMan
+	me faz sentir poderoso
+	e indomável!
 	"""
 	keyWait
 		any = false
@@ -642,9 +641,9 @@ script 228 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating TenguMan
-	brings a sense of
-	peace to my heart...
+	Operar o TenguMan
+	traz tanta paz pro
+	meu coração...
 	"""
 	keyWait
 		any = false
@@ -655,9 +654,9 @@ script 229 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating GroundMan
-	lets me drill
-	through anything!
+	Operar o GroundMan
+	me dá vontade de
+	perfurar os céus!
 	"""
 	keyWait
 		any = false
@@ -668,9 +667,9 @@ script 230 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating DustMan...
-	There's no virus we
-	can't scrap!
+	Operando o DustMan...
+	nenhum vírus vai
+	escapar da lixeira!
 	"""
 	keyWait
 		any = false
@@ -681,9 +680,9 @@ script 231 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ProtoMan helping out
-	during battle... He
-	sure is trustworthy!
+	O ProtoMan, me ajudando
+	na luta... Navi mais
+	confiável, não há!
 	"""
 	keyWait
 		any = false

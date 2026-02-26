@@ -6,24 +6,23 @@ script 0 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	This class needs to
-	get started!
+	Esta aula tem
+	que começar logo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're gonna drill,
-	drill,drill through
-	any and everything!
+	A gente vai perfurar
+	tudo e todos que
+	aparecerem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll learn some
-	heavy rock drilling
-	techniques from me!
+	Cê vai aprender técnicas
+	pesadas de broca comigo!
 	"""
 	keyWait
 		any = false
@@ -36,8 +35,8 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Rock drilling
-	techniques,huh...?
+	Técnicas pesadas
+	de broca, é...?
 	"""
 	keyWait
 		any = false
@@ -50,33 +49,33 @@ script 2 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Hey,hey,don't mess
-	around! This isn't
-	some dummy's class!
+	Ô, olha a atitude!
+	Esta aula é séria,
+	não é palhaçada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't think it's
-	important,but I'm
-	telling you it is!
+	Cê pode achar que não
+	é importante, mas eu
+	garanto que é, sim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can drill
-	through any virus
-	with my skills!
+	Com as minhas habilidades,
+	cê vai poder perfurar
+	qualquer vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So let's get going!
-	Go take a peek into
-	that computer...
+	Enfim, bora lá!
+	Confere o computador
+	aqui...
 	"""
 	keyWait
 		any = false
@@ -88,7 +87,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uh,OK..."
+	"Er, tá bom..."
 	keyWait
 		any = false
 	end

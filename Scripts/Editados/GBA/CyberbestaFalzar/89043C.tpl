@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whaaaaaaaaaa!!"
+	"Aaaaaaaahhhr!!"
 	keyWait
 		any = false
 	end
@@ -14,7 +14,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Hey,hang tough,Lan!!"
+	"Ô, 'guenta aí, Lan!!"
 	keyWait
 		any = false
 	end
@@ -25,24 +25,23 @@ script 10 mmbn6 {
 	msgOpen
 	textSpeed
 		delay = 1
-	"OWWWWWWWWWWWWW!!!"
+	"AAAAAAAAII!!!"
 	keyWait
 		any = false
 	clearMsg
 	textSpeed
 		delay = 1
 	"""
-	AND JUST WHERE IN
-	THE WORLD WERE YOU
-	LOOKING!?!?
+	PRA ONDE É QUE VOCÊ
+	TAVA OLHANDO, HEIN?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND ANOTHER THING!
-	DON'T THEY TELL YOU
-	TO TREAT CITIZENS...
+	E TEM MAIS! NUNCA TE
+	FALARAM PRA TRATAR OS
+	CIDADÃOS COM...
 	"""
 	keyWait
 		any = false
@@ -55,9 +54,9 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	"""
-	OK,OK,I got it!
-	Yeesh!
-	たAh,my time limit!ち
+	Tá bom, tá bom,
+	já entendi! Credo!
+	たAh, meu limite de tempo!ち
 	"""
 	keyWait
 		any = false
@@ -71,9 +70,9 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mr.Prog's in the
-	way. We'd better say
-	something to him!
+	O Prog tá no caminho.
+	A gente tem que dizer
+	alguma coisa pra ela!
 	"""
 	keyWait
 		any = false
@@ -84,9 +83,9 @@ script 20 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HUH? I'M IN THE WAY?
-	OKOK,I'LL MOVE...
-	*SIGH*
+	HÃ? EU TÔ NO CAMINHO?
+	TÁ BOM, TÁ BOM, EU
+	SAIO... AI, AI...
 	"""
 	keyWait
 		any = false
@@ -99,8 +98,8 @@ script 21 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IN THE WAY?
-	OH,I'M SORRY!
+	NO CAMINHO?
+	AH, SINTO MUITO!
 	"""
 	keyWait
 		any = false
@@ -113,9 +112,9 @@ script 22 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M WHAT!? SPEAK UP!
-	IN THE WAY!? WHY
-	DIDN'T YOU SAY SO!
+	EU TÔ O QUÊ?! FALA MAIS
+	ALTO! \"NO CAMINHO\"?
+	POR QUE NÃO FALOU LOGO?!
 	"""
 	keyWait
 		any = false
@@ -128,8 +127,9 @@ script 23 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AM I BLOCKING YOU?
-	OH,TERRIBLY SORRY.
+	EU ESTOU IMPEDINDO
+	SUA PASSAGEM?
+	AH, MIL DESCULPAS.
 	"""
 	keyWait
 		any = false
@@ -142,9 +142,9 @@ script 24 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M A BLOCK
-	TO YOUR ROCKS?
-	HEY,THAT RHYMED!
+	EU ESTOU BARRANDO
+	AS SUAS PEDRAS?
+	OPA, EPA!
 	"""
 	keyWait
 		any = false
@@ -157,9 +157,9 @@ script 25 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DON'T YOU HATE IT
-	WHEN SOMEONE'S IN
-	THE WAY? OH,SORRY...
+	É UM SACO QUANDO TEM
+	GENTE NO CAMINHO, NÉ?
+	AH, DESCULPA...
 	"""
 	keyWait
 		any = false
@@ -172,9 +172,9 @@ script 26 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU WANT ME TO MOVE?
-	MAKE ME! ... ON 2ND
-	THOUGHT,YOU WIN...
+	QUER QUE EU SAIA DAQUI?
+	ME OBRIGUE! ... PENSANDO
+	BEM, CÊ ME CONVENCEU...
 	"""
 	keyWait
 		any = false
@@ -187,9 +187,9 @@ script 27 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH,I'M TERRIBLY
-	SORRY FOR BLOCKING
-	YOUR WAY...
+	AH, SINTO MUITO POR
+	ESTAR ATRAPALHANDO
+	SUA PASSAGEM...
 	"""
 	keyWait
 		any = false
@@ -202,9 +202,9 @@ script 28 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DO YOU NEED TO GET
-	BY HERE? SHALL I
-	MOVE OUT OF THE WAY?
+	VOCÊ PRECISA PASSAR
+	AQUI? QUER QUE EU
+	SAIA DA FRENTE?
 	"""
 	keyWait
 		any = false
@@ -217,9 +217,9 @@ script 29 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AH,I WAS ONLY TRYING
-	TO HELP. I'LL GO
-	NOW... *SNIFFLE*
+	AH, EU SÓ QUERIA
+	AJUDAR. EU SAIO...
+	CHUIF!
 	"""
 	keyWait
 		any = false
@@ -232,9 +232,9 @@ script 30 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WOW,A PRO! I WANT TO
-	BE A DRILLING PRO
-	SOMEDAY!
+	NOSSA, UM PROFISSIONAL!
+	QUERO SER UM ESCAVADOR
+	PROFISSIONAL TAMBÉM!
 	"""
 	keyWait
 		any = false
@@ -247,9 +247,9 @@ script 31 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M BLOCKING YOU?
-	ARE YOU SURE YOU'RE
-	NOT BLOCKING ME?
+	EU TÔ NO SEU CAMINHO?
+	CERTEZA QUE NÃO É VOCÊ
+	QUEM TÁ NO MEU?
 	"""
 	keyWait
 		any = false
@@ -262,9 +262,9 @@ script 32 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I DON'T KNOW HOW TO
-	GET OUT OF THE WAY!
-	... HEY,PUT ME DOWN!
+	EU NÃO SEI COMO SAIR
+	DA SUA FRENTE!
+	... Ô, ME PÕE NO CHÃO!
 	"""
 	keyWait
 		any = false
@@ -277,9 +277,8 @@ script 33 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THANK YOU FOR
-	RESCUING ME!
-	HEE,HEE!
+	OBRIGADO POR ME SALVAR!
+	HI HI!
 	"""
 	keyWait
 		any = false
@@ -292,9 +291,9 @@ script 34 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DO YOU THINK I'M
-	ANNOYING? ... NO?
-	WOW,THANKS BUDDY!
+	VOCÊ ME ACHA
+	IRRITANTE? ... NÃO?
+	NOSSA! VALEU, CARA!
 	"""
 	keyWait
 		any = false
@@ -307,9 +306,9 @@ script 35 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THOU REQUIRES THAT
-	I MOVE? SO BE IT
-	THEN.
+	PRECISAS QUE EU
+	DEIXE ESTE POSTO?
+	POIS BEM.
 	"""
 	keyWait
 		any = false
@@ -322,9 +321,9 @@ script 36 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT'S SO IMPORTANT
-	ABOUT SOME ROCKS
-	ANYWAY...?
+	O QUE TEM DE TÃO
+	IMPORTANTE NESSAS
+	PEDRINHAS, HEIN...?
 	"""
 	keyWait
 		any = false
@@ -337,9 +336,9 @@ script 37 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU LOOKIN' AT ME?
-	...... 'EY,ALRIGHT,
-	I GET IT,I GET IT!
+	QUE É, VAI ENCARAR?
+	...... AH, TÁ BOM!
+	JÁ SAQUEI, JÁ SAQUEI!
 	"""
 	keyWait
 		any = false
@@ -352,9 +351,9 @@ script 38 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH,JULIET,JULIET...
-	WAIT,YOU'RE NOT HER!
-	WHERE IS MY JULIET!?
+	AH, JULIETA, JULIETA...
+	PERA, VOCÊ NÃO É ELA!
+	CADÊ A MINHA JULIETA?!
 	"""
 	keyWait
 		any = false
@@ -367,9 +366,9 @@ script 39 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TO BLOCK,OR NOT TO
-	BLOCK: THAT IS THE
-	QUESTION... OR NOT!
+	BARRAR O CAMINHO OU
+	NÃO BARRAR: EIS A
+	QUESTÃO... SÓ QUE NÃO!
 	"""
 	keyWait
 		any = false

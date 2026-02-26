@@ -6,9 +6,8 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,where ya goin!?
-	Class isn't over
-	yet!!
+	Aonde é que cê vai, Lan?!
+	A aula ainda não acabou!
 	"""
 	keyWait
 		any = false
@@ -19,8 +18,7 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,one more
-	time!!
+	MegaMan, bora de novo!!
 	"""
 	keyWait
 		any = false
@@ -31,32 +29,31 @@ script 11 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Ya think ya got the
-	hang of the
-	CrossSystem?
+	E aí, acha que
+	pegou o jeito do
+	Sistema Cruzado?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All that's left now
-	is for ya to fine_
-	tune it in battle!
+	Só o que te falta agora
+	é afiar ele lutando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,whenever ya
-	wanna operate
-	HeatMan,
+	Ah, e sempre que
+	você quiser operar
+	o HeatMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just come here and
-	use that comp,OK?
+	é só vir aqui e usar
+	o computador, viu?
 	"""
 	keyWait
 		any = false
@@ -64,8 +61,8 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK! Thank you,
-	Mr.Match!
+	Beleza! Obrigado,
+	Professor Match!
 	"""
 	keyWait
 		any = false
@@ -73,9 +70,9 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Heh,ya treating me
-	like a real teacher
-	is kinda strange...
+	He, ter você me
+	chamando de "professor"
+	é tão esquisito...
 	"""
 	keyWait
 		any = false
@@ -86,32 +83,32 @@ script 12 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Do you think you
-	understand the
-	CrossSystem?
+	E então, acha que
+	você entendeu o
+	Sistema Cruzado?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now you've gotta
-	learn from fighting
-	real battles!
+	O próximo passo é ir
+	pegando mais o jeito
+	em lutas de verdade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Um... Oh,and if you
-	wanna use AquaMan, 
+	Hum... Ah, e, se
+	quiser usar o AquaMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	feel free to operate
-	him from that
-	computer anytime,OK?
+	fique à vontade para
+	operá-lo desse computador
+	sempre que quiser, tá?
 	"""
 	keyWait
 		any = false
@@ -119,8 +116,8 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK! Thank you,
-	Ms.Shuko!
+	Tá! Obrigado,
+	Professora Shuko!
 	"""
 	keyWait
 		any = false
@@ -128,9 +125,8 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Make sure you use
-	the AquaCross 
-	wisely,Lan!
+	Use o AquaCruz com
+	sabedoria, Lan!
 	"""
 	keyWait
 		any = false
@@ -151,14 +147,14 @@ script 50 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Lan Hikari,ya wanna
-	try and battle
-	HeatMan and I?
+	Lan Hikari. Quer
+	encarar o HeatMan
+	e eu numa luta?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It'll be hot!!"
+	"Vai ser QUENTE!!"
 	keyWait
 		any = false
 	clearMsg
@@ -173,7 +169,7 @@ script 50 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -182,7 +178,7 @@ script 50 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -197,9 +193,9 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Don't feel up to
-	it,huh? Come back
-	when yer ready!
+	Não tá a fim agora, é?
+	Bom, volta quando
+	estiver pronto!
 	"""
 	keyWait
 		any = false
@@ -210,20 +206,21 @@ script 51 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Lan,time to heat
-	things up!!
+	Lan, hora desta
+	chapa esquentar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's light it up
-	in a crazy battle!
+	Bora incendiar isto
+	aqui numa NetLuta
+	de arromba!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ya ready for it!?"
+	"Pronto?!"
 	keyWait
 		any = false
 	clearMsg
@@ -238,7 +235,7 @@ script 51 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -247,7 +244,7 @@ script 51 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -262,17 +259,17 @@ script 51 mmbn6 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	The fire in
-	my heart is
-	smolderin...
+	O fogo no meu coração
+	está à temperatura
+	máxima...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright!
-	Just come back when
-	yer ready!!
+	Tudo bem!
+	Volte assim que
+	estiver pronto!!
 	"""
 	keyWait
 		any = false
@@ -301,9 +298,9 @@ script 53 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Hehehe,ya ready!?
-	I'm gonna heat
-	this battle up!!!
+	He he he, tá pronto?!
+	Eu vou esquentar
+	MUITO essa luta!!!
 	"""
 	keyWait
 		any = false
@@ -313,15 +310,14 @@ script 53 mmbn6 {
 	printCurrentNavi
 	"""
 	,
-	give me everything
-	ya got!!
+	vai com tudo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeatMan
-	"Time to burn!!"
+	"Queime! QUEIME!!"
 	keyWait
 		any = false
 	flagSet
@@ -339,8 +335,8 @@ script 54 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Let's set this
-	party on fire
+	Vamos acender uns
+	fogos de artifício,
 	HeatMan!!
 	"""
 	keyWait
@@ -349,8 +345,8 @@ script 54 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'm gonna do my
-	best too!!
+	Eu também não
+	vou pegar leve!!
 	"""
 	keyWait
 		any = false
@@ -358,8 +354,9 @@ script 54 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	"""
-	Time to see why
-	I'm the firestarter!
+	Você vai ver por que
+	me chamam de "risco
+	de incêndio"!
 	"""
 	keyWait
 		any = false
@@ -382,15 +379,15 @@ script 55 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	This time it won't
-	be yer normal
-	HeatMan!!
+	Desta vez, eu não
+	vou usar o HeatMan
+	de sempre!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He can melt metal!!
+	Ele derrete até metal!!
 	HeatMan!!
 	"""
 	keyWait
@@ -401,15 +398,14 @@ script 55 mmbn6 {
 	printCurrentNavi
 	"""
 	,
-	don't drop your
-	guard!!
+	não baixa a guarda!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeatMan
-	"Whoooooaaa!! FLAME!!"
+	"Aaaaaahhhhh!! CHAMAS!!"
 	keyWait
 		any = false
 	flagSet
@@ -433,8 +429,8 @@ script 58 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Whoa. Impressive...
-	All burnt out...
+	Olha só. Impressionante...
+	Fui reduzido a cinzas...
 	"""
 	keyWait
 		any = false
@@ -445,9 +441,9 @@ script 59 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Hehehehe!
-	Don't get burned too
-	bad! Try again!!
+	He he he! Cuidado pra
+	não se queimar demais!
+	Tente de novo!!
 	"""
 	keyWait
 		any = false
@@ -468,21 +464,21 @@ script 60 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Lan,would you
-	like to battle
-	my Navi,AquaMan? 
+	Lan, gostaria de lutar
+	contra o AquaMan, o meu
+	Navi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to become a
-	better NetBattler.
+	Eu quero me tornar uma
+	NetLutadora melhor.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please!"
+	"Por favor!"
 	keyWait
 		any = false
 	clearMsg
@@ -497,7 +493,7 @@ script 60 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -506,7 +502,7 @@ script 60 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -520,7 +516,7 @@ script 60 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Shuko
-	"I see..."
+	"Entendo..."
 	keyWait
 		any = false
 	end
@@ -530,17 +526,17 @@ script 61 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Fight with my
-	Navi,AquaMan? 
+	Luta contra o meu
+	Navi, o AquaMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please!"
+	"Por favor!"
 	keyWait
 		any = false
 	clearMsg
-	"C'mon!? Please!!"
+	"POR FAVOR!!"
 	keyWait
 		any = false
 	clearMsg
@@ -555,7 +551,7 @@ script 61 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -564,7 +560,7 @@ script 61 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -579,8 +575,8 @@ script 61 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Don't say that...
-	It'll make me sad...
+	Não fala isso...
+	Assim, eu fico triste...
 	"""
 	keyWait
 		any = false
@@ -609,9 +605,8 @@ script 63 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	AquaMan, 
-	Show him what you've
-	got!!
+	AquaMan, mostre pra ele
+	do que você é capaz!!
 	"""
 	keyWait
 		any = false
@@ -621,22 +616,21 @@ script 63 mmbn6 {
 	printCurrentNavi
 	"""
 	,
-	Don't underestimate
-	this Navi!!
+	não subestima
+	esse Navi!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use 100% of your
-	power!
+	Usa 100% do seu poder!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SpoutMan
-	"Let's do it,drip!!"
+	"Vamos nessa, xuá!!"
 	keyWait
 		any = false
 	flagSet
@@ -654,9 +648,8 @@ script 64 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	AquaMan, 
-	Show him what you've
-	got!!
+	AquaMan, mostra pra ele
+	do que você é capaz!!
 	"""
 	keyWait
 		any = false
@@ -664,15 +657,15 @@ script 64 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah,show me!
-	C'mon AquaMan! 
+	É, eu quero ver!
+	Vamos lá, AquaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SpoutMan
-	"Here I come,\n"
+	"Aqui vou eu,\n"
 	printCurrentNavi
 	"!!"
 	keyWait
@@ -695,15 +688,17 @@ script 65 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	msgOpen
-	"AquaMan, \nSoak him!!"
+	"""
+	AquaMan, encharque ele!!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'm not gonna get
-	drenched that easy!!
+	Ah, eu não vou deixar
+	assim tão fácil!!
 	"""
 	keyWait
 		any = false
@@ -712,8 +707,8 @@ script 65 mmbn6 {
 		mugshot = SpoutMan
 	printCurrentNavi
 	"""
-	,time for a
-	shower!!
+	, hora
+	de um banho!!
 	"""
 	keyWait
 		any = false
@@ -738,16 +733,17 @@ script 68 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	That's true skill...
-	We've gotta practice
-	and get better!
+	Isso que é habilidade...
+	A gente tem que treinar
+	pra ficar mais forte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then show Lan our
-	improvement!!
+	Daí, vamos mostrar
+	pro Lan e pro MegaMan
+	a nossa evolução!
 	"""
 	keyWait
 		any = false
@@ -758,8 +754,8 @@ script 69 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	We did it! YEAH!!
-	AquaMan is king! 
+	Conseguimos! VIVA!!
+	AquaMan, o rei das águas!
 	"""
 	keyWait
 		any = false
@@ -813,18 +809,18 @@ script 74 mmbn6 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"...Huh? MegaMan!?"
+	"... Hã? MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
-	"Use HeatMan!!"
+	"Usa o HeatMan!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HeatMan is yer
-	LinkNavi!
-	Don't forget it!
+	O HeatMan é o
+	seu NaviElo!
+	Já esqueceu?!
 	"""
 	keyWait
 		any = false
@@ -834,21 +830,21 @@ script 75 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	msgOpen
-	"What is it,MegaMan?"
+	"Hã? O MegaMan?"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Lan!
-	Use AquaMan!! 
+	Use o AquaMan!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AquaMan is your 
-	LinkNavi! You
-	should try him!
+	O AquaMan é o
+	seu NaviElo!
+	Devia usá-lo!
 	"""
 	keyWait
 		any = false
@@ -859,23 +855,22 @@ script 76 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	This doesn't seem
-	like a NetBattle...
+	Isso não seria
+	uma "NetLuta"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Without MegaMan,
-	ya can't battle!
+	Sem o MegaMan, você
+	não tem como lutar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,HeatMan's
-	always ready to
-	be operated!
+	Mas o HeatMan tá sempre
+	pronto pra ser operado!
 	"""
 	keyWait
 		any = false
@@ -886,17 +881,16 @@ script 77 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Without MegaMan
-	it seems you can't
-	NetBattle...
+	Sem o MegaMan, você não
+	tem como NetLutar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But AquaMan is 
-	always ready to be
-	operated!!
+	Mas o AquaMan está
+	sempre pronto para
+	ser operado!!
 	"""
 	keyWait
 		any = false

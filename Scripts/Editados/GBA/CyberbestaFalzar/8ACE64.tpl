@@ -6,22 +6,19 @@ script 0 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Hey! How've you
-	been!?
+	Fala! E aí, como cê tá?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Glad to see you
-	again!
+	É bom te ver de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's give it all
-	we've got!
+	Vamos arrebentar!
 	"""
 	keyWait
 		any = false
@@ -34,22 +31,23 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,nice to see you
-	too!
+	Uhum, é bom te
+	ver de novo também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,um,so what is
-	this ritual thing?
+	Ei, er... O que é esse
+	papo de "ritual"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't like things
-	that hurt...
+	Eu prefiro não ser
+	espetado por lanças
+	nem nada assim...
 	"""
 	keyWait
 		any = false
@@ -62,25 +60,23 @@ script 2 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Nah,it's nothing
-	that's going to hurt
-	you,Lan. After all,
+	Ah, não é nada que vá
+	machucar, não, Lan.
+	Essa é a lei máxima:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	rule number one: if
-	the customer gets
-	hurt,that's bad.
+	"nada é pior do que
+	ferir o freguês".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,I'm not going
-	to tell you what the
-	ritual's about here!
+	Mas, enfim, não vou
+	explicar o ritual aqui.
 	"""
 	keyWait
 		any = false
@@ -93,9 +89,9 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Aww,come on!
-	You gotta tell me!
-	Please!
+	Ah, vai!
+	Coooontaaaa!
+	Por favor!!
 	"""
 	keyWait
 		any = false
@@ -108,32 +104,30 @@ script 4 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Alright,alright.
-	We're gonna be using
-	all of Sky Area.
+	Tá bom, tá bom.
+	A gente vai usar
+	a Área Céu inteira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In Sky Area,there
-	are 4 Totem Poles...
+	Nela, vão ter
+	quatro totens...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're going to
-	operate me,and find
-	these Totem Poles,
+	Você ai me operar pra
+	gente achar esses totens,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and then we're going
-	to go through some
-	trials...
+	daí a gente vai passar
+	por certas provações...
 	"""
 	keyWait
 		any = false
@@ -145,13 +139,13 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"T_Trials..."
+	"P-provações..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna make it
-	through every one!
+	Eu vou passar
+	por todas elas!
 	"""
 	keyWait
 		any = false
@@ -163,11 +157,11 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"That's the spirit!"
+	"Esse é o espírito!"
 	keyWait
 		any = false
 	clearMsg
-	"Chop,chop,let's go!"
+	"Bom, não vamos\nperder tempo!"
 	keyWait
 		any = false
 	end

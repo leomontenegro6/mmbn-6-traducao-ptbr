@@ -6,30 +6,29 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Umm,can you teach me
-	that neat move you
-	did at school?
+	Er, pode me ensinar
+	aquela técnica legal que
+	o senhor fez na escola?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = FengTian
-	"Ho,ho,ho,ho!"
+	"Ho ho ho ho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That would depend on
-	you.
+	Só depende de você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I teach the art of
-	moving silently and
-	quick like the wind.
+	Eu ensino a arte de se
+	mover silenciosa e
+	rapidamente, como o vento.
 	"""
 	keyWait
 		any = false
@@ -37,8 +36,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Moving like
-	the wind...
+	Se mover como o vento...
 	"""
 	keyWait
 		any = false
@@ -46,51 +44,51 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	"""
-	Use my Navi,
-	TenguMan for this
-	class.
+	Use o meu Navi,
+	o TenguMan, nesta aula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He will help you
-	master all I have
-	to teach you.
+	Ele lhe ajudará a
+	dominar tudo o que
+	eu tenho a ensinar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TenguMan waits in
-	this book of nature.
+	O TenguMan estará
+	esperando neste
+	livro sobre a natureza.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Operate TenguMan
-	and start our class!
+	Opere-o para começarmos
+	nossa aula!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ho,ho,ho,ho!"
+	"Ho ho ho ho!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Master Feng_Tian's
-	Navi...
+	O Navi do Mestre
+	Feng-Tian...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what kind
-	of Navi he will be?
+	Que tipo de Navi
+	será que ele é?
 	"""
 	keyWait
 		any = false

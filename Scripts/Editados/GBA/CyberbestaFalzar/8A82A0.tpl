@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,got all 4!!"
+	"Beleza, peguei os quatro!!"
 	keyWait
 		any = false
 	clearMsg
@@ -17,8 +17,8 @@ script 1 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Yes! And you are
-	getting better!
+	Sim! E você está
+	se aprimorando!
 	"""
 	keyWait
 		any = false
@@ -30,20 +30,20 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	msgOpen
-	"Ho,ho,ho,ho!"
+	"Ho ho ho ho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your final test
-	waits for you now...
+	Agora, sua prova
+	final lhe aguarda...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack out and
-	face it!
+	Desconecte-se
+	para encará-la!
 	"""
 	keyWait
 		any = false
@@ -56,15 +56,14 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is it __
-	the final test...
+	É isso, então...
+	A prova final...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd better
-	calm down!
+	É só eu manter a calma!
 	"""
 	keyWait
 		any = false

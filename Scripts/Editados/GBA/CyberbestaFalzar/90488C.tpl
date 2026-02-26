@@ -295,32 +295,35 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"...I got a poem!"
+	"... Pensei num poema!"
 	keyWait
 		any = false
 	clearMsg
-	"\"Higsby's\n Always closed..."
+	"""
+	"Loja do Higsby
+	Sempre fechada, ela...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Even the squirrel\n is lonely.\""
+	"O esquilo, só.\""
 	keyWait
 		any = false
 	clearMsg
-	"...How was it?"
+	"... O que achou?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Best so far..."
+	"Foi o melhorzinho\naté agora..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That squirrel sure
-	makes lonely faces
-	doesn't it!?
+	Aquele esquilo
+	realmente parece
+	super sozinho, né?!
 	"""
 	keyWait
 		any = false
@@ -328,8 +331,8 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I knew it was a good
-	one!
+	Rá!
+	Sabia que esse era bom!
 	"""
 	keyWait
 		any = false
@@ -339,39 +342,42 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ahhhheemmm...."
+	"Ca-heeeeem..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd like to read a
-	poem that drifts in
-	the air...
+	Gostaria de recitar
+	um poema que paira
+	no ar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"I don't know where\n my old chips are"
+	"""
+	"Cadê meus chips?
+	Não consigo achar eles
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" I asked Dad...\n I asked Mom...\""
+	"Papai...? Mamãe? Não!\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hahahaha!
-	That was great...
+	Ha ha ha ha!
+	Foi ótimo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And true... I have
-	no clue where my old
-	chips are stashed!
+	Real, né... Nem sei
+	onde os meus antigos
+	chips tão guardados!
 	"""
 	keyWait
 		any = false
@@ -382,23 +388,26 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'll sing into the
-	lonely wind of ACDC
-	Town!
+	Cantarei para o
+	solitário vento
+	do Bairro ACDC!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Higsby's\n Chip Trader\n is too big!\""
+	"""
+	"O Troca-Chips
+	Do Higsby é tão grande!
+	Demais, demais, sim!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Now that you mention
-	it... It is a bit
-	too big...
+	Agora que cê falou...
+	Ele é...?
 	"""
 	keyWait
 		any = false
@@ -409,27 +418,31 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wrote a poem about
-	everyday problems...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"\"I have no dog\n So why is there\n a doghouse here?\""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	A while ago,there
-	was a doghouse at
-	your house...but
+	Criei um poema para
+	problemas cotidianos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there was no dog!
-	Why? C'mon... Why?
+	"Eu nem tenho cão
+	Então por que eu tenho
+	Uma casinha?"
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tinha uma casinha de
+	cachorro na nossa
+	antiga casa...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas nenhum cachorro!
+	Por quê?! Por... por quê?!
 	"""
 	keyWait
 		any = false
@@ -437,8 +450,8 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	That was to scare
-	away burglars!
+	Já esqueceu?!
+	Era pra espantar ladrões!
 	"""
 	keyWait
 		any = false
@@ -449,21 +462,25 @@ script 14 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This poem is for
-	ACDC Town!
+	Este poema é para
+	o Bairro ACDC!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"ACDC\n A town without cars\n and too many roads\""
+	"""
+	"ACDC, sim
+	Bairro sem carros, porém
+	Tantas estradas"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	There are cars out
-	there sometimes!
+	Ei! De vez em quando,
+	passa carro lá, sim!
 	"""
 	keyWait
 		any = false
@@ -474,21 +491,24 @@ script 15 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The enjoyable days
-	spent in ACDC...
+	Os divertidos dias
+	que passamos em ACDC...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I will
-	recite a poem about
-	it...
+	Acho que vou recitar
+	um poema sobre eles...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Ahh that time...\n How I long for\n those fun days\""
+	"""
+	"Ahh, esses dias...
+	Queria tanto poder
+	Voltar a eles!"
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -496,7 +516,7 @@ script 15 mmbn6 {
 		mugshot = Lan
 	"""
 	Ahhhhhh...
-	Me too...
+	Eu também...
 	"""
 	keyWait
 		any = false
@@ -528,27 +548,31 @@ script 20 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you're here!
-	I had a light bulb
-	of inspiration...
+	Lan, olha só você!
+	Eu tive um surto de
+	inspiração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"And a poem was born!"
+	"e dele nasceu um poema!"
 	keyWait
 		any = false
 	clearMsg
-	"\"Don't you know?\n Lan always has\n the newest PET!\""
+	"""
+	"Não sabia, não?
+	O PET do Lan sempre
+	É o mais novo!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Haha! But now that
-	you mention it,
-	it's true!
+	Ha ha! Hm, agora que
+	cê falou, é verdade...
+	Por que será?
 	"""
 	keyWait
 		any = false
@@ -559,31 +583,36 @@ script 21 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The feeling of the
-	expanding city in
-	Central Town has
+	O sentimento da
+	cidade se expandindo
+	do Bairro Central
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	been captured in a
-	poem by yours truly!
+	foi capturado em um poema
+	por este que vos fala!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Are the neighbors\n next door rich?"
+	"""
+	"Vizinhos ricos?
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Because they have\n a pool in the back\""
+	"""
+	Pois vi que eles possuem
+	Piscina atrás"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Really?"
+	"Pera, é sério?"
 	keyWait
 		any = false
 	end
@@ -593,51 +622,54 @@ script 22 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I have created a
-	poem to express to
+	Criei um poema para
+	expressar ao mundo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the world the life
-	inside of a PET!!
+	como é a vida
+	dentro de um PET!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The Hikari house\n has a veranda"
+	"""
+	"Os Hikari têm
+	Uma varanda, só que
+	Uma sem porta
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" But there\n is no door"
-	keyWait
-		any = false
-	clearMsg
-	" That's why you\n leave through\n the window!\""
+	"""
+	E é por isso que
+	O jeito lá é sair
+	Pela janela"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ahh,that's just how
-	it is...
+	Ahh, é bem assim mesmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But what's up with
-	the weird poems?
+	Mas qual é a desses
+	poemas esquisitos, hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lemme guess...they
-	are part of the
-	poetic world?
+	Deixa eu adivinhar...
+	É porque eles "põem mais"
+	alegria no mundo?
 	"""
 	keyWait
 		any = false
@@ -648,20 +680,24 @@ script 23 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I want you hear this
-	poem... It comes
-	right from my heart.
+	Quero que ouça este
+	poema... Ele vem do
+	fundo do meu coração.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"I don't wanna jack\n in to the bathroom.\n So don't make me!\""
+	"""
+	"Não me conecte
+	A uma privada, meu!
+	Isso é tão cruel!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Don't get so upset!"
+	"Ah, isso faz tempo!\nSupera, cara!"
 	keyWait
 		any = false
 	end
@@ -671,26 +707,30 @@ script 24 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A poem for the
-	LevBus...
+	Um poema pro
+	Ônibus Magnético...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"It's strange...\n Running in midair"
+	"""
+	"É tão estranho
+	Correr pelos céus assim
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" I see the future.\n It's the LevBus\""
+	"""
+	É o futuro?"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah,you do kinda
-	feel the future,
-	don'tcha?
+	É, realmente parece a
+	imagem do futuro, né não?
 	"""
 	keyWait
 		any = false
@@ -701,27 +741,30 @@ script 25 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I made a poem about
-	a memory of mine for
-	Central Town...
+	Eu fiz um poema sobre
+	uma memória minha no
+	Bairro Central.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The Bird Statue\n Isn't it huge?"
+	"""
+	"A Estátua do
+	Pássaro é tão enorme!
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Maybe it's even\n Bigger than Mick!?\""
+	"Maior que o Mick?!\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,don't worry
-	about stuff like
-	that!
+	Cuidado pra ele não
+	te ouvir falar isso,
+	MegaMan...
 	"""
 	keyWait
 		any = false
@@ -757,31 +800,34 @@ script 30 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I wrote a poem about
-	the studious aura
-	around the school!
+	Eu escrevi um poema
+	sobre a aura estudiosa
+	que envolve a escola!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"All the classmates\n at school look\n the same..."
+	"""
+	"Em ACDC
+	E na Saibher, os mesmos
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" ACDC School\n and Cyber Academy\""
+	"Alunos vejo\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"You think so?"
+	"Cê acha mesmo?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I can tell
-	the difference
-	between everybody!
+	Porque eu consigo
+	diferenciar todo
+	mundo de boa!
 	"""
 	keyWait
 		any = false
@@ -793,35 +839,38 @@ script 31 mmbn6 {
 	msgOpen
 	"""
 	Ahhhh!
-	This smell!
+	Esse aroma!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It inspired me to
-	write a poem!
+	Ele me inspirou a
+	escrever um poema!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Mop on the floor\n Near the spout\n Smells like milk!\""
+	"""
+	"Limpe o chão, cara
+	Isso aqui tá fedendo a
+	Leite vencido!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Man,it does smell
-	awful...
+	Cara, o cheiro é
+	horrível mesmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But not enough to
-	write a poem about
-	it!
+	Mas tinha mesmo que
+	render um poema?
 	"""
 	keyWait
 		any = false
@@ -829,22 +878,22 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	But I am trying to
-	write poems about
-	everyday things!
+	Estou tentando
+	enxergar liricismo
+	nas coisas cotidianas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Like mops?"
+	"Tipo leite vencido?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah.Like mops."
+	"É, tipo leite vencido."
 	keyWait
 		any = false
 	end
@@ -854,30 +903,33 @@ script 32 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ahh,I am soaked to
-	the bone with
-	inspiration!
+	Ahh, eu tô enxarcado
+	de inspiração!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So I wrote a poem!"
+	"Daí, fiz um poema!"
 	keyWait
 		any = false
 	clearMsg
-	"\"Did you know\n Colors of Hallways"
+	"""
+	Os corredores
+	Suas cores diferem
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" 2nd Floor White\n 1st Floor Yellow\""
+	"Branco e amarelo\"...\nAck!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Actually,I did know
-	that! Strange,huh?
+	Pior que eu também
+	reparei! É tão
+	estranho, né?
 	"""
 	keyWait
 		any = false
@@ -885,8 +937,9 @@ script 32 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I don't think it is
-	strange,myself...
+	É-é, né...?
+	(Que bom que ele não
+	notou o meu deslize!)
 	"""
 	keyWait
 		any = false
@@ -897,25 +950,27 @@ script 33 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A poem about the
-	classroom camera...
+	Um poema sobre a
+	câmera da sala de aula...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The camera shows\n sleeping students\n so perfectly..."
+	"""
+	"A câmera vê
+	Alunos dorminhocos
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" How long will they\n sleep?\""
+	"Não vão acordar?\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hey! I don't sleep
-	in class!
+	Aí! Eu não durmo na aula!
 	"""
 	keyWait
 		any = false
@@ -923,8 +978,8 @@ script 33 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I didn't say you...
-	Sleepyhead!
+	Eu nem falei que era
+	você... dorminhoco!
 	"""
 	keyWait
 		any = false
@@ -935,25 +990,28 @@ script 34 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A poem for the foyer
-	of Cyber Academy...
+	Um poema pra entrada
+	da Escola Saibher...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"I don't see\n the janitor often"
+	"""
+	"Eu nunca vejo
+	O suposto zelador
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" is he really\n always there?\""
+	"Existe mesmo?\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yep! He's there!
-	Definitely there!
+	Existe! Ele tá lá!
+	Eu garanto que ele tá!
 	"""
 	keyWait
 		any = false
@@ -965,20 +1023,24 @@ script 35 mmbn6 {
 	msgOpen
 	"""
 	Ahhh...
-	Sweet inspiration!
+	Doce inspiração!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"So many cute faces\n The Security Bots\n at Cyber Academy!\""
+	"""
+	"Rostinhos fofos
+	Nos robôs que protegem
+	A Escola Saibher!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	But if you make them
-	mad... Look out!!
+	Mas quando eles se
+	irritam... Sai de baixo!!
 	"""
 	keyWait
 		any = false
@@ -1010,39 +1072,42 @@ script 40 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Read this poem,Lan!
-	I just finished it!
+	Olha só este poema, Lan!
+	Acabei de terminar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Honestly\n It's depressing"
+	"""
+	"Que frustrante é
+	Tentar avançar lá na...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Hard to go forward\n The SeasideArea\""
+	"Área Beira-Mar\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Stepping on that
-	one_way panel...
+	Pisar naqueles
+	paineis-esteira...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just thinking about
-	it makes me mad!!
+	Só de pensar neles,
+	eu fico irritado!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Right?!?"
+	"Né?!?"
 	keyWait
 		any = false
 	end
@@ -1052,53 +1117,49 @@ script 41 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wrote a poem about
-	the smell that
+	Escrevi um poema sobre
+	um cheiro que atiça os
+	nossos narizes na praia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tickles your nose
-	on the beach...
+	"Grito para o mar!
+	Frustrações na beira-mar
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Idiot!\n Shouted\n At the Seaside"
-	keyWait
-		any = false
-	clearMsg
-	" It disappears\n in the waves...\n Tickling you...\""
+	"Some pelo ar...\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I see..."
+	"Ah, saquei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Usually you try and
-	hold it in,but it's
-	really stressful!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	So screaming at the
-	sea to get rid of
-	stress is great...
+	A gente sempre tenta
+	segurar as coisas que
+	frustam a gente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even though it's
-	really not that big
-	of a deal...
+	então gritar pro mar
+	é um bom jeito de
+	aliviar estresse...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se bem que eu não tenho
+	nenhum estresse assim.
 	"""
 	keyWait
 		any = false
@@ -1106,34 +1167,31 @@ script 41 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Don't worry about
-	it,Lan.
+	Não se acanhe, Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The sea has the
-	power to clear the
-	soul...
+	O oceano tem o poder
+	de limpar a alma...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So let's scream
-	together!
+	Então vamos gritar juntos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"IDIOT!!"
+	"AAAAAHHHHHH!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I...IDIOT!!"
+	"A... Aaaahhh!!"
 	keyWait
 		any = false
 	end
@@ -1143,44 +1201,51 @@ script 42 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The sea sure is
-	nice...
+	O mar é tão lindo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The salty breeze...
-	It pulls at your
-	heartstrings...
+	A brisa salgada...
+	Ela mexe no coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So I wrote a poem!"
+	"Rendeu um poema!"
 	keyWait
 		any = false
 	clearMsg
-	"\"The Seaside\n And its beautiful\n Aquarium"
+	"""
+	"Esse Beira-Mar
+	E seu lindo Aquário, sim
+	Tão formosos são
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Current events\n are very bad\n and no one's here.\""
+	"""
+	Devido às coisas
+	Está tudo vazio.
+	Muito tenso, viu?"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Haha...yeah,no one
-	is here,huh...
+	Ha ha... É, tá
+	deserto aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it's not because
-	of the salty breeze!
+	Mas isso não tem nada a
+	ver com a brisa salgada,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -1191,27 +1256,29 @@ script 43 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A poem for the
-	turtles at the
-	Aquarium...
+	Um poema para as
+	tartarugas do Aquário...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"A hare runs a\n 1000 miles.\n You walk 10000."
+	"""
+	"A lebre é veloz
+	Mas sua vida é longa
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" But can you really\n go that far?\""
+	"Alcança dez mil?\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	They don't live THAT
-	long! But it's nice
-	to dream!
+	Tartaruga não vive
+	TANTO tempo assim!
+	... Eu acho...
 	"""
 	keyWait
 		any = false
@@ -1222,44 +1289,48 @@ script 44 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There are lots of
-	places to inspire me
-	in Seaside Town...
+	Tem tantos lugares
+	inspiradores no
+	Distrito Beira-Mar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One inspired this
-	poem!
+	Um deles inspirou
+	este poema!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Inside a fat whale\n you can find a\n fat Director!\""
+	"""
+	"Nessa baleia
+	Acha-se um Diretor
+	Que é bem cheinho!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah,he is a bit
-	plump,huh?
+	É, ele é meio
+	gorduchinho, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BusinessMan
-	"I'm not \"plump\"!"
+	"\"Gorduchinho\" é a mãe!"
 	wait
 		frames = 50
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	....What!?
-	He can hear us!?
+	... Ué?!
+	Ele pode ouvir a gente?!
 	"""
 	keyWait
 		any = false
@@ -1267,8 +1338,8 @@ script 44 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Nope... It's got to
-	be your imagination!
+	Não... Só pode ter
+	sido imaginação sua!
 	"""
 	keyWait
 		any = false
@@ -1279,27 +1350,30 @@ script 45 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Did you know this
-	story about
-	Seaside Town...
+	Você já ouviu esta
+	história do Distrito
+	Beira-Mar...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Plata the Penguin\n Oh,how he tries\n to get away..."
+	"""
+	"Plata, o Pinguim
+	Tenta tanto fugir, viu?
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" But he can never\n say goodbye...\""
+	"Mas nunca cola...\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Awww. I miss Plata!
-	I wonder what he is
-	doing now...
+	Ahhh... Saudades do
+	Plata! Como será que
+	ele tá agora...?
 	"""
 	keyWait
 		any = false
@@ -1331,47 +1405,51 @@ script 50 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ahh,the fresh air
-	of Green Town...
+	Ah, o ar fresco
+	do Distrito Verde...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It lights my passion
-	for writing like
-	only Green Town can!
+	Incendeia a minha
+	paixão para escrever
+	como só ele faz!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Catching fish\n Catching criminals\n Both are judged\""
+	"""
+	"Pegar uns peixes
+	Pegar bandidos, tudo
+	É julgamento"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Well done..."
+	"Mandou bem..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're getting
-	better at this!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But it's funny that
-	a song inspired by
+	Aliás, cê tá
+	melhorando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the breeze was
-	about fish!
+	Mas é engraçado que um
+	haikai inspirado no ar
+	fresco das árvores
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	tenha sido sobre peixes!
 	"""
 	keyWait
 		any = false
@@ -1382,26 +1460,28 @@ script 51 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The Minus Ions
-	inspired a poem!
+	Os íons negativos
+	inspiraram um poema!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Still here...\n Same mistakes\n Same place"
+	"""
+	"Ah, voltei pra cá...
+	Na Área Verde, é tão
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Hard to remember\n Green Area\""
+	"Confuso rodar\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hmmm... I guess...
-	You must mean over
-	there...
+	Hmmm... Realmente...
+	Dá pra se perder...
 	"""
 	keyWait
 		any = false
@@ -1412,22 +1492,25 @@ script 52 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,I wrote a great
-	poem to express the
-	Green Town's beauty!
+	Lan, fiz um ótimo
+	poema pra expressar a
+	beleza do Distrito Verde!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Beautiful Weather\n A Courthouse\n Lots of insects\""
+	"""
+	"Que clima lindo!
+	O tribunal se enche
+	De insetos chatos"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Can't argue with
-	that!
+	Falou e disse!
 	"""
 	keyWait
 		any = false
@@ -1438,28 +1521,31 @@ script 53 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wrote a poem about
-	a question I have
-	about the law...
+	Escrevi um poema sobre
+	uma dúvida que eu tenho
+	sobre o direito...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Borrow a cookie\n Never to return\n Guilty or Innocent\""
+	"""
+	Pegar brinquedo
+	Emprestado pra ficar...
+	Seria crime?"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it's guilty you
-	better watch out!
-	They'll catch you!
+	Se for, é bom ficar
+	esperto! Vão te pegar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"No they won't!!"
+	"Nunca!!"
 	keyWait
 		any = false
 	end
@@ -1469,22 +1555,26 @@ script 54 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This one's about the
-	first time I saw a
-	Punishment Robot...
+	Este aqui é sobre a
+	primeira vez que vi
+	um Robô de Punição...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Punishment Robots\n look just like\n Security Bots\""
+	"""
+	"Esses robôs são
+	Iguaizinhos aos Robôs
+	de Segurança"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	They do look exactly
-	the same!!
+	Nossa, verdade!
+	São idênticos!!
 	"""
 	keyWait
 		any = false
@@ -1493,20 +1583,20 @@ script 54 mmbn6 {
 	msgOpen
 	soundDisableTextSFX
 	controlLock
-	"*BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP,"
+	"BIP "
 	soundPlay
 		track = 205
 	wait
 		frames = 40
-	"BEEP"
+	"BIP"
 	soundPlay
 		track = 205
-	"!!*"
+	"!!"
 	wait
 		frames = 40
 	soundEnableTextSFX
@@ -1516,7 +1606,7 @@ script 54 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"What's that sound!?"
+	"Que barulho foi esse?!"
 	keyWait
 		any = false
 	end
@@ -1526,25 +1616,28 @@ script 55 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A poem about
-	punishment...
+	Um poema sobre
+	sentenças...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Breaking the law\n Monumentally dumb"
+	"""
+	"Quebrar nossa lei
+	Tamanha idiotice...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Only shock awaits\n Punishment Room\""
+	"Lá vem o choque!\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	The shock treatment
-	is really scary!!
+	O "tratamento de choque"
+	é sinistro mesmo!!
 	"""
 	keyWait
 		any = false
@@ -1576,33 +1669,37 @@ script 60 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The gentle breeze of
-	Sky Town inspired a
-	new poem...
+	A brisa suave
+	do Distrito Céu
+	inspirou um poema...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The air in Sky Town\n Very very thin..."
+	"""
+	"O ar daqui é
+	Rarefeito até demais...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" But everyone's fine\n other than Lan...\""
+	"Digo, pro Lan, né?\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	*whew* I'm fine!
-	I can keep up!!
+	Uff... Arf...
+	E-eu tô bem!!
+	Eu dou conta de correr!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Really! I'm not
-	lying!!
+	É sério!
+	Não tô mentindo, não!!
 	"""
 	keyWait
 		any = false
@@ -1613,30 +1710,34 @@ script 61 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey Lan,
-	I just wrote a poem,
-	wanna hear it?
+	Ei, Lan. Acabei de
+	escrever um poema.
+	Escuta só.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"If Sky Town moves\n the elevator\n will break\""
+	"""
+	"Ei, se o Distrito
+	Céu sai do lugar, quebra
+	O elevador, né?"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	That's true!
-	I wonder how they'd
-	fix that...
+	Nossa, verdade!
+	Como será que daria
+	pra consertarem isso?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah...me too..."
+	"É...\nPensei nisso também..."
 	keyWait
 		any = false
 	end
@@ -1646,38 +1747,46 @@ script 62 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The sky in Sky Town
-	whispered this poem
-	to me...
+	O céu do Distrito Céu
+	sussurrou este
+	poema para mim...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Sky Town\n City in the sky\n Flashy to the end"
+	"""
+	"O Distrito Céu
+	Chamativo e aéreo
+	Reino celeste
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Sky Town Homepage\n Simple Antenna\""
+	"""
+	Dá pra acreditar
+	Que a página é em uma
+	Antena comum?"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Exactly!!"
+	"Pois é!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've always thought
-	the same thing!!
+	Eu sempre pensei
+	a mesma coisa!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's like something
-	from a regular
-	Operator's Room!
+	A gente esperaria
+	só um cyberespaço
+	normal de antenas!
 	"""
 	keyWait
 		any = false
@@ -1688,26 +1797,28 @@ script 63 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wrote a poem
-	about fear in
-	Sky Town...
+	Escrevi um poema
+	sobre ter medo no
+	Distrito Céu...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"You have to be\n careful not to fall\n from tall places..."
+	"""
+	"Cuidado pra não
+	Cair de tão alto assim...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" My legs won't\n stop shaking...\""
+	"As pernas tremem...\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah... I know how
-	you feel!
+	É... Sei bem como é isso!
 	"""
 	keyWait
 		any = false
@@ -1718,26 +1829,30 @@ script 64 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I want to try being
-	a weatherman once...
+	Quero tentar ser
+	meteorologista uma
+	vez na vida...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So I made this poem!"
+	"Daí, este poema!"
 	keyWait
 		any = false
 	clearMsg
-	"\"In my world\n the weather is\n always sunny!\""
+	"""
+	"Num mundo só meu
+	Seria sempre tempo
+	Ensolarado!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah,but then
-	there'd be a water
-	shortage!!
+	É, mas, aí, ia faltar
+	água pro mundo!!
 	"""
 	keyWait
 		any = false
@@ -1748,13 +1863,17 @@ script 64 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"\"In my world\n it would rain\n once a week!\""
+	"""
+	"Num mundo só meu
+	Choveria uma vez
+	Por semana, tá?"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"That's perfect!"
+	"Perfeito!"
 	keyWait
 		any = false
 	end
@@ -1764,30 +1883,33 @@ script 65 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The white clouds you
-	can see from Sky
-	Town inspired me...
+	As nuvens brancas que
+	dá para ver do Distrito
+	Céu me inspiraram...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"That Cloud\n Where will it go?"
+	"""
+	"Aquela nuvem
+	Será que tem destino?
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" A far of land...\n An unknown land...\""
+	"Terra distante...\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	" Romantic,huh..."
+	"Romântico, hein...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Romantic,indeed..."
+	"Romântico, sim..."
 	keyWait
 		any = false
 	end
@@ -1818,20 +1940,24 @@ script 70 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I was inspired by
-	the Expo Site...
-	So I wrote a poem!
+	Eu fiquei inspirado pela
+	Área da Exposição...
+	E escrevi um poema!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The Expo Presents\n Future Dreams with\n Bad Mascots...\""
+	"""
+	"Esta Exposição
+	Tem sonhos e mascotes
+	Feios de morrer..."
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"*sigh*"
+	"Pfff..."
 	keyWait
 		any = false
 	end
@@ -1845,37 +1971,43 @@ script 71 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	I just remembered
-	this poem...
+	Acabei de lembrar
+	deste poema...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"New Moves\n You're Waiting"
+	"""
+	"As técnicas mais novas
+	Que você nem espera
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Everyone Gathers\n Expo Site\""
+	"""
+	Venha pra Exposição!
+	Reúna a galera!"
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"How was it?"
+	"O que achou?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	It's more commercial
-	than poem,don't you
-	think?
+	Não foi um haikai...
+	E não foi mais um
+	comercial que um poema?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"...I think so too."
+	"... Verdade, né?"
 	keyWait
 		any = false
 	end
@@ -1885,29 +2017,33 @@ script 72 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	All of a sudden
-	a poem just came to
-	me! Here it is!
+	De repente, um poema
+	me veio na cabeça!
+	Aqui vai!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The truth is\n The Expo Site\n Is even bigger!\""
+	"""
+	"Ah, na verdade
+	A Área da Exposição
+	Tem mais coisa, uau!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	What are you talking
-	about!?
+	Que papo é esse?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Expo Site is
-	already huge!!
+	A Área da Exposição
+	não já tá grande o
+	bastante, não?!
 	"""
 	keyWait
 		any = false
@@ -1915,9 +2051,9 @@ script 72 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah... I guess...
-	I wonder why I came
-	up with that poem.
+	É... Verdade...
+	Nem sei por que
+	pensei nesse poema.
 	"""
 	keyWait
 		any = false
@@ -1928,25 +2064,29 @@ script 73 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A poem about the
-	Expo management...
+	Um poema sobre o
+	gerenciamento da
+	Exposição...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Taxes for the Expo\n Very very high..."
+	"""
+	"Impostos altos
+	Demais nessa Exposição...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" So make sure to get\n your money's\n worth!\""
+	"Faça valer, né?!\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	You gotta think
-	positive,MegaMan!
+	"Quem converte não
+	diverte", MegaMan!
 	"""
 	keyWait
 		any = false
@@ -1957,23 +2097,27 @@ script 74 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Speaking of Expo,
-	I wonder about that
-	certain person...
+	Falando na Exposição,
+	eu tô encucado sobre
+	uma certa pessoa...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The Old Expo\n sponsor...\n Where is he?\""
+	"""
+	Aquele velho
+	Patrocinador dela...
+	Onde ele tá, hein?\"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Mayor Cain...?
-	Maybe Green Town's
-	Punishment Room?
+	O Prefeito Cain...?
+	Na Cela de Punição do
+	Distrito Verde, não?
 	"""
 	keyWait
 		any = false
@@ -1984,32 +2128,40 @@ script 75 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The poem you've all
-	been waiting for...
-	The Expo Poem!
+	E, agora, o poema pelo
+	qual todos esperam...
+	O Poema da Exposição!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The Expo...\n Everyone's excited\n What will happen?\""
+	"""
+	"Esta Exposição...
+	Todos tão animados
+	O que vai rolar?"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"...ummm..."
+	"... Hummm..."
 	keyWait
 		any = false
 	clearMsg
-	"\"Everyone will see\n the future of man!\""
+	"""
+	"Todos veremos
+	O futuro da nossa
+	Humanidade!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Hahahaha!
-	Nice one,Lan!
+	Aaaaahh!
+	Boa, Lan!
 	"""
 	keyWait
 		any = false
@@ -2020,9 +2172,9 @@ script 80 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,I can usually
-	write a poem... But
-	not around here...
+	Lan, sei que eu costumo
+	escrever poemas...
+	Mas, aqui, não...
 	"""
 	keyWait
 		any = false

@@ -6,48 +6,47 @@ script 0 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	That was pretty
-	cool,Lan!
+	Isso foi incrível, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In battles,you need
-	to be able to flow
-	with the current,
+	Em uma batalha,
+	é preciso ser capaz de
+	seguir com a correnteza,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but you also need
-	to have the strength
-	of a storm at sea!
+	mas também ter
+	a força de uma
+	tempestade marítima!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it looks like I
-	didn't have to teach
-	you that after all!
+	Mas parece que eu nem
+	precisava te ensinar
+	isso, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright! This ends
-	your final exam!
-	You pass!
+	Certo! Isso conclui
+	a sua prova final!
+	Você passou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	From now on,AquaMan 
-	will be one of your
-	LinkNavis!
+	De agora em diante, o
+	AquaMan vai ser um dos
+	seus NavisElo!
 	"""
 	keyWait
 		any = false
@@ -63,7 +62,10 @@ script 1 mmbn6 {
 		value = 1
 	soundPlay
 		track = 143
-	"AquaMan became \nLan's LinkNavi!"
+	"""
+	AquaMan se tornou
+	NaviElo do Lan!
+	"""
 	waitOWVar
 		variable = 0
 		value = 2
@@ -81,9 +83,9 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah!!......
-	Uh,Shuko,
-	what's a LinkNavi?
+	Legal!! ......
+	Er, Shuko, que é
+	que é um NaviElo?
 	"""
 	keyWait
 		any = false
@@ -91,25 +93,24 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Um...
-	Well,to put it
-	simply...
+	Er...
+	Bom, explicando por cima...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you understand
-	AquaMan about as 
-	well as MegaMan now,
+	você entende o AquaMan
+	quase tão bem quanto o
+	MegaMan agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so you can feel free
-	to operate AquaMan 
-	any time you want!
+	então pode ficar à
+	vontade pra operar o
+	AquaMan quando quiser!
 	"""
 	keyWait
 		any = false
@@ -117,68 +118,66 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I can operate
-	AquaMan? Any time? 
+	Eu posso operar
+	o AquaMan?
+	Quando eu quiser?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Shuko
-	"Yup..."
+	"Aham..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've earned the
-	right.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Because of my class,
-	you've learned how
-	to operate AquaMan, 
+	Você conquistou o direito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and the basics of
-	how to control
-	water.
+	Graças à minha aula,
+	você aprendeu a operar
+	o AquaMan 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,you also
-	learned one more
-	thing...
+	e o básico de como
+	controlar a água.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Because you've
-	learned how to
-	control water,
+	Aliás, você também
+	aprendeu uma coisinha
+	a mais...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AquaMan's skills 
-	should have found
-	a nice home inside
+	Como você aprendeu
+	a controlar a água,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan as
-	AquaCross!! 
+	as habilidades do
+	AquaMan devem ter se
+	abrigado confortavelmente
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	dentro do MegaMan
+	como a AquaCruz!! 
 	"""
 	keyWait
 		any = false
@@ -191,22 +190,22 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan's got
-	AquaMan's skills? 
+	O MegaMan ganhou as
+	habilidades do AquaMan? 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can I really learn
-	that kind of power?
+	Eu posso mesmo aprender
+	esse tipo de poder?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	'Cause I don't feel
-	any different...
+	Porque não tô sentindo
+	nenhuma diferença...
 	"""
 	keyWait
 		any = false
@@ -218,14 +217,14 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	msgOpen
-	"... Yeah,"
+	"... Pode, sim,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and that's why maybe
-	you should try it
-	for yourself!
+	e talvez por isso mesmo
+	seja bom experimentar
+	por conta própria!
 	"""
 	keyWait
 		any = false
@@ -238,9 +237,9 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Um,I guess I'd
-	like to see what
-	kind of power...
+	... Hum, acho que eu
+	quero, sim, ver que
+	tipo de poder é esse...
 	"""
 	keyWait
 		any = false
@@ -253,8 +252,8 @@ script 6 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Well then,let's give
-	it a try!
+	Bom, então vamos
+	experimentar!
 	"""
 	keyWait
 		any = false
@@ -266,11 +265,11 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!"
+	"Tá bom!"
 	keyWait
 		any = false
 	clearMsg
-	"You ready,MegaMan?"
+	"Pronto, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -281,7 +280,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah,I'm all set!"
+	"Aham, tudo certo aqui!"
 	keyWait
 		any = false
 	clearMsg
@@ -293,9 +292,8 @@ script 9 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	OK! Ready...
-	Set...
-	Go!!
+	OK! Preparar, e...
+	vai!!
 	"""
 	keyWait
 		any = false

@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Drip,drip..."
+	"Xuá, xuá..."
 	keyWait
 		any = false
 	clearMsg
@@ -16,7 +16,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are you OK,AquaMan? "
+	"Tudo bem aí, AquaMan? "
 	keyWait
 		any = false
 	clearMsg
@@ -28,16 +28,16 @@ script 2 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Drip,drip...
-	I guess I'm OK,but
+	Xuá, xuá...
+	Acho que eu tô bem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	all the fish we
-	caught in this area
-	got away,drip...
+	mas todos os peixes que
+	a gente pegou nesta
+	área fugiram, xuá...
 	"""
 	keyWait
 		any = false
@@ -48,8 +48,8 @@ script 5 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	I'm getting a little
-	tired,drip.
+	Eu tô começando a ficar
+	meio cansado, xuá.
 	"""
 	keyWait
 		any = false
@@ -60,8 +60,8 @@ script 6 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	My legs are getting
-	really tired,drip...
+	As minhas pernas tão
+	super cansadas, xuá...
 	"""
 	keyWait
 		any = false
@@ -72,8 +72,8 @@ script 7 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Ah,I can't swim
-	any more,drip...
+	Ah, eu não aguento
+	mais nadar, xuá...
 	"""
 	keyWait
 		any = false
@@ -84,123 +84,117 @@ script 8 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	It's up to you,
-	Lan,drip!
+	Agora é com você, Lan, xuá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The fish data are
-	mostly swimming
-	up overhead,drip.
+	A maioria dos dados-peixe
+	tão nadando lá por cima,
+	xuá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't catch them
-	if we stay down here
-	and walk,drip.
+	Não vai dar pra gente
+	pegar eles se ficarmos
+	andando aqui embaixo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a whirlpool
-	somewhere in each
-	area,drip.
+	Em algum ponto desta área,
+	tem um redemoinho, xuá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can use the
-	whirlpool to swim
-	higher up,drip.
+	Eu posso usar ele pra
+	nadar mais pra cima, xuá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So if you see a
-	whirlpool,put me
-	right in the middle,
+	Então, se vir um
+	redemoinho, me coloca
+	bem no meio dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and from there,I'll
-	swim as hard as I
-	can,drip!
+	A partir de lá, eu vou
+	poder nadar com todas
+	as forças, xuá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I get very tired
-	the more I swim,
-	drip.
+	Mas, quanto mais eu nado,
+	mais cansado eu fico, xuá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So keep an eye on my
-	health gauge in the
-	top right,drip!
+	Então fica de olho na
+	minha barra de vida no
+	canto superior-direito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that gauge runs
-	out,it means that
-	I'm so tired,
+	Se ela ficar vazia, é
+	porque eu tô tão cansado,
+	que posso acabar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I might faint,drip.
-	Before that happens,
+	desmaiando, xuá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	go back to the
-	whirlpool to let
-	me back down,drip!
+	Antes disso acontecer,
+	volta pro redemoinho
+	pra eu descer, xuá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you do that,I
-	will regain my
-	strength,drip!
+	Se fizer isso, eu vou
+	recuperar as minhas
+	forças, xuá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,to catch the fish
-	data,all I gotta do
-	is touch them,drip.
+	Ah, e, pra pegar os
+	dados-peixe, é só eu
+	encostar neles, xuá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna scoop them
-	all up,drip!
+	Eu vou catar todos, xuá!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,drip!"
+	"Vamos nessa, xuá!"
 	keyWait
 		any = false
 	end

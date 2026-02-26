@@ -75,23 +75,23 @@ script 18 mmbn6s {
 	end
 }
 script 19 mmbn6s {
-	"EraseMan"
+	"KilerMan"
 	end
 }
 script 20 mmbn6s {
-	"EraseMn[EX]"
+	"KilerMn[EX]"
 	end
 }
 script 21 mmbn6s {
-	"EraseMn[SP]"
+	"KilerMn[SP]"
 	end
 }
 script 22 mmbn6s {
-	"EraseMn[RV]"
+	"KilerMn[RV]"
 	end
 }
 script 23 mmbn6s {
-	"EraseMn[BX]"
+	"KilerMn[BX]"
 	end
 }
 script 24 mmbn6s {
@@ -575,7 +575,7 @@ script 148 mmbn6s {
 	end
 }
 script 149 mmbn6s {
-	"EraseMan"
+	"KilerMan"
 	end
 }
 script 150 mmbn6s {

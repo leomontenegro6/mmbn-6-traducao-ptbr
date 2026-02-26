@@ -21,16 +21,16 @@ script 1 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Hey,use that
-	computer!
+	Vai, usa logo
+	o computador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up!
-	HeatMan's waitin'
-	for ya!!
+	Rápido!
+	O HeatMan tá
+	te esperando!!
 	"""
 	keyWait
 		any = false
@@ -41,16 +41,15 @@ script 2 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Do yer best and
-	delete those
-	Kettles!
+	Manda ver e deleta
+	esses Kettles!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If ya don't,you
-	can't ever go home!
+	Só vai poder ir pra
+	casa quando deletar!
 	"""
 	keyWait
 		any = false
@@ -71,57 +70,57 @@ script 5 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Time for the
-	final test!
+	Hora da prova final!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"The test is..."
+	"A prova é..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A NetBattle with
-	HeatMan!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Of course,ya'll
-	operate MegaMan.
+	uma NetLuta
+	contra o HeatMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ya shoulda figured
-	out how to use Fire
+	Você vai operar
+	o MegaMan, claro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by operatin'
-	HeatMan,right?
+	Depois de tanto
+	usar o HeatMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So Fire attacks
-	shouldn't be a
-	problem for ya!
+	você já deve ter
+	aprendido a dominar
+	o fogo, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Alright! Let's go!"
+	"""
+	Então ataques de
+	Fogo não devem ser
+	problema pra você!
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"Are ya ready!?"
+	"Certo! Vamos lá!"
+	keyWait
+		any = false
+	clearMsg
+	"Tá pronto?!"
 	keyWait
 		any = false
 	clearMsg
@@ -136,7 +135,7 @@ script 5 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -145,7 +144,7 @@ script 5 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -160,8 +159,8 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Huh? Ya aren't
-	scared are ya!?
+	Hã? Você não tá
+	com MEDO, tá?!
 	"""
 	keyWait
 		any = false
@@ -172,13 +171,13 @@ script 6 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Let's go! Time for
-	the final test!
+	Vamos lá!
+	Hora da prova final!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"START!!"
+	"COMEÇAR!!"
 	keyWait
 		any = false
 	flagSet
@@ -191,13 +190,12 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"That's too bad!"
+	"Ah, que pena!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You wanna give it
-	another shot!?
+	Vai tentar de novo?!
 	"""
 	keyWait
 		any = false
@@ -213,7 +211,7 @@ script 7 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -222,7 +220,7 @@ script 7 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -237,8 +235,8 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Huh? Ya aren't
-	scared are ya!?
+	Hã? Você não tá
+	com MEDO, tá?!
 	"""
 	keyWait
 		any = false
@@ -249,16 +247,16 @@ script 8 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	How was it!?
-	My control's as
-	good as yers!
+	E aí, o que achou?!
+	O meu controle é tão
+	bom quanto o seu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's the way to
-	master Fire!
+	Esse é o caminho
+	pra dominar o fogo!
 	"""
 	keyWait
 		any = false
@@ -269,14 +267,14 @@ script 9 mmbn6 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Looks like yer
-	soul's ready to go!
+	Parece que a sua alma
+	tá pronta pra luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get started...
+	Vamos começar...
 	OK?
 	"""
 	keyWait
@@ -293,7 +291,7 @@ script 9 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -302,7 +300,7 @@ script 9 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -317,8 +315,8 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Huh? Ya aren't
-	scared are ya!?
+	Hã? Você não tá
+	com MEDO, tá?!
 	"""
 	keyWait
 		any = false
@@ -340,8 +338,8 @@ script 16 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Use this computer.
-	AquaMan's waiting. 
+	Use este computador.
+	O AquaMan lhe aguarda.
 	"""
 	keyWait
 		any = false
@@ -358,8 +356,8 @@ script 17 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Lan,let's start
-	the test!
+	Lan, vamos
+	começar a prova!
 	"""
 	keyWait
 		any = false
@@ -367,24 +365,24 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What? All I did was
-	operate AquaMan and 
-	catch some fish...
+	Ué? Mas tudo o que eu
+	fiz foi operar o AquaMan
+	pra pegar peixe...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not like we did
-	anything classwork_
-	like,so
+	Não é como se a gente
+	tivesse tido uma aula
+	nem nada assim,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	why the test all of
-	a sudden?
+	então qual é a dessa
+	prova assim, de repente?
 	"""
 	keyWait
 		any = false
@@ -392,105 +390,107 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	What are you
-	talking about?
+	Lan, do que você
+	está falando?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Finding the fish
-	WAS the classwork!
+	Achar os peixes
+	FOI a aula!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Re..Really...?"
+	"É... é mesmo...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Shuko
-	"Yes!"
-	keyWait
-		any = false
-	clearMsg
-	"Using AquaMan was \nto get you to"
+	"É, sim!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	understand the
-	soul of water!
+	Usar o AquaMan foi
+	o caminho através do
+	qual você entenderia
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	a alma da água!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"...Really?"
+	"... Sério?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Shuko
-	"Of course!"
+	"Muito sério!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should
-	understand the soul
-	of water by now!
+	Agora, você já deve
+	entender a alma da água!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I guess so...?"
+	"Acho que... sim...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Shuko
 	"""
-	OK then! Let's see
-	how much you learned
-	in class!
+	Certo, então! Vamos
+	ver o quanto você
+	aprendeu nas aulas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How about a battle
-	against AquaMan 
-	while I operate?
+	Que tal uma luta
+	contra o AquaMan,
+	operador por mim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Show me just how
-	much you've learned
-	through this fight!
+	Mostre pra mim o
+	quanto você aprendeu
+	durante esta luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"It's a NetBattle...?"
+	"É uma NetLuta...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Yep,a NetBattle.
-	Are you ready!?
+	Aham, uma NetLuta.
+	Pronto?!
 	"""
 	keyWait
 		any = false
@@ -506,7 +506,7 @@ script 17 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -515,7 +515,7 @@ script 17 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -530,8 +530,8 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Once you are ready,
-	we'll begin!
+	Assim que estiver
+	pronto, vamos lá!
 	"""
 	keyWait
 		any = false
@@ -542,13 +542,13 @@ script 18 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Let's see if you've
-	got a soul of water!
+	Vamos ver se você
+	tem uma alma de água!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle Start!!"
+	"Começar luta!!"
 	keyWait
 		any = false
 	flagSet
@@ -562,9 +562,8 @@ script 19 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	What a shame...
-	Would you like to
-	try again?
+	Ah, que pena...
+	Quer tentar de novo?
 	"""
 	keyWait
 		any = false
@@ -580,7 +579,7 @@ script 19 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -589,7 +588,7 @@ script 19 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -604,8 +603,8 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Once you are ready,
-	we'll begin!
+	Assim que estiver
+	pronto, vamos lá!
 	"""
 	keyWait
 		any = false
@@ -616,8 +615,8 @@ script 21 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Are you ready to
-	take the test!?
+	Está pronto para
+	encarar a prova?!
 	"""
 	keyWait
 		any = false
@@ -633,7 +632,7 @@ script 21 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -642,7 +641,7 @@ script 21 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -657,8 +656,8 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Once you are ready,
-	we'll begin!
+	Assim que estiver
+	pronto, vamos lá!
 	"""
 	keyWait
 		any = false
@@ -671,13 +670,14 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"What's the problem?"
+	"Que foi?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up and get
-	ready to go home!
+	Vamos, arrume logo
+	as suas coisas, daí
+	venha aqui!
 	"""
 	keyWait
 		any = false
@@ -692,9 +692,8 @@ script 26 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	You're not all
-	packed up to go
-	home yet,right?
+	Você ainda não arrumou
+	as suas coisas, arrumou?
 	"""
 	keyWait
 		any = false

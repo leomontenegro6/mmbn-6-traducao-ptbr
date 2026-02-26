@@ -6,17 +6,17 @@ script 0 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	MegaMan has a
-	Cybeast's power
-	inside of him...
+	O MegaMan agora tem o
+	poder de uma Cyberbesta
+	dentro de si...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me explain how
-	you can harness
-	that power.
+	Vou explicar agora
+	como vocês podem
+	canalizar esse poder.
 	"""
 	keyWait
 		any = false
@@ -26,7 +26,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"The CybeastButton!"
+	"O Botão Cyberbesta!"
 	keyWait
 		any = false
 	clearMsg
@@ -37,7 +37,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The CybeastButton...?"
+	"Botão Cyberbesta...?"
 	keyWait
 		any = false
 	clearMsg
@@ -49,45 +49,44 @@ script 3 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It's a button to
-	release the
-	CybeastPower locked
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"inside of MegaMan."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Releasing 100% of
-	the power would
-	be dangerous...
+	Como o nome sugere,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is a limit
-	to the power you
-	can control...
+	é um botão que libera
+	o Poder da Cyberbesta
+	dentro do MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd say it's set
-	at about 50% or
-	so...
+	Liberar 100% desse
+	poder seria perigoso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pressing this button
-	will cause MegaMan
-	to "BeastOut".
+	Há um limite para o
+	volume do poder que
+	vocês podem controlar.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Cerca de 50%, eu diria...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Apertar esse botão
+	vai fazer o MegaMan
+	"Feralizar".
 	"""
 	keyWait
 		any = false
@@ -100,8 +99,7 @@ script 4 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,
-	give it a shot!
+	Experimente, Lan!
 	"""
 	keyWait
 		any = false
@@ -112,8 +110,8 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Meg...MegaMan is
-	a Cybeast now!
+	O... o MegaMan virou
+	uma Cyberbesta!
 	"""
 	keyWait
 		any = false
@@ -126,8 +124,8 @@ script 6 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,try talking
-	to MegaMan.
+	Lan, tente falar
+	com o MegaMan.
 	"""
 	keyWait
 		any = false
@@ -140,9 +138,8 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O...OK...
-	MegaMan,are you
-	alright?
+	O... OK...
+	MegaMan, você tá legal?
 	"""
 	keyWait
 		any = false
@@ -155,17 +152,17 @@ script 8 mmbn6 {
 		mugshot = MegaManFalzarBeast
 	msgOpen
 	"""
-	Yes... I'm OK.
-	I'm able to focus
-	but...
+	Sim... Eu tô bem.
+	Consigo me concentrar,
+	mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel an amazing,
-	raging power rising
-	inside...
+	sinto um poder incrível
+	e selvagem crescendo
+	dentro de mim...
 	"""
 	keyWait
 		any = false
@@ -178,37 +175,37 @@ script 9 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Good,it seems like
-	you are able to
-	control it.
+	Ótimo, parece que você
+	conseguiu controlar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Controlling a
-	Cybeast's power will
+	Controlar o poder
+	de uma Cyberbesta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	completely exhaust
-	your emotions.
+	vai te desgastar
+	por completo,
+	emocionalmente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can only be a
-	Cybeast until this
+	Você só poderá ser uma
+	Cyberbesta até este
+	Medidor de Emoção
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EmotionCounter
-	reaches 0.
+	chegar a zero.
 	"""
 	keyWait
 		any = false
@@ -219,22 +216,25 @@ script 10 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	When MegaMan is a
-	Cybeast,its power
-	should give all
+	Quando o MegaMan fica
+	na forma de Cyberbesta,
+	o poder dela fornece a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Elementless attack
-	chips that do not
-	dim the screen
+	todos os chips
+	não-elementais que
+	não "param o tempo"
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Attack+30."
+	"""
+	mais 30 pontos
+	de Ataque.
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -242,8 +242,8 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Really!?
-	No way...!!
+	Sério?!
+	Que louco...!!
 	"""
 	keyWait
 		any = false
@@ -256,25 +256,25 @@ script 11 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Also,when using a
-	chip,MegaMan will
-	have a Cybeast's
+	Além disso, sempre que
+	for usar um chip, MegaMan
+	terá a velocidade de uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	speed,letting him
-	automatically rush
-	to where the attack
+	Cyberbesta, fazendo ele
+	ir automaticamente para
+	onde o ataque vai
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will hit! But only
-	for chips that do
-	not dim the screen.
+	acertar! Mas isso só
+	para chips que não
+	"param o tempo".
 	"""
 	keyWait
 		any = false
@@ -287,28 +287,30 @@ script 12 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	By tapping the B
-	Button,you can
-	use a rapid fire
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"FalzarBuster..."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	And if you power up
-	a Elementless chip
-	as a Cybeast,it will
+	Segurando o botão
+	"B", você usa uma
+	metralhadora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	set off an awesome
-	special move!
+	o TiroFalzar.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E, se carregar um
+	chip sem elemento
+	como Cyberbesta,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	ele se transforma em um
+	ataque especial fenomenal!
 	"""
 	keyWait
 		any = false
@@ -321,14 +323,16 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It really feels
-	wild! I wonder if
-	I can really handle
+	Parece animal!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"all this power..."
+	"""
+	Será que eu consigo
+	mesmo controlar todo
+	esse poder...?
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -340,9 +344,9 @@ script 14 mmbn6 {
 		mugshot = MegaManFalzarBeast
 	msgOpen
 	"""
-	Lan,it's alright!
-	I believe in you!
-	Let's give it a try!
+	Tá tudo bem, Lan!
+	Eu acredito em você!
+	Vamos tentar!
 	"""
 	keyWait
 		any = false
@@ -355,9 +359,8 @@ script 15 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	MegaMan is right.
-	Lan,try operating
-	him!
+	O MegaMan tem razão.
+	Tente operá-lo, Lan!
 	"""
 	keyWait
 		any = false
@@ -368,16 +371,16 @@ script 16 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Cool! I busted those
-	viruses in the blink
-	of an eye...
+	Irado!
+	Eu eliminei esses vírus
+	num piscar de olhos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	... MegaMan!
-	Are you OK?
+	Você tá bem?
 	"""
 	keyWait
 		any = false
@@ -389,8 +392,8 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = MegaManFalzarBeast
 	"""
-	Yeah...
-	I'm OK,Lan!
+	É...
+	Tô sim, Lan!
 	"""
 	keyWait
 		any = false
@@ -403,8 +406,8 @@ script 18 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whew!
-	Thank goodness!
+	Ufa!
+	Ainda bem!
 	"""
 	keyWait
 		any = false
@@ -417,49 +420,51 @@ script 19 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Incredible power...
-	But you seem to
-	handle it well...
+	É um poder incrível...
+	mas vocês parecem
+	conseguir controlá-lo bem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Each turn you spend
-	as a Cybeast will
+	Cada turno que o
+	MegaMan passar
+	como Cyberbesta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	decrease your
-	EmotionCounter
-	by 1.
+	vai reduzir o Medidor
+	de Emoção em 1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When that counter
-	hits 0,MegaMan will
-	return to normal...
+	Quando ele chega
+	a zero, o MegaMan
+	volta ao normal...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Except a bit tired."
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Lan,when MegaMan is
-	tired,don't press
-	the CybeastButton.
+	porém, exausto.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Understand?"
+	"""
+	Lan, não aperte o
+	Botão Cyberbesta com
+	o MegaMan cansado.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Estamos entendidos?"
 	keyWait
 		any = false
 	clearMsg
@@ -471,9 +476,9 @@ script 20 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Got..Gotcha...
-	But what happens
-	if I press it...?
+	C... claro...
+	Mas o que acontece
+	se eu apertar...?
 	"""
 	keyWait
 		any = false
@@ -486,32 +491,31 @@ script 21 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	When he's tired,he
-	can't control the
-	CybeastPower...
+	Aí ele não será capaz
+	de controlar o Poder
+	da Cyberbesta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that happens...
-	The CybeastPower
-	will reach 100%
+	E, se isso acontecer...
+	O Poder Cyberbesta
+	vai chegar a 100%
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and completely
-	take over!
+	e possuí-lo por completo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan would become
-	completely wild...
-	He'll "BeastOver"!
+	O MegaMan vai ficar
+	completamente selvagem...
+	A "Possessão Feral"!
 	"""
 	keyWait
 		any = false
@@ -523,7 +527,7 @@ script 22 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wild..."
+	"Selvagem..."
 	keyWait
 		any = false
 	clearMsg
@@ -535,23 +539,23 @@ script 23 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	After MegaMan is
-	no longer wild,
-	he will probably
+	Depois que o MegaMan
+	sair desse estado,
+	provavelmente ficará
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	be very tired...
-	Be careful not to
+	bem cansado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	transform at the
-	wrong time.
+	Tome cuidado para ele
+	não se transformar na
+	hora errada.
 	"""
 	keyWait
 		any = false
@@ -564,25 +568,24 @@ script 24 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah...
-	The CybeastButton
-	and BeastOut...
+	É...
+	O Botão Cyberbesta
+	e a Feralização...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's an awesome
-	power,but it can
-	be dangerous to
+	É um poder incrível,
+	mas pode ser perigoso
+	pro MegaMan também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan. I'll use
-	it as a trump card
-	during battle.
+	Vai ser o nosso ás na
+	manga durante as lutas.
 	"""
 	keyWait
 		any = false
@@ -592,7 +595,7 @@ script 25 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"*huff...huff...*"
+	"Uff... Uff..."
 	keyWait
 		any = false
 	clearMsg
@@ -604,9 +607,9 @@ script 26 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! You've
-	transformed back!
-	Are you OK!?
+	MegaMan!
+	Você voltou ao normal!
+	Cê tá legal?!
 	"""
 	keyWait
 		any = false
@@ -619,38 +622,38 @@ script 27 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	That power seems
-	to place a great
-	burden on his body.
+	O poder parece
+	ser bem taxante
+	para o corpo dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When EmotionCounter
-	reaches zero,MegaMan
-	will transform back.
+	Quando o Medidor de
+	Emoção chega a zero, o
+	MegaMan volta ao normal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then he'll feel
-	tired like this
-	for a while.
+	E, quando isso acontece,
+	ele fica assim, cansado,
+	por um tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,when MegaMan is
-	tired,don't press
-	the CybeastButton.
+	Lan, não aperte o
+	Botão Cyberbesta com
+	o MegaMan cansado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Understand?"
+	"Estamos entendidos?"
 	keyWait
 		any = false
 	clearMsg
@@ -662,9 +665,9 @@ script 28 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Got..Gotcha...
-	But what happens
-	if I press it...?
+	C... claro...
+	Mas o que acontece
+	se eu apertar...?
 	"""
 	keyWait
 		any = false
@@ -677,32 +680,31 @@ script 29 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	When he's tired,he
-	can't control the
-	CybeastPower...
+	Aí ele não será capaz
+	de controlar o Poder
+	da Cyberbesta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that happens...
-	The CybeastPower
-	will reach 100%
+	E, se isso acontecer...
+	O Poder Cyberbesta
+	vai chegar a 100%
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and completely
-	take over!
+	e possuí-lo por completo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan would become
-	completely wild...
-	He'll "BeastOver"!
+	O MegaMan vai ficar
+	completamente selvagem...
+	A "Possessão Feral"!
 	"""
 	keyWait
 		any = false
@@ -714,7 +716,7 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wild..."
+	"Selvagem..."
 	keyWait
 		any = false
 	clearMsg
@@ -726,23 +728,23 @@ script 31 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	After MegaMan is
-	no longer wild,
-	he will probably
+	Depois que o MegaMan
+	sair desse estado,
+	provavelmente ficará
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	be very tired...
-	Be careful not to
+	bem cansado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	transform at the
-	wrong time.
+	Tome cuidado para ele
+	não se transformar na
+	hora errada.
 	"""
 	keyWait
 		any = false
@@ -753,9 +755,9 @@ script 32 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah!
-	I think I've got
-	the hang of it!
+	Beleza!
+	Acho que entendi
+	como funciona!
 	"""
 	keyWait
 		any = false
@@ -768,24 +770,23 @@ script 33 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Transforming into a
-	Cybeast gives him
-	incredible power,
+	Se transformar em
+	Cyberbesta confere
+	poderes incríveis,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but it's also very
-	tiring for MegaMan.
+	mas também é muito
+	cansativo para o MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to be
-	careful when you
-	use this power.
+	Tomem muito cuidado na
+	hora de usar esse poder.
 	"""
 	keyWait
 		any = false
@@ -797,7 +798,7 @@ script 34 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK! Thanks,Dad!"
+	"Tá! Valeu, pai!"
 	keyWait
 		any = false
 	end
@@ -807,9 +808,8 @@ script 35 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,don't run away.
-	You should keep
-	going!
+	Lan, não fuja.
+	Você tem que continuar!
 	"""
 	keyWait
 		any = false
@@ -820,8 +820,8 @@ script 36 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Press the
-	CybeastButton,Lan.
+	Aperte o Botão
+	Cyberbesta, Lan.
 	"""
 	keyWait
 		any = false
@@ -832,8 +832,8 @@ script 37 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Press the
-	CybeastButton,Lan.
+	Aperte o Botão
+	Cyberbesta, Lan.
 	"""
 	keyWait
 		any = false
@@ -844,9 +844,9 @@ script 38 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan! Look at
-	MegaMan! You can't
-	transform now!
+	Lan! Olhe o estado
+	do MegaMan! Não pode
+	se transformar agora!
 	"""
 	keyWait
 		any = false
@@ -857,9 +857,8 @@ script 39 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,don't cancel.
-	You should keep
-	going!
+	Lan, não cancele.
+	Prossiga!
 	"""
 	keyWait
 		any = false

@@ -9,9 +9,9 @@ script 0 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	That guy is nuts to
-	send a red_hot Navi
-	to get water!
+	O menino é lelé da cuca...
+	mandando um Navi de fogo
+	pegar água!
 	"""
 	keyWait
 		any = false
@@ -27,8 +27,8 @@ script 0 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	... Yo,check it out!
-	Water!
+	... Pronto, tá aqui
+	o negócio! Água!
 	"""
 	keyWait
 		any = false
@@ -45,7 +45,7 @@ script 1 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	HeatMan got:
+	HeatMan adquiriu:
 	"
 	"""
 	printItem
@@ -69,15 +69,14 @@ script 2 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Now let's get this
-	back to MegaMan!
+	Hora de levar isto
+	aqui pro MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's time to blaze
-	on outta here!
+	Bora dar o fora daqui!
 	"""
 	keyWait
 		any = false
@@ -90,13 +89,13 @@ script 3 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Ooh,so this is
+	Aah, então essa é a
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 10
-	"\",drip!"
+	"\", xuá!"
 	keyWait
 		any = false
 	clearMsg
@@ -111,16 +110,16 @@ script 3 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Mmm...drip! This is
-	wonderful water!
+	Mmm... xuá! Mas que
+	água maravilhosa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan will get
-	better with this,
-	drip!
+	Com isso, com
+	certeza o MegaMan
+	vai ficar bem, xuá!
 	"""
 	keyWait
 		any = false
@@ -136,7 +135,7 @@ script 4 mmbn6 {
 		value = 128
 	soundPlay
 		track = 115
-	"AquaMan got: \n\""
+	"AquaMan adquiriu: \n\""
 	printItem
 		buffer = 0
 		item = 10
@@ -158,9 +157,8 @@ script 5 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Ooh,I better
-	hurry back to
-	MegaMan,drip!
+	Upa, melhor voltar logo
+	pro MegaMan, xuá!
 	"""
 	keyWait
 		any = false
@@ -172,9 +170,9 @@ script 6 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	Ahoo,hoo,hoo!!
-	Ah,I thought you'd
-	come here!
+	Ahu hu huuu!!
+	Ah, imaginei mesmo
+	que você viria aqui!
 	"""
 	keyWait
 		any = false
@@ -187,7 +185,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"Who the...!?"
+	"Quem que...?!"
 	keyWait
 		any = false
 	end
@@ -196,7 +194,7 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"W_Who's there...drip?"
+	"Q-quem tá aí... xuá?"
 	keyWait
 		any = false
 	end
@@ -208,36 +206,17 @@ script 9 mmbn6 {
 		mugshot = CircusMan
 	msgOpen
 	"""
-	We have this little
-	plan,you see,and it
-	would be a little
+	Então: o negócio é que
+	a gente armou um plano
+	bem legal aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	problematic if
-	MegaMan were to live
-	to play another day.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"""
-	W_What's with
-	this guy!?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = CircusMan
-	"""
-	The Cybeasts' power
-	is ours and
-	ours alone!
+	e seria irritante se
+	o MegaMan vivesse pra
+	se intrometer nele.
 	"""
 	keyWait
 		any = false
@@ -245,9 +224,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Then,that means...
-	you're the
-	one that...
+	Q-qual é a desse cara?!
 	"""
 	keyWait
 		any = false
@@ -255,21 +232,39 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = CircusMan
 	"""
-	Ahoo,hoo,hoo!
-	We have a winner!!
+	O poder das Cyberbestas
+	é nosso, e somente nosso!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"""
+	Pera, isso quer dizer...
+	que foi você quem...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = CircusMan
+	"""
+	Ahu hu hu huuu!
+	Bingo, garotinho!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And for your prize,
-	you get to leave the
-	water right here!
+	E o seu prêmio por
+	acertar será NÃO
+	levar a água daqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ahoo,hoo,hoo!!"
+	"Ahu hu hu huuu!!"
 	keyWait
 		any = false
 	clearMsg
@@ -282,9 +277,9 @@ script 10 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Ooh,I'm burning for
-	a fight!
-	Bring it on,clown!!
+	Aaah, eu tô
+	fervendo pra brigar!
+	Cai dentro, palhaço!!
 	"""
 	keyWait
 		any = false
@@ -295,9 +290,9 @@ script 11 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	This water's for
-	MegaMan,drip! I
-	can't lose,drip!
+	Essa água é do MegaMan,
+	xuá! Eu não posso ser
+	vencido aqui, xuá!
 	"""
 	keyWait
 		any = false

@@ -7,14 +7,14 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	MegaMan!
-	That form...
+	Essa forma...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've fought off
-	the Cybeast's power!
+	Você resistiu aos
+	poderes da Cyberbesta!
 	"""
 	keyWait
 		any = false
@@ -29,7 +29,7 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Please...
+	Por favor...
 	.
 	"""
 	wait
@@ -40,7 +40,7 @@ script 1 mmbn6 {
 	"."
 	wait
 		frames = 30
-	"delete me!!"
+	" me deleta!"
 	keyWait
 		any = false
 	end
@@ -50,14 +50,14 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you saying,
-	MegaMan!?
-	Don't give up!
+	O-o que você tá
+	dizendo, MegaMan?!
+	Não desiste!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hang in there!!"
+	"Aguenta firme!!"
 	keyWait
 		any = false
 	end
@@ -73,7 +73,7 @@ script 3 mmbn6 {
 	controlLock
 	soundPlay
 		track = 401
-	"*grrrrrrrr!!*"
+	"Grrrrrrrr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -92,7 +92,7 @@ script 4 mmbn6 {
 	controlLock
 	soundPlay
 		track = 403
-	"*screeeeeech!!*"
+	"Kyaaaaaarh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -121,9 +121,8 @@ script 5 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Hey,what are we
-	doing!?
-	Are we attacking?
+	Ei, o que a gente faz?!
+	Ataca?
 	"""
 	keyWait
 		any = false
@@ -136,8 +135,8 @@ script 6 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Lan,what should we
-	do,drip!?
+	Lan, o que a
+	gente faz, xuá?!
 	"""
 	keyWait
 		any = false
@@ -150,8 +149,8 @@ script 7 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	He's attacking!!
-	Slash back...!?
+	Ele vai atacar!!
+	É pra eu cortar...?!
 	"""
 	keyWait
 		any = false
@@ -164,9 +163,9 @@ script 8 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	He is approaching,
-	Lan! Shall I prepare
-	to attack?
+	Ele está vindo, Lan!
+	Devo me preparar para
+	atacar?
 	"""
 	keyWait
 		any = false
@@ -179,8 +178,8 @@ script 9 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	He's coming!!
-	Lan,can I zap him!?
+	Aí vem ele!!
+	Lan, posso atordoá-lo?!
 	"""
 	keyWait
 		any = false
@@ -193,9 +192,9 @@ script 10 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Lan,what are we
-	doing!?
-	He's coming!
+	Lan, o que a gente
+	vai fazer?!
+	Ele tá vindo!
 	"""
 	keyWait
 		any = false
@@ -207,14 +206,14 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whiiiiir!!"
+	"Trrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yo,here he comes...
-	Want me to attack
-	back...!?
+	Ô, ele tá vindo...
+	É pra eu
+	contra-atacar...?!
 	"""
 	keyWait
 		any = false
@@ -227,9 +226,9 @@ script 12 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Tsk,he's attacking!!
-	You gonna let me
-	take care of this!?
+	Tsc, ele tá atacando!!
+	Quer que eu dê um
+	jeito nisso?!
 	"""
 	keyWait
 		any = false
@@ -242,8 +241,9 @@ script 13 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Which track,Lan...!?
-	Choo,choo...
+	Por qual trilho
+	vamos, Lan...?!
+	Tchú-tchúú...
 	"""
 	keyWait
 		any = false
@@ -257,8 +257,7 @@ script 14 mmbn6 {
 	msgOpen
 	"""
 	Lan Hikari...
-	Should I wipe him
-	out...?
+	Devo eliminá-lo...?
 	"""
 	keyWait
 		any = false
@@ -271,8 +270,8 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	W_Wait...
-	MegaMan is still...
+	E-espera...
+	O MegaMan ainda tá...
 	"""
 	keyWait
 		any = false
@@ -283,26 +282,26 @@ script 15 mmbn6 {
 	"."
 	wait
 		frames = 15
-	"."
+	". "
 	wait
 		frames = 15
 	"""
-	 No,I can't keep
-	on doing this.
+	Não, eu não posso
+	continuar assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't keep on
-	holding back...
+	Não posso continuar
+	hesitando...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've gotta stop him
-	here.
+	Tenho que parar ele,
+	aqui e agora.
 	"""
 	keyWait
 		any = false
@@ -330,8 +329,7 @@ script 16 mmbn6 {
 	textSpeed
 		delay = 3
 	"""
-	... Attack,
-	HeatMan...
+	... Atacar, HeatMan...
 	"""
 	keyWait
 		any = false
@@ -340,7 +338,7 @@ script 16 mmbn6 {
 		mugshot = HeatMan
 	textSpeed
 		delay = 2
-	"You sure!?"
+	"Certeza?!"
 	keyWait
 		any = false
 	clearMsg
@@ -354,8 +352,7 @@ script 17 mmbn6 {
 	textSpeed
 		delay = 3
 	"""
-	... Attack,
-	AquaMan... 
+	... Atacar, AquaMan...
 	"""
 	keyWait
 		any = false
@@ -365,8 +362,9 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	"""
-	Is...
-	Is that OK,drip!?
+	Isso...
+	Isso tá certo
+	mesmo, xuá?!
 	"""
 	keyWait
 		any = false
@@ -381,8 +379,7 @@ script 18 mmbn6 {
 	textSpeed
 		delay = 3
 	"""
-	... Attack,
-	SlashMan...
+	... Atacar, SlashMan...
 	"""
 	keyWait
 		any = false
@@ -391,7 +388,7 @@ script 18 mmbn6 {
 		mugshot = SlashMan
 	textSpeed
 		delay = 2
-	"You really sure!?"
+	"Tem certeza?!"
 	keyWait
 		any = false
 	clearMsg
@@ -405,8 +402,7 @@ script 19 mmbn6 {
 	textSpeed
 		delay = 3
 	"""
-	... Attack,
-	TenguMan...
+	... Atacar, TenguMan...
 	"""
 	keyWait
 		any = false
@@ -416,8 +412,8 @@ script 19 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	Are you alright with
-	this!?
+	Você está mesmo de
+	acordo com isso?!
 	"""
 	keyWait
 		any = false
@@ -432,8 +428,7 @@ script 20 mmbn6 {
 	textSpeed
 		delay = 3
 	"""
-	... Attack,
-	ElecMan...
+	... Atacar, ElecMan...
 	"""
 	keyWait
 		any = false
@@ -443,8 +438,7 @@ script 20 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	Are you absolutely
-	sure?
+	Certeza absoluta?
 	"""
 	keyWait
 		any = false
@@ -459,8 +453,7 @@ script 21 mmbn6 {
 	textSpeed
 		delay = 3
 	"""
-	... Attack,
-	TomahawkMan...
+	... Atacar, TomahawkMan...
 	"""
 	keyWait
 		any = false
@@ -470,8 +463,7 @@ script 21 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	But Lan,
-	it's MegaMan...
+	Mas, Lan, é o MegaMan...
 	"""
 	keyWait
 		any = false
@@ -486,8 +478,7 @@ script 22 mmbn6 {
 	textSpeed
 		delay = 3
 	"""
-	... Attack,
-	GroundMan...
+	... Atacar, GroundMan...
 	"""
 	keyWait
 		any = false
@@ -496,7 +487,7 @@ script 22 mmbn6 {
 		mugshot = GroundMan
 	textSpeed
 		delay = 2
-	"Yo' sure it's OK?"
+	"Pô, certeza?"
 	keyWait
 		any = false
 	clearMsg
@@ -510,8 +501,7 @@ script 23 mmbn6 {
 	textSpeed
 		delay = 3
 	"""
-	... Attack,
-	DustMan...
+	... Atacar, DustMan...
 	"""
 	keyWait
 		any = false
@@ -521,8 +511,7 @@ script 23 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	... Sure about
-	this!?
+	... Tem certeza disso?!
 	"""
 	keyWait
 		any = false
@@ -537,8 +526,7 @@ script 24 mmbn6 {
 	textSpeed
 		delay = 3
 	"""
-	... Attack,
-	ChargeMan...
+	... Atacar, ChargeMan...
 	"""
 	keyWait
 		any = false
@@ -548,9 +536,9 @@ script 24 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	Ya sure this is
-	the right track...?
-	Chooooooo...
+	Tem certeza que essa
+	é a rota certa...?
+	Tchúúúúú...
 	"""
 	keyWait
 		any = false
@@ -565,8 +553,7 @@ script 25 mmbn6 {
 	textSpeed
 		delay = 3
 	"""
-	... Attack,
-	EraseMan...
+	... Atacar, KillerMan...
 	"""
 	keyWait
 		any = false
@@ -576,9 +563,9 @@ script 25 mmbn6 {
 	textSpeed
 		delay = 2
 	"""
-	If you're really
-	sure,I won't be
-	holding back...
+	Se cê tiver certeza
+	disso, eu não vou me
+	segurar...
 	"""
 	keyWait
 		any = false
@@ -591,38 +578,35 @@ script 26 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I,I finally
-	understand...
+	E-eu finalmente entendo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and MegaMan also
-	asked me to do
-	this...
+	e o MegaMan também me
+	pediu pra fazer isso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish that all I
-	had to do was knock
-	him out...
+	Eu queria que só
+	nocautear ele fosse
+	o bastante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if that
-	failed...
+	mas, se não der certo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I must stop him no
-	matter what!
+	Eu tenho que deter ele,
+	custe o que custar!
 	"""
 	keyWait
 		any = false
@@ -647,14 +631,13 @@ script 27 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Do it,HeatMan!"
+	"Vai, HeatMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gotta...
-	You've gotta
-	stop him!
+	Você tem...
+	Tem que impedir ele!
 	"""
 	keyWait
 		any = false
@@ -664,14 +647,13 @@ script 28 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Do it,AquaMan! "
+	"Vai, AquaMan! "
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gotta...
-	You've gotta
-	stop him!
+	Você tem...
+	Tem que impedir ele!
 	"""
 	keyWait
 		any = false
@@ -681,14 +663,13 @@ script 29 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Do it,SlashMan!"
+	"Vai, SlashMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gotta...
-	You've gotta
-	stop him!
+	Você tem...
+	Tem que impedir ele!
 	"""
 	keyWait
 		any = false
@@ -698,14 +679,13 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Do it,TenguMan!"
+	"Vai, TenguMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gotta...
-	You've gotta
-	stop him!
+	Você tem...
+	Tem que impedir ele!
 	"""
 	keyWait
 		any = false
@@ -715,14 +695,13 @@ script 31 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Do it,ElecMan!"
+	"Vai, ElecMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gotta...
-	You've gotta
-	stop him!
+	Você tem...
+	Tem que impedir ele!
 	"""
 	keyWait
 		any = false
@@ -732,14 +711,13 @@ script 32 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Do it,TomahawkMan!"
+	"Vai, TomahawkMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gotta...
-	You've gotta
-	stop him!
+	Você tem...
+	Tem que impedir ele!
 	"""
 	keyWait
 		any = false
@@ -749,14 +727,13 @@ script 33 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Do it,GroundMan!"
+	"Vai, GroundMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gotta...
-	You've gotta
-	stop him!
+	Você tem...
+	Tem que impedir ele!
 	"""
 	keyWait
 		any = false
@@ -766,14 +743,13 @@ script 34 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Do it,DustMan!"
+	"Vai, DustMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gotta...
-	You've gotta
-	stop him!
+	Você tem...
+	Tem que impedir ele!
 	"""
 	keyWait
 		any = false
@@ -783,14 +759,13 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Do it,ChargeMan!"
+	"Vai, ChargeMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gotta...
-	You've gotta
-	stop him!
+	Você tem...
+	Tem que impedir ele!
 	"""
 	keyWait
 		any = false
@@ -800,14 +775,13 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Do it,EraseMan!"
+	"Vai, KillerMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've gotta...
-	You've gotta
-	stop him!
+	Você tem...
+	Tem que impedir ele!
 	"""
 	keyWait
 		any = false

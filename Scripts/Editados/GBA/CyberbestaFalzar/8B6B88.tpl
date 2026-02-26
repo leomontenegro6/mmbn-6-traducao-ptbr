@@ -6,22 +6,21 @@ script 0 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Hey,I'm DustMan!
-	Great to meet you,
-	gahahaha!!
+	Fala! Eu sou o DustMan!
+	Muito prazer!
+	Ga ha ha ha ha!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can tell we're
-	gonna find some
-	great trash today!
+	Tô vendo que a gente vai
+	achar um lixo ótimo hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Gahahahahaha!!"
+	"Ga ha ha ha ha ha!!"
 	keyWait
 		any = false
 	clearMsg
@@ -33,31 +32,28 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,nice to meet you,
-	too!
+	Ah, prazer, também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So where's the Net
-	junkyard?
+	E aí, onde fica
+	o lixão da Rede?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't think there
-	was one in
-	SeasideArea...
+	Eu não achava que tinha
+	um na Área Beira-Mar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This Comp does
-	connect to
-	SeasideArea,right?
+	Este computador é
+	conectado a ela, né?
 	"""
 	keyWait
 		any = false
@@ -70,16 +66,16 @@ script 2 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Is your head on
-	right? There's no
-	way it's on the Net.
+	Cê tá com um parafuso a
+	menos, rapaz? Nunca que
+	ia ser na Rede normal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All the trash is on
-	the Under side.
+	Todo o lixo fica
+	naquela área suja.
 	"""
 	keyWait
 		any = false
@@ -92,8 +88,8 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Under... As in
-	Undernet?
+	"Área suja"...
+	A Undernet?
 	"""
 	keyWait
 		any = false
@@ -106,28 +102,27 @@ script 4 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Give this boy a root
-	beer float!
+	Olha aí, o menino
+	é sagaz e esperto!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Alright,you all set?"
+	"Beleza, tá pronto?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The trader's
-	waiting,so we gotta
-	get outta here soon!
+	O negociante tá
+	esperando, então a
+	gente tem que ir logo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Move on out to
-	Undernet2,and let's
-	find that trader!
+	Vai pra Undernet 2 e
+	bora achar o sujeito!
 	"""
 	keyWait
 		any = false
@@ -139,7 +134,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Will do!"
+	"Entendido!"
 	keyWait
 		any = false
 	end

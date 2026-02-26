@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HI! WELCOME TO
-	SEASIDEAREA3!
+	OI! BEM-VINDO À
+	ÁREA BEIRA-MAR 3!
 	"""
 	keyWait
 		any = false
@@ -18,15 +18,15 @@ script 1 mmbn6 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ahhh... I'm so
-	confused...
+	Ahhh... Eu tô
+	tão confuso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Which panel am I
-	supposed to ride...?
+	Qual painel-esteira
+	eu pego...?
 	"""
 	keyWait
 		any = false
@@ -37,8 +37,8 @@ script 2 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You look suspicious!
-	...Or maybe not...
+	Você parece suspeito!
+	... Ou talvez não...
 	"""
 	keyWait
 		any = false
@@ -49,17 +49,15 @@ script 5 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	A feeling of
-	danger is in the
-	air.
+	Há perigo no ar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's worrying me...
-	This area is safe...
-	...Right?
+	Isso me preocupa...
+	Esta área é segura...
+	... Né?
 	"""
 	keyWait
 		any = false
@@ -74,7 +72,7 @@ script 10 mmbn6 {
 		any = false
 	clearMsg
 	mugshotHide
-	"No reaction..."
+	"Não responde..."
 	keyWait
 		any = false
 	end
@@ -92,54 +90,53 @@ script 50 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Are you looking
-	for "HealWatr"?
+	Você está atrás
+	da "Água da Cura"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you are,it's
-	flowing from the
-	giant faucet at
+	Se estiver, ela sai
+	da torneira gigante
+	que fica bem lá nos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the very back of
-	this area...
+	fundos desta área...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the Evil
-	Spirits might
-	interfere...
+	mas sinto que os
+	Espíritos Malignos
+	vão ser um obstáculo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I have nothing
-	left... I can't
-	fight back...
+	E eu não tenho mais
+	energias... Não posso
+	contra-atacar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...Will you...
-	take care of the
-	EvilSpirits...?
+	... Você pode...
+	lidar com os Espíritos
+	Malignos...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good... Take these
-	and use them...
+	Ótimo... Então tome,
+	use isto...
 	"""
 	keyWait
 		any = false
@@ -157,9 +154,9 @@ script 50 mmbn6 {
 		track = 386
 	soundEnableTextSFX
 	"""
-	"SoulWeapons" have
-	been installed
-	inside HeatMan.
+	As "ArmasAlmas" foram
+	instaladas dentro do
+	HeatMan.
 	"""
 	keyWait
 		any = false
@@ -173,8 +170,7 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Take care of
-	yourself...
+	Tome cuidado...
 	"""
 	keyWait
 		any = false
@@ -185,8 +181,8 @@ script 51 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Reload the
-	SoulWeapons?
+	Recarregar
+	as ArmasAlma?
 	"""
 	keyWait
 		any = false
@@ -202,7 +198,7 @@ script 51 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -211,7 +207,7 @@ script 51 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -225,7 +221,7 @@ script 51 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Good luck..."
+	"Boa sorte..."
 	keyWait
 		any = false
 	end
@@ -236,7 +232,7 @@ script 52 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"Take care..."
+	"Tome cuidado..."
 	keyWait
 		any = false
 	end
@@ -252,9 +248,9 @@ script 53 mmbn6 {
 		track = 386
 	soundEnableTextSFX
 	"""
-	"SoulWeapons" have
-	been installed
-	inside AquaMan. 
+	As "ArmasAlmas" foram
+	instaladas dentro do
+	AquaMan. 
 	"""
 	keyWait
 		any = false
@@ -268,8 +264,7 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Take care of
-	yourself...
+	Tome cuidado...
 	"""
 	keyWait
 		any = false
@@ -280,30 +275,28 @@ script 55 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Reloading the Soul
-	Weapons requires a
-	bit of time...
+	Recarregar as ArmasAlma
+	demora um pouco...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	During that time,
-	the EvilSpirits you
-	have already taken
+	Nesse meio-tempo, os
+	Espíritos Malignos
+	que você já abateu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	care of in this
-	area may come back
-	to haunt you...
+	nesta área podem voltar
+	para te assombrar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Is that OK?"
+	"Tudo bem pra você?"
 	keyWait
 		any = false
 	clearMsg
@@ -318,7 +311,7 @@ script 55 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -327,7 +320,7 @@ script 55 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -341,7 +334,7 @@ script 55 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Good luck..."
+	"Boa sorte..."
 	keyWait
 		any = false
 	flagSet
@@ -352,7 +345,7 @@ script 56 mmbn6 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Good luck..."
+	"Boa sorte..."
 	keyWait
 		any = false
 	end
@@ -362,28 +355,29 @@ script 60 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	...The recent
-	trouble even caused
-	damage here...
+	... Os problemas
+	recentes causaram
+	estragos até aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am usually here
-	hanging out,
+	Normalmente, eu gosto
+	de andar por aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but luckily I wasn't
-	here then...
+	mas, felizmente, eu
+	não vim quando tudo
+	aconteceu...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I was really lucky..."
+	"Dei muita sorte..."
 	keyWait
 		any = false
 	end
@@ -393,17 +387,17 @@ script 61 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	That slide I just
-	did... My form and
-	speed were perfect!
+	A deslizada que eu
+	dei agora... Pose e
+	velocidade perfeitas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hahaha!
-	I even surprise
-	myself sometimes!
+	Ha ha ha!
+	Eu me espanto
+	comigo mesma, viu?
 	"""
 	keyWait
 		any = false
@@ -414,21 +408,20 @@ script 65 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I love livin' on
-	the edge...
+	Eu adoro viver no limite...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But make a mistake
-	here and *poof*...
-	It's all over!!
+	Aqui, só um vacilozinho
+	que seja e "puf"...
+	Já era tudo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"...How exciting!"
+	"... Que adrenalina!"
 	keyWait
 		any = false
 	end
@@ -438,24 +431,24 @@ script 66 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I'm used to
-	battling water
-	viruses...
+	Eu já tô acostumada
+	demais a lutar contra
+	vírus de Água...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I'll go check
-	out Green Area...
+	Acho que vou visitar
+	a Área Verde.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They say there are
-	lots of grass
-	viruses there...
+	Dizem que tem um
+	monte de vírus de
+	Madeira lá.
 	"""
 	keyWait
 		any = false

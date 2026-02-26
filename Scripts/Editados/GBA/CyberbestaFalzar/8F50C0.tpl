@@ -4,15 +4,15 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	Graveyard1 on it.
+	Nele, há um mapa
+	do Cemitério 1.
 	"""
 	keyWait
 		any = false
@@ -45,9 +45,8 @@ script 2 mmbn6 {
 		jumpIfProtoMan = continue
 	msgOpen
 	"""
-	There is a violent
-	cyclone blocking
-	the way!!
+	Um ciclone violento
+	impede a passagem!!
 	"""
 	keyWait
 		any = false
@@ -69,9 +68,9 @@ script 3 mmbn6 {
 		jumpIfProtoMan = continue
 	msgOpen
 	"""
-	The cyberwater's
-	flow is too strong
-	to go against!!
+	O fluxo de cyberágua
+	é forte demais para
+	atravessar!!
 	"""
 	keyWait
 		any = false
@@ -93,9 +92,8 @@ script 4 mmbn6 {
 		jumpIfProtoMan = continue
 	msgOpen
 	"""
-	The flames are too
-	high to pass
-	through!!
+	As chamas são fortes
+	demais para atravessar!!
 	"""
 	keyWait
 		any = false
@@ -123,8 +121,8 @@ script 5 mmbn6 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	A thick,dense cloud
-	is blocking the way!
+	Uma densa e grossa
+	nuvem impede a passagem!
 	"""
 	keyWait
 		any = false
@@ -152,9 +150,9 @@ script 6 mmbn6 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	A strong_looking
-	cybertree is
-	blocking the way...
+	Uma cyberárvore
+	bem grossa está
+	barrando o caminho...
 	"""
 	keyWait
 		any = false
@@ -163,8 +161,8 @@ script 6 mmbn6 {
 script 7 mmbn6 {
 	msgOpen
 	"""
-	It says:
-	"Here lies...
+	Está escrito
+	"Aqui jaz...
 	"""
 	keyWait
 		any = false
@@ -189,8 +187,8 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	It says:
-	"Here lies...
+	Está escrito
+	"Aqui jaz...
 	"""
 	keyWait
 		any = false
@@ -215,8 +213,8 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	It says:
-	"Here lies...
+	Está escrito
+	"Aqui jaz...
 	"""
 	keyWait
 		any = false
@@ -245,8 +243,8 @@ script 9 mmbn6 {
 script 10 mmbn6 {
 	msgOpen
 	"""
-	It says:
-	"Here lies...
+	Está escrito
+	"Aqui jaz...
 	"""
 	keyWait
 		any = false
@@ -275,8 +273,8 @@ script 10 mmbn6 {
 script 11 mmbn6 {
 	msgOpen
 	"""
-	It says:
-	"Here lies...
+	Está escrito
+	"Aqui jaz...
 	"""
 	keyWait
 		any = false
@@ -297,8 +295,8 @@ script 11 mmbn6 {
 script 12 mmbn6 {
 	msgOpen
 	"""
-	It says:
-	"Here lies...
+	Está escrito
+	"Aqui jaz...
 	"""
 	keyWait
 		any = false
@@ -321,9 +319,8 @@ script 13 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	There's no way a tornado
-	of this magnitude could
-	stop me!
+	Esse ciclone é
+	fichinha pra mim!!
 	"""
 	keyWait
 		any = false
@@ -334,9 +331,9 @@ script 13 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Slashman's incredible
-	strokes have wiped out
-	the tornado!
+	O super ataque giratório
+	do SlashMan acaba com o
+	ciclone!!
 	"""
 	keyWait
 		any = false
@@ -348,13 +345,13 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Shpopoooooo!!"
+	"Tchú-tchúúúúú!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A tornado like this is...
-	No way!
+	Hora de atropelar
+	esse ciclone!!
 	"""
 	keyWait
 		any = false
@@ -365,9 +362,9 @@ script 14 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Chargeman's tornado has
-	been wiped out in an
-	instant!
+	ChargeMan apaga o
+	ciclone com seu super
+	ataque motor!
 	"""
 	keyWait
 		any = false
@@ -380,14 +377,14 @@ script 15 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	A cyclone like this
-	is nothing for a
-	wind master...
+	Um ciclone desses é
+	trivial para um mestre
+	do vento...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hmmmph!!"
+	"Hmmmpf!!"
 	keyWait
 		any = false
 	clearMsg
@@ -397,9 +394,9 @@ script 15 mmbn6 {
 	wait
 		frames = 30
 	"""
-	TenguMan erased the
-	cyclone with one
-	wave of his fan!!
+	Com um único abanar
+	de seu leque, TenguMan
+	apaga o ciclone!!
 	"""
 	keyWait
 		any = false
@@ -411,19 +408,19 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	msgOpen
-	"Gahahaha!!"
+	"Gaa ha ha ha!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if this
-	cyclone can stand up
-	to my vacuum power!?
+	Será que esse ciclone
+	tem alguma chance contra
+	o meu poder aspirador?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*vroooooom!!*"
+	"Vuuuuuush!!"
 	keyWait
 		any = false
 	clearMsg
@@ -433,8 +430,8 @@ script 16 mmbn6 {
 	wait
 		frames = 30
 	"""
-	DustMan sucked up
-	the cyclone!!
+	DustMan aspirou
+	o ciclone!!
 	"""
 	keyWait
 		any = false
@@ -452,21 +449,21 @@ script 18 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Hmm, what happens if you
-	pass a strong current
-	through water?
+	Hmm, se eu fizer uma
+	forte corrente elétrica
+	passar pela água...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's share it with
-	everyone!!
+	posso separá-la em
+	hidrogênio e oxigênio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Howden!!"
+	"Tensão Elétrica!!"
 	keyWait
 		any = false
 	clearMsg
@@ -476,9 +473,8 @@ script 18 mmbn6 {
 	wait
 		frames = 30
 	"""
-	With a tremendous surge,
-	the water fountain
-	disappeared!
+	A fonte de água
+	virou vapor!
 	"""
 	keyWait
 		any = false
@@ -490,18 +486,18 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Hahaha!"
+	"Riá ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Hell's Sickle can cut
-	anything to pieces!!
+	A minha HexaFoice
+	fatia qualquer coisa!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hyahahaha!!"
+	"Riá ha ha haa!"
 	keyWait
 		any = false
 	clearMsg
@@ -511,8 +507,8 @@ script 19 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Hell's Sickle cut the
-	water spear!
+	A HexaFoice consegue
+	cortar a tromba d'água!!
 	"""
 	keyWait
 		any = false
@@ -525,26 +521,25 @@ script 20 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	If it's got to do
-	with water,leave it
-	to me,drip!!
+	Se o assunto é água,
+	deixa comigo, xuá!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Water...
-	Calm!!
-	... drip.
+	Água...
+	Acalma-te!!
+	... Xuá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	At AquaMan's words,
-	the waterspout
-	calmly disappeared!!
+	Ao ouvir o AquaMan,
+	a tromba d'água
+	desapareceu!!
 	"""
 	keyWait
 		any = false
@@ -556,19 +551,18 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whiiiiiir!!"
+	"Tchrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All we gotta do is
-	dump some dirt on
-	the source!!
+	É só jogar um pouquinho
+	de terra na fonte!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Whiiiiiir!!"
+	"Tchrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
@@ -578,8 +572,8 @@ script 21 mmbn6 {
 	wait
 		frames = 30
 	"""
-	GroundMan stopped up
-	the water opening!
+	O GroundMan tampou
+	a abertura da água!
 	"""
 	keyWait
 		any = false
@@ -597,8 +591,8 @@ script 23 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	This is just the right
-	snack!!
+	Ah, tá aí um lanchinho
+	delicioso!!
 	"""
 	keyWait
 		any = false
@@ -609,8 +603,8 @@ script 23 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Heat Man swallowed all
-	the rising flames!
+	HeatMan engoliu todas
+	as chamas intensas!
 	"""
 	keyWait
 		any = false
@@ -622,14 +616,14 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Shupopo..."
+	"Tchú-tchúú..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come to think of it, I was
-	just thinking that the fire
-	was burning.
+	Bem na hora! Eu já
+	estava ficando sem
+	carvão, mesmo...
 	"""
 	keyWait
 		any = false
@@ -640,8 +634,8 @@ script 24 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Chargeman swallowed up all
-	the rising flames!
+	ChargeMan engoliu
+	as chamas!!
 	"""
 	keyWait
 		any = false
@@ -654,9 +648,8 @@ script 25 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Even I can take care
-	of a fire this big,
-	drip!!
+	Até eu dou conta de um
+	foguinho desses, xuá!!
 	"""
 	keyWait
 		any = false
@@ -667,9 +660,9 @@ script 25 mmbn6 {
 	wait
 		frames = 30
 	"""
-	The wave of water
-	from AquaMan's head
-	put out the fire!!
+	A onde de água da
+	cabeça do AquaMan
+	apagou o fogo!!
 	"""
 	keyWait
 		any = false
@@ -682,9 +675,9 @@ script 26 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Hmph. My fan can
-	take care of this
-	fire in one stroke!
+	Hmpf. O meu leque
+	dá conta desse fogo
+	em um só abano!
 	"""
 	keyWait
 		any = false
@@ -695,8 +688,8 @@ script 26 mmbn6 {
 	wait
 		frames = 30
 	"""
-	TenguMan's fan blew
-	the flames out!!
+	O leque de TenguMan
+	apagou as chamas!!
 	"""
 	keyWait
 		any = false
@@ -714,14 +707,14 @@ script 28 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	For someone like me who
-	regularly deals with
-	rainbows, this spider is...
+	Comparado aos fenômenos
+	com que eu sempre lido,
+	meras aranhas são...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HAAAAHH!!"
+	"RÁÁÁÁÁRH!!"
 	keyWait
 		any = false
 	clearMsg
@@ -731,8 +724,9 @@ script 28 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Elec Man's dragon sweeps
-	away the spiders!
+	ElecMan conjura um
+	dragão elétrico que
+	dizima as aranhas!
 	"""
 	keyWait
 		any = false
@@ -776,9 +770,9 @@ script 30 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Hey,cloud!
-	Here's a Tomahawk
-	Swing for you!!
+	Aí, nuvem!
+	Aqui vai um Corte
+	de Machadinha!!
 	"""
 	keyWait
 		any = false
@@ -789,9 +783,9 @@ script 30 mmbn6 {
 	wait
 		frames = 30
 	"""
-	The Tomahawk Swing's
-	strong wind blew the
-	cloud away!!
+	O vento forte do Corte
+	de Machadinha assoprou
+	a nuvem!!
 	"""
 	keyWait
 		any = false
@@ -804,9 +798,8 @@ script 31 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	This cloud's just
-	like that junk over
-	there!!
+	Essa nuvem é que
+	nem aquele lixo ali!
 	"""
 	keyWait
 		any = false
@@ -817,8 +810,8 @@ script 31 mmbn6 {
 	wait
 		frames = 30
 	"""
-	DustMan sucked up
-	the cloud!!
+	O DustMan aspirou
+	a nuvem!!
 	"""
 	keyWait
 		any = false
@@ -865,13 +858,11 @@ script 34 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Shuu..."
+	"Fatiar!"
 	keyWait
 		any = false
 	clearMsg
-	"""
-	Yes! Yes! Haa!!
-	"""
+	"Shuiiiiin!!"
 	keyWait
 		any = false
 	clearMsg
@@ -881,9 +872,9 @@ script 34 mmbn6 {
 	wait
 		frames = 30
 	"""
-	Slashman cut down the
-	Cyber Tree with an
-	incredible act of violence!
+	O ataque poderoso
+	do SlashMan partiu a
+	cyberárvore ao meio!!
 	"""
 	keyWait
 		any = false
@@ -896,14 +887,13 @@ script 35 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Heh,this tree will
-	fall in no time
-	flat!
+	He, eu derrubo essa
+	árvore rapidinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Tomahawk Swing!!"
+	"Corte de Machadinha!!"
 	keyWait
 		any = false
 	clearMsg
@@ -913,8 +903,8 @@ script 35 mmbn6 {
 	wait
 		frames = 30
 	"""
-	The cybertree was
-	split into two!!
+	A cyberárvore se
+	partiu em duas!!
 	"""
 	keyWait
 		any = false
@@ -926,19 +916,19 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whiiiiiir!!"
+	"Tchrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll uproot this
-	tree from the bottom
-	up!
+	Eu vou escavar as
+	raízes dessa árvore
+	e derrubá-la!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Whiiiiiir!!"
+	"Tchrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
@@ -948,9 +938,9 @@ script 36 mmbn6 {
 	wait
 		frames = 30
 	"""
-	GroundMan's charge
-	dug the cybertree
-	out,roots and all!!
+	A ação do GroundMan
+	arrancou a cyberárvore,
+	com raiz e tudo!!
 	"""
 	keyWait
 		any = false
@@ -971,14 +961,16 @@ script 38 mmbn6 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	You can hear a voice
-	calling out from
-	somewhere...
+	Você escuta uma voz
+	vinda de algum lugar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This door can only \nbe opened by the \nmark of \"M\"."
+	"""
+	Esta porta só pode ser
+	aberta pela marca de "M".
+	"""
 	keyWait
 		any = false
 	end
@@ -986,23 +978,22 @@ script 38 mmbn6 {
 script 39 mmbn6 {
 	msgOpen
 	"""
-	You can hear a voice
-	calling out from
-	somewhere...
+	Você escuta uma voz
+	vinda de algum lugar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You who carry the
-	mark of "M"...
+	Você, que porta
+	a marca de "M"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fight bravely,and
-	good luck...
+	Lute bravamente,
+	e boa sorte...
 	"""
 	keyWait
 		any = false
@@ -1013,22 +1004,21 @@ script 39 mmbn6 {
 script 40 mmbn6 {
 	msgOpen
 	"""
-	A thick,dense cloud
-	is blocking the way!
+	Uma densa e grossa
+	nuvem impede a passagem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too thick for
-	the 
+	É grossa demais para
+	o 
 	"""
 	printItem
 		buffer = 0
 		item = 28
 	"""
-	 to
-	suck up.
+	 aspirar.
 	"""
 	keyWait
 		any = false
@@ -1037,22 +1027,18 @@ script 40 mmbn6 {
 script 41 mmbn6 {
 	msgOpen
 	"""
-	A strong_looking
-	cybertree is
-	blocking the way...
+	Uma cyberárvore
+	bem grossa está
+	barrando o caminho...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and the "
+	"e o "
 	printItem
 		buffer = 0
 		item = 66
-	"""
-	
-	is too weak to cut
-	it.
-	"""
+	"\né fraco demais para\ncortar."
 	keyWait
 		any = false
 	end

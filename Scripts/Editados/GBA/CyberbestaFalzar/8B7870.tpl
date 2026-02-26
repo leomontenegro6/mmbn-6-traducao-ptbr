@@ -6,36 +6,35 @@ script 0 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Whiiiiiir!!
-	My drill's soundin'
-	good today,foo'!
+	Trrrrrrrrr!!
+	A minha broca tá com
+	um som bonito hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yo,I'm GroundMan!"
+	"Fala aí!\nEu sou o GroundMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If yo' talkin' about
-	Net construction,I'm
-	yo' man!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	So yo' think we can
-	get a move on here?
+	Quando se trata de
+	obras na Rede, eu
+	domino o assunto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's work to do
-	and my drill's
-	achin' to get goin'!
+	E aí, bora logo?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tem trabalho pra ser
+	feito e a minha broca
+	tá se coçando pra furar!
 	"""
 	keyWait
 		any = false
@@ -47,7 +46,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Alright,GroundMan!"
+	"Beleza, GroundMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -59,17 +58,17 @@ script 2 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	We're finally gonna
-	get started!
-	Alright!
+	Finalmente, hora de
+	começar essa bagaça!
+	Beleza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,I want you to
-	take GroundMan to
-	CentralArea2.
+	Primeiro, quero que
+	cê leve o GroundMan
+	pra Área Central 2.
 	"""
 	keyWait
 		any = false
@@ -81,13 +80,13 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whiiiiiir!!"
+	"Trrrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We got some work?
-	Can't wait!
+	Trabalho pra gente?
+	Mal posso esperar!
 	"""
 	keyWait
 		any = false
@@ -100,9 +99,9 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He seems so...
-	reliable,even if he
-	talks kinda funny...
+	Ele parece bem...
+	confiável, apesar
+	da atitude...
 	"""
 	keyWait
 		any = false

@@ -22,7 +22,7 @@ script 1 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = DustMan
-	"Here's my status!"
+	"Olha minha condição!"
 	waitHold
 }
 script 2 mmbn6 {
@@ -45,7 +45,7 @@ script 2 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = DustMan
-	"Here's my status!\n"
+	"Olha minha condição!\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -56,7 +56,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" NaviCust\n"
+	" CustNavi\n"
 	select
 		default = 0
 		BSeparate = false
@@ -94,7 +94,7 @@ script 3 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = DustMan
-	"Here's my status!\n"
+	"Olha minha condição!\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -105,7 +105,7 @@ script 3 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" NaviCust\n"
+	" CustNavi\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -116,7 +116,7 @@ script 3 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Records"
+	" Recordes"
 	select
 		default = 0
 		BSeparate = false
@@ -138,7 +138,7 @@ script 4 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = DustMan
-	"Here's my status!\n"
+	"Olha minha condição!\n"
 	positionOptionVertical
 		width = 8
 	option
@@ -149,7 +149,7 @@ script 4 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Records"
+	" Recordes"
 	select
 		default = 0
 		BSeparate = false
@@ -165,7 +165,7 @@ script 4 mmbn6 {
 	waitHold
 }
 script 5 mmbn6s {
-	"Attack LV"
+	"Ataque NV"
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -174,7 +174,7 @@ script 5 mmbn6s {
 	end
 }
 script 6 mmbn6s {
-	"Speed  LV"
+	"Rapidz NV"
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -183,7 +183,7 @@ script 6 mmbn6s {
 	end
 }
 script 7 mmbn6s {
-	"Charge LV"
+	"Carga  NV"
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -192,7 +192,7 @@ script 7 mmbn6s {
 	end
 }
 script 8 mmbn6s {
-	"Reg.Mem "
+	"Mem.Pdr "
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -220,11 +220,11 @@ script 10 mmbn6s {
 	end
 }
 script 11 mmbn6s {
-	"Pwr ChargeS"
+	"Carga FrçaS"
 	end
 }
 script 12 mmbn6s {
-	"Pwr Custom"
+	"Custom Frç"
 	end
 }
 script 13 mmbn6 {
@@ -234,7 +234,7 @@ script 13 mmbn6 {
 	callDisableMugshotBrighten
 	mugshotShow
 		mugshot = DustMan
-	"Here's my status!\n"
+	"Olha minha condição!\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -245,7 +245,7 @@ script 13 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" NaviCust\n"
+	" CustNavi\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -256,7 +256,7 @@ script 13 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Records"
+	" Recordes"
 	select
 		default = 1
 		BSeparate = false
@@ -272,7 +272,7 @@ script 13 mmbn6 {
 	waitHold
 }
 script 14 mmbn6s {
-	"DarkChip "
+	"ChipTrev "
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -288,14 +288,14 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	"""
-	You can't use the
-	equipped folder,
-	so we're switching
+	Não dá pra usar a
+	pasta equipada, então
+	vamos trocar pra
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"to the Extra Folder."
+	"Pasta Extra."
 	keyWait
 		any = false
 	waitHold
@@ -308,22 +308,21 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	"""
-	The equipped folder
-	can't be used now.
+	A pasta equipada não
+	pode ser usada agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take this Extra
-	Folder.
+	Toma esta Pasta Extra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printFolderName
@@ -335,7 +334,7 @@ script 16 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = DustMan
-	"Switching folder."
+	"Trocando pasta."
 	keyWait
 		any = false
 	waitHold
@@ -348,24 +347,24 @@ script 17 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	"""
-	You can't use the
-	folder you had
-	equipped!
+	Você não pode usar
+	a pasta que estava
+	equipada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't use the
-	Extra Folder! Use
-	this instead!
+	E não dá pra usar
+	a Pasta Extra!
+	Use esta no lugar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printFolderName
@@ -376,8 +375,7 @@ script 17 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Switching to this
-	folder.
+	Trocando pra essa pasta.
 	"""
 	keyWait
 		any = false
@@ -400,7 +398,7 @@ script 53 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Save?\n"
+	"Salvar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -411,7 +409,7 @@ script 53 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -420,7 +418,7 @@ script 53 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -446,8 +444,8 @@ script 54 mmbn6 {
 		delay = 0
 	clearMsg
 	"""
-	OK to erase
-	old save data?
+	Tudo bem apagar antigos
+	dados de salvamento?
 	
 	"""
 	positionOptionHorizontal
@@ -460,7 +458,7 @@ script 54 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -469,7 +467,7 @@ script 54 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -500,13 +498,12 @@ script 55 mmbn6 {
 		top = 141
 	clearMsg
 	"""
-	The save
-	failed...
+	O salvamento falhou...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -517,7 +514,7 @@ script 55 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -526,7 +523,7 @@ script 55 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -550,7 +547,7 @@ script 56 mmbn6 {
 		left = 222
 		top = 141
 	clearMsg
-	"The save is complete"
+	"Salvamento concluído"
 	keyWait
 		any = false
 	waitHold
@@ -559,7 +556,7 @@ script 57 mmbn6 {
 	msgOpenMenuQuick
 	textSpeed
 		delay = 0
-	"Can't save here"
+	"Não dá para salvar aqui"
 	keyWait
 		any = false
 	waitHold
@@ -569,62 +566,62 @@ script 63 mmbn6 {
 	textSpeed
 		delay = 0
 	"""
-	Cannot receive data in
-	the current state
+	Não pode receber dados
+	no estado atual.
 	"""
 	keyWait
 		any = false
 	waitHold
 }
 script 70 mmbn6s {
-	"Pwr HeatArm"
+	"Frç HeatArm"
 	end
 }
 script 71 mmbn6s {
-	"Pwr SpoutHs"
+	"Frç SpoutHs"
 	end
 }
 script 72 mmbn6s {
-	"Pwr ThrustT"
+	"Frç ThrustT"
 	end
 }
 script 73 mmbn6s {
-	"Pwr   TEdge"
+	"Frç   TEdge"
 	end
 }
 script 74 mmbn6s {
-	"Pwr   TBolt"
+	"Frç   TBolt"
 	end
 }
 script 75 mmbn6s {
-	"Pwr  TSwing"
+	"Frç  TSwing"
 	end
 }
 script 76 mmbn6s {
-	"Pwr  TSwing"
+	"Frç  TSwing"
 	end
 }
 script 77 mmbn6s {
-	"Pwr HSickle"
+	"Frç HSickle"
 	end
 }
 script 78 mmbn6s {
-	"Pwr  CrazyL"
+	"Frç  CrazyL"
 	end
 }
 script 79 mmbn6s {
-	"Pwr SReborn"
+	"Frç SReborn"
 	end
 }
 script 80 mmbn6s {
-	"Pwr  DAttkr"
+	"Frç  DAttkr"
 	end
 }
 script 81 mmbn6s {
-	"Pwr    None"
+	"Frç    Nada"
 	end
 }
 script 82 mmbn6s {
-	"Pwr WideSwd"
+	"Frç WideSwd"
 	end
 }

@@ -6,22 +6,23 @@ script 0 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	... Green Area2
-	already! Good.
+	... Já na Área Verde 2!
+	Muito bom.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	4 cyberscrolls wait
-	for you here.
+	Aqui, quatro
+	cyberpergaminhos
+	lhe aguardam.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Focus your mind,
-	young one,and go!
+	Concentre sua mente,
+	meu jovem, e avance!
 	"""
 	keyWait
 		any = false
@@ -33,13 +34,13 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"4,huh..."
+	"Quatro, é...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,let's go,
-	TenguMan!
+	Beleza.
+	Bora lá, TenguMan!
 	"""
 	keyWait
 		any = false
@@ -51,7 +52,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = TenguMan
 	msgOpen
-	"Onward!!"
+	"Avante!!"
 	keyWait
 		any = false
 	end

@@ -6,8 +6,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright! I got the
-	4 cyberscrolls!
+	Beleza! Peguei os
+	quatro pergaminhos!
 	"""
 	keyWait
 		any = false
@@ -20,9 +20,9 @@ script 1 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Good work. I can
-	feel you becoming
-	one with the wind.
+	Bom trabalho. Posso
+	sentir você se tornando
+	um só com o vento.
 	"""
 	keyWait
 		any = false
@@ -34,18 +34,18 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	msgOpen
-	"Ho,ho,ho,ho!"
+	"Ho ho ho ho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You still have much
-	to learn...
+	Você ainda tem
+	muito a aprender...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Next is Green Area2."
+	"A seguir é a Área Verde 2."
 	keyWait
 		any = false
 	clearMsg
@@ -56,7 +56,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!!"
+	"Beleza!!"
 	keyWait
 		any = false
 	end

@@ -19,8 +19,7 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Be careful,
-	MegaMan...
+	Toma cuidado, MegaMan...
 	"""
 	keyWait
 		any = false
@@ -44,8 +43,8 @@ script 2 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Attack with
-	the SoulKnife?
+	Atacar com a
+	FacaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -58,7 +57,7 @@ script 2 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -67,7 +66,7 @@ script 2 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -98,8 +97,8 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Attack with
-	the SoulSword?
+	Atacar com a
+	EspadaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -112,7 +111,7 @@ script 3 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -121,7 +120,7 @@ script 3 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -152,8 +151,8 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Attack with
-	the SoulAx?
+	Atacar com o
+	MachadoAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -166,7 +165,7 @@ script 4 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -175,7 +174,7 @@ script 4 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -206,8 +205,8 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Attack with
-	the SoulGun?
+	Atacar com a
+	PistolaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -220,7 +219,7 @@ script 5 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -229,7 +228,7 @@ script 5 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -246,7 +245,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hah!"
+	"Iá!"
 	keyWait
 		any = false
 	end
@@ -275,9 +274,9 @@ script 7 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Alright!!
-	I beat the
-	EvilSpirit!
+	Beleza!!
+	Eliminei o
+	Espírito Maligno!
 	"""
 	keyWait
 		any = false
@@ -301,9 +300,8 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Watch out for the
-	counterattack,
-	MegaMan!!
+	Fica esperto, MegaMan!
+	Lá vem o contra-ataque!!
 	"""
 	keyWait
 		any = false
@@ -333,7 +331,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are you OK,MegaMan!?"
+	"Cê tá legal, MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -345,9 +343,8 @@ script 11 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah!
-	Come on,let's keep
-	going!!
+	Tô, sim!
+	Vamos continuar!!
 	"""
 	keyWait
 		any = false
@@ -370,14 +367,14 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Look,Lan!"
+	"Olha, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The darkness that
-	was blocking the way
-	has disappeared!!
+	A escuridão que tava
+	barrando o caminho
+	desapareceu!!
 	"""
 	keyWait
 		any = false
@@ -401,9 +398,9 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The SoulWeapons ran
-	out... Let's go
-	reload right away!
+	As ArmasAlma se
+	esgotaram... Vamos
+	recarregar elas logo!
 	"""
 	keyWait
 		any = false
@@ -449,8 +446,7 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you ready,
-	MegaMan?
+	Tá pronto, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -463,8 +459,7 @@ script 16 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah!
-	Let's go!
+	Tô! Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -473,9 +468,8 @@ script 16 mmbn6 {
 script 17 mmbn6 {
 	msgOpen
 	"""
-	The remaining
-	SoulWeapons turned
-	into BugFrags!!
+	As demais ArmasAlma
+	viraram FragBugs!!
 	"""
 	keyWait
 		any = false
@@ -488,13 +482,13 @@ script 17 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	printCurrentNaviOW
-	" got:\n"
+	" adquiriu:\n"
 	printBuffer
 		buffer = 3
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	" BugFrags!!"
+	" FragBugs!!"
 	keyWait
 		any = false
 	playerFinish
@@ -506,7 +500,7 @@ script 20 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Be careful,
+	Vai com cuidado,
 	HeatMan...
 	"""
 	keyWait
@@ -518,8 +512,8 @@ script 22 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Wanna attack with
-	the SoulKnife?
+	Quer atacar
+	com a FacaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -532,7 +526,7 @@ script 22 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -541,7 +535,7 @@ script 22 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -559,8 +553,8 @@ script 23 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Wanna attack with
-	the SoulSword?
+	Quer atacar
+	com a EspadaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -573,7 +567,7 @@ script 23 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -582,7 +576,7 @@ script 23 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -600,8 +594,8 @@ script 24 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Wanna attack with
-	the SoulAx?
+	Quer atacar com
+	o MachadoAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -614,7 +608,7 @@ script 24 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -623,7 +617,7 @@ script 24 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -641,8 +635,8 @@ script 25 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Wanna attack with
-	the SoulGun?
+	Quer atacar com
+	a PistolaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -655,7 +649,7 @@ script 25 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -664,7 +658,7 @@ script 25 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -681,7 +675,7 @@ script 26 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"Burn!!"
+	"Queima!!"
 	keyWait
 		any = false
 	end
@@ -691,9 +685,9 @@ script 27 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Too easy! I burned
-	the EvilSpirit
-	to a crisp!
+	Molezinha!
+	Eu transformei o Espírito
+	Maligno em churrasquinho!
 	"""
 	keyWait
 		any = false
@@ -704,8 +698,8 @@ script 28 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Watch out for the
-	counterattack,
+	Fica esperto pro
+	contra-ataque,
 	HeatMan!!
 	"""
 	keyWait
@@ -720,7 +714,7 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are you OK,HeatMan!?"
+	"Você tá legal, HeatMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -732,8 +726,9 @@ script 31 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Yeah!
-	Let's get burning!!
+	Tô!
+	Bora botar mais	lenha
+	nessa fogueira!!
 	"""
 	keyWait
 		any = false
@@ -743,13 +738,13 @@ script 32 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"Hey,Lan!"
+	"Aí, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like it's
-	finally cleared up!
+	Parece que finalmente
+	já eram todos!
 	"""
 	keyWait
 		any = false
@@ -760,9 +755,9 @@ script 33 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	The SoulWeapons ran
-	out on me...
-	Gotta get more fast!
+	Acabaram as ArmasAlma...
+	A gente tem que ser mais
+	rápido!
 	"""
 	keyWait
 		any = false
@@ -772,7 +767,7 @@ script 34 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"Gwaaaa!!"
+	"Gaaarrh!!"
 	keyWait
 		any = false
 	end
@@ -782,8 +777,7 @@ script 35 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you ready,
-	HeatMan?
+	Tá pronto, HeatMan?
 	"""
 	keyWait
 		any = false
@@ -796,8 +790,9 @@ script 36 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Of course!
-	Let's blaze!
+	Claro que tô!
+	Pode vir quente
+	que eu tô fervendo!
 	"""
 	keyWait
 		any = false
@@ -808,7 +803,7 @@ script 40 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Be careful,
+	Vai com cuidado,
 	AquaMan... 
 	"""
 	keyWait
@@ -820,8 +815,8 @@ script 42 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Attack with the
-	SoulKnife,drip?
+	Ataco com a
+	FacaAlma, xuá?
 	
 	"""
 	positionOptionHorizontal
@@ -834,7 +829,7 @@ script 42 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -843,7 +838,7 @@ script 42 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -861,8 +856,8 @@ script 43 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Attack with the
-	SoulSword,drip?
+	Ataco com a
+	EspadaAlma, xuá?
 	
 	"""
 	positionOptionHorizontal
@@ -875,7 +870,7 @@ script 43 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -884,7 +879,7 @@ script 43 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -902,8 +897,8 @@ script 44 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Attack with the
-	SoulAx,drip?
+	Ataco com o
+	MachadoAlma, xuá?
 	
 	"""
 	positionOptionHorizontal
@@ -916,7 +911,7 @@ script 44 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -925,7 +920,7 @@ script 44 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -943,8 +938,8 @@ script 45 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Attack with the
-	SoulGun,drip?
+	Ataco com a
+	PistolaAlma, xuá?
 	
 	"""
 	positionOptionHorizontal
@@ -957,7 +952,7 @@ script 45 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -966,7 +961,7 @@ script 45 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -983,7 +978,7 @@ script 46 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Driiiip!!"
+	"Xuáááááá!!"
 	keyWait
 		any = false
 	end
@@ -993,9 +988,9 @@ script 47 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	I did it,drip!
-	I beat the
-	EvilSpirit,drip!
+	Eu consigo, xuá!
+	Venci o Espírito
+	Maligno, xuá!
 	"""
 	keyWait
 		any = false
@@ -1006,9 +1001,8 @@ script 48 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Watch out for the
-	counterattack,
-	AquaMan!! 
+	Fica esperto pro
+	contra-ataque, AquaMan!! 
 	"""
 	keyWait
 		any = false
@@ -1023,8 +1017,8 @@ script 50 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you OK,
-	AquaMan!? 
+	Você tá legal,
+	AquaMan?! 
 	"""
 	keyWait
 		any = false
@@ -1037,9 +1031,8 @@ script 51 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Uh,huh!
-	Let's keep
-	going,drip!!
+	T-tô, sim!
+	Vamos continuar, xuá!!
 	"""
 	keyWait
 		any = false
@@ -1049,13 +1042,12 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Lan! Look,drip!"
+	"Lan! Olha, xuá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The darkness has
-	gone away,drip!!
+	A escuridão sumiu, xuá!!
 	"""
 	keyWait
 		any = false
@@ -1066,9 +1058,9 @@ script 53 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Aww,the SoulWeapons
-	ran out... drip.
-	Let's get more,drip!
+	Ah, acabaram as
+	Armas Alma... xuá.
+	Vamos pegar mais!
 	"""
 	keyWait
 		any = false
@@ -1078,7 +1070,7 @@ script 54 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Driiiiip!!"
+	"Xuáááááá!!"
 	keyWait
 		any = false
 	end
@@ -1088,7 +1080,7 @@ script 55 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you ready,
+	Tá pronto,
 	AquaMan? 
 	"""
 	keyWait
@@ -1102,8 +1094,8 @@ script 56 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Uh,huh!
-	Let's go,drip!
+	Aham!
+	Vamos lá, xuá!
 	"""
 	keyWait
 		any = false
@@ -1114,7 +1106,7 @@ script 60 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Be careful,
+	Vai com cuidado,
 	SlashMan...
 	"""
 	keyWait
@@ -1126,8 +1118,8 @@ script 62 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	Ooh,slash with
-	the SoulKnife?
+	E aí, bora cortar
+	com a FacaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -1140,7 +1132,7 @@ script 62 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1149,7 +1141,7 @@ script 62 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1167,8 +1159,8 @@ script 63 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	Ooh,cut with
-	the SoulSword?
+	E aí, bora cortar
+	com a EspadaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -1181,7 +1173,7 @@ script 63 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1190,7 +1182,7 @@ script 63 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1208,8 +1200,8 @@ script 64 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	Ooh,chop with
-	the SoulAx?
+	E aí, bora cortar
+	com o MachadoAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -1222,7 +1214,7 @@ script 64 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1231,7 +1223,7 @@ script 64 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1249,8 +1241,8 @@ script 65 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	Ooh,attack with
-	the SoulGun?
+	E aí, bora atacar
+	com a PistolaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -1263,7 +1255,7 @@ script 65 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1272,7 +1264,7 @@ script 65 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1289,7 +1281,7 @@ script 66 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Slash!!"
+	"Cortar!!"
 	keyWait
 		any = false
 	end
@@ -1299,9 +1291,9 @@ script 67 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	Take that!
-	I sliced and diced
-	that EvilSpirit!!
+	Toma!
+	Eu fiz picadinho desse
+	Espírito Maligno!!
 	"""
 	keyWait
 		any = false
@@ -1312,8 +1304,8 @@ script 68 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Watch out for the
-	counterattack,
+	Fica esperto pro
+	contra-ataque,
 	SlashMan!!
 	"""
 	keyWait
@@ -1329,8 +1321,8 @@ script 70 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you OK,
-	SlashMan!?
+	Você tá legal,
+	SlashMan?!
 	"""
 	keyWait
 		any = false
@@ -1343,9 +1335,9 @@ script 71 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	I'm alright...
-	C'mon,gotta cut
-	more things up!
+	Eu tô bem...
+	Vamos, a gente tem
+	mais coisas pra fatiar!
 	"""
 	keyWait
 		any = false
@@ -1355,14 +1347,13 @@ script 72 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Look!"
+	"Olha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That last slash must
-	have finally cut
-	through it!
+	Parece que aquele último
+	corte abriu o negócio!
 	"""
 	keyWait
 		any = false
@@ -1373,9 +1364,8 @@ script 73 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	The SoulWeapons ran
-	out...
-	Time to get more!
+	Acabaram as ArmasAlma...
+	Bora pegar mais!
 	"""
 	keyWait
 		any = false
@@ -1385,7 +1375,7 @@ script 74 mmbn6 {
 	mugshotShow
 		mugshot = SlashMan
 	msgOpen
-	"Gwaaaaah!!"
+	"Ghhhaaaarh!!"
 	keyWait
 		any = false
 	end
@@ -1395,7 +1385,7 @@ script 75 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you ready,
+	Tá pronto,
 	SlashMan?
 	"""
 	keyWait
@@ -1409,9 +1399,9 @@ script 76 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	I've been ready!
-	Let's get going
-	already!
+	Eu nasci pronto!
+	Vamos cortar o
+	barato dele!
 	"""
 	keyWait
 		any = false
@@ -1422,7 +1412,7 @@ script 80 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Be careful,
+	Vai com cuidado,
 	TenguMan...
 	"""
 	keyWait
@@ -1434,8 +1424,8 @@ script 82 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Shall I attack with
-	the SoulKnife?
+	Devo atacar com
+	a FacaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -1448,7 +1438,7 @@ script 82 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1457,7 +1447,7 @@ script 82 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1475,8 +1465,8 @@ script 83 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Shall I attack with
-	the SoulSword?
+	Devo atacar com
+	a EspadaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -1489,7 +1479,7 @@ script 83 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1498,7 +1488,7 @@ script 83 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1516,8 +1506,8 @@ script 84 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Shall I attack with
-	the SoulAx?
+	Devo atacar com
+	o MachadoAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -1530,7 +1520,7 @@ script 84 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1539,7 +1529,7 @@ script 84 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1557,8 +1547,8 @@ script 85 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Shall I attack with
-	the SoulGun?
+	Devo atacar com
+	a PistolaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -1571,7 +1561,7 @@ script 85 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1580,7 +1570,7 @@ script 85 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1597,7 +1587,7 @@ script 86 mmbn6 {
 	mugshotShow
 		mugshot = TenguMan
 	msgOpen
-	"Yiiiah!!"
+	"Iiiiá!!"
 	keyWait
 		any = false
 	end
@@ -1607,8 +1597,8 @@ script 87 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	I have defeated the
-	EvilSpirit...
+	Derrotei o
+	Espírito Maligno...
 	"""
 	keyWait
 		any = false
@@ -1619,8 +1609,8 @@ script 88 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Watch out for the
-	counterattack,
+	Fica esperto pro
+	contra-ataque,
 	TenguMan!!
 	"""
 	keyWait
@@ -1636,8 +1626,8 @@ script 90 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you OK,
-	TenguMan!?
+	Você tá legal,
+	TenguMan?!
 	"""
 	keyWait
 		any = false
@@ -1650,8 +1640,8 @@ script 91 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	I'm alright...
-	Let's go...
+	Estou bem...
+	Prossigamos...
 	"""
 	keyWait
 		any = false
@@ -1661,14 +1651,14 @@ script 92 mmbn6 {
 	mugshotShow
 		mugshot = TenguMan
 	msgOpen
-	"Look!"
+	"Veja!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The darkness...
-	It has faded.
-	It is no more.
+	A escuridão...
+	Ela se esvaiu.
+	Não é mais um obstáculo.
 	"""
 	keyWait
 		any = false
@@ -1679,9 +1669,9 @@ script 93 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	The SoulWeapons have
-	run dry... I must
-	reload soon...
+	As ArmasAlma se
+	esgotaram... Devo
+	recarregá-las...
 	"""
 	keyWait
 		any = false
@@ -1691,7 +1681,7 @@ script 94 mmbn6 {
 	mugshotShow
 		mugshot = TenguMan
 	msgOpen
-	"Nooooo!!"
+	"Nãããããooo!!"
 	keyWait
 		any = false
 	end
@@ -1701,7 +1691,7 @@ script 95 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you ready,
+	Tá pronto,
 	TenguMan?
 	"""
 	keyWait
@@ -1715,8 +1705,8 @@ script 96 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Of course!
-	Now let's hurry!
+	Mas é claro!
+	Apressemo-nos!
 	"""
 	keyWait
 		any = false
@@ -1727,7 +1717,7 @@ script 100 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Be careful,
+	Vai com cuidado,
 	ElecMan...
 	"""
 	keyWait
@@ -1739,8 +1729,8 @@ script 102 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Should I attack
-	with the SoulKnife?
+	Eu devo atacar
+	com a FacaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -1753,7 +1743,7 @@ script 102 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1762,7 +1752,7 @@ script 102 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1780,8 +1770,8 @@ script 103 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Should I attack
-	with the SoulSword?
+	Eu devo atacar
+	com a EspadaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -1794,7 +1784,7 @@ script 103 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1803,7 +1793,7 @@ script 103 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1821,8 +1811,8 @@ script 104 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Should I attack
-	with the SoulAx?
+	Eu devo atacar
+	com o MachadoAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -1835,7 +1825,7 @@ script 104 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1844,7 +1834,7 @@ script 104 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1862,8 +1852,8 @@ script 105 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Should I attack
-	with the SoulGun?
+	Eu devo atacar
+	com a PistolaAlma?
 	
 	"""
 	positionOptionHorizontal
@@ -1876,7 +1866,7 @@ script 105 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1885,7 +1875,7 @@ script 105 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1912,9 +1902,9 @@ script 107 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Sizzle,sizzle,baby!
-	That's one less
-	EvilSpirit!
+	Chocante!
+	Um Espírito Maligno
+	a menos!
 	"""
 	keyWait
 		any = false
@@ -1925,8 +1915,8 @@ script 108 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Watch out for the
-	counterattack,
+	Fica esperto pro
+	contra-ataque,
 	ElecMan!!
 	"""
 	keyWait
@@ -1941,7 +1931,7 @@ script 110 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are you OK,ElecMan!?"
+	"Você tá legal, ElecMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -1953,8 +1943,8 @@ script 111 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Yeah...
-	Come on,let's go...
+	Estou, sim...
+	Vamos continuar...
 	"""
 	keyWait
 		any = false
@@ -1964,13 +1954,14 @@ script 112 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"Look,Lan!"
+	"Veja, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think the darkness
-	finally had enough!
+	Parece que a escuridão
+	foi apagada pelo meu
+	relâmpago!
 	"""
 	keyWait
 		any = false
@@ -1981,9 +1972,9 @@ script 113 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	The SoulWeapons are
-	fried... I'd better
-	get more fast!
+	As ArmasAlma deram
+	curto... É melhor eu
+	ir recarregá-las!
 	"""
 	keyWait
 		any = false
@@ -1993,7 +1984,7 @@ script 114 mmbn6 {
 	mugshotShow
 		mugshot = ElecMan
 	msgOpen
-	"Oogh!!"
+	"Ough!!"
 	keyWait
 		any = false
 	end
@@ -2003,7 +1994,7 @@ script 115 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you ready,
+	Tá pronto,
 	ElecMan?
 	"""
 	keyWait
@@ -2017,8 +2008,9 @@ script 116 mmbn6 {
 		mugshot = ElecMan
 	msgOpen
 	"""
-	Zapping to go!
-	Come on!!
+	Quase em curto de
+	tanto que estou!
+	Vamos lá!!
 	"""
 	keyWait
 		any = false
@@ -2029,7 +2021,7 @@ script 120 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Be careful,
+	Vai com cuidado,
 	TomahawkMan...
 	"""
 	keyWait
@@ -2041,8 +2033,8 @@ script 122 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Attack it with my
-	SoulKnife!?
+	Atacar com a minha
+	FacaAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -2055,7 +2047,7 @@ script 122 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2064,7 +2056,7 @@ script 122 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2082,8 +2074,8 @@ script 123 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Attack it with my
-	SoulSword!?
+	Atacar com a minha
+	EspadaAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -2096,7 +2088,7 @@ script 123 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2105,7 +2097,7 @@ script 123 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2123,8 +2115,8 @@ script 124 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Attack it with my
-	SoulAx!?
+	Atacar com o meu
+	MachadoAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -2137,7 +2129,7 @@ script 124 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2146,7 +2138,7 @@ script 124 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2164,8 +2156,8 @@ script 125 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Attack it with my
-	SoulGun!?
+	Atacar com a minha
+	PistolaAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -2178,7 +2170,7 @@ script 125 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2187,7 +2179,7 @@ script 125 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2204,7 +2196,7 @@ script 126 mmbn6 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Waaargh!"
+	"Uaaaargh!"
 	keyWait
 		any = false
 	end
@@ -2214,9 +2206,9 @@ script 127 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Alright!
-	I got that
-	EvilSpirit!
+	Beleza!
+	Toma essa,
+	Espírito Maligno!
 	"""
 	keyWait
 		any = false
@@ -2227,8 +2219,8 @@ script 128 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Watch out for the
-	counterattack,
+	Fica esperto pro
+	contra-ataque,
 	TomahawkMan!!
 	"""
 	keyWait
@@ -2244,8 +2236,8 @@ script 130 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you OK,
-	TomahawkMan!?
+	Você tá legal,
+	TomahawkMan?!
 	"""
 	keyWait
 		any = false
@@ -2258,9 +2250,9 @@ script 131 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	I'm fine.
-	Now,let's go sharpen
-	my tomahawk!
+	Eu tô bem. Vamos, a
+	minha machadinha tá
+	afiada e pronta pra ação!
 	"""
 	keyWait
 		any = false
@@ -2270,13 +2262,13 @@ script 132 mmbn6 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Look,Lan!"
+	"Olha, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think the darkness
-	finally gave up!
+	Acho que a escuridão
+	finalmente deu no pé!
 	"""
 	keyWait
 		any = false
@@ -2287,9 +2279,9 @@ script 133 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	My SoulWeapons ran
-	out. I'll have to
-	get more right away!
+	Acabaram as minhas
+	ArmasAlma. Tenho que
+	ir atrás de mais!
 	"""
 	keyWait
 		any = false
@@ -2299,7 +2291,7 @@ script 134 mmbn6 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Uwaaah!!"
+	"Aargh!!"
 	keyWait
 		any = false
 	end
@@ -2309,7 +2301,7 @@ script 135 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you ready,
+	Tá pronto,
 	TomahawkMan?
 	"""
 	keyWait
@@ -2323,9 +2315,7 @@ script 136 mmbn6 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	No problem!
-	I'm always ready
-	to go!
+	Mais que pronto! Sempre!
 	"""
 	keyWait
 		any = false
@@ -2336,8 +2326,8 @@ script 140 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Be careful,
-	EraseMan...
+	Vai com cuidado,
+	KillerMan...
 	"""
 	keyWait
 		any = false
@@ -2348,8 +2338,8 @@ script 142 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Erase this pest
-	with the SoulKnife!?
+	Matar esse traste
+	com a FacaAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -2362,7 +2352,7 @@ script 142 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2371,7 +2361,7 @@ script 142 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2389,8 +2379,8 @@ script 143 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Erase this pest
-	with the SoulSword!?
+	Matar esse traste
+	com a EspadaAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -2403,7 +2393,7 @@ script 143 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2412,7 +2402,7 @@ script 143 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2430,8 +2420,8 @@ script 144 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Erase this pest
-	with the SoulAx!?
+	Matar esse traste
+	com o MachadoAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -2444,7 +2434,7 @@ script 144 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2453,7 +2443,7 @@ script 144 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2471,8 +2461,8 @@ script 145 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Erase this pest
-	with the SoulGun!?
+	Matar esse traste
+	com a PistolaAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -2485,7 +2475,7 @@ script 145 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2494,7 +2484,7 @@ script 145 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2511,7 +2501,7 @@ script 146 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Hiyahahaha!!"
+	"Riá ha ha haa!"
 	keyWait
 		any = false
 	end
@@ -2521,8 +2511,9 @@ script 147 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Hiyahahaha!!
-	EvilSpirit deleted!
+	Riá ha ha ha haaa!!
+	Espírito Maligno,
+	mortinho da Silva!
 	"""
 	keyWait
 		any = false
@@ -2533,9 +2524,9 @@ script 148 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Watch out for the
-	counterattack,
-	EraseMan!!
+	Fica esperto pro
+	contra-ataque,
+	KillerMan!!
 	"""
 	keyWait
 		any = false
@@ -2550,8 +2541,8 @@ script 150 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you OK,
-	EraseMan!?
+	Você tá legal,
+	KillerMan?!
 	"""
 	keyWait
 		any = false
@@ -2564,9 +2555,9 @@ script 151 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Don't belittle me...
-	Well? Don't make me
-	wait!
+	Não me subestime...!
+	E aí? A gente vai ou
+	não vai?!
 	"""
 	keyWait
 		any = false
@@ -2576,14 +2567,14 @@ script 152 mmbn6 {
 	mugshotShow
 		mugshot = EraseMan
 	msgOpen
-	"Hehehe,look!"
+	"He he he, olha só!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Awww,poor things.
-	Maybe I was a bit
-	too rough with them.
+	Tadinha da escuridão.
+	Acho que eu peguei
+	pesado demais com ela.
 	"""
 	keyWait
 		any = false
@@ -2594,16 +2585,15 @@ script 153 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Dang it! Lousy
-	SoulWeapons are
-	gone!
+	Droga! Essas ArmasAlma
+	imprestáveis acabaram!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmph!
-	I'll go reload.
+	Hmpf!
+	Vamos lá recarregar.
 	"""
 	keyWait
 		any = false
@@ -2623,8 +2613,8 @@ script 155 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you ready,
-	EraseMan?
+	Tá pronto,
+	KillerMan?
 	"""
 	keyWait
 		any = false
@@ -2637,9 +2627,8 @@ script 156 mmbn6 {
 		mugshot = EraseMan
 	msgOpen
 	"""
-	Let's hurry up
-	and bring this
-	to an end!
+	Bora logo dar o sono
+	eterno pra esse verme!
 	"""
 	keyWait
 		any = false
@@ -2650,7 +2639,7 @@ script 160 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Be careful,
+	Vai com cuidado,
 	GroundMan...
 	"""
 	keyWait
@@ -2662,8 +2651,8 @@ script 162 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Use the SoulKnife
-	on this fool!?
+	Usar a FacaAlma
+	nesse otário?!
 	
 	"""
 	positionOptionHorizontal
@@ -2676,7 +2665,7 @@ script 162 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2685,7 +2674,7 @@ script 162 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2703,8 +2692,8 @@ script 163 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Use the SoulSword
-	on this fool!?
+	Usar a EspadaAlma
+	nesse otário?!
 	
 	"""
 	positionOptionHorizontal
@@ -2717,7 +2706,7 @@ script 163 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2726,7 +2715,7 @@ script 163 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2744,8 +2733,8 @@ script 164 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Use the SoulAx
-	on this fool?
+	Usar o MachadoAlma
+	nesse otário?!
 	
 	"""
 	positionOptionHorizontal
@@ -2758,7 +2747,7 @@ script 164 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2767,7 +2756,7 @@ script 164 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2785,8 +2774,8 @@ script 165 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Use the SoulGun
-	on this fool!?
+	Usar a PistolaAlma
+	nesse otário?!
 	
 	"""
 	positionOptionHorizontal
@@ -2799,7 +2788,7 @@ script 165 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2808,7 +2797,7 @@ script 165 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2825,7 +2814,7 @@ script 166 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whirrrrrr!!"
+	"Vrrrrrrrrr!!"
 	keyWait
 		any = false
 	end
@@ -2835,9 +2824,9 @@ script 167 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Wrirrrrrr!!
-	I buried that
-	EvilSpirit!
+	Vrrrrr!!
+	Espírito Maligno,
+	enterrado!
 	"""
 	keyWait
 		any = false
@@ -2848,8 +2837,8 @@ script 168 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Watch out for the
-	counterattack,
+	Fica esperto pro
+	contra-ataque,
 	GroundMan!!
 	"""
 	keyWait
@@ -2865,8 +2854,8 @@ script 170 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you OK,
-	GroundMan!?
+	Você tá legal,
+	GroundMan?!
 	"""
 	keyWait
 		any = false
@@ -2879,9 +2868,9 @@ script 171 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	I'm fine!
-	Drilling on ahead!
-	Whirrrrrr!!
+	Eu tô bem!
+	Vamos pra próxima
+	camada! Vrrrrr!!
 	"""
 	keyWait
 		any = false
@@ -2892,15 +2881,15 @@ script 172 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Whirrrr!!
-	Lookie here!
+	Vrrrr!!
+	Olha só isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The darkness had to
-	cut and run!
+	A escuridão não deu
+	conta do trabalho!
 	"""
 	keyWait
 		any = false
@@ -2910,14 +2899,13 @@ script 173 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whirrrr..."
+	"Vrrrr..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The SoulWeapons
-	are out.
-	Ah,I'll get more.
+	As ArmasAlma acabaram...
+	Ah, vou pegar mais.
 	"""
 	keyWait
 		any = false
@@ -2927,7 +2915,7 @@ script 174 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whoa!!"
+	"Eita!!"
 	keyWait
 		any = false
 	end
@@ -2937,7 +2925,7 @@ script 175 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you ready,
+	Tá pronto,
 	GroundMan?
 	"""
 	keyWait
@@ -2951,9 +2939,9 @@ script 176 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Whirrr!!
-	Ready to drill,
-	drill,drill!
+	Vrrrr!!
+	Pronto pra escavar,
+	escavar, escavar!
 	"""
 	keyWait
 		any = false
@@ -2964,7 +2952,7 @@ script 180 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Be careful,
+	Vai com cuidado,
 	ChargeMan...
 	"""
 	keyWait
@@ -2976,8 +2964,8 @@ script 182 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Charge it with the
-	SoulKnife!?
+	Avançar nele com a
+	FacaAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -2990,7 +2978,7 @@ script 182 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2999,7 +2987,7 @@ script 182 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -3017,8 +3005,8 @@ script 183 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Charge it with the
-	SoulSword!?
+	Avançar nele com a
+	EspadaAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -3031,7 +3019,7 @@ script 183 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -3040,7 +3028,7 @@ script 183 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -3058,8 +3046,8 @@ script 184 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Charge it with the
-	SoulAx!?
+	Avançar nele com o
+	MachadoAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -3072,7 +3060,7 @@ script 184 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -3081,7 +3069,7 @@ script 184 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -3099,8 +3087,8 @@ script 185 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Charge it with the
-	SoulGun!?
+	Avançar nele com a
+	PistolaAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -3113,7 +3101,7 @@ script 185 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -3122,7 +3110,7 @@ script 185 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -3139,7 +3127,7 @@ script 186 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Choo,choooo!!"
+	"Tchú-tchúúú!!"
 	keyWait
 		any = false
 	end
@@ -3149,9 +3137,9 @@ script 187 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Choooo!!
-	I flattened that
-	EvilSpirit!!
+	Tchúúú!!
+	O Espírito Maligno
+	foi atropelado!!
 	"""
 	keyWait
 		any = false
@@ -3162,8 +3150,8 @@ script 188 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Watch out for the
-	counterattack,
+	Fica esperto pro
+	contra-ataque,
 	ChargeMan!!
 	"""
 	keyWait
@@ -3179,8 +3167,8 @@ script 190 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you OK,
-	ChargeMan!?
+	Você tá legal,
+	ChargeMan?!
 	"""
 	keyWait
 		any = false
@@ -3193,9 +3181,9 @@ script 191 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Choo,choo...!!
-	Nothing I can't
-	handle! Let's go!
+	Tchú-tchúú...!!
+	Não foi grande coisa!
+	Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -3206,16 +3194,16 @@ script 192 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Choo,choo...
-	Look here!
+	Tchú-tchúú...
+	Olha só!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That darkness
-	floated off for
-	destination unknown!
+	A escuridão pegou um
+	trem pra onde Judas
+	perdeu as botas!
 	"""
 	keyWait
 		any = false
@@ -3225,14 +3213,14 @@ script 193 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Whoooo..."
+	"Oohhh..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The SoulWeapons have
-	jumped track!
-	Better fix that!
+	As ArmasAlma ficaram
+	sem combustível!
+	Vamos reabastecer!
 	"""
 	keyWait
 		any = false
@@ -3242,7 +3230,7 @@ script 194 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Whoo,whooooo!!"
+	"Aaaaaurgh!!"
 	keyWait
 		any = false
 	end
@@ -3252,7 +3240,7 @@ script 195 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you ready,
+	Tá pronto,
 	ChargeMan?
 	"""
 	keyWait
@@ -3266,9 +3254,9 @@ script 196 mmbn6 {
 		mugshot = ChargeMan
 	msgOpen
 	"""
-	Choo,chooooo!!
-	Let's make
-	some tracks!!
+	Tchú-tchúúúo!!
+	Vamos completar
+	esse trajeto!!
 	"""
 	keyWait
 		any = false
@@ -3279,7 +3267,7 @@ script 200 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Be careful,
+	Vai com cuidado,
 	DustMan...
 	"""
 	keyWait
@@ -3291,8 +3279,8 @@ script 202 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Get this sucker
-	with the SoulKnife!?
+	Vamos dar um trato nessa
+	sujeira com a FacaAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -3305,7 +3293,7 @@ script 202 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -3314,7 +3302,7 @@ script 202 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -3332,8 +3320,8 @@ script 203 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Get this sucker
-	with the SoulSword!?
+	Vamos dar um trato nessa
+	sujeira com a EspadaAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -3346,7 +3334,7 @@ script 203 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -3355,7 +3343,7 @@ script 203 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -3373,8 +3361,8 @@ script 204 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Get this sucker
-	with the SoulAx!?
+	Vamos dar um trato nessa
+	sujeira com o MachadoAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -3387,7 +3375,7 @@ script 204 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -3396,7 +3384,7 @@ script 204 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -3414,8 +3402,8 @@ script 205 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Get this sucker
-	with the SoulGun!?
+	Vamos dar um trato nessa
+	sujeira com a PistolaAlma?!
 	
 	"""
 	positionOptionHorizontal
@@ -3428,7 +3416,7 @@ script 205 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -3437,7 +3425,7 @@ script 205 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -3454,7 +3442,7 @@ script 206 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	msgOpen
-	"Gahahaha!!"
+	"Gaa ha ha ha!!"
 	keyWait
 		any = false
 	end
@@ -3464,9 +3452,9 @@ script 207 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Gahahaha!!
-	I got you,you
-	EvilSpirit scum!!
+	Ga ha ha ha!!
+	Peguei vocês, Espíritos
+	Malignos imundos!
 	"""
 	keyWait
 		any = false
@@ -3477,8 +3465,8 @@ script 208 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Watch out for the
-	counterattack,
+	Fica esperto pro
+	contra-ataque,
 	DustMan!!
 	"""
 	keyWait
@@ -3493,7 +3481,7 @@ script 210 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are you OK,DustMan!?"
+	"Você tá legal, DustMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -3505,9 +3493,9 @@ script 211 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Gahahaha,I'm fine!
-	Can't take the air
-	out of me!!
+	Ga ha ha ha, eu tô bem!
+	Esta máquina aqui ainda
+	tá cheia de gás!!
 	"""
 	keyWait
 		any = false
@@ -3518,15 +3506,13 @@ script 212 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Oh,hey!
-	Look at that!
+	Ah! Olha só isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The darkness
-	cleared out!
+	A escuridão sumiu!
 	"""
 	keyWait
 		any = false
@@ -3537,9 +3523,9 @@ script 213 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	The SoulWeapons are
-	out. Ah,better just
-	go get more...
+	As ArmasAlma acabaram.
+	Bom, melhor eu ir atrás
+	de mais...
 	"""
 	keyWait
 		any = false
@@ -3559,7 +3545,7 @@ script 215 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you ready,
+	Tá pronto,
 	DustMan?
 	"""
 	keyWait
@@ -3573,9 +3559,9 @@ script 216 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Gahahaha! Spotlessly
-	ready! Let's take
-	out the trash!
+	Ga ha ha ha!
+	Impecavelmente!
+	Hora de tirar o lixo!
 	"""
 	keyWait
 		any = false
@@ -3587,14 +3573,13 @@ script 219 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Hai_ya!
-	A cybercrow has
-	pecked at you.
+	Ah!
+	Um cybercorvo lhe bicou.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Start over again!"
+	"Do zero!"
 	keyWait
 		any = false
 	end

@@ -6,8 +6,7 @@ script 0 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Lan! Good to see
-	you,drip!
+	Lan! É bom te ver, xuá!
 	"""
 	keyWait
 		any = false
@@ -19,7 +18,7 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You too,AquaMan! "
+	"E eu, você, AquaMan! "
 	keyWait
 		any = false
 	clearMsg
@@ -31,16 +30,15 @@ script 2 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	OK,now Lan,please
-	operate AquaMan 
-	and go to
+	Tá bom. Lan, por favor,
+	opere o AquaMan e vá
+	para a Página do Aquário
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Aquarium HP in
-	SeasideArea.
+	na Área Beira-Mar.
 	"""
 	keyWait
 		any = false
@@ -52,14 +50,13 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The Aquarium HP?"
+	"A Página do Aquário?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What am I gonna
-	learn at the
-	Aquarium?
+	Eu tô indo aprender
+	o quê no Aquário?
 	"""
 	keyWait
 		any = false
@@ -72,17 +69,17 @@ script 4 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Um,nothing really...
-	I kinda have this
-	part_time job there.
+	Er, nada...
+	É só que eu trabalho
+	de meio-período lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just thought since
-	you're going that
-	way... Heheh!
+	Só pensei que, já que
+	você tava indo pra lá...
+	He he!
 	"""
 	keyWait
 		any = false
@@ -95,9 +92,9 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	S_Since I... What!?
-	What's that gotta do
-	with teaching me!?
+	J-já que eu... O quê?!
+	O que isso tem a ver
+	com a aula?!
 	"""
 	keyWait
 		any = false
@@ -109,22 +106,22 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	msgOpen
-	"*sniffle*..."
+	"Chuif..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've gotta take on
-	so many part_time
-	jobs to make money,
+	Eu tenho que fazer bicos
+	em tudo quanto é canto
+	pra fazer dinheiro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	or else I can't
-	pay my brothers'
-	tuition costs!!
+	senão não tenho como
+	pagar a escola dos
+	meus irmãos!!
 	"""
 	keyWait
 		any = false
@@ -136,22 +133,21 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I_I'm sorry..."
+	"D-desculpa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I take AquaMan 
-	to the Aquarium HP,
-	it'll be OK,right?
+	Então é só eu levar o
+	AquaMan pra Página do
+	Aquário, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But what should I
-	do once I get
-	there?
+	Mas o que eu faço
+	depois que chegar lá?
 	"""
 	keyWait
 		any = false
@@ -164,25 +160,22 @@ script 8 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	One of the staff's
-	Navis should be
-	there somewhere.
+	Um dos Navis funcionários
+	deverá estar lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just find that Navi
-	and you should be
-	OK.
+	É só achar ele,
+	que tudo se resolve.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now let's get going!
-	I'll be waiting for
-	you at the Aquarium!
+	Bom, vamos lá! Espero
+	por você no Aquário!
 	"""
 	keyWait
 		any = false
@@ -195,28 +188,26 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah! Heh?
-	W_Wait a sec,Shuko!!
+	Ah! Hã?
+	P-pera aí, Shuko!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... She ran off..."
+	"... E lá foi ela..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I guess I
-	don't really have
-	a choice...
+	Bom, acho que não
+	tenho muita escolha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ready to go to
-	the Aquarium HP,
-	AquaMan? 
+	Pronto pra ir pra Página
+	do Aquário, AquaMan?
 	"""
 	keyWait
 		any = false
@@ -228,7 +219,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Let's go,drip!!"
+	"Vamos lá, xuá!!"
 	keyWait
 		any = false
 	end

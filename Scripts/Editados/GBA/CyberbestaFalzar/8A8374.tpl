@@ -6,37 +6,37 @@ script 0 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Ho,ho,ho,ho!
-	You move well now __
-	as the wind moves.
+	Ho ho ho ho!
+	Você se move bem agora.
+	Como o vento!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yes,you move as the
-	wind through hair.
+	Sim, seus passos são
+	como a brisa pelo cabelo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	About this,I can
-	teach you no more.
+	Nessa área, não tenho
+	mais nada a lhe ensinar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now you know the
-	secrets of my art.
+	Agora, você sabe os
+	segredos da minha arte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And TenguMan can
-	become one with you!
+	E o TenguMan pode se
+	tornar um só com você!
 	"""
 	keyWait
 		any = false
@@ -53,8 +53,8 @@ script 1 mmbn6 {
 	soundPlay
 		track = 143
 	"""
-	TenguMan became
-	Lan's LinkNavi!
+	TenguMan se tornou
+	o NaviElo do Lan!
 	"""
 	waitOWVar
 		variable = 0
@@ -73,16 +73,16 @@ script 2 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	TenguMan's skills
-	are now yours.
+	As habilidades do
+	TenguMan agora são suas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use the TenguCross
-	wisely,grasshopper,
-	and never in anger.
+	Use o TenguCruz
+	sabiamente, meu jovem,
+	e nunca com raiva.
 	"""
 	keyWait
 		any = false
@@ -95,9 +95,9 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I will master
-	TenguMan's power,
-	Master Feng_Tian.
+	Eu vou dominar o
+	poder do TenguMan,
+	Mestre Feng-Tian.
 	"""
 	keyWait
 		any = false
@@ -109,22 +109,21 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	msgOpen
-	"Ho,ho,ho,ho!"
+	"Ho ho ho ho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even wind can become
-	claws if you know
-	how to use it.
+	Até o vento pode se
+	tornar garras quando
+	se sabe usá-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Train well,and don't
-	forget the lessons
-	you have learned.
+	Treine bem e não esqueça
+	as lições que aprendeu.
 	"""
 	keyWait
 		any = false
@@ -136,7 +135,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I won't! Thank you!"
+	"Não vou esquecer!\nObrigado!"
 	keyWait
 		any = false
 	clearMsg
@@ -148,23 +147,21 @@ script 6 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	... Ah,one more
-	thing...
+	... Ah, e mais uma coisa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you need
-	TenguMan,you only
-	need to come here.
+	Caso precise do TenguMan,
+	é só vir aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He is here in this
-	book of nature.
+	Ele estará aqui, neste
+	livro sobre a natureza.
 	"""
 	keyWait
 		any = false
@@ -177,8 +174,8 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,I'll definitely
-	be back!
+	OK. Eu volto sim,
+	com certeza!
 	"""
 	keyWait
 		any = false

@@ -29,8 +29,7 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey! It's Master
-	Feng_Tian!
+	Ah! É o Mestre Feng-Tian!
 	"""
 	keyWait
 		any = false
@@ -39,9 +38,9 @@ script 10 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Ho,ho,ho! Funny
-	to run into you,
-	grasshopper!
+	Ho ho ho!
+	Que coincidência, esbarrar
+	com você aqui, meu jovem!
 	"""
 	keyWait
 		any = false
@@ -50,48 +49,41 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you
-	doing here,Master?
+	Tá fazendo o quê
+	aqui, Mestre?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = FengTian
-	"Ho,ho,ho,ho..."
+	"Ho ho ho ho..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm teaching a
-	special friend the
+	Estou ensinando a um
+	amigo especial o método
+	para controlar o vento.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	way to control the
-	wind.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"...Oh,yes..."
+	"... Ah, sim..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You and I met here
-	due to the winds
-	of fate.
+	Eu e você nos encontramos
+	aqui graças aos ventos do
+	destino.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thus,would you
-	like to take my
-	class?
+	Assim sendo, gostaria
+	de assistir à minha aula?
 	"""
 	keyWait
 		any = false
@@ -100,9 +92,8 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Take Master
-	Feng_Tian's
-	class...?
+	Fazer a aula do
+	Mestre Feng-Tian...?
 	"""
 	keyWait
 		any = false
@@ -118,7 +109,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure  "
+	" Claro  "
 	option
 		brackets = 0
 		left = 0
@@ -127,7 +118,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -142,24 +133,22 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	"""
-	Once class has
-	begun you may not
-	quit,grasshopper!
+	Uma vez que a aula se
+	inicia, você não pode
+	deixá-la, meu pupilo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you must stay
-	here until class
-	is completed...
+	E deverá ficar aqui
+	até ela se encerrar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is that understood,
-	grasshopper?
+	Está de acordo, jovem?
 	"""
 	keyWait
 		any = false
@@ -175,7 +164,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -184,7 +173,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -207,13 +196,13 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	msgOpen
-	"Ho,ho,ho,ho!"
+	"Ho ho ho ho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm watching all
-	of your movements!
+	Estou de olho em todos
+	os seus movimentos!
 	"""
 	keyWait
 		any = false
@@ -228,21 +217,20 @@ script 12 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Ho,ho,ho,ho,
-	the final lesson.
+	Ho ho ho ho,
+	a provação final.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want you to
-	defeat my Navi,
-	TenguMan!
+	Quero que você derrote
+	o meu Navi, TenguMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Are you ready?"
+	"Está pronto?"
 	keyWait
 		any = false
 	clearMsg
@@ -257,7 +245,7 @@ script 12 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -266,7 +254,7 @@ script 12 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -281,9 +269,9 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	"""
-	Ho,ho,ho,ho...
-	Are you frightened
-	grasshopper?
+	Ho ho ho ho...
+	Assustado, meu
+	jovem aprendiz?
 	"""
 	keyWait
 		any = false
@@ -294,9 +282,9 @@ script 13 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Ho,ho,ho,ho!
-	Try again,
-	grasshopper?
+	Ho ho ho ho!
+	Tentar de novo,
+	meu jovem?
 	"""
 	keyWait
 		any = false
@@ -312,7 +300,7 @@ script 13 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -321,7 +309,7 @@ script 13 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -336,9 +324,9 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	"""
-	Ho,ho,ho,ho...
-	Are you frightened
-	grasshopper?
+	Ho ho ho ho...
+	Assustado, meu
+	jovem aprendiz?
 	"""
 	keyWait
 		any = false
@@ -349,16 +337,16 @@ script 14 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	You still have
-	unnecessary
-	movements.
+	Você ainda se utiliza
+	de movimentos
+	desnecessários.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ho,ho,ho,ho...
-	Try one more time?
+	Ho ho ho ho...
+	Tentar mais uma vez?
 	"""
 	keyWait
 		any = false
@@ -374,7 +362,7 @@ script 14 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -383,7 +371,7 @@ script 14 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -398,9 +386,9 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	"""
-	Ho,ho,ho,ho...
-	Are you frightened
-	grasshopper?
+	Ho ho ho ho...
+	Assustado, meu
+	jovem aprendiz?
 	"""
 	keyWait
 		any = false
@@ -410,7 +398,7 @@ script 15 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	msgOpen
-	"Let's begin!"
+	"Comecemos!"
 	keyWait
 		any = false
 	flagSet
@@ -424,9 +412,8 @@ script 16 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Ho,ho,ho,ho,you
-	should come back if
-	you so desire.
+	Ho ho ho ho.
+	Se desejar, volte aqui.
 	"""
 	keyWait
 		any = false
@@ -437,17 +424,16 @@ script 17 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Meeting you here
-	is thanks to the
-	winds of fate...
+	Tê-lo encontrado aqui
+	foi uma dádiva dos
+	ventos do destino...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Would you like to
-	take my class,
-	grasshopper?
+	Gostaria de assistir à
+	minha aula, meu jovem?
 	"""
 	keyWait
 		any = false
@@ -456,9 +442,8 @@ script 17 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Take Master
-	Feng_Tian's
-	class...?
+	Fazer a aula do
+	Mestre Feng-Tian...?
 	"""
 	keyWait
 		any = false
@@ -474,7 +459,7 @@ script 17 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure  "
+	" Claro  "
 	option
 		brackets = 0
 		left = 0
@@ -483,7 +468,7 @@ script 17 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -498,24 +483,22 @@ script 17 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Once class has
-	begun you may not
-	quit,grasshopper!
+	Uma vez que a aula se
+	inicia, você não pode
+	deixá-la, meu pupilo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you must stay
-	here until class
-	is completed...
+	E deverá ficar aqui
+	até ela se encerrar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is that understood,
-	grasshopper?
+	Está de acordo, jovem?
 	"""
 	keyWait
 		any = false
@@ -531,7 +514,7 @@ script 17 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -540,7 +523,7 @@ script 17 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -564,17 +547,16 @@ script 18 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	If you'd like to
-	use TenguMan,
-	come back here.
+	Se quiser utilizar
+	o TenguMan, é só
+	voltar aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He is always in
-	this book of
-	nature!
+	Ele está sempre neste
+	livro sobre a natureza!
 	"""
 	keyWait
 		any = false
@@ -585,16 +567,15 @@ script 19 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Sorry,but I'm
-	not holding
-	class today.
+	Lamento, mas não estou
+	dando aulas hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come back another
-	time,please.
+	Por favor,
+	volte outra hora.
 	"""
 	keyWait
 		any = false
@@ -605,8 +586,8 @@ script 20 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Let's stop
-	the JudgeTree!
+	Lan! Vamos parar
+	a Árvore Juíza!
 	"""
 	keyWait
 		any = false
@@ -625,7 +606,7 @@ script 21 mmbn6 {
 	controlLock
 	soundPlay
 		track = 414
-	"*beep,beep,beep!*"
+	"Bip Bip Bip!"
 	wait
 		frames = 10
 	soundEnableTextSFX
@@ -634,22 +615,27 @@ script 21 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	To open this door,
-	please enter the
-	password.
+	Para abrir esta porta,
+	insira a senha.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The law governing\n NetNavi rights is"
+	"""
+	"A lei que governa os
+	direitos dos NetNavis
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" what Green Town\n law number?\""
+	"""
+	é o decreto número
+	quanto do Distrito Verde?"
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"Enter Password:\n"
+	"Insira senha:\n"
 	option
 		brackets = 1
 		left = 3
@@ -693,7 +679,7 @@ script 21 mmbn6 {
 		count = 1
 	"""
 	OK
-	たLてR:Cursor UてD:Numち
+	(EてD: Cursor CてB: Núm)
 	"""
 	menuSelectPassword
 		password = 0
@@ -710,12 +696,12 @@ script 22 mmbn6 {
 	controlLock
 	soundPlay
 		track = 337
-	"*beep* "
+	"Bip "
 	wait
 		frames = 20
 	soundPlay
 		track = 374
-	"*click!!*"
+	"Clic!!"
 	wait
 		frames = 20
 	soundEnableTextSFX
@@ -723,7 +709,7 @@ script 22 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"You May Proceed"
+	"Entrada liberada."
 	keyWait
 		any = false
 	flagSet
@@ -736,26 +722,26 @@ script 23 mmbn6 {
 	msgOpen
 	soundPlay
 		track = 210
-	"Password Incorrect"
+	"Senha incorreta."
 	keyWait
 		any = false
 	end
 }
 script 24 mmbn6 {
 	msgOpen
-	"Cancel Entry"
+	"Entrada cancelada."
 	keyWait
 		any = false
 	end
 }
 script 25 mmbn6 {
 	msgOpen
-	"..."
+	"... "
 	soundDisableTextSFX
 	controlLock
 	soundPlay
 		track = 414
-	"*beep,beep,beep!*"
+	"Bip Bip Bip!"
 	wait
 		frames = 10
 	soundEnableTextSFX
@@ -764,31 +750,36 @@ script 25 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	To open this door,
-	please enter the
-	password.
+	Para abrir a porta, por
+	favor, insira a senha.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The law governing\n NetNavi rights is"
+	"""
+	"A lei que governa os
+	direitos dos NetNavis
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" what law number?\""
+	"""
+	é o decreto número
+	quanto do Distrito Verde?"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Navi rights law is
-	what number?
+	O número da lei dos
+	direitos dos Navis?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I have no idea!"
+	"Eu nem faço ideia!"
 	keyWait
 		any = false
 	end
@@ -798,8 +789,7 @@ script 28 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's take
-	a class!
+	Lan, vamos fazer a aula!
 	"""
 	keyWait
 		any = false
@@ -824,106 +814,97 @@ script 30 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	You must be the
-	one who answered
-	my request?
+	Foi você quem pegou
+	o meu pedido?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The truth is I'm
-	a little worried...
+	Então, a verdade é
+	que eu estou meio
+	preocupado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems my
-	daughter has gotten
-	herself a boyfriend.
+	Parece que a minha filha
+	arrumou um namorado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She's my only
-	daughter,so this
-	worries me...
+	Ela é minha única
+	filha, então isso
+	me preocupa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So this is my
-	request...
+	Logo, eis o meu pedido:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want you to make
-	sure this guy is
-	OK for my daughter.
+	quero que você confirme
+	que o sujeito é certo
+	pra minha filhinha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought about how
-	to do this...
+	Eu pensei muito
+	em como faria isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today my daughter
-	is on a date on the
-	Net...
+	Hoje, a minha filha está
+	num encontro na Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I want you to
-	go and try to get
-	her to go with you.
+	então quero que você
+	vá lá e tente convencer
+	ela a sair com você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want you to see
-	what her boyfriend
+	Eu quero ver como o
+	tal namorado vai agir
+	numa situação assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	does in this kind
-	of situation.
+	Pelo que eu ouvi, o
+	encontro está sendo
+	na Área Beira-Mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hear they are
-	on a date in the
-	SeasideArea.
+	Desculpa por te fazer
+	passar papel de vilão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry to make
-	you a bad guy,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	but it's for my
-	daughter!
+	mas é pela minha
+	filhinha!
 	"""
 	keyWait
 		any = false
@@ -934,53 +915,46 @@ script 31 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Today my daughter
-	is on a date on the
-	Net...
+	Hoje, a minha filha está
+	num encontro na Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I want you to
-	go and try to get
-	her to go with you.
+	então quero que você
+	vá lá e tente convencer
+	ela a sair com você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want you to see
-	what her boyfriend
+	Eu quero ver como o
+	tal namorado vai agir
+	numa situação assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	does in this kind
-	of situation.
+	Pelo que eu ouvi, o
+	encontro está sendo
+	na Área Beira-Mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hear they are
-	on a date in the
-	SeasideArea.
+	Desculpa por te fazer
+	passar papel de vilão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry to make
-	you a bad guy,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	but it's for my
-	daughter!
+	mas é pela minha
+	filhinha!
 	"""
 	keyWait
 		any = false
@@ -993,21 +967,20 @@ script 32 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	...How did it go?
-	What kind of guy
-	is he?
+	... E aí, como foi?
+	Que tipo de homem ele é?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My daughter says she
-	isn't a little kid
-	anymore?
+	A minha filha disse
+	que ela não é mais
+	uma garotinha?
 	"""
 	keyWait
 		any = false
@@ -1018,31 +991,31 @@ script 32 mmbn6 {
 	"."
 	wait
 		frames = 30
-	"."
+	". "
 	wait
 		frames = 30
-	"I see..."
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I just
-	couldn't let
-	her go...
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Sorry to involve
-	you in all of this.
+	Acho que eu não
+	consegui desapegar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here is a reward
-	to thank you.
+	Desculpa por te
+	envolver nessa
+	história toda.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Aqui, uma recompensa
+	para agradecer.
 	"""
 	keyWait
 		any = false
@@ -1054,7 +1027,7 @@ script 32 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1065,8 +1038,8 @@ script 32 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Regular memory
-	increased by
+	Memória padrão
+	aumentada em
 	1 MB!!!
 	"""
 	keyWait
@@ -1077,28 +1050,29 @@ script 32 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	My baby girl is
-	all grown up...
+	A minha filhinha
+	já está crescida...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm happy...
-	and a bit sad too.
+	Eu estou feliz...
+	mas, ao mesmo tempo,
+	um pouco triste.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -1110,15 +1084,16 @@ script 33 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	My baby girl is
-	all grown up...
+	A minha filhinha
+	já está crescida...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm happy...
-	and a bit sad too.
+	Eu estou feliz...
+	mas, ao mesmo tempo,
+	um pouco triste.
 	"""
 	keyWait
 		any = false
@@ -1143,75 +1118,75 @@ script 35 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Ahh,yes,I'm the
-	requestor.
+	Ah, sim, eu sou
+	o solicitante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was hoping you'd
-	listen to my
-	request...
+	Por favor, escute
+	o meu pedido...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I would like for
-	you to find a
-	TimeCpsl I buried
+	Gostaria que você
+	encontrasse uma cápsula
+	do tempo que eu enterrei
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	many years ago in
-	Green Area and to
-	bring it back to me.
+	vários anos atrás
+	na Área Verde e a
+	trouxesse para mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may think that
-	since I buried it,
-	I could find it...
+	Você imaginaria que, como
+	aquele que a enterrou, eu
+	conseguiria achá-la...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't remember
-	where I buried it!
+	mas não lembro
+	onde eu enterrei!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not to mention,there
-	are phoney TimeCpsls
+	Pra não falar que
+	tem várias cápsulas
+	do tempo falsas lá
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that will spring a
-	virus if you uncover
-	them!!
+	que lançam vírus
+	em você quando você
+	tenta abri-las!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should look for
-	TimeCpsls at the
-	base of cybertrees.
+	Recomendo procurar
+	por cápsulas sob
+	cyberárvores.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!!"
+	"Boa sorte!!"
 	keyWait
 		any = false
 	end
@@ -1221,47 +1196,46 @@ script 36 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Let me tell you
-	about my request...
+	Vou explicar
+	o meu pedido...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I would like for
-	you to dig up a
-	TimeCpsl I buried
+	Gostaria que você
+	encontrasse uma cápsula
+	do tempo que eu enterrei
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	many years ago in
-	Green Area and to
-	bring it back to me.
+	vários anos atrás
+	na Área Verde e a
+	trouxesse para mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are also
-	phoney TimeCpsls
-	buried,so beware!
+	Mas também há cápsulas
+	falsas do tempo por lá.
+	Cuidado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TimeCpsls are buried
-	at the base of
-	cybertrees.
+	As cápsulas ficam
+	enterradas sob
+	cyberárvores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks for
-	your help!
+	Obrigado pela ajuda!
 	"""
 	keyWait
 		any = false
@@ -1278,101 +1252,99 @@ script 37 mmbn6 {
 	msgOpen
 	"""
 	AHHH!!
-	This is my
-	TimeCpsl!
+	É a minha cápsula do
+	tempo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've helped me
-	out so much...
+	Você salvou a
+	minha vida...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	3 friends and I had
-	planned to dig up
-	this TimeCpsl.
+	Eu mais três amigos
+	planejávamos escavar
+	esta cápsula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	1 is a guy and 2 are
-	girls...
+	Dois são rapazes e a
+	última é uma garota...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyways,inside this
-	TimeCpsl,I wrote the
-	name of a girl...
+	Enfim, dentro da
+	cápsula, eu escrevi o
+	nome de uma garota...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've probably
-	already guessed,but
-	I loved this girl...
+	Como deve dar pra
+	imaginar, eu era
+	apaixonado por ela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She was the girl in
-	our group of 4
-	friends...
+	E, sim, era a garota
+	do nosso grupo de
+	quatro amigos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Recently,she got
-	married to one of
-	the other guys...
+	Por estes dias, ela
+	se casou com um dos
+	outros dois.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If he knew that I
-	was in love with
-	her...
+	Se ele soubesse que eu
+	era apaixonado por ela...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well... I think it
-	would be bad,
-	don't you?
+	Bom... Não ia acabar
+	bem, não concorda?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I had you get
-	this so I could
-	write another name!
+	Então eu tinha que
+	recuperar a cápsula pra
+	escrever outro nome!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hopefully,writing
-	another name will
-	lead to a new love!
+	Quem sabe? Talvez
+	escrever outro nome
+	me leve a um novo amor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,I forgot about
-	your reward!
+	Ah, já ia esquecendo
+	a sua recompensa!
 	"""
 	keyWait
 		any = false
@@ -1384,7 +1356,7 @@ script 37 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1398,23 +1370,23 @@ script 37 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
-	"Thank you!!"
+	"Obrigado!!"
 	keyWait
 		any = false
 	clearMsg
-	"I'm so relieved!!"
+	"Ah, que alívio!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -1426,8 +1398,9 @@ script 38 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Yep! I'll work hard
-	to start a new love!
+	É! Começando agora, vou
+	me empenhar pra começar
+	um novo amor!
 	"""
 	keyWait
 		any = false
@@ -1448,9 +1421,8 @@ script 60 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Ho,ho,ho,ho...
-	You've come to face
-	the master...?
+	Ho ho ho ho...
+	Veio enfrentar o mestre...?
 	"""
 	keyWait
 		any = false
@@ -1466,7 +1438,7 @@ script 60 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1475,7 +1447,7 @@ script 60 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1490,9 +1462,9 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	"""
-	Well,well...
-	Progress comes
-	through effort...
+	Bom...
+	O progresso só vem
+	através da dedicação...
 	"""
 	keyWait
 		any = false
@@ -1503,9 +1475,8 @@ script 61 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Ho,ho,ho,ho...
-	You've come to face
-	the master...?
+	Ho ho ho ho...
+	Veio enfrentar o mestre...?
 	"""
 	keyWait
 		any = false
@@ -1521,7 +1492,7 @@ script 61 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1530,7 +1501,7 @@ script 61 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1545,9 +1516,8 @@ script 61 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	"""
-	Well,well...
-	Progress comes
-	through effort...
+	O progresso só vem
+	através da dedicação...
 	"""
 	keyWait
 		any = false
@@ -1576,28 +1546,28 @@ script 63 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Ho,ho,ho,ho...
-	Your idle thoughts
-	will ruin you!
+	Ho ho ho ho...
+	Seus pensamentos vãos
+	serão sua ruína!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Idle thoughts..."
+	"Pensamentos vãos..."
 	keyWait
 		any = false
 	clearMsg
-	"I have to focus..."
+	"Eu tenho que\nme concentrar..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = TenguMan
 	"""
-	You will see my
-	full strength now!
+	Agora você verá
+	minha força total!
 	"""
 	keyWait
 		any = false
@@ -1616,9 +1586,9 @@ script 64 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Ho,ho,ho,ho..Do
-	you have the skill
-	to defeat TenguMan?
+	Ho ho ho ho.. Você tem
+	as habilidades para
+	vencer o TenguMan?
 	"""
 	keyWait
 		any = false
@@ -1626,9 +1596,9 @@ script 64 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Let's give TenguMan
-	the shock of his
-	life!
+	Bora dar pro TenguMan
+	um choque pra ele nunca
+	esquecer!
 	"""
 	keyWait
 		any = false
@@ -1636,9 +1606,8 @@ script 64 mmbn6 {
 	mugshotShow
 		mugshot = TenguMan
 	"""
-	Hah! Show me what
-	you can really do,
-	grasshopper!!
+	Ha! Mostre-me do que
+	você é capaz, jovem!!
 	"""
 	keyWait
 		any = false
@@ -1661,9 +1630,9 @@ script 65 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Ho,ho,ho,ho...
-	Now is the time to
-	show your skill...
+	Ho ho ho ho...
+	Hora de me mostrar
+	suas habilidades...
 	"""
 	keyWait
 		any = false
@@ -1671,22 +1640,21 @@ script 65 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I won't be easy to
-	beat!!
+	Eu sou duro na queda!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = TenguMan
-	"Are you ready!"
+	"Pronto?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This will be
-	business as usual
-	for me... FIGHT!!
+	Lutarei como luto com
+	qualquer adversário...
+	VAMOS!!
 	"""
 	keyWait
 		any = false
@@ -1711,9 +1679,9 @@ script 68 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Ho,ho,ho,ho...
-	Quite skillful,
-	grasshopper...
+	Ho ho ho ho...
+	Quanta habilidade,
+	meu jovem...
 	"""
 	keyWait
 		any = false
@@ -1724,9 +1692,9 @@ script 69 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Ho,ho,ho,ho...
-	It seems you've
-	neglected class...
+	Ho ho ho ho...
+	Parece que você anda
+	relaxando no treino...
 	"""
 	keyWait
 		any = false
@@ -1770,20 +1738,20 @@ script 74 mmbn6 {
 	mugshotShow
 		mugshot = PatFahran
 	msgOpen
-	"Huh,MegaMan is...!?"
+	"Hã? O MegaMan foi...?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	...It's OK
-	to use SlashMan!
+	... Você pode
+	usar o SlashMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SlashMan is your
-	LinkNavi after all!
+	Ele é o seu
+	NaviElo, afinal!
 	"""
 	keyWait
 		any = false
@@ -1795,22 +1763,20 @@ script 75 mmbn6 {
 	msgOpen
 	"""
 	Hmmm...
-	MegaMan is...?
+	O MegaMan foi...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may use
-	TenguMan...
+	Pode usar o TenguMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TenguMan is
-	your LinkNavi,
-	grasshopper!
+	O TenguMan é o seu
+	NaviElo, jovem pupilo!
 	"""
 	keyWait
 		any = false
@@ -1820,26 +1786,26 @@ script 77 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	msgOpen
-	"Ho,ho,ho,ho..."
+	"Ho ho ho ho..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetBattling without
-	MegaMan is like fire
-	without smoke.
+	NetLutar sem o MegaMan
+	seria como fogo sem
+	fumaça.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Impossible!"
+	"Isto é: impossível!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may use
-	TenguMan anytime,
-	grasshopper!
+	Fique à vontade para
+	usar o TenguMan quando
+	quiser, meu pupilo!
 	"""
 	keyWait
 		any = false
@@ -1854,13 +1820,13 @@ script 100 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm going to offload
-	my SubChips soon...
+	Quero me desfazer
+	dos meus SubChips...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Want to look?\n"
+	"Interessado?\n"
 	positionOptionHorizontal
 		width = 11
 	option
@@ -1871,7 +1837,7 @@ script 100 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Look  "
+	" Ver  "
 	option
 		brackets = 0
 		left = 0
@@ -1880,7 +1846,7 @@ script 100 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Don't look"
+	" Não ver"
 	select
 		default = 0
 		BSeparate = false
@@ -1897,15 +1863,16 @@ script 100 mmbn6 {
 script 101 mmbn6 {
 	clearMsg
 	"""
-	They say,"Giving is
-	its own reward"...
+	Dizem que "é dando
+	que se recebe"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad you don't
-	want anything...
+	Mas, se você não der
+	Zennys, não recebe
+	SubChips...
 	"""
 	keyWait
 		any = false
@@ -1916,9 +1883,9 @@ script 102 mmbn6 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Ahhh... Now that I
-	think about it...
-	I don't have that.
+	Ahhh...
+	Lembrei agora...
+	Estou sem nenhum.
 	"""
 	keyWait
 		any = false
@@ -1947,72 +1914,69 @@ script 110 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	How about some
-	flowers grown in
-	Green Town?
+	Não quer umas flores
+	cultivadas aqui, no
+	Distrito Verde?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? You want to
-	know about a man who
-	bought flowers here
+	Hã? Você quer saber
+	sobre um homem que
+	comprou flores aqui
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	10 years ago
-	to propose to
-	someone?
+	10 anos atrás para
+	pedir uma moça em
+	casamento?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry...
-	I don't know...
+	Desculpa...
+	Eu não teria como saber.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wasn't the one
-	working here
-	10 years ago...
+	Eu não trabalhava
+	aqui 10 atrás...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm... Maybe you
-	should ask the
-	owner about it...
+	Hmm... Acho que você
+	devia perguntar pra dona.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The owner always
-	remembers all of
-	our customers...
+	A dona da loja lembra
+	de todos os clientes,
+	sem exceção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She is making a
-	delivery right
-	now...
+	Ela saiu pra fazer uma
+	entrega agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She said she'd be
-	late,so it must be
-	a far off delivery!
+	Disse que ia demorar pra
+	voltar, então a entrega
+	deve ser bem longe!
 	"""
 	keyWait
 		any = false
@@ -2023,41 +1987,39 @@ script 111 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Huh? You want to
-	know about a man who
-	bought flowers here
+	Hã? Você quer saber
+	sobre um homem que
+	comprou flores aqui
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	10 years ago
-	to propose to
-	someone?
+	10 anos atrás para
+	pedir uma moça em
+	casamento?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm... Maybe you
-	should ask the
-	owner about it...
+	Hmm... Acho que você
+	devia perguntar pra dona.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She is making a
-	delivery right
-	now...
+	Ela saiu pra fazer uma
+	entrega agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She said she'd be
-	late,so it must be
-	a far off delivery!
+	Disse que ia demorar pra
+	voltar, então a entrega
+	deve ser bem longe!
 	"""
 	keyWait
 		any = false
@@ -2070,76 +2032,68 @@ script 112 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	How did it go?
-	Did you meet with
-	the owner?
+	E aí, como foi?
+	Achou a dona?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What!?
-	She remembered!?
+	O quê?!
+	Ela lembrava?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The man bought
-	tulips 10 years
-	ago...
+	O homem comprou tulipas
+	aqui há 10 anos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's the owner
-	alright! She's got
-	a great memory!
+	É, essa é a nossa
+	chefe! A memória
+	dela é impecável!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Umm... Why are you
-	trying to find out
+	Er... Mas, afinal, por
+	que você tá tentando
+	descobrir o que um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	what a customer
-	bought 10 years ago?
+	cliente comprou
+	10 anos atrás?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I see... Reminding
-	someone of the
-	past,huh?
+	Ah, entendi...
+	Relembrar alguém
+	do passado, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that's the case,
-	our shop will have
+	Nesse caso, a nossa
+	loja vai ter que fazer
+	uma coisa especial!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to do something
-	special!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We will give you
-	one of our shop's
-	tulips for free!
+	Vamos ceder uma das
+	nossas tulipas de graça!
 	"""
 	keyWait
 		any = false
@@ -2151,7 +2105,7 @@ script 112 mmbn6 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -2166,8 +2120,8 @@ script 112 mmbn6 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	I hope that couple
-	gets back together!
+	Tô torcendo pro
+	casal reatar!
 	"""
 	keyWait
 		any = false
@@ -2178,9 +2132,9 @@ script 113 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I hope seeing the
-	tulip will bring
-	back old memories!
+	Espero que ver a
+	tulipa desperte
+	boas recordações!
 	"""
 	keyWait
 		any = false
@@ -2191,8 +2145,7 @@ script 114 mmbn6 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Was the tulip
-	useful?
+	E aí, a tulipa funcionou?
 	"""
 	keyWait
 		any = false
@@ -2211,8 +2164,8 @@ script 122 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? It's Master
-	Feng_Tian...
+	Hã? É o Mestre
+	Feng-Tian...
 	"""
 	keyWait
 		any = false
@@ -2221,17 +2174,16 @@ script 122 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Ho,ho,ho! Funny
-	to run into you,
-	grasshopper!
+	Ho ho ho! Que curioso
+	esbarrar com você
+	aqui, meu jovem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's the matter?
-	You look like a
-	sad lotus blossom...
+	O que foi?
+	Você parece tão triste...
 	"""
 	keyWait
 		any = false
@@ -2239,7 +2191,7 @@ script 122 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Well..."
+	"Bom..."
 	keyWait
 		any = false
 	clearMsg
@@ -2247,56 +2199,52 @@ script 122 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	That's worse than
-	losing your bamboo
-	to a panda...
+	Hum, isso é pior que um
+	panda perdendo seu bambu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,at times
-	like these you must
-	not be confused...
+	Contudo, nessas horas,
+	não deve se deixar ser
+	assolado pela confusão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must never
-	ying when you
-	should yang...
+	Nunca devemos "yingar"
+	na hora de "yangar"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am giving a
-	special lecture
-	today...
+	Estou dando uma
+	aula especial hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A lecture on the
-	proper way to
-	control the wind.
+	Uma aula sobre a
+	forma adequada de
+	controlar o vento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel my lecture
-	would be good for
-	you,grasshopper...
+	Sinto que ela seria boa
+	para você, meu jovem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Would you like to
-	join my class?
+	Não gostaria
+	de assistí-la?
 	"""
 	keyWait
 		any = false
@@ -2305,9 +2253,8 @@ script 122 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Take Master
-	Feng_Tian's
-	class,huh?
+	Fazer a aula do
+	Mestre Feng-Tian...?
 	"""
 	keyWait
 		any = false
@@ -2323,7 +2270,7 @@ script 122 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure  "
+	" Claro  "
 	option
 		brackets = 0
 		left = 0
@@ -2332,7 +2279,7 @@ script 122 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2347,16 +2294,16 @@ script 122 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Once class has begun
-	you must stay here
-	until it ends...
+	Uma vez iniciada a
+	aula, você deverá ficar
+	aqui até ela terminar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is that alright,
-	grasshopper?
+	Tudo bem para você,
+	meu jovem?
 	"""
 	keyWait
 		any = false
@@ -2372,7 +2319,7 @@ script 122 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2381,7 +2328,7 @@ script 122 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2405,32 +2352,31 @@ script 123 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Actually,I am
-	giving a special
-	lecture today...
+	Na verdade, estou
+	dando uma aula
+	especial hoje...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A lecture on the
-	proper way to
-	control the wind.
+	Uma aula sobre a
+	forma adequada de
+	controlar o vento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel my lecture
-	would be good for
-	you,grasshopper...
+	Sinto que ela seria boa
+	para você, meu jovem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Would you like to
-	join my class?
+	Não gostaria
+	de assisti-la?
 	"""
 	keyWait
 		any = false
@@ -2439,9 +2385,8 @@ script 123 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Take Master
-	Feng_Tian's
-	class,huh?
+	Fazer a aula do
+	Mestre Feng-Tian...?
 	"""
 	keyWait
 		any = false
@@ -2457,7 +2402,7 @@ script 123 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Sure  "
+	" Claro  "
 	option
 		brackets = 0
 		left = 0
@@ -2466,7 +2411,7 @@ script 123 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2481,16 +2426,16 @@ script 123 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Once class has begun
-	you must stay here
-	until it ends...
+	Uma vez iniciada a
+	aula, você deverá ficar
+	aqui até ela terminar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is that alright,
-	grasshopper?
+	Tudo bem para você,
+	meu jovem?
 	"""
 	keyWait
 		any = false
@@ -2506,7 +2451,7 @@ script 123 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -2515,7 +2460,7 @@ script 123 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false

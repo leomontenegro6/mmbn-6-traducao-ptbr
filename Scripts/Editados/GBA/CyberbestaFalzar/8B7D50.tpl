@@ -6,16 +6,16 @@ script 0 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Looks like you got
-	to CentralArea1 with
-	no problems.
+	Parece que cê chegou
+	na Área Central 1
+	sem estresse.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,GroundMan,
-	you know what to do!
+	Beleza, GroundMan.
+	Já sabe o que fazer!
 	"""
 	keyWait
 		any = false
@@ -28,8 +28,8 @@ script 1 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Yup!
-	Whiiiiiiiiir!!
+	Aham!
+	Vhrrrrrrrrr!!
 	"""
 	keyWait
 		any = false
@@ -39,18 +39,17 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Moliarty
 	msgOpen
-	"Let's start!"
+	"Bora começar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's 40 stones
-	in this area.
+	Tem 40 pedras nesta área.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Drill away!"
+	"Fura bonito!"
 	keyWait
 		any = false
 	end

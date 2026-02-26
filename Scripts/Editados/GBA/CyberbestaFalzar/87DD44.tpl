@@ -6,15 +6,15 @@ script 0 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You... You're not
-	an Under dweller!
+	Tu... Tu não é
+	cria da Under!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that's true...
-	It's your doom!!!!
+	Nesse caso...
+	Perdeu a vida, irmão!!!!
 	"""
 	keyWait
 		any = false
@@ -29,17 +29,16 @@ script 1 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I wonder what would
-	happen if people
-	from the other side
+	Putz, o que será que
+	rolaria com gente do
+	lado de lá que resolvesse
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just walked in
-	here like they owned
-	the place!?
+	entrar aqui como se
+	fosse da casa, né?!
 	"""
 	keyWait
 		any = false
@@ -54,9 +53,9 @@ script 2 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	People from the
-	other side hanging
-	around... Ewww!
+	Gente do lado de
+	fora zanzando por
+	aqui... Nem vem!
 	"""
 	keyWait
 		any = false

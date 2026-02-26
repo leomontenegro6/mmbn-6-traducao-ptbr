@@ -2,7 +2,7 @@
 @size 109
 
 script 0 mmbn6s {
-	"Planning"
+	"Planejamento"
 	end
 }
 script 1 mmbn6s {
@@ -14,7 +14,7 @@ script 2 mmbn6s {
 	end
 }
 script 3 mmbn6s {
-	"Scenario"
+	"Cenário"
 	end
 }
 script 4 mmbn6s {
@@ -26,7 +26,7 @@ script 5 mmbn6s {
 	end
 }
 script 6 mmbn6s {
-	"Character Design"
+	"Design de Personagens"
 	end
 }
 script 7 mmbn6s {
@@ -42,7 +42,7 @@ script 9 mmbn6s {
 	end
 }
 script 10 mmbn6s {
-	"CircusMan Design"
+	"Design do CircusMan"
 	end
 }
 script 11 mmbn6s {
@@ -50,7 +50,7 @@ script 11 mmbn6s {
 	end
 }
 script 12 mmbn6s {
-	"ElementMan Design"
+	"Design do ElementMan"
 	end
 }
 script 13 mmbn6s {
@@ -58,7 +58,7 @@ script 13 mmbn6s {
 	end
 }
 script 14 mmbn6s {
-	"JudgeMan Design"
+	"Design do JudgeMan"
 	end
 }
 script 15 mmbn6s {
@@ -66,7 +66,7 @@ script 15 mmbn6s {
 	end
 }
 script 16 mmbn6s {
-	"Object"
+	"Objetos"
 	end
 }
 script 17 mmbn6s {
@@ -86,7 +86,7 @@ script 20 mmbn6s {
 	end
 }
 script 21 mmbn6s {
-	"Backgrounds"
+	"Cenários"
 	end
 }
 script 22 mmbn6s {
@@ -106,7 +106,7 @@ script 25 mmbn6s {
 	end
 }
 script 26 mmbn6s {
-	"Program"
+	"Programação"
 	end
 }
 script 27 mmbn6s {
@@ -134,7 +134,7 @@ script 32 mmbn6s {
 	end
 }
 script 33 mmbn6s {
-	"Music"
+	"Música"
 	end
 }
 script 34 mmbn6s {
@@ -142,7 +142,7 @@ script 34 mmbn6s {
 	end
 }
 script 35 mmbn6s {
-	"Sound Effect"
+	"Efeitos Sonoros"
 	end
 }
 script 36 mmbn6s {
@@ -150,7 +150,7 @@ script 36 mmbn6s {
 	end
 }
 script 37 mmbn6s {
-	"Offical Illustration"
+	"Ilustrações Oficiais"
 	end
 }
 script 38 mmbn6s {
@@ -162,7 +162,7 @@ script 39 mmbn6s {
 	end
 }
 script 40 mmbn6s {
-	"Co_Production"
+	"Co-Produção"
 	end
 }
 script 41 mmbn6s {
@@ -190,7 +190,7 @@ script 46 mmbn6s {
 	end
 }
 script 47 mmbn6s {
-	"Manual Production"
+	"Produção do Manual"
 	end
 }
 script 48 mmbn6s {
@@ -198,7 +198,7 @@ script 48 mmbn6s {
 	end
 }
 script 49 mmbn6s {
-	"Debug Supervision"
+	"Supervisão de Debug"
 	end
 }
 script 50 mmbn6s {
@@ -206,7 +206,7 @@ script 50 mmbn6s {
 	end
 }
 script 51 mmbn6s {
-	"Special Thanks"
+	"Agradec. Especiais"
 	end
 }
 script 52 mmbn6s {
@@ -298,7 +298,7 @@ script 73 mmbn6s {
 	end
 }
 script 74 mmbn6s {
-	" Localization"
+	" Localização"
 	end
 }
 script 75 mmbn6s {
@@ -318,7 +318,7 @@ script 78 mmbn6s {
 	end
 }
 script 79 mmbn6s {
-	"Assistant Producer"
+	"Produtor Assistente"
 	end
 }
 script 80 mmbn6s {
@@ -326,7 +326,7 @@ script 80 mmbn6s {
 	end
 }
 script 81 mmbn6s {
-	"Producer"
+	"Produtor"
 	end
 }
 script 82 mmbn6s {
@@ -334,7 +334,7 @@ script 82 mmbn6s {
 	end
 }
 script 83 mmbn6s {
-	"Director"
+	"Diretor"
 	end
 }
 script 84 mmbn6s {
@@ -342,7 +342,7 @@ script 84 mmbn6s {
 	end
 }
 script 90 mmbn6s {
-	"Localization"
+	"Localização"
 	end
 }
 script 91 mmbn6s {
@@ -358,7 +358,7 @@ script 93 mmbn6s {
 	end
 }
 script 100 mmbn6s {
-	"Clear Time     "
+	"Tempo de Jogo  "
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -373,7 +373,7 @@ script 100 mmbn6s {
 	end
 }
 script 101 mmbn6s {
-	"Data Library   S "
+	"Coleção        S "
 	printBuffer
 		buffer = 0
 		minLength = 3
@@ -418,7 +418,7 @@ script 106 mmbn6s {
 	end
 }
 script 107 mmbn6s {
-	"Staff"
+	"Equipe"
 	end
 }
 script 108 mmbn6s {

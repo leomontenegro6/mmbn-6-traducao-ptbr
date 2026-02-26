@@ -75,9 +75,9 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've got to check
-	the Undernet BBS!!
-	Let's go!!
+	A gente tem que conferir
+	o Fórum da Undernet!
+	Vamos lá!!
 	"""
 	keyWait
 		any = false
@@ -88,9 +88,9 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out and head
-	for the Sky Town
-	Admin Building!
+	Lan, vamos pro Prédio
+	de Administração do
+	Distrito Céu!
 	"""
 	keyWait
 		any = false
@@ -101,14 +101,14 @@ script 7 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Phew...
-	I'm glad everyone's
-	safe...
+	Ufa...
+	Que bom que tá
+	todo mundo bem...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,time to jack out!"
+	"Tá, hora de desconectar!"
 	keyWait
 		any = false
 	end
@@ -118,8 +118,8 @@ script 8 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's about time to
-	jack out,MegaMan.
+	Hora de desconectar,
+	MegaMan.
 	"""
 	keyWait
 		any = false
@@ -130,22 +130,23 @@ script 9 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So,we're inviting
-	Mick,Iris,Tab,
+	Então a gente vai
+	convidar o Mick,
+	a Iris, o Tab
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and all our friends
-	from ACDC Town!
+	e todos os nossos
+	amigos de ACDC!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,and Chaud too,if
-	he's around!
+	Ah, e o Chaud também,
+	se ele estiver perto!
 	"""
 	keyWait
 		any = false
@@ -156,9 +157,9 @@ script 10 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Time to jack out!
-	I can't wait for
-	the Gala!
+	Hora de desconectar!
+	Eu tô doido pra
+	aquele baile!
 	"""
 	keyWait
 		any = false
@@ -225,9 +226,9 @@ script 15 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	Let's get going to
-	the meeting point!
+	Desconecta, MegaMan!
+	Bora lá pro ponto
+	de encontro!
 	"""
 	keyWait
 		any = false
@@ -238,9 +239,9 @@ script 16 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	Everyone's waiting
-	for us at the park!
+	Desconecta, MegaMan!
+	Tá todo mundo no parque,
+	esperando a gente!
 	"""
 	keyWait
 		any = false
@@ -251,8 +252,8 @@ script 17 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to the Expo
-	Site,MegaMan!!
+	Bora lá pra Área da
+	Exposição, MegaMan!!
 	"""
 	keyWait
 		any = false
@@ -263,9 +264,9 @@ script 18 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	There are still
-	stamps to collect!
+	Desconecta, MegaMan!
+	Ainda falta carimbo
+	pra reunir!
 	"""
 	keyWait
 		any = false
@@ -276,8 +277,7 @@ script 19 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Head for the
-	Principal's Office,
+	Bora pra Diretoria,
 	MegaMan!
 	"""
 	keyWait
@@ -289,8 +289,7 @@ script 20 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to the
-	Principal's Office,
+	Bora pra Diretoria,
 	MegaMan!
 	"""
 	keyWait
@@ -301,14 +300,14 @@ script 21 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack out,MegaMan!"
+	"Desconecta, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see where in
-	the Expo Site that
-	passageway leads...
+	Bora ver em que parte
+	da Exposição aquela
+	passagem dá...
 	"""
 	keyWait
 		any = false
@@ -319,8 +318,8 @@ script 22 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's get back to
-	the Expo Site!
+	Bora voltar pra
+	Área da Exposição!
 	"""
 	keyWait
 		any = false
@@ -379,8 +378,7 @@ script 181 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to
-	CentralArea2!
+	Bora pra Área Central 2!
 	"""
 	keyWait
 		any = false
@@ -396,8 +394,7 @@ script 182 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to
-	CentralArea1!
+	Bora pra Área Central 1!
 	"""
 	keyWait
 		any = false
@@ -411,9 +408,9 @@ script 184 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We're gonna turn all
-	the rocks in this
-	area into pebbles!!
+	Bora transformar todas
+	as rochas desta área
+	em pedrinhas!!
 	"""
 	keyWait
 		any = false
@@ -443,9 +440,8 @@ script 191 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to the
-	cyberstation in
-	Undernet2!
+	Bora pra cyberestação
+	na Undernet 2!
 	"""
 	keyWait
 		any = false
@@ -456,9 +452,8 @@ script 192 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to the
-	cyberstation in
-	Sky Area2!
+	Bora pra cyberestação
+	na Área Céu 2!
 	"""
 	keyWait
 		any = false
@@ -474,9 +469,8 @@ script 193 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to the
-	cyberstation in
-	CentralArea3!
+	Bora pra cyberestação
+	na Área Central 3!
 	"""
 	keyWait
 		any = false
@@ -487,9 +481,8 @@ script 194 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Time for the final
-	exam! Jack out,
-	ChargeMan!
+	Hora da prova final!
+	Desconecta, ChargeMan!
 	"""
 	keyWait
 		any = false
@@ -500,9 +493,8 @@ script 195 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's look for the
-	cyberstation in this
-	area!
+	Bora procurar pela
+	cyberestação nesta área!
 	"""
 	keyWait
 		any = false
@@ -518,9 +510,8 @@ script 221 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating HeatMan...
-	It lights my soul on
-	fire!!
+	Operar o HeatMan...
+	incendeia a minha alma!
 	"""
 	keyWait
 		any = false
@@ -531,9 +522,9 @@ script 222 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating ElecMan...
-	I feel a surge of
-	power coming on!!
+	Operar o ElecMan...
+	Me faz sentir um
+	surto de energia!!
 	"""
 	keyWait
 		any = false
@@ -544,9 +535,8 @@ script 223 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating SlashMan
-	is like sharpening
-	my mind to a point!
+	Operar o SlashMan afia
+	a minha mente ao máximo!
 	"""
 	keyWait
 		any = false
@@ -557,9 +547,9 @@ script 224 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating EraseMan
-	brings out my dark
-	side... Mwahahaha!
+	Operar o KillerMan
+	é uma sensação de
+	matar... Mua ha ha ha!
 	"""
 	keyWait
 		any = false
@@ -570,9 +560,9 @@ script 225 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating ChargeMan
-	makes me want to
-	plow ahead!!
+	Operar o ChargeMan
+	me faz querer avançar
+	com tudo!!
 	"""
 	keyWait
 		any = false
@@ -583,9 +573,9 @@ script 226 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating AquaMan 
-	makes me feel like
-	a little fish...
+	Operar o AquaMan
+	me faz sentir como
+	um peixinho...
 	"""
 	keyWait
 		any = false
@@ -596,9 +586,9 @@ script 227 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating
-	TomahawkMan is an
-	awesome feeling!
+	Operar o TomahawkMan
+	me faz sentir poderoso
+	e indomável!
 	"""
 	keyWait
 		any = false
@@ -609,9 +599,9 @@ script 228 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating TenguMan
-	brings a sense of
-	peace to my heart...
+	Operar o TenguMan
+	traz tanta paz pro
+	meu coração...
 	"""
 	keyWait
 		any = false
@@ -622,9 +612,9 @@ script 229 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating GroundMan
-	lets me drill
-	through anything!
+	Operar o GroundMan
+	me dá vontade de
+	perfurar os céus!
 	"""
 	keyWait
 		any = false
@@ -635,9 +625,9 @@ script 230 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating DustMan...
-	There's no virus we
-	can't scrap!
+	Operando o DustMan...
+	nenhum vírus vai
+	escapar da lixeira!
 	"""
 	keyWait
 		any = false
@@ -648,9 +638,9 @@ script 231 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ProtoMan helping out
-	during battle... He
-	sure is trustworthy!
+	O ProtoMan, me ajudando
+	na luta... Navi mais
+	confiável, não há!
 	"""
 	keyWait
 		any = false

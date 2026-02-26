@@ -6,32 +6,32 @@ script 0 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	*blub,blub...*
-	*gasp...*
+	Blrb, blrb...
+	Aaaahh...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,AquaMan...*gasp* 
-	You've gathered all
-	the fish data *blub*
+	Ah, AquaMan... Uff... 
+	Você reuniu todos os
+	dados-peixe... Blrb!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I finally *glub*
-	fixed that valve she
-	broke...*blub,blub*
+	Eu finalmente... blrb...
+	consertei a válvula que
+	ela quebrou... blrb!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The water should
-	go down very soon
-	*blub,blub,blub...*
+	Já, já, a água
+	deve descer...
+	Blrb, blrb, blrb...
 	"""
 	keyWait
 		any = false
@@ -42,24 +42,23 @@ script 1 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Lan,AquaMan,you 
-	guys really
-	saved me!
+	Lan, AquaMan, vocês
+	realmente me salvaram!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The water's draining
-	out now,and you got
-	the fish data back!
+	A água tá sendo drenada,
+	e vocês recuperaram os
+	dados-peixe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everything should be
-	OK again!
+	Agora tudo deve
+	ficar bem de novo!
 	"""
 	keyWait
 		any = false
@@ -71,13 +70,13 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"... Ahem,Shuko..."
+	"... Ca-hem. Shuko..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Sorry,but you're
-	fired as of today!
+	... Lamento, mas
+	você está demitida!
 	"""
 	keyWait
 		any = false
@@ -89,7 +88,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	msgOpen
-	"Huh? Whaaaat!?"
+	"Hã? Ooo quêêêêê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -101,24 +100,23 @@ script 4 mmbn6 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	What do you mean,
-	"Whaaaat!?"
+	Como assim,
+	"ooo quêêêêêê"?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You flood the Net,
-	you nearly lose our
-	crucial fish data...
+	Você inundou a Rede,
+	quase perdeu nossos
+	valiosos dados-peixe...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	at this rate,you're
-	going to completely
-	ruin this aquarium!
+	Nesse ritmo, vai arruinar
+	completamente o Aquário!
 	"""
 	keyWait
 		any = false
@@ -131,47 +129,44 @@ script 5 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	... I'm really
-	sorry!!
+	... Eu sinto muito mesmo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... I've really
-	caused a lot of
-	problems...
+	... É verdade, causei
+	tantos problemas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I can't be
-	a teacher and have a
-	part_time job.
+	Acho que não dá pra eu
+	ser professora e manter
+	um bico ao mesmo tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well then,I'll
-	devote myself to
-	being a teacher!
+	Bom, nesse caso, vou
+	me dedicar 100% a ser
+	professora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,Lan,let's proceed
-	to your final exam!
+	Tá bom, Lan, vamos seguir
+	pra sua prova final!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack out and wait
-	for me! I'll be
-	there soon!
+	Desconecta e me espera!
+	Eu já chego aí!
 	"""
 	keyWait
 		any = false
@@ -184,16 +179,14 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Shuko has really
-	become a cheery
-	person,huh...?
+	A Shuko ficou bem
+	animada, né...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,jack out,
-	AquaMan! 
+	Tá, desconecta, AquaMan! 
 	"""
 	keyWait
 		any = false
@@ -203,7 +196,7 @@ script 7 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"Roger,drip!"
+	"Certo, xuá!"
 	keyWait
 		any = false
 	end
@@ -211,8 +204,7 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	A short while
-	later...
+	Alguns minutos depois...
 	"""
 	keyWait
 		any = false

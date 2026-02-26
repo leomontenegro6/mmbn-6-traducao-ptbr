@@ -6,9 +6,8 @@ script 0 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But it's kinda weird
-	to have you as a
-	teacher,Dingo!
+	Mas é meio esquisito ter
+	você como professor, Dingo!
 	"""
 	keyWait
 		any = false
@@ -20,28 +19,27 @@ script 1 mmbn6 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Ahem!"
+	"Ca-hem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's Mr.Dingo from
-	now on!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Joking,joking!
-	I'm doing this to
-	be a better person.
+	A partir de agora,
+	é "Sr. Dingo"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the pay's pretty
-	good,too!
+	... Ha, tô zoando!
+	Eu tô fazendo isso pra
+	melhorar como pessoa.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E o salário é mó bom!
 	"""
 	keyWait
 		any = false
@@ -54,9 +52,8 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh? Wow,you're
-	really working
-	hard...
+	Ah, é? Hmmm, você tá
+	trabalhando duro mesmo...
 	"""
 	keyWait
 		any = false
@@ -69,23 +66,24 @@ script 3 mmbn6 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Flattery will get
-	you nowhere!
+	Nem adianta tentar
+	me bajular, eu não
+	vou te dar vantagem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,let's get
-	this lesson started!
+	Enfim, bora lá
+	começar essa aula!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Look at it this way,
-	work's a craft you
-	gotta do carefully.
+	Basicamente, esse
+	trabalho é uma arte,
+	tem que fazer focado.
 	"""
 	keyWait
 		any = false
@@ -98,9 +96,9 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,then I'll pay
-	extra attention,
-	Mr.Dingo!
+	Beleza, eu vou prestar
+	atenção triplicada,
+	Sr. Dingo!
 	"""
 	keyWait
 		any = false
@@ -113,25 +111,23 @@ script 5 mmbn6 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	For my class,you'll
-	be operating my
-	Wood_based Navi,
+	Pra minha aula, cê vai
+	operar o meu Navi de
+	Madeira, o TomahawkMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TomahawkMan. You'll
-	learn to hear the
-	voice of
+	Vai aprender a ouvir
+	a voz da Mãe Terra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mother Earth,and
-	learn how to use the
-	power of Wood.
+	e a usar todo o
+	poder da Madeira.
 	"""
 	keyWait
 		any = false
@@ -144,14 +140,8 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Can I really learn
-	all that
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	just by operating
+	Dá mesmo pra eu aprender
+	tudo isso só operando o
 	TomahawkMan?
 	"""
 	keyWait
@@ -165,24 +155,23 @@ script 7 mmbn6 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Sure. That's because
-	my class is based on
+	Claro que dá. Isso porque
+	a minha aula é baseada em
+	um secular ritual sagrado
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	an old,sacred ritual
-	we do in my
-	hometown.
+	da minha terra natal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure the Earth's
-	spirits would lend
-	you their powers!
+	Estou certo de que os
+	espíritos da Terra vão
+	lhe emprestar seu poder!
 	"""
 	keyWait
 		any = false
@@ -194,13 +183,12 @@ script 8 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"R_Ritual...?"
+	"R-ritual...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sounds kinda
-	scary...
+	Parece meio sinistro...
 	"""
 	keyWait
 		any = false
@@ -213,17 +201,16 @@ script 9 mmbn6 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	I'll be with you,
-	so have a little
-	more faith!
+	Eu vou tá do seu lado.
+	Tenha mais fé, vai!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TomahawkMan's
-	waiting for us in
-	that control panel.
+	O TomahawkMan tá
+	esperando a gente
+	neste painel de controle.
 	"""
 	keyWait
 		any = false

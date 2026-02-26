@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Ooh,good job...
-	Looks like you're
-	rarely missing now!
+	Hum, bom trabalho...
+	Vejo que você quase
+	não tá errando mais!
 	"""
 	keyWait
 		any = false
@@ -21,17 +21,17 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Thanks,but it's
-	really because of
-	your class...
+	Valeu, mas isso
+	realmente foi graças
+	à sua aula...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I used to be really
-	bad at this. I've
-	learned a lot!
+	Eu era muito ruim
+	nisso antes. Aprendi
+	pra caramba!
 	"""
 	keyWait
 		any = false
@@ -43,14 +43,13 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Glad to hear it!"
+	"Fico feliz de ouvir!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TomahawkMan's going
-	to be one of your
-	LinkNavis,alright!?
+	O TomahawkMan vai ser um
+	dos seus NavisElo, OK?
 	"""
 	keyWait
 		any = false
@@ -67,8 +66,8 @@ script 3 mmbn6 {
 	soundPlay
 		track = 143
 	"""
-	TomahawkMan became
-	Lan's LinkNavi!
+	TomahawkMan se tornou
+	um NaviElo do Lan!
 	"""
 	waitOWVar
 		variable = 0
@@ -87,23 +86,23 @@ script 4 mmbn6 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	You can now use
-	his powers with
-	the TomahawkCross!
+	Agora, você pode usar
+	os poderes dele com o
+	TomahawkCruz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Thanks,Dingo!"
+	"Valeu, Dingo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna master all
-	the things you two
-	have taught me!
+	Eu vou dominar todas
+	as coisas que vocês
+	dois me ensinaram!
 	"""
 	keyWait
 		any = false
@@ -115,14 +114,14 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Good!"
+	"Maravilha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you want to
-	operate TomahawkMan,
-	just come back here!
+	Se quiser operar o
+	TomahawkMan, é só
+	voltar aqui, viu?
 	"""
 	keyWait
 		any = false
@@ -135,8 +134,8 @@ script 6 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK!
-	See you later!
+	Beleza!
+	Té mais!
 	"""
 	keyWait
 		any = false

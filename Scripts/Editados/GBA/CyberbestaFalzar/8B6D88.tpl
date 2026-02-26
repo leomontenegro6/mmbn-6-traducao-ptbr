@@ -6,9 +6,9 @@ script 0 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	You did good today.
-	Do good next time,
-	too,you hear?
+	Cê mandou bem hoje.
+	Mande bem na próxima
+	também, viu?
 	"""
 	keyWait
 		any = false
@@ -21,9 +21,9 @@ script 1 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	Gahahaha! Haven't
-	let you down yet!
-	Call me anytime!
+	Ga ha ha ha! Eu já te
+	decepcionei, homem?
+	Chama quando quiser!
 	"""
 	keyWait
 		any = false
@@ -34,24 +34,23 @@ script 2 mmbn6 {
 		mugshot = DustMan
 	msgOpen
 	"""
-	So,Lan,you get why
-	I'm so happy about
-	getting trash,right?
+	E aí, Lan, entende
+	agora por que eu fico
+	feliz de catar o lixo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This kind of work's
-	pretty laid back!
-	Well,it's test time!
+	É um trabalho bem
+	relaxado, até!
+	Enfim, hora da prova!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's OK,right,
-	Press?
+	Tudo bem, né, Press?
 	"""
 	keyWait
 		any = false
@@ -64,9 +63,9 @@ script 3 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	Oh,yeah!
-	Lan,jack out and
-	meet up with me!
+	Ah, é!
+	Lan, desconecta
+	e fala comigo!
 	"""
 	keyWait
 		any = false
@@ -78,7 +77,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!"
+	"Tá!"
 	keyWait
 		any = false
 	end

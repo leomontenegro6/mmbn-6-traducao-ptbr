@@ -6,47 +6,47 @@ script 1 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	When you activate a
-	Cross,you can use a
-	linked Navi's power.
+	Ativar a União Cruzada
+	permite a você usar o
+	poder de um Navi ligado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Activating once
-	lets you stay linked
-	during a battle.
+	É só ativar uma vez
+	que você fica ligado
+	a batalha inteira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's how to Cross:
-	During ChipSelect on
-	the Custom Screen,
+	Vou explicar como se
+	Cruza: na Seleção de
+	Chips na TelaCust,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	press Up on the
-	+Control Pad.
+	aperte para cima
+	no direcional.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This'll take you to
-	the CrossSelect 
-	Screen. Then link up.
+	Isso vai te levar pra
+	Tela de Seleção Cruzada.
+	É só selecionar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go ahead and give it
-	a try yourself!
+	Vá em frente,
+	experimente!
 	"""
 	keyWait
 		any = false
@@ -57,47 +57,46 @@ script 2 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	OK. That's how you
-	activate a Cross.
-	Let's try a battle.
+	Certo. É assim que se
+	ativa a União Cruzada.
+	Agora, à luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With AquaCross,a 
-	charged shot will
-	cause a BubbleShot
+	Com o AquaCruz,
+	o tiro carregado
+	dispara um BubbleShot
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to expand out and
-	hit an enemy.
+	que atinge o inimigo
+	e se expande.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Charging an Aqua
-	Chip that does not
-	dim the screen
+	E segurar o botão ao
+	usar um chip de Água
+	que não "para o tempo"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will increase its
-	attack two fold.
+	dobra o ataque dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,using a Aqua
-	Chip will also earn
-	a small HP recovery.
+	E, como bônus, usar um
+	chip de Água também
+	restaura alguns PV.
 	"""
 	keyWait
 		any = false
@@ -108,56 +107,56 @@ script 3 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Do you think you
-	have this down now?
+	E aí, sente
+	que já dominou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Activating a Cross
-	will give you the
-	power of that Navi,
+	Ativar uma União
+	Cruzada lhe dará
+	o poder do Navi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but in return,you
-	must pay attention
-	to a few things.
+	mas, em troca, você
+	vai precisar prestar
+	atenção em certas coisas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In addition to 2x
-	damage from element
-	attacks you are weak
+	Além do dano dobrado
+	que você receberá do
+	elemento contra o qual
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	towards,you will
-	also lose your link
-	with the Cross Navi.
+	você é fraco, também
+	vai perder sua ligação
+	com o Navi Cruzado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For example,
-	AquaCross is weak 
-	versus Elec attacks.
+	O AquaCruz, no caso,
+	é fraco contra ataques
+	Elétricos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter what Cross
-	you use,be aware of
-	its weaknesses.
+	Sempre que for usar uma
+	União Cruzada, fique de
+	olho na fraqueza dela.
 	"""
 	keyWait
 		any = false
@@ -168,8 +167,8 @@ script 4 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Lan,choose a Cross,
-	OK?
+	Lan, selecione uma
+	União Cruzada, por favor.
 	"""
 	keyWait
 		any = false
@@ -180,8 +179,7 @@ script 5 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	You don't have to
-	cancel.
+	Não precisa cancelar.
 	"""
 	keyWait
 		any = false
@@ -191,7 +189,7 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	msgOpen
-	"No need to run away."
+	"Não precisa fugir."
 	keyWait
 		any = false
 	end

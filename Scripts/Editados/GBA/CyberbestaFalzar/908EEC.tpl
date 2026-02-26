@@ -6,8 +6,9 @@ script 0 mmbn6 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Show preparations
-	are still underway!
+	Os preparativos para
+	a apresentação ainda
+	não terminaram!
 	"""
 	keyWait
 		any = false
@@ -23,8 +24,8 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	AHH!!
-	There's an alligator
-	here too!
+	Tem um jacaré
+	aqui também!
 	"""
 	keyWait
 		any = false
@@ -39,9 +40,9 @@ script 2 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ahh! There's an
-	alligator here and
-	we can't go on!
+	Ahh! Tem um jacaré
+	aqui! A gente não
+	tem como passar!
 	"""
 	keyWait
 		any = false
@@ -52,9 +53,9 @@ script 3 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Al...alligator!
-	We can't keep going
-	this way!
+	Ja... jacare!
+	Não dá pra gente
+	ir por aqui!
 	"""
 	keyWait
 		any = false
@@ -65,8 +66,8 @@ script 4 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Waaaah!
-	An alligator!
+	Aaaaagh!
+	Um jacaré!
 	"""
 	keyWait
 		any = false
@@ -78,7 +79,7 @@ script 5 mmbn6 {
 	msgOpen
 	"""
 	Lan!
-	Class isn't over yet!
+	A aula ainda não acabou!
 	"""
 	keyWait
 		any = false
@@ -112,14 +113,13 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MrPress
 	msgOpen
-	"HEY! HEY! GOOD DAY!!"
+	"OI! OI! BOM DIA!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do ya feel like
-	takin' my class
-	today?
+	Tá a fim de encarar
+	a minha aula hoje?
 	"""
 	keyWait
 		any = false
@@ -135,7 +135,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Continue  "
+	" Continuar  "
 	option
 		brackets = 0
 		left = 0
@@ -144,7 +144,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Leave"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -159,22 +159,21 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MrPress
 	"""
-	Once class starts
-	there'll be no
-	quitting,
+	Depois que a aula
+	começa, não dá pra
+	dar pra trás
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and you can't leave
-	until class is
-	over!
+	nem ir embora
+	até ela acabar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Got it?"
+	"Beleza?"
 	keyWait
 		any = false
 	clearMsg
@@ -189,7 +188,7 @@ script 10 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Continue  "
+	" Continuar  "
 	option
 		brackets = 0
 		left = 0
@@ -198,7 +197,7 @@ script 10 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Leave"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -238,16 +237,16 @@ script 13 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	Alright! Time to
-	recycle!!
+	Show! Hora
+	de reciclar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can operate
-	DustMan from this
-	vending machine!
+	Você pode operar o
+	DustMan desta máquina
+	de bebidas aqui!
 	"""
 	keyWait
 		any = false
@@ -260,16 +259,16 @@ script 15 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	The final exam
-	will be,a battle
-	with DUSTMAN!!!!
+	A prova final será
+	uma luta contra o
+	DUSTMAN!!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now are you
-	ready to begin!?
+	Está pronto
+	pra começar?!
 	"""
 	keyWait
 		any = false
@@ -285,7 +284,7 @@ script 15 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -294,7 +293,7 @@ script 15 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -308,7 +307,7 @@ script 15 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrPress
-	"Hmmm... I SEE..."
+	"Hmmm... ENTENDO..."
 	keyWait
 		any = false
 	end
@@ -318,9 +317,9 @@ script 16 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	DustMan,show this
-	guy the right way
-	to recycle!!
+	DustMan, mostra pra
+	esse garoto o jeito
+	certo de reciclar!!
 	"""
 	keyWait
 		any = false
@@ -328,20 +327,19 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Let's see what
-	this class is all
-	about!
+	Bora tirar essa
+	prova de letra!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -355,9 +353,8 @@ script 17 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	Are you ready to
-	begin your battle
-	with DustMan!?
+	Pronto para iniciar sua
+	luta contra o DustMan?!
 	"""
 	keyWait
 		any = false
@@ -373,7 +370,7 @@ script 17 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -382,7 +379,7 @@ script 17 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -396,7 +393,7 @@ script 17 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrPress
-	"Hmmm... I SEE..."
+	"Hmmm... ENTENDO..."
 	keyWait
 		any = false
 	end
@@ -405,13 +402,12 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = MrPress
 	msgOpen
-	"TOO BAD!!"
+	"QUE PENINHA!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Would you like to
-	try again!?
+	Quer tentar de novo?!
 	"""
 	keyWait
 		any = false
@@ -427,7 +423,7 @@ script 18 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -436,7 +432,7 @@ script 18 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -450,7 +446,7 @@ script 18 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrPress
-	"Hmmm... I SEE..."
+	"Hmmm... ENTENDO..."
 	keyWait
 		any = false
 	end
@@ -464,14 +460,13 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = MrPress
 	msgOpen
-	"Hmmm... I SEE..."
+	"Hmmm... ENTENDO..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come back when
-	you've got more
-	energy for this!!
+	Volte quando tiver mais
+	energia pra coisa!!
 	"""
 	keyWait
 		any = false
@@ -482,23 +477,22 @@ script 21 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	I have to apologize
-	with all my heart!
+	Eu peço mil desculpas,
+	do fundo do coração!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't have class
-	now!
+	Não tenho nenhuma
+	aula pra dar agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come back the next
-	time you have the
-	chance!
+	Volte da próxima vez que
+	a oportunidade surgir!
 	"""
 	keyWait
 		any = false
@@ -529,9 +523,8 @@ script 30 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	You must be
-	here to take my
-	class,right?
+	Você deve estar aqui
+	para a minha aula, né?
 	"""
 	keyWait
 		any = false
@@ -547,7 +540,7 @@ script 30 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Continue  "
+	" Continuar  "
 	option
 		brackets = 0
 		left = 0
@@ -556,7 +549,7 @@ script 30 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Leave"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -571,22 +564,21 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = AlFerry
 	"""
-	...Once class has
-	begun,you can't
-	quit suddenly,
+	... Uma vez iniciada,
+	não poderá abandonar a
+	aula quando bem quiser,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and you must stay
-	here until class
-	ends.
+	e deverá ficar aqui
+	até ela acabar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Understood?"
+	"Entendido?"
 	keyWait
 		any = false
 	clearMsg
@@ -601,7 +593,7 @@ script 30 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Continue  "
+	" Continuar  "
 	option
 		brackets = 0
 		left = 0
@@ -610,7 +602,7 @@ script 30 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" Leave"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -650,15 +642,15 @@ script 33 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	Try operating
-	my Navi,ChargeMan
+	Tente operar o meu
+	Navi, o ChargeMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	from this vending
-	machine...
+	desta máquina de
+	bebidas aqui...
 	"""
 	keyWait
 		any = false
@@ -669,17 +661,16 @@ script 35 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	The final test is
-	a screaming battle
-	with ChargeMan!
+	A prova final é uma
+	luta a todo o vapor
+	contra o ChargeMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no stopping
-	this one!!
-	Are you ready!?
+	Vai ser sem paradas!!
+	Você está pronto?!
 	"""
 	keyWait
 		any = false
@@ -695,7 +686,7 @@ script 35 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -704,7 +695,7 @@ script 35 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -719,8 +710,8 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = AlFerry
 	"""
-	I see...
-	That's too bad...
+	Entendo...
+	Uma pena...
 	"""
 	keyWait
 		any = false
@@ -731,9 +722,9 @@ script 36 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	ChargeMan,full speed
-	ahead!
-	ALL ABOARD!!
+	ChargeMan,
+	velocidade máxima!
+	TODOS A BORDO!!
 	"""
 	keyWait
 		any = false
@@ -741,19 +732,19 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	We won't let up
-	either!!
+	A gente também não
+	vai ficar pra trás!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"Rotina de batalha,\npreparar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	flagSet
@@ -767,17 +758,16 @@ script 37 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	The final test is
-	a screaming battle
-	with ChargeMan!
+	A prova final é uma
+	luta a todo o vapor
+	contra o ChargeMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no stopping
-	this one!!
-	Are you ready!?
+	Vai ser sem paradas!!
+	Você está pronto?!
 	"""
 	keyWait
 		any = false
@@ -793,7 +783,7 @@ script 37 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -802,7 +792,7 @@ script 37 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -817,8 +807,8 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = AlFerry
 	"""
-	I see...
-	That's too bad...
+	Entendo...
+	Uma pena...
 	"""
 	keyWait
 		any = false
@@ -829,16 +819,15 @@ script 38 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	That's a shame...
-	You can't stop a
-	freight train!
+	Que pena... Você não
+	foi capaz de parar um
+	trem em disparada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Want to give it
-	another try?
+	Deseja tentar de novo?
 	"""
 	keyWait
 		any = false
@@ -854,7 +843,7 @@ script 38 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -863,7 +852,7 @@ script 38 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -878,8 +867,8 @@ script 38 mmbn6 {
 	mugshotShow
 		mugshot = AlFerry
 	"""
-	I see...
-	That's too bad...
+	Entendo...
+	Uma pena...
 	"""
 	keyWait
 		any = false
@@ -897,16 +886,16 @@ script 40 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	I see...
-	That's a shame...
+	Entendo...
+	Uma pena...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you feel like
-	another try,you
-	know where to board!
+	Se ficar com vontade
+	de tentar de novo,
+	sabe qual trem pegar!
 	"""
 	keyWait
 		any = false
@@ -917,16 +906,15 @@ script 41 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	Sorry,but I'm
-	not holding a
-	class now...
+	Lamento, mas não estou
+	oferecendo aulas agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Try coming back
-	another time...
+	Tente voltar
+	uma outra hora.
 	"""
 	keyWait
 		any = false
@@ -947,14 +935,14 @@ script 50 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	You look like you'd
-	like to battle with
-	ChargeMan!
+	Pelo seu olhar, você
+	quer uma luta contra
+	o ChargeMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How about it?"
+	"Que tal?"
 	keyWait
 		any = false
 	clearMsg
@@ -969,7 +957,7 @@ script 50 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -978,7 +966,7 @@ script 50 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -993,9 +981,9 @@ script 50 mmbn6 {
 	mugshotShow
 		mugshot = AlFerry
 	"""
-	C'mon... You know
-	you have the
-	skill...
+	Ora, vamos...
+	Você sabe que tem a
+	habilidade necessária...
 	"""
 	keyWait
 		any = false
@@ -1006,16 +994,16 @@ script 51 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	You look like you'd
-	like to battle with
-	ChargeMan!
+	Pelo seu olhar, você
+	quer uma luta contra
+	o ChargeMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll fight you!
-	You ready to go!?
+	Eu te enfrento!
+	Pronto para batalhar?!
 	"""
 	keyWait
 		any = false
@@ -1031,7 +1019,7 @@ script 51 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1040,7 +1028,7 @@ script 51 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1055,9 +1043,9 @@ script 51 mmbn6 {
 	mugshotShow
 		mugshot = AlFerry
 	"""
-	C'mon... You know
-	you have the
-	skill...
+	Ora, vamos...
+	Você sabe que tem a
+	habilidade necessária...
 	"""
 	keyWait
 		any = false
@@ -1086,8 +1074,7 @@ script 53 mmbn6 {
 	msgOpen
 	"""
 	ChargeMan,
-	don't even think
-	about the brakes!
+	nem pense em frear!
 	"""
 	keyWait
 		any = false
@@ -1095,8 +1082,8 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Right back at ya!
-	Bring it on!!
+	Eu digo o mesmo!
+	Cai dentro!!
 	"""
 	keyWait
 		any = false
@@ -1104,8 +1091,8 @@ script 53 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	"""
-	Here I come!!
-	*CHUGA CHUGA!!*
+	Aqui vou eu!!
+	Tchú-TCHÚÚÚÚ!!
 	"""
 	keyWait
 		any = false
@@ -1125,8 +1112,7 @@ script 54 mmbn6 {
 	msgOpen
 	"""
 	ChargeMan!
-	Steamroll this
-	guy!
+	Atropele esse daí!
 	"""
 	keyWait
 		any = false
@@ -1134,16 +1120,15 @@ script 54 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'll stop you
-	dead in your
-	tracks!!
+	Eu vou te tirar
+	de circulação!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ChargeMan
-	"*CHUGA CHUGA!!*"
+	"TCHÚ-TCHÚÚÚ!"
 	keyWait
 		any = false
 	flagSet
@@ -1166,8 +1151,7 @@ script 55 mmbn6 {
 	msgOpen
 	"""
 	ChargeMan!
-	Steamroll this
-	guy!
+	Atropele esse daí!
 	"""
 	keyWait
 		any = false
@@ -1175,9 +1159,9 @@ script 55 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	A battle isn't
-	just power!
-	I'll show you!
+	Luta não é só uma
+	questão de cavalos
+	de força! Cê vai ver!
 	"""
 	keyWait
 		any = false
@@ -1185,9 +1169,9 @@ script 55 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	"""
-	*CHUGA CHUGA!!*
-	*CHUGA CHUGA!!*
-	CHOOOO CHHOOO!!
+	TCHA-TAN!
+	TCHA-TAN!
+	TCHÚ-TCHÚÚÚ!!
 	"""
 	keyWait
 		any = false
@@ -1212,8 +1196,8 @@ script 58 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	Even when we lose,
-	we keep on going!
+	Mesmo perdendo, nós
+	continuamos em frente!
 	"""
 	keyWait
 		any = false
@@ -1224,16 +1208,16 @@ script 59 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	You're still young!
-	Brush it off and
-	keep going forward!
+	Você ainda é jovem!
+	Sacode a poeira e
+	continue avançando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gotta keep going
-	straight forward!!
+	Nunca podemos
+	parar de avançar!!
 	"""
 	keyWait
 		any = false
@@ -1254,16 +1238,16 @@ script 60 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	HEY!
-	Time to battle
-	against DustMan!
+	EI!
+	Hora de lutar
+	contra o DustMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll be a great
-	class for you!!
+	Vai ser uma ótima
+	aula pra você!!
 	"""
 	keyWait
 		any = false
@@ -1279,7 +1263,7 @@ script 60 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1288,7 +1272,7 @@ script 60 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1303,8 +1287,7 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = MrPress
 	"""
-	That's a crying
-	shame...
+	Ah, que pena, viu...?
 	"""
 	keyWait
 		any = false
@@ -1315,24 +1298,24 @@ script 61 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	HEY HEY!
-	Time to battle
-	against DustMan!
+	EI! EI!
+	Hora de lutar
+	contra o DustMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Raise your Net_
-	Battle skills and
+	É um jeito de
+	aprimorar as suas
+	habilidades de NetLuta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your recycling
-	abilities too!!
-	Are you ready?
+	e de reciclagem!
+	Pronto?
 	"""
 	keyWait
 		any = false
@@ -1348,7 +1331,7 @@ script 61 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1357,7 +1340,7 @@ script 61 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1372,9 +1355,8 @@ script 61 mmbn6 {
 	mugshotShow
 		mugshot = MrPress
 	"""
-	BOOOO! That's
-	really a crying
-	shame!
+	AAAFFE!
+	Que decepção!
 	"""
 	keyWait
 		any = false
@@ -1402,24 +1384,25 @@ script 63 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	Alright! Time
-	for a 100%
-	all_out fight!!
+	Beleza! Hora de uma
+	luta com tudo, 100%
+	de potência!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Bring it on!"
+	"Cai dentro!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = DustMan
 	"""
-	HAHAHAHAHA!!
-	I'm gonna smash ya!
+	HA HA HA HA HA!!
+	Prepara pra ser
+	esmagado!
 	"""
 	keyWait
 		any = false
@@ -1437,15 +1420,14 @@ script 64 mmbn6 {
 	mugshotShow
 		mugshot = MrPress
 	msgOpen
-	"No no... We..."
+	"N-não... Nós..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = DustMan
 	"""
-	Press,you talk
-	way too much!
+	Press, você fala demais!
 	"""
 	keyWait
 		any = false
@@ -1453,24 +1435,24 @@ script 64 mmbn6 {
 	mugshotShow
 		mugshot = MrPress
 	"""
-	That is a good
-	thing...
+	Mas isso é uma
+	coisa boa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Mr.Press,hurry up!"
+	"Vai, Sr. Press, rápido!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrPress
 	"""
-	That's a invitation
-	in my book!
-	Go on DustMan!!
+	Pra mim, isso
+	é um convite!
+	Manda ver, DustMan!!
 	"""
 	keyWait
 		any = false
@@ -1478,9 +1460,9 @@ script 64 mmbn6 {
 	mugshotShow
 		mugshot = DustMan
 	"""
-	HAHAHAHAHA!!
-	You're going in
-	my DustChute buddy!
+	HA HA HA HA HA!!
+	Prepara pra ser coletado
+	como lixo, rapaz!
 	"""
 	keyWait
 		any = false
@@ -1503,24 +1485,24 @@ script 65 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	GO DUSTMAN!!
-	CRUSH HIM!!
+	VAI, DUSTMAN!!
+	ACABA COM ELE!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrPress
-	"SMASH HIM!!"
+	"ESMAGA ELE!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = DustMan
 	"""
-	HAHAHAHAH!!
-	My DustBreak is
-	a new kind of pain!
+	HA HA HA HAH!!
+	O meu Quebra-Lixo é um
+	nível elevado de dor!
 	"""
 	keyWait
 		any = false
@@ -1545,9 +1527,8 @@ script 68 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	I don't know how,
-	but I lost the
-	battle! Awful!!
+	Não sei como, mas eu
+	perdi a luta! Aagh!!
 	"""
 	keyWait
 		any = false
@@ -1558,8 +1539,7 @@ script 69 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	That's a win for
-	ME!!
+	Vitória pra MIM!!
 	"""
 	keyWait
 		any = false
@@ -1603,21 +1583,20 @@ script 74 mmbn6 {
 	mugshotShow
 		mugshot = AlFerry
 	msgOpen
-	"What? MegaMan...?"
+	"O quê? O MegaMan...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,you should
-	use ChargeMan then.
+	Bom, você devia usar
+	o ChargeMan, então.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He is your
-	LinkNavi... Don't
-	forget it!!
+	Ele é o seu NaviElo...
+	Não vá esquecer!!
 	"""
 	keyWait
 		any = false
@@ -1628,29 +1607,31 @@ script 75 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	What happened
-	to MegaMan!?
-	Unbelievable!!
+	O que aconteceu
+	com o MegaMan?!
+	Inacreditável!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't even think
-	about it...
-	Use DustMan!
+	Nem pense nisso...
+	Use o DustMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"No hesitation!"
+	"""
+	Não vou aceitar um
+	"não" como resposta!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DustMan is your
-	LinkNavi! He has
-	pledged allegiance!
+	O DustMan é
+	o seu NaviElo!
+	Ele jurou lealdade!
 	"""
 	keyWait
 		any = false
@@ -1661,15 +1642,15 @@ script 76 mmbn6 {
 		mugshot = AlFerry
 	msgOpen
 	"""
-	Without MegaMan
-	you can't battle...
+	Sem o MegaMan, você
+	não tem como lutar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can operate
-	ChargeMan anytime!
+	Pode operar o ChargeMan
+	quando quiser!
 	"""
 	keyWait
 		any = false
@@ -1680,15 +1661,15 @@ script 77 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	No MegaMan means
-	no NetBattles!!
+	Sem o MegaMan, cê
+	não tem como lutar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can use DustMan
-	anytime you'd like!
+	Pode usar o DustMan
+	à vontade, se quiser!
 	"""
 	keyWait
 		any = false
@@ -1708,13 +1689,13 @@ script 80 mmbn6 {
 	mugshotShow
 		mugshot = MrFamous
 	msgOpen
-	"Hey Lan!"
+	"Opa! Olá, jovem Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm the one behind
-	this latest request!
+	Sou eu aquele que está
+	por trás do último pedido!
 	"""
 	keyWait
 		any = false
@@ -1722,16 +1703,16 @@ script 80 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Wow. I wonder what
-	your request could
-	be...?
+	Caramba. Agora tô
+	curioso pra saber
+	que pedido vai ser.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You are Mr.Famous
-	after all...
+	Afinal de contas,
+	você É o Sr. Famoso...
 	"""
 	keyWait
 		any = false
@@ -1739,62 +1720,62 @@ script 80 mmbn6 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Actually,to train
-	as a NetPoliceman
-	or junior official,
+	Na verdade, para
+	o treinamento de
+	NetPoliciais e Oficiais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I developed a
-	handheld machine to
-	release viruses.
+	júnior, eu desenvolvi
+	uma máquina portátil
+	que libera vírus.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Right now,I am
-	making the final
-	adjustments on it...
+	Estou no processo
+	de fazer os ajustes
+	finais nela...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd like to gather
-	some data by having
-	you fight with this
+	E quero reunir mais
+	dados ao fazer você
+	lutar contra esta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	new virus battling
-	machine...
+	nova máquina de
+	luta antivírus...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By the way,my
-	machine can release
-	20 viruses in a row,
+	Por sinal, a minha
+	máquina pode liberar
+	20 vírus seguidos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and while battling,
-	you can't stop!
+	e você não poderá
+	parar até todas as
+	lutas acabarem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you ready to
-	try your luck!?
+	Pronto para arriscar?!
 	"""
 	keyWait
 		any = false
@@ -1810,7 +1791,7 @@ script 80 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1819,7 +1800,7 @@ script 80 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1834,9 +1815,9 @@ script 80 mmbn6 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Well,once you
-	are ready,come
-	back and say so!
+	Bom, quando estiver
+	pronto, é só voltar
+	aqui e me informar!
 	"""
 	keyWait
 		any = false
@@ -1846,36 +1827,34 @@ script 81 mmbn6 {
 	mugshotShow
 		mugshot = MrFamous
 	msgOpen
-	"Ahh,ready to go?"
+	"Ahh, pronto para lutar?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll go over the
-	finer points one
-	more time for you!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	This machine will
-	release 20 viruses,
+	Vou repassar os
+	detalhes para você
+	mais uma vez!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and you can't take
-	a break when you
-	fight them!
+	Esta máquina irá
+	liberar 20 vírus,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So are you ready
-	to go?
+	e você não poderá parar
+	até derrotar todos eles!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E então, pronto?
 	"""
 	keyWait
 		any = false
@@ -1891,7 +1870,7 @@ script 81 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1900,7 +1879,7 @@ script 81 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1915,9 +1894,9 @@ script 81 mmbn6 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Well,once you
-	are ready,come
-	back and say so!
+	Bom, quando estiver
+	pronto, é só voltar
+	aqui e me informar!
 	"""
 	keyWait
 		any = false
@@ -1927,11 +1906,11 @@ script 82 mmbn6 {
 	mugshotShow
 		mugshot = MrFamous
 	msgOpen
-	"Alright! Let's go!"
+	"Maravilha! Vamos lá!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle... START!!"
+	"Começar... LUTA!!"
 	keyWait
 		any = false
 	flagSet
@@ -1945,17 +1924,17 @@ script 83 mmbn6 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Well,even Lan can't
-	handle that many
-	viruses in a row!
+	É, acho que nem mesmo
+	Lan Hikari pode contra
+	tantos vírus seguidos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,my request
-	isn't over until you
-	win all 20 battles!!
+	Porém, meu pedido não
+	terminará até você
+	vencer as 20 lutas!!
 	"""
 	keyWait
 		any = false
@@ -1968,31 +1947,30 @@ script 84 mmbn6 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Well done Lan!!
-	Awesome operating!!
+	Bom trabalho, Lan!!
+	Que operação fenomenal!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll analyze all of
-	your NetBattling
-	data,
+	Irei analisar todos os
+	seus dados de NetLuta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and use it to train
-	lots of young,up_
-	and_coming battlers!
+	e os usarei para treinar
+	vários NetLutadores
+	jovens e promissores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you!
-	Here's your reward!!
+	Obrigado!
+	Eis aqui sua recompensa!!
 	"""
 	keyWait
 		any = false
@@ -2012,7 +1990,7 @@ script 84 mmbn6 {
 		amount = 1
 	playerAnimateScene
 		animation = 24
-	"Lan got:"
+	"Lan adquiriu:"
 	keyWait
 		any = false
 	clearMsg
@@ -2036,8 +2014,8 @@ script 84 mmbn6 {
 		buffer = 0
 		code = *
 	"""
-	",
-	and "
+	"
+	e "
 	"""
 	printChip
 		buffer = 0
@@ -2055,22 +2033,21 @@ script 84 mmbn6 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Keep on getting
-	better and keep on
-	getting stronger!
+	Continue se aprimorando
+	e se fortalecendo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Request Point\n"
+	"Pontos de Pedido:\n"
 	callRequestPointsBuffer
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Points!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -2082,9 +2059,9 @@ script 85 mmbn6 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Now I will analyze
-	your battle
-	patterns Lan!
+	Agora, irei analisar
+	os seus padrões de
+	combate, jovem Lan!
 	"""
 	keyWait
 		any = false

@@ -6,31 +6,31 @@ script 0 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	... You have reached
-	Green Area,yes?
+	... Você chegou na
+	Área Verde, não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,we can start
-	the lesson,then.
+	Ah, então podemos
+	começar a aula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your task is very
-	easy,grasshopper...
-	I dropped a few
+	A sua tarefa é bem
+	simples, meu pulio...
+	Eu deixei cair uns
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	cyberscrolls around
-	Green Area. You have
-	only to gather them.
+	cyberpergaminhos pela
+	Área Verde. Você só
+	precisa reuní-los.
 	"""
 	keyWait
 		any = false
@@ -43,15 +43,14 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Gather a few
-	cyberscrolls...?
+	Catar uns pergaminhos...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's all I have
-	to do?
+	É só isso que eu
+	tenho que fazer?
 	"""
 	keyWait
 		any = false
@@ -63,43 +62,42 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	msgOpen
-	"Ho,ho,ho,ho!"
+	"Ho ho ho ho!"
 	keyWait
 		any = false
 	clearMsg
-	"That is all."
+	"Sim, só isso."
 	keyWait
 		any = false
 	clearMsg
-	"However!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Beware of the
-	cybercrows I have
-	also left for you.
-	"""
+	"Porém!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The cybercrows will
-	swarm around you
-	as bees to a hive.
+	Tome cuidado com os
+	cybercorvos que deixei
+	para você também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Collect cyberscrolls
-	and touch not the
-	cybercrows __
+	Esses danadinhos serão
+	atraídos a você como
+	formigas ao açúcar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"that is your task."
+	"""
+	Colete os cyberpergaminhos
+	sem tocar nos cybercorvos.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Essa é a sua tarefa."
 	keyWait
 		any = false
 	clearMsg
@@ -111,13 +109,13 @@ script 3 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't touch the
-	cybercrows...
+	Sem tocar nos
+	cybercorvos...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,got it!"
+	"OK, beleza!"
 	keyWait
 		any = false
 	clearMsg
@@ -128,102 +126,100 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = FengTian
 	msgOpen
-	"Ho,ho,ho,ho!"
+	"Ho ho ho ho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There will be no
-	straight path to
-	the end.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If the cybercrows
-	start to gather in
-	number...
+	Não haverá nenhuma
+	rota direta para o fim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	use of TenguMan's
-	leaf fan is a
-	wise move,indeed.
+	Se os cybercorvos
+	começarem a se
+	reunir demais...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Push the A Button
-	and the cybercrows
-	will scatter.
+	usar o leque de folha
+	do TenguMan é uma
+	tática deveras sábia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the fan's power
-	lasts not long. Do
-	not use it too much.
+	Aperte "A" e os
+	cybercorvos irão
+	se espalhar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may find
-	cyberleaves during
-	your task.
+	Porém, o poder do leque
+	dura pouco. Não o use
+	demais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gathering leaves is
-	the way to make the
-	leaf fan live again.
+	Durante sua missão,
+	você pode se deparar
+	com cyberfolhas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... If you pass this
-	class,young one,
+	Reunir essas folhas é
+	uma forma de reavivar
+	o leque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you will gain great
-	skill to move very
-	fast around enemies.
+	... Se passar nesta
+	aula, meu jovem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Work hard,
-	grasshopper!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Let us begin."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	This area holds 4
-	cyberscrolls.
+	conquistará a habilidade
+	de se mover rapidamente
+	dentre seus inimigos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please begin
-	your task!
+	Quero ver dedicação,
+	meu pupilo!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Comecemos."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Nesta área, há quatro
+	cyberpergaminhos.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Pode iniciar a tarefa!
 	"""
 	keyWait
 		any = false

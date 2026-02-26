@@ -6,33 +6,32 @@ script 0 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	That was absolutely
-	splendid the way
-	you fought!
+	O jeito como você
+	lutou foi esplêndido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're beginning to
-	understand DustMan's
-	true power!
+	Tá começando a entender
+	o verdadeiro poder do
+	DustMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take that strength
-	and teach others to
-	recycle,too!
+	Usa essa força pra
+	ensinar os outros a
+	reciclarem também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,now I can let
-	DustMan be your
-	LinkNavi!
+	Beleza. Agora, eu
+	posso deixar o DustMan
+	ser seu NaviElo!
 	"""
 	keyWait
 		any = false
@@ -49,8 +48,8 @@ script 1 mmbn6 {
 	soundPlay
 		track = 143
 	"""
-	DustMan became
-	Lan's LinkNavi!
+	DustMan se tornou
+	NaviElo do Lan!
 	"""
 	waitOWVar
 		variable = 0
@@ -68,7 +67,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thank you,Mr.Press!"
+	"Obrigado, Sr. Press!"
 	keyWait
 		any = false
 	clearMsg
@@ -80,16 +79,16 @@ script 3 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	DustMan's power,
-	DustCross,is now
-	yours to use!
+	O poder do DustMan,
+	o DustCruz, agora é
+	seu pra usar à vontade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really hope you'll
-	use and treasure it!
+	Espero que você
+	use bem e aprecie!
 	"""
 	keyWait
 		any = false
@@ -101,7 +100,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I will!"
+	"Com certeza!"
 	keyWait
 		any = false
 	clearMsg
@@ -113,33 +112,30 @@ script 5 mmbn6 {
 		mugshot = MrPress
 	msgOpen
 	"""
-	Alright,alright!
-	That's it for this
-	class!
+	OK, então!
+	A aula fica por aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Operate DustMan any
-	time by coming here,
-	got it?
+	Opere o DustMan quando
+	quiser vindo aqui, viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah! One more thing!!
-	The fact that this
-	vending machine
+	Ah! Mais uma coisa!!
+	O fato desta máquina
+	de vendas se conectar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	connects to the
-	Undernet is a
-	secret,OK!?
+	á Undernet é um
+	segredo, viu?!
 	"""
 	keyWait
 		any = false
@@ -151,11 +147,11 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I gotcha!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
-	"Bye,Mr.Press!"
+	"Tchau, Sr. Press!"
 	keyWait
 		any = false
 	end

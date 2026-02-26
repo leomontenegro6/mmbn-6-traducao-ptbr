@@ -6,14 +6,13 @@ script 0 mmbn6 {
 		mugshot = FengTian
 	msgOpen
 	"""
-	Hai_ya!
-	A cybercrow has
-	pecked at you.
+	Ah!
+	Um cybercorvo lhe bicou.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Start over again!"
+	"Do zero!"
 	keyWait
 		any = false
 	end

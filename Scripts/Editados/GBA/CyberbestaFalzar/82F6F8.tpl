@@ -75,9 +75,9 @@ script 22 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! You've
-	gotta normalize this
-	pavilion's system!
+	MegaMan! Você tem que
+	normalizar o sistema
+	deste pavilhão!
 	"""
 	keyWait
 		any = false
@@ -93,9 +93,9 @@ script 23 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	We've gotta keep
-	going!
+	Desconecta, MegaMan!
+	A gente tem que
+	seguir adiante!
 	"""
 	keyWait
 		any = false
@@ -115,8 +115,8 @@ script 24 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Want to take a look
-	around,MegaMan!?
+	Quer explorar a área
+	por cima, MegaMan?!
 	
 	"""
 	positionOptionHorizontal
@@ -129,7 +129,7 @@ script 24 mmbn6 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -138,7 +138,7 @@ script 24 mmbn6 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -165,8 +165,8 @@ script 26 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've gotta go after
-	ElementMan,MegaMan!
+	A gente tem que ir atrás
+	do ElementMan, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -186,8 +186,8 @@ script 28 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've gotta go after
-	CircusMan,MegaMan!
+	A gente tem que ir atrás
+	do CircusMan, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -207,9 +207,9 @@ script 31 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is it!
-	The last battle!
-	Let's go,MegaMan!
+	É isso!
+	A batalha final!
+	Vamos lá, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -225,9 +225,8 @@ script 51 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating HeatMan...
-	It lights my soul on
-	fire!!
+	Operar o HeatMan...
+	incendeia a minha alma!
 	"""
 	keyWait
 		any = false
@@ -238,9 +237,9 @@ script 52 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating ElecMan...
-	I feel a surge of
-	power coming on!!
+	Operar o ElecMan...
+	Me faz sentir um
+	surto de energia!!
 	"""
 	keyWait
 		any = false
@@ -251,9 +250,8 @@ script 53 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating SlashMan
-	is like sharpening
-	my mind to a point!
+	Operar o SlashMan afia
+	a minha mente ao máximo!
 	"""
 	keyWait
 		any = false
@@ -264,9 +262,9 @@ script 54 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating EraseMan
-	brings out my dark
-	side... Mwahahaha!
+	Operar o KillerMan
+	é uma sensação de
+	matar... Mua ha ha ha!
 	"""
 	keyWait
 		any = false
@@ -277,9 +275,9 @@ script 55 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating ChargeMan
-	makes me want to
-	plow ahead!!
+	Operar o ChargeMan
+	me faz querer avançar
+	com tudo!!
 	"""
 	keyWait
 		any = false
@@ -290,9 +288,9 @@ script 56 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating AquaMan 
-	makes me feel like
-	a little fish...
+	Operar o AquaMan
+	me faz sentir como
+	um peixinho...
 	"""
 	keyWait
 		any = false
@@ -303,9 +301,9 @@ script 57 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating
-	TomahawkMan is an
-	awesome feeling!
+	Operar o TomahawkMan
+	me faz sentir poderoso
+	e indomável!
 	"""
 	keyWait
 		any = false
@@ -316,9 +314,9 @@ script 58 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating TenguMan
-	brings a sense of
-	peace to my heart...
+	Operar o TenguMan
+	traz tanta paz pro
+	meu coração...
 	"""
 	keyWait
 		any = false
@@ -329,9 +327,9 @@ script 59 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating GroundMan
-	lets me drill
-	through anything!
+	Operar o GroundMan
+	me dá vontade de
+	perfurar os céus!
 	"""
 	keyWait
 		any = false
@@ -342,9 +340,9 @@ script 60 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Operating DustMan...
-	There's no virus we
-	can't scrap!
+	Operando o DustMan...
+	nenhum vírus vai
+	escapar da lixeira!
 	"""
 	keyWait
 		any = false
@@ -355,9 +353,9 @@ script 61 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ProtoMan helping out
-	during battle... He
-	sure is trustworthy!
+	O ProtoMan, me ajudando
+	na luta... Navi mais
+	confiável, não há!
 	"""
 	keyWait
 		any = false

@@ -9,8 +9,8 @@ script 0 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Hey,MegaMan!
-	Drink up!
+	Ei, MegaMan!
+	Bebe aí!
 	"""
 	keyWait
 		any = false
@@ -23,7 +23,7 @@ script 1 mmbn6 {
 	mugshotHide
 	msgOpen
 	"""
-	HeatMan used:
+	HeatMan usou:
 	"
 	"""
 	printItem
@@ -41,8 +41,7 @@ script 2 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Drink this,
-	MegaMan,drip.
+	Beba isto, MegaMan, xuá.
 	"""
 	keyWait
 		any = false
@@ -51,7 +50,7 @@ script 2 mmbn6 {
 script 3 mmbn6 {
 	mugshotHide
 	msgOpen
-	"AquaMan used: \n\""
+	"AquaMan usou: \n\""
 	printItem
 		buffer = 0
 		item = 10
@@ -66,7 +65,7 @@ script 4 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"N_Ngggh..."
+	"N-ngggh..."
 	keyWait
 		any = false
 	end
@@ -75,7 +74,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gnaaaaaaa!!!"
+	"Ghnaaaaaaa!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -98,9 +97,8 @@ script 7 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	The Cybeast is
-	rejecting the
-	"
+	A Cyberbesta está
+	rejeitando a "
 	"""
 	printItem
 		buffer = 0
@@ -110,9 +108,8 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Fight,MegaMan!
-	Don't let the
-	Cybeast win!
+	Lute, MegaMan!
+	Não deixe a fera vencer!
 	"""
 	keyWait
 		any = false
@@ -148,8 +145,8 @@ script 10 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	W_What's that
-	shape...!?
+	Q-que negócio
+	é esse...?!
 	"""
 	keyWait
 		any = false
@@ -159,7 +156,7 @@ script 11 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	msgOpen
-	"D_Driiip...!?"
+	"X-xuáááá...?!"
 	keyWait
 		any = false
 	end
@@ -178,7 +175,7 @@ script 12 mmbn6 {
 	storeTimer
 		timer = 0
 		value = 128
-	"*g_groooowl!!*"
+	"G-graaaaaaarr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -200,9 +197,8 @@ script 13 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Heh,doesn't look
-	too friendly,
-	does he...?
+	He, não parece muito
+	amiguinho, ele, hein...?
 	"""
 	keyWait
 		any = false
@@ -221,7 +217,7 @@ script 14 mmbn6 {
 	storeTimer
 		timer = 0
 		value = 128
-	"*screeeeeeech!!*"
+	"Kyaaaaaaarh!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -243,8 +239,8 @@ script 15 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	That's...
-	not MegaMan...drip.
+	Esse...
+	não é o MegaMan... xuá.
 	"""
 	keyWait
 		any = false
@@ -256,14 +252,13 @@ script 16 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"No!!"
+	"Não!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Cybeast has
-	taken over MegaMan's
-	body!!
+	A Cyberbesta tomou
+	o corpo do MegaMan!!
 	"""
 	keyWait
 		any = false
@@ -278,8 +273,7 @@ script 17 mmbn6 {
 	msgOpen
 	"""
 	HeatMan!
-	Hurry and get
-	out of there!
+	Rápido, saia daí!
 	"""
 	keyWait
 		any = false
@@ -291,13 +285,13 @@ script 18 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"Hey,can it,pop!"
+	"Ô, shiu aí, doutor!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll knock some
-	sense into him.
+	Eu vou fazer ele
+	acordar pra vida.
 	"""
 	keyWait
 		any = false
@@ -309,7 +303,7 @@ script 19 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	msgOpen
-	"Come on,punk!!"
+	"Bora lá, otário!!"
 	keyWait
 		any = false
 	clearMsg
@@ -327,7 +321,7 @@ script 20 mmbn6 {
 	storeTimer
 		timer = 0
 		value = 144
-	"*grrroooowl!!*"
+	"Grraaaaaaar!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -342,8 +336,8 @@ script 20 mmbn6 {
 	mugshotShow
 		mugshot = HeatMan
 	"""
-	My flames will bring
-	you back!
+	As minhas chamas vão
+	te trazer de volta!
 	Aaaaarh!!
 	"""
 	soundPlayBGM
@@ -357,9 +351,8 @@ script 21 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	AquaMan! 
-	Hurry and get
-	out of there!
+	AquaMan!
+	Saia daí, rápido!
 	"""
 	keyWait
 		any = false
@@ -372,9 +365,9 @@ script 22 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	I_I'm going to bring
-	MegaMan back to his
-	senses,drip!
+	E-eu vou fazer
+	o MegaMan voltar
+	a si, xuá!
 	"""
 	keyWait
 		any = false
@@ -387,8 +380,8 @@ script 23 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Hang on,MegaMan,
-	drip!
+	Aguenta aí,
+	MegaMan, xuá!
 	"""
 	keyWait
 		any = false
@@ -407,7 +400,7 @@ script 24 mmbn6 {
 	storeTimer
 		timer = 0
 		value = 144
-	"*screeeeeech!!*"
+	"Kyaaaaaarh!!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -422,8 +415,9 @@ script 24 mmbn6 {
 	mugshotShow
 		mugshot = SpoutMan
 	"""
-	I won't lose!
-	Aaaaaaaah!!... Drip!
+	Eu não vou me deixar
+	ser vencido!
+	Aaaaaaaah!! ... Xuá!
 	"""
 	soundPlayBGM
 		track = 99
@@ -445,7 +439,7 @@ script 26 mmbn6 {
 	controlLock
 	soundPlay
 		track = 402
-	"*grrrrrr...*"
+	"Grrrrrr..."
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -462,8 +456,8 @@ script 27 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... What...
-	...did I...??
+	... O que...
+	... foi que eu...?
 	"""
 	keyWait
 		any = false
@@ -477,13 +471,13 @@ script 28 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	... Back...
-	with...us...
+	... Voltou...
+	pra... gente...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Oogh!!"
+	"Ough!!"
 	keyWait
 		any = false
 	end
@@ -496,7 +490,7 @@ script 30 mmbn6 {
 	controlLock
 	soundPlay
 		track = 404
-	"*screeeeech...*"
+	"Kyaaaaarh..."
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -510,8 +504,8 @@ script 31 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	... What...
-	...did I...??
+	... O que...
+	... foi que eu...?
 	"""
 	keyWait
 		any = false
@@ -523,8 +517,8 @@ script 32 mmbn6 {
 	msgOpen
 	"""
 	MegaMan...
-	you're... OK...
-	drip...
+	você tá... bem...
+	xuá...
 	"""
 	keyWait
 		any = false
@@ -546,23 +540,23 @@ script 34 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It's OK.
-	He just fainted.
+	Tá tudo bem.
+	Ele só desmaiou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He used up a lot
-	of energy just now.
+	Ele gastou muita
+	energia agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Cybeast's effect
-	on him is most
-	likely weakening...
+	O efeito da Cyberbesta
+	sobre ele deve estar
+	se enfraquecendo...
 	"""
 	keyWait
 		any = false
@@ -575,14 +569,14 @@ script 35 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"But..."
+	"Mas..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to nearly delete
-	HeatMan in one
-	shot__what power...
+	quase deletar o
+	HeatMan com um só
+	ataque... Quanto poder...
 	"""
 	keyWait
 		any = false
@@ -594,7 +588,7 @@ script 36 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad,is HeatMan...?"
+	"Pai, o HeatMan tá...?"
 	keyWait
 		any = false
 	clearMsg
@@ -605,14 +599,14 @@ script 37 mmbn6 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"But..."
+	"Mas..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to nearly delete
-	AquaMan in one 
-	shot__what power...
+	quase deletar o
+	AquaMan com um só
+	ataque... Quanto poder...
 	"""
 	keyWait
 		any = false
@@ -624,7 +618,7 @@ script 38 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad,is AquaMan...? "
+	"Pai, o AquaMan tá...?"
 	keyWait
 		any = false
 	clearMsg
@@ -636,9 +630,9 @@ script 39 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	He jacked out just
-	in time,so I think
-	he'll be OK.
+	Ele desconectou antes
+	que fosse tarde, então
+	acho que vai ficar bem.
 	"""
 	keyWait
 		any = false
@@ -650,7 +644,7 @@ script 40 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah..."
+	"Ufa..."
 	keyWait
 		any = false
 	clearMsg
@@ -662,41 +656,38 @@ script 41 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	More pressing is
-	MegaMan's
-	situation...
+	O mais alarmante agora é
+	a situação do MegaMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whenever the Cybeast
-	awakens,there is the
-	possibility that it
+	Sempre que a Cyberbesta
+	despertar, haverá a
+	possibilidade dela assumir
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	may take MegaMan
-	over... If it were
-	to completely take
+	o controle sobre ele...
+	E, se assumir por
+	completo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	control... I...
-	Even if I did every_
-	thing I could,
+	Mesmo se eu fizesse tudo
+	ao meu alcance, não
+	haveria escolha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I may have no
-	choice...
-	but to delete him!
+	senão deletá-lo!
 	"""
 	keyWait
 		any = false
@@ -709,8 +700,8 @@ script 42 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I...
-	But...
+	Mas...
+	Eu...
 	"""
 	keyWait
 		any = false
@@ -723,51 +714,50 @@ script 43 mmbn6 {
 		mugshot = Dad
 	msgOpen
 	"""
-	I know how you
-	feel,Lan...
+	Sei como se sente, Lan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the Cybeasts are
-	a threat to human
-	society.
+	Mas as Cyberbestas
+	são uma ameaça à
+	sociedade humana.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On the other hand,if
-	MegaMan can control
-	the Cybeast,
+	Por outro lado, se
+	o MegaMan conseguir
+	controlar a Cyberbesta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	he would control a
-	terrific power.
+	isso daria a ele
+	domínio sobre um
+	poder estrondoso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In any case,we only
-	have a limited
-	amount of time...
+	De todo modo, nos resta
+	muito pouco tempo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... I'm sorry,Lan."
+	"... Desculpa, filho."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish I could do
-	something for him...
-	Forgive me...
+	Eu queria tanto poder
+	fazer alguma coisa por
+	ele... Me perdoe...
 	"""
 	keyWait
 		any = false

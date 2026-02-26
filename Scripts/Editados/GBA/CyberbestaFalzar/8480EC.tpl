@@ -4,15 +4,15 @@
 script 0 mmbn6 {
 	msgOpen
 	"""
-	It's a Net
-	information board.
+	É um Net-Quadro
+	de Informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	Underground2 on it.
+	Nele, há um mapa
+	do SubSolo 2.
 	"""
 	keyWait
 		any = false
@@ -23,17 +23,17 @@ script 0 mmbn6 {
 script 1 mmbn6 {
 	msgOpen
 	"""
-	The darkness won't
-	budge,even with your
-	strongest attacks.
+	As trevas não
+	diminuem, nem com os
+	seus ataques mais fortes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe the
-	EvilSpirits are
-	related somehow...
+	Talvez isso tenha
+	alguma relação com
+	os Espíritos Malignos...
 	"""
 	keyWait
 		any = false
@@ -55,9 +55,8 @@ script 2 mmbn6 {
 		jumpIfProtoMan = continue
 	msgOpen
 	"""
-	The flames are too
-	high to pass
-	through!!
+	As chamas são fortes
+	demais para atravessar!!
 	"""
 	keyWait
 		any = false
@@ -85,9 +84,8 @@ script 3 mmbn6 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	There is a worn out
-	bat crest relief on
-	this door...
+	Há um brasão de morcego
+	apagado na porta...
 	"""
 	keyWait
 		any = false
@@ -96,9 +94,9 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	The door glows
-	ominously at a
-	stranger's approach.
+	A porta brilha
+	ameaçadoramente quando
+	um estranho se aproxima.
 	"""
 	keyWait
 		any = false
@@ -109,8 +107,8 @@ script 5 mmbn6 {
 		mugshot = HeatMan
 	msgOpen
 	"""
-	Now this looks like
-	a refreshing drink!!
+	Ah, tá aí uma
+	bebida refrescante!!
 	"""
 	keyWait
 		any = false
@@ -121,9 +119,8 @@ script 5 mmbn6 {
 	wait
 		frames = 30
 	"""
-	HeatMan drank up
-	all the raging
-	flames!
+	HeatMan bebeu todas
+	as chamas intensas!
 	"""
 	keyWait
 		any = false
@@ -135,14 +132,14 @@ script 6 mmbn6 {
 	mugshotShow
 		mugshot = ChargeMan
 	msgOpen
-	"Choo,choo..."
+	"Tchú-tchúú..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Perfect timing! I
-	was running a little
-	low on steam...
+	Bem na hora! Eu já
+	estava ficando sem
+	carvão, mesmo...
 	"""
 	keyWait
 		any = false
@@ -153,8 +150,8 @@ script 6 mmbn6 {
 	wait
 		frames = 30
 	"""
-	ChargeMan swallowed
-	the raging flames!!
+	ChargeMan engoliu
+	as chamas!!
 	"""
 	keyWait
 		any = false
@@ -167,9 +164,8 @@ script 7 mmbn6 {
 		mugshot = SpoutMan
 	msgOpen
 	"""
-	Even I can take care
-	of a fire this big,
-	drip!!
+	Até eu dou conta de um
+	foguinho desses, xuá!!
 	"""
 	keyWait
 		any = false
@@ -180,9 +176,9 @@ script 7 mmbn6 {
 	wait
 		frames = 30
 	"""
-	The wave of water
-	from AquaMan's head 
-	put out the fire!!
+	A onda de água da
+	cabeça do AquaMan
+	apagou o fogo!!
 	"""
 	keyWait
 		any = false
@@ -195,9 +191,9 @@ script 8 mmbn6 {
 		mugshot = TenguMan
 	msgOpen
 	"""
-	Hmph. My fan can
-	take care of this
-	fire in one stroke!
+	Hmpf. O meu leque
+	dá conta desse fogo
+	em um só abano!
 	"""
 	keyWait
 		any = false
@@ -208,8 +204,8 @@ script 8 mmbn6 {
 	wait
 		frames = 30
 	"""
-	TenguMan's fan blew
-	the flames out!!
+	O leque de TenguMan
+	apagou as chamas!!
 	"""
 	keyWait
 		any = false
@@ -224,22 +220,20 @@ script 9 mmbn6 {
 }
 script 10 mmbn6 {
 	msgOpen
-	"The "
+	"A "
 	printItem
 		buffer = 0
 		item = 51
 	"""
-	 has
-	suddenly started
-	to glow!!
+	 começou
+	a brilhar de repente!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems to be
-	reacting to the
-	door!!
+	Parece estar reagindo
+	à porta!!
 	"""
 	keyWait
 		any = false

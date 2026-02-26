@@ -5,7 +5,7 @@ script 0 mmbn6s {
 	end
 }
 script 1 mmbn6s {
-	"BugFrags"
+	"FragBugs"
 	end
 }
 script 5 mmbn6s {

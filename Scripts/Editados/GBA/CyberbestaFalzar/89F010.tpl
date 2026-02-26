@@ -6,81 +6,72 @@ script 0 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Thank you for
-	coming,Lan!
+	Obrigada por vir, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to teach you
-	about the power of
-	water,and about how
+	Quero ensinar a você
+	sobre o poder da água
+	e como usá-la durante
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to use water in
-	your NetBattles.
+	as NetLutas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,by the way,do
-	you know about the
-	CrossSystem,Lan?
+	Ah, por sinal, você
+	sabe sobre o Sistema
+	Cruzado, Lan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"CrossSystem...?"
+	"Sistema Cruzado...?"
 	keyWait
 		any = false
 	clearMsg
-	"... Uh,nope."
+	"... Er, não."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Shuko
 	"""
-	The CrossSystem is
-	something that was
-	recently developed.
+	O Sistema Cruzado
+	foi desenvolvido
+	só recentemente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a new
-	technology that
-	allows one Navi
+	É uma tecnologia nova que
+	permite a um Navi utilizar
+	as habilidades de outro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to use another
-	Navi's skills.
+	Basicamente,
+	com esse sistema,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To put it simply,
-	with this system,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	MegaMan can use
-	AquaMan's various 
-	water powers!
+	o MegaMan pode usar
+	os vários poderes
+	aquáticos do AquaMan!
 	"""
 	keyWait
 		any = false
@@ -88,8 +79,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hey,that's
-	pretty neat!
+	Poxa, que da hora!
 	"""
 	keyWait
 		any = false
@@ -97,24 +87,23 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Yes,but to get
-	another Navi's
-	skills,
+	É. Mas, pra adquirir as
+	habilidades de outro Navi
+	e usá-las à vontade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and make them your
-	own,you have to
+	é preciso primeiro
+	aprender certos
+	conhecimentos e técnicas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	learn some basic
-	knowledge and
-	techniques first.
+	básicos.
 	"""
 	keyWait
 		any = false
@@ -122,9 +111,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	So,this class we're
-	having is for me to
-	learn the basics!?
+	E esta aula é pra eu
+	aprender esse básico?!
 	"""
 	keyWait
 		any = false
@@ -132,8 +120,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Right! You're a
-	smart cookie!
+	Aham! Muito esperto!
 	"""
 	keyWait
 		any = false
@@ -146,8 +133,9 @@ script 1 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,you almost sound
-	like a real teacher!
+	Olha, você quase falou
+	como uma professora de
+	verdade!
 	"""
 	keyWait
 		any = false
@@ -160,9 +148,8 @@ script 2 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Ehehehe,don't say
-	that! You're making
-	me blush...
+	He he he, não fala isso!
+	Assim eu fico vermelha...
 	"""
 	keyWait
 		any = false
@@ -174,7 +161,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yo,Ms.Shuko!!"
+	"Oi, Professora Shuko!!"
 	keyWait
 		any = false
 	clearMsg
@@ -186,16 +173,15 @@ script 4 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Aw,come on,I'm
-	serious!
-	No more teasing!
+	Ai, vai, é sério!
+	Chega dessa brincadeira!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's start our
-	lesson,OK?
+	Vamos começar
+	a aula, tá bom?
 	"""
 	keyWait
 		any = false
@@ -207,7 +193,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!"
+	"Tá!"
 	keyWait
 		any = false
 	clearMsg
@@ -219,31 +205,30 @@ script 6 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	OK,I'm gonna have
-	you operate AquaMan 
+	Certo. Quero que você
+	opere o AquaMan para
+	aprender a usar a água
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to teach you how to
-	use water in battle.
+	em combate.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,please step over
-	to this computer and
-	say hi to AquaMan. 
+	Por favor, venha até
+	este computador e dê
+	um "oi" pra ele. 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Oh! I almost
-	forgot! Here,take
-	this!
+	... Ah! Quase que
+	eu esqueço! Tome!
 	"""
 	keyWait
 		any = false
@@ -260,7 +245,7 @@ script 7 mmbn6 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -284,9 +269,9 @@ script 8 mmbn6 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	OK,now we're ready!
-	Please go to that
-	computer over there!
+	Tá, agora, sim, tudo
+	pronto! Por favor, vá
+	até o computador ali!
 	"""
 	keyWait
 		any = false

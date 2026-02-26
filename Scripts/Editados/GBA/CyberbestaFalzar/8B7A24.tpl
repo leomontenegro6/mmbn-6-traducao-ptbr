@@ -6,17 +6,17 @@ script 0 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Looks like you got
-	to CentralArea2 with
-	no problems.
+	Parece que cê chegou
+	na Área Central 2 sem
+	estresse.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,GroundMan,
-	time to do like we
-	always do!
+	Beleza, GroundMan!
+	Hora da gente fazer
+	o de sempre!
 	"""
 	keyWait
 		any = false
@@ -29,8 +29,8 @@ script 1 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Whiiiiiiiir!!
-	Sounds good to me!
+	Vhrrrrrrrrr!!
+	Gostei da ideia!
 	"""
 	keyWait
 		any = false
@@ -40,7 +40,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W_What are we...?"
+	"O-o que a gente...?"
 	keyWait
 		any = false
 	end
@@ -50,55 +50,54 @@ script 3 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	... Looks like we're
-	all set here.
+	... Parece que tá
+	tudo pronto aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So this is how
-	I do my special rock
-	drilling training.
+	É assim que eu faço o
+	meu treinamento especial
+	de perfurar rochas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've gotta get rid
-	of all the fallen
-	rocks in this area.
+	A gente tem que se
+	livrar de todas as
+	rochas caídas nesta área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you wanna do it
-	right,you gotta
-	store energy up,
+	Pra fazer o negócio
+	dirieto, você tem que
+	armazenar energia
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and then break a lot
-	of stones in one go!
+	e, daí, quebrar um monte
+	de pedras de uma só vez!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if you don't
-	watch where you're
-	drilling,you might
+	Mas, se não tomar cuidado
+	com onde você perfura,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	not finish before
-	the dynamite
-	explodes!
+	pode acabar não
+	conseguindo terminar antes
+	da dinamite explodir!
 	"""
 	keyWait
 		any = false
@@ -111,9 +110,9 @@ script 4 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dynamite?
-	What is dynamite
-	doing...?
+	Dinamite?
+	Por que é que tem
+	dinamite...?
 	"""
 	keyWait
 		any = false
@@ -126,44 +125,45 @@ script 5 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	The dynamite softens
-	up the rocks a bit,
-	so that's why.
+	A dinamite amolece
+	um pouco as rochas.
+	É pra isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It helps me train so
-	I can do my job!
+	Me ajuda a treinar pra
+	eu poder fazer o meu
+	trabalho direito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One more thing,you
-	can't drill things
-	that aren't stones!
+	Mais uma coisa: cê
+	não pode perfurar nada
+	além das pedras, viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you take care not
-	to do that,alright?
+	Então cuidado pra
+	não fazer isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Phew,finally getting
-	started! There's 35
-	stones in this area.
+	Ufa. Finalmente, hora
+	de começar! Tem 35
+	pedras nesta área.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Drill away!"
+	"Sebo nessa broca!"
 	keyWait
 		any = false
 	end

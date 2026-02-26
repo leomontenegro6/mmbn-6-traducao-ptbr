@@ -5,14 +5,14 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = GroundMan
 	msgOpen
-	"Whiiiiiiir!!"
+	"Vhrrrrrrrrr!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like we took
-	care of all the
-	rocks in this area!
+	Acho que a gente
+	cuidou de todas as
+	rochas nesta área!
 	"""
 	keyWait
 		any = false
@@ -25,22 +25,21 @@ script 1 mmbn6 {
 		mugshot = Moliarty
 	msgOpen
 	"""
-	Looks like you know
-	what you're doing!
+	Parece que cê sabe
+	bem o que tá fazendo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright,time for
-	the big test!
+	Beleza, hora da
+	prova final!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack out and head
-	on down my way!
+	Desconecta e fala comigo!
 	"""
 	keyWait
 		any = false
@@ -52,7 +51,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"... OK!"
+	"... Tá!"
 	keyWait
 		any = false
 	end

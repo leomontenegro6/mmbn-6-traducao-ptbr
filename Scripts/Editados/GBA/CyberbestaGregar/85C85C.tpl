@@ -185,8 +185,7 @@ script 55 mmbn6 {
 	msgOpen
 	"""
 	Me conecta, Lan!
-	A gente tem que ir
-	pra Área Central 3!
+	Bora pra Área Central 3!
 	"""
 	keyWait
 		any = false

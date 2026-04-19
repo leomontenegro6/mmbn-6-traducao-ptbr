@@ -468,8 +468,7 @@ script 113 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vamos indo pra
-	Área Verde 2!
+	Bora pra Área Verde 2!
 	"""
 	keyWait
 		any = false

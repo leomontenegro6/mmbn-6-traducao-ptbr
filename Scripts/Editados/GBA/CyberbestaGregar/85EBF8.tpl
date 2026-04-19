@@ -651,8 +651,8 @@ script 135 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Eu tenho que correr
-	pro Distrito Beira-Mar!!
+	Tenho que correr pro
+	Distrito Beira-Mar!!
 	"""
 	keyWait
 		any = false
@@ -750,8 +750,8 @@ script 142 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Acho que tenho que ler
-	o e-mail que chegou...
+	Tenho que ler o
+	e-mail que chegou...
 	"""
 	keyWait
 		any = false

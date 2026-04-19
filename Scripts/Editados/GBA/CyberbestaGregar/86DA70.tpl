@@ -385,7 +385,7 @@ script 151 mmbn6 {
 	"""
 	Tá, a primeira tarefa
 	é ir no NetCafé da
-	Área Céu 1. Bora lá!
+	Área Céu 1!
 	"""
 	keyWait
 		any = false
@@ -498,9 +498,8 @@ script 184 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora transformar todas
-	as rochas desta área
-	em pedrinhas!!
+	Bora triturar as rochas
+	desta área!!
 	"""
 	keyWait
 		any = false
@@ -586,8 +585,8 @@ script 195 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora procurar pela
-	cyberestação nesta área!
+	Bora pra cyberestação
+	desta área!
 	"""
 	keyWait
 		any = false

@@ -1014,7 +1014,7 @@ script 112 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Vai lá pra Área Verde 1!"
+	"Vai pra Área Verde 1!"
 	keyWait
 		any = false
 	end
@@ -1024,8 +1024,7 @@ script 113 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vamos indo pra
-	Área Verde 2!
+	Bora pra Área Verde 2!
 	"""
 	keyWait
 		any = false
@@ -1050,7 +1049,7 @@ script 115 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Vai lá pra Área Verde 1!"
+	"Vai pra Área Verde 1!"
 	keyWait
 		any = false
 	end
@@ -1059,7 +1058,7 @@ script 116 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Vai lá pra Área Verde 1!"
+	"Vai pra Área Verde 1!"
 	keyWait
 		any = false
 	end

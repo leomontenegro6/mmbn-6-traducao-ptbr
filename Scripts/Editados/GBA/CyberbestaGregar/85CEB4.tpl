@@ -590,8 +590,8 @@ script 142 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Acho que tenho que ler
-	o e-mail que chegou...
+	Tenho que ler o
+	e-mail que chegou...
 	"""
 	keyWait
 		any = false

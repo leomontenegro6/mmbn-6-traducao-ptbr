@@ -408,8 +408,7 @@ script 53 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vamos indo pra
-	Área Verde 2!
+	Bora pra Área Verde 2!
 	"""
 	keyWait
 		any = false
@@ -519,9 +518,8 @@ script 184 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora transformar todas
-	as rochas desta área
-	em pedrinhas!!
+	Bora triturar as rochas
+	desta área!!
 	"""
 	keyWait
 		any = false
@@ -599,8 +597,8 @@ script 195 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora procurar pela
-	cyberestação nesta área!
+	Bora pra cyberestação
+	desta área!
 	"""
 	keyWait
 		any = false

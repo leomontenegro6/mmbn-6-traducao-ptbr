@@ -83,9 +83,9 @@ script 5 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora pro Distrito Céu!
-	Dá pra chegar lá de
-	Ônibus Magnético, né?!
+	Pro Distrito Céu!
+	É só usar o Ônibus
+	Magnético, né?!
 	"""
 	keyWait
 		any = false
@@ -160,7 +160,7 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Conto com você pra achar
+	Conto contigo pra achar
 	o MegaMan, HeatMan!
 	"""
 	keyWait
@@ -172,7 +172,7 @@ script 12 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Conto com você pra achar
+	Conto contigo pra achar
 	o MegaMan, ElecMan!
 	"""
 	keyWait
@@ -184,7 +184,7 @@ script 13 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Conto com você pra achar
+	Conto contigo pra achar
 	o MegaMan, SlashMan!
 	"""
 	keyWait
@@ -196,7 +196,7 @@ script 14 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Conto com você pra achar
+	Conto contigo pra achar
 	o MegaMan, AquaMan!
 	"""
 	keyWait
@@ -251,9 +251,8 @@ script 16 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O tempo tá violento
-	hoje... Melhor a gente
-	ir logo pra casa!
+	O tempo tá violento...
+	Bora logo pra casa!
 	"""
 	keyWait
 		any = false
@@ -276,8 +275,7 @@ script 18 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora lá pro Distrito
-	Céu, MegaMan!!
+	Bora pro Distrito Céu!!
 	"""
 	keyWait
 		any = false
@@ -309,8 +307,8 @@ script 20 mmbn6 {
 	msgOpen
 	"""
 	Desconecta, MegaMan!
-	A gente tem que voltar
-	pro Distrito Céu!
+	Bora voltar pro Distrito
+	Céu!
 	"""
 	keyWait
 		any = false
@@ -348,7 +346,7 @@ script 35 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Conto com você pra achar
+	Conto contigo pra achar
 	o MegaMan, TomahawkMan!
 	"""
 	keyWait
@@ -360,7 +358,7 @@ script 36 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Conto com você pra achar
+	Conto contigo pra achar
 	o MegaMan, TenguMan!
 	"""
 	keyWait
@@ -441,8 +439,7 @@ script 102 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	E onde é que essa
-	pessoa tá agora?!
+	E ela tá agora?!
 	"""
 	keyWait
 		any = false
@@ -460,7 +457,7 @@ script 103 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Mas onde é que será
+	Mas onde será
 	que ela tá agora?!
 	"""
 	keyWait
@@ -468,8 +465,7 @@ script 103 mmbn6 {
 	clearMsg
 	"""
 	Parece que ela trabalha
-	de meio período em
-	alguma loja aí...
+	em alguma loja aí...
 	"""
 	keyWait
 		any = false
@@ -564,8 +560,8 @@ script 115 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta, MegaMan, e
-	bora pro Bairro ACDC!!
+	Desconecta e bora pro
+	Bairro ACDC!!
 	"""
 	keyWait
 		any = false
@@ -576,8 +572,7 @@ script 117 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora lá pra Área
-	ACDC, MegaMan!
+	Pra Área ACDC, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -600,9 +595,9 @@ script 119 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Quem será que tá
-	fazendo essa graça
-	com as cyberportas?
+	Quem será que fez
+	essa graça com as
+	cyberportas?
 	"""
 	keyWait
 		any = false
@@ -613,8 +608,8 @@ script 120 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora voltar lá pra
-	aquele Prog perdido!
+	Bora voltar pro
+	Prog perdido!
 	"""
 	keyWait
 		any = false
@@ -649,15 +644,9 @@ script 123 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Acelera, MegaMan!
-	Vai logo pra Undernet 2!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
+	Rápido, pra Undernet 2!
 	A gente tem que salvar
-	a Roll e os outros!
+	o pessoal!
 	"""
 	keyWait
 		any = false
@@ -668,8 +657,8 @@ script 124 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Acho que é melhor eu
-	voltar pro Bairro Central
+	... É melhor eu voltar
+	pro Bairro Central,
 	por enquanto...
 	"""
 	keyWait
@@ -720,8 +709,8 @@ script 135 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Eu tenho que correr
-	pro Distrito Beira-Mar!
+	Tenho que correr pro
+	Distrito Beira-Mar!
 	"""
 	keyWait
 		any = false
@@ -732,8 +721,7 @@ script 136 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A gente tem que ir
-	pra Área Central 3!
+	Bora pra Área Central 3!
 	"""
 	keyWait
 		any = false
@@ -752,9 +740,8 @@ script 137 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Parece que ele tá
-	na Diretoria da
-	escola agora.
+	Parece que ele tá na
+	Diretoria da escola.
 	"""
 	keyWait
 		any = false
@@ -765,9 +752,8 @@ script 138 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta! A gente tem
-	que achar o Prefeito,
-	custe o que custar!
+	Desconecta! A gente TEM
+	que achar o Prefeito!
 	"""
 	keyWait
 		any = false
@@ -790,7 +776,7 @@ script 140 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vai lá pro buracão
+	Vai pro buracão
 	da Área Central!
 	"""
 	keyWait
@@ -808,8 +794,8 @@ script 141 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu tô indo pro SubSolo
-	te buscar agora mesmo!
+	Tô indo pro SubSolo
+	te buscar!
 	"""
 	keyWait
 		any = false
@@ -824,8 +810,8 @@ script 142 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Acho que tenho que ler
-	o e-mail que chegou...
+	Tenho que ler o
+	e-mail que chegou...
 	"""
 	keyWait
 		any = false
@@ -836,16 +822,14 @@ script 143 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O que será que o
-	Sr. Mach quer...?
+	O que o Sr. Mach quer...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bom, desconecta por
-	enquanto e bora pro
-	Distrito Céu...
+	Bom, desconecta e
+	bora pro Distrito Céu.
 	"""
 	keyWait
 		any = false
@@ -896,9 +880,8 @@ script 184 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora transformar todas
-	as rochas desta área
-	em pedrinhas!!
+	Bora triturar as rochas
+	desta área!!
 	"""
 	keyWait
 		any = false
@@ -976,8 +959,8 @@ script 195 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora procurar pela
-	cyberestação nesta área!
+	Bora pra cyberestação
+	desta área!
 	"""
 	keyWait
 		any = false

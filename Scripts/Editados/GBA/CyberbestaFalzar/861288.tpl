@@ -147,7 +147,7 @@ script 7 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	... Aquilo aconteceu
+	... Isso aconteceu
 	mesmo na Undernet...?
 	"""
 	keyWait

@@ -6,7 +6,7 @@ script 0 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Saí da frente, JudgeMan!!
+	Sai da frente, JudgeMan!!
 	"""
 	keyWait
 		any = false

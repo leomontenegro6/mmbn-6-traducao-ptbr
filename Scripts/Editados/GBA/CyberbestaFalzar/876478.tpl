@@ -28,9 +28,9 @@ script 1 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	A Área Verde tem
-	um monte de Cyber
-	Íons Negativos
+	A Área Verde
+	tem um monte de
+	cyber íons negativos
 	"""
 	keyWait
 		any = false
@@ -58,7 +58,7 @@ script 2 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Os Cyber Íons Negativos
+	Os cyber íons negativos
 	tão entrando na minha
 	pele!
 	"""
@@ -79,7 +79,7 @@ script 5 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Cyber Íons Negativos
+	cyber íons negativos
 	na minha pele!
 	"""
 	keyWait

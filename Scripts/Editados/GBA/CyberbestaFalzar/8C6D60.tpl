@@ -61,9 +61,9 @@ script 3 mmbn6 {
 		mugshot = Count
 	msgOpen
 	"""
-	Gua ha ha ha! Esta
+	Gua ha ha ha! Est
 	área está transbordando
-	energia sombria!
+	de energia sombria!
 	"""
 	keyWait
 		any = false
@@ -120,7 +120,7 @@ script 7 mmbn6 {
 	msgOpen
 	"""
 	É aquele vermezinho
-	irritante de antes...
+	irritante de antes.
 	"""
 	keyWait
 		any = false
@@ -133,7 +133,7 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Ou melhor. só mais
+	Ou melhor, só mais
 	uma guarnição para
 	o meu jantar.
 	"""
@@ -208,8 +208,8 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	MegaMan, agora
-	é com você agora!
+	MegaMan,
+	agora é com você!
 	"""
 	keyWait
 		any = false

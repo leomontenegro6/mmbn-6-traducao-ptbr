@@ -74,7 +74,7 @@ script 17 mmbn6s {
 	end
 }
 script 18 mmbn6s {
-	"Dias estranhos SlickRbr"
+	"Dias estranhos Jeitosão"
 	end
 }
 script 19 mmbn6s {
@@ -86,7 +86,7 @@ script 20 mmbn6s {
 	end
 }
 script 21 mmbn6s {
-	"Blow Off Baby! Sr. Dama"
+	"Apaga! Aaah!   Sr. Dama"
 	end
 }
 script 22 mmbn6s {
@@ -94,7 +94,7 @@ script 22 mmbn6s {
 	end
 }
 script 23 mmbn6s {
-	"Prévia crime?  Segredo "
+	"Aviso crime?   Segredo "
 	end
 }
 script 24 mmbn6s {

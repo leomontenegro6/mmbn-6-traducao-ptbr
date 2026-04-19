@@ -106,7 +106,7 @@ script 10 mmbn6 {
 		mugshot = GirlNaviYellow
 	msgOpen
 	"""
-	Olá! Obrigado por
+	Oi! Obrigada por
 	atender o meu pedido.
 	"""
 	keyWait
@@ -459,7 +459,7 @@ script 12 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -568,7 +568,7 @@ script 14 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -891,7 +891,7 @@ script 24 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd

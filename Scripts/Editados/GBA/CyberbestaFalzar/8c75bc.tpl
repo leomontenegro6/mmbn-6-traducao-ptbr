@@ -19,8 +19,8 @@ script 1 mmbn6 {
 		mugshot = Django
 	msgOpen
 	"""
-	MegaMan, deixe isso
-	com o Otenko.
+	MegaMan, deixo o
+	Mestre Otenko com você.
 	"""
 	keyWait
 		any = false

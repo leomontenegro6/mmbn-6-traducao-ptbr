@@ -19,7 +19,7 @@ script 2 mmbn6 {
 		flag = 408
 	"""
 	Adquiriu novos Dados
-	de Vírus "Piranha"!
+	de Vírus: "Piranha"!
 	"""
 	keyWait
 		any = false

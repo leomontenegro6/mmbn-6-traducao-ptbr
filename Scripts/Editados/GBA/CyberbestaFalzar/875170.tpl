@@ -252,8 +252,7 @@ script 12 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	... É só força
-	de expressão...
+	... Falei por falar...
 	"""
 	keyWait
 		any = false
@@ -280,8 +279,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	... É só força
-	de expressão...
+	... Falei por falar...
 	"""
 	keyWait
 		any = false
@@ -596,7 +594,7 @@ script 17 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -755,7 +753,7 @@ script 20 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"... Um machado, né?"
+	"... Um machado, é?"
 	keyWait
 		any = false
 	clearMsg
@@ -836,7 +834,7 @@ script 20 mmbn6 {
 		mugshot = MrProgGreen
 	"""
 	AFE! Bota ele na
-	água desta vez!
+	água dessa vez!
 	"""
 	keyWait
 		any = false
@@ -899,7 +897,7 @@ script 20 mmbn6 {
 	clearMsg
 	"""
 	Irei customizar o
-	seu Cyber Machado!
+	seu CyberMachado!
 	"""
 	keyWait
 		any = false
@@ -910,7 +908,7 @@ script 20 mmbn6 {
 	"."
 	wait
 		frames = 30
-	"."
+	". "
 	wait
 		frames = 30
 	"ABRA-CADABRA!"

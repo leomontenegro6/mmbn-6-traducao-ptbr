@@ -281,7 +281,7 @@ script 20 mmbn6 {
 	"""
 	quebrou um monte
 	de coisas, daí
-	pulou no abismo ali.
+	pulou no abismo.
 	"""
 	keyWait
 		any = false

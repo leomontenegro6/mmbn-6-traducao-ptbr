@@ -278,7 +278,7 @@ script 17 mmbn6 {
 	"""
 	Vic... Pegue o
 	Programa de Força e
-	returne à base...
+	retorne à base...
 	"""
 	keyWait
 		any = false
@@ -606,13 +606,13 @@ script 40 mmbn6 {
 	"\n"
 	soundPlay
 		track = 434
-	"Tec Tec Clic...*"
+	"Tec Tec Clic..."
 	wait
 		frames = 113
 	clearMsg
 	soundPlay
 		track = 337
-	"... Bip"
+	"... Bip!"
 	wait
 		frames = 40
 	soundEnableTextSFX

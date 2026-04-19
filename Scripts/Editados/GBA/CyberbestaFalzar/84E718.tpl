@@ -521,7 +521,7 @@ script 102 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -1389,7 +1389,7 @@ script 122 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -1705,7 +1705,7 @@ script 126 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -1839,7 +1839,7 @@ script 130 mmbn6 {
 		frames = 16
 	soundPlay
 		track = 373
-	" Au!!*"
+	" Au!!"
 	wait
 		frames = 16
 	soundEnableTextSFX
@@ -2336,7 +2336,7 @@ script 142 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd

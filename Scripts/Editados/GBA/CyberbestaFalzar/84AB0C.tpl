@@ -174,7 +174,7 @@ script 4 mmbn6 {
 	clearMsg
 	"""
 	Quero que você seja
-	você mesmo e seje feliz,
+	você mesmo e seja feliz,
 	onde quer que esteja!
 	"""
 	keyWait
@@ -205,7 +205,7 @@ script 5 mmbn6 {
 	clearMsg
 	"""
 	Quero que você seja
-	você mesmo e seje feliz,
+	você mesmo e seja feliz,
 	onde quer que esteja!
 	"""
 	keyWait
@@ -299,7 +299,7 @@ script 8 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	você é o menino dos
+	Você é o menino dos
 	Hikari, o Lan, né?
 	"""
 	keyWait
@@ -320,8 +320,8 @@ script 8 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	A casa ficou bem
-	solitária sem vocês...
+	Ela ficou bem solitária
+	sem vocês...
 	"""
 	keyWait
 		any = false
@@ -563,8 +563,8 @@ script 19 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Tenho certeza que todo
-	mundo ia adorar te ver!
+	Tenho certeza de que todo
+	mundo vai adorar te ver!
 	"""
 	keyWait
 		any = false
@@ -702,7 +702,7 @@ script 30 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu tenho que treinar
+	Tenho que treinar
 	ainda mais!
 	"""
 	keyWait

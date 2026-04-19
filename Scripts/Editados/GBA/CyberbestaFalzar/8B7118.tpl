@@ -60,14 +60,14 @@ script 4 mmbn6 {
 	clearMsg
 	"""
 	e por tirar o
-	MegaMan de você...
+	MegaMan de você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Eu tive minha parcela de
-	culpa por tudo isso...
+	culpa nisso tudo...
 	"""
 	keyWait
 		any = false
@@ -111,7 +111,7 @@ script 6 mmbn6 {
 	"""
 	No seu primeiro dia
 	de aula na escola,
-	eu enganei o Mick
+	eu manipulei o Mick
 	"""
 	keyWait
 		any = false
@@ -220,7 +220,7 @@ script 10 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	No fundo do buraco fica
+	No fundo do buraco, fica
 	uma parte do mundo
 	cibernético conhecida
 	"""
@@ -286,9 +286,9 @@ script 12 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	porque quero me sentir
-	melhor comigo mesmo,
-	por dentro.
+	pra tentar assuadir
+	a minha consciência,
+	mesmo que só um pouco.
 	"""
 	keyWait
 		any = false

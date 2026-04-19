@@ -83,7 +83,7 @@ script 3 mmbn6 {
 script 4 mmbn6 {
 	msgOpen
 	"""
-	A loje de chips
+	A loja de chips
 	"Loja do Higsby"...
 	"""
 	keyWait
@@ -184,7 +184,7 @@ script 7 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	obra de um jardinheiro
+	obra de um jardineiro
 	engenhoso.
 	"""
 	keyWait

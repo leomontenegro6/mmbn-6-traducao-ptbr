@@ -261,9 +261,9 @@ script 15 mmbn6 {
 	mugshotAnimation
 		animation = 1
 	"""
-	たTsc... Quem foi que
+	(Tsc... Quem foi que
 	morreu e declarou ele
-	rei do mundo?ち
+	rei do mundo?)
 	"""
 	keyWait
 		any = false
@@ -302,7 +302,7 @@ script 16 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Esta missão é importante
+	Essa missão é importante
 	demais para falhar,
 	"""
 	keyWait
@@ -340,7 +340,7 @@ script 17 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	o operador do BlastMan
+	o operador do BlastMan,
 	não? Realmente não
 	esperava vê-lo aqui,
 	"""
@@ -350,7 +350,7 @@ script 17 mmbn6 {
 	"""
 	visto que você disse
 	que não queria ser
-	visto aqui...
+	visto conosco...
 	"""
 	keyWait
 		any = false
@@ -643,7 +643,7 @@ script 30 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Gostaram a ideia?"
+	"Curtiram a ideia?"
 	keyWait
 		any = false
 	clearMsg

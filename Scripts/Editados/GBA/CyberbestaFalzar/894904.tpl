@@ -174,7 +174,7 @@ script 7 mmbn6 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"たEle me lembra um\n pouco o Dex...ち"
+	"(Ele me lembra um\n pouco o Dex...)"
 	keyWait
 		any = false
 	clearMsg

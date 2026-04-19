@@ -161,9 +161,7 @@ script 6 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"""
 	"Se tiver um, aceitaria\ntrocá-lo por um\n"
-	"""
 	keyWait
 		any = false
 	clearMsg

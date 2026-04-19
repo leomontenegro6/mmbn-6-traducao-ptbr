@@ -31,7 +31,7 @@ script 0 mmbn6 {
 	clearMsg
 	"""
 	Estou estudando P.A.
-	たPrograma Avançadoち
+	(Programa Avançado)
 	como parte de uma
 	"""
 	keyWait
@@ -151,7 +151,7 @@ script 1 mmbn6 {
 	clearMsg
 	"""
 	Estou estudando P.A.
-	たPrograma Avançadoち
+	(Programa Avançado)
 	como parte de uma
 	"""
 	keyWait
@@ -358,7 +358,7 @@ script 2 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -512,7 +512,7 @@ script 4 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd

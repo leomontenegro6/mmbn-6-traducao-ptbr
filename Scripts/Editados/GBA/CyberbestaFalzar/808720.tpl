@@ -14,11 +14,11 @@ script 2 mmbn6s {
 	end
 }
 script 3 mmbn6s {
-	"ExptFldr"
+	"PstExprt"
 	end
 }
 script 4 mmbn6s {
-	"AprtcFld"
+	"PstApndz"
 	end
 }
 script 5 mmbn6s {

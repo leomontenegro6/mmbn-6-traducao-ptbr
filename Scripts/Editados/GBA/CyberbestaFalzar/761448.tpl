@@ -919,13 +919,12 @@ script 44 mmbn6 {
 		top = 128
 	"""
 	O Rush adora.
-	Altamente
-	nutritivo.
+	Altamente nutritiva.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Possui:"
+	"Possui: "
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -947,7 +946,7 @@ script 45 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	O Cyber Machado de
+	O CyberMachado de
 	um cliente. Claramente,
 	é usado com frequência.
 	"""
@@ -1418,7 +1417,7 @@ script 66 mmbn6 {
 		left = 30
 		top = 128
 	"""
-	Cyber Machado do
+	CyberMachado do
 	diretor do Aquário.
 	"""
 	waitHold
@@ -1657,7 +1656,7 @@ script 104 mmbn6 {
 		top = 128
 	"""
 	Banner da Página
-	do Aquário
+	do Aquário.
 	"""
 	waitHold
 }
@@ -1676,7 +1675,7 @@ script 105 mmbn6 {
 		top = 128
 	"""
 	Banner da Página
-	do Distrito Verde
+	do Distrito Verde.
 	"""
 	waitHold
 }
@@ -1695,7 +1694,7 @@ script 106 mmbn6 {
 		top = 128
 	"""
 	Banner da Página
-	do Distrito Céu
+	do Distrito Céu.
 	"""
 	waitHold
 }
@@ -1714,7 +1713,7 @@ script 107 mmbn6 {
 		top = 128
 	"""
 	Banner da Página
-	do Bairro ACDC
+	do Bairro ACDC.
 	"""
 	waitHold
 }

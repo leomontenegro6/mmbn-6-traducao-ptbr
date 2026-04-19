@@ -42,7 +42,7 @@ script 2 mmbn6 {
 	clearMsg
 	"""
 	com o selo da besta
-	e 100 S...
+	e 100 P...
 	"""
 	keyWait
 		any = false

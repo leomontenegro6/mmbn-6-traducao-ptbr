@@ -62,7 +62,7 @@ script 2 mmbn6 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Hmpf. Por que iria"
+	"Hmpf. Por que iria?"
 	keyWait
 		any = false
 	clearMsg
@@ -110,7 +110,7 @@ script 3 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	por todo mundo que
+	Por todo mundo que
 	você fez sofrer com
 	o que você fez!
 	"""
@@ -288,7 +288,7 @@ script 9 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Vamos, vamos embora."
+	"Vem. Vamos embora."
 	keyWait
 		any = false
 	end
@@ -602,7 +602,7 @@ script 30 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Vai!!"
+	"Vamos!!"
 	keyWait
 		any = false
 	end

@@ -119,7 +119,7 @@ script 11 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Se tá pretendo entrar
+	Se tá pretendendo entrar
 	cedo na Exposição,
 	"""
 	keyWait

@@ -50,7 +50,7 @@ script 3 mmbn6 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"MegaMan!"
+	"Mega!"
 	keyWait
 		any = false
 	clearMsg
@@ -62,13 +62,13 @@ script 3 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Roll
-	"A gente tá bem!"
+	"A gente tá, sim!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas você não devia se
-	forçar tanto, MegaMan!
+	Mas você não devia
+	se forçar tanto, Mega!
 	"""
 	keyWait
 		any = false
@@ -105,7 +105,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"-_CircusMan!"
+	"CircusMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -147,8 +147,7 @@ script 8 mmbn6 {
 	msgOpen
 	"""
 	Você...
-	Você é a operadora
-	do CircusMan?!
+	A operadora do CircusMan!
 	"""
 	keyWait
 		any = false
@@ -316,7 +315,7 @@ script 15 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = Roll
-	"MegaMan!!"
+	"Mega!!"
 	keyWait
 		any = false
 	clearMsg
@@ -400,7 +399,7 @@ script 20 mmbn6 {
 	clearMsg
 	"""
 	Yuika!
-	Devolve o MegaMan!
+	Devolve o Mega!
 	"""
 	keyWait
 		any = false

@@ -23,7 +23,7 @@ script 5 mmbn6 {
 		mugshot = MegaMan
 	"""
 	Eu sou o MegaMan!
-	Eu vim pra te ajudar!!
+	Vim pra te ajudar!!
 	"""
 	keyWait
 		any = false
@@ -54,12 +54,12 @@ script 5 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
 	Pronto!
-	Você tá bem agora!
+	Você tá livre agora!
 	"""
 	keyWait
 		any = false

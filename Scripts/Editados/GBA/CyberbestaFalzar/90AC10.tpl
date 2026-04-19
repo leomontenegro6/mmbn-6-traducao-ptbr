@@ -23,8 +23,8 @@ script 0 mmbn6 {
 	clearMsg
 	"""
 	Mas é tão estranho ver
-	você e o Tab aqui no
-	bairro, viu, Mick?
+	você e o Tab aqui, viu,
+	Mick?
 	"""
 	keyWait
 		any = false
@@ -453,7 +453,7 @@ script 20 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	O Dex a Mayl e eu
+	O Dex, a Mayl e eu
 	vamos pro Colégio Den.
 	"""
 	keyWait
@@ -571,7 +571,7 @@ script 27 mmbn6 {
 		mugshot = Yai
 	msgOpen
 	"""
-	U-university...?
+	U-universidade...?
 	Uau...!
 	"""
 	keyWait

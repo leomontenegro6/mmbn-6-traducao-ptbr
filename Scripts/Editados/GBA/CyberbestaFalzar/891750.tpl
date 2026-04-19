@@ -7,7 +7,7 @@ script 0 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"たEu tô mesmo aqui...!"
+	"(Eu tô mesmo aqui...!"
 	keyWait
 		any = false
 	clearMsg
@@ -15,7 +15,7 @@ script 0 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	" Glup...\n Tô tão nervoso...ち"
+	" Glup...\n Tô tão nervoso...)"
 	keyWait
 		any = false
 	end
@@ -291,7 +291,7 @@ script 13 mmbn6 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"たQ-qual é a dele?!\n Eu tô com um mau\n pressentimento aqui...ち"
+	"(Q-qual é a dele?!\n Eu tô com um mau\n pressentimento aqui...)"
 	keyWait
 		any = false
 	end
@@ -302,11 +302,11 @@ script 14 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"たCara, isso deu\n tanto medo..."
+	"(Cara, isso deu\n tanto medo..."
 	keyWait
 		any = false
 	clearMsg
-	" mas seria legal a\n gente poder ser amigo...ち"
+	" mas seria legal a\n gente poder ser amigo...)"
 	keyWait
 		any = false
 	soundFadeOut

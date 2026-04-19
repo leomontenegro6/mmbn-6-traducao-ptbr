@@ -45,7 +45,7 @@ script 3 mmbn6 {
 	"""
 	Ah, dá uma trégua,
 	eu não sou o Baryl...
-	Não consigo mexer...
+	Não sei mexer neste...
 	"""
 	keyWait
 		any = false
@@ -115,15 +115,14 @@ script 8 mmbn6 {
 	msgOpen
 	"""
 	Não importa o quanto cê
-	manda bem nas NetLutas...
+	mande bem nas NetLutas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	no "offline",
-	não passa de uma
-	criança normal!
+	no "offline", não passa
+	de uma criança normal!
 	"""
 	keyWait
 		any = false
@@ -276,9 +275,8 @@ script 18 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Grr! E a gente
-	tava tão perto
-	da Cyberbesta!
+	Grr! E a gente tava tão
+	perto da Cyberbesta!
 	"""
 	keyWait
 		any = false
@@ -712,7 +710,7 @@ script 49 mmbn6 {
 	msgOpen
 	"""
 	O-o quê?!
-	Cê tá virando casaca?!
+	Vai nos desertar assim?!
 	"""
 	keyWait
 		any = false
@@ -927,7 +925,7 @@ script 61 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Eu quero que vocês
+	Quero que vocês
 	tirem todo mundo
 	do Bairro Central,
 	"""
@@ -935,9 +933,8 @@ script 61 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	e levem pro mais
-	longe que der!
-	Por favor!
+	e levem pro mais longe
+	que der! Por favor!
 	"""
 	keyWait
 		any = false

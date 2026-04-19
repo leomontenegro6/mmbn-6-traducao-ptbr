@@ -111,7 +111,7 @@ script 6 mmbn6 {
 	clearMsg
 	"""
 	Então não é essa
-	moleza toda abrir!
+	moleza toda, não!
 	"""
 	keyWait
 		any = false

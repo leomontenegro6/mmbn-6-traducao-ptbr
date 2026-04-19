@@ -224,7 +224,7 @@ script 14 mmbn6 {
 	clearMsg
 	"""
 	EM UM COMPUTADOR
-	CHAMADO "BOTIJÃO
+	CHAMADO "TANQUE
 	DE GÁS", SEI LÁ...
 	"""
 	keyWait
@@ -309,7 +309,7 @@ script 15 mmbn6 {
 	clearMsg
 	"""
 	EM UM COMPUTADOR
-	CHAMADO "BOTIJÃO
+	CHAMADO "TANQUE
 	DE GÁS", SEI LÁ...
 	"""
 	keyWait
@@ -383,7 +383,7 @@ script 16 mmbn6 {
 	clearMsg
 	"""
 	EM UM COMPUTADOR
-	CHAMADO "BOTIJÃO
+	CHAMADO "TANQUE
 	DE GÁS", SEI LÁ...
 	"""
 	keyWait

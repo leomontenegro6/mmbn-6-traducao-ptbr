@@ -22,14 +22,14 @@ script 1 mmbn6 {
 	msgOpen
 	"""
 	PIPIPI...
-	たHa ha ha...ち
+	(Ha ha ha...)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	PIKIRIRAPIKIRA
-	たQue pena, porque...ち
+	(Que pena, porque...)
 	"""
 	keyWait
 		any = false
@@ -37,14 +37,14 @@ script 1 mmbn6 {
 	"""
 	PIRIRURIKIRIRI
 	PIRIRI
-	たeu já me aposseiち
+	(eu já me apossei)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	PIRIKIRIRIRARIRI!
-	たdo Programa de Força!ち
+	(do Programa de Força!)
 	"""
 	keyWait
 		any = false
@@ -83,21 +83,21 @@ script 4 mmbn6 {
 	msgOpen
 	"""
 	PIKIRARAPIKIRA...
-	たEntendido...ち
+	(Entendido...)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	KIKIRAPIRA PIKIRIRA
-	たVocê será deletadoち
+	(Você será deletado)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	RAKIRIPIRA!
-	たaqui e agora!ち
+	(aqui e agora!)
 	"""
 	keyWait
 		any = false
@@ -125,7 +125,7 @@ script 6 mmbn6 {
 	msgOpen
 	"""
 	PIKKURU!
-	たHmpf!ち
+	(Hmpf!)
 	"""
 	keyWait
 		any = false
@@ -133,14 +133,14 @@ script 6 mmbn6 {
 	"""
 	PIKIRIRARI
 	PIRIRIRAKIRI
-	たVocê tem coragem...ち
+	(Você tem coragem...)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	PIRARII!
-	たmas vai perder!ち
+	(mas vai perder!)
 	"""
 	keyWait
 		any = false
@@ -180,7 +180,7 @@ script 9 mmbn6 {
 	msgOpen
 	"""
 	PIKIRIIRU!
-	たVou te deletar!ち
+	(Vou te deletar!)
 	"""
 	keyWait
 		any = false

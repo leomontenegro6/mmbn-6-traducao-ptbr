@@ -24,8 +24,7 @@ script 5 mmbn6 {
 	clearMsg
 	"""
 	O "peixe que não
-	nada"... é um
-	palito de peixe!
+	nada"... é um taiyaki!
 	"""
 	keyWait
 		any = false
@@ -148,8 +147,7 @@ script 7 mmbn6 {
 	clearMsg
 	"""
 	O "peixe que não
-	nada"... é um
-	palito de peixe!
+	nada"... é um taiyaki!
 	"""
 	keyWait
 		any = false

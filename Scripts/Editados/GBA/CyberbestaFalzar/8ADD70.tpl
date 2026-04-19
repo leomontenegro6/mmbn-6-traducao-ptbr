@@ -247,7 +247,7 @@ script 10 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"... Mwa,ha,ha..."
+	"... Mua ha ha..."
 	keyWait
 		any = false
 	clearMsg

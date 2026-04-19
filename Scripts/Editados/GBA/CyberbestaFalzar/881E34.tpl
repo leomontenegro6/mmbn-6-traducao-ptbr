@@ -372,7 +372,7 @@ script 15 mmbn6 {
 	msgOpen
 	"""
 	Lan!!
-	Tá ali a Roll!!
+	Olha ali a Roll!!
 	"""
 	keyWait
 		any = false
@@ -402,8 +402,8 @@ script 20 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	A SUA PÁGINA E A
-	PÁGINA ACDC HP!
+	A SUA PÁGINA E
+	A PÁGINA ACDC!
 	"""
 	keyWait
 		any = false

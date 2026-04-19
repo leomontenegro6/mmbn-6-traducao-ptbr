@@ -270,7 +270,7 @@ script 13 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Como tem rolando muita
+	Como tem rolado muita
 	coisa, cê só tá sendo
 	paranoico.
 	"""

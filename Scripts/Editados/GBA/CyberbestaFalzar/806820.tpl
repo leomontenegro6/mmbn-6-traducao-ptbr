@@ -82,23 +82,23 @@ script 19 mmbn6s {
 	end
 }
 script 20 mmbn6s {
-	"CybrBat1"
+	"CybrMcg1"
 	end
 }
 script 21 mmbn6s {
-	"CybrBat2"
+	"CybrMcg2"
 	end
 }
 script 22 mmbn6s {
-	"CybrBat3"
+	"CybrMcg3"
 	end
 }
 script 23 mmbn6s {
-	"CybrBat4"
+	"CybrMcg4"
 	end
 }
 script 24 mmbn6s {
-	"CybrBat5"
+	"CybrMcg5"
 	end
 }
 script 25 mmbn6s {
@@ -114,7 +114,7 @@ script 27 mmbn6s {
 	end
 }
 script 28 mmbn6s {
-	"DdoVacin"
+	"DdoAspir"
 	end
 }
 script 29 mmbn6s {
@@ -170,7 +170,7 @@ script 41 mmbn6s {
 	end
 }
 script 42 mmbn6s {
-	"RplyLttr"
+	"CrtaRspt"
 	end
 }
 script 43 mmbn6s {
@@ -178,7 +178,7 @@ script 43 mmbn6s {
 	end
 }
 script 44 mmbn6s {
-	"CmdaRush"
+	"RçãoRush"
 	end
 }
 script 45 mmbn6s {
@@ -202,23 +202,23 @@ script 49 mmbn6s {
 	end
 }
 script 50 mmbn6s {
-	"CrosBatc"
+	"CruzBatc"
 	end
 }
 script 51 mmbn6s {
-	"BatKey"
+	"ChvMorce"
 	end
 }
 script 52 mmbn6s {
-	"ScrtMemo"
+	"PpelScrt"
 	end
 }
 script 53 mmbn6s {
-	"DadoQstn"
+	"DadoPerg"
 	end
 }
 script 54 mmbn6s {
-	"ScrblDat"
+	"DdoMistr"
 	end
 }
 script 55 mmbn6s {
@@ -238,7 +238,7 @@ script 58 mmbn6s {
 	end
 }
 script 59 mmbn6s {
-	"ThnkULtr"
+	"CrtAgrdc"
 	end
 }
 script 60 mmbn6s {
@@ -254,7 +254,7 @@ script 62 mmbn6s {
 	end
 }
 script 63 mmbn6s {
-	"NaviRuin"
+	"RuínNavi"
 	end
 }
 script 64 mmbn6s {
@@ -320,7 +320,7 @@ script 104 mmbn6s {
 	end
 }
 script 105 mmbn6s {
-	"GrnBannr"
+	"BannrVrd"
 	end
 }
 script 106 mmbn6s {

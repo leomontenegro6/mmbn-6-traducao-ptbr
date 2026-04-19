@@ -80,7 +80,7 @@ script 3 mmbn6 {
 	clearMsg
 	"""
 	fazendo as florestas
-	do mundo desaparecerem
+	do mundo desaparecerem,
 	uma a uma.
 	"""
 	keyWait

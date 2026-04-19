@@ -559,7 +559,7 @@ script 60 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Cê vei arrancar
+	Cê veio arrancar
 	dinheiro de mim?
 	"""
 	keyWait
@@ -600,7 +600,7 @@ script 60 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	Resposta corajosa
+	Resposta corajosa,
 	mocinho! Quero ver
 	cê tentar levar!
 	"""
@@ -632,7 +632,7 @@ script 62 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	msgOpen
-	"... Arrrgghhh"
+	"... Arrrgghhh!"
 	keyWait
 		any = false
 	clearMsg

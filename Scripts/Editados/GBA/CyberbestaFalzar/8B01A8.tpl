@@ -313,7 +313,7 @@ script 17 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	A vitória é tá no papo!
+	A vitória tá no papo!
 	"""
 	keyWait
 		any = false

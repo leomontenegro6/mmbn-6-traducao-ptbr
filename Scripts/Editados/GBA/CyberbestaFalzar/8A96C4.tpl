@@ -136,7 +136,7 @@ script 9 mmbn6 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	SOMOS OS SEGUIDORES
+	SOMOS OS DEVOTOS
 	DAS CYBERBESTAS!
 	NÓS AS VENERAMOS.
 	"""
@@ -174,8 +174,8 @@ script 10 mmbn6 {
 		mugshot = NormalNaviMick
 	"""
 	Parece que esses manés
-	não sabem que o MegaMan
-	tem uma delas.
+	não sabem que cê tem uma
+	delas, MegaMan.
 	"""
 	keyWait
 		any = false

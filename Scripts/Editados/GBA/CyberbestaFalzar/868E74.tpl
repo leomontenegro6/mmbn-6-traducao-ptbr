@@ -16,8 +16,8 @@ script 0 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	O Seu Cleema já concluiu
-	sua limpeza diária!
+	Limpeza diária do
+	Seu Cleema, concluída!
 	"""
 	keyWait
 		any = false
@@ -76,7 +76,7 @@ script 15 mmbn6 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan, este é meu!!
+	Lan, deixa aqui comigo!!
 	"""
 	keyWait
 		any = false

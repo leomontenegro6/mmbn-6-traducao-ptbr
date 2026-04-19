@@ -162,7 +162,7 @@ script 2 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd
@@ -281,7 +281,7 @@ script 10 mmbn6 {
 	clearMsg
 	"""
 	As pessoas me chamam
-	de "Golfinho" porque
+	de "Golfinho", porque
 	condiz com a minha
 	"""
 	keyWait
@@ -296,8 +296,8 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	O quê?! Você é aquele
-	nadador famoso?!
+	O quê?! Você que é
+	o nadador famoso?!
 	"""
 	keyWait
 		any = false

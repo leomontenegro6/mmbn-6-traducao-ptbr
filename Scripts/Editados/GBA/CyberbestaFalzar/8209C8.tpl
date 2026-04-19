@@ -18,19 +18,19 @@ script 3 mmbn6s {
 	end
 }
 script 4 mmbn6s {
-	"Postag. triste Take A・L"
+	"Postag. trist  Take A・L"
 	end
 }
 script 5 mmbn6s {
-	"RE:Postag.tris  Mami    "
+	"RE:Postag.tri  Mami    "
 	end
 }
 script 6 mmbn6s {
-	"Desculpa!!!     Take A・L"
+	"Desculpa!!!    Take A・L"
 	end
 }
 script 7 mmbn6s {
-	"RE:Desculpa!!   SrFamoso"
+	"RE:Desculpa!!  SrFamoso"
 	end
 }
 script 8 mmbn6s {

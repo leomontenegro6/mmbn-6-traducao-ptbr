@@ -6,8 +6,8 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Mick
 	"""
-	Esses palitos de peixe
-	parecem tão bons...
+	Esses taiyaki parecem
+	tão bons...
 	"""
 	keyWait
 		any = false
@@ -545,8 +545,8 @@ script 26 mmbn6 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Que tal palitos
-	de peixe, rapaz?!
+	Que tal um
+	taiyaki, rapaz?!
 	"""
 	keyWait
 		any = false

@@ -19,7 +19,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"O UNDERFÓRUM?!"
+	"O FÓRUM DA UNDERNET?!"
 	keyWait
 		any = false
 	clearMsg

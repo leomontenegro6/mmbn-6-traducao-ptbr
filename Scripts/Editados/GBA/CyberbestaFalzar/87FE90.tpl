@@ -51,7 +51,7 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	ALÉM DAQUELA NUVEM D
+	ALÉM DAQUELA NUVEM
 	DE CHUVA GIGANTE
 	BARRANDO A ESTRADA.
 	"""
@@ -135,7 +135,7 @@ script 0 mmbn6 {
 	clearMsg
 	"""
 	SE SEGUIR O CAMINHO
-	ABAIXO DE MIM,
+	ACIMA DE MIM,
 	"""
 	keyWait
 		any = false

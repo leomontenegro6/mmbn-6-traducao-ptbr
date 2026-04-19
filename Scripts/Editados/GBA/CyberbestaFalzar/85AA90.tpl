@@ -320,7 +320,7 @@ script 41 mmbn6 {
 	clearMsg
 	"""
 	então a minha mulher
-	me fez viz aqui comprar
+	me fez vir aqui comprar
 	um pouco para ela.
 	"""
 	keyWait
@@ -652,7 +652,7 @@ script 55 mmbn6 {
 	clearMsg
 	"""
 	Será que ele compraria
-	palitos de peixe de mim?
+	taiyaki de mim?
 	"""
 	keyWait
 		any = false
@@ -739,7 +739,7 @@ script 60 mmbn6 {
 		mugshot = Man
 	msgOpen
 	"""
-	Nossa a vida realmente
+	Nossa, a vida realmente
 	passa diante dos
 	nossos olhos...
 	"""
@@ -760,8 +760,7 @@ script 60 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Mas eu fiquei
-	morta de medo...
+	Mas morri de medo...
 	"""
 	keyWait
 		any = false
@@ -774,7 +773,7 @@ script 61 mmbn6 {
 	"""
 	O Navi louco de ainda
 	agora estava conectado
-	a CópiRoide, né...?
+	a um CópiRoide, né...?
 	"""
 	keyWait
 		any = false
@@ -840,7 +839,7 @@ script 64 mmbn6 {
 		mugshot = Iris
 	msgOpen
 	"""
-	... Desculpe. Se eu
+	... Desculpa. Se eu
 	eu tivesse conseguido
 	assumir o controle...
 	"""

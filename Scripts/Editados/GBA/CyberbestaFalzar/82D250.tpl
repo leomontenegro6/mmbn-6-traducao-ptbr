@@ -263,7 +263,7 @@ script 20 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ne conecta, Lan!
+	Me conecta, Lan!
 	A gente tem que abrir
 	o caminho pra porta!
 	"""
@@ -409,7 +409,7 @@ script 30 mmbn6 {
 	msgOpen
 	"""
 	Lan, vamos voltar
-	pra Sala do Operador!
+	pra Sala de Operação!
 	"""
 	keyWait
 		any = false
@@ -497,7 +497,7 @@ script 102 mmbn6 {
 	"""
 	Mas parece que essa
 	pessoa tá ocupada agora
-	com uma punição...
+	cumprindo pena...
 	"""
 	keyWait
 		any = false
@@ -651,8 +651,8 @@ script 135 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Eu tenho que correr
-	pro Distrito Beira-Mar!!
+	Tenho que correr pro
+	Distrito Beira-Mar!!
 	"""
 	keyWait
 		any = false
@@ -750,8 +750,8 @@ script 142 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Acho que tenho que ler
-	o e-mail que chegou...
+	Tenho que ler o
+	e-mail que chegou...
 	"""
 	keyWait
 		any = false
@@ -769,8 +769,8 @@ script 143 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Hmm... Ele disse pra
-	gente encontrar ele
+	Hmm... Ele me falou
+	pra encontrar ele
 	aqui, não foi...?
 	"""
 	keyWait

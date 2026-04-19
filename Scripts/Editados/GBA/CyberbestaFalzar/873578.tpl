@@ -44,8 +44,8 @@ script 1 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Tá, qual onda cê
-	vai pegar hoje...?
+	Tá, qual onda eu
+	pego hoje...?
 	"""
 	keyWait
 		any = false

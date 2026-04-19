@@ -89,7 +89,7 @@ script 4 mmbn6 {
 	clearMsg
 	"""
 	já que o Distrito Céu
-	fica sempre 10 km 
+	fica sempre 30.000 pés 
 	acima do solo.
 	"""
 	keyWait

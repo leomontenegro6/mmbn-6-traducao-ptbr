@@ -238,7 +238,7 @@ script 40 mmbn6 {
 	clearMsg
 	"""
 	Andamos tão ocupados
-	informando o clima
+	informando o clima,
 	"""
 	keyWait
 		any = false

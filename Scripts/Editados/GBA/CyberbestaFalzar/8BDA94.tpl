@@ -7,15 +7,15 @@ script 0 mmbn6 {
 	msgOpen
 	"""
 	PIRIRIKAPURIKA...
-	たPermita-me...ち
+	(Permita-me...)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	PIKIRI PIKIRAKIRA...
-	た... apagar o meu
-	rancor daquele dia...ち
+	(... apagar o meu
+	rancor daquele dia...)
 	"""
 	keyWait
 		any = false
@@ -66,8 +66,8 @@ script 4 mmbn6 {
 	msgOpen
 	"""
 	KIPIPIRI PIKARIPIRA!
-	たFaça como uma nuvem
-	 e desapareça!ち
+	(Faça como uma nuvem
+	 e desapareça!)
 	"""
 	keyWait
 		any = false

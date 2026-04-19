@@ -319,7 +319,7 @@ script 20 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"\"Por quê?\" ..."
+	"\"Por quê?\"..."
 	keyWait
 		any = false
 	clearMsg
@@ -666,7 +666,7 @@ script 22 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd

@@ -244,7 +244,7 @@ script 10 mmbn6 {
 		count = 1
 	"""
 	OK
-	たEてD: Cursor CてB: Númち
+	(EてD: Cursor CてB: Núm)
 	"""
 	menuSelectPassword
 		password = 2

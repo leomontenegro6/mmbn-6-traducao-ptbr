@@ -114,7 +114,7 @@ script 2 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	... Sinto que já eu vi
+	... Sinto que já vi
 	essa "pegadinha" em
 	algum outro lugar...
 	"""
@@ -199,8 +199,8 @@ script 5 mmbn6 {
 		jumpIfFalse = 6
 	msgOpen
 	"""
-	O símbolo do Dex, a
-	imagem de uma enorme
+	O símbolo do Dex, o
+	gráfico de uma enorme
 	peça de shogi.
 	"""
 	keyWait
@@ -266,8 +266,8 @@ script 5 mmbn6 {
 script 6 mmbn6 {
 	msgOpen
 	"""
-	O símbolo do Dex, a
-	imagem de uma enorme
+	O símbolo do Dex, o
+	gráfico de uma enorme
 	peça de shogi.
 	"""
 	keyWait
@@ -286,7 +286,7 @@ script 7 mmbn6 {
 script 8 mmbn6 {
 	msgOpen
 	"""
-	É a imagem do ursinho de
+	É um ícone do ursinho de
 	pelúcia favorito da Mayl.
 	"""
 	keyWait
@@ -296,7 +296,7 @@ script 8 mmbn6 {
 script 9 mmbn6 {
 	msgOpen
 	"""
-	É a imagem dos
+	São ícones dos
 	patinhos fofinhos
 	de que a Yai gosta.
 	"""

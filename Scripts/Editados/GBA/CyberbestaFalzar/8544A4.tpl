@@ -21,7 +21,7 @@ script 0 mmbn6 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"たPor que era mesmo?ち"
+	"(Por que era mesmo?)"
 	keyWait
 		any = false
 	end

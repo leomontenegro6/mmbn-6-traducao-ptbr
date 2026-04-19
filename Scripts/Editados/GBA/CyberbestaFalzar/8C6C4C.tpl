@@ -17,9 +17,9 @@ script 1 mmbn6 {
 		mugshot = Otenko
 	msgOpen
 	"""
-	MegaMan!
-	Você tem que ir vencer
-	o Conde agora, rápido!
+	MegaMan! Você tem que
+	ir acabar com o Conde
+	agora, rápido!
 	"""
 	keyWait
 		any = false
@@ -39,7 +39,7 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Até a próxima, MegaMan!
+	Até a próxima, amigo!
 	"""
 	keyWait
 		any = false

@@ -135,37 +135,37 @@ script 0 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"たHa! Daqui a pouco vai\n ser a sua vez! Bora\n pro menino de novo!ち"
+	"(Ha! Daqui a pouco vai\n ser a sua vez! Bora\n pro menino de novo!)"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"たEu vou ter que fazer\n isso por ele...ち"
+	"(Eu vou ter que fazer\n isso por ele...)"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"たÉ... Daqui em\n diante, é com você.ち"
+	"(É... Daqui em\n diante, é com você.)"
 	keyWait
 		any = false
 	clearMsg
-	"たHora de espalhar\n uns vírus de verdade!ち"
+	"(Hora de espalhar\n uns vírus de verdade!)"
 	keyWait
 		any = false
 	clearMsg
-	"たSe você deletar eles,\n o garoto deve cair\n na real.ち"
+	"(Se você deletar eles,\n o garoto deve cair\n na real.)"
 	keyWait
 		any = false
 	clearMsg
-	"たEle tem que ficar\n mais forte...ち"
+	"(Ele tem que ficar\n mais forte...)"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"た... Te peguei!ち"
+	"(... Te peguei!)"
 	keyWait
 		any = false
 	clearMsg

@@ -60,7 +60,7 @@ script 2 mmbn6 {
 	"""
 	A estrada só se
 	abrirá com o selo
-	da fera e 100 S...
+	da fera e 100 P...
 	"""
 	keyWait
 		any = false
@@ -796,7 +796,7 @@ script 50 mmbn6 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Sou um negociante
+	Sou uma negociante
 	de FragBugs...
 	"""
 	keyWait

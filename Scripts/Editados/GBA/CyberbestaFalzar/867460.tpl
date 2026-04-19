@@ -341,8 +341,8 @@ script 50 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Devido a isso, coisas
-	os humanos estão tendo
+	Devido a isso, os
+	humanos estão tendo
 	que fazer coisas que
 	"""
 	keyWait

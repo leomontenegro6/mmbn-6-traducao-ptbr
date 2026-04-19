@@ -270,7 +270,7 @@ script 5 mmbn6 {
 	"""
 	Mesmo distantes, ainda
 	dá pra falar com os
-	amigos pela Rede.
+	amigos por ela.
 	"""
 	keyWait
 		any = false
@@ -285,7 +285,7 @@ script 5 mmbn6 {
 	clearMsg
 	"""
 	E, se você virar
-	um lutador de sumô,
+	lutador de sumô,
 	lute bonito, viu?!
 	"""
 	keyWait
@@ -479,8 +479,8 @@ script 9 mmbn6 {
 	clearMsg
 	"""
 	Se isso continuar, como
-	vamos fazer para desfru-
-	tar da vida na Rede?!
+	vamos fazer para desfrutar
+	da vida na Rede?!
 	"""
 	keyWait
 		any = false
@@ -534,7 +534,7 @@ script 10 mmbn6 {
 	clearMsg
 	"""
 	Vamos nos unir para
-	manter a ACDC a salvo!
+	manter a área a salvo!
 	"""
 	keyWait
 		any = false
@@ -563,7 +563,7 @@ script 11 mmbn6 {
 	"""
 	Tenham cautela extra
 	ao se depararem com
-	Catacks, os vírus tanque!
+	Catacks, os vírus-tanque!
 	"""
 	keyWait
 		any = false
@@ -755,7 +755,7 @@ script 15 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Era um link com a
+	Era um link da
 	Cidade Saibher...
 	"""
 	keyWait
@@ -1086,6 +1086,7 @@ script 21 mmbn6 {
 	"""
 	Será que dá mesmo pra
 	ficar rico com isso...?
+	Guts...?
 	"""
 	keyWait
 		any = false
@@ -1100,7 +1101,7 @@ script 22 mmbn6 {
 		left = 210
 		top = 108
 	"""
-	Aposto que esse era o
+	Aposto que esse era um
 	Comando de Compressão!
 	"""
 	keyWait
@@ -1130,14 +1131,14 @@ script 22 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	"Rico", é...
-	RicRico...
+	"Rico", é...?
+	Rico...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eu não recusaria...
+	... Eu não recusaria...
 	"""
 	keyWait
 		any = false
@@ -1159,7 +1160,7 @@ script 23 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu tinha ouvir que ela
+	Eu tinha ouvido que ela
 	ia ser cancelada devido
 	a todos os incidentes,
 	"""
@@ -1198,7 +1199,7 @@ script 24 mmbn6 {
 		top = 108
 	"""
 	Eu vi no noticiário!!
-	Tô tão feliz!!
+	Tô tão feliz, Guts!!
 	"""
 	keyWait
 		any = false
@@ -1210,13 +1211,13 @@ script 24 mmbn6 {
 	"""
 	Os Navis mais boa-pinta
 	não tão longe, eles tão
-	bem aqui!
+	bem aqui, Guts!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Não ignora aquele
+	Não ignora este
 	Gut-pedaço de mau
 	caminho!!
 	"""
@@ -1231,7 +1232,7 @@ script 24 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"... Não convenci, né?"
+	"... Não convenci, né?\nGuts..."
 	keyWait
 		any = false
 	waitHold

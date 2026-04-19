@@ -59,7 +59,7 @@ script 2 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Bebes esta água faz
+	Beber esta água faz
 	você se sentir
 	jovem de novo...
 	"""
@@ -192,7 +192,7 @@ script 16 mmbn6 {
 	clearMsg
 	"""
 	fazer maldades fica
-	dparecendo pura tolice!
+	parecendo pura tolice!
 	"""
 	keyWait
 		any = false

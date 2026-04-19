@@ -139,7 +139,7 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	mas ainda não voltaram...
+	mas nada ainda...
 	Estou preocupado...
 	"""
 	keyWait
@@ -191,9 +191,8 @@ script 21 mmbn6 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Se você não mirar
-	direito, pode acabar
-	acertando...
+	Se você não mirar direito,
+	pode acabar errando...
 	"""
 	keyWait
 		any = false

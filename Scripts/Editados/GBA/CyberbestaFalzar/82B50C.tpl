@@ -340,7 +340,7 @@ script 102 mmbn6 {
 	"""
 	Mas parece que essa
 	pessoa tá ocupada agora
-	com uma punição...
+	cumprindo pena...
 	"""
 	keyWait
 		any = false
@@ -590,8 +590,8 @@ script 142 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Acho que tenho que ler
-	o e-mail que chegou...
+	Tenho que ler o
+	e-mail que chegou...
 	"""
 	keyWait
 		any = false

@@ -237,7 +237,7 @@ script 10 mmbn6 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"た."
+	"(."
 	waitSkip
 		frames = 30
 	"."
@@ -246,7 +246,7 @@ script 10 mmbn6 {
 	"."
 	waitSkip
 		frames = 30
-	" Mas como a Iris...?ち"
+	" Mas como a Iris...?)"
 	keyWait
 		any = false
 	clearMsg
@@ -345,7 +345,7 @@ script 13 mmbn6 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"たAguenta firme, MegaMan!ち"
+	"(Aguenta firme, MegaMan!)"
 	keyWait
 		any = false
 	end

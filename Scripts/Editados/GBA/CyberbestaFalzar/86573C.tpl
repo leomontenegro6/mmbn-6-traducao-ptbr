@@ -25,7 +25,7 @@ script 5 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SOU O PROGRAMA OCULTO
+	SOU O PROG OCULTO
 	DA SALA DE PUNIÇÃO.
 	"""
 	keyWait

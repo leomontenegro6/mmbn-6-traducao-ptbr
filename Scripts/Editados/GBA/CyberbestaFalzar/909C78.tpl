@@ -50,11 +50,11 @@ script 2 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"たEla falou!ち"
+	"(Ela falou!)"
 	keyWait
 		any = false
 	clearMsg
-	"たA árvore falou mesmo!ち"
+	"(A árvore falou mesmo!)"
 	keyWait
 		any = false
 	clearMsg
@@ -133,7 +133,7 @@ script 5 mmbn6 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"たEle é tão maneiro!ち"
+	"(Ele é tão maneiro!)"
 	keyWait
 		any = false
 	end
@@ -162,7 +162,7 @@ script 7 mmbn6 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"たVamos lá. Glup...\nTô tão nervoso...ち"
+	"(Vamos lá. Glup...\nTô tão nervoso...)"
 	keyWait
 		any = false
 	end
@@ -207,7 +207,7 @@ script 10 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"たLan, não foi isso o\nque ele perguntou!ち"
+	"(Lan, não foi isso o\nque ele perguntou!)"
 	keyWait
 		any = false
 	clearMsg
@@ -219,9 +219,9 @@ script 11 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	たUé, mas ele quis
+	(Ué, mas ele quis
 	saber como eu tava
-	de "ocupação"...ち
+	de "ocupação"...)
 	"""
 	keyWait
 		any = false
@@ -234,8 +234,8 @@ script 12 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	たNão, não! Ocupação é
-	sinônimo de "ofício"!ち
+	(Não, não! Ocupação é
+	sinônimo de "ofício"!)
 	"""
 	keyWait
 		any = false
@@ -247,7 +247,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"たQuem é \"fício\"?ち"
+	"(Quem é \"fício\"?)"
 	keyWait
 		any = false
 	clearMsg
@@ -258,15 +258,15 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"たOFÍCIO! PROFISSÃO!ち"
+	"(OFÍCIO! PROFISSÃO!)"
 	keyWait
 		any = false
 	clearMsg
-	"たVocê tá fazendo isso\nde propósito! Não\né possível!!ち"
+	"(Você tá fazendo isso\nde propósito! Não\né possível!!)"
 	keyWait
 		any = false
 	clearMsg
-	"たArf...ち"
+	"(Arf...)"
 	keyWait
 		any = false
 	clearMsg
@@ -433,16 +433,16 @@ script 14 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	たAí, MegaMan,
+	(Aí, MegaMan,
 	"depoimento" é
-	só isso mesmo?ち
+	só isso mesmo?)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"たÉ, acho que é!\nVocê mandou bem!ち"
+	"(É, acho que é!\nVocê mandou bem!)"
 	keyWait
 		any = false
 	end

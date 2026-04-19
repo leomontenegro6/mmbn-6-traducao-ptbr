@@ -103,9 +103,9 @@ script 7 mmbn6 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	E agora, o Prefeito
-	Cain tem uma palavrinha
-	a dar com o nosso
+	E, agora, o Prefeito
+	Cain gostaria de dedicar
+	umas palavras ao nosso
 	"""
 	keyWait
 		any = false

@@ -61,8 +61,8 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	A Banda de Jazz
-	só tem um membro!!
+	A banda só tem
+	um membro!!
 	"""
 	keyWait
 		any = false
@@ -345,7 +345,7 @@ script 2 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	callRequestPointsAdd

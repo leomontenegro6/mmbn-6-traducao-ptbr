@@ -115,7 +115,7 @@ script 6 mmbn6 {
 		minLength = 2
 		padZeros = false
 		padLeft = true
-	"\nNenhum pedido em aberto"
+	"\nNenhum pedido em\naberto"
 	keyWait
 		any = false
 	waitHold

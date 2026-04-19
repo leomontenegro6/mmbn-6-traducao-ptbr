@@ -60,8 +60,7 @@ script 3 mmbn6 {
 	clearMsg
 	"""
 	Ele deve tá com algum
-	problema que tem pra
-	resolver.
+	problema aí pra resolver.
 	"""
 	keyWait
 		any = false
@@ -90,7 +89,9 @@ script 5 mmbn6 {
 	mugshotAnimation
 		animation = 1
 	"""
-	たEu não posso contar pra\neles que o Sr. Mach tá\ncom a WWW assim...ち
+	(Eu não posso contar pra
+	eles que o Sr. Mach tá
+	com a WWW assim...)
 	"""
 	keyWait
 		any = false
@@ -392,7 +393,7 @@ script 22 mmbn6 {
 	msgOpen
 	"""
 	Perguntas?!
-	É só isso?!
+	Só isso?!
 	"""
 	keyWait
 		any = false
@@ -482,8 +483,8 @@ script 27 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu já previa que você
-	não facilitaria para nós.
+	Eu já previa que não
+	facilitaria para nós.
 	"""
 	keyWait
 		any = false
@@ -536,7 +537,7 @@ script 30 mmbn6 {
 	clearMsg
 	"""
 	E-e-eles tão fazendo
-	o que aqui?!
+	o quê aqui?!
 	"""
 	keyWait
 		any = false
@@ -573,7 +574,7 @@ script 32 mmbn6 {
 	clearMsg
 	"""
 	de enfrentar todos
-	estes robôs e salvar
+	esses robôs e salvar
 	os seus amiguinhos?!
 	"""
 	keyWait
@@ -923,13 +924,13 @@ script 55 mmbn6 {
 	clearMsg
 	"""
 	Não era pra vocês
-	sáirem do lugar!
+	saírem do lugar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Rápido, cerquem ela!!
+	Vamos, cerquem ela!!
 	"""
 	keyWait
 		any = false

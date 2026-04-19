@@ -114,9 +114,8 @@ script 5 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	O problema é que
-	mesmo arranjar uma
-	Cyberbesta...
+	O problema é mesmo
+	arranjar uma Cyberbesta...
 	"""
 	keyWait
 		any = false

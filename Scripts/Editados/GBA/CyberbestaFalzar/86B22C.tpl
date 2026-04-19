@@ -181,8 +181,7 @@ script 10 mmbn6 {
 	clearMsg
 	"""
 	UUUUUFAAA...
-	EU PRECISO
-	DE UMA PAUSA!
+	PRECISO DE UMA PAUSA!
 	"""
 	keyWait
 		any = false
@@ -220,9 +219,9 @@ script 40 mmbn6 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	VOCÊ PARTICIPOU DA
-	RODADA FINAL DA PROVA
-	DE SELEÇÃO DE NAVI
+	VOCÊ ESTÁ NA RODADA
+	FINAL DA PROVA DE
+	SELEÇÃO DE NAVI
 	"""
 	keyWait
 		any = false

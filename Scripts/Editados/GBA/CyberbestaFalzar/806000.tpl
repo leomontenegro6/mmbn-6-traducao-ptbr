@@ -186,27 +186,27 @@ script 45 mmbn6s {
 	end
 }
 script 46 mmbn6s {
-	"ぬCPUSCleema1"
+	"CPU SCleema1"
 	end
 }
 script 47 mmbn6s {
-	"ぬCPUSCleema2"
+	"CPU SCleema2"
 	end
 }
 script 48 mmbn6s {
-	"ぬCPUSCleema3"
+	"CPU SCleema3"
 	end
 }
 script 49 mmbn6s {
-	"Stg6Dungeon1"
+	"MasmorrFs6-1"
 	end
 }
 script 50 mmbn6s {
-	"Stg6Dungeon2"
+	"MasmorrFs6-2"
 	end
 }
 script 51 mmbn6s {
-	"Stg6Dungeon3"
+	"MasmorrFs6-3"
 	end
 }
 script 52 mmbn6s {
@@ -302,7 +302,7 @@ script 74 mmbn6s {
 	end
 }
 script 75 mmbn6s {
-	"CPUPaliPeixe"
+	"ぬCPU Taiyaki"
 	end
 }
 script 76 mmbn6s {
@@ -370,7 +370,7 @@ script 91 mmbn6s {
 	end
 }
 script 92 mmbn6s {
-	"ObservtnComp"
+	"CPUObsrvação"
 	end
 }
 script 93 mmbn6s {
@@ -378,7 +378,7 @@ script 93 mmbn6s {
 	end
 }
 script 94 mmbn6s {
-	"PrcplOfcComp"
+	"CPUDiretoria"
 	end
 }
 script 95 mmbn6s {
@@ -394,7 +394,7 @@ script 97 mmbn6s {
 	end
 }
 script 98 mmbn6s {
-	"GuidPanlComp"
+	"CPUPainlGuia"
 	end
 }
 script 99 mmbn6s {

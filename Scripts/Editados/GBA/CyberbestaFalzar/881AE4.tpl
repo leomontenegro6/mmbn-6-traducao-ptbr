@@ -202,7 +202,7 @@ script 2 mmbn6 {
 	"""
 	boa entre as duas
 	áreas. Assim, a gente
-	pode ser ver sempre
+	pode se ver sempre
 	"""
 	keyWait
 		any = false
@@ -213,7 +213,7 @@ script 2 mmbn6 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Obrigada, Roll!"
+	"Obrigado, Roll!"
 	keyWait
 		any = false
 	clearMsg
@@ -221,7 +221,7 @@ script 2 mmbn6 {
 		mugshot = Roll
 	"""
 	Vem, vamos lá pro
-	local de encontro.
+	ponto de encontro.
 	"""
 	keyWait
 		any = false
@@ -242,7 +242,7 @@ script 3 mmbn6 {
 	msgOpen
 	"""
 	Vem, vamos lá pro
-	local de encontro.
+	ponto de encontro.
 	"""
 	keyWait
 		any = false

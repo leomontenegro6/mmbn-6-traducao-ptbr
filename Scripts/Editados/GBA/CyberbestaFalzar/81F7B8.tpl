@@ -1005,7 +1005,7 @@ script 19 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Quando se atinge umk
+	Quando se atinge um
 	inimigo congelado com
 	um chip de Quebra,
 	"""
@@ -1126,9 +1126,8 @@ script 22 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Aposto que vai nos
-	permitir ver muitas
-	raridades!!
+	Aposto que vai nos expor
+	a muitas raridades!!
 	"""
 	keyWait
 		any = false

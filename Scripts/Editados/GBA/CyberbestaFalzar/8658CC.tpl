@@ -17,7 +17,7 @@ script 1 mmbn6 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Aquela menina da testa
+	Esta menina da testa
 	gigante me trouxe aqui...
 	"""
 	keyWait

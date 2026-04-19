@@ -77,7 +77,7 @@ script 4 mmbn6 {
 script 5 mmbn6 {
 	msgOpen
 	"""
-	Um explêndido tapete
+	Um esplêndido tapete
 	de pele de tigre...
 	"""
 	keyWait

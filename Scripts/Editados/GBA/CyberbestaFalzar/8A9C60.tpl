@@ -502,14 +502,14 @@ script 27 mmbn6 {
 	clearMsg
 	"""
 	que ninguém
-	consegue te ver...
+	conseguiu te ver...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Você é o Navi
-	que enfrentou o Colonel
+	... Você é o Navi que
+	enfrentou o Colonel
 	na Árvore Juíza...?
 	"""
 	keyWait
@@ -653,7 +653,7 @@ script 32 mmbn6 {
 		mugshot = SlashMan
 	msgOpen
 	"""
-	Ó, o meu operador teria
+	Ó, minha operadora teria
 	feito a mesma coisa
 	nessa situação...
 	"""

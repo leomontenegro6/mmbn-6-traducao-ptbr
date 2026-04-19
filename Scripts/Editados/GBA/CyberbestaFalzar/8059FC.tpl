@@ -374,23 +374,23 @@ script 96 mmbn6s {
 	end
 }
 script 97 mmbn6s {
-	"Count"
+	"Conde"
 	end
 }
 script 98 mmbn6s {
-	"Count[EX]"
+	"Conde[EX]"
 	end
 }
 script 99 mmbn6s {
-	"Count[SP]"
+	"Conde[SP]"
 	end
 }
 script 100 mmbn6s {
-	"Count[RV]"
+	"Conde[RV]"
 	end
 }
 script 101 mmbn6s {
-	"Count[BX]"
+	"Conde[BX]"
 	end
 }
 script 102 mmbn6s {
@@ -490,23 +490,23 @@ script 126 mmbn6s {
 	end
 }
 script 127 mmbn6s {
-	"Count"
+	"Conde"
 	end
 }
 script 128 mmbn6s {
-	"Count[EX]"
+	"Conde[EX]"
 	end
 }
 script 129 mmbn6s {
-	"Count[SP]"
+	"Conde[SP]"
 	end
 }
 script 130 mmbn6s {
-	"Count[RV]"
+	"Conde[RV]"
 	end
 }
 script 131 mmbn6s {
-	"Count[BX]"
+	"Conde[BX]"
 	end
 }
 script 132 mmbn6s {

@@ -5,7 +5,7 @@ script 0 mmbn6 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Você tá legal, MegaMan?!"
+	"Cê tá legal, MegaMan?!"
 	keyWait
 		any = false
 	clearMsg

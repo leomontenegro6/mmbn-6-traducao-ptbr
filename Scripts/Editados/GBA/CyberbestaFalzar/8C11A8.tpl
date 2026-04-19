@@ -19,8 +19,7 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	e o impacto da
-	explosão bagunçou
+	e o impacto dela bagunçou
 	o bairro inteiro.
 	"""
 	keyWait
@@ -147,7 +146,7 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Para todos os alunos
+	"Para todos os alunos
 	da Escola ACDC:
 	meus parabéns, é!
 	"""
@@ -178,7 +177,7 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	mas eu prometo que trago
+	mas prometo que trago
 	um monte de chips raros
 	quando voltar,
 	"""
@@ -248,7 +247,7 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	e tde todos os
+	e de todos os
 	cientistas locais...
 	"""
 	keyWait
@@ -313,7 +312,7 @@ script 2 mmbn6 {
 		mugshot = Yai
 	"""
 	A gente volta pra
-	visitar... Sniff!
+	visitar... Snif!
 	"""
 	keyWait
 		any = false
@@ -369,7 +368,7 @@ script 5 mmbn6 {
 	"""
 	Apesar da gente só ter
 	vindo pra Escola ACDC
-	pra se formar por causa
+	se formar por causa
 	"""
 	keyWait
 		any = false
@@ -618,7 +617,7 @@ script 17 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Se cuidem, viu!!
+	Se cuidem, viu?!
 	"""
 	keyWait
 		any = false

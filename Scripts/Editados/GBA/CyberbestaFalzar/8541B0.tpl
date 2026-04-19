@@ -229,7 +229,7 @@ script 2 mmbn6 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Pontoたsち!"
+	" Ponto(s)!"
 	keyWait
 		any = false
 	clearMsg
@@ -239,7 +239,7 @@ script 2 mmbn6 {
 		mugshot = OldWoman
 	"""
 	Finalmente eu posso
-	dormir tranquila...
+	descansar em paz...
 	"""
 	keyWait
 		any = false

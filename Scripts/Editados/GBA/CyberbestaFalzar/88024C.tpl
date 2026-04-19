@@ -238,7 +238,7 @@ script 11 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Ele liberou a refém
+	Ele liberou o refém
 	e se entregou...
 	"""
 	keyWait
@@ -479,7 +479,7 @@ script 13 mmbn6 {
 	mugshotShow
 		mugshot = HeelNaviRed
 	"""
-	A refém fugiu do
+	O refém fugiu do
 	Computador da Árvore
 	Juíza 3.
 	"""

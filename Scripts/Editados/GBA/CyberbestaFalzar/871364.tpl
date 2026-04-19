@@ -60,7 +60,7 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	dos outros, encarando
+	outros, encarando
 	todo mundo?!
 	"""
 	keyWait

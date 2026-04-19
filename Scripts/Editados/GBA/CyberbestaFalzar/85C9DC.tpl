@@ -144,7 +144,7 @@ script 10 mmbn6 {
 	clearMsg
 	"""
 	Só pensei em pedir
-	a uma opinião...
+	uma opinião...
 	"""
 	keyWait
 		any = false
@@ -163,8 +163,8 @@ script 11 mmbn6 {
 	clearMsg
 	"""
 	Agora eu posso olhar
-	pra todos os peixes
-	que eu quiser.
+	todos os peixes que
+	eu quiser.
 	"""
 	keyWait
 		any = false

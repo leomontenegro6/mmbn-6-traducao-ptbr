@@ -492,7 +492,7 @@ script 65 mmbn6 {
 		padZeros = false
 		padLeft = false
 	"""
-	 pedaços
+	 pedaço(s)
 	de Ração do Rush.
 	"""
 	keyWait

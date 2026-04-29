@@ -1,4 +1,4 @@
-@archive 8c0bc0
+@archive 8C0BC0
 @size 83
 
 script 0 mmbn6 {

@@ -22,7 +22,7 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Há três na Área 1
+	Três na Área 1
 	e cinco na Área 2.
 	"""
 	keyWait
@@ -43,8 +43,8 @@ script 5 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Ele só fica repetindo a
-	mesma coisa, sem parar...
+	Ele só repete a mesma
+	coisa, sem parar...
 	"""
 	keyWait
 		any = false
@@ -52,7 +52,7 @@ script 5 mmbn6 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	HRUM... HRUM...
+	HRUM...
 	RALABLBBRB...
 	"""
 	keyWait
@@ -68,9 +68,9 @@ script 6 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Eu não posso ser
-	incomodado enquanto
-	estou meditando...
+	Não posso ser
+	incomodado durante
+	a meditação...
 	"""
 	keyWait
 		any = false
@@ -112,9 +112,8 @@ script 7 mmbn6 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Por favor, não me
-	incomode enquanto
-	estou meditando...
+	Não me incomode
+	enquanto eu medito...
 	"""
 	keyWait
 		any = false
@@ -137,15 +136,14 @@ script 11 mmbn6 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	AÍ! Aonde é que
-	cê pensa que vai?!
+	AÍ! Aonde cê
+	pensa que vai?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A prova ainda não
-	acabou, cara!
+	A prova ainda não acabou!
 	"""
 	keyWait
 		any = false
@@ -186,9 +184,8 @@ script 15 mmbn6 {
 		mugshot = GroundMan
 	msgOpen
 	"""
-	Ô! Aonde é que cê vai?
-	Não tem nada pra cê
-	fazer aí, não!
+	Ô! Aonde cê vai? Não
+	tem nada pra cê fazer aí!
 	"""
 	keyWait
 		any = false
@@ -244,8 +241,7 @@ script 20 mmbn6 {
 	clearMsg
 	"""
 	Não poderá prosseguir
-	a menos que passe pela
-	prova...
+	a menos que a supere...
 	"""
 	keyWait
 		any = false
@@ -294,8 +290,7 @@ script 21 mmbn6 {
 	clearMsg
 	"""
 	Não poderá prosseguir
-	a menos que passe pela
-	prova...
+	a menos que a supere...
 	"""
 	keyWait
 		any = false
@@ -329,15 +324,9 @@ script 22 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	chegarmos em nosso
-	último, um ataque
-	trovejante cairá sobre
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	você!
+	chegarmos ao último,
+	um ataque trovejante
+	cairá sobre você!
 	"""
 	keyWait
 		any = false
@@ -372,7 +361,7 @@ script 23 mmbn6 {
 	msgOpen
 	"""
 	É permitida a passagem
-	a todos que passaram
+	de todos que passaram
 	na prova...
 	"""
 	keyWait
@@ -513,15 +502,9 @@ script 27 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	chegarmos em nosso
-	último, um ataque
-	trovejante cairá sobre
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	você!
+	chegarmos ao último,
+	um ataque trovejante
+	cairá sobre você!
 	"""
 	keyWait
 		any = false
@@ -661,15 +644,15 @@ script 30 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Mas tô com bloqueio! Não
-	consigo compor nenhuma
-	música que preste!
+	Mas tô com bloqueio!
+	Não consigo compor
+	nada que preste!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tá sendo um problemão...
+	Que problemão...
 	"""
 	keyWait
 		any = false
@@ -684,23 +667,22 @@ script 30 mmbn6 {
 	clearMsg
 	"""
 	Decidi parar de compor
-	músicas sozinho.
+	sozinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eu quero ouvir as opiniões
-	de outra pessoa, mesmo se
-	ela não for música.
+	Quero ouvir as opiniões
+	de outra pessoa, mesmo
+	se ela não for música.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Uma pessoa que nunca
-	trabalhou com música
-	provavelmente...
+	Alguém de fora do mundo
+	da música provavelmente...
 	"""
 	keyWait
 		any = false
@@ -713,8 +695,8 @@ script 30 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	E é por isso que
-	eu te chamei aqui.
+	Por isso eu te
+	chamei aqui.
 	"""
 	keyWait
 		any = false
@@ -773,7 +755,7 @@ script 30 mmbn6 {
 		mugshot = BlueNavi
 	"""
 	Quando estiver pronto,
-	é só me avisar...
+	é só avisar...
 	"""
 	keyWait
 		any = false
@@ -801,8 +783,7 @@ script 31 mmbn6 {
 	clearMsg
 	"""
 	e quero que você
-	complete as partes
-	que eu não terminei.
+	complete o resto.
 	"""
 	keyWait
 		any = false
@@ -877,7 +858,7 @@ script 31 mmbn6 {
 		down = 0
 	space
 		count = 1
-	"Você tá gordinha..."
+	"Cê tá gordinha..."
 	select
 		default = 0
 		BSeparate = false
@@ -1352,7 +1333,7 @@ script 31 mmbn6 {
 	keyWait
 		any = false
 	clearMsg
-	"Aqui está sua recompensa!"
+	"Tome sua recompensa!"
 	keyWait
 		any = false
 	clearMsg
@@ -1430,8 +1411,7 @@ script 32 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Só resta uma
-	coisa pra mim...
+	Só me resta uma coisa...
 	"""
 	keyWait
 		any = false
@@ -1467,9 +1447,9 @@ script 32 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Vai, MegaMan!
 	Você vai ter que
-	deletar os vírus!
+	deletar os vírus,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -1489,7 +1469,7 @@ script 33 mmbn6 {
 	mugshotShow
 		mugshot = BlueNavi
 	msgOpen
-	"Por que você me impediu?"
+	"Por que me impediu?"
 	keyWait
 		any = false
 	clearMsg
@@ -1501,8 +1481,7 @@ script 33 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	OK! Eu vou continuar
-	tentando...
+	OK! Vou tentar...
 	"""
 	keyWait
 		any = false
@@ -1526,9 +1505,8 @@ script 35 mmbn6 {
 		mugshot = BlueNavi
 	msgOpen
 	"""
-	Eu gostaria que você
-	compusesse uma música
-	comigo...
+	Quero que você componha
+	uma música comigo...
 	"""
 	keyWait
 		any = false
@@ -1569,7 +1547,7 @@ script 35 mmbn6 {
 		]
 	"""
 	Quando estiver pronto,
-	é só me avisar.
+	é só avisar.
 	"""
 	keyWait
 		any = false
@@ -1605,7 +1583,7 @@ script 41 mmbn6 {
 	clearMsg
 	"""
 	O caminho é bem difícil
-	pra um velho, sabia?!
+	pra um velho...
 	"""
 	keyWait
 		any = false
@@ -1645,8 +1623,8 @@ script 50 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	O meu pedido é sobre a
-	minha grande paixão...
+	É sobre a minha
+	grande paixão...
 	Eu adoro ações!
 	"""
 	keyWait
@@ -1654,7 +1632,7 @@ script 50 mmbn6 {
 	clearMsg
 	"""
 	Por estes dias, eu
-	fiz um bom dinheirinho
+	fiz uma boa grana
 	com as minhas ações,
 	"""
 	keyWait
@@ -1747,13 +1725,8 @@ script 50 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu não boto muita
+	Não boto muita
 	fé nessa empresa,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	mas tem potencial...
 	"""
 	keyWait
@@ -1781,8 +1754,8 @@ script 50 mmbn6 {
 	clearMsg
 	"""
 	O corretor da bolsa
-	fica lá nos fundos
-	da Undernet 1,
+	fica nos fundos da
+	Undernet 1,
 	"""
 	keyWait
 		any = false
@@ -1801,8 +1774,8 @@ script 51 mmbn6 {
 	msgOpen
 	"""
 	Confirmar os detalhes
-	é sempre uma decisão
-	sábia nos negócios.
+	é uma decisão sábia
+	nos negócios.
 	"""
 	keyWait
 		any = false
@@ -1819,14 +1792,6 @@ script 51 mmbn6 {
 	Aqui vão as informações
 	sobre os meus três
 	candidatos.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Eu listei uns candidatos
-	e quero que você
-	decida por mim.
 	"""
 	keyWait
 		any = false
@@ -1903,13 +1868,8 @@ script 51 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu não boto muita
+	Não boto muita
 	fé nessa empresa,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	mas tem potencial...
 	"""
 	keyWait
@@ -1937,8 +1897,8 @@ script 51 mmbn6 {
 	clearMsg
 	"""
 	O corretor da bolsa
-	fica lá nos fundos
-	da Undernet 1,
+	fica nos fundos da
+	Undernet 1,
 	"""
 	keyWait
 		any = false
@@ -2000,13 +1960,7 @@ script 52 mmbn6 {
 	mugshotShow
 		mugshot = GirlNaviPink
 	"""
-	Olhando pras coisas
-	a longo prazo,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
+	Vendo a longo prazo,
 	as ações vão subir
 	ainda mais!
 	"""
@@ -2086,13 +2040,7 @@ script 53 mmbn6 {
 	"""
 	Se eles revelarem um
 	carro incrível um dia,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	há uma chance das
-	coisas mudarem...
+	talvez as coisas mudem...
 	"""
 	keyWait
 		any = false
@@ -2134,8 +2082,8 @@ script 54 mmbn6 {
 	clearMsg
 	"""
 	Inacreditável!
-	Uma pessoa que eles
-	estão desenvolvendo
+	Uma peça que estão
+	desenvolvendo
 	"""
 	keyWait
 		any = false
@@ -2148,8 +2096,8 @@ script 54 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	E o preço das ações
-	dela também decolou!
+	O preço das ações
+	dela decolou!
 	"""
 	keyWait
 		any = false
@@ -2382,7 +2330,7 @@ script 63 mmbn6 {
 		mugshot = HeelNaviRed
 	msgOpen
 	"""
-	... Bora chefe,
+	... Bora, chefe,
 	aperta o passo!
 	"""
 	keyWait
@@ -2650,9 +2598,9 @@ script 84 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Foi um boato que eu
-	ouvi. Parece até um
-	sonho de algum tipo...
+	Foi um boato que
+	ouvi. Parece coisa de
+	sonho...
 	"""
 	keyWait
 		any = false
@@ -2727,17 +2675,16 @@ script 86 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Ou, pelo menos, foi
-	o que um dos meus
-	melhores clientes disse.
+	Bom, foi o que um
+	dos meus melhores
+	clientes disse.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Se é verdade, eu não
-	sei... Só estou repetindo
-	o que me foi dito.
+	Se é verdade, não sei...
+	Só estou repassando.
 	"""
 	keyWait
 		any = false
@@ -2960,14 +2907,9 @@ script 101 mmbn6 {
 		mugshot = GirlNaviPink
 	msgOpen
 	"""
-	Ahh! Não importa
-	quantas vezes eu
-	venha pra Área Céu,
+	Ahh! A Área Céu
+	é SEMPRE dez!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"é sempre dez!"
 	keyWait
 		any = false
 	end
@@ -3069,8 +3011,7 @@ script 112 mmbn6 {
 	clearMsg
 	"""
 	"Impossível"...?
-	... É, acho que
-	cê tem razão...
+	... É, né...?
 	"""
 	keyWait
 		any = false

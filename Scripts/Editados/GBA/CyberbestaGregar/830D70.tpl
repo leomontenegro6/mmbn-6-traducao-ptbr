@@ -487,7 +487,7 @@ script 240 mmbn6s {
 		minLength = 4
 		padZeros = false
 		padLeft = true
-	"て"
+	"/"
 	printBuffer
 		buffer = 1
 		minLength = 4

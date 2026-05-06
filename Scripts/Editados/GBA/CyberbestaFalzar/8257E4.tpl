@@ -109,7 +109,7 @@ script 6 mmbn6 {
 		minLength = 2
 		padZeros = false
 		padLeft = true
-	"て"
+	"/"
 	printBuffer
 		buffer = 3
 		minLength = 2
@@ -136,7 +136,7 @@ script 7 mmbn6 {
 		minLength = 2
 		padZeros = false
 		padLeft = true
-	"て"
+	"/"
 	printBuffer
 		buffer = 3
 		minLength = 2

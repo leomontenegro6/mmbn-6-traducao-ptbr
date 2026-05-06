@@ -10,7 +10,7 @@ script 0 mmbn6 {
 		delay = 0
 	"""
 	Qual encomendamos?
-	Botões LてR: Página
+	Botões L/R: Página
 	Botão B: Sair
 	"""
 	waitHold
@@ -24,7 +24,7 @@ script 1 mmbn6 {
 		delay = 0
 	"""
 	O que quer fazer?
-	Botões LてR: Página
+	Botões L/R: Página
 	Botão B: Sair
 	"""
 	waitHold

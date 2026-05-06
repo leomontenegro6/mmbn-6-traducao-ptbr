@@ -314,7 +314,7 @@ script 12 mmbn6 {
 		count = 9
 	"""
 	OK
-	(EてD:Cursor CてB:Núm)
+	(E/D: Cursor C/B: Núm)
 	"""
 	flagSet
 		flag = 5925

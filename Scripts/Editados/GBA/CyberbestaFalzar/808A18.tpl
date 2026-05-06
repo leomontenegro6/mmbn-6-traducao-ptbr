@@ -33,7 +33,7 @@ script 4 mmbn6s {
 	end
 }
 script 5 mmbn6s {
-	"PてMてG"
+	"P/M/G"
 	end
 }
 script 6 mmbn6s {

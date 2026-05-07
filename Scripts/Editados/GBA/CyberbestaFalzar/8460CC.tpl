@@ -32,8 +32,8 @@ script 1 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	It has a map of
-	CentralArea1 on it.
+	Nele, há um mapa
+	da Área Central 1.
 	"""
 	keyWait
 		any = false

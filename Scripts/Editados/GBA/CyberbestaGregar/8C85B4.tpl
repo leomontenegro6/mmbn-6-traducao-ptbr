@@ -210,7 +210,7 @@ script 13 mmbn6 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Éé melhor a gente voltar
+	É melhor a gente voltar
 	pro Aquário também!
 	"""
 	keyWait

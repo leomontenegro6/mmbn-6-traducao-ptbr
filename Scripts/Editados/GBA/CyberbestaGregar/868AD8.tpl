@@ -522,8 +522,8 @@ script 222 mmbn6 {
 	msgOpen
 	"""
 	Operar o ElecMan...
-	Me faz sentir um
-	surto de energia!!
+	Me dá um surto
+	de energia!!
 	"""
 	keyWait
 		any = false
@@ -548,7 +548,7 @@ script 224 mmbn6 {
 	"""
 	Operar o KillerMan
 	é uma sensação de
-	matar... Mua ha ha ha!
+	matar... Mua ha ha!
 	"""
 	keyWait
 		any = false
@@ -612,7 +612,7 @@ script 229 mmbn6 {
 	msgOpen
 	"""
 	Operar o GroundMan
-	me dá vontade de
+	me faz querer
 	perfurar os céus!
 	"""
 	keyWait

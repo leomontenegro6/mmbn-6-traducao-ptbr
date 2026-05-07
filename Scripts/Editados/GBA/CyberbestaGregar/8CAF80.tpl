@@ -633,7 +633,7 @@ script 32 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Eu nuna ia imaginar...
+	Eu nunca ia imaginar...
 	"""
 	keyWait
 		any = false

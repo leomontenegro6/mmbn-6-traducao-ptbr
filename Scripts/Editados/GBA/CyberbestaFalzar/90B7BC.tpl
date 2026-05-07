@@ -14,7 +14,7 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Proxa de Seleção
+	Prova de Seleção
 	de Navi Operador!
 	"""
 	keyWait

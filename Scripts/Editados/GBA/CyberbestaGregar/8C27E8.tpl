@@ -13,7 +13,7 @@ script 0 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Boa COMEÇAR esta AULA
+	Bora COMEÇAR esta AULA
 	de DELEÇÃO DE VÍRUS!
 	"""
 	keyWait

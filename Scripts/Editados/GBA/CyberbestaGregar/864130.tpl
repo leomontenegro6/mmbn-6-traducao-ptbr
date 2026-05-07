@@ -546,8 +546,8 @@ script 100 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora pra Undernet achar
-	aquela Pedra da Lua!
+	Bora pra Undernet
+	achar a Pedra da Lua!
 	"""
 	keyWait
 		any = false
@@ -558,9 +558,9 @@ script 101 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Contemplar o céu... Será
-	que tem alguma relação
-	com a Pedra da Lua?
+	Contemplar o céu...
+	Isso tem relação com
+	a Pedra da Lua?
 	"""
 	keyWait
 		any = false
@@ -583,7 +583,7 @@ script 102 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	E ela tá agora?!
+	E onde ela tá agora?!
 	"""
 	keyWait
 		any = false
@@ -601,14 +601,13 @@ script 103 mmbn6 {
 		any = false
 	clearMsg
 	"""
-	Mas onde será
-	que ela tá agora?!
+	Mas onde é que ela tá?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Parece que ela trabalha
+	Parece que trabalha
 	em alguma loja aí...
 	"""
 	keyWait
@@ -644,7 +643,7 @@ script 106 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Agora que a gente pegou
+	Agora que pegamos
 	a Pedra da Lua, simbora!
 	"""
 	keyWait
@@ -732,7 +731,7 @@ script 116 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta, MegaMan!
+	Desconecta!
 	Bora dar um "oi" pra
 	todo mundo no pedaço!
 	"""
@@ -756,7 +755,7 @@ script 118 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Um Prog perdido, é...?
+	Um Prog perdido...
 	Bora achar ele!
 	"""
 	keyWait
@@ -805,8 +804,8 @@ script 122 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora pra frente dos
-	patos da Área ACDC!
+	Bora pra frente
+	dos patos!
 	"""
 	keyWait
 		any = false
@@ -905,8 +904,8 @@ script 137 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Eu tenho que fazer o
-	Prefeito baixar aquela
+	Tenho que fazer o
+	Prefeito baixar a
 	cyberbarreira...
 	"""
 	keyWait
@@ -937,7 +936,7 @@ script 139 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta! A gente tem
+	Desconecta! Temos
 	que ir pra Diretoria!
 	"""
 	keyWait
@@ -1053,8 +1052,8 @@ script 153 mmbn6 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta... Hora de
-	encarar a prova final
+	Desconecta...
+	Hora da prova final
 	da Srta. Zap!!
 	"""
 	keyWait
@@ -1334,8 +1333,8 @@ script 222 mmbn6 {
 	msgOpen
 	"""
 	Operar o ElecMan...
-	Me faz sentir um
-	surto de energia!!
+	Me dá um surto
+	de energia!!
 	"""
 	keyWait
 		any = false
@@ -1360,7 +1359,7 @@ script 224 mmbn6 {
 	"""
 	Operar o KillerMan
 	é uma sensação de
-	matar... Mua ha ha ha!
+	matar... Mua ha ha!
 	"""
 	keyWait
 		any = false

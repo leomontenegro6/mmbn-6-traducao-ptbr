@@ -2244,7 +2244,7 @@ script 122 mmbn6 {
 	clearMsg
 	"""
 	Não gostaria
-	de assistí-la?
+	de assisti-la?
 	"""
 	keyWait
 		any = false
